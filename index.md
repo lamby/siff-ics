@@ -14,7 +14,7 @@ layout: default
 
 <ul>
     <li>
-        All events (<a href="ics/all.ics?{{ site.github.build_revision }}">ICS</a>,
+        <strong>All events</strong> (<a href="ics/all.ics?{{ site.github.build_revision }}">ICS</a>,
         <a href="https://larrybolt.github.io/online-ics-feed-viewer/#feed={{ site.url|url_encode }}{{ site.baseurl|url_encode }}/ics/all.ics%3F{{ site.github.build_revision }}&cors=false&title=All&20events">View</a>)
     </li>
 {% for venue in site.data.venues %}
