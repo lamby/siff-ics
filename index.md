@@ -46,4 +46,3 @@ layout: default
 <p><a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}">Last update</a></p>
 
 </body>
-</html>
