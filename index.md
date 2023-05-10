@@ -12,11 +12,13 @@ layout: default
 
 <h1>ICS files for SIFF 2023</h1>
 
+<p>
+  <big><strong><a href="ics/all.ics?{{ site.github.build_revision }}">All events</a></strong> (.ics)</big>
+</p>
+
+<p>Venues:</p>
+
 <ul>
-    <li>
-        <strong>All events</strong> (<a href="ics/all.ics?{{ site.github.build_revision }}">ICS</a>,
-        <a href="https://larrybolt.github.io/online-ics-feed-viewer/#feed={{ site.url|url_encode }}{{ site.baseurl|url_encode }}/ics/all.ics%3F{{ site.github.build_revision }}&cors=false&title=All&20events">View</a>)
-    </li>
 {% for venue in site.data.venues %}
 <li>
     {{ venue["VenueName"] }} (<a href="ics/{{ venue.VenueSlug }}.ics?{{ site.github.build_revision }}">ICS</a>,
@@ -24,5 +26,11 @@ layout: default
 </li>
 {% endfor %}
 </ul>
+
+<h2>Instructions</h2>
+
+<p>
+  <img src="assets/screenshot.png?{{ site.github.build_revision }}">
+</p>
 
 <p><a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}">Last update</a></p>
