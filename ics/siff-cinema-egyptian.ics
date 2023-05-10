@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230510T185423Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230510T192204Z
 NAME:SIFF 2023 (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF 2023 (SIFF Cinema Egyptian)
 BEGIN:VEVENT
@@ -11,8 +11,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230512T223100Z
 DTSTAMP;VALUE=DATE-TIME:20230512T203000Z
 UID:y8isNryOBF
 DESCRIPTION:https://www.siff.net/festival/four-little-adults\n\nDuration: 
- 121 mins (2h01m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Fri 12 May\, 
- 01:30 PM)
+ 121 mins (2h01m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Fri
+  19 May\, 09:15 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -22,8 +22,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T003700Z
 DTSTAMP;VALUE=DATE-TIME:20230512T231500Z
 UID:HD7dTOdE4c
 DESCRIPTION:https://www.siff.net/festival/whale-nation\n\nDuration: 82 min
- s (1h22m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Fri 12 May\, 04:15 P
- M)
+ s (1h22m)\n\nAlso playing at:\n • Shoreline CC Theater (Tue 16 May\, 06:
+ 00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -33,8 +33,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T030900Z
 DTSTAMP;VALUE=DATE-TIME:20230513T013000Z
 UID:6m5hBirQn3
 DESCRIPTION:https://www.siff.net/festival/the-mattachine-family\n\nDuratio
- n: 99 mins (1h39m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Fri 12 May\
- , 06:30 PM)
+ n: 99 mins (1h39m)\n\nAlso playing at:\n • AMC Pacific Place 11 (Sat 13 
+ May\, 01:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +44,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T061500Z
 DTSTAMP;VALUE=DATE-TIME:20230513T043000Z
 UID:Vou0joVdgR
 DESCRIPTION:https://www.siff.net/festival/love-to-love-you-donna-summer\n\
- nDuration: 105 mins (1h45m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Fr
- i 12 May\, 09:30 PM)
+ nDuration: 105 mins (1h45m)\n\nAlso playing at:\n • SIFF Cinema Uptown H
+ ouse 1 (Sat 13 May\, 02:30 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -55,8 +55,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T083500Z
 DTSTAMP;VALUE=DATE-TIME:20230513T065900Z
 UID:rgPyvFwBYS
 DESCRIPTION:https://www.siff.net/festival/the-visitor-from-the-future\n\nD
- uration: 96 mins (1h36m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Fri 1
- 2 May\, 11:59 PM)
+ uration: 96 mins (1h36m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (F
+ ri 19 May\, 01:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -66,8 +66,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T202700Z
 DTSTAMP;VALUE=DATE-TIME:20230513T180000Z
 UID:TnZ8mSRV1P
 DESCRIPTION:https://www.siff.net/festival/the-eight-mountains\n\nDuration:
-  147 mins (2h27m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Sat 13 May\,
-  11:00 AM)
+  147 mins (2h27m)\n\nAlso playing at:\n • Shoreline CC Theater (Fri 12 M
+ ay\, 07:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -87,8 +87,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T032200Z
 DTSTAMP;VALUE=DATE-TIME:20230514T014500Z
 UID:hWnyIWNjoO
 DESCRIPTION:https://www.siff.net/festival/year-of-the-fox\n\nDuration: 97 
- mins (1h37m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Sat 13 May\, 06:4
- 5 PM)
+ mins (1h37m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Sun 14 
+ May\, 12:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -108,8 +108,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T083700Z
 DTSTAMP;VALUE=DATE-TIME:20230514T065900Z
 UID:9woB4G6jEf
 DESCRIPTION:https://www.siff.net/festival/the-last-exit\n\nDuration: 98 mi
- ns (1h38m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Sat 13 May\, 11:59 
- PM)
+ ns (1h38m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Tue 16 Ma
+ y\, 09:15 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -129,7 +129,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T002000Z
 DTSTAMP;VALUE=DATE-TIME:20230514T230000Z
 UID:fighqEZyfe
 DESCRIPTION:https://www.siff.net/festival/anu\n\nDuration: 80 mins (1h20m)
- \n\nAlso playing:\n\n* SIFF Cinema Egyptian (Sun 14 May\, 04:00 PM)
+ \n\nAlso playing at:\n • Shoreline CC Theater (Mon 15 May\, 06:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -139,8 +139,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T030000Z
 DTSTAMP;VALUE=DATE-TIME:20230515T013000Z
 UID:jw1YtOXh96
 DESCRIPTION:https://www.siff.net/festival/satan-wants-you\n\nDuration: 90 
- mins (1h30m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Sun 14 May\, 06:3
- 0 PM)
+ mins (1h30m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Mon 15 May\, 
+ 04:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -150,7 +150,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T053100Z
 DTSTAMP;VALUE=DATE-TIME:20230515T040000Z
 UID:8g3ntgvvPT
 DESCRIPTION:https://www.siff.net/festival/passages\n\nDuration: 91 mins (1
- h31m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Sun 14 May\, 09:00 PM)
+ h31m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Thu 18 May\, 04:00 P
+ M)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -160,7 +161,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T220200Z
 DTSTAMP;VALUE=DATE-TIME:20230515T203000Z
 UID:8jZcHDUM2V
 DESCRIPTION:https://www.siff.net/festival/the-fishbowl\n\nDuration: 92 min
- s (1h32m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Mon 15 May\, 01:30 P
+ s (1h32m)\n\nAlso playing at:\n • SIFF Film Center (Sun 14 May\, 07:30 P
  M)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
@@ -171,8 +172,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T003000Z
 DTSTAMP;VALUE=DATE-TIME:20230515T230000Z
 UID:ZFkVx9nYEM
 DESCRIPTION:https://www.siff.net/festival/satan-wants-you\n\nDuration: 90 
- mins (1h30m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Mon 15 May\, 04:0
- 0 PM)
+ mins (1h30m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Sun 14 May\, 
+ 06:30 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -192,8 +193,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T060000Z
 DTSTAMP;VALUE=DATE-TIME:20230516T040000Z
 UID:ATRYhZ6OVn
 DESCRIPTION:https://www.siff.net/festival/table-for-six\n\nDuration: 120 m
- ins (2h00m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Mon 15 May\, 09:00
-  PM)
+ ins (2h00m)\n\nAlso playing at:\n • Shoreline CC Theater (Thu 18 May\, 0
+ 5:45 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -203,8 +204,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T221500Z
 DTSTAMP;VALUE=DATE-TIME:20230516T200000Z
 UID:1R9er5O55a
 DESCRIPTION:https://www.siff.net/festival/coo-coo-043\n\nDuration: 135 min
- s (2h15m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Tue 16 May\, 01:00 P
- M)
+ s (2h15m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Sat 20 May\, 06:00 
+ PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -214,8 +215,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T003800Z
 DTSTAMP;VALUE=DATE-TIME:20230516T230000Z
 UID:25cTFeFysk
 DESCRIPTION:https://www.siff.net/festival/let-the-dance-begin\n\nDuration:
-  98 mins (1h38m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Tue 16 May\, 
- 04:00 PM)
+  98 mins (1h38m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Wed
+  17 May\, 08:30 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -235,8 +236,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T061700Z
 DTSTAMP;VALUE=DATE-TIME:20230517T040000Z
 UID:G4HuywFrRV
 DESCRIPTION:https://www.siff.net/festival/the-beasts\n\nDuration: 137 mins
-  (2h17m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Tue 16 May\, 09:00 PM
- )
+  (2h17m)\n\nAlso playing at:\n • Shoreline CC Theater (Fri 19 May\, 08:3
+ 0 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -246,7 +247,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T214300Z
 DTSTAMP;VALUE=DATE-TIME:20230517T201500Z
 UID:klO3stFsTO
 DESCRIPTION:https://www.siff.net/festival/sonne\n\nDuration: 88 mins (1h28
- m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Wed 17 May\, 01:15 PM)
+ m)\n\nAlso playing at:\n • SIFF Film Center (Fri 19 May\, 08:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -256,8 +257,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T002200Z
 DTSTAMP;VALUE=DATE-TIME:20230517T223000Z
 UID:SGmFq5FI5s
 DESCRIPTION:https://www.siff.net/festival/the-sunny-side-of-the-street\n\n
- Duration: 112 mins (1h52m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Wed
-  17 May\, 03:30 PM)
+ Duration: 112 mins (1h52m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Tu
+ e 16 May\, 08:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -267,8 +268,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T030500Z
 DTSTAMP;VALUE=DATE-TIME:20230518T011500Z
 UID:Tb5ETuLd6K
 DESCRIPTION:https://www.siff.net/festival/even-hell-has-its-heroes\n\nDura
- tion: 110 mins (1h50m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Wed 17 
- May\, 06:15 PM)
+ tion: 110 mins (1h50m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Thu 18
+  May\, 08:30 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -278,7 +279,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T061000Z
 DTSTAMP;VALUE=DATE-TIME:20230518T043000Z
 UID:s0a2nYfmHK
 DESCRIPTION:https://www.siff.net/festival/my-animal\n\nDuration: 100 mins 
- (1h40m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Wed 17 May\, 09:30 PM)
+ (1h40m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Sat 13 May\, 08:15 PM
+ )
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -288,8 +290,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T220600Z
 DTSTAMP;VALUE=DATE-TIME:20230518T200000Z
 UID:idn0Aby1aF
 DESCRIPTION:https://www.siff.net/festival/the-hummingbird\n\nDuration: 126
-  mins (2h06m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Thu 18 May\, 01:
- 00 PM)
+  mins (2h06m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Sun 21
+  May\, 03:45 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -299,7 +301,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T003100Z
 DTSTAMP;VALUE=DATE-TIME:20230518T230000Z
 UID:wKUiPeFVoK
 DESCRIPTION:https://www.siff.net/festival/passages\n\nDuration: 91 mins (1
- h31m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Thu 18 May\, 04:00 PM)
+ h31m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Sun 14 May\, 09:00 P
+ M)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -309,7 +312,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T030700Z
 DTSTAMP;VALUE=DATE-TIME:20230519T013000Z
 UID:2V0w1hWejV
 DESCRIPTION:https://www.siff.net/festival/limmensita\n\nDuration: 97 mins 
- (1h37m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Thu 18 May\, 06:30 PM)
+ (1h37m)\n\nAlso playing at:\n • Shoreline CC Theater (Wed 17 May\, 06:00
+  PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -339,8 +343,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T213600Z
 DTSTAMP;VALUE=DATE-TIME:20230519T200000Z
 UID:awo3gsumFg
 DESCRIPTION:https://www.siff.net/festival/the-visitor-from-the-future\n\nD
- uration: 96 mins (1h36m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Fri 1
- 9 May\, 01:00 PM)
+ uration: 96 mins (1h36m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (F
+ ri 12 May\, 11:59 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -350,8 +354,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T002600Z
 DTSTAMP;VALUE=DATE-TIME:20230519T223000Z
 UID:uLohaXhAPJ
 DESCRIPTION:https://www.siff.net/festival/lonely-castle-in-the-mirror\n\nD
- uration: 116 mins (1h56m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Fri 
- 19 May\, 03:30 PM)
+ uration: 116 mins (1h56m)\n\nAlso playing at:\n • Shoreline CC Theater (
+ Sun 14 May\, 04:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -373,7 +377,7 @@ DTSTAMP;VALUE=DATE-TIME:20230520T043000Z
 UID:SUwFXmuugU
 DESCRIPTION:https://www.siff.net/festival/circus-of-the-scars-the-insider-
  odyssey-of-the-jim-rose-circus-sideshow\n\nDuration: 96 mins (1h36m)\n\nAl
- so playing:\n\n* SIFF Cinema Egyptian (Fri 19 May\, 09:30 PM)
+ so playing at:\n • SIFF Cinema Uptown House 2 (Sun 21 May\, 02:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -383,8 +387,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T084200Z
 DTSTAMP;VALUE=DATE-TIME:20230520T065900Z
 UID:NpxGZ8MowX
 DESCRIPTION:https://www.siff.net/festival/demigod-the-legend-begins\n\nDur
- ation: 103 mins (1h43m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Fri 19
-  May\, 11:59 PM)
+ ation: 103 mins (1h43m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Sat 2
+ 0 May\, 09:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -394,8 +398,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T192000Z
 DTSTAMP;VALUE=DATE-TIME:20230520T180000Z
 UID:jTACO8DDCb
 DESCRIPTION:https://www.siff.net/festival/ernest-and-celestine-a-trip-to-g
- ibberitia\n\nDuration: 80 mins (1h20m)\n\nAlso playing:\n\n* SIFF Cinema E
- gyptian (Sat 20 May\, 11:00 AM)
+ ibberitia\n\nDuration: 80 mins (1h20m)\n\nAlso playing at:\n • Shoreline
+  CC Theater (Sat 13 May\, 01:30 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -405,8 +409,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T213900Z
 DTSTAMP;VALUE=DATE-TIME:20230520T200000Z
 UID:q4W2yedleC
 DESCRIPTION:https://www.siff.net/festival/food-and-country\n\nDuration: 99
-  mins (1h39m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Sat 20 May\, 01:
- 00 PM)
+  mins (1h39m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Sun 21
+  May\, 04:30 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -416,7 +420,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T003000Z
 DTSTAMP;VALUE=DATE-TIME:20230520T230000Z
 UID:2lODRwW6Fj
 DESCRIPTION:https://www.siff.net/festival/ajoomma\n\nDuration: 90 mins (1h
- 30m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Sat 20 May\, 04:00 PM)
+ 30m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Sat 13 May\, 06:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -426,8 +430,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T032000Z
 DTSTAMP;VALUE=DATE-TIME:20230521T013000Z
 UID:CKNm2SLH6R
 DESCRIPTION:https://www.siff.net/festival/dreamin-wild\n\nDuration: 110 mi
- ns (1h50m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Sat 20 May\, 06:30 
- PM)
+ ns (1h50m)\n\nAlso playing at:\n • Shoreline CC Theater (Sun 21 May\, 06
+ :30 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -437,8 +441,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T062100Z
 DTSTAMP;VALUE=DATE-TIME:20230521T043000Z
 UID:HTHMvlu9D9
 DESCRIPTION:https://www.siff.net/festival/ingeborg-bachmann-journey-into-t
- he-desert\n\nDuration: 111 mins (1h51m)\n\nAlso playing:\n\n* SIFF Cinema 
- Egyptian (Sat 20 May\, 09:30 PM)
+ he-desert\n\nDuration: 111 mins (1h51m)\n\nAlso playing at:\n • SIFF Cin
+ ema Egyptian (Sun 21 May\, 02:00 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -448,8 +452,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T082100Z
 DTSTAMP;VALUE=DATE-TIME:20230521T065900Z
 UID:4KK6COSbqr
 DESCRIPTION:https://www.siff.net/festival/mother-superior\n\nDuration: 82 
- mins (1h22m)\n\nAlso playing:\n\n* SIFF Cinema Egyptian (Sat 20 May\, 11:5
- 9 PM)
+ mins (1h22m)\n\nAlso playing at:\n • AMC Pacific Place 11 (Sun 21 May\, 
+ 06:30 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -459,8 +463,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T225100Z
 DTSTAMP;VALUE=DATE-TIME:20230521T210000Z
 UID:fuHvlvWxpk
 DESCRIPTION:https://www.siff.net/festival/ingeborg-bachmann-journey-into-t
- he-desert\n\nDuration: 111 mins (1h51m)\n\nAlso playing:\n\n* SIFF Cinema 
- Egyptian (Sun 21 May\, 02:00 PM)
+ he-desert\n\nDuration: 111 mins (1h51m)\n\nAlso playing at:\n • SIFF Cin
+ ema Egyptian (Sat 20 May\, 09:30 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT

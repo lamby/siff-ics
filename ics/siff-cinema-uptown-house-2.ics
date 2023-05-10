@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230510T185423Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230510T192204Z
 NAME:SIFF 2023 (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF 2023 (SIFF Cinema Uptown House 2)
 BEGIN:VEVENT
@@ -11,8 +11,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230512T202200Z
 DTSTAMP;VALUE=DATE-TIME:20230512T190000Z
 UID:RkvTPI0A7r
 DESCRIPTION:https://www.siff.net/festival/retreat\n\nDuration: 82 mins (1h
- 22m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Fri 12 May\, 12:00 
- PM)
+ 22m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Sun 21 May\, 07
+ :00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -22,8 +22,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230512T230400Z
 DTSTAMP;VALUE=DATE-TIME:20230512T213000Z
 UID:6ZvCK9tNYc
 DESCRIPTION:https://www.siff.net/festival/20-days-in-mariupol\n\nDuration:
-  94 mins (1h34m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Fri 12 
- May\, 02:30 PM)
+  94 mins (1h34m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Fri 19 May\,
+  06:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -33,8 +33,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T015900Z
 DTSTAMP;VALUE=DATE-TIME:20230513T000000Z
 UID:JKWu6NGQCX
 DESCRIPTION:https://www.siff.net/festival/opponent\n\nDuration: 119 mins (
- 1h59m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Fri 12 May\, 05:0
- 0 PM)
+ 1h59m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Sat 13 May\, 
+ 12:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +44,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T043900Z
 DTSTAMP;VALUE=DATE-TIME:20230513T030000Z
 UID:eVSTAO2TUA
 DESCRIPTION:https://www.siff.net/festival/art-for-everybody\n\nDuration: 9
- 9 mins (1h39m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Fri 12 Ma
- y\, 08:00 PM)
+ 9 mins (1h39m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 3 (Sat 1
+ 3 May\, 11:00 AM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -55,8 +55,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T205900Z
 DTSTAMP;VALUE=DATE-TIME:20230513T190000Z
 UID:km4uKmugP9
 DESCRIPTION:https://www.siff.net/festival/opponent\n\nDuration: 119 mins (
- 1h59m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Sat 13 May\, 12:0
- 0 PM)
+ 1h59m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Fri 12 May\, 
+ 05:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -76,8 +76,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T023200Z
 DTSTAMP;VALUE=DATE-TIME:20230514T010000Z
 UID:qGoyOTeJ3t
 DESCRIPTION:https://www.siff.net/festival/late-bloomers\n\nDuration: 92 mi
- ns (1h32m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Sat 13 May\, 
- 06:00 PM)
+ ns (1h32m)\n\nAlso playing at:\n • AMC Pacific Place 11 (Sun 14 May\, 04
+ :15 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -87,8 +87,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T052200Z
 DTSTAMP;VALUE=DATE-TIME:20230514T040000Z
 UID:tpsS0O3RqB
 DESCRIPTION:https://www.siff.net/festival/max-roach-the-drum-also-waltzes\
- n\nDuration: 82 mins (1h22m)\n\nAlso playing:\n\n* SIFF Cinema Uptown Hous
- e 2 (Sat 13 May\, 09:00 PM)
+ n\nDuration: 82 mins (1h22m)\n\nAlso playing at:\n • AMC Pacific Place 1
+ 1 (Mon 15 May\, 03:45 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -108,8 +108,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T231500Z
 DTSTAMP;VALUE=DATE-TIME:20230514T213000Z
 UID:o0mOaYZLnt
 DESCRIPTION:https://www.siff.net/festival/one-day-all-this-will-be-yours\n
- \nDuration: 105 mins (1h45m)\n\nAlso playing:\n\n* SIFF Cinema Uptown Hous
- e 2 (Sun 14 May\, 02:30 PM)
+ \nDuration: 105 mins (1h45m)\n\nAlso playing at:\n • AMC Pacific Place 1
+ 1 (Fri 12 May\, 06:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -119,8 +119,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T014800Z
 DTSTAMP;VALUE=DATE-TIME:20230515T003000Z
 UID:Sg4gpS23OT
 DESCRIPTION:https://www.siff.net/festival/stella\n\nDuration: 78 mins (1h1
- 8m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Sun 14 May\, 05:30 P
- M)
+ 8m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Sat 13 May\, 03:45 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -130,8 +129,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T044600Z
 DTSTAMP;VALUE=DATE-TIME:20230515T030000Z
 UID:42enbpbsSP
 DESCRIPTION:https://www.siff.net/festival/monica\n\nDuration: 106 mins (1h
- 46m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Sun 14 May\, 08:00 
- PM)
+ 46m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Mon 15 May\, 03
+ :00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -141,8 +140,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T210800Z
 DTSTAMP;VALUE=DATE-TIME:20230515T193000Z
 UID:oZaskuPuV8
 DESCRIPTION:https://www.siff.net/festival/until-branches-bend\n\nDuration:
-  98 mins (1h38m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Mon 15 
- May\, 12:30 PM)
+  98 mins (1h38m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 3 (Sat
+  13 May\, 08:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -152,8 +151,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T234600Z
 DTSTAMP;VALUE=DATE-TIME:20230515T220000Z
 UID:JRkWj8b6Co
 DESCRIPTION:https://www.siff.net/festival/monica\n\nDuration: 106 mins (1h
- 46m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Mon 15 May\, 03:00 
- PM)
+ 46m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Sun 14 May\, 08
+ :00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +162,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T023100Z
 DTSTAMP;VALUE=DATE-TIME:20230516T010000Z
 UID:5Youcdwqkp
 DESCRIPTION:https://www.siff.net/festival/motherland\n\nDuration: 91 mins 
- (1h31m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Mon 15 May\, 06:
- 00 PM)
+ (1h31m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 3 (Tue 16 May\,
+  03:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -174,8 +173,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T053900Z
 DTSTAMP;VALUE=DATE-TIME:20230516T034500Z
 UID:G4JUX6sX3f
 DESCRIPTION:https://www.siff.net/festival/irati\n\nDuration: 114 mins (1h5
- 4m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Mon 15 May\, 08:45 P
- M)
+ 4m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Sun 14 May\, 09:
+ 00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -185,8 +184,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T214400Z
 DTSTAMP;VALUE=DATE-TIME:20230516T200000Z
 UID:ejwFBeBxhH
 DESCRIPTION:https://www.siff.net/festival/a-house-in-jerusalem\n\nDuration
- : 104 mins (1h44m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Tue 1
- 6 May\, 01:00 PM)
+ : 104 mins (1h44m)\n\nAlso playing at:\n • AMC Pacific Place 11 (Mon 15 
+ May\, 06:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -196,8 +195,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T001800Z
 DTSTAMP;VALUE=DATE-TIME:20230516T224500Z
 UID:i9gJyNbwjZ
 DESCRIPTION:https://www.siff.net/festival/snow-and-the-bear\n\nDuration: 9
- 3 mins (1h33m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Tue 16 Ma
- y\, 03:45 PM)
+ 3 mins (1h33m)\n\nAlso playing at:\n • AMC Pacific Place 11 (Sun 14 May\
+ , 06:45 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -207,8 +206,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T030200Z
 DTSTAMP;VALUE=DATE-TIME:20230517T013000Z
 UID:pJNpe21AVH
 DESCRIPTION:https://www.siff.net/festival/dancing-queen\n\nDuration: 92 mi
- ns (1h32m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Tue 16 May\, 
- 06:30 PM)
+ ns (1h32m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Wed 17 Ma
+ y\, 03:30 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -218,8 +217,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T052200Z
 DTSTAMP;VALUE=DATE-TIME:20230517T034500Z
 UID:UsU1h448gS
 DESCRIPTION:https://www.siff.net/festival/blue-jean\n\nDuration: 97 mins (
- 1h37m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Tue 16 May\, 08:4
- 5 PM)
+ 1h37m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 3 (Sun 21 May\, 
+ 01:30 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -229,8 +228,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T210700Z
 DTSTAMP;VALUE=DATE-TIME:20230517T193000Z
 UID:WFrEYZDsOa
 DESCRIPTION:https://www.siff.net/festival/against-the-tide\n\nDuration: 97
-  mins (1h37m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Wed 17 May
- \, 12:30 PM)
+  mins (1h37m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Mon 15 May\, 08
+ :00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -240,8 +239,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T233600Z
 DTSTAMP;VALUE=DATE-TIME:20230517T220000Z
 UID:y58oLbxHUj
 DESCRIPTION:https://www.siff.net/festival/hidden-master-the-legacy-of-geor
- ge-platt-lynes\n\nDuration: 96 mins (1h36m)\n\nAlso playing:\n\n* SIFF Cin
- ema Uptown House 2 (Wed 17 May\, 03:00 PM)
+ ge-platt-lynes\n\nDuration: 96 mins (1h36m)\n\nAlso playing at:\n • AMC 
+ Pacific Place 11 (Thu 18 May\, 06:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -251,8 +250,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T020700Z
 DTSTAMP;VALUE=DATE-TIME:20230518T001500Z
 UID:7s0ZlkI7Bg
 DESCRIPTION:https://www.siff.net/festival/gaga\n\nDuration: 112 mins (1h52
- m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Wed 17 May\, 05:15 PM
- )
+ m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Sat 20 May\, 12:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -262,8 +260,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T044700Z
 DTSTAMP;VALUE=DATE-TIME:20230518T030000Z
 UID:gnyKQkM7Y4
 DESCRIPTION:https://www.siff.net/festival/mami-wata-a-west-afrikan-folklor
- e\n\nDuration: 107 mins (1h47m)\n\nAlso playing:\n\n* SIFF Cinema Uptown H
- ouse 2 (Wed 17 May\, 08:00 PM)
+ e\n\nDuration: 107 mins (1h47m)\n\nAlso playing at:\n • Ark Lodge Cinema
+ s (Fri 12 May\, 03:30 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -273,8 +271,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T203400Z
 DTSTAMP;VALUE=DATE-TIME:20230518T190000Z
 UID:ThaQxoS3EA
 DESCRIPTION:https://www.siff.net/festival/aitamaakotamisskapi-natosi-befor
- e-the-sun\n\nDuration: 94 mins (1h34m)\n\nAlso playing:\n\n* SIFF Cinema U
- ptown House 2 (Thu 18 May\, 12:00 PM)
+ e-the-sun\n\nDuration: 94 mins (1h34m)\n\nAlso playing at:\n • SIFF Cine
+ ma Uptown House 2 (Sat 20 May\, 05:30 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -285,8 +283,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T234100Z
 DTSTAMP;VALUE=DATE-TIME:20230518T220000Z
 UID:wwFsoNDtuu
 DESCRIPTION:https://www.siff.net/festival/desperate-souls-dark-city-and-th
- e-legend-of-midnight-cowboy\n\nDuration: 101 mins (1h41m)\n\nAlso playing:
- \n\n* SIFF Cinema Uptown House 2 (Thu 18 May\, 03:00 PM)
+ e-legend-of-midnight-cowboy\n\nDuration: 101 mins (1h41m)\n\nAlso playing 
+ at:\n • AMC Pacific Place 11 (Sun 14 May\, 09:15 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -296,8 +294,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T023800Z
 DTSTAMP;VALUE=DATE-TIME:20230519T004500Z
 UID:6vcq4iFcw7
 DESCRIPTION:https://www.siff.net/festival/bad-press\n\nDuration: 113 mins 
- (1h53m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Thu 18 May\, 05:
- 45 PM)
+ (1h53m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Sat 20 May\, 03:00 PM
+ )
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -307,8 +305,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T051200Z
 DTSTAMP;VALUE=DATE-TIME:20230519T033000Z
 UID:wBHCeICjv4
 DESCRIPTION:https://www.siff.net/festival/the-quiet-migration\n\nDuration:
-  102 mins (1h42m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Thu 18
-  May\, 08:30 PM)
+  102 mins (1h42m)\n\nAlso playing at:\n • Shoreline CC Theater (Sun 21 M
+ ay\, 01:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -318,8 +316,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T205900Z
 DTSTAMP;VALUE=DATE-TIME:20230519T193000Z
 UID:2Xv7B3ttBA
 DESCRIPTION:https://www.siff.net/festival/coyote\n\nDuration: 89 mins (1h2
- 9m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Fri 19 May\, 12:30 P
- M)
+ 9m)\n\nAlso playing at:\n • SIFF Film Center (Fri 12 May\, 07:30 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -329,8 +326,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T232600Z
 DTSTAMP;VALUE=DATE-TIME:20230519T220000Z
 UID:0wuA9uTpux
 DESCRIPTION:https://www.siff.net/festival/a-disturbance-in-the-force\n\nDu
- ration: 86 mins (1h26m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (
- Fri 19 May\, 03:00 PM)
+ ration: 86 mins (1h26m)\n\nAlso playing at:\n • Shoreline CC Theater (Th
+ u 18 May\, 08:30 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -340,8 +337,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T021300Z
 DTSTAMP;VALUE=DATE-TIME:20230520T003000Z
 UID:gqCkW2mAXO
 DESCRIPTION:https://www.siff.net/festival/we-are-still-here\n\nDuration: 1
- 03 mins (1h43m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Fri 19 M
- ay\, 05:30 PM)
+ 03 mins (1h43m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Sun 
+ 21 May\, 10:30 AM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -371,8 +368,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T232700Z
 DTSTAMP;VALUE=DATE-TIME:20230520T220000Z
 UID:tOpvwxSUtA
 DESCRIPTION:https://www.siff.net/festival/egghead-and-twinkie\n\nDuration:
-  87 mins (1h27m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Sat 20 
- May\, 03:00 PM)
+  87 mins (1h27m)\n\nAlso playing at:\n • AMC Pacific Place 11 (Fri 19 Ma
+ y\, 06:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -382,8 +379,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T020400Z
 DTSTAMP;VALUE=DATE-TIME:20230521T003000Z
 UID:ERWW8MMG5T
 DESCRIPTION:https://www.siff.net/festival/aitamaakotamisskapi-natosi-befor
- e-the-sun\n\nDuration: 94 mins (1h34m)\n\nAlso playing:\n\n* SIFF Cinema U
- ptown House 2 (Sat 20 May\, 05:30 PM)
+ e-the-sun\n\nDuration: 94 mins (1h34m)\n\nAlso playing at:\n • SIFF Cine
+ ma Uptown House 2 (Thu 18 May\, 12:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -393,8 +390,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T042900Z
 DTSTAMP;VALUE=DATE-TIME:20230521T030000Z
 UID:6XSKjk0OUv
 DESCRIPTION:https://www.siff.net/festival/gloriavale\n\nDuration: 89 mins 
- (1h29m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Sat 20 May\, 08:
- 00 PM)
+ (1h29m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Sun 21 May\,
+  11:30 AM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -404,8 +401,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T195900Z
 DTSTAMP;VALUE=DATE-TIME:20230521T183000Z
 UID:ZaOCKeMWpE
 DESCRIPTION:https://www.siff.net/festival/gloriavale\n\nDuration: 89 mins 
- (1h29m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Sun 21 May\, 11:
- 30 AM)
+ (1h29m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Sat 20 May\,
+  08:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -417,7 +414,7 @@ DTSTAMP;VALUE=DATE-TIME:20230521T210000Z
 UID:HdSDookYrk
 DESCRIPTION:https://www.siff.net/festival/circus-of-the-scars-the-insider-
  odyssey-of-the-jim-rose-circus-sideshow\n\nDuration: 96 mins (1h36m)\n\nAl
- so playing:\n\n* SIFF Cinema Uptown House 2 (Sun 21 May\, 02:00 PM)
+ so playing at:\n • SIFF Cinema Egyptian (Fri 19 May\, 09:30 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -427,8 +424,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T010900Z
 DTSTAMP;VALUE=DATE-TIME:20230521T233000Z
 UID:awgda8n4Rg
 DESCRIPTION:https://www.siff.net/festival/food-and-country\n\nDuration: 99
-  mins (1h39m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Sun 21 May
- \, 04:30 PM)
+  mins (1h39m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Sat 20 May\,
+  01:00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -438,8 +435,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T032200Z
 DTSTAMP;VALUE=DATE-TIME:20230522T020000Z
 UID:t65ZcSvGU4
 DESCRIPTION:https://www.siff.net/festival/retreat\n\nDuration: 82 mins (1h
- 22m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 2 (Sun 21 May\, 07:00 
- PM)
+ 22m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Fri 12 May\, 12
+ :00 PM)
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

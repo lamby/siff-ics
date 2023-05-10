@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230510T185423Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230510T192204Z
 NAME:SIFF 2023 (SIFF Film Center)
 X-WR-CALNAME:SIFF 2023 (SIFF Film Center)
 BEGIN:VEVENT
@@ -11,8 +11,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T013800Z
 DTSTAMP;VALUE=DATE-TIME:20230513T000000Z
 UID:qH4G4tUk7V
 DESCRIPTION:https://www.siff.net/festival/fragments-of-paradise\n\nDuratio
- n: 98 mins (1h38m)\n\nAlso playing:\n\n* SIFF Film Center (Fri 12 May\, 05
- :00 PM)
+ n: 98 mins (1h38m)\n\nAlso playing at:\n • SIFF Film Center (Sat 13 May\
+ , 02:00 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T035900Z
 DTSTAMP;VALUE=DATE-TIME:20230513T023000Z
 UID:WlQpfJWNcu
 DESCRIPTION:https://www.siff.net/festival/coyote\n\nDuration: 89 mins (1h2
- 9m)\n\nAlso playing:\n\n* SIFF Film Center (Fri 12 May\, 07:30 PM)
+ 9m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Fri 19 May\, 12:
+ 30 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -32,8 +33,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T223800Z
 DTSTAMP;VALUE=DATE-TIME:20230513T210000Z
 UID:RC1QVgg3TM
 DESCRIPTION:https://www.siff.net/festival/fragments-of-paradise\n\nDuratio
- n: 98 mins (1h38m)\n\nAlso playing:\n\n* SIFF Film Center (Sat 13 May\, 02
- :00 PM)
+ n: 98 mins (1h38m)\n\nAlso playing at:\n • SIFF Film Center (Fri 12 May\
+ , 05:00 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +44,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T005800Z
 DTSTAMP;VALUE=DATE-TIME:20230513T233000Z
 UID:p0nnRGYptF
 DESCRIPTION:https://www.siff.net/festival/harka\n\nDuration: 88 mins (1h28
- m)\n\nAlso playing:\n\n* SIFF Film Center (Sat 13 May\, 04:30 PM)
+ m)\n\nAlso playing at:\n • AMC Pacific Place 11 (Mon 15 May\, 01:30 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +54,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T034100Z
 DTSTAMP;VALUE=DATE-TIME:20230514T020000Z
 UID:P8ML2GOlfk
 DESCRIPTION:https://www.siff.net/festival/falcon-lake\n\nDuration: 101 min
- s (1h41m)\n\nAlso playing:\n\n* SIFF Film Center (Sat 13 May\, 07:00 PM)
+ s (1h41m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 3 (Mon 15 May
+ \, 01:00 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +65,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T230000Z
 DTSTAMP;VALUE=DATE-TIME:20230514T210000Z
 UID:g0n87RMtKo
 DESCRIPTION:https://www.siff.net/festival/filip\n\nDuration: 120 mins (2h0
- 0m)\n\nAlso playing:\n\n* SIFF Film Center (Sun 14 May\, 02:00 PM)
+ 0m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Wed 17 May\, 08:45 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -73,8 +75,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T015000Z
 DTSTAMP;VALUE=DATE-TIME:20230514T234500Z
 UID:31SYLSi80G
 DESCRIPTION:https://www.siff.net/festival/to-kill-a-tiger\n\nDuration: 125
-  mins (2h05m)\n\nAlso playing:\n\n* SIFF Film Center (Sun 14 May\, 04:45 P
- M)
+  mins (2h05m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Sat 13 May\, 01
+ :00 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -84,7 +86,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T040200Z
 DTSTAMP;VALUE=DATE-TIME:20230515T023000Z
 UID:LiqpXD63y5
 DESCRIPTION:https://www.siff.net/festival/the-fishbowl\n\nDuration: 92 min
- s (1h32m)\n\nAlso playing:\n\n* SIFF Film Center (Sun 14 May\, 07:30 PM)
+ s (1h32m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Mon 15 May\, 01:
+ 30 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -94,8 +97,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T025000Z
 DTSTAMP;VALUE=DATE-TIME:20230517T013000Z
 UID:JTKcWhCuGS
 DESCRIPTION:https://www.siff.net/festival/sister-and-sister\n\nDuration: 8
- 0 mins (1h20m)\n\nAlso playing:\n\n* SIFF Film Center (Tue 16 May\, 06:30 
- PM)
+ 0 mins (1h20m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 3 (Wed 1
+ 7 May\, 12:00 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -105,8 +108,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T030400Z
 DTSTAMP;VALUE=DATE-TIME:20230518T013000Z
 UID:OpS9Iba560
 DESCRIPTION:https://www.siff.net/festival/hole-in-the-head\n\nDuration: 94
-  mins (1h34m)\n\nAlso playing:\n\n* SIFF Film Center (Wed 17 May\, 06:30 P
- M)
+  mins (1h34m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 3 (Tue 16
+  May\, 08:00 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -116,7 +119,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T022000Z
 DTSTAMP;VALUE=DATE-TIME:20230519T010000Z
 UID:JIIBxykJY6
 DESCRIPTION:https://www.siff.net/festival/mom\n\nDuration: 80 mins (1h20m)
- \n\nAlso playing:\n\n* SIFF Film Center (Thu 18 May\, 06:00 PM)
+ \n\nAlso playing at:\n • SIFF Cinema Uptown House 3 (Fri 19 May\, 01:30 
+ PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -126,8 +130,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T043500Z
 DTSTAMP;VALUE=DATE-TIME:20230519T030000Z
 UID:oPUlMCQrVy
 DESCRIPTION:https://www.siff.net/festival/the-happiest-man-in-the-world\n\
- nDuration: 95 mins (1h35m)\n\nAlso playing:\n\n* SIFF Film Center (Thu 18 
- May\, 08:00 PM)
+ nDuration: 95 mins (1h35m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Mo
+ n 15 May\, 03:30 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +151,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T042800Z
 DTSTAMP;VALUE=DATE-TIME:20230520T030000Z
 UID:f93a8sjtVX
 DESCRIPTION:https://www.siff.net/festival/sonne\n\nDuration: 88 mins (1h28
- m)\n\nAlso playing:\n\n* SIFF Film Center (Fri 19 May\, 08:00 PM)
+ m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Wed 17 May\, 01:15 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -167,7 +171,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T010800Z
 DTSTAMP;VALUE=DATE-TIME:20230521T000000Z
 UID:6vW1EtIJ07
 DESCRIPTION:https://www.siff.net/festival/adolfo\n\nDuration: 68 mins (1h0
- 8m)\n\nAlso playing:\n\n* SIFF Film Center (Sat 20 May\, 05:00 PM)
+ 8m)\n\nAlso playing at:\n • AMC Pacific Place 11 (Fri 19 May\, 01:00 PM)
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR

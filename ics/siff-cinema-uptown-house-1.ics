@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230510T185423Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230510T192204Z
 NAME:SIFF 2023 (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF 2023 (SIFF Cinema Uptown House 1)
 BEGIN:VEVENT
@@ -11,8 +11,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230512T212500Z
 DTSTAMP;VALUE=DATE-TIME:20230512T193000Z
 UID:SOoGu4XE7e
 DESCRIPTION:https://www.siff.net/festival/burning-hearts\n\nDuration: 115 
- mins (1h55m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Fri 12 May\
- , 12:30 PM)
+ mins (1h55m)\n\nAlso playing at:\n • Shoreline CC Theater (Mon 15 May\, 
+ 08:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -22,8 +22,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T001400Z
 DTSTAMP;VALUE=DATE-TIME:20230512T221500Z
 UID:agvF6QHmrG
 DESCRIPTION:https://www.siff.net/festival/angry-annie\n\nDuration: 119 min
- s (1h59m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Fri 12 May\, 0
- 3:15 PM)
+ s (1h59m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Mon 15 May
+ \, 08:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -43,8 +43,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T055500Z
 DTSTAMP;VALUE=DATE-TIME:20230513T040000Z
 UID:lAROkeI9Uj
 DESCRIPTION:https://www.siff.net/festival/the-night-of-the-12th\n\nDuratio
- n: 115 mins (1h55m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Fri 
- 12 May\, 09:00 PM)
+ n: 115 mins (1h55m)\n\nAlso playing at:\n • Shoreline CC Theater (Sat 20
+  May\, 08:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -64,8 +64,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T231500Z
 DTSTAMP;VALUE=DATE-TIME:20230513T213000Z
 UID:niB8QeUmwB
 DESCRIPTION:https://www.siff.net/festival/love-to-love-you-donna-summer\n\
- nDuration: 105 mins (1h45m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House
-  1 (Sat 13 May\, 02:30 PM)
+ nDuration: 105 mins (1h45m)\n\nAlso playing at:\n • SIFF Cinema Egyptian
+  (Fri 12 May\, 09:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -75,8 +75,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T022000Z
 DTSTAMP;VALUE=DATE-TIME:20230514T003000Z
 UID:v4QJxOEwNt
 DESCRIPTION:https://www.siff.net/festival/stephen-curry-underrated\n\nDura
- tion: 110 mins (1h50m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (S
- at 13 May\, 05:30 PM)
+ tion: 110 mins (1h50m)\n\nAlso playing at:\n • Shoreline CC Theater (Sun
+  14 May\, 01:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T051700Z
 DTSTAMP;VALUE=DATE-TIME:20230514T033000Z
 UID:lXPc3jNw66
 DESCRIPTION:https://www.siff.net/festival/subtraction\n\nDuration: 107 min
- s (1h47m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Sat 13 May\, 0
- 8:30 PM)
+ s (1h47m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Sun 21 May
+ \, 01:15 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -97,8 +97,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T203700Z
 DTSTAMP;VALUE=DATE-TIME:20230514T190000Z
 UID:CCkRycdUxa
 DESCRIPTION:https://www.siff.net/festival/year-of-the-fox\n\nDuration: 97 
- mins (1h37m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Sun 14 May\
- , 12:00 PM)
+ mins (1h37m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Sat 13 May\, 
+ 06:45 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -108,7 +108,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T232700Z
 DTSTAMP;VALUE=DATE-TIME:20230514T220000Z
 UID:BKg3nKw7jo
 DESCRIPTION:https://www.siff.net/festival/lift\n\nDuration: 87 mins (1h27m
- )\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Sun 14 May\, 03:00 PM)
+ )\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Mon 15 May\, 05:30
+  PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -118,8 +119,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T022800Z
 DTSTAMP;VALUE=DATE-TIME:20230515T010000Z
 UID:42pVO1Cm2U
 DESCRIPTION:https://www.siff.net/festival/and-the-king-said-what-a-fantast
- ic-machine\n\nDuration: 88 mins (1h28m)\n\nAlso playing:\n\n* SIFF Cinema 
- Uptown House 1 (Sun 14 May\, 06:00 PM)
+ ic-machine\n\nDuration: 88 mins (1h28m)\n\nAlso playing at:\n • SIFF Cin
+ ema Uptown House 1 (Tue 16 May\, 02:45 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -129,8 +130,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T055400Z
 DTSTAMP;VALUE=DATE-TIME:20230515T040000Z
 UID:DYneydB1ku
 DESCRIPTION:https://www.siff.net/festival/irati\n\nDuration: 114 mins (1h5
- 4m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Sun 14 May\, 09:00 P
- M)
+ 4m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Mon 15 May\, 08:
+ 45 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -140,8 +141,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T205200Z
 DTSTAMP;VALUE=DATE-TIME:20230515T190000Z
 UID:r8MI4OubT5
 DESCRIPTION:https://www.siff.net/festival/a-letter-from-helga\n\nDuration:
-  112 mins (1h52m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Mon 15
-  May\, 12:00 PM)
+  112 mins (1h52m)\n\nAlso playing at:\n • Shoreline CC Theater (Sat 13 M
+ ay\, 04:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -151,8 +152,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T233900Z
 DTSTAMP;VALUE=DATE-TIME:20230515T221500Z
 UID:CYjxsLt45W
 DESCRIPTION:https://www.siff.net/festival/scrapper\n\nDuration: 84 mins (1
- h24m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Mon 15 May\, 03:15
-  PM)
+ h24m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Fri 12 May\, 06:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -162,7 +162,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T015700Z
 DTSTAMP;VALUE=DATE-TIME:20230516T003000Z
 UID:URry8yPXXi
 DESCRIPTION:https://www.siff.net/festival/lift\n\nDuration: 87 mins (1h27m
- )\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Mon 15 May\, 05:30 PM)
+ )\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Sun 14 May\, 03:00
+  PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -172,8 +173,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T045900Z
 DTSTAMP;VALUE=DATE-TIME:20230516T030000Z
 UID:vpWYINHwWg
 DESCRIPTION:https://www.siff.net/festival/angry-annie\n\nDuration: 119 min
- s (1h59m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Mon 15 May\, 0
- 8:00 PM)
+ s (1h59m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Fri 12 May
+ \, 03:15 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -183,8 +184,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T204000Z
 DTSTAMP;VALUE=DATE-TIME:20230516T190000Z
 UID:XGYAM6BgFd
 DESCRIPTION:https://www.siff.net/festival/matria\n\nDuration: 100 mins (1h
- 40m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Tue 16 May\, 12:00 
- PM)
+ 40m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Thu 18 May\, 09
+ :00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -194,8 +195,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T231300Z
 DTSTAMP;VALUE=DATE-TIME:20230516T214500Z
 UID:2T3s74u484
 DESCRIPTION:https://www.siff.net/festival/and-the-king-said-what-a-fantast
- ic-machine\n\nDuration: 88 mins (1h28m)\n\nAlso playing:\n\n* SIFF Cinema 
- Uptown House 1 (Tue 16 May\, 02:45 PM)
+ ic-machine\n\nDuration: 88 mins (1h28m)\n\nAlso playing at:\n • SIFF Cin
+ ema Uptown House 1 (Sun 14 May\, 06:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +206,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T023200Z
 DTSTAMP;VALUE=DATE-TIME:20230517T003000Z
 UID:3gKwR0mLTy
 DESCRIPTION:https://www.siff.net/festival/the-blue-caftan\n\nDuration: 122
-  mins (2h02m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Tue 16 May
- \, 05:30 PM)
+  mins (2h02m)\n\nAlso playing at:\n • AMC Pacific Place 11 (Wed 17 May\,
+  03:45 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -216,8 +217,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T055300Z
 DTSTAMP;VALUE=DATE-TIME:20230517T041500Z
 UID:a3a0YiDPRf
 DESCRIPTION:https://www.siff.net/festival/the-last-exit\n\nDuration: 98 mi
- ns (1h38m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Tue 16 May\, 
- 09:15 PM)
+ ns (1h38m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Sat 13 May\, 11
+ :59 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -227,8 +228,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T214500Z
 DTSTAMP;VALUE=DATE-TIME:20230517T200000Z
 UID:ZVGGuYCKr9
 DESCRIPTION:https://www.siff.net/festival/superposition\n\nDuration: 105 m
- ins (1h45m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Wed 17 May\,
-  01:00 PM)
+ ins (1h45m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Fri 12 May\, 08:0
+ 0 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -238,8 +239,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T000200Z
 DTSTAMP;VALUE=DATE-TIME:20230517T223000Z
 UID:d144YJg8Wh
 DESCRIPTION:https://www.siff.net/festival/dancing-queen\n\nDuration: 92 mi
- ns (1h32m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Wed 17 May\, 
- 03:30 PM)
+ ns (1h32m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Tue 16 Ma
+ y\, 06:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -249,8 +250,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T024500Z
 DTSTAMP;VALUE=DATE-TIME:20230518T010000Z
 UID:OE6rGAFVRq
 DESCRIPTION:https://www.siff.net/festival/confessions-of-a-good-samaritan\
- n\nDuration: 105 mins (1h45m)\n\nAlso playing:\n\n* SIFF Cinema Uptown Hou
- se 1 (Wed 17 May\, 06:00 PM)
+ n\nDuration: 105 mins (1h45m)\n\nAlso playing at:\n • AMC Pacific Place 
+ 11 (Thu 18 May\, 03:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -260,8 +261,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T050800Z
 DTSTAMP;VALUE=DATE-TIME:20230518T033000Z
 UID:Yx7ciN2M9O
 DESCRIPTION:https://www.siff.net/festival/let-the-dance-begin\n\nDuration:
-  98 mins (1h38m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Wed 17 
- May\, 08:30 PM)
+  98 mins (1h38m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Tue 16 Ma
+ y\, 04:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -271,8 +272,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T213100Z
 DTSTAMP;VALUE=DATE-TIME:20230518T200000Z
 UID:8Lj07wJ6eh
 DESCRIPTION:https://www.siff.net/festival/coldwater-kitchen\n\nDuration: 9
- 1 mins (1h31m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Thu 18 Ma
- y\, 01:00 PM)
+ 1 mins (1h31m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 3 (Fri 1
+ 2 May\, 01:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -282,8 +283,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T001400Z
 DTSTAMP;VALUE=DATE-TIME:20230518T223000Z
 UID:OvXCxa94nw
 DESCRIPTION:https://www.siff.net/festival/other-peoples-children\n\nDurati
- on: 104 mins (1h44m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Thu
-  18 May\, 03:30 PM)
+ on: 104 mins (1h44m)\n\nAlso playing at:\n • Shoreline CC Theater (Sat 1
+ 3 May\, 07:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -303,8 +304,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T054000Z
 DTSTAMP;VALUE=DATE-TIME:20230519T040000Z
 UID:iL7l6qib74
 DESCRIPTION:https://www.siff.net/festival/matria\n\nDuration: 100 mins (1h
- 40m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Thu 18 May\, 09:00 
- PM)
+ 40m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Tue 16 May\, 12
+ :00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -314,8 +315,7 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T215200Z
 DTSTAMP;VALUE=DATE-TIME:20230519T200000Z
 UID:6ylw3n0kP9
 DESCRIPTION:https://www.siff.net/festival/plan-75\n\nDuration: 112 mins (1
- h52m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Fri 19 May\, 01:00
-  PM)
+ h52m)\n\nAlso playing at:\n • Ark Lodge Cinemas (Sun 14 May\, 08:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -325,8 +325,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T003500Z
 DTSTAMP;VALUE=DATE-TIME:20230519T223000Z
 UID:wYKmJM4qCB
 DESCRIPTION:https://www.siff.net/festival/20000-species-of-bees\n\nDuratio
- n: 125 mins (2h05m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Fri 
- 19 May\, 03:30 PM)
+ n: 125 mins (2h05m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (
+ Sun 21 May\, 06:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -336,8 +336,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T032900Z
 DTSTAMP;VALUE=DATE-TIME:20230520T013000Z
 UID:SXGj5pWCbH
 DESCRIPTION:https://www.siff.net/festival/being-mary-tyler-moore\n\nDurati
- on: 119 mins (1h59m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Fri
-  19 May\, 06:30 PM)
+ on: 119 mins (1h59m)\n\nAlso playing at:\n • Shoreline CC Theater (Sun 2
+ 1 May\, 03:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -347,8 +347,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T061600Z
 DTSTAMP;VALUE=DATE-TIME:20230520T041500Z
 UID:UbD4csNc1f
 DESCRIPTION:https://www.siff.net/festival/four-little-adults\n\nDuration: 
- 121 mins (2h01m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Fri 19 
- May\, 09:15 PM)
+ 121 mins (2h01m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Fri 12 Ma
+ y\, 01:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -358,8 +358,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T202900Z
 DTSTAMP;VALUE=DATE-TIME:20230520T190000Z
 UID:JeEOcf6Tax
 DESCRIPTION:https://www.siff.net/festival/pianoforte\n\nDuration: 89 mins 
- (1h29m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Sat 20 May\, 12:
- 00 PM)
+ (1h29m)\n\nAlso playing at:\n • Shoreline CC Theater (Sun 14 May\, 07:00
+  PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -369,8 +369,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T231300Z
 DTSTAMP;VALUE=DATE-TIME:20230520T211500Z
 UID:ZBED24LVot
 DESCRIPTION:https://www.siff.net/festival/let-the-river-flow\n\nDuration: 
- 118 mins (1h58m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Sat 20 
- May\, 02:15 PM)
+ 118 mins (1h58m)\n\nAlso playing at:\n • Shoreline CC Theater (Wed 17 Ma
+ y\, 08:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -400,8 +400,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T191300Z
 DTSTAMP;VALUE=DATE-TIME:20230521T173000Z
 UID:PHmUQjnTmh
 DESCRIPTION:https://www.siff.net/festival/we-are-still-here\n\nDuration: 1
- 03 mins (1h43m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Sun 21 M
- ay\, 10:30 AM)
+ 03 mins (1h43m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (Fri 
+ 19 May\, 05:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -411,8 +411,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T220200Z
 DTSTAMP;VALUE=DATE-TIME:20230521T201500Z
 UID:v4g81c1eJl
 DESCRIPTION:https://www.siff.net/festival/subtraction\n\nDuration: 107 min
- s (1h47m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Sun 21 May\, 0
- 1:15 PM)
+ s (1h47m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (Sat 13 May
+ \, 08:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -422,8 +422,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T005100Z
 DTSTAMP;VALUE=DATE-TIME:20230521T224500Z
 UID:V8iQU7gVIn
 DESCRIPTION:https://www.siff.net/festival/the-hummingbird\n\nDuration: 126
-  mins (2h06m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Sun 21 May
- \, 03:45 PM)
+  mins (2h06m)\n\nAlso playing at:\n • SIFF Cinema Egyptian (Thu 18 May\,
+  01:00 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -433,8 +433,8 @@ DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T033500Z
 DTSTAMP;VALUE=DATE-TIME:20230522T013000Z
 UID:lOKFnHfbsv
 DESCRIPTION:https://www.siff.net/festival/20000-species-of-bees\n\nDuratio
- n: 125 mins (2h05m)\n\nAlso playing:\n\n* SIFF Cinema Uptown House 1 (Sun 
- 21 May\, 06:30 PM)
+ n: 125 mins (2h05m)\n\nAlso playing at:\n • SIFF Cinema Uptown House 1 (
+ Fri 19 May\, 03:30 PM)
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
