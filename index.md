@@ -33,4 +33,8 @@ layout: default
   <img src="assets/screenshot.png?{{ site.github.build_revision }}">
 </p>
 
+<p>
+  Copy-paste an ICS link from above, and import using <em>From URL</em> within Google Calendar.
+</p>
+
 <p><a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}">Last update</a></p>
