@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<html>
+<head>
+  <title>ICS files for SIFF 2023</title>
+</head>
+<body>
+
 <a href="{{ site.github.repository_url }}"><img decoding="async" loading="lazy" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_darkblue_121621.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1" style="position: absolute; top: 0; right: 0; border: 0;"></a>
 
 <a href="https://www.siff.net/">
@@ -38,3 +44,6 @@ layout: default
 </p>
 
 <p><a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}">Last update</a></p>
+
+</body>
+</html>
