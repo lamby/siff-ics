@@ -82,7 +82,7 @@ class SiffICS:
 
         # Write an "all events" calendar, too
         with open(f"ics/all.ics", "w") as f:
-            f.write(self.get_ics(self.events, "all"))
+            f.write(self.get_ics(self.events, "all venues"))
 
         # Write venues
         venues = sorted(self.venues.values(), key=lambda x: x["VenueName"])
