@@ -47,7 +47,6 @@ class SiffICS:
             self.populate_events_for_date(date)
         logging.info(f"Found {len(self.events)} total events")
 
-
         self.post_process_events()
 
         # Parse venues
@@ -103,7 +102,6 @@ class SiffICS:
                 x["EventsOther"] = [y for idx_, y in enumerate(xs) if idx_ != idx]
                 x["EventBody"] = body
 
-
     def populate_events_for_date(self, date):
         date_fmt = date.strftime("%Y-%m-%d")
         logging.info(f"Getting events for {date_fmt} …")
@@ -146,7 +144,6 @@ class SiffICS:
             timestamp = int(raw[6:-5])
 
             return datetime.datetime.fromtimestamp(timestamp, tz=datetime.timezone.utc)
-            return datetime.datetime.utcfromtimestamp(timestamp)
 
         for x in events:
             event = icalendar.Event()
@@ -171,12 +168,14 @@ class SiffICS:
             event.add("dtend", end)
 
             description = []
-            description.append(x["EventBody"])
-            description.append(x["Url"])
 
             runtime = int(x["LengthInMinutes"])
             hours, minutes = divmod(runtime, 60)
             description.append(f"Duration: {runtime} mins ({hours}h{minutes:02d}m)")
+
+            description.append(x["EventBody"])
+
+            description.append(x["Url"])
 
             if x["EventTotal"] > 1:
                 txt = "Also playing at:"
