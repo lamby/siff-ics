@@ -1,0 +1,158 @@
+#!/usr/bin/env python3
+#
+# https://icalendar.readthedocs.io/en/latest/usage.html#example
+
+import click
+import icalendar
+import logging
+import requests
+import slugify
+import yaml
+import json
+
+from dateutil import parser
+
+from bs4 import BeautifulSoup
+
+import datetime
+import pytz
+import sys
+
+from pprint import pprint
+
+from xml.etree import ElementTree
+from rich.logging import RichHandler
+from rich.progress import track
+
+logging.basicConfig(
+    level=logging.INFO, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+)
+
+START = datetime.date(2023, 5, 11)
+DAYS = 10
+
+BASE_URL = "https://www.siff.net/calendar?view=list&date="
+LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
+
+
+class SiffICS:
+    def __init__(self):
+        self.session = requests.Session()
+
+    def main(self):
+        # Parse events
+        self.events = []
+        for x in track(range(DAYS + 1)):
+            date = START + datetime.timedelta(days=x)
+            self.populate_events_for_date(date)
+        logging.info(f"Found {len(self.events)} total events")
+
+        # Parse venues
+        self.venues = {}
+        for event in self.events:
+            if event["VenueSlug"] in self.venues:
+                continue
+            self.venues[event["VenueSlug"]] = {
+                x: y for x, y in event.items() if x.startswith("Venue")
+            }
+
+        logging.info(f"Found {len(self.venues)} total venues")
+
+        # Write calendars
+        for slug, venue in self.venues.items():
+            events = [x for x in self.events if x["VenueSlug"] == venue["VenueSlug"]]
+
+            ics = self.get_ics(events, venue["VenueName"])
+
+            with open(f"ics/{slug}.ics", "w") as f:
+                f.write(ics)
+
+        # Write an "all events" calendar, too
+        with open(f"ics/all.ics", "w") as f:
+            f.write(self.get_ics(self.events, "all"))
+
+        # Write venues
+        venues = sorted(self.venues.values(), key=lambda x: x["VenueName"])
+        with open(f"_data/venues.yaml", "w") as f:
+            f.write(yaml.dump(list(venues)))
+
+    def populate_events_for_date(self, date):
+        date_fmt = date.strftime("%Y-%m-%d")
+        logging.info(f"Getting events for {date_fmt} …")
+
+        r = self.session.get(
+            "{}{}".format(BASE_URL, date_fmt),
+        )
+        r.raise_for_status()
+
+        soup = BeautifulSoup(r.content, "html.parser")
+
+        for elem in soup.select("a.elevent"):
+            data = json.loads(elem["data-screening"])
+            name = data["VenueName"].partition("| ")[2].strip()
+            data.update(
+                {
+                    "VenueName": name,
+                    "VenueSlug": slugify.slugify(name),
+                    "url": "https://www.siff.net{}".format(
+                        elem.parent.parent.parent.select("a")[0]["href"]
+                    ),
+                }
+            )
+            self.events.append(data)
+
+    def get_ics(self, events, venue_name):
+        logging.info(f"Updating for {venue_name}")
+
+        name = f"SIFF 2023 ({venue_name})"
+
+        cal = icalendar.Calendar()
+        cal.add("prodid", "-//icalendar//mxm.dk//")
+        cal.add("version", "2.0")
+        cal.add("name", name)
+        cal.add("x-wr-calname", name)
+        cal.add("last-modified", datetime.datetime.utcnow())
+
+        for x in events:
+            event = icalendar.Event()
+
+            event.add("uid", "{}-{}".format(x["EventUrlName"], x["Showtime"]))
+            event.add("summary", x["EventName"])
+            event.add(
+                "location",
+                f"{x['VenueName']}, {x['VenueAddress1']}",
+            )
+
+            def get_date(key):
+                raw = x[key]  # '/Date(1683856800000)/'
+
+                return datetime.datetime.utcfromtimestamp(int(raw[6:-5]))
+
+            start = get_date("Showtime")
+            end = get_date("ShowtimeEnd")
+
+            event.add("dtstamp", start)
+            event.add("dtstart", start)
+            event.add("dtend", end)
+
+            description = []
+            description.append(x["url"])
+
+            runtime = int(x["LengthInMinutes"])
+            hours, minutes = divmod(runtime, 60)
+            description.append(f"Duration: {runtime} mins ({hours}h{minutes:02d}m)")
+
+            event.add("description", "\n\n".join(description))
+
+            cal.add_component(event)
+
+        return cal.to_ical().decode("utf-8")
+
+
+@click.command()
+def main():
+    SiffICS().main()
+
+
+if __name__ == "__main__":
+    main()
