@@ -163,11 +163,12 @@ class SiffICS:
             description.append(f"Duration: {runtime} mins ({hours}h{minutes:02d}m)")
 
             if x["EventTotal"] > 1:
-                description.append(f"Also playing:")
+                txt = "Also playing at:"
                 for other in x["EventsOther"]:
                     dt = get_datetime(other["Showtime"]).astimezone(LOCAL_TIMEZONE)
                     fmt = dt.strftime("%a %d %B, %I:%M %p")
-                    description.append(f"* {other['VenueName']} ({fmt})")
+                    txt = f"{txt}\n • {other['VenueName']} ({fmt})"
+                description.append(txt)
 
             event.add("description", "\n\n".join(description))
 
