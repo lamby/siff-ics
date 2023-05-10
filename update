@@ -45,7 +45,12 @@ class SiffICS:
         for x in track(range(DAYS + 1)):
             date = START + datetime.timedelta(days=x)
             self.populate_events_for_date(date)
+        self.add_film_counts()
+
         logging.info(f"Found {len(self.events)} total events")
+
+        logging.info(f"Found {len(self.events)} total events")
+
 
         # Parse venues
         self.venues = {}
@@ -117,7 +122,12 @@ class SiffICS:
             event = icalendar.Event()
 
             event.add("uid", "{}-{}".format(x["EventUrlName"], x["Showtime"]))
-            event.add("summary", x["EventName"])
+
+            if x['EventTotal'] == 1:
+                event.add("summary", x["EventName"])
+            else:
+                event.add("summary", f"{x['EventName']} ({x['EventIndex']}/{x['EventTotal']})")
+
             event.add(
                 "location",
                 f"{x['VenueName']}, {x['VenueAddress1']}",
@@ -147,6 +157,17 @@ class SiffICS:
             cal.add_component(event)
 
         return cal.to_ical().decode("utf-8")
+
+    def add_film_counts(self):
+        by_title = {}  # str -> [dict]
+
+        for x in self.events:
+            by_title.setdefault(x["EventName"], []).append(x)
+
+        for xs in by_title.values():
+            for idx, x in enumerate(xs):
+                x["EventTotal"] = len(xs)
+                x["EventIndex"] = idx + 1
 
 
 @click.command()
