@@ -47,18 +47,8 @@ class SiffICS:
             self.populate_events_for_date(date)
         logging.info(f"Found {len(self.events)} total events")
 
-        logging.info(f"Reworking film metadata")
 
-        self.events_by_title = {}  # str -> [dict]
-        for x in self.events:
-            self.events_by_title.setdefault(x["EventName"], []).append(x)
-
-        # Add film counts
-        for xs in self.events_by_title.values():
-            for idx, x in enumerate(xs):
-                x["EventIndex"] = idx + 1
-                x["EventTotal"] = len(xs)
-                x["EventsOther"] = [y for idx_, y in enumerate(xs) if idx_ != idx]
+        self.post_process_events()
 
         # Parse venues
         self.venues = {}
@@ -89,6 +79,31 @@ class SiffICS:
         with open(f"_data/venues.yaml", "w") as f:
             f.write(yaml.dump(list(venues)))
 
+    def post_process_events(self):
+        logging.info(f"Calculating further film metadata")
+
+        by_title = {}  # str -> [dict]
+        for x in self.events:
+            by_title.setdefault(x["EventName"], []).append(x)
+
+        # Add film counts
+        for xs in track(by_title.values()):
+            logging.info(f"Downloading data for {xs[0]['EventName']} …")
+
+            r = self.session.get(xs[0]["Url"])
+            r.raise_for_status()
+
+            soup = BeautifulSoup(r.content, "html.parser")
+
+            body = soup.select("div.body-copy")[0].get_text().strip()
+
+            for idx, x in enumerate(xs):
+                x["EventIndex"] = idx + 1
+                x["EventTotal"] = len(xs)
+                x["EventsOther"] = [y for idx_, y in enumerate(xs) if idx_ != idx]
+                x["EventBody"] = body
+
+
     def populate_events_for_date(self, date):
         date_fmt = date.strftime("%Y-%m-%d")
         logging.info(f"Getting events for {date_fmt} …")
@@ -107,7 +122,7 @@ class SiffICS:
                 {
                     "VenueName": name,
                     "VenueSlug": slugify.slugify(name),
-                    "url": "https://www.siff.net{}".format(
+                    "Url": "https://www.siff.net{}".format(
                         elem.parent.parent.parent.select("a")[0]["href"]
                     ),
                 }
@@ -156,7 +171,8 @@ class SiffICS:
             event.add("dtend", end)
 
             description = []
-            description.append(x["url"])
+            description.append(x["EventBody"])
+            description.append(x["Url"])
 
             runtime = int(x["LengthInMinutes"])
             hours, minutes = divmod(runtime, 60)
