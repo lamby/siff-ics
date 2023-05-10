@@ -58,7 +58,7 @@ class SiffICS:
             for idx, x in enumerate(xs):
                 x["EventIndex"] = idx + 1
                 x["EventTotal"] = len(xs)
-                x["EventsOther"] = [y for idx_, y in enumerate(xs) if idx_ == idx]
+                x["EventsOther"] = [y for idx_, y in enumerate(xs) if idx_ != idx]
 
         # Parse venues
         self.venues = {}
