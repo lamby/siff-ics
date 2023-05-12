@@ -40,9 +40,15 @@ layout: default
 </p>
 
 <p>
-  Copy-paste an ICS link from above, and import using <em>From URL</em> within Google Calendar.
+  Copy-paste an ICS link from above (eg. <em>All events</em>), and import using <em>From URL</em> within Google Calendar.
 </p>
 
 <p><a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}">Last update</a></p>
+
+<h2>Other links</h2>
+
+<ul>
+    <li><em>Gooner1886</em>'s <a href="https://letterboxd.com/gooner1886/list/49th-seattle-international-film-festival/detail/">Letterboxd list of SIFF films</a></li>
+</ul>
 
 </body>
