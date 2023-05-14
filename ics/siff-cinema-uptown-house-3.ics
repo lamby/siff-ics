@@ -1,583 +1,352 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230510T195449Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230514T155526Z
 NAME:SIFF 2023 (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF 2023 (SIFF Cinema Uptown House 3)
 BEGIN:VEVENT
-SUMMARY:Coldwater Kitchen (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230512T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230512T213100Z
-DTSTAMP;VALUE=DATE-TIME:20230512T200000Z
-UID:WYIlxQlVTx
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nAt Lakeland Correctional Facility
-  in Coldwater\, Michigan\, chef Jimmy Lee Hill has run a gourmet culinary 
- training program that gives the incarcerated purpose\, pride\, and a futur
- e upon their release. Go into the kitchen as he focuses on three new train
- ees.\nCo-Director Brian Kaufman scheduled to attend the May 18 screening.\
- n\nhttps://www.siff.net/festival/coldwater-kitchen\n\nAlso playing at:\n 
- • SIFF Cinema Uptown House 1 (Thu 18 May\, 01:00 PM)
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finding Family
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230512T224500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T001800Z
-DTSTAMP;VALUE=DATE-TIME:20230512T224500Z
-UID:5GoxWZ19Yf
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nWhether chosen or by blood\, thes
- e documentary short films capture what it means to find family.\nVarious f
- ilmmakers expected to attend.\n\nhttps://www.siff.net/festival/finding-fam
- ily
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:King Coal (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230513T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T021800Z
-DTSTAMP;VALUE=DATE-TIME:20230513T010000Z
-UID:B4IHOP94lm
-DESCRIPTION:Duration: 78 mins (1h18m)\n\nA thoughtful and beautifully made
-  documentary about the history of Central Appalachia\, centering on two pr
- eteen West Virginians and the region around them as the prosperous and del
- eterious effects of coal mining define every moment of their waking life.\
- nDirector/Producer/Co-Editor Elaine McMillion Sheldon scheduled to attend.
- \n\nhttps://www.siff.net/festival/king-coal\n\nAlso playing at:\n • AMC 
- Pacific Place 11 (Sat 13 May\, 11:00 AM)
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hanging Gardens (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230513T033000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T052700Z
-DTSTAMP;VALUE=DATE-TIME:20230513T033000Z
-UID:flFOrQ0jJ1
-DESCRIPTION:Duration: 117 mins (1h57m)\n\nTwelve-year-old orphan As’ad m
- akes his living picking through the trash at a dump outside Baghdad. One d
- ay he finds a discarded blonde sex doll\, which not only improves his fina
- ncial prospects\, but offers him something of even greater value.\n\nhttps
- ://www.siff.net/festival/hanging-gardens\n\nAlso playing at:\n • SIFF Ci
- nema Uptown House 3 (Sat 13 May\, 02:00 PM)
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Art for Everybody (2/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230513T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T193900Z
-DTSTAMP;VALUE=DATE-TIME:20230513T180000Z
-UID:brDWdSZCLE
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nThomas Kinkade was one of the mos
- t successful artists of his day\, with millions of cozy cottage paintings 
- sold across the U.S. On his passing in 2012\, a newly discovered vault con
- tained a series of darkly themed paintings that reveal a more complicated 
- and troubled man than his most popular works implied.\nDirector Miranda Yo
- usef\, Producer Tim Rummel\, and Subject Chandler Kinkade scheduled to at
- tend.\n\nhttps://www.siff.net/festival/art-for-everybody\n\nAlso playing a
- t:\n • SIFF Cinema Uptown House 2 (Fri 12 May\, 08:00 PM)
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hanging Gardens (2/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230513T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230513T225700Z
-DTSTAMP;VALUE=DATE-TIME:20230513T210000Z
-UID:6Ngv7rNtXs
-DESCRIPTION:Duration: 117 mins (1h57m)\n\nTwelve-year-old orphan As’ad m
- akes his living picking through the trash at a dump outside Baghdad. One d
- ay he finds a discarded blonde sex doll\, which not only improves his fina
- ncial prospects\, but offers him something of even greater value.\n\nhttps
- ://www.siff.net/festival/hanging-gardens\n\nAlso playing at:\n • SIFF Ci
- nema Uptown House 3 (Fri 12 May\, 08:30 PM)
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Invisible Beauty (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T015500Z
-DTSTAMP;VALUE=DATE-TIME:20230514T000000Z
-UID:kePGB0iSUB
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nWalk the runway with Bethann Har
- dison\, the trailblazing Black model-turned-agent who discovered such icon
- s as Naomi Campbell\, Tyra Banks\, and Tyson Beckford\, forever changing t
- he industry. From the director of SIFF fashion favorites Dior and I and Ha
- lston.\nDirectors Bethann Hardison and Frédéric Tcheng scheduled to atte
- nd.\n\nhttps://www.siff.net/festival/invisible-beauty\n\nAlso playing at:\
- n • SIFF Cinema Uptown House 3 (Sun 14 May\, 03:30 PM)
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Until Branches Bend (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T043800Z
-DTSTAMP;VALUE=DATE-TIME:20230514T030000Z
-UID:InB4oRmbxr
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nIn this zeitgeisty\, confident\, 
- and visually evocative debut of social commentary shot on 16mm\, a pregnan
- t cannery worker in the Okanagan Valley discovers a peach crop infestation
-  and makes it her mission to convince everybody of its danger.\nDirector S
- ophie Jarvis and Editor Kane Stewart scheduled to attend.\n\nhttps://www.s
- iff.net/festival/until-branches-bend\n\nAlso playing at:\n • SIFF Cinema
-  Uptown House 2 (Mon 15 May\, 12:30 PM)
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fremont (2/2)
+SUMMARY:Fremont
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T210100Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T211100Z
 DTSTAMP;VALUE=DATE-TIME:20230514T193000Z
 UID:PidN4jJ7c1
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nIn this comforting\, lowkey\, and
-  dryly funny dramedy\, an Afghan immigrant who previously worked as a U.S.
-  military translator finds work in a San Francisco-based Chinese fortune c
- ookie factory\, where she desperately longs for connection and peace.\nDir
- ector Babak Jalali\, Executive Producer Nickhil Jakatdar\, and Producer S
- udnya Shroff scheduled to attend.\n\nhttps://www.siff.net/festival/fremont
- \n\nAlso playing at:\n • AMC Pacific Place 11 (Sat 13 May\, 06:30 PM)
+DESCRIPTION:Duration: 91 mins (1h31m)\n\n\n\nhttps://www.siff.net/festival
+ /fremont
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Invisible Beauty (2/2)
+SUMMARY:Invisible Beauty
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T002500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T003500Z
 DTSTAMP;VALUE=DATE-TIME:20230514T223000Z
 UID:C17Ew249mV
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nWalk the runway with Bethann Har
- dison\, the trailblazing Black model-turned-agent who discovered such icon
- s as Naomi Campbell\, Tyra Banks\, and Tyson Beckford\, forever changing t
- he industry. From the director of SIFF fashion favorites Dior and I and Ha
- lston.\nDirectors Bethann Hardison and Frédéric Tcheng scheduled to atte
- nd.\n\nhttps://www.siff.net/festival/invisible-beauty\n\nAlso playing at:\
- n • SIFF Cinema Uptown House 3 (Sat 13 May\, 05:00 PM)
+DESCRIPTION:Duration: 115 mins (1h55m)\n\n\n\nhttps://www.siff.net/festiva
+ l/invisible-beauty
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alan @ Work (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T013000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T022400Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T023400Z
 DTSTAMP;VALUE=DATE-TIME:20230515T013000Z
 UID:rsvm7m6Zc8
-DESCRIPTION:Duration: 54 mins (0h54m)\n\nYou may know Alan Chong Lau as on
- e of the produce workers at Uwajimaya\, but did you know he also specializ
- es in fine art and poetry? See a new side of Seattle with this illuminatin
- g doc shot over ten years about one of our greatest and most prolific citi
- zens.\n\nDirector Doug Ing scheduled to attend.\n\nhttps://www.siff.net/fe
- stival/alan-work\n\nAlso playing at:\n • Ark Lodge Cinemas (Tue 16 May\,
-  06:00 PM)
+DESCRIPTION:Duration: 54 mins (0h54m)\n\n\n\nhttps://www.siff.net/festival
+ /alan-work\n\nAlso playing at:\n\n  • Ark Lodge Cinemas (Tue 16 May\, 06
+ :00 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ALT Shorts: Transitions
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T033000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T045200Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T050200Z
 DTSTAMP;VALUE=DATE-TIME:20230515T033000Z
 UID:EQRCnWO4Yo
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nSometimes change is best captured
-  with a camera\, while editing can create transitions that inspire new ide
- as. Welcome to ALT Shorts.\nVarious filmmakers expected to attend.\n\nhttp
- s://www.siff.net/festival/alt-shorts-transitions
+DESCRIPTION:Duration: 82 mins (1h22m)\n\n\n\nhttps://www.siff.net/festival
+ /alt-shorts-transitions\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon Lake (2/2)
+SUMMARY:Falcon Lake
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T214100Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T215100Z
 DTSTAMP;VALUE=DATE-TIME:20230515T200000Z
 UID:gnRVoQS3Sh
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nA shy young teenage boy on summe
- r vacation in Canada comes of age the hard way when he falls for the outgo
- ing\, older Chloe in the gorgeous and haunting directorial debut from actr
- ess Charlotte Le Bon (The Hundred-Foot Journey).\n\nhttps://www.siff.net/f
- estival/falcon-lake\n\nAlso playing at:\n • SIFF Film Center (Sat 13 May
- \, 07:00 PM)
+DESCRIPTION:Duration: 101 mins (1h41m)\n\n\n\nhttps://www.siff.net/festiva
+ l/falcon-lake
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Tuba Thieves (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T000200Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T001200Z
 DTSTAMP;VALUE=DATE-TIME:20230515T223000Z
 UID:jb37JEaqRF
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nThis experimental mix of document
- ary\, recreation (cast with Deaf performers)\, and essay uses a series of 
- Los Angeles high school tuba thefts as a jumping-off point to skillfully e
- xplore the ways in which we engage with sound\, music\, and speech.\n\nhtt
- ps://www.siff.net/festival/the-tuba-thieves\n\nAlso playing at:\n • AMC 
- Pacific Place 11 (Tue 16 May\, 08:30 PM)
+DESCRIPTION:Duration: 92 mins (1h32m)\n\n\n\nhttps://www.siff.net/festival
+ /the-tuba-thieves\n\nAlso playing at:\n\n  • AMC Pacific Place 11 (Tue 1
+ 6 May\, 08:30 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harvest Moon (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T024000Z
 DTSTAMP;VALUE=DATE-TIME:20230516T010000Z
 UID:v7Rw7tasaW
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nIn this tender and touching drama
-  out of Mongolia\, a chef and a ten-year-old boy\, neither of whom knew th
- eir biological fathers\, become friends when the former returns from the c
- ity to pay respects to his dying grandfather.\n\nhttps://www.siff.net/fest
- ival/harvest-moon\n\nAlso playing at:\n • AMC Pacific Place 11 (Tue 16 M
- ay\, 01:00 PM)
+DESCRIPTION:Duration: 90 mins (1h30m)\n\n\n\nhttps://www.siff.net/festival
+ /harvest-moon\n\nAlso playing at:\n\n  • AMC Pacific Place 11 (Tue 16 Ma
+ y\, 01:00 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All the Colours of the World Are Between Black and White (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T033000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T050200Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T051200Z
 DTSTAMP;VALUE=DATE-TIME:20230516T033000Z
 UID:AufNb11out
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nAn understated but heart-wrenchin
- g look at the love between two men in modern-day Nigeria\, where such love
-  is forbidden\, as the motorcycle courier and aspiring photographer grow c
- loser as they explore Lagos. Winner of the Berlinale Teddy Award.\n\nDirec
- tor Babatunde Apalowo scheduled to attend.\n\nhttps://www.siff.net/festiva
- l/all-the-colours-of-the-world-are-between-black-and-white\n\nAlso playing
-  at:\n • SIFF Cinema Uptown House 3 (Tue 16 May\, 12:30 PM)
+DESCRIPTION:Duration: 92 mins (1h32m)\n\n\n\nhttps://www.siff.net/festival
+ /all-the-colours-of-the-world-are-between-black-and-white\n\nAlso playing 
+ at:\n\n  • SIFF Cinema Uptown House 3 (Tue 16 May\, 12:30 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All the Colours of the World Are Between Black and White (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T210200Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T211200Z
 DTSTAMP;VALUE=DATE-TIME:20230516T193000Z
 UID:Yo9mTauT11
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nAn understated but heart-wrenchin
- g look at the love between two men in modern-day Nigeria\, where such love
-  is forbidden\, as the motorcycle courier and aspiring photographer grow c
- loser as they explore Lagos. Winner of the Berlinale Teddy Award.\n\nDirec
- tor Babatunde Apalowo scheduled to attend.\n\nhttps://www.siff.net/festiva
- l/all-the-colours-of-the-world-are-between-black-and-white\n\nAlso playing
-  at:\n • SIFF Cinema Uptown House 3 (Mon 15 May\, 08:30 PM)
+DESCRIPTION:Duration: 92 mins (1h32m)\n\n\n\nhttps://www.siff.net/festival
+ /all-the-colours-of-the-world-are-between-black-and-white\n\nAlso playing 
+ at:\n\n  • SIFF Cinema Uptown House 3 (Mon 15 May\, 08:30 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Motherland (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T233100Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T234100Z
 DTSTAMP;VALUE=DATE-TIME:20230516T220000Z
 UID:KPvSYobu1r
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nThe past is prologue in Hanna Bad
- ziaka and Alexander Mihalkovich’s feature documentary. Exposing violent 
- bullying and abuse in the Belarus army\, the Ukrainian/Belarusian filmmake
- rs also unexpectedly chronicle the systematic destruction of free-will soc
- ieties and democratic ideals. A SIFF 2022 New Works-in-Progress project.\n
- \nhttps://www.siff.net/festival/motherland\n\nAlso playing at:\n • SIFF 
- Cinema Uptown House 2 (Mon 15 May\, 06:00 PM)
+DESCRIPTION:Duration: 91 mins (1h31m)\n\n\n\nhttps://www.siff.net/festival
+ /motherland\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 2 (Mon 1
+ 5 May\, 06:00 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Douglas Sirk - Hope as in Despair (2/2)
+SUMMARY:Douglas Sirk - Hope as in Despair
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T021600Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T022600Z
 DTSTAMP;VALUE=DATE-TIME:20230517T010000Z
 UID:HyN61q7R2I
-DESCRIPTION:Duration: 76 mins (1h16m)\n\nUncover the mysteries of Douglas 
- Sirk\, the German film director and master of melodrama responsible for su
- ch landmark Technicolor films as All That Heaven Allows and Written on th
- e Wind through revealing interviews and excerpts from his wife’s journa
- l.\n\nhttps://www.siff.net/festival/douglas-sirk-hope-as-in-despair\n\nAls
- o playing at:\n • AMC Pacific Place 11 (Fri 12 May\, 04:00 PM)
+DESCRIPTION:Duration: 76 mins (1h16m)\n\n\n\nhttps://www.siff.net/festival
+ /douglas-sirk-hope-as-in-despair\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hole in the Head (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T043400Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T044400Z
 DTSTAMP;VALUE=DATE-TIME:20230517T030000Z
 UID:hCjHCq5SkH
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nIn this impressionistic feature\,
-  a mute young man who works as a projectionist attempts to reconstruct rep
- ressed memories of his past through various forms of media—film\, videot
- ape\, audio tapes\, photographs—and by hiring actors to play his missing
-  parents.\nDirector/Writer Dean Kavanagh and Producer Anja Mahler schedule
- d to attend.\n\nhttps://www.siff.net/festival/hole-in-the-head\n\nAlso pla
- ying at:\n • SIFF Film Center (Wed 17 May\, 06:30 PM)
+DESCRIPTION:Duration: 94 mins (1h34m)\n\n\n\nhttps://www.siff.net/festival
+ /hole-in-the-head\n\nAlso playing at:\n\n  • SIFF Film Center (Wed 17 Ma
+ y\, 06:30 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIster & Sister (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T202000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T203000Z
 DTSTAMP;VALUE=DATE-TIME:20230517T190000Z
 UID:ZAtOQORmC6
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nIn this lush\, semiautobiographic
- al film from Kattia G. Zúñiga\, two teenage Costa Rican sisters head to 
- the Panamanian tropics in search of their estranged father. Along the way\
- , they learn what it takes to grow up.\n\nhttps://www.siff.net/festival/si
- ster-and-sister\n\nAlso playing at:\n • SIFF Film Center (Tue 16 May\, 0
- 6:30 PM)
+DESCRIPTION:Duration: 80 mins (1h20m)\n\n\n\nhttps://www.siff.net/festival
+ /sister-and-sister\n\nAlso playing at:\n\n  • SIFF Film Center (Tue 16 M
+ ay\, 06:30 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pretty Red Dress (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T005000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T010000Z
 DTSTAMP;VALUE=DATE-TIME:20230517T230000Z
 UID:w073Zh9H48
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nBlack masculinity is investigate
- d with a compassionate and assured hand in this debut feature from Dionne 
- Edwards\, as a family of Black Londoners have their world shaken by the pu
- rchase of a lovely\, rhinestoned red dress.\n\nhttps://www.siff.net/festiv
- al/pretty-red-dress\n\nAlso playing at:\n • Ark Lodge Cinemas (Thu 18 Ma
- y\, 06:00 PM)
+DESCRIPTION:Duration: 110 mins (1h50m)\n\n\n\nhttps://www.siff.net/festiva
+ l/pretty-red-dress\n\nAlso playing at:\n\n  • Ark Lodge Cinemas (Thu 18 
+ May\, 06:00 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jamojaya (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T013000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T030300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T031300Z
 DTSTAMP;VALUE=DATE-TIME:20230518T013000Z
 UID:dU7U4Ai9Q7
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nActor/filmmaker Justin Chon (Gook
- \, Ms. Purple) is back at SIFF with this soulful\, Hawaii-set tale about a
- n up-and-coming Indonesian rapper whose relationship with his father (and 
- longtime manager) begins to crack under the pressure of the industry.\n\nh
- ttps://www.siff.net/festival/jamojaya\n\nAlso playing at:\n • SIFF Cinem
- a Uptown House 3 (Thu 18 May\, 04:00 PM)
+DESCRIPTION:Duration: 93 mins (1h33m)\n\n\n\nhttps://www.siff.net/festival
+ /jamojaya\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 3 (Thu 18 
+ May\, 04:00 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:When it Melts (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T040000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T055100Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T060100Z
 DTSTAMP;VALUE=DATE-TIME:20230518T040000Z
 UID:lQlumlSaIs
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nActress Veerle Baetens (SIFF 201
- 3’s The Broken Circle Breakdown) makes her directorial debut with this d
- ark\, uncompromising tale about the destructive ripples of trauma\, as adu
- lt Eva returns to her hometown to confront the perpetrators of a sexual as
- sault from her youth.\n\nhttps://www.siff.net/festival/when-it-melts\n\nAl
- so playing at:\n • SIFF Cinema Uptown House 3 (Thu 18 May\, 12:30 PM)
+DESCRIPTION:Duration: 111 mins (1h51m)\n\n\n\nhttps://www.siff.net/festiva
+ l/when-it-melts\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 3 (T
+ hu 18 May\, 12:30 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:When it Melts (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T212100Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T213100Z
 DTSTAMP;VALUE=DATE-TIME:20230518T193000Z
 UID:NrQCbjRcM7
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nActress Veerle Baetens (SIFF 201
- 3’s The Broken Circle Breakdown) makes her directorial debut with this d
- ark\, uncompromising tale about the destructive ripples of trauma\, as adu
- lt Eva returns to her hometown to confront the perpetrators of a sexual as
- sault from her youth.\n\nhttps://www.siff.net/festival/when-it-melts\n\nAl
- so playing at:\n • SIFF Cinema Uptown House 3 (Wed 17 May\, 09:00 PM)
+DESCRIPTION:Duration: 111 mins (1h51m)\n\n\n\nhttps://www.siff.net/festiva
+ l/when-it-melts\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 3 (W
+ ed 17 May\, 09:00 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jamojaya (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T003300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T004300Z
 DTSTAMP;VALUE=DATE-TIME:20230518T230000Z
 UID:WQ0eK3O9Ue
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nActor/filmmaker Justin Chon (Gook
- \, Ms. Purple) is back at SIFF with this soulful\, Hawaii-set tale about a
- n up-and-coming Indonesian rapper whose relationship with his father (and 
- longtime manager) begins to crack under the pressure of the industry.\n\nh
- ttps://www.siff.net/festival/jamojaya\n\nAlso playing at:\n • SIFF Cinem
- a Uptown House 3 (Wed 17 May\, 06:30 PM)
+DESCRIPTION:Duration: 93 mins (1h33m)\n\n\n\nhttps://www.siff.net/festival
+ /jamojaya\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 3 (Wed 17 
+ May\, 06:30 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:This Closeness (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T014500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T031300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T032300Z
 DTSTAMP;VALUE=DATE-TIME:20230519T014500Z
 UID:N4eYlqUHrb
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nIn Philadelphia for a high school
-  reunion\, a couple (including writer/director Kit Zauhar) opts to stay at
-  a shared-space apartment only for their relationship to fracture almost i
- n real time\, not least of which thanks to their incredibly strange host.\
- nWriter/Director/Actor Kit Zauhar and Actor Ian Edlund scheduled to attend
- .\n\nhttps://www.siff.net/festival/this-closeness\n\nAlso playing at:\n 
- • SIFF Cinema Uptown House 3 (Fri 19 May\, 03:45 PM)
+DESCRIPTION:Duration: 88 mins (1h28m)\n\n\n\nhttps://www.siff.net/festival
+ /this-closeness\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 3 (F
+ ri 19 May\, 03:45 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mutt (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T043000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T055700Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T060700Z
 DTSTAMP;VALUE=DATE-TIME:20230519T043000Z
 UID:hoUr6B4EkY
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nFeña (Sundance award-winner Lío
-  Mehiel)\, still early in his transition\, must navigate how he’s percei
- ved by people from his past\, including his ex-boyfriend\, his half-sister
- \, and his out-of-touch father over one long\, hectic summer day in New Yo
- rk City.\n\nhttps://www.siff.net/festival/mutt\n\nAlso playing at:\n • A
- MC Pacific Place 11 (Sat 20 May\, 01:30 PM)
+DESCRIPTION:Duration: 87 mins (1h27m)\n\n\n\nhttps://www.siff.net/festival
+ /mutt\n\nAlso playing at:\n\n  • AMC Pacific Place 11 (Sat 20 May\, 01:3
+ 0 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mom (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T215000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T220000Z
 DTSTAMP;VALUE=DATE-TIME:20230519T203000Z
 UID:ZJF2gmqBQq
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nInterrogating the absence of a fa
- ther in his life\, Tzotzil director Xun Sero trains his camera on his warm
-  yet fiercely driven mother Hilda\, leading to a realization about the str
- ength of her character born of the challenges and contradictions many wome
- n face.\nDirector Xun Sero scheduled to attend.\n\nhttps://www.siff.net/fe
- stival/mom\n\nAlso playing at:\n • SIFF Film Center (Thu 18 May\, 06:00 
- PM)
+DESCRIPTION:Duration: 80 mins (1h20m)\n\n\n\nhttps://www.siff.net/festival
+ /mom\n\nAlso playing at:\n\n  • SIFF Film Center (Thu 18 May\, 06:00 PM)
+ \n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:This Closeness (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T224500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T001300Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T002300Z
 DTSTAMP;VALUE=DATE-TIME:20230519T224500Z
 UID:QsxA1e20Pk
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nIn Philadelphia for a high school
-  reunion\, a couple (including writer/director Kit Zauhar) opts to stay at
-  a shared-space apartment only for their relationship to fracture almost i
- n real time\, not least of which thanks to their incredibly strange host.\
- nWriter/Director/Actor Kit Zauhar and Actor Ian Edlund scheduled to attend
- .\n\nhttps://www.siff.net/festival/this-closeness\n\nAlso playing at:\n 
- • SIFF Cinema Uptown House 3 (Thu 18 May\, 06:45 PM)
+DESCRIPTION:Duration: 88 mins (1h28m)\n\n\n\nhttps://www.siff.net/festival
+ /this-closeness\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 3 (T
+ hu 18 May\, 06:45 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoke Sauna Sisterhood (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T011500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T024400Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T025400Z
 DTSTAMP;VALUE=DATE-TIME:20230520T011500Z
 UID:ZsPExNLSM7
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA stunning\, intimate\, and beaut
- ifully shot lightning bolt of a film\, as a group of women regularly meet 
- at the smoke saunas of southern Estonia to not only cleanse their bodies b
- ut also bare their souls to each other\, finding connection in their joys 
- and ordeals. This screening is in honor of longtime SIFF programmer Maryna
-  Ajaja.\n'This film is sponsored by Mary Rainwater.\n\nhttps://www.siff.ne
- t/festival/smoke-sauna-sisterhood\n\nAlso playing at:\n • SIFF Cinema Up
- town House 3 (Sun 21 May\, 04:00 PM)
+DESCRIPTION:Duration: 89 mins (1h29m)\n\n\n\nhttps://www.siff.net/festival
+ /smoke-sauna-sisterhood\n\nAlso playing at:\n\n  • SIFF Cinema Uptown Ho
+ use 3 (Sun 21 May\, 04:00 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Echo (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T034500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T052700Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T053700Z
 DTSTAMP;VALUE=DATE-TIME:20230520T034500Z
 UID:UZ4TOxZO1l
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nIn a village nestled deep in the
-  hills of Puebla\, three rural families find hope and struggle within the 
- unyielding demands of nature and community in this tender and visually stu
- nning new documentary from acclaimed director Tatiana Huezo.\n\nhttps://ww
- w.siff.net/festival/the-echo\n\nAlso playing at:\n • Ark Lodge Cinemas (
- Sun 21 May\, 03:30 PM)
+DESCRIPTION:Duration: 102 mins (1h42m)\n\n\n\nhttps://www.siff.net/festiva
+ l/the-echo\n\nAlso playing at:\n\n  • Ark Lodge Cinemas (Sun 21 May\, 03
+ :30 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Futurewave Shorts
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T213400Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T214400Z
 DTSTAMP;VALUE=DATE-TIME:20230520T200000Z
 UID:GTBC6xsqGb
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nWe believe the children are our f
- uture. See shorts from around the world created by filmmakers under 18 who
-  represent the next generation of cinema.\nVarious filmmakers expected to 
- attend.\n\nhttps://www.siff.net/festival/futurewave-shorts
+DESCRIPTION:Duration: 94 mins (1h34m)\n\n\n\nhttps://www.siff.net/festival
+ /futurewave-shorts\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CONNECTED by WATER
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T235900Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T000900Z
 DTSTAMP;VALUE=DATE-TIME:20230520T223000Z
 UID:VnCMUeHfyu
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nMany Indigenous peoples have deep
-  relationships with water. These short stories are reminders of the interc
- onnected nature of all beings.\nVarious filmmakers expected to attend.\n\n
- https://www.siff.net/festival/connected-by-water
+DESCRIPTION:Duration: 89 mins (1h29m)\n\n\n\nhttps://www.siff.net/festival
+ /connected-by-water\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abled (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T023800Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T024800Z
 DTSTAMP;VALUE=DATE-TIME:20230521T010000Z
 UID:6BxgNe3OLe
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nSetting its focus on double-leg b
- lade sprinter Blake Leeper\, who aspires to be in the Olympics\, this is a
- n inquiry into the deliberate bias against disabled athletes who want to c
- ompete against the “able-bodied” and the dubious science used to bar t
- hem from their dreams.\n\nDirector/Producer Einar Thorsteinsson\, subject
-  Blake Leeper\, and several crew members scheduled to attend.\n\nhttps://w
- ww.siff.net/festival/abled\n\nAlso playing at:\n • SIFF Cinema Uptown Ho
- use 3 (Sun 21 May\, 11:00 AM)
+DESCRIPTION:Duration: 98 mins (1h38m)\n\n\n\nhttps://www.siff.net/festival
+ /abled\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 3 (Sun 21 May
+ \, 11:00 AM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hill of Secrets (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T033000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T053200Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T054200Z
 DTSTAMP;VALUE=DATE-TIME:20230521T033000Z
 UID:COi2pap0UA
-DESCRIPTION:Duration: 122 mins (2h02m)\n\nIn this well-observed drama\, a 
- young girl (Moon Seung-ah\, SIFF 2022’s Voice of Silence)\, ashamed of h
- er family’s working-class status\, hides who they are and strives for a 
- more conservative future. Maybe running for class president will help.\n\n
- https://www.siff.net/festival/the-hill-of-secrets\n\nAlso playing at:\n 
- • Ark Lodge Cinemas (Fri 19 May\, 03:15 PM)
+DESCRIPTION:Duration: 122 mins (2h02m)\n\n\n\nhttps://www.siff.net/festiva
+ l/the-hill-of-secrets\n\nAlso playing at:\n\n  • Ark Lodge Cinemas (Fri 
+ 19 May\, 03:15 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abled (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T193800Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T194800Z
 DTSTAMP;VALUE=DATE-TIME:20230521T180000Z
 UID:Nh4EjSJt87
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nSetting its focus on double-leg b
- lade sprinter Blake Leeper\, who aspires to be in the Olympics\, this is a
- n inquiry into the deliberate bias against disabled athletes who want to c
- ompete against the “able-bodied” and the dubious science used to bar t
- hem from their dreams.\n\nDirector/Producer Einar Thorsteinsson\, subject
-  Blake Leeper\, and several crew members scheduled to attend.\n\nhttps://w
- ww.siff.net/festival/abled\n\nAlso playing at:\n • SIFF Cinema Uptown Ho
- use 3 (Sat 20 May\, 06:00 PM)
+DESCRIPTION:Duration: 98 mins (1h38m)\n\n\n\nhttps://www.siff.net/festival
+ /abled\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 3 (Sat 20 May
+ \, 06:00 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Jean (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T220700Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T221700Z
 DTSTAMP;VALUE=DATE-TIME:20230521T203000Z
 UID:4QFDqdyU4p
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nAs Section 28 is set to pass (the
-  late-’80s set of British laws that prohibited the promotion of homosexu
- ality)\, a closeted P.E. teacher’s life unravels when a bullied new stud
- ent discovers her secret and threatens her career.\n\nhttps://www.siff.net
- /festival/blue-jean\n\nAlso playing at:\n • SIFF Cinema Uptown House 2 (
- Tue 16 May\, 08:45 PM)
+DESCRIPTION:Duration: 97 mins (1h37m)\n\n\n\nhttps://www.siff.net/festival
+ /blue-jean\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 2 (Tue 16
+  May\, 08:45 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoke Sauna Sisterhood (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T002900Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T003900Z
 DTSTAMP;VALUE=DATE-TIME:20230521T230000Z
 UID:qL0dQAG0Ww
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA stunning\, intimate\, and beaut
- ifully shot lightning bolt of a film\, as a group of women regularly meet 
- at the smoke saunas of southern Estonia to not only cleanse their bodies b
- ut also bare their souls to each other\, finding connection in their joys 
- and ordeals. This screening is in honor of longtime SIFF programmer Maryna
-  Ajaja.\n'This film is sponsored by Mary Rainwater.\n\nhttps://www.siff.ne
- t/festival/smoke-sauna-sisterhood\n\nAlso playing at:\n • SIFF Cinema Up
- town House 3 (Fri 19 May\, 06:15 PM)
+DESCRIPTION:Duration: 89 mins (1h29m)\n\n\n\nhttps://www.siff.net/festival
+ /smoke-sauna-sisterhood\n\nAlso playing at:\n\n  • SIFF Cinema Uptown Ho
+ use 3 (Fri 19 May\, 06:15 PM)\n\nEvent is available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LOLA (2/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230522T014500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T031800Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T032800Z
 DTSTAMP;VALUE=DATE-TIME:20230522T014500Z
 UID:QsUwZUF2HY
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA crackling speculative fiction o
- ut of Ireland about two sisters\, circa 1941\, who build a machine that pi
- cks up broadcasts from the future. But when they realize they can change t
- he course of World War II\, a terrible butterfly effect is set into motion
- .\n\nhttps://www.siff.net/festival/lola\n\nAlso playing at:\n • Ark Lodg
- e Cinemas (Sun 14 May\, 01:00 PM)
+DESCRIPTION:Duration: 93 mins (1h33m)\n\n\n\nhttps://www.siff.net/festival
+ /lola\n\nAlso playing at:\n\n  • Ark Lodge Cinemas (Sun 14 May\, 01:00 P
+ M)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
