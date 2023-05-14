@@ -2,6 +2,7 @@
 #
 # https://icalendar.readthedocs.io/en/latest/usage.html#example
 
+import re
 import click
 import icalendar
 import logging
@@ -34,6 +35,8 @@ DAYS = 10
 
 BASE_URL = "https://www.siff.net/calendar?view=list&date="
 LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
+
+re_collapse_newlines = re.compile(r'\n+')
 
 
 class SiffICS:
@@ -95,13 +98,20 @@ class SiffICS:
 
             soup = BeautifulSoup(r.content, "html.parser")
 
-            body = soup.select("div.body-copy")[0].get_text().strip()
+            body = soup.select("div.body-copy")[0].get_text()
+
+            # Tidy body text
+            body = body.strip()
+            body = re_collapse_newlines.sub(body, '')
+
+            is_streamed = b"SIFF Streaming" in r.content
 
             for idx, x in enumerate(xs):
                 x["EventIndex"] = idx + 1
                 x["EventTotal"] = len(xs)
                 x["EventsOther"] = [y for idx_, y in enumerate(xs) if idx_ != idx]
                 x["EventBody"] = body
+                x["IsStreamed"] = is_streamed
 
     def populate_events_for_date(self, date):
         date_fmt = date.strftime("%Y-%m-%d")
@@ -179,12 +189,14 @@ class SiffICS:
             description.append(x["Url"])
 
             if x["EventTotal"] > 1:
-                txt = "Also playing at:"
+                description.append("Also playing at:")
                 for other in x["EventsOther"]:
                     dt = get_datetime(other["Showtime"]).astimezone(LOCAL_TIMEZONE)
                     fmt = dt.strftime("%a %d %B, %I:%M %p")
-                    txt = f"{txt}\n • {other['VenueName']} ({fmt})"
-                description.append(txt)
+                    description.append(f"  • {other['VenueName']} ({fmt})")
+
+            if x["IsStreamed"]:
+                    description.append(f"Event is available on SIFF Streaming")
 
             event.add("description", "\n\n".join(description))
 
