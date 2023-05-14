@@ -98,11 +98,10 @@ class SiffICS:
 
             soup = BeautifulSoup(r.content, "html.parser")
 
+            # Body text
             body = soup.select("div.body-copy")[0].get_text()
-
-            # Tidy body text
             body = body.strip()
-            body = re_collapse_newlines.sub(body, '')
+            body = re_collapse_newlines.sub(' ', body).strip()
 
             is_streamed = b"SIFF Streaming" in r.content
 
