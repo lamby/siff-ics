@@ -29,6 +29,7 @@ logging.basicConfig(
 )
 
 START = datetime.date(2023, 5, 11)
+PADDING = 10  # minutes
 DAYS = 10
 
 BASE_URL = "https://www.siff.net/calendar?view=list&date="
@@ -161,7 +162,7 @@ class SiffICS:
             )
 
             start = get_datetime(x["Showtime"])
-            end = get_datetime(x["ShowtimeEnd"])
+            end = get_datetime(x["ShowtimeEnd"]) + datetime.timedelta(minutes=PADDING)
 
             event.add("dtstamp", start)
             event.add("dtstart", start)
