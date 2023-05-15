@@ -1,52 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230514T162451Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230515T152714Z
 NAME:SIFF 2023 (Shoreline CC Theater)
 X-WR-CALNAME:SIFF 2023 (Shoreline CC Theater)
 BEGIN:VEVENT
-SUMMARY:Stephen Curry: Underrated
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T220000Z
-DTSTAMP;VALUE=DATE-TIME:20230514T200000Z
-UID:PeXvhh2vIl
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nStephen Curry is one of the most
-  influential\, dynamic\, and unexpected players in the history of basketba
- ll. Intimate cinematic video\, archival footage\, and on-camera interviews
-  reveal Curry’s rise from an undersized college player to a four-time NB
- A champion.\n\nhttps://www.siff.net/festival/stephen-curry-underrated
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lonely Castle in the Mirror (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T010600Z
-DTSTAMP;VALUE=DATE-TIME:20230514T230000Z
-UID:Imd1GX9IUm
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nOne day\, seven middle schoolers
-  find themselves transported to a mysterious castle on the other side of t
- heir bedroom mirrors. Conspiring to win the prize set out by the mysteriou
- s Wolf Queen\, they bond over their stories and make their own rules.\n\nh
- ttps://www.siff.net/festival/lonely-castle-in-the-mirror\n\nAlso playing a
- t:\n\n  • SIFF Cinema Egyptian (Fri 19 May\, 03:30 PM)
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pianoforte (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T033900Z
-DTSTAMP;VALUE=DATE-TIME:20230515T020000Z
-UID:XRTiW74ywN
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nIt’s the prestigious Internatio
- nal Chopin Piano Competition in Warsaw and young musicians from all over t
- he world are ready to prove their dedication to classical piano in this vi
- rtuosic and crowd-pleasing sensation in the vein of documentary smash hit 
- Spellbound.\n\nhttps://www.siff.net/festival/pianoforte\n\nAlso playing at
- :\n\n  • SIFF Cinema Uptown House 1 (Sat 20 May\, 12:00 PM)
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anu (2/2)
+SUMMARY:Anu
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T023000Z
 DTSTAMP;VALUE=DATE-TIME:20230516T010000Z
@@ -55,9 +14,8 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nFrom local filmmaker Sudeshna Sen
   comes this touching coming-of-age story about a South Asian-American 12-y
  ear-old who believes her recently passed grandfather may be coming back as
   the holy reincarnation of Siddhartha. Director/Producer Sudeshna Sen sche
- duled to attend.\n\nhttps://www.siff.net/festival/anu\n\nAlso playing at:\
- n\n  • SIFF Cinema Egyptian (Sun 14 May\, 04:00 PM)\n\nEvent is availabl
- e on SIFF Streaming
+ duled to attend.\n\nhttps://www.siff.net/festival/anu\n\nAlso available on
+  SIFF Streaming
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +28,7 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nA Romeo and Juliet-esque romance
  -western sets a small Italian town ablaze as two warring mafia families re
  ignite a generations-simmering feud that will drag everybody back into a v
  iolent spiral of blood and death.\n\nhttps://www.siff.net/festival/burning
- -hearts\n\nEvent is available on SIFF Streaming
+ -hearts\n\nAlso available on SIFF Streaming
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -125,8 +83,8 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nThe Alta Conflict\, a series of
   would flood Indigenous land\, is the setting of this gutting historical d
  rama centering on a teacher who unintentionally becomes part of the Sámi 
  revolution.\n\nhttps://www.siff.net/festival/let-the-river-flow\n\nAlso pl
- aying at:\n\n  • SIFF Cinema Uptown House 1 (Sat 20 May\, 02:15 PM)\n\nE
- vent is available on SIFF Streaming
+ aying at:\n\n  • SIFF Cinema Uptown House 1 (Sat 20 May\, 02:15 PM)\n\nA
+ lso available on SIFF Streaming
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -184,8 +142,8 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nSet in a remote mountain village
   in Galicia\, Spain\, this potent thriller depicts the friction between a 
  local powerbroker and a middle-aged French couple who have moved there to 
  start a farming life.\n\nhttps://www.siff.net/festival/the-beasts\n\nAlso 
- playing at:\n\n  • SIFF Cinema Egyptian (Tue 16 May\, 09:00 PM)\n\nEvent
-  is available on SIFF Streaming
+ playing at:\n\n  • SIFF Cinema Egyptian (Tue 16 May\, 09:00 PM)\n\nAlso 
+ available on SIFF Streaming
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -215,8 +173,8 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nAt San Quentin State Prison\, an
   and become champions\, determined to be more than a statistic. Subject Ma
  rkelle Taylor\, Director/Producer Christine Yoo\, and Coach Jim Maloney s
  cheduled to attend.\n\nhttps://www.siff.net/festival/262-to-life\n\nAlso p
- laying at:\n\n  • AMC Pacific Place 11 (Sun 21 May\, 01:00 PM)\n\nEvent 
- is available on SIFF Streaming
+ laying at:\n\n  • AMC Pacific Place 11 (Sun 21 May\, 01:00 PM)\n\nAlso a
+ vailable on SIFF Streaming
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -229,8 +187,8 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nWinner of six César Awards incl
  uding Best Picture\, this deeply satisfying true crime police procedural f
  rom filmmaker Dominik Moll (suspense classic With a Friend Like Harry…) 
  follows two detectives investigating the shocking murder of a young suburb
- an woman.\n\nhttps://www.siff.net/festival/the-night-of-the-12th\n\nEvent 
- is available on SIFF Streaming
+ an woman.\n\nhttps://www.siff.net/festival/the-night-of-the-12th\n\nAlso a
+ vailable on SIFF Streaming
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT

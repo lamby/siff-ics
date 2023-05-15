@@ -1,68 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230514T162451Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230515T152714Z
 NAME:SIFF 2023 (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF 2023 (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Blurred Dimensions
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T201200Z
-DTSTAMP;VALUE=DATE-TIME:20230514T183000Z
-UID:FymUsjS9rQ
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nFrom tech what-could-have-beens t
- o intergalactic what-could-be’s\, plug in and unlock the secrets of thes
- e eight cosmic realities. Beam me up\, SIFF-y. Various filmmakers expected
-  to attend.\n\nhttps://www.siff.net/festival/blurred-dimensions\n\nEvent i
- s available on SIFF Streaming
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Day All This Will Be Yours
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T232500Z
-DTSTAMP;VALUE=DATE-TIME:20230514T213000Z
-UID:o0mOaYZLnt
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn this offbeat drama of dysfunc
- tional domestic dynamics\, a cartoonist reunites with her siblings at thei
- r family farm in distant Norrland\, Sweden\, to find out which of them wil
- l inherit the land. But something buried in their past is bound to complic
- ate matters. Director Andreas Öhman\, Producers Eliza Jones and Markus Wa
- ltå\, and Actress Karin Franz Körlof scheduled to attend.\n\nhttps://ww
- w.siff.net/festival/one-day-all-this-will-be-yours\n\nEvent is available o
- n SIFF Streaming
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stella
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T015800Z
-DTSTAMP;VALUE=DATE-TIME:20230515T003000Z
-UID:Sg4gpS23OT
-DESCRIPTION:Duration: 78 mins (1h18m)\n\nGrab a seat and grab a slice! Che
- f Ciro Oliva wants nothing more than his Neapolitan pizzeria Concettina ai
-  Tre Santi to be the first of its kind to earn a coveted Michelin Star\, b
- ut that’s easier said than done with the notoriously secretive organizat
- ion. Director/Producer Tyler Doehring and several crew members scheduled t
- o attend.\n\nhttps://www.siff.net/festival/stella\n\nEvent is available on
-  SIFF Streaming
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monica (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T045600Z
-DTSTAMP;VALUE=DATE-TIME:20230515T030000Z
-UID:42enbpbsSP
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nTrans woman Monica (Trace Lysett
- e\, “Transparent”) returns to her childhood home to take care of her a
- iling mother (Oscar® nominee Patricia Clarkson)\, coming to terms with th
- e fractured family she left behind so many years ago. Director/Writer/Prod
- ucer Andrea Pallaoro scheduled to attend.\n\nhttps://www.siff.net/festival
- /monica\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 2 (Mon 15 Ma
- y\, 03:00 PM)
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Until Branches Bend
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T193000Z
@@ -74,12 +15,11 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nIn this zeitgeisty\, confident\,
  t cannery worker in the Okanagan Valley discovers a peach crop infestation
   and makes it her mission to convince everybody of its danger. Director So
  phie Jarvis and Editor Kane Stewart scheduled to attend.\n\nhttps://www.si
- ff.net/festival/until-branches-bend\n\nEvent is available on SIFF Streamin
- g
+ ff.net/festival/until-branches-bend\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monica (2/2)
+SUMMARY:Monica
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T235600Z
 DTSTAMP;VALUE=DATE-TIME:20230515T220000Z
@@ -89,8 +29,7 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nTrans woman Monica (Trace Lysett
  iling mother (Oscar® nominee Patricia Clarkson)\, coming to terms with th
  e fractured family she left behind so many years ago. Director/Writer/Prod
  ucer Andrea Pallaoro scheduled to attend.\n\nhttps://www.siff.net/festival
- /monica\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 2 (Sun 14 Ma
- y\, 08:00 PM)
+ /monica
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +49,7 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nThe past is prologue in Hanna Bad
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Irati (2/2)
+SUMMARY:Irati
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T034500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T054900Z
 DTSTAMP;VALUE=DATE-TIME:20230516T034500Z
@@ -123,8 +62,7 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nFrom the director of SIFF 2018
  a grab bag from the BoneBat Comedy of Horrors Film Fest\, an annual evenin
  g of giggles and gore presenting the finest in independent Comedy/Horror f
  eatures and shorts from around the world.\n\nhttps://www.siff.net/festival
- /irati\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 1 (Sun 14 May
- \, 09:00 PM)
+ /irati
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -143,7 +81,7 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nA Jewish-British child mourning
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Snow and the Bear (2/2)
+SUMMARY:Snow and the Bear
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T224500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T002800Z
 DTSTAMP;VALUE=DATE-TIME:20230516T224500Z
@@ -152,9 +90,8 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nA young nurse arrives in a remote
   village in Anatolia\, where winter never seems to end and bears roam the 
  woods. When a notorious local man goes missing\, she finds herself in the 
  midst of a dark fairy tale about guilt\, suspicion\, and fear.\n\nhttps://
- www.siff.net/festival/snow-and-the-bear\n\nAlso playing at:\n\n  • AMC P
- acific Place 11 (Sun 14 May\, 06:45 PM)\n\nEvent is available on SIFF Stre
- aming
+ www.siff.net/festival/snow-and-the-bear\n\nAlso available on SIFF Streamin
+ g
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -209,8 +146,8 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nThe life and times of George Plat
  ith this deep dive into his lesser known but incredibly vital work on depi
  cting the nude male body in all its glory.\n\nhttps://www.siff.net/festiva
  l/hidden-master-the-legacy-of-george-platt-lynes\n\nAlso playing at:\n\n  
- • AMC Pacific Place 11 (Thu 18 May\, 06:00 PM)\n\nEvent is available on 
- SIFF Streaming
+ • AMC Pacific Place 11 (Thu 18 May\, 06:00 PM)\n\nAlso available on SIFF
+  Streaming
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -258,8 +195,7 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nLogan Red Crow of Canada’s Blac
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Desperate Souls\, Dark City and the Legend of Midnight Cowboy (2/2
- )
+SUMMARY:Desperate Souls\, Dark City and the Legend of Midnight Cowboy
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T235100Z
 DTSTAMP;VALUE=DATE-TIME:20230518T220000Z
@@ -269,8 +205,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nThere never was a movie like Mid
  y made it tick. This doc examines not only the film’s enormous impact bu
  t also the social\, political\, and cultural forces that breathed it into 
  existence.\n\nhttps://www.siff.net/festival/desperate-souls-dark-city-and-
- the-legend-of-midnight-cowboy\n\nAlso playing at:\n\n  • AMC Pacific Pla
- ce 11 (Sun 14 May\, 09:15 PM)
+ the-legend-of-midnight-cowboy
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -285,8 +220,8 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nA nail-biting thriller about cen
  er of the Sundance 2023 U.S. Documentary Special Jury Award. Co-Director/P
  roducer Rebecca Landsberry-Baker and Producers Garrett Baker and Conrad Be
  ilharz scheduled to attend.\n\nhttps://www.siff.net/festival/bad-press\n\n
- Also playing at:\n\n  • Ark Lodge Cinemas (Sat 20 May\, 03:00 PM)\n\nEve
- nt is available on SIFF Streaming
+ Also playing at:\n\n  • Ark Lodge Cinemas (Sat 20 May\, 03:00 PM)\n\nAls
+ o available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -313,7 +248,7 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nIn this meditative and naturalist
  ic family drama about new beginnings\, an immigrant chef on the cusp of re
  gaining control of his life has it all upended when his estranged\, rehab-
  bound daughter leaves him with the grandchild he never knew.\n\nhttps://ww
- w.siff.net/festival/coyote\n\nEvent is available on SIFF Streaming
+ w.siff.net/festival/coyote\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -343,8 +278,8 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nEight connected stories of varyi
  colonization all the way to a speculative future\, making space to hear fr
  om the people. Director Renae Maihi scheduled to attend.\n\nhttps://www.si
  ff.net/festival/we-are-still-here\n\nAlso playing at:\n\n  • SIFF Cinema
-  Uptown House 1 (Sun 21 May\, 10:30 AM)\n\nEvent is available on SIFF Stre
- aming
+  Uptown House 1 (Sun 21 May\, 10:30 AM)\n\nAlso available on SIFF Streamin
+ g
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -356,7 +291,7 @@ UID:KVtv018K55
 DESCRIPTION:Duration: 98 mins (1h38m)\n\nAssorted tales of women by women.
   Women conning\, women crushing\, women cumming\, women hazing\, and women
   seeing other women. Various filmmakers expected to attend.\n\nhttps://www
- .siff.net/festival/full-frontal\n\nEvent is available on SIFF Streaming
+ .siff.net/festival/full-frontal\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -369,8 +304,8 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nBringing people together is what
  these six documentaries do in order to tell real\, queer stories that upli
  ft\, advocate for/against relevant topics\, and move the spotlight over to
   those that deserve more recognition. Various filmmakers expected to atten
- d.\n\nhttps://www.siff.net/festival/doqommunity-now\n\nEvent is available 
- on SIFF Streaming
+ d.\n\nhttps://www.siff.net/festival/doqommunity-now\n\nAlso available on S
+ IFF Streaming
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -387,7 +322,7 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nIn this delightful coming-of-age
   Kristi League scheduled to attend. Presented in collaboration with the Se
  attle Asian American Film Festival.\n\nhttps://www.siff.net/festival/egghe
  ad-and-twinkie\n\nAlso playing at:\n\n  • AMC Pacific Place 11 (Fri 19 M
- ay\, 06:00 PM)\n\nEvent is available on SIFF Streaming
+ ay\, 06:00 PM)\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -450,7 +385,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nCome one\, come all\, and step in
  ies and physical media from Scarecrow Video Library!\n\nhttps://www.siff.n
  et/festival/circus-of-the-scars-the-insider-odyssey-of-the-jim-rose-circus
  -sideshow\n\nAlso playing at:\n\n  • SIFF Cinema Egyptian (Fri 19 May\, 
- 09:30 PM)\n\nEvent is available on SIFF Streaming
+ 09:30 PM)\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -478,8 +413,8 @@ UID:t65ZcSvGU4
 DESCRIPTION:Duration: 82 mins (1h22m)\n\nA boy joins his estranged father 
  on a trip into the mountains\, only to find that the patriarch has grander
   plans for the two of them in this picturesque slow burn of mounting dread
- .\n\nhttps://www.siff.net/festival/retreat\n\nEvent is available on SIFF S
- treaming
+ .\n\nhttps://www.siff.net/festival/retreat\n\nAlso available on SIFF Strea
+ ming
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

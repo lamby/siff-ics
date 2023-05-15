@@ -1,52 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230514T162451Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230515T152714Z
 NAME:SIFF 2023 (SIFF Film Center)
 X-WR-CALNAME:SIFF 2023 (SIFF Film Center)
-BEGIN:VEVENT
-SUMMARY:Filip (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T231000Z
-DTSTAMP;VALUE=DATE-TIME:20230514T210000Z
-UID:g0n87RMtKo
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nAn unexpectedly sharp\, jagged c
- haracter study about a handsome young Polish Jew pretending to be French w
- ho works at a luxury hotel in Nazi-era Frankfurt as his carefully construc
- ted and extravagant lifestyle gets turned upside-down by the thrust of his
- tory.\n\nhttps://www.siff.net/festival/filip\n\nAlso playing at:\n\n  • 
- Ark Lodge Cinemas (Wed 17 May\, 08:45 PM)\n\nEvent is available on SIFF St
- reaming
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Kill a Tiger
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T020000Z
-DTSTAMP;VALUE=DATE-TIME:20230514T234500Z
-UID:31SYLSi80G
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA gut-wrenching but empowering l
- ook at systemic misogyny\, as an Indian rice farmer joins forces with a ge
- nder rights advocacy organization to stand up to his village and receive j
- ustice for his young daughter\, the victim of a terrible sexual assault.\n
- \nhttps://www.siff.net/festival/to-kill-a-tiger\n\nEvent is available on S
- IFF Streaming
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fishbowl (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T041200Z
-DTSTAMP;VALUE=DATE-TIME:20230515T023000Z
-UID:LiqpXD63y5
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn this debut film from Glorimar 
- Marrero Sánchez\, a terminally ill woman returns to her native Puerto Ric
- an island\, one that the U.S. Navy poisoned with decades of military pract
- ices\, to reunite with old friends and come to terms with her fate.\n\nhtt
- ps://www.siff.net/festival/the-fishbowl\n\nAlso playing at:\n\n  • SIFF 
- Cinema Egyptian (Mon 15 May\, 01:30 PM)
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIster & Sister (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T013000Z
@@ -73,8 +30,8 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nIn this impressionistic feature\,
  ape\, audio tapes\, photographs—and by hiring actors to play his missing
   parents. Director/Writer Dean Kavanagh and Producer Anja Mahler scheduled
   to attend.\n\nhttps://www.siff.net/festival/hole-in-the-head\n\nAlso play
- ing at:\n\n  • SIFF Cinema Uptown House 3 (Tue 16 May\, 08:00 PM)\n\nEve
- nt is available on SIFF Streaming
+ ing at:\n\n  • SIFF Cinema Uptown House 3 (Tue 16 May\, 08:00 PM)\n\nAls
+ o available on SIFF Streaming
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +46,7 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nInterrogating the absence of a fa
  ength of her character born of the challenges and contradictions many wome
  n face. Director Xun Sero scheduled to attend.\n\nhttps://www.siff.net/fes
  tival/mom\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 3 (Fri 19 
- May\, 01:30 PM)\n\nEvent is available on SIFF Streaming
+ May\, 01:30 PM)\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -116,7 +73,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nFrom tropical apparitions and twi
  sted role play to a schoolbus spaceship and\, well…Shrek\, these seven t
  ales explore the beautiful\, bizarre ways we encounter grief. Various film
  makers expected to attend.\n\nhttps://www.siff.net/festival/good-grief\n\n
- Event is available on SIFF Streaming
+ Also available on SIFF Streaming
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -130,7 +87,7 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nAn Austrian Muslim teen and her t
  gh the world of sudden viral fame when they upload a video of them dancing
   to an R.E.M. song while wearing hijabs.\n\nhttps://www.siff.net/festival/
  sonne\n\nAlso playing at:\n\n  • SIFF Cinema Egyptian (Wed 17 May\, 01:1
- 5 PM)\n\nEvent is available on SIFF Streaming
+ 5 PM)\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -142,8 +99,7 @@ UID:XjvNreeQ3s
 DESCRIPTION:Duration: 80 mins (1h20m)\n\nFive documentary and narrative st
  ories of people navigating the seen and unseen lines that we draw to both 
  unite and divide us. Various filmmakers expected to attend.\n\nhttps://www
- .siff.net/festival/border-crossings\n\nEvent is available on SIFF Streamin
- g
+ .siff.net/festival/border-crossings\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -157,8 +113,8 @@ DESCRIPTION:Duration: 68 mins (1h08m)\n\nOver the course of one night\, st
   fears and failings\, falling in love and learning to let go in this exube
  rant debut feature\, winner of the Crystal Bear Award at the 2023 Berlinal
  e.\n\nhttps://www.siff.net/festival/adolfo\n\nAlso playing at:\n\n  • AM
- C Pacific Place 11 (Fri 19 May\, 01:00 PM)\n\nEvent is available on SIFF S
- treaming
+ C Pacific Place 11 (Fri 19 May\, 01:00 PM)\n\nAlso available on SIFF Strea
+ ming
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR

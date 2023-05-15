@@ -195,7 +195,7 @@ class SiffICS:
                     description.append(f"  • {other['VenueName']} ({fmt})")
 
             if x["IsStreamed"]:
-                    description.append(f"Event is available on SIFF Streaming")
+                    description.append(f"Also available on SIFF Streaming")
 
             event.add("description", "\n\n".join(description))
 

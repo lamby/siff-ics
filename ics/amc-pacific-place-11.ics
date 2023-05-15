@@ -1,83 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230514T162451Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230515T152714Z
 NAME:SIFF 2023 (AMC Pacific Place 11)
 X-WR-CALNAME:SIFF 2023 (AMC Pacific Place 11)
-BEGIN:VEVENT
-SUMMARY:Mavka: The Forest Song (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T194000Z
-DTSTAMP;VALUE=DATE-TIME:20230514T180000Z
-UID:SoNdqHHiEG
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nIn this animated fantasy from the
-  Ukraine\, mythical guardian Mavka must protect her forest home from an ev
- il lumber magnate\, even if it might mean ending her newfound love of youn
- g Lukash\, a human musician who has touched her heart. Ages 7+\, in Englis
- h.\n\nhttps://www.siff.net/festival/mavka-the-forest-song\n\nAlso playing 
- at:\n\n  • Ark Lodge Cinemas (Sun 21 May\, 01:00 PM)
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To the North
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T201500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T222700Z
-DTSTAMP;VALUE=DATE-TIME:20230514T201500Z
-UID:Aj8cdKy1Tp
-DESCRIPTION:Duration: 122 mins (2h02m)\n\nA harrowing maritime thriller ab
- out a Filipino worker on a freight ship who discovers a Romanian stowaway 
- on board. Believing it is a sign from God\, the worker helps the young man
-  hide from the Taiwanese officers intent on quashing any sign of danger. P
- roducer Radu Stancu scheduled to attend.\n\nhttps://www.siff.net/festival/
- to-the-north
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Bloomers
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T005700Z
-DTSTAMP;VALUE=DATE-TIME:20230514T231500Z
-UID:7ppiJpZTeu
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nFrom SIFF alum and Audience Award
-  winner Lisa Steen comes this dark comedy about a depressed Brooklyn slack
- er (Karen Gillan\, Dual) who breaks her hip and goes into physical therapy
- \, where she begins an unlikely friendship with an 86-year-old Polish immi
- grant. Director Lisa Steen\, Producers Alex Barreto and Taylor Feltner\, a
- nd Cast Member Michelle Twarowska scheduled to attend.\n\nhttps://www.sif
- f.net/festival/late-bloomers
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Snow and the Bear (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T014500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T032800Z
-DTSTAMP;VALUE=DATE-TIME:20230515T014500Z
-UID:2Nwxb8FolJ
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA young nurse arrives in a remote
-  village in Anatolia\, where winter never seems to end and bears roam the 
- woods. When a notorious local man goes missing\, she finds herself in the 
- midst of a dark fairy tale about guilt\, suspicion\, and fear.\n\nhttps://
- www.siff.net/festival/snow-and-the-bear\n\nAlso playing at:\n\n  • SIFF 
- Cinema Uptown House 2 (Tue 16 May\, 03:45 PM)\n\nEvent is available on SIF
- F Streaming
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Desperate Souls\, Dark City and the Legend of Midnight Cowboy (1/2
- )
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T041500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T060600Z
-DTSTAMP;VALUE=DATE-TIME:20230515T041500Z
-UID:LwJcOKiFpf
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nThere never was a movie like Mid
- night Cowboy\, and though many have tried\, none have replicated what trul
- y made it tick. This doc examines not only the film’s enormous impact bu
- t also the social\, political\, and cultural forces that breathed it into 
- existence.\n\nhttps://www.siff.net/festival/desperate-souls-dark-city-and-
- the-legend-of-midnight-cowboy\n\nAlso playing at:\n\n  • SIFF Cinema Upt
- own House 2 (Thu 18 May\, 03:00 PM)
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harka
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T203000Z
@@ -88,7 +14,7 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nA gripping sociopolitical thrille
  r about a young Tunisian petrol bootlegger who\, dreaming of a better life
  \, is pushed to the brink by misfortune\, injustice\, and government corru
  ption still in place over a decade after the Arab Spring.\n\nhttps://www.s
- iff.net/festival/harka\n\nEvent is available on SIFF Streaming
+ iff.net/festival/harka\n\nAlso available on SIFF Streaming
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -101,8 +27,8 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nThe life and times of drummer Max
   Roach\, who forever changed the landscape of America through his timeless
   music and lifetime of cultural activism\, structured as a series of chapt
  ers that reflect his constant reinvention over his seven-decade career.\n\
- nhttps://www.siff.net/festival/max-roach-the-drum-also-waltzes\n\nEvent is
-  available on SIFF Streaming
+ nhttps://www.siff.net/festival/max-roach-the-drum-also-waltzes\n\nAlso ava
+ ilable on SIFF Streaming
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -177,7 +103,7 @@ DESCRIPTION:Duration: 76 mins (1h16m)\n\nLet’s get ready to…tell puns?
  , including stand-up comedians\, political activists\, and anthropologists
  . Director Abby Hagan scheduled to attend.\n\nhttps://www.siff.net/festiva
  l/punderneath-it-all\n\nAlso playing at:\n\n  • Ark Lodge Cinemas (Wed 1
- 7 May\, 03:30 PM)\n\nEvent is available on SIFF Streaming
+ 7 May\, 03:30 PM)\n\nAlso available on SIFF Streaming
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -191,8 +117,8 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nThis experimental mix of document
  Los Angeles high school tuba thefts as a jumping-off point to skillfully e
  xplore the ways in which we engage with sound\, music\, and speech.\n\nhtt
  ps://www.siff.net/festival/the-tuba-thieves\n\nAlso playing at:\n\n  • S
- IFF Cinema Uptown House 3 (Mon 15 May\, 03:30 PM)\n\nEvent is available on
-  SIFF Streaming
+ IFF Cinema Uptown House 3 (Mon 15 May\, 03:30 PM)\n\nAlso available on SIF
+ F Streaming
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +147,11 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nIn this remarkable story of love
   the shop\, Halim's desires are soon ignited. This film is sponsored by Ti
  m O'Connor & Jeff Stolz\n\nhttps://www.siff.net/festival/the-blue-caftan\n
  \nAlso playing at:\n\n  • SIFF Cinema Uptown House 1 (Tue 16 May\, 05:30
-  PM)\n\nEvent is available on SIFF Streaming
+  PM)\n\nAlso available on SIFF Streaming
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Money (2/2)
+SUMMARY:Free Money
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T025500Z
 DTSTAMP;VALUE=DATE-TIME:20230518T013000Z
@@ -234,8 +160,7 @@ DESCRIPTION:Duration: 75 mins (1h15m)\n\nA deep dive into the concept of u
  niversal basic income and who it truly benefits\, as American charity Give
  Directly sets its sights on the Kenyan village of Kogutu to try out their 
  experiment with the hopes of changing the world.\n\nhttps://www.siff.net/f
- estival/free-money\n\nAlso playing at:\n\n  • Ark Lodge Cinemas (Sun 14 
- May\, 03:30 PM)
+ estival/free-money
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -250,7 +175,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter relocating to a deeply reli
  eature named the Almamula\, in this darkly mysterious debut from Juan Seba
  stian Torales. Director Juan Sebastian Torales scheduled to attend.\n\nhtt
  ps://www.siff.net/festival/almamula\n\nAlso playing at:\n\n  • Ark Lodge
-  Cinemas (Thu 18 May\, 03:30 PM)\n\nEvent is available on SIFF Streaming
+  Cinemas (Thu 18 May\, 03:30 PM)\n\nAlso available on SIFF Streaming
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -293,8 +218,8 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nThe life and times of George Plat
  ith this deep dive into his lesser known but incredibly vital work on depi
  cting the nude male body in all its glory.\n\nhttps://www.siff.net/festiva
  l/hidden-master-the-legacy-of-george-platt-lynes\n\nAlso playing at:\n\n  
- • SIFF Cinema Uptown House 2 (Wed 17 May\, 03:00 PM)\n\nEvent is availab
- le on SIFF Streaming
+ • SIFF Cinema Uptown House 2 (Wed 17 May\, 03:00 PM)\n\nAlso available o
+ n SIFF Streaming
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -322,8 +247,7 @@ DESCRIPTION:Duration: 68 mins (1h08m)\n\nOver the course of one night\, st
   fears and failings\, falling in love and learning to let go in this exube
  rant debut feature\, winner of the Crystal Bear Award at the 2023 Berlinal
  e.\n\nhttps://www.siff.net/festival/adolfo\n\nAlso playing at:\n\n  • SI
- FF Film Center (Sat 20 May\, 05:00 PM)\n\nEvent is available on SIFF Strea
- ming
+ FF Film Center (Sat 20 May\, 05:00 PM)\n\nAlso available on SIFF Streaming
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -354,7 +278,7 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nIn this delightful coming-of-age
   Kristi League scheduled to attend. Presented in collaboration with the Se
  attle Asian American Film Festival.\n\nhttps://www.siff.net/festival/egghe
  ad-and-twinkie\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 2 (Sa
- t 20 May\, 03:00 PM)\n\nEvent is available on SIFF Streaming
+ t 20 May\, 03:00 PM)\n\nAlso available on SIFF Streaming
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -476,8 +400,8 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nAt San Quentin State Prison\, an
   and become champions\, determined to be more than a statistic. Subject Ma
  rkelle Taylor\, Director/Producer Christine Yoo\, and Coach Jim Maloney s
  cheduled to attend.\n\nhttps://www.siff.net/festival/262-to-life\n\nAlso p
- laying at:\n\n  • Shoreline CC Theater (Sat 20 May\, 05:30 PM)\n\nEvent 
- is available on SIFF Streaming
+ laying at:\n\n  • Shoreline CC Theater (Sat 20 May\, 05:30 PM)\n\nAlso a
+ vailable on SIFF Streaming
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -508,8 +432,8 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nA gothic occult thriller set in 1
  fe\, as a woman born under sinister circumstances takes a job as an eccent
  ric Baroness’ nurse to solve the mystery of her own parentage.\n\nhttps:
  //www.siff.net/festival/mother-superior\n\nAlso playing at:\n\n  • SIFF 
- Cinema Egyptian (Sat 20 May\, 11:59 PM)\n\nEvent is available on SIFF Stre
- aming
+ Cinema Egyptian (Sat 20 May\, 11:59 PM)\n\nAlso available on SIFF Streamin
+ g
 LOCATION:AMC Pacific Place 11\, 600 Pine Street
 END:VEVENT
 END:VCALENDAR

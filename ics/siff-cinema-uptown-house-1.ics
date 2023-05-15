@@ -1,77 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230514T162451Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230515T152714Z
 NAME:SIFF 2023 (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF 2023 (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Year of the Fox
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T204700Z
-DTSTAMP;VALUE=DATE-TIME:20230514T190000Z
-UID:CCkRycdUxa
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nYear of the Fox follows Ivy\, a b
- iracial teenager navigating Aspen's elite party scene amidst her adoptive 
- parents' bitter divorce. As she watches her wealthy community provide cove
- r for predatory behavior\, Ivy struggles to find her own path without losi
- ng herself in this compelling exploration of the complexities of power\, p
- rivilege\, and personal agency. Director Megan Griffiths\, Writer/Producer
-  Eliza Flug\, Producer Lacey Leavitt\, Actors Balthazar Getty and Sarah Je
- ffery\, plus numerous extended cast and crew members scheduled to attend.\
- n\nhttps://www.siff.net/festival/year-of-the-fox
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lift (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T233700Z
-DTSTAMP;VALUE=DATE-TIME:20230514T220000Z
-UID:BKg3nKw7jo
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nAcclaimed ballet dancer Steven Me
- lendez returns to the Bronx shelter that was his childhood home in order t
- o mentor a trio of aspiring dancers in this emotionally rich\, unforgettab
- le documentary from director David Petersen. Director/Producer David Peter
- sen\, Subject/Producer Steven Melendez\, Producer Mary Recine\, and severa
- l crew members scheduled to attend.\n\nhttps://www.siff.net/festival/lift\
- n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 1 (Mon 15 May\, 05:3
- 0 PM)\n\nEvent is available on SIFF Streaming
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:And the King Said\, What a Fantastic Machine (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T023800Z
-DTSTAMP;VALUE=DATE-TIME:20230515T010000Z
-UID:42pVO1Cm2U
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nA meticulous dissection of image-
- making using a mind-boggling array of archival footage\, this profound doc
- umentary traces the 200-plus-year history of the camera\, how it has been 
- embraced\, and how it has been exploited. A 2022 SIFF New Works-in-Progres
- s project and Sundance Special Jury Award-winning documentary. Director Ax
- el Danielson\, Director Max Van Aertryck\, and Producer Kathleen McInnis s
- cheduled to attend.\n\nhttps://www.siff.net/festival/and-the-king-said-wha
- t-a-fantastic-machine\n\nAlso playing at:\n\n  • SIFF Cinema Uptown Hous
- e 1 (Tue 16 May\, 02:45 PM)
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Irati (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T040000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T060400Z
-DTSTAMP;VALUE=DATE-TIME:20230515T040000Z
-UID:DYneydB1ku
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nFrom the director of SIFF 2018
- ’s horror fable Errementari comes this dark historical fantasy of myth 
- and folklore\, as a young pagan woman guides a group of warriors through t
- he ancient Basque forest to recover a lost treasure. Director Paul Urkijo 
- scheduled to attend. Come to the screening on 5/14 for your chance to win 
- a grab bag from the BoneBat Comedy of Horrors Film Fest\, an annual evenin
- g of giggles and gore presenting the finest in independent Comedy/Horror f
- eatures and shorts from around the world.\n\nhttps://www.siff.net/festival
- /irati\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 2 (Mon 15 May
- \, 08:45 PM)
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Letter From Helga
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T190000Z
@@ -82,7 +14,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn a remote corner of 1940s Icel
  and\, an unhappily married farmer and his poet neighbor engage in a smolde
  ring love affair that scandalizes their village in this lyrical\, sweeping
   romantic drama from the director of The Swan.\n\nhttps://www.siff.net/fes
- tival/a-letter-from-helga\n\nEvent is available on SIFF Streaming
+ tival/a-letter-from-helga\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +31,7 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nHarris Dickinson (Beach Rats\, Tr
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lift (2/2)
+SUMMARY:Lift
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T020700Z
 DTSTAMP;VALUE=DATE-TIME:20230516T003000Z
@@ -110,8 +42,7 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nAcclaimed ballet dancer Steven Me
  le documentary from director David Petersen. Director/Producer David Peter
  sen\, Subject/Producer Steven Melendez\, Producer Mary Recine\, and severa
  l crew members scheduled to attend.\n\nhttps://www.siff.net/festival/lift\
- n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 1 (Sun 14 May\, 03:0
- 0 PM)\n\nEvent is available on SIFF Streaming
+ n\nAlso available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -142,7 +73,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nPushed to her limits after losin
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:And the King Said\, What a Fantastic Machine (2/2)
+SUMMARY:And the King Said\, What a Fantastic Machine
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T214500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T232300Z
 DTSTAMP;VALUE=DATE-TIME:20230516T214500Z
@@ -154,8 +85,7 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nA meticulous dissection of image-
  s project and Sundance Special Jury Award-winning documentary. Director Ax
  el Danielson\, Director Max Van Aertryck\, and Producer Kathleen McInnis s
  cheduled to attend.\n\nhttps://www.siff.net/festival/and-the-king-said-wha
- t-a-fantastic-machine\n\nAlso playing at:\n\n  • SIFF Cinema Uptown Hous
- e 1 (Sun 14 May\, 06:00 PM)
+ t-a-fantastic-machine
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -170,7 +100,7 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nIn this remarkable story of love
   the shop\, Halim's desires are soon ignited. This film is sponsored by Ti
  m O'Connor & Jeff Stolz\n\nhttps://www.siff.net/festival/the-blue-caftan\n
  \nAlso playing at:\n\n  • AMC Pacific Place 11 (Wed 17 May\, 03:45 PM)\n
- \nEvent is available on SIFF Streaming
+ \nAlso available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -186,7 +116,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nFrom director Matthias Hoene (SIF
  rible secrets just under their noses. Director Matthias Hoene and Actor/Wr
  iter Neil Linpow scheduled to attend 5/13 screening. Director Matthias Ho
  ene scheduled to attend 5/16 screening.\n\nhttps://www.siff.net/festival/t
- he-last-exit\n\nEvent is available on SIFF Streaming
+ he-last-exit\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -199,8 +129,8 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nA married couple and their son l
  eave busy Copenhagen behind for some much-needed rest and relaxation in Sw
  eden’s vast forests. But across the lake from their cabin\, they happen 
  to spot a family that looks much like their own in this twisty metaphysica
- l thriller.\n\nhttps://www.siff.net/festival/superposition\n\nEvent is ava
- ilable on SIFF Streaming
+ l thriller.\n\nhttps://www.siff.net/festival/superposition\n\nAlso availab
+ le on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -242,8 +172,8 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nCarlos and Margarita were the mos
   urgent message that Margarita has passed\, an unexpected road trip is set
   in motion\, old resentments surface\, and old flames are rekindled.\n\nht
  tps://www.siff.net/festival/let-the-dance-begin\n\nAlso playing at:\n\n  
- • SIFF Cinema Egyptian (Tue 16 May\, 04:00 PM)\n\nEvent is available on 
- SIFF Streaming
+ • SIFF Cinema Egyptian (Tue 16 May\, 04:00 PM)\n\nAlso available on SIFF
+  Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -257,8 +187,8 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nAt Lakeland Correctional Facility
  training program that gives the incarcerated purpose\, pride\, and a futur
  e upon their release. Go into the kitchen as he focuses on three new train
  ees. Co-Director Brian Kaufman scheduled to attend the May 18 screening.\n
- \nhttps://www.siff.net/festival/coldwater-kitchen\n\nEvent is available on
-  SIFF Streaming
+ \nhttps://www.siff.net/festival/coldwater-kitchen\n\nAlso available on SIF
+ F Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -283,8 +213,8 @@ UID:O7iQTpMilY
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nFrom pickleball players past thei
  r prime to sermonizing sex toys\, these eight shorts capture the adventuro
  us spirit of our talented filmmaking community. Various filmmakers expecte
- d to attend.\n\nhttps://www.siff.net/festival/sound-visions\n\nEvent is av
- ailable on SIFF Streaming
+ d to attend.\n\nhttps://www.siff.net/festival/sound-visions\n\nAlso availa
+ ble on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -302,7 +232,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nPushed to her limits after losin
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plan 75 (2/2)
+SUMMARY:Plan 75
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T220200Z
 DTSTAMP;VALUE=DATE-TIME:20230519T200000Z
@@ -311,8 +241,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nThree interlocking stories set i
  n an alternate modern Japan\, where the elderly are given the option to eu
  thanize themselves to stave off the country’s economic woes in return fo
  r a final sum of money they can spend however they want.\n\nhttps://www.si
- ff.net/festival/plan-75\n\nAlso playing at:\n\n  • Ark Lodge Cinemas (Su
- n 14 May\, 08:00 PM)\n\nEvent is available on SIFF Streaming
+ ff.net/festival/plan-75\n\nAlso available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -359,7 +288,7 @@ DESCRIPTION:Duration: 121 mins (2h01m)\n\nHelsinki is for lovers! In Finni
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pianoforte (2/2)
+SUMMARY:Pianoforte
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T203900Z
 DTSTAMP;VALUE=DATE-TIME:20230520T190000Z
@@ -368,8 +297,7 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nIt’s the prestigious Internatio
  nal Chopin Piano Competition in Warsaw and young musicians from all over t
  he world are ready to prove their dedication to classical piano in this vi
  rtuosic and crowd-pleasing sensation in the vein of documentary smash hit 
- Spellbound.\n\nhttps://www.siff.net/festival/pianoforte\n\nAlso playing at
- :\n\n  • Shoreline CC Theater (Sun 14 May\, 07:00 PM)
+ Spellbound.\n\nhttps://www.siff.net/festival/pianoforte
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -383,8 +311,8 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nThe Alta Conflict\, a series of
   would flood Indigenous land\, is the setting of this gutting historical d
  rama centering on a teacher who unintentionally becomes part of the Sámi 
  revolution.\n\nhttps://www.siff.net/festival/let-the-river-flow\n\nAlso pl
- aying at:\n\n  • Shoreline CC Theater (Wed 17 May\, 08:30 PM)\n\nEvent i
- s available on SIFF Streaming
+ aying at:\n\n  • Shoreline CC Theater (Wed 17 May\, 08:30 PM)\n\nAlso av
+ ailable on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -409,8 +337,8 @@ UID:IsTCuOWEdx
 DESCRIPTION:Duration: 87 mins (1h27m)\n\nThis year’s animation package i
  mmerses you into secret worlds and initiations\, brimming with sibling riv
  alries\, high school hookups\, and underwater allies. Various filmmakers e
- xpected to attend.\n\nhttps://www.siff.net/festival/animation4adults\n\nEv
- ent is available on SIFF Streaming
+ xpected to attend.\n\nhttps://www.siff.net/festival/animation4adults\n\nAl
+ so available on SIFF Streaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -425,8 +353,8 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nEight connected stories of varyi
  colonization all the way to a speculative future\, making space to hear fr
  om the people. Director Renae Maihi scheduled to attend.\n\nhttps://www.si
  ff.net/festival/we-are-still-here\n\nAlso playing at:\n\n  • SIFF Cinema
-  Uptown House 2 (Fri 19 May\, 05:30 PM)\n\nEvent is available on SIFF Stre
- aming
+  Uptown House 2 (Fri 19 May\, 05:30 PM)\n\nAlso available on SIFF Streamin
+ g
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -453,8 +381,8 @@ DESCRIPTION:Duration: 126 mins (2h06m)\n\nPierfrancesco Favino (The Best Y
  \, nonlinear epic about the strange and restless life of Marco Carrera fro
  m birth to earth\, based on the bestselling novel by Sandro Veronesi.\n\nh
  ttps://www.siff.net/festival/the-hummingbird\n\nAlso playing at:\n\n  • 
- SIFF Cinema Egyptian (Thu 18 May\, 01:00 PM)\n\nEvent is available on SIFF
-  Streaming
+ SIFF Cinema Egyptian (Thu 18 May\, 01:00 PM)\n\nAlso available on SIFF Str
+ eaming
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

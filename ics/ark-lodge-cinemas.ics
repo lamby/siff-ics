@@ -1,64 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230514T162451Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230515T152714Z
 NAME:SIFF 2023 (Ark Lodge Cinemas)
 X-WR-CALNAME:SIFF 2023 (Ark Lodge Cinemas)
-BEGIN:VEVENT
-SUMMARY:LOLA (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T214300Z
-DTSTAMP;VALUE=DATE-TIME:20230514T200000Z
-UID:SkYgSKVDVs
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA crackling speculative fiction o
- ut of Ireland about two sisters\, circa 1941\, who build a machine that pi
- cks up broadcasts from the future. But when they realize they can change t
- he course of World War II\, a terrible butterfly effect is set into motion
- .\n\nhttps://www.siff.net/festival/lola\n\nAlso playing at:\n\n  • SIFF 
- Cinema Uptown House 3 (Sun 21 May\, 06:45 PM)
-LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Money (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230514T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230514T235500Z
-DTSTAMP;VALUE=DATE-TIME:20230514T223000Z
-UID:rQL3nKVhVA
-DESCRIPTION:Duration: 75 mins (1h15m)\n\nA deep dive into the concept of u
- niversal basic income and who it truly benefits\, as American charity Give
- Directly sets its sights on the Kenyan village of Kogutu to try out their 
- experiment with the hopes of changing the world.\n\nhttps://www.siff.net/f
- estival/free-money\n\nAlso playing at:\n\n  • AMC Pacific Place 11 (Wed 
- 17 May\, 06:30 PM)
-LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chile ‘76
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T021500Z
-DTSTAMP;VALUE=DATE-TIME:20230515T003000Z
-UID:2KICR0tXPK
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter a life of toeing the line a
- s a bourgeois housewife in ’70s Chile\, Carmen’s world is rocked when 
- she’s asked to nurse a wounded rebel back to health\, opening her up to 
- certain danger in this tense and unforgettable thriller.\n\nhttps://www.si
- ff.net/festival/chile-76
-LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plan 75 (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T050200Z
-DTSTAMP;VALUE=DATE-TIME:20230515T030000Z
-UID:rHSPUlyPOL
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nThree interlocking stories set i
- n an alternate modern Japan\, where the elderly are given the option to eu
- thanize themselves to stave off the country’s economic woes in return fo
- r a final sum of money they can spend however they want.\n\nhttps://www.si
- ff.net/festival/plan-75\n\nAlso playing at:\n\n  • SIFF Cinema Uptown Ho
- use 1 (Fri 19 May\, 01:00 PM)\n\nEvent is available on SIFF Streaming
-LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Happiest Man in the World (1/2)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T223000Z
@@ -116,7 +61,7 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nA tale of quiet intimacy and mes
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alan @ Work (2/2)
+SUMMARY:Alan @ Work
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T020400Z
 DTSTAMP;VALUE=DATE-TIME:20230517T010000Z
@@ -128,9 +73,8 @@ DESCRIPTION:Duration: 54 mins (0h54m)\n\nYou may know Alan Chong Lau as on
  zens. Director Doug Ing scheduled to attend. Come to either screening for 
  the chance to win a grab bag of art supplies from Push/Pull\, Seattle's Ho
  me for Underground Art & Comix\, Art\, Supplies\, Classes\, and Community!
- \n\nhttps://www.siff.net/festival/alan-work\n\nAlso playing at:\n\n  • S
- IFF Cinema Uptown House 3 (Sun 14 May\, 06:30 PM)\n\nEvent is available on
-  SIFF Streaming
+ \n\nhttps://www.siff.net/festival/alan-work\n\nAlso available on SIFF Stre
+ aming
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
@@ -159,7 +103,7 @@ DESCRIPTION:Duration: 76 mins (1h16m)\n\nLet’s get ready to…tell puns?
  , including stand-up comedians\, political activists\, and anthropologists
  . Director Abby Hagan scheduled to attend.\n\nhttps://www.siff.net/festiva
  l/punderneath-it-all\n\nAlso playing at:\n\n  • AMC Pacific Place 11 (Tu
- e 16 May\, 06:15 PM)\n\nEvent is available on SIFF Streaming
+ e 16 May\, 06:15 PM)\n\nAlso available on SIFF Streaming
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
@@ -178,7 +122,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nWhen U.S. forces pull out of Afg
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Filip (2/2)
+SUMMARY:Filip
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T034500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T055500Z
 DTSTAMP;VALUE=DATE-TIME:20230518T034500Z
@@ -187,8 +131,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nAn unexpectedly sharp\, jagged c
  haracter study about a handsome young Polish Jew pretending to be French w
  ho works at a luxury hotel in Nazi-era Frankfurt as his carefully construc
  ted and extravagant lifestyle gets turned upside-down by the thrust of his
- tory.\n\nhttps://www.siff.net/festival/filip\n\nAlso playing at:\n\n  • 
- SIFF Film Center (Sun 14 May\, 02:00 PM)\n\nEvent is available on SIFF Str
+ tory.\n\nhttps://www.siff.net/festival/filip\n\nAlso available on SIFF Str
  eaming
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
@@ -204,8 +147,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter relocating to a deeply reli
  eature named the Almamula\, in this darkly mysterious debut from Juan Seba
  stian Torales. Director Juan Sebastian Torales scheduled to attend.\n\nhtt
  ps://www.siff.net/festival/almamula\n\nAlso playing at:\n\n  • AMC Pacif
- ic Place 11 (Wed 17 May\, 08:30 PM)\n\nEvent is available on SIFF Streamin
- g
+ ic Place 11 (Wed 17 May\, 08:30 PM)\n\nAlso available on SIFF Streaming
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
@@ -261,8 +203,8 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nA compilation of on-the-ground re
  porting at the onset of absolute devastation as a trio of Associated Press
   journalists get caught in Mariupol in the early days of the 2022 Russian 
  invasion. Winner of the Sundance World Cinema Documentary Audience Award.\
- n\nhttps://www.siff.net/festival/20-days-in-mariupol\n\nEvent is available
-  on SIFF Streaming
+ n\nhttps://www.siff.net/festival/20-days-in-mariupol\n\nAlso available on 
+ SIFF Streaming
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
@@ -307,7 +249,7 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nA nail-biting thriller about cen
  roducer Rebecca Landsberry-Baker and Producers Garrett Baker and Conrad Be
  ilharz scheduled to attend.\n\nhttps://www.siff.net/festival/bad-press\n\n
  Also playing at:\n\n  • SIFF Cinema Uptown House 2 (Thu 18 May\, 05:45 P
- M)\n\nEvent is available on SIFF Streaming
+ M)\n\nAlso available on SIFF Streaming
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +278,12 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nAn ace acupuncturist and martial
  tion wuxia epic that moves at a breakneck pace\, featuring swashbuckling w
  arriors\, scheming vassals\, and benign demigods. And yes\, there will be 
  blood.\n\nhttps://www.siff.net/festival/demigod-the-legend-begins\n\nAlso 
- playing at:\n\n  • SIFF Cinema Egyptian (Fri 19 May\, 11:59 PM)\n\nEvent
-  is available on SIFF Streaming
+ playing at:\n\n  • SIFF Cinema Egyptian (Fri 19 May\, 11:59 PM)\n\nAlso 
+ available on SIFF Streaming
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mavka: The Forest Song (2/2)
+SUMMARY:Mavka: The Forest Song
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T214000Z
 DTSTAMP;VALUE=DATE-TIME:20230521T200000Z
@@ -350,8 +292,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nIn this animated fantasy from the
   Ukraine\, mythical guardian Mavka must protect her forest home from an ev
  il lumber magnate\, even if it might mean ending her newfound love of youn
  g Lukash\, a human musician who has touched her heart. Ages 7+\, in Englis
- h.\n\nhttps://www.siff.net/festival/mavka-the-forest-song\n\nAlso playing 
- at:\n\n  • AMC Pacific Place 11 (Sun 14 May\, 11:00 AM)
+ h.\n\nhttps://www.siff.net/festival/mavka-the-forest-song
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
