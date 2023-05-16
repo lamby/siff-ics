@@ -36,7 +36,7 @@ DAYS = 10
 BASE_URL = "https://www.siff.net/calendar?view=list&date="
 LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
 
-re_collapse_newlines = re.compile(r'\n+')
+re_collapse_newlines = re.compile(r"\n+")
 
 
 class SiffICS:
@@ -101,7 +101,7 @@ class SiffICS:
             # Body text
             body = soup.select("div.body-copy")[0].get_text()
             body = body.strip()
-            body = re_collapse_newlines.sub(' ', body).strip()
+            body = re_collapse_newlines.sub(" ", body).strip()
 
             is_streamed = b"SIFF Streaming" in r.content
 
@@ -166,7 +166,12 @@ class SiffICS:
             )
 
             start = get_datetime(x["Showtime"])
-            end = get_datetime(x["ShowtimeEnd"]) + datetime.timedelta(minutes=PADDING)
+
+            # Calculate real time
+            runtime = int(x["LengthInMinutes"])
+            end = start + datetime.timedelta(
+                minutes=PADDING + self.round_to_nearest(runtime, 5)
+            )
 
             event.add("dtstamp", start)
             event.add("dtstart", start)
@@ -174,12 +179,9 @@ class SiffICS:
 
             description = []
 
-            runtime = int(x["LengthInMinutes"])
             hours, minutes = divmod(runtime, 60)
             description.append(f"Duration: {runtime} mins ({hours}h{minutes:02d}m)")
-
             description.append(x["EventBody"])
-
             description.append(x["Url"])
 
             if x["EventsOther"]:
@@ -190,13 +192,16 @@ class SiffICS:
                     description.append(f"  • {other['VenueName']} ({fmt})")
 
             if x["IsStreamed"]:
-                    description.append(f"Film is also being streamed.")
+                description.append(f"Film is also being streamed.")
 
             event.add("description", "\n\n".join(description))
 
             cal.add_component(event)
 
         return cal.to_ical().decode("utf-8")
+
+    def round_to_nearest(self, val, nearest_to):
+        return (val + (nearest_to - 1)) // nearest_to * nearest_to
 
 
 @click.command()
