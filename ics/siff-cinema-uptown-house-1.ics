@@ -1,65 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230515T152714Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230516T144615Z
 NAME:SIFF 2023 (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF 2023 (SIFF Cinema Uptown House 1)
 BEGIN:VEVENT
-SUMMARY:A Letter From Helga
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T210200Z
-DTSTAMP;VALUE=DATE-TIME:20230515T190000Z
-UID:r8MI4OubT5
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn a remote corner of 1940s Icel
- and\, an unhappily married farmer and his poet neighbor engage in a smolde
- ring love affair that scandalizes their village in this lyrical\, sweeping
-  romantic drama from the director of The Swan.\n\nhttps://www.siff.net/fes
- tival/a-letter-from-helga\n\nAlso available on SIFF Streaming
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T234900Z
-DTSTAMP;VALUE=DATE-TIME:20230515T221500Z
-UID:CYjxsLt45W
-DESCRIPTION:Duration: 84 mins (1h24m)\n\nHarris Dickinson (Beach Rats\, Tr
- iangle of Sadness) costars in this bright and engaging dramedy about a 12-
- year-old girl who lives alone in a London council house\, only for her est
- ranged father to suddenly return and roar back into her life.\n\nhttps://w
- ww.siff.net/festival/scrapper
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lift
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T020700Z
-DTSTAMP;VALUE=DATE-TIME:20230516T003000Z
-UID:URry8yPXXi
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nAcclaimed ballet dancer Steven Me
- lendez returns to the Bronx shelter that was his childhood home in order t
- o mentor a trio of aspiring dancers in this emotionally rich\, unforgettab
- le documentary from director David Petersen. Director/Producer David Peter
- sen\, Subject/Producer Steven Melendez\, Producer Mary Recine\, and severa
- l crew members scheduled to attend.\n\nhttps://www.siff.net/festival/lift\
- n\nAlso available on SIFF Streaming
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Angry Annie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T050900Z
-DTSTAMP;VALUE=DATE-TIME:20230516T030000Z
-UID:vpWYINHwWg
-DESCRIPTION:Duration: 119 mins (1h59m)\n\nIt’s 1970s France\, and factor
- y worker Annie has just become pregnant with her third child. Wishing to t
- erminate her pregnancy\, she learns of a compassionate and clandestine org
- anization\, the Movement for the Liberty of Abortion and Contraception\, w
- hich will change her life.\n\nhttps://www.siff.net/festival/angry-annie
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matria (1/2)
+SUMMARY:Matria
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T205000Z
 DTSTAMP;VALUE=DATE-TIME:20230516T190000Z
@@ -89,7 +35,7 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nA meticulous dissection of image-
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Blue Caftan (1/2)
+SUMMARY:The Blue Caftan
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T024200Z
 DTSTAMP;VALUE=DATE-TIME:20230517T003000Z
@@ -100,7 +46,7 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nIn this remarkable story of love
   the shop\, Halim's desires are soon ignited. This film is sponsored by Ti
  m O'Connor & Jeff Stolz\n\nhttps://www.siff.net/festival/the-blue-caftan\n
  \nAlso playing at:\n\n  • AMC Pacific Place 11 (Wed 17 May\, 03:45 PM)\n
- \nAlso available on SIFF Streaming
+ \nFilm is also being streamed.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -116,7 +62,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nFrom director Matthias Hoene (SIF
  rible secrets just under their noses. Director Matthias Hoene and Actor/Wr
  iter Neil Linpow scheduled to attend 5/13 screening. Director Matthias Ho
  ene scheduled to attend 5/16 screening.\n\nhttps://www.siff.net/festival/t
- he-last-exit\n\nAlso available on SIFF Streaming
+ he-last-exit\n\nFilm is also being streamed.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +75,12 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nA married couple and their son l
  eave busy Copenhagen behind for some much-needed rest and relaxation in Sw
  eden’s vast forests. But across the lake from their cabin\, they happen 
  to spot a family that looks much like their own in this twisty metaphysica
- l thriller.\n\nhttps://www.siff.net/festival/superposition\n\nAlso availab
- le on SIFF Streaming
+ l thriller.\n\nhttps://www.siff.net/festival/superposition\n\nFilm is also
+  being streamed.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dancing Queen (2/2)
+SUMMARY:Dancing Queen
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T001200Z
 DTSTAMP;VALUE=DATE-TIME:20230517T223000Z
@@ -147,7 +93,7 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nWhen shy\, awkward seventh grader
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Confessions of a Good Samaritan (1/2)
+SUMMARY:Confessions of a Good Samaritan
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T025500Z
 DTSTAMP;VALUE=DATE-TIME:20230518T010000Z
@@ -162,7 +108,7 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nSIFF favorite Penny Lane (Our Ni
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Let the Dance Begin (2/2)
+SUMMARY:Let the Dance Begin
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T033000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T051800Z
 DTSTAMP;VALUE=DATE-TIME:20230518T033000Z
@@ -172,8 +118,8 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nCarlos and Margarita were the mos
   urgent message that Margarita has passed\, an unexpected road trip is set
   in motion\, old resentments surface\, and old flames are rekindled.\n\nht
  tps://www.siff.net/festival/let-the-dance-begin\n\nAlso playing at:\n\n  
- • SIFF Cinema Egyptian (Tue 16 May\, 04:00 PM)\n\nAlso available on SIFF
-  Streaming
+ • SIFF Cinema Egyptian (Tue 16 May\, 04:00 PM)\n\nFilm is also being str
+ eamed.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -187,8 +133,8 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nAt Lakeland Correctional Facility
  training program that gives the incarcerated purpose\, pride\, and a futur
  e upon their release. Go into the kitchen as he focuses on three new train
  ees. Co-Director Brian Kaufman scheduled to attend the May 18 screening.\n
- \nhttps://www.siff.net/festival/coldwater-kitchen\n\nAlso available on SIF
- F Streaming
+ \nhttps://www.siff.net/festival/coldwater-kitchen\n\nFilm is also being st
+ reamed.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -213,12 +159,12 @@ UID:O7iQTpMilY
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nFrom pickleball players past thei
  r prime to sermonizing sex toys\, these eight shorts capture the adventuro
  us spirit of our talented filmmaking community. Various filmmakers expecte
- d to attend.\n\nhttps://www.siff.net/festival/sound-visions\n\nAlso availa
- ble on SIFF Streaming
+ d to attend.\n\nhttps://www.siff.net/festival/sound-visions\n\nFilm is als
+ o being streamed.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Matria (2/2)
+SUMMARY:Matria
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T055000Z
 DTSTAMP;VALUE=DATE-TIME:20230519T040000Z
@@ -241,11 +187,11 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nThree interlocking stories set i
  n an alternate modern Japan\, where the elderly are given the option to eu
  thanize themselves to stave off the country’s economic woes in return fo
  r a final sum of money they can spend however they want.\n\nhttps://www.si
- ff.net/festival/plan-75\n\nAlso available on SIFF Streaming
+ ff.net/festival/plan-75\n\nFilm is also being streamed.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:20\,000 Species of Bees (1/2)
+SUMMARY:20\,000 Species of Bees
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T004500Z
 DTSTAMP;VALUE=DATE-TIME:20230519T223000Z
@@ -259,7 +205,7 @@ DESCRIPTION:Duration: 125 mins (2h05m)\n\nA gender-questioning eight-year-
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Being Mary Tyler Moore (1/2)
+SUMMARY:Being Mary Tyler Moore
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T033900Z
 DTSTAMP;VALUE=DATE-TIME:20230520T013000Z
@@ -301,7 +247,7 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nIt’s the prestigious Internatio
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Let the River Flow (2/2)
+SUMMARY:Let the River Flow
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T211500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T232300Z
 DTSTAMP;VALUE=DATE-TIME:20230520T211500Z
@@ -311,8 +257,8 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nThe Alta Conflict\, a series of
   would flood Indigenous land\, is the setting of this gutting historical d
  rama centering on a teacher who unintentionally becomes part of the Sámi 
  revolution.\n\nhttps://www.siff.net/festival/let-the-river-flow\n\nAlso pl
- aying at:\n\n  • Shoreline CC Theater (Wed 17 May\, 08:30 PM)\n\nAlso av
- ailable on SIFF Streaming
+ aying at:\n\n  • Shoreline CC Theater (Wed 17 May\, 08:30 PM)\n\nFilm is
+  also being streamed.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -337,12 +283,12 @@ UID:IsTCuOWEdx
 DESCRIPTION:Duration: 87 mins (1h27m)\n\nThis year’s animation package i
  mmerses you into secret worlds and initiations\, brimming with sibling riv
  alries\, high school hookups\, and underwater allies. Various filmmakers e
- xpected to attend.\n\nhttps://www.siff.net/festival/animation4adults\n\nAl
- so available on SIFF Streaming
+ xpected to attend.\n\nhttps://www.siff.net/festival/animation4adults\n\nFi
+ lm is also being streamed.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:We Are Still Here (2/2)
+SUMMARY:We Are Still Here
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T192300Z
 DTSTAMP;VALUE=DATE-TIME:20230521T173000Z
@@ -353,8 +299,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nEight connected stories of varyi
  colonization all the way to a speculative future\, making space to hear fr
  om the people. Director Renae Maihi scheduled to attend.\n\nhttps://www.si
  ff.net/festival/we-are-still-here\n\nAlso playing at:\n\n  • SIFF Cinema
-  Uptown House 2 (Fri 19 May\, 05:30 PM)\n\nAlso available on SIFF Streamin
- g
+  Uptown House 2 (Fri 19 May\, 05:30 PM)\n\nFilm is also being streamed.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -371,7 +316,7 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn this dystopian psychological
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Hummingbird (2/2)
+SUMMARY:The Hummingbird
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T224500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T010100Z
 DTSTAMP;VALUE=DATE-TIME:20230521T224500Z
@@ -381,12 +326,12 @@ DESCRIPTION:Duration: 126 mins (2h06m)\n\nPierfrancesco Favino (The Best Y
  \, nonlinear epic about the strange and restless life of Marco Carrera fro
  m birth to earth\, based on the bestselling novel by Sandro Veronesi.\n\nh
  ttps://www.siff.net/festival/the-hummingbird\n\nAlso playing at:\n\n  • 
- SIFF Cinema Egyptian (Thu 18 May\, 01:00 PM)\n\nAlso available on SIFF Str
- eaming
+ SIFF Cinema Egyptian (Thu 18 May\, 01:00 PM)\n\nFilm is also being streame
+ d.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:20\,000 Species of Bees (2/2)
+SUMMARY:20\,000 Species of Bees
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230522T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T034500Z
 DTSTAMP;VALUE=DATE-TIME:20230522T013000Z

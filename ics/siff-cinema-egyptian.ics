@@ -1,68 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230515T152714Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230516T144615Z
 NAME:SIFF 2023 (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF 2023 (SIFF Cinema Egyptian)
 BEGIN:VEVENT
-SUMMARY:The Fishbowl
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230515T221200Z
-DTSTAMP;VALUE=DATE-TIME:20230515T203000Z
-UID:8jZcHDUM2V
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn this debut film from Glorimar 
- Marrero Sánchez\, a terminally ill woman returns to her native Puerto Ric
- an island\, one that the U.S. Navy poisoned with decades of military pract
- ices\, to reunite with old friends and come to terms with her fate.\n\nhtt
- ps://www.siff.net/festival/the-fishbowl
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Satan Wants You
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T004000Z
-DTSTAMP;VALUE=DATE-TIME:20230515T230000Z
-UID:ZFkVx9nYEM
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nLearn the truth behind “Michell
- e Remembers\,” the disputed memoir written by Lawrence Pazder and Michel
- le Smith that helped ignite the Satanic Panic of the 1980s and led to dest
- ructive and exploitative cultural changes that have reverberated for decad
- es. Come to either screening to learn about the Satanic Panic from Washing
- ton's own Satanic Temple in the lobby before the film.\n\nhttps://www.siff
- .net/festival/satan-wants-you\n\nAlso available on SIFF Streaming
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Midnight Cowboy
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T013000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T033300Z
-DTSTAMP;VALUE=DATE-TIME:20230516T013000Z
-UID:JrpSKE1P6a
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nThe only X-rated movie to win th
- e Best Picture Oscar®\, John Schlesinger’s innovative and disruptive dr
- ama tells of two outcasts\, sex worker Joe Buck (Jon Voight) and con man R
- atso Rizzo (Dustin Hoffman)\, as they struggle to survive in an uncaring A
- merica. Come for your chance to win streaming passes to HUMP!—the world'
- s best indie erotic film festival.\n\nhttps://www.siff.net/festival/midnig
- ht-cowboy
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Table for Six (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T040000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T061000Z
-DTSTAMP;VALUE=DATE-TIME:20230516T040000Z
-UID:ATRYhZ6OVn
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn this Hong Kong box office sma
- sh that’s equal parts slapstick and melodrama\, a family reunion dinner 
- goes haywire when one of the members brings his new girlfriend\, only to f
- ind that she had previously dated his own brother.\n\nhttps://www.siff.net
- /festival/table-for-six\n\nAlso playing at:\n\n  • Shoreline CC Theater 
- (Thu 18 May\, 05:45 PM)
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coo-Coo 043 (1/2)
+SUMMARY:Coo-Coo 043
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T222500Z
 DTSTAMP;VALUE=DATE-TIME:20230516T200000Z
@@ -76,7 +19,7 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nIn Taiwanese filmmaker Ching-lin
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Let the Dance Begin (1/2)
+SUMMARY:Let the Dance Begin
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T004800Z
 DTSTAMP;VALUE=DATE-TIME:20230516T230000Z
@@ -86,8 +29,8 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nCarlos and Margarita were the mos
   urgent message that Margarita has passed\, an unexpected road trip is set
   in motion\, old resentments surface\, and old flames are rekindled.\n\nht
  tps://www.siff.net/festival/let-the-dance-begin\n\nAlso playing at:\n\n  
- • SIFF Cinema Uptown House 1 (Wed 17 May\, 08:30 PM)\n\nAlso available o
- n SIFF Streaming
+ • SIFF Cinema Uptown House 1 (Wed 17 May\, 08:30 PM)\n\nFilm is also bei
+ ng streamed.
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -106,7 +49,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nBreak out your spell books and c
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Beasts (1/2)
+SUMMARY:The Beasts
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T062700Z
 DTSTAMP;VALUE=DATE-TIME:20230517T040000Z
@@ -115,12 +58,12 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nSet in a remote mountain village
   in Galicia\, Spain\, this potent thriller depicts the friction between a 
  local powerbroker and a middle-aged French couple who have moved there to 
  start a farming life.\n\nhttps://www.siff.net/festival/the-beasts\n\nAlso 
- playing at:\n\n  • Shoreline CC Theater (Fri 19 May\, 08:30 PM)\n\nAlso 
- available on SIFF Streaming
+ playing at:\n\n  • Shoreline CC Theater (Fri 19 May\, 08:30 PM)\n\nFilm 
+ is also being streamed.
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonne (1/2)
+SUMMARY:Sonne
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T201500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T215300Z
 DTSTAMP;VALUE=DATE-TIME:20230517T201500Z
@@ -130,11 +73,11 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nAn Austrian Muslim teen and her t
  gh the world of sudden viral fame when they upload a video of them dancing
   to an R.E.M. song while wearing hijabs.\n\nhttps://www.siff.net/festival/
  sonne\n\nAlso playing at:\n\n  • SIFF Film Center (Fri 19 May\, 08:00 PM
- )\n\nAlso available on SIFF Streaming
+ )\n\nFilm is also being streamed.
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Sunny Side of the Street (2/2)
+SUMMARY:The Sunny Side of the Street
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T003200Z
 DTSTAMP;VALUE=DATE-TIME:20230517T223000Z
@@ -148,7 +91,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nNominated for six Golden Horse A
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Even Hell Has its Heroes (1/2)
+SUMMARY:Even Hell Has its Heroes
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T031500Z
 DTSTAMP;VALUE=DATE-TIME:20230518T011500Z
@@ -157,9 +100,10 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nRenowned local multimedia transg
  ender artist Clyde Petersen steps behind the camera for this incendiary do
  c on the Seattle-based Earth\, “the slowest metal band on the planet\,
  ” crafting an ode to a time that grunge ruled the Pacific Northwest…an
- d the world. Director Clyde Petersen\, plus cast and crew scheduled to att
- end.\n\nhttps://www.siff.net/festival/even-hell-has-its-heroes\n\nAlso pla
- ying at:\n\n  • Ark Lodge Cinemas (Thu 18 May\, 08:30 PM)
+ d the world. Director Clyde Petersen\, several crew\, and past and present
+  members of Earth scheduled to attend.\n\nhttps://www.siff.net/festival/ev
+ en-hell-has-its-heroes\n\nAlso playing at:\n\n  • Ark Lodge Cinemas (Thu
+  18 May\, 08:30 PM)
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -179,7 +123,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nMixing ’80s horror cinema\, th
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Hummingbird (1/2)
+SUMMARY:The Hummingbird
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T221600Z
 DTSTAMP;VALUE=DATE-TIME:20230518T200000Z
@@ -189,8 +133,8 @@ DESCRIPTION:Duration: 126 mins (2h06m)\n\nPierfrancesco Favino (The Best Y
  \, nonlinear epic about the strange and restless life of Marco Carrera fro
  m birth to earth\, based on the bestselling novel by Sandro Veronesi.\n\nh
  ttps://www.siff.net/festival/the-hummingbird\n\nAlso playing at:\n\n  • 
- SIFF Cinema Uptown House 1 (Sun 21 May\, 03:45 PM)\n\nAlso available on SI
- FF Streaming
+ SIFF Cinema Uptown House 1 (Sun 21 May\, 03:45 PM)\n\nFilm is also being s
+ treamed.
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -208,7 +152,7 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nFrom SIFF alum Ira Sachs (Keep th
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:L’immensita (2/2)
+SUMMARY:L’immensita
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T031700Z
 DTSTAMP;VALUE=DATE-TIME:20230519T013000Z
@@ -233,8 +177,8 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nThey’re wet\, they’re wild\,
  Three lucky audience members will win a grab bag from BoneBat Comedy of Ho
  rrors Film Fest\, an annual evening of giggles and gore presenting the fin
  est in independent Comedy/Horror features and shorts from around the world
- .\n\nhttps://www.siff.net/festival/wtf-all-turnt-on\n\nAlso available on S
- IFF Streaming
+ .\n\nhttps://www.siff.net/festival/wtf-all-turnt-on\n\nFilm is also being 
+ streamed.
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -293,7 +237,7 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Circus of the Scars - The Insider Odyssey of the Jim Rose Circus S
- ideshow (1/2)
+ ideshow
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T043000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T061600Z
 DTSTAMP;VALUE=DATE-TIME:20230520T043000Z
@@ -308,11 +252,11 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nCome one\, come all\, and step in
  ies and physical media from Scarecrow Video Library!\n\nhttps://www.siff.n
  et/festival/circus-of-the-scars-the-insider-odyssey-of-the-jim-rose-circus
  -sideshow\n\nAlso playing at:\n\n  • SIFF Cinema Uptown House 2 (Sun 21 
- May\, 02:00 PM)\n\nAlso available on SIFF Streaming
+ May\, 02:00 PM)\n\nFilm is also being streamed.
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Demigod: The Legend Begins (1/2)
+SUMMARY:Demigod: The Legend Begins
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T065900Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T085200Z
 DTSTAMP;VALUE=DATE-TIME:20230520T065900Z
@@ -323,8 +267,8 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nAn ace acupuncturist and martial
  tion wuxia epic that moves at a breakneck pace\, featuring swashbuckling w
  arriors\, scheming vassals\, and benign demigods. And yes\, there will be 
  blood.\n\nhttps://www.siff.net/festival/demigod-the-legend-begins\n\nAlso 
- playing at:\n\n  • Ark Lodge Cinemas (Sat 20 May\, 09:00 PM)\n\nAlso ava
- ilable on SIFF Streaming
+ playing at:\n\n  • Ark Lodge Cinemas (Sat 20 May\, 09:00 PM)\n\nFilm is 
+ also being streamed.
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -342,7 +286,7 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nErnest and Célestine return in t
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Food and Country (1/2)
+SUMMARY:Food and Country
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T214900Z
 DTSTAMP;VALUE=DATE-TIME:20230520T200000Z
@@ -371,7 +315,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nIn this heartwarming dramedy that
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dreamin’ Wild (1/2)
+SUMMARY:Dreamin’ Wild
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T033000Z
 DTSTAMP;VALUE=DATE-TIME:20230521T013000Z
@@ -386,7 +330,7 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nIn this Spokane-shot drama from
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ingeborg Bachmann - Journey into the Desert (1/2)
+SUMMARY:Ingeborg Bachmann - Journey into the Desert
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T043000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T063100Z
 DTSTAMP;VALUE=DATE-TIME:20230521T043000Z
@@ -401,7 +345,7 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nIn the latest from filmmaker Mar
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mother Superior (1/2)
+SUMMARY:Mother Superior
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T065900Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T083100Z
 DTSTAMP;VALUE=DATE-TIME:20230521T065900Z
@@ -411,12 +355,11 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nA gothic occult thriller set in 1
  fe\, as a woman born under sinister circumstances takes a job as an eccent
  ric Baroness’ nurse to solve the mystery of her own parentage.\n\nhttps:
  //www.siff.net/festival/mother-superior\n\nAlso playing at:\n\n  • AMC P
- acific Place 11 (Sun 21 May\, 06:30 PM)\n\nAlso available on SIFF Streamin
- g
+ acific Place 11 (Sun 21 May\, 06:30 PM)\n\nFilm is also being streamed.
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ingeborg Bachmann - Journey into the Desert (2/2)
+SUMMARY:Ingeborg Bachmann - Journey into the Desert
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T230100Z
 DTSTAMP;VALUE=DATE-TIME:20230521T210000Z

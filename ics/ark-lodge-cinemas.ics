@@ -1,53 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230515T152714Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230516T144615Z
 NAME:SIFF 2023 (Ark Lodge Cinemas)
 X-WR-CALNAME:SIFF 2023 (Ark Lodge Cinemas)
 BEGIN:VEVENT
-SUMMARY:The Happiest Man in the World (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230515T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T001500Z
-DTSTAMP;VALUE=DATE-TIME:20230515T223000Z
-UID:xndp89lmYy
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nAt a matchmaking event\, a couple
-  seems like they’re perfect for each other until she finds they were onc
- e on different sides of the Bosnian War. A story of love\, forgiveness\, a
- nd the circumstances that pits us against each other.\n\nhttps://www.siff.
- net/festival/the-happiest-man-in-the-world\n\nAlso playing at:\n\n  • SI
- FF Film Center (Thu 18 May\, 08:00 PM)
-LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Valeria is Getting Married (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T022600Z
-DTSTAMP;VALUE=DATE-TIME:20230516T010000Z
-UID:BBHbBiVZbS
-DESCRIPTION:Duration: 76 mins (1h16m)\n\nChristina is a Ukrainian woman li
- ving in Israel following her arranged marriage to Michael. Now Michael has
-  brokered a similar marriage for her sister\, Valeria. But when Valeria ar
- rives\, she comes down with a bad case of cold feet.\n\nhttps://www.siff.n
- et/festival/valeria-is-getting-married\n\nAlso playing at:\n\n  • AMC Pa
- cific Place 11 (Thu 18 May\, 08:30 PM)
-LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Against the Tide (1/2)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T044700Z
-DTSTAMP;VALUE=DATE-TIME:20230516T030000Z
-UID:6s7hWKfBmf
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nWinner of the Sundance 2023 Véri
- té Filmmaking Prize\, this captivating documentary on class\, climate cha
- nge\, and overfishing explores the lives of two contrasting\, Indigenous f
- ishermen who were born to the same caste whose friendship fractures.\n\nht
- tps://www.siff.net/festival/against-the-tide\n\nAlso playing at:\n\n  • 
- SIFF Cinema Uptown House 2 (Wed 17 May\, 12:30 PM)
-LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Room of My Own (1/2)
+SUMMARY:A Room of My Own
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T002700Z
 DTSTAMP;VALUE=DATE-TIME:20230516T223000Z
@@ -73,12 +31,12 @@ DESCRIPTION:Duration: 54 mins (0h54m)\n\nYou may know Alan Chong Lau as on
  zens. Director Doug Ing scheduled to attend. Come to either screening for 
  the chance to win a grab bag of art supplies from Push/Pull\, Seattle's Ho
  me for Underground Art & Comix\, Art\, Supplies\, Classes\, and Community!
- \n\nhttps://www.siff.net/festival/alan-work\n\nAlso available on SIFF Stre
- aming
+ \n\nhttps://www.siff.net/festival/alan-work\n\nFilm is also being streamed
+ .
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Sunny Side of the Street (1/2)
+SUMMARY:The Sunny Side of the Street
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T030000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T050200Z
 DTSTAMP;VALUE=DATE-TIME:20230517T030000Z
@@ -92,7 +50,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nNominated for six Golden Horse A
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Punderneath it All (2/2)
+SUMMARY:Punderneath it All
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T235600Z
 DTSTAMP;VALUE=DATE-TIME:20230517T223000Z
@@ -103,7 +61,7 @@ DESCRIPTION:Duration: 76 mins (1h16m)\n\nLet’s get ready to…tell puns?
  , including stand-up comedians\, political activists\, and anthropologists
  . Director Abby Hagan scheduled to attend.\n\nhttps://www.siff.net/festiva
  l/punderneath-it-all\n\nAlso playing at:\n\n  • AMC Pacific Place 11 (Tu
- e 16 May\, 06:15 PM)\n\nAlso available on SIFF Streaming
+ e 16 May\, 06:15 PM)\n\nFilm is also being streamed.
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
@@ -131,12 +89,12 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nAn unexpectedly sharp\, jagged c
  haracter study about a handsome young Polish Jew pretending to be French w
  ho works at a luxury hotel in Nazi-era Frankfurt as his carefully construc
  ted and extravagant lifestyle gets turned upside-down by the thrust of his
- tory.\n\nhttps://www.siff.net/festival/filip\n\nAlso available on SIFF Str
- eaming
+ tory.\n\nhttps://www.siff.net/festival/filip\n\nFilm is also being streame
+ d.
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Almamula (2/2)
+SUMMARY:Almamula
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T001500Z
 DTSTAMP;VALUE=DATE-TIME:20230518T223000Z
@@ -147,11 +105,11 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter relocating to a deeply reli
  eature named the Almamula\, in this darkly mysterious debut from Juan Seba
  stian Torales. Director Juan Sebastian Torales scheduled to attend.\n\nhtt
  ps://www.siff.net/festival/almamula\n\nAlso playing at:\n\n  • AMC Pacif
- ic Place 11 (Wed 17 May\, 08:30 PM)\n\nAlso available on SIFF Streaming
+ ic Place 11 (Wed 17 May\, 08:30 PM)\n\nFilm is also being streamed.
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pretty Red Dress (2/2)
+SUMMARY:Pretty Red Dress
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T030000Z
 DTSTAMP;VALUE=DATE-TIME:20230519T010000Z
@@ -165,7 +123,7 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nBlack masculinity is investigate
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Even Hell Has its Heroes (2/2)
+SUMMARY:Even Hell Has its Heroes
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T033000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T053000Z
 DTSTAMP;VALUE=DATE-TIME:20230519T033000Z
@@ -174,13 +132,14 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nRenowned local multimedia transg
  ender artist Clyde Petersen steps behind the camera for this incendiary do
  c on the Seattle-based Earth\, “the slowest metal band on the planet\,
  ” crafting an ode to a time that grunge ruled the Pacific Northwest…an
- d the world. Director Clyde Petersen\, plus cast and crew scheduled to att
- end.\n\nhttps://www.siff.net/festival/even-hell-has-its-heroes\n\nAlso pla
- ying at:\n\n  • SIFF Cinema Egyptian (Wed 17 May\, 06:15 PM)
+ d the world. Director Clyde Petersen\, several crew\, and past and present
+  members of Earth scheduled to attend.\n\nhttps://www.siff.net/festival/ev
+ en-hell-has-its-heroes\n\nAlso playing at:\n\n  • SIFF Cinema Egyptian (
+ Wed 17 May\, 06:15 PM)
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Hill of Secrets (1/2)
+SUMMARY:The Hill of Secrets
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T002700Z
 DTSTAMP;VALUE=DATE-TIME:20230519T221500Z
@@ -203,12 +162,12 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nA compilation of on-the-ground re
  porting at the onset of absolute devastation as a trio of Associated Press
   journalists get caught in Mariupol in the early days of the 2022 Russian 
  invasion. Winner of the Sundance World Cinema Documentary Audience Award.\
- n\nhttps://www.siff.net/festival/20-days-in-mariupol\n\nAlso available on 
- SIFF Streaming
+ n\nhttps://www.siff.net/festival/20-days-in-mariupol\n\nFilm is also being
+  streamed.
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Feast (2/2)
+SUMMARY:Feast
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T031500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T050900Z
 DTSTAMP;VALUE=DATE-TIME:20230520T031500Z
@@ -222,7 +181,7 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nBrillante Mendoza (a Cannes winn
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gaga (2/2)
+SUMMARY:Gaga
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T210200Z
 DTSTAMP;VALUE=DATE-TIME:20230520T190000Z
@@ -237,7 +196,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAn indigenous Taiwanese family b
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bad Press (2/2)
+SUMMARY:Bad Press
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T000300Z
 DTSTAMP;VALUE=DATE-TIME:20230520T220000Z
@@ -249,11 +208,11 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nA nail-biting thriller about cen
  roducer Rebecca Landsberry-Baker and Producers Garrett Baker and Conrad Be
  ilharz scheduled to attend.\n\nhttps://www.siff.net/festival/bad-press\n\n
  Also playing at:\n\n  • SIFF Cinema Uptown House 2 (Thu 18 May\, 05:45 P
- M)\n\nAlso available on SIFF Streaming
+ M)\n\nFilm is also being streamed.
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coo-Coo 043 (2/2)
+SUMMARY:Coo-Coo 043
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T032500Z
 DTSTAMP;VALUE=DATE-TIME:20230521T010000Z
@@ -267,7 +226,7 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nIn Taiwanese filmmaker Ching-lin
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Demigod: The Legend Begins (2/2)
+SUMMARY:Demigod: The Legend Begins
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T040000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T055300Z
 DTSTAMP;VALUE=DATE-TIME:20230521T040000Z
@@ -278,8 +237,8 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nAn ace acupuncturist and martial
  tion wuxia epic that moves at a breakneck pace\, featuring swashbuckling w
  arriors\, scheming vassals\, and benign demigods. And yes\, there will be 
  blood.\n\nhttps://www.siff.net/festival/demigod-the-legend-begins\n\nAlso 
- playing at:\n\n  • SIFF Cinema Egyptian (Fri 19 May\, 11:59 PM)\n\nAlso 
- available on SIFF Streaming
+ playing at:\n\n  • SIFF Cinema Egyptian (Fri 19 May\, 11:59 PM)\n\nFilm 
+ is also being streamed.
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
@@ -296,7 +255,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nIn this animated fantasy from the
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Echo (2/2)
+SUMMARY:The Echo
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T002200Z
 DTSTAMP;VALUE=DATE-TIME:20230521T223000Z
@@ -310,7 +269,7 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nIn a village nestled deep in the
 LOCATION:Ark Lodge Cinemas\, 4816 Rainier Avenue South
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Milisuthando (2/2)
+SUMMARY:Milisuthando
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230522T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T031800Z
 DTSTAMP;VALUE=DATE-TIME:20230522T010000Z

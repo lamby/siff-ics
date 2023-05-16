@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230515T152714Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230516T144615Z
 NAME:SIFF 2023 (Shoreline CC Theater)
 X-WR-CALNAME:SIFF 2023 (Shoreline CC Theater)
-BEGIN:VEVENT
-SUMMARY:Anu
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T023000Z
-DTSTAMP;VALUE=DATE-TIME:20230516T010000Z
-UID:RRygboVlSD
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nFrom local filmmaker Sudeshna Sen
-  comes this touching coming-of-age story about a South Asian-American 12-y
- ear-old who believes her recently passed grandfather may be coming back as
-  the holy reincarnation of Siddhartha. Director/Producer Sudeshna Sen sche
- duled to attend.\n\nhttps://www.siff.net/festival/anu\n\nAlso available on
-  SIFF Streaming
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burning Hearts
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230516T033000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230516T053500Z
-DTSTAMP;VALUE=DATE-TIME:20230516T033000Z
-UID:nNxSAxLUBW
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA Romeo and Juliet-esque romance
- -western sets a small Italian town ablaze as two warring mafia families re
- ignite a generations-simmering feud that will drag everybody back into a v
- iolent spiral of blood and death.\n\nhttps://www.siff.net/festival/burning
- -hearts\n\nAlso available on SIFF Streaming
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Whale Nation
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T010000Z
@@ -45,7 +18,7 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nThey’re Earth’s biggest creat
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Next Sohee (1/2)
+SUMMARY:Next Sohee
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230517T030000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230517T052800Z
 DTSTAMP;VALUE=DATE-TIME:20230517T030000Z
@@ -59,7 +32,7 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nA vivacious high schooler is pla
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:L’immensita (1/2)
+SUMMARY:L’immensita
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T024700Z
 DTSTAMP;VALUE=DATE-TIME:20230518T010000Z
@@ -73,7 +46,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nInternational megastar Penélope
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Let the River Flow (1/2)
+SUMMARY:Let the River Flow
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230518T033000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230518T053800Z
 DTSTAMP;VALUE=DATE-TIME:20230518T033000Z
@@ -83,12 +56,12 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nThe Alta Conflict\, a series of
   would flood Indigenous land\, is the setting of this gutting historical d
  rama centering on a teacher who unintentionally becomes part of the Sámi 
  revolution.\n\nhttps://www.siff.net/festival/let-the-river-flow\n\nAlso pl
- aying at:\n\n  • SIFF Cinema Uptown House 1 (Sat 20 May\, 02:15 PM)\n\nA
- lso available on SIFF Streaming
+ aying at:\n\n  • SIFF Cinema Uptown House 1 (Sat 20 May\, 02:15 PM)\n\nF
+ ilm is also being streamed.
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Table for Six (2/2)
+SUMMARY:Table for Six
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T004500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T025500Z
 DTSTAMP;VALUE=DATE-TIME:20230519T004500Z
@@ -97,12 +70,11 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn this Hong Kong box office sma
  sh that’s equal parts slapstick and melodrama\, a family reunion dinner 
  goes haywire when one of the members brings his new girlfriend\, only to f
  ind that she had previously dated his own brother.\n\nhttps://www.siff.net
- /festival/table-for-six\n\nAlso playing at:\n\n  • SIFF Cinema Egyptian 
- (Mon 15 May\, 09:00 PM)
+ /festival/table-for-six
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Disturbance in the Force (1/2)
+SUMMARY:A Disturbance in the Force
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230519T033000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230519T050600Z
 DTSTAMP;VALUE=DATE-TIME:20230519T033000Z
@@ -118,7 +90,7 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nGeorge Lucas tried to bury it. Ma
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Grab (1/2)
+SUMMARY:The Grab
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T004500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T023900Z
 DTSTAMP;VALUE=DATE-TIME:20230520T004500Z
@@ -133,7 +105,7 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nAcclaimed documentarian Gabriela
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Beasts (2/2)
+SUMMARY:The Beasts
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T033000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T055700Z
 DTSTAMP;VALUE=DATE-TIME:20230520T033000Z
@@ -142,12 +114,12 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nSet in a remote mountain village
   in Galicia\, Spain\, this potent thriller depicts the friction between a 
  local powerbroker and a middle-aged French couple who have moved there to 
  start a farming life.\n\nhttps://www.siff.net/festival/the-beasts\n\nAlso 
- playing at:\n\n  • SIFF Cinema Egyptian (Tue 16 May\, 09:00 PM)\n\nAlso 
- available on SIFF Streaming
+ playing at:\n\n  • SIFF Cinema Egyptian (Tue 16 May\, 09:00 PM)\n\nFilm 
+ is also being streamed.
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yuku and the HImalayan Flower (1/2)
+SUMMARY:Yuku and the HImalayan Flower
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230520T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230520T234500Z
 DTSTAMP;VALUE=DATE-TIME:20230520T223000Z
@@ -162,7 +134,7 @@ DESCRIPTION:Duration: 65 mins (1h05m)\n\nA mouse on a mission! In this gor
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:26.2 to Life (1/2)
+SUMMARY:26.2 to Life
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T020800Z
 DTSTAMP;VALUE=DATE-TIME:20230521T003000Z
@@ -173,8 +145,8 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nAt San Quentin State Prison\, an
   and become champions\, determined to be more than a statistic. Subject Ma
  rkelle Taylor\, Director/Producer Christine Yoo\, and Coach Jim Maloney s
  cheduled to attend.\n\nhttps://www.siff.net/festival/262-to-life\n\nAlso p
- laying at:\n\n  • AMC Pacific Place 11 (Sun 21 May\, 01:00 PM)\n\nAlso a
- vailable on SIFF Streaming
+ laying at:\n\n  • AMC Pacific Place 11 (Sun 21 May\, 01:00 PM)\n\nFilm i
+ s also being streamed.
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -187,12 +159,12 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nWinner of six César Awards incl
  uding Best Picture\, this deeply satisfying true crime police procedural f
  rom filmmaker Dominik Moll (suspense classic With a Friend Like Harry…) 
  follows two detectives investigating the shocking murder of a young suburb
- an woman.\n\nhttps://www.siff.net/festival/the-night-of-the-12th\n\nAlso a
- vailable on SIFF Streaming
+ an woman.\n\nhttps://www.siff.net/festival/the-night-of-the-12th\n\nFilm i
+ s also being streamed.
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Quiet Migration (2/2)
+SUMMARY:The Quiet Migration
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230521T215200Z
 DTSTAMP;VALUE=DATE-TIME:20230521T200000Z
@@ -206,7 +178,7 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nDirector Malene Choi (The Return
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Being Mary Tyler Moore (2/2)
+SUMMARY:Being Mary Tyler Moore
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230521T223000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T003900Z
 DTSTAMP;VALUE=DATE-TIME:20230521T223000Z
@@ -220,7 +192,7 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nWho can turn the world on with h
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dreamin’ Wild (2/2)
+SUMMARY:Dreamin’ Wild
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230522T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230522T033000Z
 DTSTAMP;VALUE=DATE-TIME:20230522T013000Z

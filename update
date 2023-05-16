@@ -106,8 +106,6 @@ class SiffICS:
             is_streamed = b"SIFF Streaming" in r.content
 
             for idx, x in enumerate(xs):
-                x["EventIndex"] = idx + 1
-                x["EventTotal"] = len(xs)
                 x["EventsOther"] = [y for idx_, y in enumerate(xs) if idx_ != idx]
                 x["EventBody"] = body
                 x["IsStreamed"] = is_streamed
@@ -160,10 +158,7 @@ class SiffICS:
 
             event.add("uid", x["ShowtimeId"])
 
-            summary = x["EventName"]
-            if x["EventTotal"] > 1:
-                summary = f"{x['EventName']} ({x['EventIndex']}/{x['EventTotal']})"
-            event.add("summary", summary)
+            event.add("summary", x["EventName"])
 
             event.add(
                 "location",
@@ -187,7 +182,7 @@ class SiffICS:
 
             description.append(x["Url"])
 
-            if x["EventTotal"] > 1:
+            if x["EventsOther"]:
                 description.append("Also playing at:")
                 for other in x["EventsOther"]:
                     dt = get_datetime(other["Showtime"]).astimezone(LOCAL_TIMEZONE)
@@ -195,7 +190,7 @@ class SiffICS:
                     description.append(f"  • {other['VenueName']} ({fmt})")
 
             if x["IsStreamed"]:
-                    description.append(f"Also available on SIFF Streaming")
+                    description.append(f"Film is also being streamed.")
 
             event.add("description", "\n\n".join(description))
 
