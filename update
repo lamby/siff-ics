@@ -156,44 +156,38 @@ class SiffICS:
         for x in events:
             event = icalendar.Event()
 
+            # Overview
             event.add("uid", x["ShowtimeId"])
-
             event.add("summary", x["EventName"])
-
             event.add(
                 "location",
                 f"{x['VenueName']}, {x['VenueAddress1']}",
             )
 
+            # Calculate times
             start = get_datetime(x["Showtime"])
-
-            # Calculate real time
             runtime = int(x["LengthInMinutes"])
             end = start + datetime.timedelta(
                 minutes=PADDING + self.round_to_nearest(runtime, 5)
             )
-
             event.add("dtstamp", start)
             event.add("dtstart", start)
             event.add("dtend", end)
 
+            # Description
             description = []
-
             hours, minutes = divmod(runtime, 60)
             description.append(f"Duration: {runtime} mins ({hours}h{minutes:02d}m)")
             description.append(x["EventBody"])
             description.append(x["Url"])
-
             if x["EventsOther"]:
                 description.append("Also playing at:")
                 for other in x["EventsOther"]:
                     dt = get_datetime(other["Showtime"]).astimezone(LOCAL_TIMEZONE)
                     fmt = dt.strftime("%a %d %B, %I:%M %p")
                     description.append(f"  • {other['VenueName']} ({fmt})")
-
             if x["IsStreamed"]:
                 description.append(f"Film is also being streamed.")
-
             event.add("description", "\n\n".join(description))
 
             cal.add_component(event)
