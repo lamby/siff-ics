@@ -2,26 +2,19 @@
 #
 # https://icalendar.readthedocs.io/en/latest/usage.html#example
 
+import datetime
+import json
+import logging
 import re
+
 import click
 import icalendar
-import logging
+import pytz
 import requests
 import slugify
 import yaml
-import json
-
-from dateutil import parser
 
 from bs4 import BeautifulSoup
-
-import datetime
-import pytz
-import sys
-
-from pprint import pprint
-
-from xml.etree import ElementTree
 from rich.logging import RichHandler
 from rich.progress import track
 
@@ -29,25 +22,24 @@ logging.basicConfig(
     level=logging.INFO, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
 )
 
-START = datetime.date(2023, 5, 11)
-PADDING = 10  # minutes
-DAYS = 10
-
-BASE_URL = "https://www.siff.net/calendar?view=list&date="
-LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
-
 re_collapse_newlines = re.compile(r"\n+")
 
 
 class SiffICS:
+    PADDING = 10  # minutes
+    START = datetime.date.today() - datetime.timedelta(days=2)
+    DAYS = 10
+    LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
+    BASE_URL = "https://www.siff.net/calendar?view=list&date="
+
     def __init__(self):
         self.session = requests.Session()
 
     def main(self):
         # Parse events
         self.events = []
-        for x in track(range(DAYS + 1)):
-            date = START + datetime.timedelta(days=x)
+        for x in track(range(self.DAYS + 1)):
+            date = self.START + datetime.timedelta(days=x)
             self.populate_events_for_date(date)
         logging.info(f"Found {len(self.events)} total events")
 
@@ -103,19 +95,15 @@ class SiffICS:
             body = body.strip()
             body = re_collapse_newlines.sub(" ", body).strip()
 
-            is_streamed = b"SIFF Streaming" in r.content
-
             for idx, x in enumerate(xs):
-                x["EventsOther"] = [y for idx_, y in enumerate(xs) if idx_ != idx]
                 x["EventBody"] = body
-                x["IsStreamed"] = is_streamed
 
     def populate_events_for_date(self, date):
         date_fmt = date.strftime("%Y-%m-%d")
         logging.info(f"Getting events for {date_fmt} …")
 
         r = self.session.get(
-            "{}{}".format(BASE_URL, date_fmt),
+            "{}{}".format(self.BASE_URL, date_fmt),
         )
         r.raise_for_status()
 
@@ -123,6 +111,8 @@ class SiffICS:
 
         for elem in soup.select("a.elevent"):
             data = json.loads(elem["data-screening"])
+            if data["VenueName"] == "Virtual":
+                continue
             name = data["VenueName"].partition("| ")[2].strip()
             data.update(
                 {
@@ -168,7 +158,7 @@ class SiffICS:
             start = get_datetime(x["Showtime"])
             runtime = int(x["LengthInMinutes"])
             end = start + datetime.timedelta(
-                minutes=PADDING + self.round_to_nearest(runtime, 5)
+                minutes=self.PADDING + self.round_to_nearest(runtime, 5)
             )
             event.add("dtstamp", start)
             event.add("dtstart", start)
@@ -180,14 +170,6 @@ class SiffICS:
             description.append(f"Duration: {runtime} mins ({hours}h{minutes:02d}m)")
             description.append(x["EventBody"])
             description.append(x["Url"])
-            if x["EventsOther"]:
-                description.append("Also playing at:")
-                for other in x["EventsOther"]:
-                    dt = get_datetime(other["Showtime"]).astimezone(LOCAL_TIMEZONE)
-                    fmt = dt.strftime("%a %d %B, %I:%M %p")
-                    description.append(f"  • {other['VenueName']} ({fmt})")
-            if x["IsStreamed"]:
-                description.append(f"Film is also being streamed.")
             event.add("description", "\n\n".join(description))
 
             cal.add_component(event)

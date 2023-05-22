@@ -4,7 +4,7 @@ layout: default
 
 <html>
 <head>
-  <title>ICS files for SIFF 2023</title>
+  <title>ICS files for SIFF's cinemas</title>
 </head>
 <body>
 
@@ -16,7 +16,7 @@ layout: default
 
 <body>
 
-<h1>ICS files for SIFF 2023</h1>
+<h1>ICS files for SIFF venues</h1>
 
 <p>
   <big><strong><a href="ics/all.ics?{{ site.github.build_revision }}">All events</a></strong> (.ics)</big>
@@ -44,11 +44,5 @@ layout: default
 </p>
 
 <p><a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}">Last update</a></p>
-
-<h2>Other links</h2>
-
-<ul>
-    <li><em>Gooner1886</em>'s <a href="https://letterboxd.com/gooner1886/list/49th-seattle-international-film-festival/detail/">Letterboxd list of SIFF films</a></li>
-</ul>
 
 </body>
