@@ -128,7 +128,7 @@ class SiffICS:
     def get_ics(self, events, venue_name):
         logging.info(f"Updating for {venue_name}")
 
-        name = f"SIFF 2023 ({venue_name})"
+        name = f"SIFF Cinema ({venue_name})"
 
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
