@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230523T150357Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230524T150737Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 BEGIN:VEVENT
@@ -153,6 +153,32 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230531T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230601T005500Z
 DTSTAMP;VALUE=DATE-TIME:20230531T230000Z
 UID:OMy1imyOsk
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nWhat does it mean to care for an
+ other person’s child? A single 40-year-old high school teacher must ask 
+ herself this question when she falls in love with Ali and especially his f
+ our-year-old daughter in the latest from Rebecca Zlotowski (An Easy Girl).
+ \n\nhttps://www.siff.net/festival/other-peoples-children
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chile ‘76
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230601T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230602T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230601T234500Z
+UID:Li6YEaLLSp
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter a life of toeing the line a
+ s a bourgeois housewife in ’70s Chile\, Carmen’s world is rocked when 
+ she’s asked to nurse a wounded rebel back to health\, opening her up to 
+ certain danger in this tense and unforgettable thriller.\n\nhttps://www.si
+ ff.net/festival/chile-76
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Other People’s Children
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230602T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230602T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230602T021500Z
+UID:w0yQF85Bln
 DESCRIPTION:Duration: 104 mins (1h44m)\n\nWhat does it mean to care for an
  other person’s child? A single 40-year-old high school teacher must ask 
  herself this question when she falls in love with Ali and especially his f
