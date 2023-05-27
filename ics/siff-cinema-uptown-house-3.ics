@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230526T120408Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230527T142732Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Chile ‘76
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230526T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230527T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230526T234500Z
-UID:YqPHXprokY
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter a life of toeing the line a
- s a bourgeois housewife in ’70s Chile\, Carmen’s world is rocked when 
- she’s asked to nurse a wounded rebel back to health\, opening her up to 
- certain danger in this tense and unforgettable thriller.\n\nhttps://www.si
- ff.net/festival/chile-76
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chile ‘76
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230527T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230527T041500Z
-DTSTAMP;VALUE=DATE-TIME:20230527T023000Z
-UID:0pvYoeMlM9
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter a life of toeing the line a
- s a bourgeois housewife in ’70s Chile\, Carmen’s world is rocked when 
- she’s asked to nurse a wounded rebel back to health\, opening her up to 
- certain danger in this tense and unforgettable thriller.\n\nhttps://www.si
- ff.net/festival/chile-76
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chile ‘76
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230527T211500Z

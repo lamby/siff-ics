@@ -1,91 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230526T120408Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230527T142732Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230526T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230527T014000Z
-DTSTAMP;VALUE=DATE-TIME:20230526T230000Z
-UID:FdjPYjgI10
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230527T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230527T045500Z
-DTSTAMP;VALUE=DATE-TIME:20230527T021500Z
-UID:Do6Doibw3f
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Other People’s Children
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230526T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230527T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230526T233000Z
-UID:PdQpgQNRcj
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nWhat does it mean to care for an
- other person’s child? A single 40-year-old high school teacher must ask 
- herself this question when she falls in love with Ali and especially his f
- our-year-old daughter in the latest from Rebecca Zlotowski (An Easy Girl).
- \n\nhttps://www.siff.net/festival/other-peoples-children
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Other People’s Children
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230527T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230527T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230527T021500Z
-UID:4SpJUUta5x
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nWhat does it mean to care for an
- other person’s child? A single 40-year-old high school teacher must ask 
- herself this question when she falls in love with Ali and especially his f
- our-year-old daughter in the latest from Rebecca Zlotowski (An Easy Girl).
- \n\nhttps://www.siff.net/festival/other-peoples-children
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chile ‘76
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230526T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230527T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230526T234500Z
-UID:YqPHXprokY
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter a life of toeing the line a
- s a bourgeois housewife in ’70s Chile\, Carmen’s world is rocked when 
- she’s asked to nurse a wounded rebel back to health\, opening her up to 
- certain danger in this tense and unforgettable thriller.\n\nhttps://www.si
- ff.net/festival/chile-76
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chile ‘76
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230527T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230527T041500Z
-DTSTAMP;VALUE=DATE-TIME:20230527T023000Z
-UID:0pvYoeMlM9
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter a life of toeing the line a
- s a bourgeois housewife in ’70s Chile\, Carmen’s world is rocked when 
- she’s asked to nurse a wounded rebel back to health\, opening her up to 
- certain danger in this tense and unforgettable thriller.\n\nhttps://www.si
- ff.net/festival/chile-76
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eight Mountains
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230527T194500Z
