@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230527T142732Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230528T152619Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Chile ‘76
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230527T211500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230527T230000Z
-DTSTAMP;VALUE=DATE-TIME:20230527T211500Z
-UID:RxDdxePcSp
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter a life of toeing the line a
- s a bourgeois housewife in ’70s Chile\, Carmen’s world is rocked when 
- she’s asked to nurse a wounded rebel back to health\, opening her up to 
- certain danger in this tense and unforgettable thriller.\n\nhttps://www.si
- ff.net/festival/chile-76
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chile ‘76
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230527T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230528T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230527T234500Z
-UID:UCkpwb2UsS
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter a life of toeing the line a
- s a bourgeois housewife in ’70s Chile\, Carmen’s world is rocked when 
- she’s asked to nurse a wounded rebel back to health\, opening her up to 
- certain danger in this tense and unforgettable thriller.\n\nhttps://www.si
- ff.net/festival/chile-76
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chile ‘76
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230528T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230528T041500Z
-DTSTAMP;VALUE=DATE-TIME:20230528T023000Z
-UID:xMAZvhkDZm
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter a life of toeing the line a
- s a bourgeois housewife in ’70s Chile\, Carmen’s world is rocked when 
- she’s asked to nurse a wounded rebel back to health\, opening her up to 
- certain danger in this tense and unforgettable thriller.\n\nhttps://www.si
- ff.net/festival/chile-76
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other People’s Children
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230528T204500Z
