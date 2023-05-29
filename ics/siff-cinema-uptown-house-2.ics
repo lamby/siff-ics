@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230528T152619Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230529T103125Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Other People’s Children
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230528T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230529T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230528T233000Z
-UID:gpj81Q5pA1
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nWhat does it mean to care for an
- other person’s child? A single 40-year-old high school teacher must ask 
- herself this question when she falls in love with Ali and especially his f
- our-year-old daughter in the latest from Rebecca Zlotowski (An Easy Girl).
- \n\nhttps://www.siff.net/festival/other-peoples-children
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Other People’s Children
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230529T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230529T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230529T021500Z
-UID:hqcLW9mJGg
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nWhat does it mean to care for an
- other person’s child? A single 40-year-old high school teacher must ask 
- herself this question when she falls in love with Ali and especially his f
- our-year-old daughter in the latest from Rebecca Zlotowski (An Easy Girl).
- \n\nhttps://www.siff.net/festival/other-peoples-children
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other People’s Children
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230529T204500Z

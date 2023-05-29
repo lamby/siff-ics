@@ -1,54 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230528T152619Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230529T103125Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230528T194500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230528T222500Z
-DTSTAMP;VALUE=DATE-TIME:20230528T194500Z
-UID:CKonqoXl42
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230528T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230529T014000Z
-DTSTAMP;VALUE=DATE-TIME:20230528T230000Z
-UID:0CkhrHn69I
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230529T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230529T045500Z
-DTSTAMP;VALUE=DATE-TIME:20230529T021500Z
-UID:qivUNraltb
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eight Mountains
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230529T194500Z
