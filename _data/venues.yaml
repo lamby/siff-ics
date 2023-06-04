@@ -10,11 +10,41 @@
   VenueZipCode: '98122'
 - VenueAddress1: 511 Queen Anne Avenue North
   VenueAddress2: null
+  VenueCapacity: 479
+  VenueCity: Seattle
+  VenueCountry: United States
+  VenueName: SIFF Cinema Uptown House 1
+  VenuePhoneNumber: null
+  VenueSlug: siff-cinema-uptown-house-1
+  VenueState: WA
+  VenueZipCode: '98109'
+- VenueAddress1: 511 Queen Anne Avenue North
+  VenueAddress2: null
   VenueCapacity: 276
   VenueCity: Seattle
   VenueCountry: United States
   VenueName: SIFF Cinema Uptown House 2
   VenuePhoneNumber: null
   VenueSlug: siff-cinema-uptown-house-2
+  VenueState: WA
+  VenueZipCode: '98109'
+- VenueAddress1: 511 Queen Anne Avenue North
+  VenueAddress2: null
+  VenueCapacity: 172
+  VenueCity: Seattle
+  VenueCountry: United States
+  VenueName: SIFF Cinema Uptown House 3
+  VenuePhoneNumber: null
+  VenueSlug: siff-cinema-uptown-house-3
+  VenueState: WA
+  VenueZipCode: '98109'
+- VenueAddress1: 305 Harrison Street
+  VenueAddress2: null
+  VenueCapacity: 92
+  VenueCity: Seattle
+  VenueCountry: United States
+  VenueName: SIFF Film Center
+  VenuePhoneNumber: null
+  VenueSlug: siff-film-center
   VenueState: WA
   VenueZipCode: '98109'

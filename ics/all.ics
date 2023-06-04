@@ -1,139 +1,78 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230601T132438Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230604T212034Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
 BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230601T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230602T014000Z
-DTSTAMP;VALUE=DATE-TIME:20230601T230000Z
-UID:AdUGO2CY70
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+SUMMARY:Tokyo Stories
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230604T211000Z
+DTSTAMP;VALUE=DATE-TIME:20230604T193000Z
+UID:xOMpwSx6mS
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nExhibition on Screen A thrilling 
+ encounter with one of the world’s great art capitals. Based on a major 
+ exhibition at the Ashmolean in Oxford\, Tokyo Stories spans 400 years of i
+ ncredibly dynamic art – ranging from the delicate woodblock prints of Ho
+ kusai and Hiroshige\, to Pop Art posters\, contemporary photography\, Mang
+ a\, film\, and brand-new artworks that were created on the streets.\n\nhtt
+ ps://www.siff.net/programs-and-events/exhibition-on-screen/exhibition-on-s
+ creen-tokyo-stories
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230602T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230602T045500Z
-DTSTAMP;VALUE=DATE-TIME:20230602T021500Z
-UID:mtTkPPjibC
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T194500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230604T213000Z
+DTSTAMP;VALUE=DATE-TIME:20230604T194500Z
+UID:8k2RV359cv
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chile ‘76
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230601T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230602T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230601T234500Z
-UID:Li6YEaLLSp
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nAfter a life of toeing the line a
- s a bourgeois housewife in ’70s Chile\, Carmen’s world is rocked when 
- she’s asked to nurse a wounded rebel back to health\, opening her up to 
- certain danger in this tense and unforgettable thriller.\n\nhttps://www.si
- ff.net/festival/chile-76
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230604T223000Z
+DTSTAMP;VALUE=DATE-TIME:20230604T200000Z
+UID:tnRFJcQY6N
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Other People’s Children
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230602T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230602T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230602T021500Z
-UID:w0yQF85Bln
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nWhat does it mean to care for an
- other person’s child? A single 40-year-old high school teacher must ask 
- herself this question when she falls in love with Ali and especially his f
- our-year-old daughter in the latest from Rebecca Zlotowski (An Easy Girl).
- \n\nhttps://www.siff.net/festival/other-peoples-children
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230605T014500Z
+DTSTAMP;VALUE=DATE-TIME:20230604T231500Z
+UID:FZIaPGnO7U
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230602T224500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230603T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230602T224500Z
-UID:WeW3J9rjNm
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230603T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230603T044000Z
-DTSTAMP;VALUE=DATE-TIME:20230603T020000Z
-UID:R6iysPR0Lw
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230603T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230603T221000Z
-DTSTAMP;VALUE=DATE-TIME:20230603T193000Z
-UID:UjBeal3ni7
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230603T224500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230604T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230603T224500Z
-UID:UqeG1Svhbf
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230604T044000Z
-DTSTAMP;VALUE=DATE-TIME:20230604T020000Z
-UID:R8GMmEvdPt
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230605T044500Z
+DTSTAMP;VALUE=DATE-TIME:20230605T021500Z
+UID:9eChPBIBSo
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eight Mountains
@@ -145,9 +84,9 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\,
  Bruno is the last child of a forgotten mountain village. Over the years\, 
  Bruno remains faithful to his mountain\, while Pietro is the one who comes
   and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
+ o be true friends for life. 68th David di Donatello Awards Best Picture
+ \, Best Adapted Screenplay\, and Best Cinematography winner.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/the-eight-mountains
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -160,10 +99,36 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\,
  Bruno is the last child of a forgotten mountain village. Over the years\, 
  Bruno remains faithful to his mountain\, while Pietro is the one who comes
   and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
+ o be true friends for life. 68th David di Donatello Awards Best Picture
+ \, Best Adapted Screenplay\, and Best Cinematography winner.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/the-eight-mountains
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werckmeister Harmonies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T224500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230605T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230604T224500Z
+UID:6tsdnuNMn2
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
+  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
+  societal collapse is an enigma of transcendent visual\, philosophical\, a
+ nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
+ in-theaters/werckmeister-harmonies
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werckmeister Harmonies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230605T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230605T020000Z
+UID:coE9tqya9W
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
+  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
+  societal collapse is an enigma of transcendent visual\, philosophical\, a
+ nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
+ in-theaters/werckmeister-harmonies
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eight Mountains
@@ -175,9 +140,9 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\,
  Bruno is the last child of a forgotten mountain village. Over the years\, 
  Bruno remains faithful to his mountain\, while Pietro is the one who comes
   and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
+ o be true friends for life. 68th David di Donatello Awards Best Picture
+ \, Best Adapted Screenplay\, and Best Cinematography winner.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/the-eight-mountains
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -190,10 +155,80 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\,
  Bruno is the last child of a forgotten mountain village. Over the years\, 
  Bruno remains faithful to his mountain\, while Pietro is the one who comes
   and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
+ o be true friends for life. 68th David di Donatello Awards Best Picture
+ \, Best Adapted Screenplay\, and Best Cinematography winner.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/the-eight-mountains
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230606T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230605T230000Z
+UID:P7ET9WkBP0
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230606T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230606T044500Z
+DTSTAMP;VALUE=DATE-TIME:20230606T021500Z
+UID:EVCanMTTSr
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230606T011500Z
+DTSTAMP;VALUE=DATE-TIME:20230605T233000Z
+UID:om2vusRmlP
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokyo Stories
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230606T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230606T034000Z
+DTSTAMP;VALUE=DATE-TIME:20230606T020000Z
+UID:QWT6FoLlqI
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nExhibition on Screen A thrilling 
+ encounter with one of the world’s great art capitals. Based on a major 
+ exhibition at the Ashmolean in Oxford\, Tokyo Stories spans 400 years of i
+ ncredibly dynamic art – ranging from the delicate woodblock prints of Ho
+ kusai and Hiroshige\, to Pop Art posters\, contemporary photography\, Mang
+ a\, film\, and brand-new artworks that were created on the streets.\n\nhtt
+ ps://www.siff.net/programs-and-events/exhibition-on-screen/exhibition-on-s
+ creen-tokyo-stories
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werckmeister Harmonies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230606T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230606T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230606T020000Z
+UID:mawc2vXnkc
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
+  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
+  societal collapse is an enigma of transcendent visual\, philosophical\, a
+ nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
+ in-theaters/werckmeister-harmonies
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eight Mountains
@@ -205,9 +240,9 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\,
  Bruno is the last child of a forgotten mountain village. Over the years\, 
  Bruno remains faithful to his mountain\, while Pietro is the one who comes
   and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
+ o be true friends for life. 68th David di Donatello Awards Best Picture
+ \, Best Adapted Screenplay\, and Best Cinematography winner.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/the-eight-mountains
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -220,10 +255,172 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\,
  Bruno is the last child of a forgotten mountain village. Over the years\, 
  Bruno remains faithful to his mountain\, while Pietro is the one who comes
   and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
+ o be true friends for life. 68th David di Donatello Awards Best Picture
+ \, Best Adapted Screenplay\, and Best Cinematography winner.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/the-eight-mountains
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230606T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230606T230000Z
+UID:4IaXjeIlif
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T044500Z
+DTSTAMP;VALUE=DATE-TIME:20230607T021500Z
+UID:pIwXyttOYU
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230606T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T011500Z
+DTSTAMP;VALUE=DATE-TIME:20230606T233000Z
+UID:wADtbyy6cU
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T041500Z
+DTSTAMP;VALUE=DATE-TIME:20230607T023000Z
+UID:hhPfx0OaIv
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokyo Stories
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T034000Z
+DTSTAMP;VALUE=DATE-TIME:20230607T020000Z
+UID:9S4Di1CId8
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nExhibition on Screen A thrilling 
+ encounter with one of the world’s great art capitals. Based on a major 
+ exhibition at the Ashmolean in Oxford\, Tokyo Stories spans 400 years of i
+ ncredibly dynamic art – ranging from the delicate woodblock prints of Ho
+ kusai and Hiroshige\, to Pop Art posters\, contemporary photography\, Mang
+ a\, film\, and brand-new artworks that were created on the streets.\n\nhtt
+ ps://www.siff.net/programs-and-events/exhibition-on-screen/exhibition-on-s
+ creen-tokyo-stories
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werckmeister Harmonies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230607T020000Z
+UID:nDEofhIv59
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
+  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
+  societal collapse is an enigma of transcendent visual\, philosophical\, a
+ nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
+ in-theaters/werckmeister-harmonies
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T224500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230608T003000Z
+DTSTAMP;VALUE=DATE-TIME:20230607T224500Z
+UID:P6Xw6neyoV
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230608T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230607T230000Z
+UID:PRNQfHMHTa
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230608T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230608T044500Z
+DTSTAMP;VALUE=DATE-TIME:20230608T021500Z
+UID:pJCgPPcv35
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goldfinger
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230608T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230608T030000Z
+DTSTAMP;VALUE=DATE-TIME:20230608T010000Z
+UID:QqOFlMeChy
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nSIFF Movie Club Hop in your Asto
+ n Martin\, grab a shaken martini\, and let’s kick off the summer with a 
+ good ol’ fashioned spy flick! Nearly 60 years after its release\, Goldfi
+ nger continues to be the framework for all subsequent Bond films in this l
+ andmark series. In Sean Connery’s third outing as James Bond\, our titul
+ ar spy uncovers a plot to contaminate the Fort Knox gold reserve while inv
+ estigating a gold magnate’s smuggling operation. Selected and introduced
+  by SIFF Development and Membership Manager (and amateur James Bond expert
+ ) Carson Rennekamp.  Tickets: $10 ($5 SIFF members)\n\nhttps://www.siff.ne
+ t/programs-and-events/siff-movie-club/goldfinger
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purple Rain
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230608T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230608T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230608T020000Z
+UID:C8e5F3RJc0
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nCelebrate Prince's birthday with
+  this special presentation of Purple Rain featuring Q&A with DJ Kevin Co
+ le\, a former Minneapolis-based DJ who frequently DJed Prince's private pa
+ rties.    Event details: Enjoy commemorative birthday treats courtesy of
+  Trophy Cupcakes for the first 200 people in the door Take a pic with Apo
+ llonia at our custom Prince photo booth courtesy of PNTA Strut your stuff 
+ in your finest Prince-inspired attire Hang on to your ticket! Head to La D
+ ive after the screening for a $2 spritz and other discounts when you prese
+ nt your Purple Rain stub\n\nhttps://www.siff.net/cinema/in-theaters/purpl
+ e-rain
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eight Mountains
@@ -235,9 +432,9 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\,
  Bruno is the last child of a forgotten mountain village. Over the years\, 
  Bruno remains faithful to his mountain\, while Pietro is the one who comes
   and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
+ o be true friends for life. 68th David di Donatello Awards Best Picture
+ \, Best Adapted Screenplay\, and Best Cinematography winner.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/the-eight-mountains
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -250,9 +447,273 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\,
  Bruno is the last child of a forgotten mountain village. Over the years\, 
  Bruno remains faithful to his mountain\, while Pietro is the one who comes
   and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
+ o be true friends for life. 68th David di Donatello Awards Best Picture
+ \, Best Adapted Screenplay\, and Best Cinematography winner.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/the-eight-mountains
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230608T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230609T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230608T230000Z
+UID:11yTvfj8sP
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230609T044500Z
+DTSTAMP;VALUE=DATE-TIME:20230609T021500Z
+UID:5sNM5IulmB
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230608T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230609T011500Z
+DTSTAMP;VALUE=DATE-TIME:20230608T233000Z
+UID:9W3DwhhHU5
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230609T041500Z
+DTSTAMP;VALUE=DATE-TIME:20230609T023000Z
+UID:oRpPfcdDyj
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werckmeister Harmonies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230609T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230609T020000Z
+UID:FBvC8jmimm
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
+  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
+  societal collapse is an enigma of transcendent visual\, philosophical\, a
+ nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
+ in-theaters/werckmeister-harmonies
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230609T233000Z
+UID:R8nim2Q5jf
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230610T023000Z
+UID:TYsUl4PBeq
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11:11
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T212000Z
+DTSTAMP;VALUE=DATE-TIME:20230610T200000Z
+UID:Mwwcy6bjLE
+DESCRIPTION:Duration: 68 mins (1h08m)\n\nThe feature film World Premiere o
+ f Micah Knapp's directorial debut\, 11:11. The story: An estranged son emb
+ arks on an existential road trip back to his old hometown to attend his fa
+ ther's funeral. A mood piece told through visuals and music.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/11-11-world-premiere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T221000Z
+DTSTAMP;VALUE=DATE-TIME:20230610T203000Z
+UID:Q1QTOqEDjZ
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230610T233000Z
+UID:yM6ayQitsD
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230611T023000Z
+UID:JZpBglJZpQ
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aye Zindagi
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T232000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T011500Z
+DTSTAMP;VALUE=DATE-TIME:20230610T232000Z
+UID:H9tq5UR8nm
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nVinay\, a 26-year-old with cirrh
+ osis\, has six months to live without a liver transplant. His bond with a 
+ hospital grief-counselor\, Revathi\, rekindles his hope and faith in life 
+ and makes him believe in the power of humanity. Based on a true story. Pre
+ sented by MOHAN USA.\n\nhttps://www.siff.net/cinema/in-theaters/mohan-usa
+ -presents-aye-zindagi
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermeer: The Blockbuster Exhibition
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T214000Z
+DTSTAMP;VALUE=DATE-TIME:20230611T193000Z
+UID:XOp3VtkM9m
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nExhibition on Screen This new Ex
+ hibition on Screen film is a once-in-a-lifetime opportunity to get a priva
+ te view of the largest Vermeer exhibition in history\, opening spring 2023
+  at the Rijksmuseum in Amsterdam\, accompanied by the museum director and
+  the curator of the show.\n\nhttps://www.siff.net/programs-and-events/exhi
+ bition-on-screen/exhibition-on-screen-vermeer-the-greatest-exhibition
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T221000Z
+DTSTAMP;VALUE=DATE-TIME:20230611T203000Z
+UID:1TRboA8DKR
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230612T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230611T233000Z
+UID:ivRgcPvIsb
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230612T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230612T023000Z
+UID:l2iZqDwj7f
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230612T233000Z
+UID:OFpnGfU8Gu
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230613T023000Z
+UID:U773VSIPhG
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermeer: The Blockbuster Exhibition
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230613T020000Z
+UID:ydLZGFq0pl
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nExhibition on Screen This new Ex
+ hibition on Screen film is a once-in-a-lifetime opportunity to get a priva
+ te view of the largest Vermeer exhibition in history\, opening spring 2023
+  at the Rijksmuseum in Amsterdam\, accompanied by the museum director and
+  the curator of the show.\n\nhttps://www.siff.net/programs-and-events/exhi
+ bition-on-screen/exhibition-on-screen-vermeer-the-greatest-exhibition
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR

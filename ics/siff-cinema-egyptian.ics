@@ -1,37 +1,90 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230601T132438Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230604T212034Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
 BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230601T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230602T014000Z
-DTSTAMP;VALUE=DATE-TIME:20230601T230000Z
-UID:AdUGO2CY70
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
+SUMMARY:Werckmeister Harmonies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T224500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230605T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230604T224500Z
+UID:6tsdnuNMn2
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
+  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
+  societal collapse is an enigma of transcendent visual\, philosophical\, a
+ nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
+ in-theaters/werckmeister-harmonies
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230602T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230602T045500Z
-DTSTAMP;VALUE=DATE-TIME:20230602T021500Z
-UID:mtTkPPjibC
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 'The Eight Mountains' is the best picture\, be
- st adapted screenplay\, and best cinematography winner of the 68th David 
- di Donatello Awards.\n\nhttps://www.siff.net/festival/the-eight-mountains
+SUMMARY:Werckmeister Harmonies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230605T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230605T020000Z
+UID:coE9tqya9W
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
+  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
+  societal collapse is an enigma of transcendent visual\, philosophical\, a
+ nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
+ in-theaters/werckmeister-harmonies
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werckmeister Harmonies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230606T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230606T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230606T020000Z
+UID:mawc2vXnkc
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
+  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
+  societal collapse is an enigma of transcendent visual\, philosophical\, a
+ nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
+ in-theaters/werckmeister-harmonies
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werckmeister Harmonies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230607T020000Z
+UID:nDEofhIv59
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
+  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
+  societal collapse is an enigma of transcendent visual\, philosophical\, a
+ nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
+ in-theaters/werckmeister-harmonies
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purple Rain
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230608T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230608T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230608T020000Z
+UID:C8e5F3RJc0
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nCelebrate Prince's birthday with
+  this special presentation of Purple Rain featuring Q&A with DJ Kevin Co
+ le\, a former Minneapolis-based DJ who frequently DJed Prince's private pa
+ rties.    Event details: Enjoy commemorative birthday treats courtesy of
+  Trophy Cupcakes for the first 200 people in the door Take a pic with Apo
+ llonia at our custom Prince photo booth courtesy of PNTA Strut your stuff 
+ in your finest Prince-inspired attire Hang on to your ticket! Head to La D
+ ive after the screening for a $2 spritz and other discounts when you prese
+ nt your Purple Rain stub\n\nhttps://www.siff.net/cinema/in-theaters/purpl
+ e-rain
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werckmeister Harmonies
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230609T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230609T020000Z
+UID:FBvC8jmimm
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
+  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
+  societal collapse is an enigma of transcendent visual\, philosophical\, a
+ nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
+ in-theaters/werckmeister-harmonies
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
