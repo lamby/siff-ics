@@ -1,25 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230604T212034Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230605T141419Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
-BEGIN:VEVENT
-SUMMARY:Tokyo Stories
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230604T211000Z
-DTSTAMP;VALUE=DATE-TIME:20230604T193000Z
-UID:xOMpwSx6mS
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nExhibition on Screen A thrilling 
- encounter with one of the world’s great art capitals. Based on a major 
- exhibition at the Ashmolean in Oxford\, Tokyo Stories spans 400 years of i
- ncredibly dynamic art – ranging from the delicate woodblock prints of Ho
- kusai and Hiroshige\, to Pop Art posters\, contemporary photography\, Mang
- a\, film\, and brand-new artworks that were created on the streets.\n\nhtt
- ps://www.siff.net/programs-and-events/exhibition-on-screen/exhibition-on-s
- creen-tokyo-stories
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tokyo Stories
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230606T020000Z
@@ -86,6 +70,20 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T041000Z
 DTSTAMP;VALUE=DATE-TIME:20230613T020000Z
 UID:ydLZGFq0pl
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nExhibition on Screen This new Ex
+ hibition on Screen film is a once-in-a-lifetime opportunity to get a priva
+ te view of the largest Vermeer exhibition in history\, opening spring 2023
+  at the Rijksmuseum in Amsterdam\, accompanied by the museum director and
+  the curator of the show.\n\nhttps://www.siff.net/programs-and-events/exhi
+ bition-on-screen/exhibition-on-screen-vermeer-the-greatest-exhibition
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermeer: The Blockbuster Exhibition
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230614T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230614T020000Z
+UID:QqMy9oEYlT
 DESCRIPTION:Duration: 120 mins (2h00m)\n\nExhibition on Screen This new Ex
  hibition on Screen film is a once-in-a-lifetime opportunity to get a priva
  te view of the largest Vermeer exhibition in history\, opening spring 2023

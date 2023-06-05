@@ -1,39 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230604T212034Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230605T141419Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T224500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230605T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230604T224500Z
-UID:0bLS90UcqJ
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 68th David di Donatello Awards Best Picture
- \, Best Adapted Screenplay\, and Best Cinematography winner.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/the-eight-mountains
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230605T044000Z
-DTSTAMP;VALUE=DATE-TIME:20230605T020000Z
-UID:VRExTOlqdP
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nPietro is a boy from the city\, 
- Bruno is the last child of a forgotten mountain village. Over the years\, 
- Bruno remains faithful to his mountain\, while Pietro is the one who comes
-  and goes. While their destinies unfold\, the two discover what it means t
- o be true friends for life. 68th David di Donatello Awards Best Picture
- \, Best Adapted Screenplay\, and Best Cinematography winner.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/the-eight-mountains
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eight Mountains
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T224500Z
@@ -256,6 +226,34 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T023000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T041000Z
 DTSTAMP;VALUE=DATE-TIME:20230613T023000Z
 UID:U773VSIPhG
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230614T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230613T233000Z
+UID:gRx2mg6pJ9
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230614T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230614T023000Z
+UID:r8O4MWSwOJ
 DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
  otography class who begins taking pictures of Black men out of fear they w
  ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla

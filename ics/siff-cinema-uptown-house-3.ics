@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230604T212034Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230605T141419Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T194500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230604T213000Z
-DTSTAMP;VALUE=DATE-TIME:20230604T194500Z
-UID:8k2RV359cv
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Hurt My Feelings
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T233000Z

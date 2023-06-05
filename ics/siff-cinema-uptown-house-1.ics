@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230604T212034Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230605T141419Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230604T223000Z
-DTSTAMP;VALUE=DATE-TIME:20230604T200000Z
-UID:tnRFJcQY6N
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230604T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230605T014500Z
-DTSTAMP;VALUE=DATE-TIME:20230604T231500Z
-UID:FZIaPGnO7U
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230605T044500Z
-DTSTAMP;VALUE=DATE-TIME:20230605T021500Z
-UID:9eChPBIBSo
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T230000Z
