@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230605T141419Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230609T205659Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230606T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230605T230000Z
-UID:P7ET9WkBP0
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230609T230000Z
+UID:wrLubVnlln
 DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
  xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
  s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
@@ -19,10 +19,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230606T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230606T044500Z
-DTSTAMP;VALUE=DATE-TIME:20230606T021500Z
-UID:EVCanMTTSr
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230610T020000Z
+UID:SHccBMdFks
 DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
  xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
  s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
@@ -32,10 +32,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230606T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230606T230000Z
-UID:4IaXjeIlif
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T223000Z
+DTSTAMP;VALUE=DATE-TIME:20230610T200000Z
+UID:fhB8tUMwSJ
 DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
  xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
  s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
@@ -45,56 +45,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T044500Z
-DTSTAMP;VALUE=DATE-TIME:20230607T021500Z
-UID:pIwXyttOYU
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T224500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230608T003000Z
-DTSTAMP;VALUE=DATE-TIME:20230607T224500Z
-UID:P6Xw6neyoV
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goldfinger
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230608T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230608T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230608T010000Z
-UID:QqOFlMeChy
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nSIFF Movie Club Hop in your Asto
- n Martin\, grab a shaken martini\, and let’s kick off the summer with a 
- good ol’ fashioned spy flick! Nearly 60 years after its release\, Goldfi
- nger continues to be the framework for all subsequent Bond films in this l
- andmark series. In Sean Connery’s third outing as James Bond\, our titul
- ar spy uncovers a plot to contaminate the Fort Knox gold reserve while inv
- estigating a gold magnate’s smuggling operation. Selected and introduced
-  by SIFF Development and Membership Manager (and amateur James Bond expert
- ) Carson Rennekamp.  Tickets: $10 ($5 SIFF members)\n\nhttps://www.siff.ne
- t/programs-and-events/siff-movie-club/goldfinger
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230608T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230609T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230608T230000Z
-UID:11yTvfj8sP
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230610T230000Z
+UID:OduwyPDl24
 DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
  xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
  s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
@@ -104,15 +58,223 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230609T044500Z
-DTSTAMP;VALUE=DATE-TIME:20230609T021500Z
-UID:5sNM5IulmB
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230611T020000Z
+UID:m0pMYCopip
 DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
  xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
  s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
  imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
  er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T223000Z
+DTSTAMP;VALUE=DATE-TIME:20230611T200000Z
+UID:fBgrwcNmf9
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230612T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230611T230000Z
+UID:kp1PrT2q9L
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230612T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230612T020000Z
+UID:3DakIU0sIJ
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230612T230000Z
+UID:fxwDmQm1wY
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230613T020000Z
+UID:V7am5Z0eLx
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230614T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230613T230000Z
+UID:ZbfVQU0xaA
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230614T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230614T020000Z
+UID:64qnU1xpCM
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230614T230000Z
+UID:cjarE3YkQv
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230615T020000Z
+UID:6rVAVJlg0w
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230616T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230615T230000Z
+UID:omXIqyv4TF
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230616T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230616T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230616T020000Z
+UID:8IVRrOUIrg
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230616T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230616T233000Z
+UID:yiv5ttpTRA
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230617T023000Z
+UID:rxuissqgki
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T223000Z
+DTSTAMP;VALUE=DATE-TIME:20230617T203000Z
+UID:uDyAk1GpAg
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230617T233000Z
+UID:jycxEyvN07
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230618T023000Z
+UID:G0ogJpVOp6
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

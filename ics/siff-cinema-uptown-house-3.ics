@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230605T141419Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230609T205659Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 BEGIN:VEVENT
 SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230605T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230606T011500Z
-DTSTAMP;VALUE=DATE-TIME:20230605T233000Z
-UID:om2vusRmlP
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230609T234500Z
+UID:d5OnlELPUV
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
  olofcener comes a sharply observed comedy about a novelist whose long stan
  ding marriage is suddenly upended when she overhears her husband give his 
@@ -21,81 +21,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230606T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T011500Z
-DTSTAMP;VALUE=DATE-TIME:20230606T233000Z
-UID:wADtbyy6cU
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230607T041500Z
-DTSTAMP;VALUE=DATE-TIME:20230607T023000Z
-UID:hhPfx0OaIv
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230607T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230608T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230607T230000Z
-UID:PRNQfHMHTa
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230608T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230608T044500Z
-DTSTAMP;VALUE=DATE-TIME:20230608T021500Z
-UID:pJCgPPcv35
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230608T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230609T011500Z
-DTSTAMP;VALUE=DATE-TIME:20230608T233000Z
-UID:9W3DwhhHU5
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230609T041500Z
-DTSTAMP;VALUE=DATE-TIME:20230609T023000Z
-UID:oRpPfcdDyj
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230610T021500Z
+UID:PVu6hWRlA6
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
  olofcener comes a sharply observed comedy about a novelist whose long stan
  ding marriage is suddenly upended when she overhears her husband give his 
@@ -116,6 +45,262 @@ DESCRIPTION:Duration: 68 mins (1h08m)\n\nThe feature film World Premiere o
  arks on an existential road trip back to his old hometown to attend his fa
  ther's funeral. A mood piece told through visuals and music.\n\nhttps://ww
  w.siff.net/cinema/in-theaters/11-11-world-premiere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230610T234500Z
+UID:AX0lF5jxqn
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230611T021500Z
+UID:5RTUk1P4ca
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T204500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230611T223000Z
+DTSTAMP;VALUE=DATE-TIME:20230611T204500Z
+UID:7wKfph204m
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230612T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230611T234500Z
+UID:epwaaWaRGu
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230612T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230612T021500Z
+UID:bdsaIJ1Ucc
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230612T234500Z
+UID:rSnPJvsmfH
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230613T021500Z
+UID:Fb0IaL93Yh
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230614T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230613T234500Z
+UID:RErqQFVLFQ
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230614T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230614T021500Z
+UID:qVpa2bhCZ6
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230614T234500Z
+UID:uViCE2e4Ja
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230615T021500Z
+UID:h7Q9hbo9P0
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230616T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230615T233000Z
+UID:5lg7jF2OhJ
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230616T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230616T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230616T023000Z
+UID:0EiUCDLFbA
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230616T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230616T230000Z
+UID:SrFdvQbuCE
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230617T020000Z
+UID:ZEocCQ7ips
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Girl Without Hands
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T193000Z
+DTSTAMP;VALUE=DATE-TIME:20230617T180000Z
+UID:Im3o0R7FaP
+DESCRIPTION:Duration: 80 mins (1h20m)\n\nSaturday Morning Cartoons The leg
+ end of a girl who is sold to the Devil\, then loses her hands when she att
+ empts to escape. Recommended for ages 12+.\n\nhttps://www.siff.net/progra
+ ms-and-events/saturday-morning-cartoons/the-girl-without-hands
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230617T230000Z
+UID:NVXktwtBpW
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230618T020000Z
+UID:S8KMWL7pHU
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
