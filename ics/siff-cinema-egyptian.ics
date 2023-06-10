@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230609T205659Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230610T061855Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
 BEGIN:VEVENT
@@ -165,6 +165,46 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nSIFF Series - Dreams & Nightmare
  own with big dreams and instead discovers a world of mystery. Presented i
  n 4k.\n\nhttps://www.siff.net/programs-and-events/dreams-and-nightmares-fi
  lms-of-david-lynch/mulholland-drive
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chunky Shrapnel
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T222000Z
+DTSTAMP;VALUE=DATE-TIME:20230618T200000Z
+UID:CNtxfcLFqt
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nA concert film from King Gizzard
+  & the Lizard Wizard.\n\nhttps://www.siff.net/cinema/in-theaters/chunky-sh
+ rapnel
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LYNCH/OZ
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230618T233000Z
+UID:xAkdhjLqRN
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch Through six distinct perspectives and narrated
+  by some of contemporary cinema’s most exciting voices\, LYNCH/OZ helps 
+ re-experience and re-interpret The Wizard of Oz by way of David Lynch\, to
+  deliver a whole new appreciation for Lynch’s symbolism through the lens
+  of his greatest influence.\n\nhttps://www.siff.net/programs-and-events/dr
+ eams-and-nightmares-films-of-david-lynch/lynch/oz
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Velvet
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230619T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T041500Z
+DTSTAMP;VALUE=DATE-TIME:20230619T020000Z
+UID:DnuRTRwaRK
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch Gather your nitrous oxide\, PBRs\, and severed
+  ears\, and prepare to re-experience David Lynch’s warped 1986 thriller 
+ about what lies beneath the placid surface of suburbia. Presented in 4k.\
+ n\nhttps://www.siff.net/programs-and-events/dreams-and-nightmares-films-of
+ -david-lynch/blue-velvet
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

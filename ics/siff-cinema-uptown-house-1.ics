@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230609T205659Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230610T061855Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230609T230000Z
-UID:wrLubVnlln
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230610T020000Z
-UID:SHccBMdFks
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T200000Z
@@ -270,6 +244,45 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T023000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T043000Z
 DTSTAMP;VALUE=DATE-TIME:20230618T023000Z
 UID:G0ogJpVOp6
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T223000Z
+DTSTAMP;VALUE=DATE-TIME:20230618T203000Z
+UID:LoOMbuw2KL
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230618T233000Z
+UID:MoMvvWiFFt
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230619T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230619T023000Z
+UID:4RfDmkr0aU
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
  e Song (“Endlings”) makes her directorial debut with this beautiful an
  d delicate romance about the depth of love and connection\, as two childho

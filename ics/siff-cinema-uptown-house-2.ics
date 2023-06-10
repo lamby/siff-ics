@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230609T205659Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230610T061855Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Drylongso
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230609T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230609T233000Z
-UID:R8nim2Q5jf
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
- otography class who begins taking pictures of Black men out of fear they w
- ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
- ck Cinema Collective will each receive 25% of the proceeds from all Sunday
- \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
- o
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drylongso
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230610T023000Z
-UID:TYsUl4PBeq
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
- otography class who begins taking pictures of Black men out of fear they w
- ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
- ck Cinema Collective will each receive 25% of the proceeds from all Sunday
- \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
- o
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drylongso
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T203000Z
@@ -263,6 +235,28 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T043500Z
 DTSTAMP;VALUE=DATE-TIME:20230618T021500Z
 UID:W7ZsLwnygN
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
+ e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
+ siff.net/cinema/in-theaters/persian-lessons
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Persian Lessons
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T013500Z
+DTSTAMP;VALUE=DATE-TIME:20230618T231500Z
+UID:IUWWIaMFZS
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
+ e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
+ siff.net/cinema/in-theaters/persian-lessons
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Persian Lessons
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230619T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230619T021500Z
+UID:lHMjuitwC9
 DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
  e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
  siff.net/cinema/in-theaters/persian-lessons
