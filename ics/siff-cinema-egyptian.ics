@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230610T061855Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230612T083710Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Werckmeister Harmonies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230610T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230610T043500Z
-DTSTAMP;VALUE=DATE-TIME:20230610T020000Z
-UID:N1ABNo5WTh
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
-  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
-  societal collapse is an enigma of transcendent visual\, philosophical\, a
- nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
- in-theaters/werckmeister-harmonies
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werckmeister Harmonies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230611T224500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230612T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230611T224500Z
-UID:JniAD1JeaD
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
-  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
-  societal collapse is an enigma of transcendent visual\, philosophical\, a
- nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
- in-theaters/werckmeister-harmonies
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werckmeister Harmonies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230612T043500Z
-DTSTAMP;VALUE=DATE-TIME:20230612T020000Z
-UID:xv8hBDbN5f
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
-  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
-  societal collapse is an enigma of transcendent visual\, philosophical\, a
- nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
- in-theaters/werckmeister-harmonies
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werckmeister Harmonies
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T020000Z
@@ -205,6 +166,64 @@ DESCRIPTION:Duration: 121 mins (2h01m)\n\nSIFF Series - Dreams & Nightmare
  about what lies beneath the placid surface of suburbia. Presented in 4k.\
  n\nhttps://www.siff.net/programs-and-events/dreams-and-nightmares-films-of
  -david-lynch/blue-velvet
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LYNCH/OZ
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230619T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230620T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230619T233000Z
+UID:woPEVrJ1VV
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch Through six distinct perspectives and narrated
+  by some of contemporary cinema’s most exciting voices\, LYNCH/OZ helps 
+ re-experience and re-interpret The Wizard of Oz by way of David Lynch\, to
+  deliver a whole new appreciation for Lynch’s symbolism through the lens
+  of his greatest influence.\n\nhttps://www.siff.net/programs-and-events/dr
+ eams-and-nightmares-films-of-david-lynch/lynch/oz
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LYNCH/OZ
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230620T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230620T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230620T020000Z
+UID:N0e43T2UZo
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch Through six distinct perspectives and narrated
+  by some of contemporary cinema’s most exciting voices\, LYNCH/OZ helps 
+ re-experience and re-interpret The Wizard of Oz by way of David Lynch\, to
+  deliver a whole new appreciation for Lynch’s symbolism through the lens
+  of his greatest influence.\n\nhttps://www.siff.net/programs-and-events/dr
+ eams-and-nightmares-films-of-david-lynch/lynch/oz
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LYNCH/OZ
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230620T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230620T233000Z
+UID:uFYnYrLniM
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch Through six distinct perspectives and narrated
+  by some of contemporary cinema’s most exciting voices\, LYNCH/OZ helps 
+ re-experience and re-interpret The Wizard of Oz by way of David Lynch\, to
+  deliver a whole new appreciation for Lynch’s symbolism through the lens
+  of his greatest influence.\n\nhttps://www.siff.net/programs-and-events/dr
+ eams-and-nightmares-films-of-david-lynch/lynch/oz
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short films of David Lynch
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T034500Z
+DTSTAMP;VALUE=DATE-TIME:20230621T020000Z
+UID:6dvQH5YSSB
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nSIFF Series - Dreams & Nightmares
+ : The Films of David Lynch A must-see for fans of the legendary filmmaker 
+ David Lynch\, this collection features six short films from the master of 
+ the macabre.\n\nhttps://www.siff.net/programs-and-events/dreams-and-nightm
+ ares-films-of-david-lynch/the-short-films-of-david-lynch
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
