@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230612T083710Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230613T050438Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Drylongso
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230612T233000Z
-UID:OFpnGfU8Gu
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
- otography class who begins taking pictures of Black men out of fear they w
- ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
- ck Cinema Collective will each receive 25% of the proceeds from all Sunday
- \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
- o
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drylongso
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T023000Z
@@ -102,14 +88,18 @@ DESCRIPTION:Duration: 63 mins (1h03m)\n\nIn 1980\, a vibrant group of lesb
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Persian Lessons
+SUMMARY:You Hurt My Feelings
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230616T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T013500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T010000Z
 DTSTAMP;VALUE=DATE-TIME:20230616T231500Z
-UID:4kVNZl8yLR
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
+UID:JG0nGX9unn
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -136,17 +126,6 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Persian Lessons
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T013500Z
-DTSTAMP;VALUE=DATE-TIME:20230617T231500Z
-UID:hcJfWPdV1U
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Persian Lessons
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T043500Z
 DTSTAMP;VALUE=DATE-TIME:20230618T021500Z
@@ -157,14 +136,18 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Persian Lessons
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T013500Z
-DTSTAMP;VALUE=DATE-TIME:20230618T231500Z
-UID:IUWWIaMFZS
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230617T231500Z
+UID:WyKNHlCfjX
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -179,14 +162,33 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Persian Lessons
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230618T231500Z
+UID:ApygRtVLPE
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230619T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230620T013500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230620T010000Z
 DTSTAMP;VALUE=DATE-TIME:20230619T231500Z
-UID:6KlPIJLctM
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
+UID:2aw4I3D3Xv
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -201,14 +203,18 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Persian Lessons
+SUMMARY:You Hurt My Feelings
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230620T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T013500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T010000Z
 DTSTAMP;VALUE=DATE-TIME:20230620T231500Z
-UID:ANf1yNnXZj
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
+UID:0dLt3gyIIt
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -217,6 +223,32 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T043500Z
 DTSTAMP;VALUE=DATE-TIME:20230621T021500Z
 UID:8OgcRYqSL9
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
+ e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
+ siff.net/cinema/in-theaters/persian-lessons
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230621T231500Z
+UID:Rvdnk8nQ9I
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Persian Lessons
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230622T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230622T021500Z
+UID:Tpr3lftFkL
 DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
  e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
  siff.net/cinema/in-theaters/persian-lessons

@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230612T083710Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230613T050438Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230612T234500Z
-UID:rSnPJvsmfH
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Hurt My Feelings
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T021500Z
@@ -267,6 +252,32 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T043000Z
 DTSTAMP;VALUE=DATE-TIME:20230621T020000Z
 UID:BF1Ch1YHKH
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230621T230000Z
+UID:1tpjJmYFDd
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230622T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230622T020000Z
+UID:rkArHpCUky
 DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
  xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
  s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt

@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230612T083710Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230613T050438Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230612T230000Z
-UID:fxwDmQm1wY
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T020000Z
@@ -29,64 +16,6 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
  imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
  er-verse
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drylongso
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230612T233000Z
-UID:OFpnGfU8Gu
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
- otography class who begins taking pictures of Black men out of fear they w
- ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
- ck Cinema Collective will each receive 25% of the proceeds from all Sunday
- \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
- o
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drylongso
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230613T023000Z
-UID:U773VSIPhG
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
- otography class who begins taking pictures of Black men out of fear they w
- ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
- ck Cinema Collective will each receive 25% of the proceeds from all Sunday
- \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
- o
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230612T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230612T234500Z
-UID:rSnPJvsmfH
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230613T021500Z
-UID:Fb0IaL93Yh
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vermeer: The Blockbuster Exhibition
@@ -114,6 +43,35 @@ DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
  nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
  in-theaters/werckmeister-harmonies
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230613T021500Z
+UID:Fb0IaL93Yh
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drylongso
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230613T023000Z
+UID:U773VSIPhG
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
+ otography class who begins taking pictures of Black men out of fear they w
+ ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
+ ck Cinema Collective will each receive 25% of the proceeds from all Sunday
+ \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
+ o
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
@@ -443,25 +401,18 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Persian Lessons
+SUMMARY:You Hurt My Feelings
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230616T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T013500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T010000Z
 DTSTAMP;VALUE=DATE-TIME:20230616T231500Z
-UID:4kVNZl8yLR
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Persian Lessons
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T043500Z
-DTSTAMP;VALUE=DATE-TIME:20230617T021500Z
-UID:vjteT6VFa7
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
+UID:JG0nGX9unn
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -521,6 +472,17 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Persian Lessons
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230617T021500Z
+UID:vjteT6VFa7
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
+ e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
+ siff.net/cinema/in-theaters/persian-lessons
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Girl Without Hands
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T193000Z
@@ -538,17 +500,6 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230617T222000Z
 DTSTAMP;VALUE=DATE-TIME:20230617T200000Z
 UID:6hY44rJ5lo
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Persian Lessons
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T013500Z
-DTSTAMP;VALUE=DATE-TIME:20230617T231500Z
-UID:hcJfWPdV1U
 DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
  e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
  siff.net/cinema/in-theaters/persian-lessons
@@ -661,6 +612,21 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230617T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230617T231500Z
+UID:WyKNHlCfjX
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mulholland Drive
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230618T044000Z
@@ -707,17 +673,6 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
  e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
  siff.net/cinema/in-theaters/persian-lessons
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Persian Lessons
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T013500Z
-DTSTAMP;VALUE=DATE-TIME:20230618T231500Z
-UID:IUWWIaMFZS
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Persian Lessons
@@ -796,6 +751,21 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230618T231500Z
+UID:ApygRtVLPE
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LYNCH/OZ
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230619T013000Z
@@ -851,25 +821,18 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Persian Lessons
+SUMMARY:You Hurt My Feelings
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230619T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230620T013500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230620T010000Z
 DTSTAMP;VALUE=DATE-TIME:20230619T231500Z
-UID:6KlPIJLctM
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Persian Lessons
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230620T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230620T043500Z
-DTSTAMP;VALUE=DATE-TIME:20230620T021500Z
-UID:xrQy72wUL3
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
+UID:2aw4I3D3Xv
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -941,6 +904,17 @@ DESCRIPTION:Duration: 160 mins (2h40m)\n\nStage to Screen David Tennant (
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Persian Lessons
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230620T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230620T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230620T021500Z
+UID:xrQy72wUL3
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
+ e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
+ siff.net/cinema/in-theaters/persian-lessons
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230620T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T013000Z
@@ -967,25 +941,18 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Persian Lessons
+SUMMARY:You Hurt My Feelings
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230620T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T013500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T010000Z
 DTSTAMP;VALUE=DATE-TIME:20230620T231500Z
-UID:ANf1yNnXZj
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Persian Lessons
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T043500Z
-DTSTAMP;VALUE=DATE-TIME:20230621T021500Z
-UID:8OgcRYqSL9
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
- e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
- siff.net/cinema/in-theaters/persian-lessons
+UID:0dLt3gyIIt
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1053,5 +1020,122 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nSIFF Series - Dreams & Nightmares
  the macabre.\n\nhttps://www.siff.net/programs-and-events/dreams-and-nightm
  ares-films-of-david-lynch/the-short-films-of-david-lynch
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Persian Lessons
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230621T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230621T021500Z
+UID:8OgcRYqSL9
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
+ e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
+ siff.net/cinema/in-theaters/persian-lessons
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230621T230000Z
+UID:1tpjJmYFDd
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230622T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230622T020000Z
+UID:rkArHpCUky
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230621T231500Z
+UID:Rvdnk8nQ9I
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LYNCH/OZ
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230621T233000Z
+UID:ArMuVZthd3
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch Through six distinct perspectives and narrated
+  by some of contemporary cinema’s most exciting voices\, LYNCH/OZ helps 
+ re-experience and re-interpret The Wizard of Oz by way of David Lynch\, to
+  deliver a whole new appreciation for Lynch’s symbolism through the lens
+  of his greatest influence.\n\nhttps://www.siff.net/programs-and-events/dr
+ eams-and-nightmares-films-of-david-lynch/lynch/oz
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230621T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230621T233000Z
+UID:50JPpoc7WX
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230622T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230622T023000Z
+UID:PtqCptbopC
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DUNE
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230622T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230622T020000Z
+UID:Y4t7TCjBDg
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch David Lynch's controversial yet celebrated tak
+ e on Frank Herbert's Dune returns to the big screen for a limited time.\n
+ \nhttps://www.siff.net/programs-and-events/dreams-and-nightmares-films-of-
+ david-lynch/dune
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Persian Lessons
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230622T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230622T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230622T021500Z
+UID:Tpr3lftFkL
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
+ e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
+ siff.net/cinema/in-theaters/persian-lessons
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
