@@ -1,54 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230613T053944Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230614T063509Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230613T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230613T021500Z
-UID:Fb0IaL93Yh
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230613T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230614T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230613T234500Z
-UID:RErqQFVLFQ
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230614T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230614T021500Z
-UID:qVpa2bhCZ6
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Hurt My Feelings
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T234500Z
@@ -102,8 +57,9 @@ UID:0EiUCDLFbA
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
  e Song (“Endlings”) makes her directorial debut with this beautiful an
  d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation.\n\nhttps://www
- .siff.net/cinema/in-theaters/past-lives
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -283,6 +239,32 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
  s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
  imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
  er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Hurt My Feelings
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230622T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230623T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230622T231500Z
+UID:SqAXa1eyll
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
+ olofcener comes a sharply observed comedy about a novelist whose long stan
+ ding marriage is suddenly upended when she overhears her husband give his 
+ honest reaction to her latest book. A film about trust\, lies\, and the th
+ ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
+ rt-my-feelings
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Persian Lessons
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230623T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230623T043500Z
+DTSTAMP;VALUE=DATE-TIME:20230623T021500Z
+UID:AY2dMcli8T
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
+ e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
+ siff.net/cinema/in-theaters/persian-lessons
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
