@@ -1,25 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230614T063509Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230615T062508Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
-BEGIN:VEVENT
-SUMMARY:Uncut Gems: A 21st Century Masterpiece
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230615T020000Z
-UID:ChAJIbsV9l
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe 2010s ended with a powerhous
- e film from auteurs Josh and Benny Safdie. Uncut Gems is an emotional ro
- llercoaster from start to finish\, with a breathtaking performance from co
- median Adam Sandler and mesmerizing visuals from legendary cinematographer
-  Darius Khondji. Join film professor John Trafton for a deep dive into New
-  York's Diamond District and a walk-on-the-edge with hustlers\, goons\, hi
- p hop artists\, and NBA All-Stars!\n\nhttps://www.siff.net/programs-and-ev
- ents/film-talks/uncut-gems-a-21st-century-masterpiece
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: Good
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230618T183000Z

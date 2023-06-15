@@ -1,39 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230614T063509Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230615T062508Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230614T234500Z
-UID:uViCE2e4Ja
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230615T021500Z
-UID:h7Q9hbo9P0
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drylongso
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T233000Z
@@ -265,6 +235,32 @@ UID:AY2dMcli8T
 DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
  e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
  siff.net/cinema/in-theaters/persian-lessons
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230623T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T014500Z
+DTSTAMP;VALUE=DATE-TIME:20230623T231500Z
+UID:vW90lWhxaa
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230624T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T044500Z
+DTSTAMP;VALUE=DATE-TIME:20230624T021500Z
+UID:g3QfN8X3JC
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

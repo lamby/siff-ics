@@ -1,108 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230614T063509Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230615T062508Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230614T230000Z
-UID:cjarE3YkQv
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230615T020000Z
-UID:6rVAVJlg0w
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drylongso
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230614T233000Z
-UID:WLdSAFCDuQ
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nDrylongso follows a woman in a ph
- otography class who begins taking pictures of Black men out of fear they w
- ill soon be extinct. New 4k restoration.  Co-sponsors LANGSTON and Bla
- ck Cinema Collective will each receive 25% of the proceeds from all Sunday
- \, June 11 screenings.\n\nhttps://www.siff.net/cinema/in-theaters/drylongs
- o
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230614T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230614T234500Z
-UID:uViCE2e4Ja
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Hurt My Feelings
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230615T021500Z
-UID:h7Q9hbo9P0
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFrom acclaimed filmmaker Nicole H
- olofcener comes a sharply observed comedy about a novelist whose long stan
- ding marriage is suddenly upended when she overhears her husband give his 
- honest reaction to her latest book. A film about trust\, lies\, and the th
- ings we say to the people we love most. OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/you-hu
- rt-my-feelings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uncut Gems: A 21st Century Masterpiece
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230615T020000Z
-UID:ChAJIbsV9l
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe 2010s ended with a powerhous
- e film from auteurs Josh and Benny Safdie. Uncut Gems is an emotional ro
- llercoaster from start to finish\, with a breathtaking performance from co
- median Adam Sandler and mesmerizing visuals from legendary cinematographer
-  Darius Khondji. Join film professor John Trafton for a deep dive into New
-  York's Diamond District and a walk-on-the-edge with hustlers\, goons\, hi
- p hop artists\, and NBA All-Stars!\n\nhttps://www.siff.net/programs-and-ev
- ents/film-talks/uncut-gems-a-21st-century-masterpiece
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werckmeister Harmonies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T043500Z
-DTSTAMP;VALUE=DATE-TIME:20230615T020000Z
-UID:IMWfw22hnT
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
-  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
-  societal collapse is an enigma of transcendent visual\, philosophical\, a
- nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
- in-theaters/werckmeister-harmonies
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Hurt My Feelings
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T224500Z
@@ -1104,5 +1005,118 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nA young Jewish man pretends to b
  e Iranian to avoid being executed in a concentration camp.\n\nhttps://www.
  siff.net/cinema/in-theaters/persian-lessons
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230623T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T005500Z
+DTSTAMP;VALUE=DATE-TIME:20230623T230000Z
+UID:WQCtJOTDSE
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
+ teroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230624T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T035500Z
+DTSTAMP;VALUE=DATE-TIME:20230624T020000Z
+UID:yetU9UOdTP
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
+ teroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230623T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T014500Z
+DTSTAMP;VALUE=DATE-TIME:20230623T231500Z
+UID:vW90lWhxaa
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230624T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T044500Z
+DTSTAMP;VALUE=DATE-TIME:20230624T021500Z
+UID:g3QfN8X3JC
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
+ xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
+ s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
+ imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
+ er-verse
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LYNCH/OZ
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230623T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230623T233000Z
+UID:ROLi7qi3cn
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch Through six distinct perspectives and narrated
+  by some of contemporary cinema’s most exciting voices\, LYNCH/OZ helps 
+ re-experience and re-interpret The Wizard of Oz by way of David Lynch\, to
+  deliver a whole new appreciation for Lynch’s symbolism through the lens
+  of his greatest influence. Individual Tickets: Select showtime to purchas
+ e.Passes: $100 | $80 SIFF Members - includes full series access\n\nhttps:/
+ /www.siff.net/programs-and-events/dreams-and-nightmares-films-of-david-lyn
+ ch/lynch/oz
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230623T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230623T233000Z
+UID:mUcHrdkBc1
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230624T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230624T023000Z
+UID:vLD0tG3uEd
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild at Heart
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230624T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T041500Z
+DTSTAMP;VALUE=DATE-TIME:20230624T020000Z
+UID:InRqf3mj2h
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch David Lynch directs this hallucinatory crime t
+ hriller about runaway convicts and forbidden love\, blending elements of T
+ he Wizard of Oz and Elvis Presley fetishism with an eclectic\, intense sou
+ ndtrack. Nicolas Cage and Laura Dern star as Sailor and Lula\, two lovers 
+ who know in their hearts that “this whole world’s wild at heart and we
+ ird on top.” Individual Tickets: Select showtime to purchase.Passes: $10
+ 0 | $80 SIFF Members - includes full series access\n\nhttps://www.siff.net
+ /programs-and-events/dreams-and-nightmares-films-of-david-lynch/wild-at-he
+ art
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

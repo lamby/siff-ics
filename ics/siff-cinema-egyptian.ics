@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230614T063509Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230615T062508Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Werckmeister Harmonies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230615T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230615T043500Z
-DTSTAMP;VALUE=DATE-TIME:20230615T020000Z
-UID:IMWfw22hnT
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nOne of the major achievements of
-  twenty-first-century cinema thus far\, Béla Tarr’s mesmeric parable of
-  societal collapse is an enigma of transcendent visual\, philosophical\, a
- nd mystical resonance. New 4k restoration.\n\nhttps://www.siff.net/cinema/
- in-theaters/werckmeister-harmonies
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chunky Shrapnel
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230616T020000Z
@@ -279,6 +266,41 @@ DESCRIPTION:Duration: 183 mins (3h03m)\n\nA year after Brent Mydland's pas
  Chicago's Soldier Field for the first time\, with two keyboard players fil
  ling the seat Brent left vacant.\n\nhttps://www.siff.net/cinema/in-theater
  s/grateful-dead-meet-up-at-the-movies-2023
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LYNCH/OZ
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230623T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230623T233000Z
+UID:ROLi7qi3cn
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch Through six distinct perspectives and narrated
+  by some of contemporary cinema’s most exciting voices\, LYNCH/OZ helps 
+ re-experience and re-interpret The Wizard of Oz by way of David Lynch\, to
+  deliver a whole new appreciation for Lynch’s symbolism through the lens
+  of his greatest influence. Individual Tickets: Select showtime to purchas
+ e.Passes: $100 | $80 SIFF Members - includes full series access\n\nhttps:/
+ /www.siff.net/programs-and-events/dreams-and-nightmares-films-of-david-lyn
+ ch/lynch/oz
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild at Heart
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230624T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230624T041500Z
+DTSTAMP;VALUE=DATE-TIME:20230624T020000Z
+UID:InRqf3mj2h
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nSIFF Series - Dreams & Nightmare
+ s: The Films of David Lynch David Lynch directs this hallucinatory crime t
+ hriller about runaway convicts and forbidden love\, blending elements of T
+ he Wizard of Oz and Elvis Presley fetishism with an eclectic\, intense sou
+ ndtrack. Nicolas Cage and Laura Dern star as Sailor and Lula\, two lovers 
+ who know in their hearts that “this whole world’s wild at heart and we
+ ird on top.” Individual Tickets: Select showtime to purchase.Passes: $10
+ 0 | $80 SIFF Members - includes full series access\n\nhttps://www.siff.net
+ /programs-and-events/dreams-and-nightmares-films-of-david-lynch/wild-at-he
+ art
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
