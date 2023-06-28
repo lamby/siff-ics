@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//icalendar//mxm.dk//
+LAST-MODIFIED;VALUE=DATE-TIME:20230628T143725Z
+NAME:SIFF Cinema (SIFF Film Center)
+X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230701T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230701T200000Z
+DTSTAMP;VALUE=DATE-TIME:20230701T183000Z
+UID:GOFqY4q1PF
+DESCRIPTION:Duration: 80 mins (1h20m)\n\nStage to Screen Written and perfo
+ rmed by Phoebe Waller-Bridge (Fleabag\, Killing Eve) and directed by Vicky
+  Jones\, Fleabag is a rip-roaring look at some sort of woman living her so
+ rt of life.\n\nhttps://www.siff.net/programs-and-events/stage-to-screen/nt
+ -live-fleabag
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230702T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230702T200000Z
+DTSTAMP;VALUE=DATE-TIME:20230702T183000Z
+UID:hUFCD4K5Wj
+DESCRIPTION:Duration: 80 mins (1h20m)\n\nStage to Screen Written and perfo
+ rmed by Phoebe Waller-Bridge (Fleabag\, Killing Eve) and directed by Vicky
+  Jones\, Fleabag is a rip-roaring look at some sort of woman living her so
+ rt of life.\n\nhttps://www.siff.net/programs-and-events/stage-to-screen/nt
+ -live-fleabag
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T013000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T030000Z
+DTSTAMP;VALUE=DATE-TIME:20230704T013000Z
+UID:n8vUC6Vx0g
+DESCRIPTION:Duration: 80 mins (1h20m)\n\nStage to Screen Written and perfo
+ rmed by Phoebe Waller-Bridge (Fleabag\, Killing Eve) and directed by Vicky
+  Jones\, Fleabag is a rip-roaring look at some sort of woman living her so
+ rt of life.\n\nhttps://www.siff.net/programs-and-events/stage-to-screen/nt
+ -live-fleabag
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+END:VCALENDAR
