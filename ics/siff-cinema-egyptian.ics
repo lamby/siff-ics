@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230628T143725Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230629T150720Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Elephant Man
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230629T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230629T041500Z
-DTSTAMP;VALUE=DATE-TIME:20230629T020000Z
-UID:ttg3V4hwJp
-DESCRIPTION:Duration: 124 mins (2h04m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch Celebrate the life of John Hurt and cinema of 
- David Lynch with this classic and chilling biopic. Presented in 4k. Indiv
- idual Tickets: Select showtime to purchase.Passes: $100 | $80 SIFF Members
-  - includes full series access\n\nhttps://www.siff.net/programs-and-events
- /dreams-and-nightmares-films-of-david-lynch/the-elephant-man
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LYNCH/OZ
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230629T233000Z
@@ -293,6 +279,19 @@ DESCRIPTION:Duration: 145 mins (2h25m)\n\nSIFF Series - Dreams & Nightmare
  ndividual Tickets: Select showtime to purchase.Passes: $100 | $80 SIFF Mem
  bers - includes full series access\n\nhttps://www.siff.net/programs-and-ev
  ents/dreams-and-nightmares-films-of-david-lynch/dune
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ODESZA: The Last Goodbye
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230708T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230708T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230708T020000Z
+UID:Q14NV8h4tS
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nWitness ODESZA’s live show as 
+ an immersive concert film. With jaw-dropping visuals and unreleased behind
+ -the-scenes footage\, see the band as you’ve never seen before.\n\nhttps
+ ://www.siff.net/cinema/in-theaters/odesza-the-last-goodbye-cinematic-exper
+ ience
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
