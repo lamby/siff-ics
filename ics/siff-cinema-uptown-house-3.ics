@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230629T150720Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230630T165741Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230629T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230630T014500Z
-DTSTAMP;VALUE=DATE-TIME:20230629T231500Z
-UID:uOID4s6Dd9
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230630T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230630T050000Z
-DTSTAMP;VALUE=DATE-TIME:20230630T030000Z
-UID:nESlFVyUX2
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230630T230000Z
@@ -258,6 +231,42 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230708T023000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230708T043000Z
 DTSTAMP;VALUE=DATE-TIME:20230708T023000Z
 UID:FWudJJjkqr
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
+ www.siff.net/cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230708T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230708T230000Z
+DTSTAMP;VALUE=DATE-TIME:20230708T210000Z
+UID:hOwS8fCrvM
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
+ www.siff.net/cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230708T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230709T014500Z
+DTSTAMP;VALUE=DATE-TIME:20230708T234500Z
+UID:1NQ43nWiNR
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
+ www.siff.net/cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230709T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230709T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230709T023000Z
+UID:wJpxetjCrK
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
  m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://

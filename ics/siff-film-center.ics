@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230629T150720Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230630T165741Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
 BEGIN:VEVENT
@@ -49,6 +49,34 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230708T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230708T035500Z
 DTSTAMP;VALUE=DATE-TIME:20230708T020000Z
 UID:jDBF8LZstQ
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nThere never was a movie like Mid
+ night Cowboy\, and though many have tried\, none have replicated what trul
+ y made it tick. This doc examines not only the film’s enormous impact bu
+ t also the social\, political\, and cultural forces that breathed it into 
+ existence.\n\nhttps://www.siff.net/cinema/in-theaters/desperate-souls-dark
+ -city-and-the-legend-of-midnight-cowboy
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Desperate Souls\, Dark City and the Legend of Midnight Cowboy
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230708T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230709T012500Z
+DTSTAMP;VALUE=DATE-TIME:20230708T233000Z
+UID:o7sLuYdD7h
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nThere never was a movie like Mid
+ night Cowboy\, and though many have tried\, none have replicated what trul
+ y made it tick. This doc examines not only the film’s enormous impact bu
+ t also the social\, political\, and cultural forces that breathed it into 
+ existence.\n\nhttps://www.siff.net/cinema/in-theaters/desperate-souls-dark
+ -city-and-the-legend-of-midnight-cowboy
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Desperate Souls\, Dark City and the Legend of Midnight Cowboy
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230709T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230709T035500Z
+DTSTAMP;VALUE=DATE-TIME:20230709T020000Z
+UID:S5H8iDKRlQ
 DESCRIPTION:Duration: 101 mins (1h41m)\n\nThere never was a movie like Mid
  night Cowboy\, and though many have tried\, none have replicated what trul
  y made it tick. This doc examines not only the film’s enormous impact bu
