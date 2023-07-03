@@ -1,148 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230630T165741Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230703T115551Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Wild at Heart
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230630T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230701T011500Z
-DTSTAMP;VALUE=DATE-TIME:20230630T230000Z
-UID:CAvIAFwJHt
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch David Lynch directs this hallucinatory crime t
- hriller about runaway convicts and forbidden love\, blending elements of T
- he Wizard of Oz and Elvis Presley fetishism with an eclectic\, intense sou
- ndtrack. Nicolas Cage and Laura Dern star as Sailor and Lula\, two lovers 
- who know in their hearts that “this whole world’s wild at heart and we
- ird on top.” Individual Tickets: Select showtime to purchase.Passes: $10
- 0 | $80 SIFF Members - includes full series access\n\nhttps://www.siff.net
- /programs-and-events/dreams-and-nightmares-films-of-david-lynch/wild-at-he
- art
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mulholland Drive
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230701T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230701T044000Z
-DTSTAMP;VALUE=DATE-TIME:20230701T020000Z
-UID:8XZBM50q92
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch Naomi Watts delivers her star turn in David Ly
- nch’s noir-infected tale of an optimistic actress who arrives in Tinselt
- own with big dreams and instead discovers a world of mystery. Presented i
- n 4k. Individual Tickets: Select showtime to purchase.Passes: $100 | $80 S
- IFF Members - includes full series access\n\nhttps://www.siff.net/programs
- -and-events/dreams-and-nightmares-films-of-david-lynch/mulholland-drive
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eraserhead
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230701T053000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230701T071000Z
-DTSTAMP;VALUE=DATE-TIME:20230701T053000Z
-UID:LhY306TIrQ
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nSIFF Series - Dreams & Nightmares
- : The Films of David Lynch Henry Spencer tries to survive his industrial e
- nvironment\, his angry girlfriend\, and the unbearable screams of his newl
- y born...child. Individual Tickets: Select showtime to purchase.Passes: $1
- 00 | $80 SIFF Members - includes full series access\n\nhttps://www.siff.ne
- t/programs-and-events/dreams-and-nightmares-films-of-david-lynch/eraserhea
- d
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DUNE
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230701T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230701T223500Z
-DTSTAMP;VALUE=DATE-TIME:20230701T200000Z
-UID:BwcoryD6nT
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch David Lynch's controversial yet celebrated tak
- e on Frank Herbert's Dune returns to the big screen for a limited time. I
- ndividual Tickets: Select showtime to purchase.Passes: $100 | $80 SIFF Mem
- bers - includes full series access\n\nhttps://www.siff.net/programs-and-ev
- ents/dreams-and-nightmares-films-of-david-lynch/dune
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Short films of David Lynch
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230701T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230702T003500Z
-DTSTAMP;VALUE=DATE-TIME:20230701T233000Z
-UID:93OfQKWWrF
-DESCRIPTION:Duration: 53 mins (0h53m)\n\nSIFF Series - Dreams & Nightmares
- : The Films of David Lynch A must-see for fans of the legendary filmmaker 
- David Lynch\, this collection features six short films from the master of 
- the macabre. Individual Tickets: Select showtime to purchase.Passes: $100 
- | $80 SIFF Members - includes full series access\n\nhttps://www.siff.net/p
- rograms-and-events/dreams-and-nightmares-films-of-david-lynch/the-short-fi
- lms-of-david-lynch
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eraserhead
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230702T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230702T034000Z
-DTSTAMP;VALUE=DATE-TIME:20230702T020000Z
-UID:iEloLAhFYd
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nSIFF Series - Dreams & Nightmares
- : The Films of David Lynch Henry Spencer tries to survive his industrial e
- nvironment\, his angry girlfriend\, and the unbearable screams of his newl
- y born...child. Individual Tickets: Select showtime to purchase.Passes: $1
- 00 | $80 SIFF Members - includes full series access\n\nhttps://www.siff.ne
- t/programs-and-events/dreams-and-nightmares-films-of-david-lynch/eraserhea
- d
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230702T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230702T221500Z
-DTSTAMP;VALUE=DATE-TIME:20230702T200000Z
-UID:Qp5RAfj4jd
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch Gather your nitrous oxide\, PBRs\, and severed
-  ears\, and prepare to re-experience David Lynch’s warped 1986 thriller 
- about what lies beneath the placid surface of suburbia. Presented in 4k. 
- Local costume designer Ron Leamon\, who has worked with Lynch\, will intro
- duce the film on July 2. Individual Tickets: Select showtime to purchase.P
- asses: $100 | $80 SIFF Members - includes full series access\n\nhttps://ww
- w.siff.net/programs-and-events/dreams-and-nightmares-films-of-david-lynch/
- blue-velvet
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twin Peaks: Fire Walk With Me
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230702T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230703T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230702T230000Z
-UID:sTkCnC9CE6
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch Laura Palmer's harrowing final days are chroni
- cled one year after the murder of Teresa Banks\, a resident of Twin Peaks'
-  neighboring town. Presented in 4k. Local costume designer Ron Leamon\, w
- ho has worked with Lynch\, will introduce the film on July 2. Individual T
- ickets: Select showtime to purchase.Passes: $100 | $80 SIFF Members - incl
- udes full series access\n\nhttps://www.siff.net/programs-and-events/dreams
- -and-nightmares-films-of-david-lynch/twin-peaks-fire-walk-with-me
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Highway
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230703T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230703T042500Z
-DTSTAMP;VALUE=DATE-TIME:20230703T020000Z
-UID:s5ePp9ydyi
-DESCRIPTION:Duration: 134 mins (2h14m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch Anonymous videotapes presage a musician's murd
- er conviction\, and a gangster's girlfriend leads a mechanic astray. Pres
- ented in 4k. Individual Tickets: Select showtime to purchase.Passes: $100 
- | $80 SIFF Members - includes full series access\n\nhttps://www.siff.net/p
- rograms-and-events/dreams-and-nightmares-films-of-david-lynch/lost-highway
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mulholland Drive
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230703T230000Z
@@ -307,6 +168,99 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Two hearts
  s: $90 | $60 SIFF Members - includes full series access.\n\nhttps://www
  .siff.net/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-
  chungking-express
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230709T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230709T225500Z
+DTSTAMP;VALUE=DATE-TIME:20230709T210000Z
+UID:dgTNRRaTxE
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Two hearts
+ ick Hong Kong cops cross paths at the Midnight Express take-out restaurant
+  stand\, where the ethereal pixie waitress Faye works. The whiplash\, doub
+ le-pronged Chungking Express is one of the defining works of nineties cine
+ ma and the film that made Hong Kong filmmaker Wong Kar Wai an instant icon
+ . Presented in 4k. Individual Tickets: Select showtime to purchase.Passe
+ s: $90 | $60 SIFF Members - includes full series access.\n\nhttps://www
+ .siff.net/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-
+ chungking-express
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Together
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230709T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230710T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230709T233000Z
+UID:2OFG1Pc6bA
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nWorld of Wong Kar Wai One of the 
+ most searing romances of the 1990s\, Wong Kar Wai’s emotionally raw\, lu
+ shly stylized portrait of a relationship in breakdown casts Hong Kong supe
+ rstars Tony Leung and Leslie Cheung as a couple traveling through Argentin
+ a and locked in a turbulent cycle of infatuation and destructive jealousy 
+ as they break up\, make up\, and fall apart again and again. Presented in
+  4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 SI
+ FF Members - includes full series access.\n\nhttps://www.siff.net/progr
+ ams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-happy-together
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:As Tears Go By
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230710T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230710T035500Z
+DTSTAMP;VALUE=DATE-TIME:20230710T020000Z
+UID:OopirjjgPo
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Wong Kar W
+ ai’s scintillating debut feature is a kinetic\, hyper-cool crime thrille
+ r graced with flashes of the impressionistic\, daydream visual style for w
+ hich he would become renowned. Presented in 4k. Individual Tickets: Sele
+ ct showtime to purchase.Passes: $90 | $60 SIFF Members - includes full s
+ eries access.\n\nhttps://www.siff.net/programs-and-events/world-of-wong-k
+ ar-wai/world-of-wong-kar-wai-as-tears-go-by
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Angels
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T034000Z
+DTSTAMP;VALUE=DATE-TIME:20230711T020000Z
+UID:isRWS8OSsk
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nWorld of Wong Kar Wai Lost souls 
+ reach out for human connection amidst the glimmering night world of Hong K
+ ong in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne. Presented i
+ n 4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 S
+ IFF Members - includes full series access.\n\nhttps://www.siff.net/prog
+ rams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-fallen-angels
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Days of Being Wild
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230712T011500Z
+DTSTAMP;VALUE=DATE-TIME:20230711T233000Z
+UID:fenW2hwqC7
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nWorld of Wong Kar Wai Wong Kar Wa
+ i’s breakthrough sophomore feature represents the first full flowering o
+ f his swooning signature style. Presented in 4k. Individual Tickets: Sel
+ ect showtime to purchase.Passes: $90 | $60 SIFF Members - includes full 
+ series access.\n\nhttps://www.siff.net/programs-and-events/world-of-wong-
+ kar-wai/world-of-wong-kar-wai-days-of-being-wild
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2046 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230712T042000Z
+DTSTAMP;VALUE=DATE-TIME:20230712T020000Z
+UID:rbaRfQrEOO
+DESCRIPTION:Duration: 129 mins (2h09m)\n\nWorld of Wong Kar Wai Several wo
+ men enter a science fiction author's life over the course of a few years\,
+  after the author has lost the woman he considers his one true love. Recog
+ nized as the final film in Wong Kar-Wai's informal love trilogy\, preceded
+  by Days of Being Wild (1990) and In the Mood for Love (2000). Present
+ ed on 35mm. Individual Tickets: Select showtime to purchase.Passes: $90 |
+  $60 SIFF Members - includes full series access.\n\nhttps://www.siff.ne
+ t/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-2046
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
