@@ -1,225 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230703T115551Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230705T155948Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Mulholland Drive
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230703T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T014000Z
-DTSTAMP;VALUE=DATE-TIME:20230703T230000Z
-UID:wMqs261lWu
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch Naomi Watts delivers her star turn in David Ly
- nch’s noir-infected tale of an optimistic actress who arrives in Tinselt
- own with big dreams and instead discovers a world of mystery. Presented i
- n 4k. Individual Tickets: Select showtime to purchase.Passes: $100 | $80 S
- IFF Members - includes full series access\n\nhttps://www.siff.net/programs
- -and-events/dreams-and-nightmares-films-of-david-lynch/mulholland-drive
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230703T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230703T230000Z
-UID:8RFUUEZVof
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T020000Z
-UID:GTu6oU0Ty1
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230703T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230703T231500Z
-UID:46tSfTa2pq
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T021500Z
-UID:aZije7lZFr
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230703T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230703T233000Z
-UID:pTs2qG6o9V
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T023000Z
-UID:mAfGko6sXi
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T013000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T030000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T013000Z
-UID:n8vUC6Vx0g
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nStage to Screen Written and perfo
- rmed by Phoebe Waller-Bridge (Fleabag\, Killing Eve) and directed by Vicky
-  Jones\, Fleabag is a rip-roaring look at some sort of woman living her so
- rt of life.\n\nhttps://www.siff.net/programs-and-events/stage-to-screen/nt
- -live-fleabag
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild at Heart
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T041500Z
-DTSTAMP;VALUE=DATE-TIME:20230704T020000Z
-UID:kErRMxrX5i
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch David Lynch directs this hallucinatory crime t
- hriller about runaway convicts and forbidden love\, blending elements of T
- he Wizard of Oz and Elvis Presley fetishism with an eclectic\, intense sou
- ndtrack. Nicolas Cage and Laura Dern star as Sailor and Lula\, two lovers 
- who know in their hearts that “this whole world’s wild at heart and we
- ird on top.” Individual Tickets: Select showtime to purchase.Passes: $10
- 0 | $80 SIFF Members - includes full series access\n\nhttps://www.siff.net
- /programs-and-events/dreams-and-nightmares-films-of-david-lynch/wild-at-he
- art
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T223000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T200000Z
-UID:QwkCBXyRan
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230705T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T230000Z
-UID:ZKVIF6KJp0
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T201500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T221000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T201500Z
-UID:ctYZeqmR8D
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230705T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T231500Z
-UID:GS4CqLubku
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inland Empire
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T234000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T203000Z
-UID:bpMHaMuiYe
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch Witness the surreal terror of David Lynch's la
- st major work since the Twin Peaks revival. Presented in 4k. Individual T
- ickets: Select showtime to purchase.Passes: $100 | $80 SIFF Members - incl
- udes full series access\n\nhttps://www.siff.net/programs-and-events/dreams
- -and-nightmares-films-of-david-lynch/inland-empire
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T223000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T203000Z
-UID:VchUXGYmcK
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230705T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T233000Z
-UID:CJrEdOfHc3
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230705T230000Z
@@ -241,8 +25,8 @@ DTSTAMP;VALUE=DATE-TIME:20230705T231500Z
 UID:F7UOeZMk4F
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -253,8 +37,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T021500Z
 UID:dBXgFNFBvG
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -363,8 +147,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T231500Z
 UID:XimUDA1NEm
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -375,8 +159,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T021500Z
 UID:xU9iwxYnft
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -429,8 +213,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T231500Z
 UID:aHywMtHSCl
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -441,8 +225,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T021500Z
 UID:mq3t72VVHl
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -481,8 +265,9 @@ DTSTAMP;VALUE=DATE-TIME:20230707T234500Z
 UID:SA1jji1P6L
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -493,8 +278,9 @@ DTSTAMP;VALUE=DATE-TIME:20230708T023000Z
 UID:FWudJJjkqr
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -548,8 +334,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T203000Z
 UID:8Z9VGLiH4o
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -560,8 +346,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T231500Z
 UID:ghJXS5POZe
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -572,8 +358,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T021500Z
 UID:XvSefJiT75
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -626,8 +412,9 @@ DTSTAMP;VALUE=DATE-TIME:20230708T210000Z
 UID:hOwS8fCrvM
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -638,8 +425,9 @@ DTSTAMP;VALUE=DATE-TIME:20230708T234500Z
 UID:1NQ43nWiNR
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -650,8 +438,9 @@ DTSTAMP;VALUE=DATE-TIME:20230709T023000Z
 UID:wJpxetjCrK
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -789,8 +578,9 @@ DTSTAMP;VALUE=DATE-TIME:20230709T210000Z
 UID:VYrDbN3ygs
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -801,8 +591,9 @@ DTSTAMP;VALUE=DATE-TIME:20230709T234500Z
 UID:s9btsoCmJs
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -813,8 +604,9 @@ DTSTAMP;VALUE=DATE-TIME:20230710T023000Z
 UID:bSp4aXtakt
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -842,8 +634,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T231500Z
 UID:41YZ8QOqZr
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -854,8 +646,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T021500Z
 UID:exKsmPxlva
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -926,8 +718,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T231500Z
 UID:mWacZNjJ3h
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -938,8 +730,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T021500Z
 UID:CQQ1Z4hZPp
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -964,8 +756,9 @@ DTSTAMP;VALUE=DATE-TIME:20230710T234500Z
 UID:xNJRLvIDx6
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -976,8 +769,9 @@ DTSTAMP;VALUE=DATE-TIME:20230711T023000Z
 UID:VNH7cZODXv
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1027,8 +821,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T231500Z
 UID:S88VIYceqe
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1039,8 +833,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T021500Z
 UID:m99QO8nNGm
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson.\n\nhttps://www.siff.net/cinema/in-theaters/as
- teroid-city
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1093,8 +887,9 @@ DTSTAMP;VALUE=DATE-TIME:20230711T234500Z
 UID:f0Vi8Uc3ly
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1105,8 +900,9 @@ DTSTAMP;VALUE=DATE-TIME:20230712T023000Z
 UID:EuMD9tWqlG
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1136,5 +932,195 @@ DESCRIPTION:Duration: 129 mins (2h09m)\n\nWorld of Wong Kar Wai Several wo
   $60 SIFF Members - includes full series access.\n\nhttps://www.siff.ne
  t/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-2046
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230712T231500Z
+UID:xyj5og8ZQi
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230713T021500Z
+UID:1vyILJbWkr
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Together
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230712T233000Z
+UID:O8eH0yJdfK
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nWorld of Wong Kar Wai One of the 
+ most searing romances of the 1990s\, Wong Kar Wai’s emotionally raw\, lu
+ shly stylized portrait of a relationship in breakdown casts Hong Kong supe
+ rstars Tony Leung and Leslie Cheung as a couple traveling through Argentin
+ a and locked in a turbulent cycle of infatuation and destructive jealousy 
+ as they break up\, make up\, and fall apart again and again. Presented in
+  4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 SI
+ FF Members - includes full series access.\n\nhttps://www.siff.net/progr
+ ams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-happy-together
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230712T233000Z
+UID:EgRQ6V1Rc6
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230713T020000Z
+UID:2ma0sJogWc
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T014500Z
+DTSTAMP;VALUE=DATE-TIME:20230712T234500Z
+UID:8l4hphZ5DB
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230713T023000Z
+UID:FZLd3x40wX
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T035500Z
+DTSTAMP;VALUE=DATE-TIME:20230713T020000Z
+UID:AtHaJfnnWr
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Two hearts
+ ick Hong Kong cops cross paths at the Midnight Express take-out restaurant
+  stand\, where the ethereal pixie waitress Faye works. The whiplash\, doub
+ le-pronged Chungking Express is one of the defining works of nineties cine
+ ma and the film that made Hong Kong filmmaker Wong Kar Wai an instant icon
+ . Presented in 4k. Individual Tickets: Select showtime to purchase.Passe
+ s: $90 | $60 SIFF Members - includes full series access.\n\nhttps://www
+ .siff.net/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-
+ chungking-express
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230713T231500Z
+UID:Jj9Z4Bxtk9
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230714T021500Z
+UID:GcrRi0wxsD
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230713T233000Z
+UID:hjjcmy27XP
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230714T020000Z
+UID:8iHZC5Uj19
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T014500Z
+DTSTAMP;VALUE=DATE-TIME:20230713T234500Z
+UID:yisqs3iQV8
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230714T023000Z
+UID:CFd5Ue2xQO
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

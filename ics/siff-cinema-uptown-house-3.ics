@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230703T115551Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230705T155948Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230703T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230703T230000Z
-UID:8RFUUEZVof
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T020000Z
-UID:GTu6oU0Ty1
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230704T223000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T200000Z
-UID:QwkCBXyRan
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230704T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230705T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230704T230000Z
-UID:ZKVIF6KJp0
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230705T230000Z
@@ -117,8 +65,9 @@ DTSTAMP;VALUE=DATE-TIME:20230707T234500Z
 UID:SA1jji1P6L
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -129,8 +78,9 @@ DTSTAMP;VALUE=DATE-TIME:20230708T023000Z
 UID:FWudJJjkqr
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -141,8 +91,9 @@ DTSTAMP;VALUE=DATE-TIME:20230708T210000Z
 UID:hOwS8fCrvM
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -153,8 +104,9 @@ DTSTAMP;VALUE=DATE-TIME:20230708T234500Z
 UID:1NQ43nWiNR
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -165,8 +117,9 @@ DTSTAMP;VALUE=DATE-TIME:20230709T023000Z
 UID:wJpxetjCrK
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +130,9 @@ DTSTAMP;VALUE=DATE-TIME:20230709T210000Z
 UID:VYrDbN3ygs
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -189,8 +143,9 @@ DTSTAMP;VALUE=DATE-TIME:20230709T234500Z
 UID:s9btsoCmJs
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -201,8 +156,9 @@ DTSTAMP;VALUE=DATE-TIME:20230710T023000Z
 UID:bSp4aXtakt
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -213,8 +169,9 @@ DTSTAMP;VALUE=DATE-TIME:20230710T234500Z
 UID:xNJRLvIDx6
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -225,8 +182,9 @@ DTSTAMP;VALUE=DATE-TIME:20230711T023000Z
 UID:VNH7cZODXv
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -237,8 +195,9 @@ DTSTAMP;VALUE=DATE-TIME:20230711T234500Z
 UID:f0Vi8Uc3ly
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -249,8 +208,61 @@ DTSTAMP;VALUE=DATE-TIME:20230712T023000Z
 UID:EuMD9tWqlG
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T014500Z
+DTSTAMP;VALUE=DATE-TIME:20230712T234500Z
+UID:8l4hphZ5DB
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230713T023000Z
+UID:FZLd3x40wX
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T014500Z
+DTSTAMP;VALUE=DATE-TIME:20230713T234500Z
+UID:yisqs3iQV8
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230714T023000Z
+UID:CFd5Ue2xQO
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
