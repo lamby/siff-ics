@@ -1,210 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230705T155948Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230707T091204Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230705T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230706T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230705T230000Z
-UID:oNXc7IKlYf
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230705T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230706T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230705T231500Z
-UID:F7UOeZMk4F
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230706T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230706T021500Z
-UID:dBXgFNFBvG
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eraserhead
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230706T014000Z
-DTSTAMP;VALUE=DATE-TIME:20230706T000000Z
-UID:XAUf9R0aSO
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nSIFF Series - Dreams & Nightmares
- : The Films of David Lynch Henry Spencer tries to survive his industrial e
- nvironment\, his angry girlfriend\, and the unbearable screams of his newl
- y born...child. Individual Tickets: Select showtime to purchase.Passes: $1
- 00 | $80 SIFF Members - includes full series access\n\nhttps://www.siff.ne
- t/programs-and-events/dreams-and-nightmares-films-of-david-lynch/eraserhea
- d
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minari
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230706T030500Z
-DTSTAMP;VALUE=DATE-TIME:20230706T010000Z
-UID:RUsy34DfPl
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nSIFF Movie Club A tender and swe
- eping story about what roots us\, Minari follows a Korean-American family 
- that moves to a tiny Arkansas farm in search of their own American Dream. 
- The family home changes completely with the arrival of their sly\, foul-mo
- uthed\, but incredibly loving grandmother. Selected and introduced by SIFF
-  Marketing Manager Madison Zimmerman. Tickets: $10 ($5 SIFF members)\n\nht
- tps://www.siff.net/programs-and-events/siff-movie-club/minari
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Straight Story 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230706T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230706T020000Z
-UID:nLcCiSakUn
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch A true story that proves a little determinatio
- n goes a very\, very long way. Presented on 35mm. Individual Tickets: Sel
- ect showtime to purchase.Passes: $100 | $80 SIFF Members - includes full s
- eries access\n\nhttps://www.siff.net/programs-and-events/dreams-and-nightm
- ares-films-of-david-lynch/the-straight-story
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230706T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230706T023000Z
-UID:0rPot7629v
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Highway
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230707T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230706T230000Z
-UID:bm2bwa7oNN
-DESCRIPTION:Duration: 134 mins (2h14m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch Anonymous videotapes presage a musician's murd
- er conviction\, and a gangster's girlfriend leads a mechanic astray. Pres
- ented in 4k. Individual Tickets: Select showtime to purchase.Passes: $100 
- | $80 SIFF Members - includes full series access\n\nhttps://www.siff.net/p
- rograms-and-events/dreams-and-nightmares-films-of-david-lynch/lost-highway
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230707T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230706T230000Z
-UID:1LMljCO3H9
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230707T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230707T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230707T020000Z
-UID:761BDYlECD
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nMiles Morales returns for the ne
- xt chapter of the Oscar®-winning Spider-Verse saga\, Spider-Man™: Acros
- s the Spider-Verse. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showt
- imes\n\nhttps://www.siff.net/cinema/in-theaters/spider-man-across-the-spid
- er-verse
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230707T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230706T231500Z
-UID:XimUDA1NEm
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230707T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230707T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230707T021500Z
-UID:xU9iwxYnft
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230707T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230706T233000Z
-UID:cK8Nyd5nYO
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230707T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230707T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230707T023000Z
-UID:tCeIxKIEus
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DUNE
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230707T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230707T043500Z
-DTSTAMP;VALUE=DATE-TIME:20230707T020000Z
-UID:qx95GZ2HIF
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nSIFF Series - Dreams & Nightmare
- s: The Films of David Lynch David Lynch's controversial yet celebrated tak
- e on Frank Herbert's Dune returns to the big screen for a limited time. I
- ndividual Tickets: Select showtime to purchase.Passes: $100 | $80 SIFF Mem
- bers - includes full series access\n\nhttps://www.siff.net/programs-and-ev
- ents/dreams-and-nightmares-films-of-david-lynch/dune
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230707T231500Z
@@ -1046,6 +845,19 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Two hearts
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biosphere
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T010000Z
+DTSTAMP;VALUE=DATE-TIME:20230713T230000Z
+UID:yisqs3iQV8
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
+ the last two men on earth must adapt and evolve to save humanity. Post-fil
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
+ N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
+ cinema/in-theaters/biosphere
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T231500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T011000Z
@@ -1081,46 +893,176 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
  od best friends reunite years after an untimely separation. OPEN CAPTION S
  CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
  a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230714T020000Z
-UID:8iHZC5Uj19
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230714T023000Z
+UID:BPJdRk4PSN
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
  e Song (“Endlings”) makes her directorial debut with this beautiful an
  d delicate romance about the depth of love and connection\, as two childho
  od best friends reunite years after an untimely separation. OPEN CAPTION S
  CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
  a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biosphere
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T014500Z
-DTSTAMP;VALUE=DATE-TIME:20230713T234500Z
-UID:yisqs3iQV8
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
- the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
- N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
- cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Biosphere
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230714T023000Z
-UID:CFd5Ue2xQO
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
- the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
- N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
- cinema/in-theaters/biosphere
+SUMMARY:The Hand
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T000000Z
+UID:kswaEHRUgu
+DESCRIPTION:Duration: 56 mins (0h56m)\n\nWorld of Wong Kar Wai Like In the
+  Mood for Love\, The Hand is set in the hazy Hong Kong of the 1960s\, but 
+ its characters couldn’t be more different from the earlier film’s rest
+ rained\, haunted lovers. Presented in its extended cut. Individual Tickets
+ : Select showtime to purchase.Passes: $90 | $60 SIFF Members - includes 
+ full series access.\n\nhttps://www.siff.net/programs-and-events/world-of
+ -wong-kar-wai/world-of-wong-kar-wai-the-hand
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Mother and the Whore
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T045000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T010000Z
+UID:hgpKKIil2A
+DESCRIPTION:Duration: 219 mins (3h39m)\n\nThe Dirty Stories of Jean Eustac
+ he At long last presented in a striking new restoration worthy of the film
+ 's reputation\, Jean Eustache’s hard-to-see masterpiece uses an obsessiv
+ e\, talkative ménage à trois as the jumping-off point for an intense exp
+ loration of sexual politics among liberated yet alienated moderns. New 4k 
+ restoration. Individual Tickets: Select showtime to purchase.Passes: $90 
+ | $60 SIFF Members - includes full series access.\n\nhttps://www.siff.
+ net/programs-and-events/the-dirty-stories-of-jean-eustache/the-mother-and-
+ the-whore
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mood for Love
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T035000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T020000Z
+UID:1KKkYj7xnZ
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nWorld of Wong Kar Wai With its ac
+ hing musical soundtrack and exquisitely abstract cinematography by Christo
+ pher Doyle and Mark Lee Ping-bin\, this film has been a major stylistic in
+ fluence on the past decade of cinema\, and is a milestone in Wong’s redo
+ ubtable career. Presented in 4k. Individual Tickets: Select showtime to p
+ urchase.Passes: $90 | $60 SIFF Members - includes full series access.\n
+ \nhttps://www.siff.net/programs-and-events/world-of-wong-kar-wai/world-of-
+ wong-kar-wai-in-the-mood-for-love
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Together
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T215000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T200000Z
+UID:9CKPjn1QeJ
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nWorld of Wong Kar Wai One of the 
+ most searing romances of the 1990s\, Wong Kar Wai’s emotionally raw\, lu
+ shly stylized portrait of a relationship in breakdown casts Hong Kong supe
+ rstars Tony Leung and Leslie Cheung as a couple traveling through Argentin
+ a and locked in a turbulent cycle of infatuation and destructive jealousy 
+ as they break up\, make up\, and fall apart again and again. Presented in
+  4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 SI
+ FF Members - includes full series access.\n\nhttps://www.siff.net/progr
+ ams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-happy-together
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermeer: The Blockbuster Exhibition
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T221000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T200000Z
+UID:OSIhgnxCdi
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nExhibition on Screen This new Ex
+ hibition on Screen film is a once-in-a-lifetime opportunity to get a priva
+ te view of the largest Vermeer exhibition in history\, opening spring 2023
+  at the Rijksmuseum in Amsterdam\, accompanied by the museum director and
+  the curator of the show.\n\nhttps://www.siff.net/programs-and-events/exhi
+ bition-on-screen/exhibition-on-screen-vermeer-the-greatest-exhibition
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robinson's Place / Santa Claus Has Blue Eyes
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T204500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T222500Z
+DTSTAMP;VALUE=DATE-TIME:20230715T204500Z
+UID:LK2vsywDUj
+DESCRIPTION:Duration: 87 mins (1h27m)\n\nThe Dirty Stories of Jean Eustach
+ e Enjoy a double feature presentation of Jean Eustache's Robinson's Place 
+ and Santa Claus Has Blue Eyes. Individual Tickets: Select showtime to pur
+ chase.Passes: $90 | $60 SIFF Members - includes full series access.\n\
+ nhttps://www.siff.net/programs-and-events/the-dirty-stories-of-jean-eustac
+ he/robinsons-place-and-santa-claus-has-blue-eyes
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Angels
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T233000Z
+UID:pg1NaCaAMV
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nWorld of Wong Kar Wai Lost souls 
+ reach out for human connection amidst the glimmering night world of Hong K
+ ong in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne. Presented i
+ n 4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 S
+ IFF Members - includes full series access.\n\nhttps://www.siff.net/prog
+ rams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-fallen-angels
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Little Loves
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T021500Z
+DTSTAMP;VALUE=DATE-TIME:20230716T000000Z
+UID:uxtDOTcqBo
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nThe Dirty Stories of Jean Eustac
+ he Beautifully shot in color by Nestor Almendros\, My Little Loves is as 
+ powerful and unsentimental a portrait of adolescent male angst as anything
+  by Truffaut or Pialat. New 4k restoration. Individual Tickets: Select sh
+ owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
+ s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
+ f-jean-eustache/my-little-loves
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Days of Being Wild
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T034500Z
+DTSTAMP;VALUE=DATE-TIME:20230716T020000Z
+UID:N2NvhLFKIm
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nWorld of Wong Kar Wai Wong Kar Wa
+ i’s breakthrough sophomore feature represents the first full flowering o
+ f his swooning signature style. Presented in 4k. Individual Tickets: Sel
+ ect showtime to purchase.Passes: $90 | $60 SIFF Members - includes full 
+ series access.\n\nhttps://www.siff.net/programs-and-events/world-of-wong-
+ kar-wai/world-of-wong-kar-wai-days-of-being-wild
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Dirty Story / Alix's Pictures
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T024500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230716T024500Z
+UID:tykpsD9wXc
+DESCRIPTION:Duration: 69 mins (1h09m)\n\nThe Dirty Stories of Jean Eustach
+ e One of Eustache’s most radical experiments\, the formally and narrativ
+ ely transgressive A Dirty Story presents two versions of the same event\,
+  in which a group of women listen to a man describe his discovery of a pee
+ phole in a women’s restroom. One is a “true” monologue delivered by 
+ the actual participant (Eustache’s friend and collaborator Jean-Noël Pi
+ cq)\; the other a staged recreation of Picq’s performance starring Micha
+ el Lonsdale. Further muddying the waters between documentary and fiction\,
+  Eustache preferred that the “fictional” version be shown first. Indiv
+ idual Tickets: Select showtime to purchase.Passes: $90 | $60 SIFF Members
+  - includes full series access.\n\nhttps://www.siff.net/programs-and-e
+ vents/the-dirty-stories-of-jean-eustache/a-dirty-story-and-alixs-pictures
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

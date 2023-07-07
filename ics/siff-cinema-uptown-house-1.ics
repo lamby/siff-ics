@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230705T155948Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230707T091204Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Minari
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230706T030500Z
-DTSTAMP;VALUE=DATE-TIME:20230706T010000Z
-UID:RUsy34DfPl
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nSIFF Movie Club A tender and swe
- eping story about what roots us\, Minari follows a Korean-American family 
- that moves to a tiny Arkansas farm in search of their own American Dream. 
- The family home changes completely with the arrival of their sly\, foul-mo
- uthed\, but incredibly loving grandmother. Selected and introduced by SIFF
-  Marketing Manager Madison Zimmerman. Tickets: $10 ($5 SIFF members)\n\nht
- tps://www.siff.net/programs-and-events/siff-movie-club/minari
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230706T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230707T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230706T231500Z
-UID:XimUDA1NEm
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230707T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230707T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230707T021500Z
-UID:xU9iwxYnft
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230707T231500Z
