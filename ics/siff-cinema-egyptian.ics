@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230707T091204Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230708T184729Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:ODESZA: The Last Goodbye
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230708T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230708T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230708T020000Z
-UID:Q14NV8h4tS
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nWitness ODESZA’s live show as 
- an immersive concert film. With jaw-dropping visuals and unreleased behind
- -the-scenes footage\, see the band as you’ve never seen before.\n\nhttps
- ://www.siff.net/cinema/in-theaters/odesza-the-last-goodbye-cinematic-exper
- ience
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2046 35mm
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230708T200000Z
@@ -267,6 +254,52 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nWorld of Wong Kar Wai Wong Kar Wa
  ect showtime to purchase.Passes: $90 | $60 SIFF Members - includes full 
  series access.\n\nhttps://www.siff.net/programs-and-events/world-of-wong-
  kar-wai/world-of-wong-kar-wai-days-of-being-wild
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Days of Being Wild
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T224500Z
+DTSTAMP;VALUE=DATE-TIME:20230716T210000Z
+UID:kSbaYe9ImG
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nWorld of Wong Kar Wai Wong Kar Wa
+ i’s breakthrough sophomore feature represents the first full flowering o
+ f his swooning signature style. Presented in 4k. Individual Tickets: Sel
+ ect showtime to purchase.Passes: $90 | $60 SIFF Members - includes full 
+ series access.\n\nhttps://www.siff.net/programs-and-events/world-of-wong-
+ kar-wai/world-of-wong-kar-wai-days-of-being-wild
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mood for Love
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230716T233000Z
+UID:feq1yLSxiD
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nWorld of Wong Kar Wai With its ac
+ hing musical soundtrack and exquisitely abstract cinematography by Christo
+ pher Doyle and Mark Lee Ping-bin\, this film has been a major stylistic in
+ fluence on the past decade of cinema\, and is a milestone in Wong’s redo
+ ubtable career. Presented in 4k. Individual Tickets: Select showtime to p
+ urchase.Passes: $90 | $60 SIFF Members - includes full series access.\n
+ \nhttps://www.siff.net/programs-and-events/world-of-wong-kar-wai/world-of-
+ wong-kar-wai-in-the-mood-for-love
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2046 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T042000Z
+DTSTAMP;VALUE=DATE-TIME:20230717T020000Z
+UID:HRDPkZUN45
+DESCRIPTION:Duration: 129 mins (2h09m)\n\nWorld of Wong Kar Wai Several wo
+ men enter a science fiction author's life over the course of a few years\,
+  after the author has lost the woman he considers his one true love. Recog
+ nized as the final film in Wong Kar-Wai's informal love trilogy\, preceded
+  by Days of Being Wild (1990) and In the Mood for Love (2000). Present
+ ed on 35mm. Individual Tickets: Select showtime to purchase.Passes: $90 |
+  $60 SIFF Members - includes full series access.\n\nhttps://www.siff.ne
+ t/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-2046
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
