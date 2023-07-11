@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230710T081527Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230711T071322Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Fallen Angels
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T034000Z
-DTSTAMP;VALUE=DATE-TIME:20230711T020000Z
-UID:isRWS8OSsk
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nWorld of Wong Kar Wai Lost souls 
- reach out for human connection amidst the glimmering night world of Hong K
- ong in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne. Presented i
- n 4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 S
- IFF Members - includes full series access.\n\nhttps://www.siff.net/prog
- rams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-fallen-angels
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Days of Being Wild
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T233000Z
@@ -250,6 +236,37 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nWorld of Wong Kar Wai One of the
   4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 SI
  FF Members - includes full series access.\n\nhttps://www.siff.net/progr
  ams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-happy-together
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T012500Z
+DTSTAMP;VALUE=DATE-TIME:20230719T233000Z
+UID:OVkePqS2My
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Two hearts
+ ick Hong Kong cops cross paths at the Midnight Express take-out restaurant
+  stand\, where the ethereal pixie waitress Faye works. The whiplash\, doub
+ le-pronged Chungking Express is one of the defining works of nineties cine
+ ma and the film that made Hong Kong filmmaker Wong Kar Wai an instant icon
+ . Presented in 4k. Individual Tickets: Select showtime to purchase.Passe
+ s: $90 | $60 SIFF Members - includes full series access.\n\nhttps://www
+ .siff.net/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-
+ chungking-express
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Angels
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T034000Z
+DTSTAMP;VALUE=DATE-TIME:20230720T020000Z
+UID:kAwuJ9Mmdi
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nWorld of Wong Kar Wai Lost souls 
+ reach out for human connection amidst the glimmering night world of Hong K
+ ong in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne. Presented i
+ n 4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 S
+ IFF Members - includes full series access.\n\nhttps://www.siff.net/prog
+ rams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-fallen-angels
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

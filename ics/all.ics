@@ -1,112 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230710T081527Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230711T071322Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230710T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230710T231500Z
-UID:mWacZNjJ3h
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230711T021500Z
-UID:CQQ1Z4hZPp
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230710T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230710T233000Z
-UID:dStEw68tf6
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biosphere
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230710T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T014500Z
-DTSTAMP;VALUE=DATE-TIME:20230710T234500Z
-UID:xNJRLvIDx6
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
- the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
- N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
- cinema/in-theaters/biosphere
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biosphere
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230711T023000Z
-UID:VNH7cZODXv
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
- the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
- N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
- cinema/in-theaters/biosphere
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Best of Enemies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T013000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T044000Z
-DTSTAMP;VALUE=DATE-TIME:20230711T013000Z
-UID:INTrRM8pQ6
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to Screen David Harewood (
- Homeland) and Zachary Quinto (Star Trek) play feuding political rivals in 
- James Graham’s (Sherwood) multiple award-winning new drama.\n\nhttps://w
- ww.siff.net/programs-and-events/stage-to-screen/nt-live-best-of-enemies
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fallen Angels
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T034000Z
-DTSTAMP;VALUE=DATE-TIME:20230711T020000Z
-UID:isRWS8OSsk
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nWorld of Wong Kar Wai Lost souls 
- reach out for human connection amidst the glimmering night world of Hong K
- ong in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne. Presented i
- n 4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 S
- IFF Members - includes full series access.\n\nhttps://www.siff.net/prog
- rams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-fallen-angels
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ziggy Stardust
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230711T020000Z
-UID:CuGhMxWOZm
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nOne of the most iconic performan
- ces in the history of modern music\, David Bowie’s retirement of his Zig
- gy Stardust alter ego in front of 5\,000 fans at London’s Hammersmith Od
- eon is presented in new 4k restoration.\n\nhttps://www.siff.net/cinema/in-
- theaters/ziggy-stardust
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T231500Z
@@ -405,6 +302,58 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230714T231500Z
+UID:4i9F1YBxjF
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T021500Z
+UID:rTQYcAVsTn
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230714T233000Z
+UID:8lg3dKD2R0
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T023000Z
+UID:etenJX0HEX
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Hand
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T011000Z
@@ -482,6 +431,84 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nExhibition on Screen This new Ex
   the curator of the show.\n\nhttps://www.siff.net/programs-and-events/exhi
  bition-on-screen/exhibition-on-screen-vermeer-the-greatest-exhibition
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T201500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T221500Z
+DTSTAMP;VALUE=DATE-TIME:20230715T201500Z
+UID:vWrg8b0OIr
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T233000Z
+UID:ocrG1Sq0pd
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230716T023000Z
+UID:sCuTJcghnN
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T222500Z
+DTSTAMP;VALUE=DATE-TIME:20230715T203000Z
+UID:OWf98wPCgf
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T231500Z
+UID:ue6wcN9x3J
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230716T021500Z
+UID:VtRaW78Oty
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Robinson's Place / Santa Claus Has Blue Eyes
@@ -592,6 +619,84 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nExhibition on Screen This new Ex
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T201500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T221500Z
+DTSTAMP;VALUE=DATE-TIME:20230716T201500Z
+UID:mqng9FR8gq
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230716T233000Z
+UID:mHQjmELHPh
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230717T023000Z
+UID:RhbxTXTRuD
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T222500Z
+DTSTAMP;VALUE=DATE-TIME:20230716T203000Z
+UID:IpYaLNlT9f
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230716T231500Z
+UID:FpOturujgj
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230717T021500Z
+UID:ENj4EcjE6S
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Days of Being Wild
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T224500Z
@@ -651,6 +756,58 @@ DESCRIPTION:Duration: 129 mins (2h09m)\n\nWorld of Wong Kar Wai Several wo
   $60 SIFF Members - includes full series access.\n\nhttps://www.siff.ne
  t/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-2046
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230717T231500Z
+UID:PX4tJrdkKt
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T035500Z
+DTSTAMP;VALUE=DATE-TIME:20230718T020000Z
+UID:v9MHJH9J51
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230717T233000Z
+UID:mdMMA4UcH1
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230718T023000Z
+UID:yY4peC2NCq
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virgin of Pessac 1968
@@ -719,6 +876,30 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe Dirty Stories of Jean Eustac
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230718T231500Z
+UID:sgOpp8al0h
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230719T021500Z
+UID:UpCcxPHjB5
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:As Tears Go By
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T012500Z
@@ -732,6 +913,34 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Wong Kar W
  eries access.\n\nhttps://www.siff.net/programs-and-events/world-of-wong-k
  ar-wai/world-of-wong-kar-wai-as-tears-go-by
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230718T233000Z
+UID:Ir60epeGFm
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230719T023000Z
+UID:vkFdtOjKip
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Little Loves
@@ -764,5 +973,125 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nWorld of Wong Kar Wai One of the
  FF Members - includes full series access.\n\nhttps://www.siff.net/progr
  ams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-happy-together
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230719T231500Z
+UID:n9GuFZVPtF
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230720T021500Z
+UID:eB2XHcQLfa
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T012500Z
+DTSTAMP;VALUE=DATE-TIME:20230719T233000Z
+UID:OVkePqS2My
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Two hearts
+ ick Hong Kong cops cross paths at the Midnight Express take-out restaurant
+  stand\, where the ethereal pixie waitress Faye works. The whiplash\, doub
+ le-pronged Chungking Express is one of the defining works of nineties cine
+ ma and the film that made Hong Kong filmmaker Wong Kar Wai an instant icon
+ . Presented in 4k. Individual Tickets: Select showtime to purchase.Passe
+ s: $90 | $60 SIFF Members - includes full series access.\n\nhttps://www
+ .siff.net/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-
+ chungking-express
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230719T233000Z
+UID:NeC3iX2Nps
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T040000Z
+DTSTAMP;VALUE=DATE-TIME:20230720T020000Z
+UID:B4vBDx756b
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Virgin of Pessac 1979
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T015000Z
+DTSTAMP;VALUE=DATE-TIME:20230720T003000Z
+UID:TuNiESLQFi
+DESCRIPTION:Duration: 67 mins (1h07m)\n\nThe Dirty Stories of Jean Eustach
+ e In 1979\, Eustache returned to Pessac to “remake” his first document
+ ary\, again filming the town’s annual pageant to crown its most virtuous
+  young woman while emphasizing what had (and had not) changed over the sub
+ sequent decade. A double feature presentation including The Virgin of P
+ essac ‘79 will be shown on Friday\, July 21\, 2023. Individual Tickets:
+  Select showtime to purchase.Passes: $90 | $60 SIFF Members - includes 
+ full series access.\n\nhttps://www.siff.net/programs-and-events/the-dirt
+ y-stories-of-jean-eustache/the-virgin-of-pessac-79
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Angels
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T034000Z
+DTSTAMP;VALUE=DATE-TIME:20230720T020000Z
+UID:kAwuJ9Mmdi
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nWorld of Wong Kar Wai Lost souls 
+ reach out for human connection amidst the glimmering night world of Hong K
+ ong in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne. Presented i
+ n 4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 S
+ IFF Members - includes full series access.\n\nhttps://www.siff.net/prog
+ rams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-fallen-angels
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Dirty Story / Alix's Pictures
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T035000Z
+DTSTAMP;VALUE=DATE-TIME:20230720T023000Z
+UID:86CdDRabI0
+DESCRIPTION:Duration: 69 mins (1h09m)\n\nThe Dirty Stories of Jean Eustach
+ e One of Eustache’s most radical experiments\, the formally and narrativ
+ ely transgressive A Dirty Story presents two versions of the same event\,
+  in which a group of women listen to a man describe his discovery of a pee
+ phole in a women’s restroom. One is a “true” monologue delivered by 
+ the actual participant (Eustache’s friend and collaborator Jean-Noël Pi
+ cq)\; the other a staged recreation of Picq’s performance starring Micha
+ el Lonsdale. Further muddying the waters between documentary and fiction\,
+  Eustache preferred that the “fictional” version be shown first. Indiv
+ idual Tickets: Select showtime to purchase.Passes: $90 | $60 SIFF Members
+  - includes full series access.\n\nhttps://www.siff.net/programs-and-e
+ vents/the-dirty-stories-of-jean-eustache/a-dirty-story-and-alixs-pictures
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

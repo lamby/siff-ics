@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230710T081527Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230711T071322Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230710T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230710T231500Z
-UID:mWacZNjJ3h
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ziggy Stardust
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230711T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230711T020000Z
-UID:CuGhMxWOZm
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nOne of the most iconic performan
- ces in the history of modern music\, David Bowie’s retirement of his Zig
- gy Stardust alter ego in front of 5\,000 fans at London’s Hammersmith Od
- eon is presented in new 4k restoration.\n\nhttps://www.siff.net/cinema/in-
- theaters/ziggy-stardust
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T231500Z
@@ -95,6 +70,174 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T041000Z
 DTSTAMP;VALUE=DATE-TIME:20230714T021500Z
 UID:GcrRi0wxsD
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230714T231500Z
+UID:4i9F1YBxjF
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T021500Z
+UID:rTQYcAVsTn
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T222500Z
+DTSTAMP;VALUE=DATE-TIME:20230715T203000Z
+UID:OWf98wPCgf
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230715T231500Z
+UID:ue6wcN9x3J
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230716T021500Z
+UID:VtRaW78Oty
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T222500Z
+DTSTAMP;VALUE=DATE-TIME:20230716T203000Z
+UID:IpYaLNlT9f
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230716T231500Z
+UID:FpOturujgj
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230717T021500Z
+UID:ENj4EcjE6S
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230717T231500Z
+UID:PX4tJrdkKt
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T035500Z
+DTSTAMP;VALUE=DATE-TIME:20230718T020000Z
+UID:v9MHJH9J51
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230718T231500Z
+UID:sgOpp8al0h
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230719T021500Z
+UID:UpCcxPHjB5
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230719T231500Z
+UID:n9GuFZVPtF
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230720T021500Z
+UID:eB2XHcQLfa
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
   new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
