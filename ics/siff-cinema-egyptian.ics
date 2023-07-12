@@ -1,39 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230711T071322Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230712T063113Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Days of Being Wild
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230712T011500Z
-DTSTAMP;VALUE=DATE-TIME:20230711T233000Z
-UID:fenW2hwqC7
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nWorld of Wong Kar Wai Wong Kar Wa
- i’s breakthrough sophomore feature represents the first full flowering o
- f his swooning signature style. Presented in 4k. Individual Tickets: Sel
- ect showtime to purchase.Passes: $90 | $60 SIFF Members - includes full 
- series access.\n\nhttps://www.siff.net/programs-and-events/world-of-wong-
- kar-wai/world-of-wong-kar-wai-days-of-being-wild
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2046 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230712T042000Z
-DTSTAMP;VALUE=DATE-TIME:20230712T020000Z
-UID:rbaRfQrEOO
-DESCRIPTION:Duration: 129 mins (2h09m)\n\nWorld of Wong Kar Wai Several wo
- men enter a science fiction author's life over the course of a few years\,
-  after the author has lost the woman he considers his one true love. Recog
- nized as the final film in Wong Kar-Wai's informal love trilogy\, preceded
-  by Days of Being Wild (1990) and In the Mood for Love (2000). Present
- ed on 35mm. Individual Tickets: Select showtime to purchase.Passes: $90 |
-  $60 SIFF Members - includes full series access.\n\nhttps://www.siff.ne
- t/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-2046
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Happy Together
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T233000Z
@@ -267,6 +237,42 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nWorld of Wong Kar Wai Lost souls
  n 4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 S
  IFF Members - includes full series access.\n\nhttps://www.siff.net/prog
  rams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-fallen-angels
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230721T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230720T231500Z
+UID:4ONK5Nh7pf
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230721T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230721T020000Z
+UID:SNYDybeXWs
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

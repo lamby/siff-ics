@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230711T071322Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230712T063113Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230712T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230711T231500Z
-UID:S88VIYceqe
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230712T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230712T021500Z
-UID:m99QO8nNGm
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T231500Z
@@ -242,6 +218,30 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
   new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
  unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230721T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230720T231500Z
+UID:dTdbOXCURL
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230721T051000Z
+DTSTAMP;VALUE=DATE-TIME:20230721T020000Z
+UID:NoIaW2OMvF
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts are now 
+ on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

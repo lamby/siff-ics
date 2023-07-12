@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230711T071322Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230712T063113Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Biosphere
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230711T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230712T014500Z
-DTSTAMP;VALUE=DATE-TIME:20230711T234500Z
-UID:f0Vi8Uc3ly
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
- the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
- N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
- cinema/in-theaters/biosphere
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biosphere
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230712T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230712T023000Z
-UID:EuMD9tWqlG
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
- the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
- N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
- cinema/in-theaters/biosphere
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biosphere
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T234500Z
@@ -176,10 +150,11 @@ UID:VL5Aqjbvqb
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe Dirty Stories of Jean Eustac
  he Co-directed with Jean-Michel Barjol\, Eustache’s film documents the s
  laughter of a pig and its subsequent conversion into sausages on a small F
- rench farm in the Massif Central. Individual Tickets: Select showtime to 
- purchase.Passes: $90 | $60 SIFF Members - includes full series access.
- \n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-of-jean-eus
- tache/le-cochon-and-shorts
+ rench farm in the Massif Central. Subtitles are not available for Le Cocho
+ n\, since it was filmed in a local dialect. Individual Tickets: Select sh
+ owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
+ s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
+ f-jean-eustache/le-cochon-and-shorts
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -268,6 +243,23 @@ DESCRIPTION:Duration: 69 mins (1h09m)\n\nThe Dirty Stories of Jean Eustach
  idual Tickets: Select showtime to purchase.Passes: $90 | $60 SIFF Members
   - includes full series access.\n\nhttps://www.siff.net/programs-and-e
  vents/the-dirty-stories-of-jean-eustache/a-dirty-story-and-alixs-pictures
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Mother and the Whore
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230721T042000Z
+DTSTAMP;VALUE=DATE-TIME:20230721T003000Z
+UID:nRI5y7BqP8
+DESCRIPTION:Duration: 219 mins (3h39m)\n\nThe Dirty Stories of Jean Eustac
+ he At long last presented in a striking new restoration worthy of the film
+ 's reputation\, Jean Eustache’s hard-to-see masterpiece uses an obsessiv
+ e\, talkative ménage à trois as the jumping-off point for an intense exp
+ loration of sexual politics among liberated yet alienated moderns. New 4k 
+ restoration. Individual Tickets: Select showtime to purchase.Passes: $90 
+ | $60 SIFF Members - includes full series access.\n\nhttps://www.siff.
+ net/programs-and-events/the-dirty-stories-of-jean-eustache/the-mother-and-
+ the-whore
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
