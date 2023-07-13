@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230712T063113Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230713T082434Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230712T233000Z
-UID:EgRQ6V1Rc6
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230713T020000Z
-UID:2ma0sJogWc
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biosphere
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T230000Z
@@ -40,9 +12,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T230000Z
 UID:yisqs3iQV8
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
  the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
- N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
- cinema/in-theaters/biosphere
+ m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
+ www.siff.net/cinema/in-theaters/biosphere
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

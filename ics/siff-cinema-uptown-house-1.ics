@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230712T063113Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230713T082434Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230712T231500Z
-UID:xyj5og8ZQi
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230713T021500Z
-UID:1vyILJbWkr
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T231500Z
@@ -240,8 +216,38 @@ DTSTAMP;VALUE=DATE-TIME:20230721T020000Z
 UID:NoIaW2OMvF
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts are now 
- on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35mm
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:0
+ 0pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
+ mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T221500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T012500Z
+DTSTAMP;VALUE=DATE-TIME:20230721T221500Z
+UID:Ox6hkLl8Bv
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:0
+ 0pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
+ mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T051000Z
+DTSTAMP;VALUE=DATE-TIME:20230722T020000Z
+UID:7YFXFG4RTK
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:0
+ 0pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
+ mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

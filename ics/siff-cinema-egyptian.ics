@@ -1,43 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230712T063113Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230713T082434Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Happy Together
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230712T233000Z
-UID:O8eH0yJdfK
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nWorld of Wong Kar Wai One of the 
- most searing romances of the 1990s\, Wong Kar Wai’s emotionally raw\, lu
- shly stylized portrait of a relationship in breakdown casts Hong Kong supe
- rstars Tony Leung and Leslie Cheung as a couple traveling through Argentin
- a and locked in a turbulent cycle of infatuation and destructive jealousy 
- as they break up\, make up\, and fall apart again and again. Presented in
-  4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 SI
- FF Members - includes full series access.\n\nhttps://www.siff.net/progr
- ams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-happy-together
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T035500Z
-DTSTAMP;VALUE=DATE-TIME:20230713T020000Z
-UID:AtHaJfnnWr
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Two hearts
- ick Hong Kong cops cross paths at the Midnight Express take-out restaurant
-  stand\, where the ethereal pixie waitress Faye works. The whiplash\, doub
- le-pronged Chungking Express is one of the defining works of nineties cine
- ma and the film that made Hong Kong filmmaker Wong Kar Wai an instant icon
- . Presented in 4k. Individual Tickets: Select showtime to purchase.Passe
- s: $90 | $60 SIFF Members - includes full series access.\n\nhttps://www
- .siff.net/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-
- chungking-express
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hand
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T000000Z
@@ -263,6 +229,42 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230721T040500Z
 DTSTAMP;VALUE=DATE-TIME:20230721T020000Z
 UID:SNYDybeXWs
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230721T231500Z
+UID:jBQctnIVHK
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T020000Z
+UID:rg011ms0ay
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
  crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts

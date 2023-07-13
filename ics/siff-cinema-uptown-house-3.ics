@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230712T063113Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230713T082434Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Biosphere
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230712T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T014500Z
-DTSTAMP;VALUE=DATE-TIME:20230712T234500Z
-UID:8l4hphZ5DB
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
- the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
- N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
- cinema/in-theaters/biosphere
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biosphere
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230713T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230713T023000Z
-UID:FZLd3x40wX
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
- the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening. OPEN CAPTIO
- N SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/
- cinema/in-theaters/biosphere
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Past Lives
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T233000Z
@@ -260,6 +234,21 @@ DESCRIPTION:Duration: 219 mins (3h39m)\n\nThe Dirty Stories of Jean Eustac
  | $60 SIFF Members - includes full series access.\n\nhttps://www.siff.
  net/programs-and-events/the-dirty-stories-of-jean-eustache/the-mother-and-
  the-whore
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Virgin of Pessac 1968 & 1979
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T033000Z
+DTSTAMP;VALUE=DATE-TIME:20230722T010000Z
+UID:4AuaT2cg3G
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nThe Dirty Stories of Jean Eustac
+ he A double feature presentation of Eustache's original 1968 The Virgin of
+  Pessac\, followed by his 1979 “remake” of his first documentary. Indi
+ vidual Tickets: Select showtime to purchase.Passes: $90 | $60 SIFF Member
+ s - includes full series access.\n\nhttps://www.siff.net/programs-and-
+ events/the-dirty-stories-of-jean-eustache/the-virgin-of-pessac-68-and-79-d
+ ouble-feature
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
