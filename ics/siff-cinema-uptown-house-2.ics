@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230713T082434Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230714T074615Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Biosphere
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230713T230000Z
-UID:yisqs3iQV8
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
- the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Past Lives
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T233000Z

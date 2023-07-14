@@ -1,73 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230713T082434Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230714T074615Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Biosphere
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T010000Z
-DTSTAMP;VALUE=DATE-TIME:20230713T230000Z
-UID:yisqs3iQV8
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn the not-too-distant future\, 
- the last two men on earth must adapt and evolve to save humanity. Post-fil
- m Q&A with director Mel Eslyn at the July 10 7:30pm screening.\n\nhttps://
- www.siff.net/cinema/in-theaters/biosphere
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230713T231500Z
-UID:Jj9Z4Bxtk9
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230714T021500Z
-UID:GcrRi0wxsD
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230713T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230713T233000Z
-UID:hjjcmy27XP
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230714T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230714T023000Z
-UID:BPJdRk4PSN
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T231500Z
@@ -988,9 +924,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T051000Z
-DTSTAMP;VALUE=DATE-TIME:20230722T020000Z
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T052500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T021500Z
 UID:7YFXFG4RTK
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -1049,6 +985,137 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nThe Dirty Stories of Jean Eustac
  s - includes full series access.\n\nhttps://www.siff.net/programs-and-
  events/the-dirty-stories-of-jean-eustache/the-virgin-of-pessac-68-and-79-d
  ouble-feature
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T223500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T203000Z
+UID:1tH9ET6iFF
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230722T231500Z
+UID:SmPljVQK4o
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230723T020000Z
+UID:AufKvuo8bG
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Little Loves
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T234500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T213000Z
+UID:vYWg9ojwZZ
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nThe Dirty Stories of Jean Eustac
+ he Beautifully shot in color by Nestor Almendros\, My Little Loves is as 
+ powerful and unsentimental a portrait of adolescent male angst as anything
+  by Truffaut or Pialat. New 4k restoration. Individual Tickets: Select sh
+ owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
+ s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
+ f-jean-eustache/my-little-loves
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T221500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T012500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T221500Z
+UID:Qq0ff6by7U
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:0
+ 0pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
+ mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T052500Z
+DTSTAMP;VALUE=DATE-TIME:20230723T021500Z
+UID:KxJiFAdZZt
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:0
+ 0pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
+ mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Numero Zero 
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T023000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T003000Z
+UID:B0Ld2wDBnt
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe Dirty Stories of Jean Eustac
+ he Jean Eustache sits down with his grandmother Odette Robert—a key figu
+ re in his life and a substitute mother during his youth—for a feature-le
+ ngth conversation across a kitchen table. The two discuss the harshness o
+ f her rural upbringing\, her troubled marriage\, the deaths of her childre
+ n\, and the deprivations of World Wars I and II. The film was truncated to
+  one hour for French television and never shown publicly in its full form 
+ during Eustache’s lifetime\; the full version of Numéro Zéro was redis
+ covered and reconstructed in 2002. Individual Tickets: Select showtime to
+  purchase.Passes: $90 | $60 SIFF Members - includes full series access
+ .\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-of-jean-eu
+ stache/numero-zero
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robinson's Place / Santa Claus Has Blue Eyes
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T030000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T044000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T030000Z
+UID:HRNL01rnup
+DESCRIPTION:Duration: 87 mins (1h27m)\n\nThe Dirty Stories of Jean Eustach
+ e Enjoy a double feature presentation of Jean Eustache's Robinson's Place 
+ and Santa Claus Has Blue Eyes. Individual Tickets: Select showtime to pur
+ chase.Passes: $90 | $60 SIFF Members - includes full series access.\n\
+ nhttps://www.siff.net/programs-and-events/the-dirty-stories-of-jean-eustac
+ he/robinsons-place-and-santa-claus-has-blue-eyes
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
