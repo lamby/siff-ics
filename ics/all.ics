@@ -1,109 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230714T074615Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230715T074459Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230714T231500Z
-UID:4i9F1YBxjF
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230715T021500Z
-UID:rTQYcAVsTn
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230714T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230714T233000Z
-UID:8lg3dKD2R0
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230715T023000Z
-UID:etenJX0HEX
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hand
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230715T000000Z
-UID:kswaEHRUgu
-DESCRIPTION:Duration: 56 mins (0h56m)\n\nWorld of Wong Kar Wai Like In the
-  Mood for Love\, The Hand is set in the hazy Hong Kong of the 1960s\, but 
- its characters couldn’t be more different from the earlier film’s rest
- rained\, haunted lovers. Presented in its extended cut. Individual Tickets
- : Select showtime to purchase.Passes: $90 | $60 SIFF Members - includes 
- full series access.\n\nhttps://www.siff.net/programs-and-events/world-of
- -wong-kar-wai/world-of-wong-kar-wai-the-hand
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Mother and the Whore
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T045000Z
-DTSTAMP;VALUE=DATE-TIME:20230715T010000Z
-UID:hgpKKIil2A
-DESCRIPTION:Duration: 219 mins (3h39m)\n\nThe Dirty Stories of Jean Eustac
- he At long last presented in a striking new restoration worthy of the film
- 's reputation\, Jean Eustache’s hard-to-see masterpiece uses an obsessiv
- e\, talkative ménage à trois as the jumping-off point for an intense exp
- loration of sexual politics among liberated yet alienated moderns. New 4k 
- restoration. Individual Tickets: Select showtime to purchase.Passes: $90 
- | $60 SIFF Members - includes full series access.\n\nhttps://www.siff.
- net/programs-and-events/the-dirty-stories-of-jean-eustache/the-mother-and-
- the-whore
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T035000Z
-DTSTAMP;VALUE=DATE-TIME:20230715T020000Z
-UID:1KKkYj7xnZ
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nWorld of Wong Kar Wai With its ac
- hing musical soundtrack and exquisitely abstract cinematography by Christo
- pher Doyle and Mark Lee Ping-bin\, this film has been a major stylistic in
- fluence on the past decade of cinema\, and is a milestone in Wong’s redo
- ubtable career. Presented in 4k. Individual Tickets: Select showtime to p
- urchase.Passes: $90 | $60 SIFF Members - includes full series access.\n
- \nhttps://www.siff.net/programs-and-events/world-of-wong-kar-wai/world-of-
- wong-kar-wai-in-the-mood-for-love
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Happy Together
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T200000Z
@@ -902,8 +802,8 @@ DTSTAMP;VALUE=DATE-TIME:20230721T020000Z
 UID:NoIaW2OMvF
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:0
- 0pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
  are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
  mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
@@ -916,8 +816,8 @@ DTSTAMP;VALUE=DATE-TIME:20230721T221500Z
 UID:Ox6hkLl8Bv
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:0
- 0pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
  are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
  mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
@@ -930,8 +830,8 @@ DTSTAMP;VALUE=DATE-TIME:20230722T021500Z
 UID:7YFXFG4RTK
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:0
- 0pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
  are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
  mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
@@ -1064,8 +964,8 @@ DTSTAMP;VALUE=DATE-TIME:20230722T221500Z
 UID:Qq0ff6by7U
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:0
- 0pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
  are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
  mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
@@ -1078,8 +978,8 @@ DTSTAMP;VALUE=DATE-TIME:20230723T021500Z
 UID:KxJiFAdZZt
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:0
- 0pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
  are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
  mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
@@ -1116,6 +1016,133 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nThe Dirty Stories of Jean Eustach
  chase.Passes: $90 | $60 SIFF Members - includes full series access.\n\
  nhttps://www.siff.net/programs-and-events/the-dirty-stories-of-jean-eustac
  he/robinsons-place-and-santa-claus-has-blue-eyes
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Hamlet
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T222000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T183000Z
+UID:mtndL3oJ5D
+DESCRIPTION:Duration: 220 mins (3h40m)\n\nStage to Screen Benedict Cumberb
+ atch (Doctor Strange\, Sherlock\, The Power of the Dog) plays the title ro
+ le of Shakespeare's great tragedy.\n\nhttps://www.siff.net/programs-and-ev
+ ents/stage-to-screen/nt-live-hamlet
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T223500Z
+DTSTAMP;VALUE=DATE-TIME:20230723T203000Z
+UID:jatsIhYndY
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T231500Z
+UID:goLNdv04vj
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230724T020000Z
+UID:Y0TT1keibN
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Mother and the Whore
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T005000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T210000Z
+UID:2vmrDOw2uD
+DESCRIPTION:Duration: 219 mins (3h39m)\n\nThe Dirty Stories of Jean Eustac
+ he At long last presented in a striking new restoration worthy of the film
+ 's reputation\, Jean Eustache’s hard-to-see masterpiece uses an obsessiv
+ e\, talkative ménage à trois as the jumping-off point for an intense exp
+ loration of sexual politics among liberated yet alienated moderns. New 4k 
+ restoration. Individual Tickets: Select showtime to purchase.Passes: $90 
+ | $60 SIFF Members - includes full series access.\n\nhttps://www.siff.
+ net/programs-and-events/the-dirty-stories-of-jean-eustache/the-mother-and-
+ the-whore
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T221500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T012500Z
+DTSTAMP;VALUE=DATE-TIME:20230723T221500Z
+UID:qycZaQAwp8
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
+ mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T052500Z
+DTSTAMP;VALUE=DATE-TIME:20230724T021500Z
+UID:pDCjiDrsrD
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
+ mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Cochon  & 2 shorts
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T013000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T032500Z
+DTSTAMP;VALUE=DATE-TIME:20230724T013000Z
+UID:oEUtiA10ok
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe Dirty Stories of Jean Eustac
+ he Co-directed with Jean-Michel Barjol\, Eustache’s film documents the s
+ laughter of a pig and its subsequent conversion into sausages on a small F
+ rench farm in the Massif Central. Subtitles are not available for Le Cocho
+ n\, since it was filmed in a local dialect. Individual Tickets: Select sh
+ owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
+ s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
+ f-jean-eustache/le-cochon-and-shorts
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
