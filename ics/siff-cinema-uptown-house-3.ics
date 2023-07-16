@@ -1,58 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230715T074459Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230716T075117Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Robinson's Place / Santa Claus Has Blue Eyes
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230715T204500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230715T222500Z
-DTSTAMP;VALUE=DATE-TIME:20230715T204500Z
-UID:LK2vsywDUj
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nThe Dirty Stories of Jean Eustach
- e Enjoy a double feature presentation of Jean Eustache's Robinson's Place 
- and Santa Claus Has Blue Eyes. Individual Tickets: Select showtime to pur
- chase.Passes: $90 | $60 SIFF Members - includes full series access.\n\
- nhttps://www.siff.net/programs-and-events/the-dirty-stories-of-jean-eustac
- he/robinsons-place-and-santa-claus-has-blue-eyes
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Little Loves
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T021500Z
-DTSTAMP;VALUE=DATE-TIME:20230716T000000Z
-UID:uxtDOTcqBo
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nThe Dirty Stories of Jean Eustac
- he Beautifully shot in color by Nestor Almendros\, My Little Loves is as 
- powerful and unsentimental a portrait of adolescent male angst as anything
-  by Truffaut or Pialat. New 4k restoration. Individual Tickets: Select sh
- owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
- s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
- f-jean-eustache/my-little-loves
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Dirty Story / Alix's Pictures
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T024500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230716T024500Z
-UID:tykpsD9wXc
-DESCRIPTION:Duration: 69 mins (1h09m)\n\nThe Dirty Stories of Jean Eustach
- e One of Eustache’s most radical experiments\, the formally and narrativ
- ely transgressive A Dirty Story presents two versions of the same event\,
-  in which a group of women listen to a man describe his discovery of a pee
- phole in a women’s restroom. One is a “true” monologue delivered by 
- the actual participant (Eustache’s friend and collaborator Jean-Noël Pi
- cq)\; the other a staged recreation of Picq’s performance starring Micha
- el Lonsdale. Further muddying the waters between documentary and fiction\,
-  Eustache preferred that the “fictional” version be shown first. Indiv
- idual Tickets: Select showtime to purchase.Passes: $90 | $60 SIFF Members
-  - includes full series access.\n\nhttps://www.siff.net/programs-and-e
- vents/the-dirty-stories-of-jean-eustache/a-dirty-story-and-alixs-pictures
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Mother and the Whore
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T200000Z
