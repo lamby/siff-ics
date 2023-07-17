@@ -1,42 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230716T075117Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230717T071119Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:The Mother and the Whore
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T235000Z
-DTSTAMP;VALUE=DATE-TIME:20230716T200000Z
-UID:xnRy9MwpbH
-DESCRIPTION:Duration: 219 mins (3h39m)\n\nThe Dirty Stories of Jean Eustac
- he At long last presented in a striking new restoration worthy of the film
- 's reputation\, Jean Eustache’s hard-to-see masterpiece uses an obsessiv
- e\, talkative ménage à trois as the jumping-off point for an intense exp
- loration of sexual politics among liberated yet alienated moderns. New 4k 
- restoration. Individual Tickets: Select showtime to purchase.Passes: $90 
- | $60 SIFF Members - includes full series access.\n\nhttps://www.siff.
- net/programs-and-events/the-dirty-stories-of-jean-eustache/the-mother-and-
- the-whore
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Cochon  & 2 shorts
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T025500Z
-DTSTAMP;VALUE=DATE-TIME:20230717T010000Z
-UID:VL5Aqjbvqb
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe Dirty Stories of Jean Eustac
- he Co-directed with Jean-Michel Barjol\, Eustache’s film documents the s
- laughter of a pig and its subsequent conversion into sausages on a small F
- rench farm in the Massif Central. Subtitles are not available for Le Cocho
- n\, since it was filmed in a local dialect. Individual Tickets: Select sh
- owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
- s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
- f-jean-eustache/le-cochon-and-shorts
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virgin of Pessac 1968
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T003000Z

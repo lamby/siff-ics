@@ -1,55 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230716T075117Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230717T071119Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Days of Being Wild
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230716T224500Z
-DTSTAMP;VALUE=DATE-TIME:20230716T210000Z
-UID:kSbaYe9ImG
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nWorld of Wong Kar Wai Wong Kar Wa
- i’s breakthrough sophomore feature represents the first full flowering o
- f his swooning signature style. Presented in 4k. Individual Tickets: Sel
- ect showtime to purchase.Passes: $90 | $60 SIFF Members - includes full 
- series access.\n\nhttps://www.siff.net/programs-and-events/world-of-wong-
- kar-wai/world-of-wong-kar-wai-days-of-being-wild
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230716T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230716T233000Z
-UID:feq1yLSxiD
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nWorld of Wong Kar Wai With its ac
- hing musical soundtrack and exquisitely abstract cinematography by Christo
- pher Doyle and Mark Lee Ping-bin\, this film has been a major stylistic in
- fluence on the past decade of cinema\, and is a milestone in Wong’s redo
- ubtable career. Presented in 4k. Individual Tickets: Select showtime to p
- urchase.Passes: $90 | $60 SIFF Members - includes full series access.\n
- \nhttps://www.siff.net/programs-and-events/world-of-wong-kar-wai/world-of-
- wong-kar-wai-in-the-mood-for-love
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2046 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230717T042000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T020000Z
-UID:HRDPkZUN45
-DESCRIPTION:Duration: 129 mins (2h09m)\n\nWorld of Wong Kar Wai Several wo
- men enter a science fiction author's life over the course of a few years\,
-  after the author has lost the woman he considers his one true love. Recog
- nized as the final film in Wong Kar-Wai's informal love trilogy\, preceded
-  by Days of Being Wild (1990) and In the Mood for Love (2000). Present
- ed on 35mm. Individual Tickets: Select showtime to purchase.Passes: $90 |
-  $60 SIFF Members - includes full series access.\n\nhttps://www.siff.ne
- t/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-2046
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In the Mood for Love
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T020000Z
@@ -333,6 +287,42 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T040500Z
 DTSTAMP;VALUE=DATE-TIME:20230725T020000Z
 UID:wQdMi3f81N
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230725T231500Z
+UID:hFMCjyf05Y
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
+ ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
+ s/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230726T020000Z
+UID:9Gbix2s4yH
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
  crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
