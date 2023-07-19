@@ -1,57 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230717T071119Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230719T072912Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T035000Z
-DTSTAMP;VALUE=DATE-TIME:20230718T020000Z
-UID:cBi4D0Q8Xa
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nWorld of Wong Kar Wai With its ac
- hing musical soundtrack and exquisitely abstract cinematography by Christo
- pher Doyle and Mark Lee Ping-bin\, this film has been a major stylistic in
- fluence on the past decade of cinema\, and is a milestone in Wong’s redo
- ubtable career. Presented in 4k. Individual Tickets: Select showtime to p
- urchase.Passes: $90 | $60 SIFF Members - includes full series access.\n
- \nhttps://www.siff.net/programs-and-events/world-of-wong-kar-wai/world-of-
- wong-kar-wai-in-the-mood-for-love
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:As Tears Go By
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230718T233000Z
-UID:g4GLSd3CZ9
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Wong Kar W
- ai’s scintillating debut feature is a kinetic\, hyper-cool crime thrille
- r graced with flashes of the impressionistic\, daydream visual style for w
- hich he would become renowned. Presented in 4k. Individual Tickets: Sele
- ct showtime to purchase.Passes: $90 | $60 SIFF Members - includes full s
- eries access.\n\nhttps://www.siff.net/programs-and-events/world-of-wong-k
- ar-wai/world-of-wong-kar-wai-as-tears-go-by
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Happy Together
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T035000Z
-DTSTAMP;VALUE=DATE-TIME:20230719T020000Z
-UID:SSfsuwISUK
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nWorld of Wong Kar Wai One of the 
- most searing romances of the 1990s\, Wong Kar Wai’s emotionally raw\, lu
- shly stylized portrait of a relationship in breakdown casts Hong Kong supe
- rstars Tony Leung and Leslie Cheung as a couple traveling through Argentin
- a and locked in a turbulent cycle of infatuation and destructive jealousy 
- as they break up\, make up\, and fall apart again and again. Presented in
-  4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 SI
- FF Members - includes full series access.\n\nhttps://www.siff.net/progr
- ams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-happy-together
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chungking Express
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T233000Z
@@ -96,9 +48,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -114,9 +69,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -132,9 +90,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -150,9 +111,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -168,9 +132,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -186,9 +153,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -204,9 +174,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -222,9 +195,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -240,9 +216,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -258,9 +237,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -276,9 +258,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -294,9 +279,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -312,9 +300,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -330,9 +321,96 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230726T231500Z
+UID:QsYhpwoTrW
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230727T020000Z
+UID:K4yPgvaNQh
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230727T231500Z
+UID:ovAY4pSACP
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230728T020000Z
+UID:caCZ3Qji69
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

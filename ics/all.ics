@@ -1,227 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230717T071119Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230719T072912Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T231500Z
-UID:PX4tJrdkKt
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T035500Z
-DTSTAMP;VALUE=DATE-TIME:20230718T020000Z
-UID:v9MHJH9J51
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T233000Z
-UID:mdMMA4UcH1
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230718T023000Z
-UID:yY4peC2NCq
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virgin of Pessac 1968
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T014500Z
-DTSTAMP;VALUE=DATE-TIME:20230718T003000Z
-UID:AM5u1nSsNc
-DESCRIPTION:Duration: 65 mins (1h05m)\n\nThe Dirty Stories of Jean Eustach
- e For his first documentary\, Eustache returned to his hometown to documen
- t an annual pageant in which the village crowns the town’s most virtuous
-  young girl. A double feature presentation including The Virgin of Pess
- ac will be shown on Friday\, July 21\, 2023. Individual Tickets: Select 
- showtime to purchase.Passes: $90 | $60 SIFF Members - includes full ser
- ies access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories
- -of-jean-eustache/the-virgin-of-pessac
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T035000Z
-DTSTAMP;VALUE=DATE-TIME:20230718T020000Z
-UID:cBi4D0Q8Xa
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nWorld of Wong Kar Wai With its ac
- hing musical soundtrack and exquisitely abstract cinematography by Christo
- pher Doyle and Mark Lee Ping-bin\, this film has been a major stylistic in
- fluence on the past decade of cinema\, and is a milestone in Wong’s redo
- ubtable career. Presented in 4k. Individual Tickets: Select showtime to p
- urchase.Passes: $90 | $60 SIFF Members - includes full series access.\n
- \nhttps://www.siff.net/programs-and-events/world-of-wong-kar-wai/world-of-
- wong-kar-wai-in-the-mood-for-love
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vermeer: The Blockbuster Exhibition
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230718T020000Z
-UID:sJNtZmm6hg
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nExhibition on Screen This new Ex
- hibition on Screen film is a once-in-a-lifetime opportunity to get a priva
- te view of the largest Vermeer exhibition in history\, opening spring 2023
-  at the Rijksmuseum in Amsterdam\, accompanied by the museum director and
-  the curator of the show.  OPEN CAPTION SCREENINGS - all Tuesday and Su
- nday showtimes\n\nhttps://www.siff.net/programs-and-events/exhibition-on-s
- creen/exhibition-on-screen-vermeer-the-greatest-exhibition
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Numero Zero 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T041500Z
-DTSTAMP;VALUE=DATE-TIME:20230718T021500Z
-UID:O411Uok6Q9
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe Dirty Stories of Jean Eustac
- he Jean Eustache sits down with his grandmother Odette Robert—a key figu
- re in his life and a substitute mother during his youth—for a feature-le
- ngth conversation across a kitchen table. The two discuss the harshness o
- f her rural upbringing\, her troubled marriage\, the deaths of her childre
- n\, and the deprivations of World Wars I and II. The film was truncated to
-  one hour for French television and never shown publicly in its full form 
- during Eustache’s lifetime\; the full version of Numéro Zéro was redis
- covered and reconstructed in 2002. Individual Tickets: Select showtime to
-  purchase.Passes: $90 | $60 SIFF Members - includes full series access
- .\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-of-jean-eu
- stache/numero-zero
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230718T231500Z
-UID:sgOpp8al0h
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230719T021500Z
-UID:UpCcxPHjB5
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:As Tears Go By
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230718T233000Z
-UID:g4GLSd3CZ9
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Wong Kar W
- ai’s scintillating debut feature is a kinetic\, hyper-cool crime thrille
- r graced with flashes of the impressionistic\, daydream visual style for w
- hich he would become renowned. Presented in 4k. Individual Tickets: Sele
- ct showtime to purchase.Passes: $90 | $60 SIFF Members - includes full s
- eries access.\n\nhttps://www.siff.net/programs-and-events/world-of-wong-k
- ar-wai/world-of-wong-kar-wai-as-tears-go-by
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230718T233000Z
-UID:Ir60epeGFm
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230719T023000Z
-UID:vkFdtOjKip
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Little Loves
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T031500Z
-DTSTAMP;VALUE=DATE-TIME:20230719T010000Z
-UID:tPoWbLgp4A
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nThe Dirty Stories of Jean Eustac
- he Beautifully shot in color by Nestor Almendros\, My Little Loves is as 
- powerful and unsentimental a portrait of adolescent male angst as anything
-  by Truffaut or Pialat. New 4k restoration. Individual Tickets: Select sh
- owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
- s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
- f-jean-eustache/my-little-loves
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Happy Together
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T035000Z
-DTSTAMP;VALUE=DATE-TIME:20230719T020000Z
-UID:SSfsuwISUK
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nWorld of Wong Kar Wai One of the 
- most searing romances of the 1990s\, Wong Kar Wai’s emotionally raw\, lu
- shly stylized portrait of a relationship in breakdown casts Hong Kong supe
- rstars Tony Leung and Leslie Cheung as a couple traveling through Argentin
- a and locked in a turbulent cycle of infatuation and destructive jealousy 
- as they break up\, make up\, and fall apart again and again. Presented in
-  4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 SI
- FF Members - includes full series access.\n\nhttps://www.siff.net/progr
- ams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-happy-together
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T231500Z
@@ -367,9 +149,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -385,9 +170,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -490,9 +278,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -508,10 +299,27 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230721T233000Z
+UID:sAqI9C11fp
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Virgin of Pessac 1968 & 1979
@@ -529,6 +337,18 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nThe Dirty Stories of Jean Eustac
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T042500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T023000Z
+UID:SVX2aO5xuT
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T203000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T223500Z
@@ -541,9 +361,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -559,9 +382,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -577,10 +403,41 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T204500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T224500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T204500Z
+UID:aw9KJwrnau
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T023000Z
+UID:iqTUbmhfJi
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Little Loves
@@ -624,6 +481,18 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
  mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T012500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T233000Z
+UID:aJWcbrwRIf
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Numero Zero 
@@ -684,9 +553,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -702,9 +574,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -720,10 +595,37 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T204500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T224000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T204500Z
+UID:SiHsyAV7UQ
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T042500Z
+DTSTAMP;VALUE=DATE-TIME:20230724T023000Z
+UID:CTUA4Dm0Fv
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Mother and the Whore
@@ -771,6 +673,20 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T233000Z
+UID:0sd83Ckpr1
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Le Cochon  & 2 shorts
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T032500Z
@@ -799,9 +715,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -817,10 +736,65 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230724T233000Z
+UID:IkNoNy2tmP
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T041500Z
+DTSTAMP;VALUE=DATE-TIME:20230725T021500Z
+UID:DnPoIUsDYf
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T014000Z
+DTSTAMP;VALUE=DATE-TIME:20230724T234500Z
+UID:YSWhpvpYUd
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T042500Z
+DTSTAMP;VALUE=DATE-TIME:20230725T023000Z
+UID:CUy783dO8d
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: Hamlet
@@ -861,9 +835,12 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
@@ -879,10 +856,27 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
   join us as the Egyptian transforms into Barbie World on opening weekend 
  with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
  cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only SIFF year-round passes and v
- ouchers not valid until July 30.\n\nhttps://www.siff.net/cinema/in-theater
- s/barbie
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230725T233000Z
+UID:cljcdPF7Q9
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: Hamlet
@@ -909,5 +903,184 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
  mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230726T021500Z
+UID:5Qj435euks
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230726T231500Z
+UID:QsYhpwoTrW
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230727T020000Z
+UID:K4yPgvaNQh
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T012500Z
+DTSTAMP;VALUE=DATE-TIME:20230726T233000Z
+UID:bWahDCRADE
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T051000Z
+DTSTAMP;VALUE=DATE-TIME:20230727T020000Z
+UID:SXxlf4OfxM
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
+ mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T041500Z
+DTSTAMP;VALUE=DATE-TIME:20230727T021500Z
+UID:myBs35mhi4
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230727T231500Z
+UID:ovAY4pSACP
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230728T020000Z
+UID:caCZ3Qji69
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230727T233000Z
+UID:VYvf8osuHB
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T051000Z
+DTSTAMP;VALUE=DATE-TIME:20230728T020000Z
+UID:limJUpdDxt
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
+ mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230728T023000Z
+UID:tT8dgmERd9
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

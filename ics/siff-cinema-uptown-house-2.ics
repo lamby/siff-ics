@@ -1,65 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230717T071119Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230719T072912Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230717T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230717T233000Z
-UID:mdMMA4UcH1
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230718T023000Z
-UID:yY4peC2NCq
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230718T233000Z
-UID:Ir60epeGFm
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230719T023000Z
-UID:vkFdtOjKip
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Past Lives
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T233000Z
@@ -108,6 +52,138 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T023000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230721T043000Z
 DTSTAMP;VALUE=DATE-TIME:20230721T023000Z
 UID:bAHRlsE6Ds
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230721T233000Z
+UID:sAqI9C11fp
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T042500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T023000Z
+UID:SVX2aO5xuT
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T204500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T224500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T204500Z
+UID:aw9KJwrnau
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T043000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T023000Z
+UID:iqTUbmhfJi
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T012500Z
+DTSTAMP;VALUE=DATE-TIME:20230722T233000Z
+UID:aJWcbrwRIf
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T204500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T224000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T204500Z
+UID:SiHsyAV7UQ
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T042500Z
+DTSTAMP;VALUE=DATE-TIME:20230724T023000Z
+UID:CTUA4Dm0Fv
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230723T233000Z
+UID:0sd83Ckpr1
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230724T233000Z
+UID:IkNoNy2tmP
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T041500Z
+DTSTAMP;VALUE=DATE-TIME:20230725T021500Z
+UID:DnPoIUsDYf
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
  e Song (“Endlings”) makes her directorial debut with this beautiful an
  d delicate romance about the depth of love and connection\, as two childho

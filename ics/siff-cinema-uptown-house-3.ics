@@ -1,60 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230717T071119Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230719T072912Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Virgin of Pessac 1968
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T014500Z
-DTSTAMP;VALUE=DATE-TIME:20230718T003000Z
-UID:AM5u1nSsNc
-DESCRIPTION:Duration: 65 mins (1h05m)\n\nThe Dirty Stories of Jean Eustach
- e For his first documentary\, Eustache returned to his hometown to documen
- t an annual pageant in which the village crowns the town’s most virtuous
-  young girl. A double feature presentation including The Virgin of Pess
- ac will be shown on Friday\, July 21\, 2023. Individual Tickets: Select 
- showtime to purchase.Passes: $90 | $60 SIFF Members - includes full ser
- ies access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories
- -of-jean-eustache/the-virgin-of-pessac
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Numero Zero 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230718T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230718T041500Z
-DTSTAMP;VALUE=DATE-TIME:20230718T021500Z
-UID:O411Uok6Q9
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe Dirty Stories of Jean Eustac
- he Jean Eustache sits down with his grandmother Odette Robert—a key figu
- re in his life and a substitute mother during his youth—for a feature-le
- ngth conversation across a kitchen table. The two discuss the harshness o
- f her rural upbringing\, her troubled marriage\, the deaths of her childre
- n\, and the deprivations of World Wars I and II. The film was truncated to
-  one hour for French television and never shown publicly in its full form 
- during Eustache’s lifetime\; the full version of Numéro Zéro was redis
- covered and reconstructed in 2002. Individual Tickets: Select showtime to
-  purchase.Passes: $90 | $60 SIFF Members - includes full series access
- .\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-of-jean-eu
- stache/numero-zero
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Little Loves
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230719T031500Z
-DTSTAMP;VALUE=DATE-TIME:20230719T010000Z
-UID:tPoWbLgp4A
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nThe Dirty Stories of Jean Eustac
- he Beautifully shot in color by Nestor Almendros\, My Little Loves is as 
- powerful and unsentimental a portrait of adolescent male angst as anything
-  by Truffaut or Pialat. New 4k restoration. Individual Tickets: Select sh
- owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
- s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
- f-jean-eustache/my-little-loves
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Virgin of Pessac 1979
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T003000Z
@@ -204,6 +153,111 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe Dirty Stories of Jean Eustac
  owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
  s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
  f-jean-eustache/le-cochon-and-shorts
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T014000Z
+DTSTAMP;VALUE=DATE-TIME:20230724T234500Z
+UID:YSWhpvpYUd
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T042500Z
+DTSTAMP;VALUE=DATE-TIME:20230725T023000Z
+UID:CUy783dO8d
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230725T233000Z
+UID:cljcdPF7Q9
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230726T021500Z
+UID:5Qj435euks
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T012500Z
+DTSTAMP;VALUE=DATE-TIME:20230726T233000Z
+UID:bWahDCRADE
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T041500Z
+DTSTAMP;VALUE=DATE-TIME:20230727T021500Z
+UID:myBs35mhi4
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T013000Z
+DTSTAMP;VALUE=DATE-TIME:20230727T233000Z
+UID:VYvf8osuHB
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
+ e Song (“Endlings”) makes her directorial debut with this beautiful an
+ d delicate romance about the depth of love and connection\, as two childho
+ od best friends reunite years after an untimely separation. OPEN CAPTION S
+ CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
+ a/in-theaters/past-lives
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230728T023000Z
+UID:tT8dgmERd9
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
