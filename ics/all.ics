@@ -1,129 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230719T072912Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230720T071057Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230719T231500Z
-UID:n9GuFZVPtF
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230720T021500Z
-UID:eB2XHcQLfa
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230719T233000Z
-UID:OVkePqS2My
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Two hearts
- ick Hong Kong cops cross paths at the Midnight Express take-out restaurant
-  stand\, where the ethereal pixie waitress Faye works. The whiplash\, doub
- le-pronged Chungking Express is one of the defining works of nineties cine
- ma and the film that made Hong Kong filmmaker Wong Kar Wai an instant icon
- . Presented in 4k. Individual Tickets: Select showtime to purchase.Passe
- s: $90 | $60 SIFF Members - includes full series access.\n\nhttps://www
- .siff.net/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-
- chungking-express
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230719T233000Z
-UID:NeC3iX2Nps
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T040000Z
-DTSTAMP;VALUE=DATE-TIME:20230720T020000Z
-UID:B4vBDx756b
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Virgin of Pessac 1979
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T015000Z
-DTSTAMP;VALUE=DATE-TIME:20230720T003000Z
-UID:TuNiESLQFi
-DESCRIPTION:Duration: 67 mins (1h07m)\n\nThe Dirty Stories of Jean Eustach
- e In 1979\, Eustache returned to Pessac to “remake” his first document
- ary\, again filming the town’s annual pageant to crown its most virtuous
-  young woman while emphasizing what had (and had not) changed over the sub
- sequent decade. A double feature presentation including The Virgin of P
- essac ‘79 will be shown on Friday\, July 21\, 2023. Individual Tickets:
-  Select showtime to purchase.Passes: $90 | $60 SIFF Members - includes 
- full series access.\n\nhttps://www.siff.net/programs-and-events/the-dirt
- y-stories-of-jean-eustache/the-virgin-of-pessac-79
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fallen Angels
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T034000Z
-DTSTAMP;VALUE=DATE-TIME:20230720T020000Z
-UID:kAwuJ9Mmdi
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nWorld of Wong Kar Wai Lost souls 
- reach out for human connection amidst the glimmering night world of Hong K
- ong in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne. Presented i
- n 4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 S
- IFF Members - includes full series access.\n\nhttps://www.siff.net/prog
- rams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-fallen-angels
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Dirty Story / Alix's Pictures
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T035000Z
-DTSTAMP;VALUE=DATE-TIME:20230720T023000Z
-UID:86CdDRabI0
-DESCRIPTION:Duration: 69 mins (1h09m)\n\nThe Dirty Stories of Jean Eustach
- e One of Eustache’s most radical experiments\, the formally and narrativ
- ely transgressive A Dirty Story presents two versions of the same event\,
-  in which a group of women listen to a man describe his discovery of a pee
- phole in a women’s restroom. One is a “true” monologue delivered by 
- the actual participant (Eustache’s friend and collaborator Jean-Noël Pi
- cq)\; the other a staged recreation of Picq’s performance starring Micha
- el Lonsdale. Further muddying the waters between documentary and fiction\,
-  Eustache preferred that the “fictional” version be shown first. Indiv
- idual Tickets: Select showtime to purchase.Passes: $90 | $60 SIFF Members
-  - includes full series access.\n\nhttps://www.siff.net/programs-and-e
- vents/the-dirty-stories-of-jean-eustache/a-dirty-story-and-alixs-pictures
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T231500Z
@@ -233,8 +113,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -247,8 +128,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -261,8 +143,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -464,8 +347,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -478,8 +362,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -654,8 +539,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -668,8 +554,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -818,8 +705,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -891,6 +779,40 @@ DESCRIPTION:Duration: 220 mins (3h40m)\n\nStage to Screen Benedict Cumberb
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seattle 48 Hour Film Project
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T013000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T034000Z
+DTSTAMP;VALUE=DATE-TIME:20230726T013000Z
+UID:eQWGxWpbSL
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Seattle 48 Hour Film Project
+  returns for its 19th year featuring 80 films by local filmmakers all crea
+ ted during the weekend of July 14-16\, 2023. Filmmakers are tasked with 4 
+ required elements that must be used in the creation of a 4-7 minute short 
+ film completely from scratch all within a 48 hour time frame. Individual T
+ ickets: Select showtime to purchase.Passes: $60 | $50 SIFF Members - inc
+ ludes access to all in-person Seattle 48 Hour Film Project screenings.\n\
+ nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-project-x301
+ 77
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle 48 Hour Film Project
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T061000Z
+DTSTAMP;VALUE=DATE-TIME:20230726T040000Z
+UID:X4ve15vBfm
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Seattle 48 Hour Film Project
+  returns for its 19th year featuring 80 films by local filmmakers all crea
+ ted during the weekend of July 14-16\, 2023. Filmmakers are tasked with 4 
+ required elements that must be used in the creation of a 4-7 minute short 
+ film completely from scratch all within a 48 hour time frame. Individual T
+ ickets: Select showtime to purchase.Passes: $60 | $50 SIFF Members - inc
+ ludes access to all in-person Seattle 48 Hour Film Project screenings.\n\
+ nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-project-x301
+ 77
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T051000Z
@@ -900,8 +822,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -971,6 +894,40 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seattle 48 Hour Film Project
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T013000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T034000Z
+DTSTAMP;VALUE=DATE-TIME:20230727T013000Z
+UID:0R63rHXOXm
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Seattle 48 Hour Film Project
+  returns for its 19th year featuring 80 films by local filmmakers all crea
+ ted during the weekend of July 14-16\, 2023. Filmmakers are tasked with 4 
+ required elements that must be used in the creation of a 4-7 minute short 
+ film completely from scratch all within a 48 hour time frame. Individual T
+ ickets: Select showtime to purchase.Passes: $60 | $50 SIFF Members - inc
+ ludes access to all in-person Seattle 48 Hour Film Project screenings.\n\
+ nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-project-x301
+ 77
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle 48 Hour Film Project
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T061000Z
+DTSTAMP;VALUE=DATE-TIME:20230727T040000Z
+UID:4coospDKyv
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Seattle 48 Hour Film Project
+  returns for its 19th year featuring 80 films by local filmmakers all crea
+ ted during the weekend of July 14-16\, 2023. Filmmakers are tasked with 4 
+ required elements that must be used in the creation of a 4-7 minute short 
+ film completely from scratch all within a 48 hour time frame. Individual T
+ ickets: Select showtime to purchase.Passes: $60 | $50 SIFF Members - inc
+ ludes access to all in-person Seattle 48 Hour Film Project screenings.\n\
+ nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-project-x301
+ 77
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T051000Z
@@ -980,8 +937,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1055,6 +1013,40 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seattle 48 Hour Film Project
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T013000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T034000Z
+DTSTAMP;VALUE=DATE-TIME:20230728T013000Z
+UID:G0d25UvGPg
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Seattle 48 Hour Film Project
+  returns for its 19th year featuring 80 films by local filmmakers all crea
+ ted during the weekend of July 14-16\, 2023. Filmmakers are tasked with 4 
+ required elements that must be used in the creation of a 4-7 minute short 
+ film completely from scratch all within a 48 hour time frame. Individual T
+ ickets: Select showtime to purchase.Passes: $60 | $50 SIFF Members - inc
+ ludes access to all in-person Seattle 48 Hour Film Project screenings.\n\
+ nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-project-x301
+ 77
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle 48 Hour Film Project
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T040000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T061000Z
+DTSTAMP;VALUE=DATE-TIME:20230728T040000Z
+UID:r4Vevv7uoQ
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Seattle 48 Hour Film Project
+  returns for its 19th year featuring 80 films by local filmmakers all crea
+ ted during the weekend of July 14-16\, 2023. Filmmakers are tasked with 4 
+ required elements that must be used in the creation of a 4-7 minute short 
+ film completely from scratch all within a 48 hour time frame. Individual T
+ ickets: Select showtime to purchase.Passes: $60 | $50 SIFF Members - inc
+ ludes access to all in-person Seattle 48 Hour Film Project screenings.\n\
+ nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-project-x301
+ 77
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T051000Z
@@ -1064,8 +1056,9 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
  5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale.\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35
- mm
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1082,5 +1075,133 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
  ose who are susceptible to photosensitive epilepsy or have other photosens
  itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230728T220000Z
+UID:e7XaIoUV4E
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T052500Z
+DTSTAMP;VALUE=DATE-TIME:20230729T021500Z
+UID:0BOoqx7qap
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T005500Z
+DTSTAMP;VALUE=DATE-TIME:20230728T230000Z
+UID:VKkt9WmtpF
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T024500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T044000Z
+DTSTAMP;VALUE=DATE-TIME:20230729T024500Z
+UID:3NUTYUuO4o
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230728T231500Z
+UID:ePaA6u74ZZ
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230729T020000Z
+UID:jRROWhkH4e
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T005500Z
+DTSTAMP;VALUE=DATE-TIME:20230728T231500Z
+UID:DTkhBmAeq4
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230729T023000Z
+UID:Xo0g1YyS5g
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

@@ -1,40 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230719T072912Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230720T071057Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Chungking Express
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230719T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230719T233000Z
-UID:OVkePqS2My
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nWorld of Wong Kar Wai Two hearts
- ick Hong Kong cops cross paths at the Midnight Express take-out restaurant
-  stand\, where the ethereal pixie waitress Faye works. The whiplash\, doub
- le-pronged Chungking Express is one of the defining works of nineties cine
- ma and the film that made Hong Kong filmmaker Wong Kar Wai an instant icon
- . Presented in 4k. Individual Tickets: Select showtime to purchase.Passe
- s: $90 | $60 SIFF Members - includes full series access.\n\nhttps://www
- .siff.net/programs-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-
- chungking-express
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fallen Angels
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T034000Z
-DTSTAMP;VALUE=DATE-TIME:20230720T020000Z
-UID:kAwuJ9Mmdi
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nWorld of Wong Kar Wai Lost souls 
- reach out for human connection amidst the glimmering night world of Hong K
- ong in Wong Kar Wai’s hallucinatory\, neon-soaked nocturne. Presented i
- n 4k. Individual Tickets: Select showtime to purchase.Passes: $90 | $60 S
- IFF Members - includes full series access.\n\nhttps://www.siff.net/prog
- rams-and-events/world-of-wong-kar-wai/world-of-wong-kar-wai-fallen-angels
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T231500Z
@@ -398,6 +367,48 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T040500Z
 DTSTAMP;VALUE=DATE-TIME:20230728T020000Z
 UID:caCZ3Qji69
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T012000Z
+DTSTAMP;VALUE=DATE-TIME:20230728T231500Z
+UID:ePaA6u74ZZ
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SELLING QUICKLY SUNDAY 7/237:00pm - SELLING QUI
+ CKLY\n\nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T040500Z
+DTSTAMP;VALUE=DATE-TIME:20230729T020000Z
+UID:jRROWhkH4e
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
  crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts

@@ -1,46 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230719T072912Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230720T071057Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:The Virgin of Pessac 1979
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T015000Z
-DTSTAMP;VALUE=DATE-TIME:20230720T003000Z
-UID:TuNiESLQFi
-DESCRIPTION:Duration: 67 mins (1h07m)\n\nThe Dirty Stories of Jean Eustach
- e In 1979\, Eustache returned to Pessac to “remake” his first document
- ary\, again filming the town’s annual pageant to crown its most virtuous
-  young woman while emphasizing what had (and had not) changed over the sub
- sequent decade. A double feature presentation including The Virgin of P
- essac ‘79 will be shown on Friday\, July 21\, 2023. Individual Tickets:
-  Select showtime to purchase.Passes: $90 | $60 SIFF Members - includes 
- full series access.\n\nhttps://www.siff.net/programs-and-events/the-dirt
- y-stories-of-jean-eustache/the-virgin-of-pessac-79
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Dirty Story / Alix's Pictures
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230720T035000Z
-DTSTAMP;VALUE=DATE-TIME:20230720T023000Z
-UID:86CdDRabI0
-DESCRIPTION:Duration: 69 mins (1h09m)\n\nThe Dirty Stories of Jean Eustach
- e One of Eustache’s most radical experiments\, the formally and narrativ
- ely transgressive A Dirty Story presents two versions of the same event\,
-  in which a group of women listen to a man describe his discovery of a pee
- phole in a women’s restroom. One is a “true” monologue delivered by 
- the actual participant (Eustache’s friend and collaborator Jean-Noël Pi
- cq)\; the other a staged recreation of Picq’s performance starring Micha
- el Lonsdale. Further muddying the waters between documentary and fiction\,
-  Eustache preferred that the “fictional” version be shown first. Indiv
- idual Tickets: Select showtime to purchase.Passes: $90 | $60 SIFF Members
-  - includes full series access.\n\nhttps://www.siff.net/programs-and-e
- vents/the-dirty-stories-of-jean-eustache/a-dirty-story-and-alixs-pictures
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Mother and the Whore
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T003000Z
@@ -258,6 +221,32 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
  e. Theater Camp contains sequences with flashing lights that may affect th
  ose who are susceptible to photosensitive epilepsy or have other photosens
  itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T005500Z
+DTSTAMP;VALUE=DATE-TIME:20230728T230000Z
+UID:VKkt9WmtpF
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T024500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T044000Z
+DTSTAMP;VALUE=DATE-TIME:20230729T024500Z
+UID:3NUTYUuO4o
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
