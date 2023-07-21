@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230720T071057Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230721T070539Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230720T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230721T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230720T233000Z
-UID:PsN0CZU7AQ
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230721T043000Z
-DTSTAMP;VALUE=DATE-TIME:20230721T023000Z
-UID:bAHRlsE6Ds
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Past Lives
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T233000Z
@@ -287,6 +259,51 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T023000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T041000Z
 DTSTAMP;VALUE=DATE-TIME:20230729T023000Z
 UID:Xo0g1YyS5g
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T204500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T222500Z
+DTSTAMP;VALUE=DATE-TIME:20230729T204500Z
+UID:KKAfeF7WJu
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T231500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T005500Z
+DTSTAMP;VALUE=DATE-TIME:20230729T231500Z
+UID:rbAI4ZFqXt
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T023000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T041000Z
+DTSTAMP;VALUE=DATE-TIME:20230730T023000Z
+UID:BWW40QfjQX
 DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
  ndown AdirondACTS theater camp when their founder falls into a coma\, leav
  ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
