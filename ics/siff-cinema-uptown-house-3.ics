@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230721T070539Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230722T073218Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:The Virgin of Pessac 1968 & 1979
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T033000Z
-DTSTAMP;VALUE=DATE-TIME:20230722T010000Z
-UID:4AuaT2cg3G
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nThe Dirty Stories of Jean Eustac
- he A double feature presentation of Eustache's original 1968 The Virgin of
-  Pessac\, followed by his 1979 “remake” of his first documentary. Indi
- vidual Tickets: Select showtime to purchase.Passes: $90 | $60 SIFF Member
- s - includes full series access.\n\nhttps://www.siff.net/programs-and-
- events/the-dirty-stories-of-jean-eustache/the-virgin-of-pessac-68-and-79-d
- ouble-feature
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Little Loves
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T213000Z
@@ -264,6 +249,45 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T024500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T044000Z
 DTSTAMP;VALUE=DATE-TIME:20230730T024500Z
 UID:wVnqWsn0DH
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T222500Z
+DTSTAMP;VALUE=DATE-TIME:20230730T203000Z
+UID:eOoQIrPj1y
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230731T005500Z
+DTSTAMP;VALUE=DATE-TIME:20230730T230000Z
+UID:fUJibKo2QW
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230731T024500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230731T044000Z
+DTSTAMP;VALUE=DATE-TIME:20230731T024500Z
+UID:N8SMppMMty
 DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
  unexpected guest disrupts their plans. As the sky turns orange from a near

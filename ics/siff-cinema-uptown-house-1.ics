@@ -1,39 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230721T070539Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230722T073218Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230721T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230721T221500Z
-UID:Ox6hkLl8Bv
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
- e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
- 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale. Note: For 35mm screenings\, open and closed captions are 
- not available. Assistive hearing headphones will be available.\n\nhttps://
- www.siff.net/cinema/in-theaters/oppenheimer-35mm
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T052500Z
-DTSTAMP;VALUE=DATE-TIME:20230722T021500Z
-UID:7YFXFG4RTK
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
- e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
- 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale. Note: For 35mm screenings\, open and closed captions are 
- not available. Assistive hearing headphones will be available.\n\nhttps://
- www.siff.net/cinema/in-theaters/oppenheimer-35mm
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T221500Z
@@ -205,6 +175,36 @@ DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T052500Z
 DTSTAMP;VALUE=DATE-TIME:20230730T021500Z
 UID:G3unqpcD6y
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230731T011000Z
+DTSTAMP;VALUE=DATE-TIME:20230730T220000Z
+UID:RqklgFjEKR
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
+ 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
+ are now on sale. Note: For 35mm screenings\, open and closed captions are 
+ not available. Assistive hearing headphones will be available.\n\nhttps://
+ www.siff.net/cinema/in-theaters/oppenheimer-35mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer 35mm
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20230731T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20230731T052500Z
+DTSTAMP;VALUE=DATE-TIME:20230731T021500Z
+UID:vlRGL9VHRM
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
  resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
