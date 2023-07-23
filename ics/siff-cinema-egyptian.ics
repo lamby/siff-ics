@@ -1,77 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230722T073218Z
+LAST-MODIFIED:20230723T080455Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T223500Z
-DTSTAMP;VALUE=DATE-TIME:20230722T203000Z
-UID:1tH9ET6iFF
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
- a perfect being in a perfect place. Unless you have a full-on existential 
- crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
-  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
-  join us as the Egyptian transforms into Barbie World on opening weekend 
- with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
- cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
- all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
- lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
- FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
-  - SELLING QUICKLY7:00pm - SOLD OUT SUNDAY 7/237:00pm - SELLING QUICKLY\n
- \nhttps://www.siff.net/cinema/in-theaters/barbie
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230722T231500Z
-UID:SmPljVQK4o
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
- a perfect being in a perfect place. Unless you have a full-on existential 
- crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
-  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
-  join us as the Egyptian transforms into Barbie World on opening weekend 
- with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
- cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
- all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
- lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
- FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
-  - SELLING QUICKLY7:00pm - SOLD OUT SUNDAY 7/237:00pm - SELLING QUICKLY\n
- \nhttps://www.siff.net/cinema/in-theaters/barbie
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230723T020000Z
-UID:AufKvuo8bG
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
- a perfect being in a perfect place. Unless you have a full-on existential 
- crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
-  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
-  join us as the Egyptian transforms into Barbie World on opening weekend 
- with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
- cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
- ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
- all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
- lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
- FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
-  - SELLING QUICKLY7:00pm - SOLD OUT SUNDAY 7/237:00pm - SELLING QUICKLY\n
- \nhttps://www.siff.net/cinema/in-theaters/barbie
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T223500Z
-DTSTAMP;VALUE=DATE-TIME:20230723T203000Z
+DTSTART:20230723T203000Z
+DTEND:20230723T223500Z
+DTSTAMP:20230723T203000Z
 UID:jatsIhYndY
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -90,9 +27,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230723T231500Z
+DTSTART:20230723T231500Z
+DTEND:20230724T012000Z
+DTSTAMP:20230723T231500Z
 UID:goLNdv04vj
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -111,9 +48,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230724T020000Z
+DTSTART:20230724T020000Z
+DTEND:20230724T040500Z
+DTSTAMP:20230724T020000Z
 UID:Y0TT1keibN
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -132,9 +69,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230724T231500Z
+DTSTART:20230724T231500Z
+DTEND:20230725T012000Z
+DTSTAMP:20230724T231500Z
 UID:oILnQUMjC6
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -153,9 +90,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230725T020000Z
+DTSTART:20230725T020000Z
+DTEND:20230725T040500Z
+DTSTAMP:20230725T020000Z
 UID:wQdMi3f81N
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -174,9 +111,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230725T231500Z
+DTSTART:20230725T231500Z
+DTEND:20230726T012000Z
+DTSTAMP:20230725T231500Z
 UID:hFMCjyf05Y
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -195,9 +132,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230726T020000Z
+DTSTART:20230726T020000Z
+DTEND:20230726T040500Z
+DTSTAMP:20230726T020000Z
 UID:9Gbix2s4yH
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -216,9 +153,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230726T231500Z
+DTSTART:20230726T231500Z
+DTEND:20230727T012000Z
+DTSTAMP:20230726T231500Z
 UID:QsYhpwoTrW
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -237,9 +174,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230727T020000Z
+DTSTART:20230727T020000Z
+DTEND:20230727T040500Z
+DTSTAMP:20230727T020000Z
 UID:K4yPgvaNQh
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -258,9 +195,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230727T231500Z
+DTSTART:20230727T231500Z
+DTEND:20230728T012000Z
+DTSTAMP:20230727T231500Z
 UID:ovAY4pSACP
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -279,9 +216,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230728T020000Z
+DTSTART:20230728T020000Z
+DTEND:20230728T040500Z
+DTSTAMP:20230728T020000Z
 UID:caCZ3Qji69
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -300,9 +237,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230728T231500Z
+DTSTART:20230728T231500Z
+DTEND:20230729T012000Z
+DTSTAMP:20230728T231500Z
 UID:ePaA6u74ZZ
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -321,9 +258,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230729T020000Z
+DTSTART:20230729T020000Z
+DTEND:20230729T040500Z
+DTSTAMP:20230729T020000Z
 UID:jRROWhkH4e
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -342,9 +279,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T223500Z
-DTSTAMP;VALUE=DATE-TIME:20230729T203000Z
+DTSTART:20230729T203000Z
+DTEND:20230729T223500Z
+DTSTAMP:20230729T203000Z
 UID:3K8YvwhyCb
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -363,9 +300,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230729T231500Z
+DTSTART:20230729T231500Z
+DTEND:20230730T012000Z
+DTSTAMP:20230729T231500Z
 UID:OSetOZYjtF
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -384,9 +321,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230730T020000Z
+DTSTART:20230730T020000Z
+DTEND:20230730T040500Z
+DTSTAMP:20230730T020000Z
 UID:CqqdALMJNI
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -405,9 +342,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T223500Z
-DTSTAMP;VALUE=DATE-TIME:20230730T203000Z
+DTSTART:20230730T203000Z
+DTEND:20230730T223500Z
+DTSTAMP:20230730T203000Z
 UID:4ThwjhW0gU
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -426,9 +363,9 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T231500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230731T012000Z
-DTSTAMP;VALUE=DATE-TIME:20230730T231500Z
+DTSTART:20230730T231500Z
+DTEND:20230731T012000Z
+DTSTAMP:20230730T231500Z
 UID:EyEuCdWx0k
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
@@ -447,10 +384,52 @@ LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230731T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230731T040500Z
-DTSTAMP;VALUE=DATE-TIME:20230731T020000Z
+DTSTART:20230731T020000Z
+DTEND:20230731T040500Z
+DTSTAMP:20230731T020000Z
 UID:7kkeQIiXtf
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SOLD OUT SUNDAY 7/237:00pm - SELLING QUICKLY\n
+ \nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART:20230731T231500Z
+DTEND:20230801T012000Z
+DTSTAMP:20230731T231500Z
+UID:8otFZxhBAY
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts
+  are now on sale. SIFF CINEMA BARBIE WORLD - Dress in your Barbie best and
+  join us as the Egyptian transforms into Barbie World on opening weekend 
+ with: • Photo ops on the pink carpet• Free cupcakes from Trophy Cup
+ cakes*• Barbie themed trivia & giveaways• and MORE Barbiecore surpri
+ ses…  *At the July 20 7:00pm screening only OPEN CAPTION SCREENINGS - 
+ all Tuesday and Sunday showtimesSIFF year-round passes and vouchers not va
+ lid until July 30. THURSDAY 7/204:15pm - SELLING QUICKLY7:00pm - SOLD OUT 
+ FRIDAY 7/214:15pm -  SELLING QUICKLY7:00pm - SOLD OUT SATURDAY 7/224:15pm
+  - SELLING QUICKLY7:00pm - SOLD OUT SUNDAY 7/237:00pm - SELLING QUICKLY\n
+ \nhttps://www.siff.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART:20230801T020000Z
+DTEND:20230801T040500Z
+DTSTAMP:20230801T020000Z
+UID:qV9oCbEcNR
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
  a perfect being in a perfect place. Unless you have a full-on existential 
  crisis. Or you’re a Ken. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts

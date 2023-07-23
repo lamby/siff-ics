@@ -1,44 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230722T073218Z
+LAST-MODIFIED:20230723T080455Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230722T221500Z
-UID:Qq0ff6by7U
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
- e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
- 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale. Note: For 35mm screenings\, open and closed captions are 
- not available. Assistive hearing headphones will be available.\n\nhttps://
- www.siff.net/cinema/in-theaters/oppenheimer-35mm
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T052500Z
-DTSTAMP;VALUE=DATE-TIME:20230723T021500Z
-UID:KxJiFAdZZt
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
- e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
- 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale. Note: For 35mm screenings\, open and closed captions are 
- not available. Assistive hearing headphones will be available.\n\nhttps://
- www.siff.net/cinema/in-theaters/oppenheimer-35mm
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T221500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230723T221500Z
+DTSTART:20230723T221500Z
+DTEND:20230724T012500Z
+DTSTAMP:20230723T221500Z
 UID:qycZaQAwp8
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -51,9 +21,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T052500Z
-DTSTAMP;VALUE=DATE-TIME:20230724T021500Z
+DTSTART:20230724T021500Z
+DTEND:20230724T052500Z
+DTSTAMP:20230724T021500Z
 UID:pDCjiDrsrD
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -66,9 +36,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T051000Z
-DTSTAMP;VALUE=DATE-TIME:20230725T020000Z
+DTSTART:20230725T020000Z
+DTEND:20230725T051000Z
+DTSTAMP:20230725T020000Z
 UID:jY4gkMasnb
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -81,9 +51,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T051000Z
-DTSTAMP;VALUE=DATE-TIME:20230726T020000Z
+DTSTART:20230726T020000Z
+DTEND:20230726T051000Z
+DTSTAMP:20230726T020000Z
 UID:ByBBoBRcRg
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -96,9 +66,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T051000Z
-DTSTAMP;VALUE=DATE-TIME:20230727T020000Z
+DTSTART:20230727T020000Z
+DTEND:20230727T051000Z
+DTSTAMP:20230727T020000Z
 UID:SXxlf4OfxM
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -111,9 +81,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T051000Z
-DTSTAMP;VALUE=DATE-TIME:20230728T020000Z
+DTSTART:20230728T020000Z
+DTEND:20230728T051000Z
+DTSTAMP:20230728T020000Z
 UID:limJUpdDxt
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -126,9 +96,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230728T220000Z
+DTSTART:20230728T220000Z
+DTEND:20230729T011000Z
+DTSTAMP:20230728T220000Z
 UID:e7XaIoUV4E
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -141,9 +111,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T052500Z
-DTSTAMP;VALUE=DATE-TIME:20230729T021500Z
+DTSTART:20230729T021500Z
+DTEND:20230729T052500Z
+DTSTAMP:20230729T021500Z
 UID:0BOoqx7qap
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -156,9 +126,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230729T220000Z
+DTSTART:20230729T220000Z
+DTEND:20230730T011000Z
+DTSTAMP:20230729T220000Z
 UID:i9JL5CfQl2
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -171,9 +141,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T052500Z
-DTSTAMP;VALUE=DATE-TIME:20230730T021500Z
+DTSTART:20230730T021500Z
+DTEND:20230730T052500Z
+DTSTAMP:20230730T021500Z
 UID:G3unqpcD6y
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -186,9 +156,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230731T011000Z
-DTSTAMP;VALUE=DATE-TIME:20230730T220000Z
+DTSTART:20230730T220000Z
+DTEND:20230731T011000Z
+DTSTAMP:20230730T220000Z
 UID:RqklgFjEKR
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -201,9 +171,9 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230731T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230731T052500Z
-DTSTAMP;VALUE=DATE-TIME:20230731T021500Z
+DTSTART:20230731T021500Z
+DTEND:20230731T052500Z
+DTSTAMP:20230731T021500Z
 UID:vlRGL9VHRM
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
@@ -212,6 +182,36 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  are now on sale. Note: For 35mm screenings\, open and closed captions are 
  not available. Assistive hearing headphones will be available.\n\nhttps://
  www.siff.net/cinema/in-theaters/oppenheimer-35mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART:20230731T231500Z
+DTEND:20230801T005500Z
+DTSTAMP:20230731T231500Z
+UID:3PsmdkH74I
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART:20230801T023000Z
+DTEND:20230801T041000Z
+DTSTAMP:20230801T023000Z
+UID:so5VeIIOsL
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

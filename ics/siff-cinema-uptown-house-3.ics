@@ -1,63 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230722T073218Z
+LAST-MODIFIED:20230723T080455Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 BEGIN:VEVENT
-SUMMARY:My Little Loves
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230722T213000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230722T234500Z
-DTSTAMP;VALUE=DATE-TIME:20230722T213000Z
-UID:vYWg9ojwZZ
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nThe Dirty Stories of Jean Eustac
- he Beautifully shot in color by Nestor Almendros\, My Little Loves is as 
- powerful and unsentimental a portrait of adolescent male angst as anything
-  by Truffaut or Pialat. New 4k restoration. Individual Tickets: Select sh
- owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
- s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
- f-jean-eustache/my-little-loves
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Numero Zero 
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T023000Z
-DTSTAMP;VALUE=DATE-TIME:20230723T003000Z
-UID:B0Ld2wDBnt
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe Dirty Stories of Jean Eustac
- he Jean Eustache sits down with his grandmother Odette Robert—a key figu
- re in his life and a substitute mother during his youth—for a feature-le
- ngth conversation across a kitchen table. The two discuss the harshness o
- f her rural upbringing\, her troubled marriage\, the deaths of her childre
- n\, and the deprivations of World Wars I and II. The film was truncated to
-  one hour for French television and never shown publicly in its full form 
- during Eustache’s lifetime\; the full version of Numéro Zéro was redis
- covered and reconstructed in 2002. Individual Tickets: Select showtime to
-  purchase.Passes: $90 | $60 SIFF Members - includes full series access
- .\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-of-jean-eu
- stache/numero-zero
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robinson's Place / Santa Claus Has Blue Eyes
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T030000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230723T044000Z
-DTSTAMP;VALUE=DATE-TIME:20230723T030000Z
-UID:HRNL01rnup
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nThe Dirty Stories of Jean Eustach
- e Enjoy a double feature presentation of Jean Eustache's Robinson's Place 
- and Santa Claus Has Blue Eyes. Individual Tickets: Select showtime to pur
- chase.Passes: $90 | $60 SIFF Members - includes full series access.\n\
- nhttps://www.siff.net/programs-and-events/the-dirty-stories-of-jean-eustac
- he/robinsons-place-and-santa-claus-has-blue-eyes
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Mother and the Whore
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230723T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T005000Z
-DTSTAMP;VALUE=DATE-TIME:20230723T210000Z
+DTSTART:20230723T210000Z
+DTEND:20230724T005000Z
+DTSTAMP:20230723T210000Z
 UID:2vmrDOw2uD
 DESCRIPTION:Duration: 219 mins (3h39m)\n\nThe Dirty Stories of Jean Eustac
  he At long last presented in a striking new restoration worthy of the film
@@ -72,9 +23,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Cochon  & 2 shorts
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T013000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230724T032500Z
-DTSTAMP;VALUE=DATE-TIME:20230724T013000Z
+DTSTART:20230724T013000Z
+DTEND:20230724T032500Z
+DTSTAMP:20230724T013000Z
 UID:oEUtiA10ok
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe Dirty Stories of Jean Eustac
  he Co-directed with Jean-Michel Barjol\, Eustache’s film documents the s
@@ -88,9 +39,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230724T234500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T014000Z
-DTSTAMP;VALUE=DATE-TIME:20230724T234500Z
+DTSTART:20230724T234500Z
+DTEND:20230725T014000Z
+DTSTAMP:20230724T234500Z
 UID:YSWhpvpYUd
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
@@ -100,9 +51,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230725T042500Z
-DTSTAMP;VALUE=DATE-TIME:20230725T023000Z
+DTSTART:20230725T023000Z
+DTEND:20230725T042500Z
+DTSTAMP:20230725T023000Z
 UID:CUy783dO8d
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
@@ -112,9 +63,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230725T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230725T233000Z
+DTSTART:20230725T233000Z
+DTEND:20230726T013000Z
+DTSTAMP:20230725T233000Z
 UID:cljcdPF7Q9
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
  e Song (“Endlings”) makes her directorial debut with this beautiful an
@@ -126,9 +77,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230726T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230726T021500Z
+DTSTART:20230726T021500Z
+DTEND:20230726T041000Z
+DTSTAMP:20230726T021500Z
 UID:5Qj435euks
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
@@ -138,9 +89,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230726T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T012500Z
-DTSTAMP;VALUE=DATE-TIME:20230726T233000Z
+DTSTART:20230726T233000Z
+DTEND:20230727T012500Z
+DTSTAMP:20230726T233000Z
 UID:bWahDCRADE
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
  zer convention is spectacularly disrupted by world-changing events in this
@@ -150,9 +101,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T021500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230727T041500Z
-DTSTAMP;VALUE=DATE-TIME:20230727T021500Z
+DTSTART:20230727T021500Z
+DTEND:20230727T041500Z
+DTSTAMP:20230727T021500Z
 UID:myBs35mhi4
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
  e Song (“Endlings”) makes her directorial debut with this beautiful an
@@ -164,9 +115,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Past Lives
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230727T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T013000Z
-DTSTAMP;VALUE=DATE-TIME:20230727T233000Z
+DTSTART:20230727T233000Z
+DTEND:20230728T013000Z
+DTSTAMP:20230727T233000Z
 UID:VYvf8osuHB
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
  e Song (“Endlings”) makes her directorial debut with this beautiful an
@@ -178,9 +129,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater Camp
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T023000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230728T041000Z
-DTSTAMP;VALUE=DATE-TIME:20230728T023000Z
+DTSTART:20230728T023000Z
+DTEND:20230728T041000Z
+DTSTAMP:20230728T023000Z
 UID:tT8dgmERd9
 DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
  ndown AdirondACTS theater camp when their founder falls into a coma\, leav
@@ -193,9 +144,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230728T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T005500Z
-DTSTAMP;VALUE=DATE-TIME:20230728T230000Z
+DTSTART:20230728T230000Z
+DTEND:20230729T005500Z
+DTSTAMP:20230728T230000Z
 UID:VKkt9WmtpF
 DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
@@ -206,9 +157,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T024500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T044000Z
-DTSTAMP;VALUE=DATE-TIME:20230729T024500Z
+DTSTART:20230729T024500Z
+DTEND:20230729T044000Z
+DTSTAMP:20230729T024500Z
 UID:3NUTYUuO4o
 DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
@@ -219,9 +170,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230729T222500Z
-DTSTAMP;VALUE=DATE-TIME:20230729T203000Z
+DTSTART:20230729T203000Z
+DTEND:20230729T222500Z
+DTSTAMP:20230729T203000Z
 UID:p30ZQ2YLf4
 DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
@@ -232,9 +183,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230729T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T005500Z
-DTSTAMP;VALUE=DATE-TIME:20230729T230000Z
+DTSTART:20230729T230000Z
+DTEND:20230730T005500Z
+DTSTAMP:20230729T230000Z
 UID:kF7XJ99Ikk
 DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
@@ -245,9 +196,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T024500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T044000Z
-DTSTAMP;VALUE=DATE-TIME:20230730T024500Z
+DTSTART:20230730T024500Z
+DTEND:20230730T044000Z
+DTSTAMP:20230730T024500Z
 UID:wVnqWsn0DH
 DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
@@ -258,9 +209,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230730T222500Z
-DTSTAMP;VALUE=DATE-TIME:20230730T203000Z
+DTSTART:20230730T203000Z
+DTEND:20230730T222500Z
+DTSTAMP:20230730T203000Z
 UID:eOoQIrPj1y
 DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
@@ -271,9 +222,9 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230730T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230731T005500Z
-DTSTAMP;VALUE=DATE-TIME:20230730T230000Z
+DTSTART:20230730T230000Z
+DTEND:20230731T005500Z
+DTSTAMP:20230730T230000Z
 UID:fUJibKo2QW
 DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
@@ -284,10 +235,36 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20230731T024500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20230731T044000Z
-DTSTAMP;VALUE=DATE-TIME:20230731T024500Z
+DTSTART:20230731T024500Z
+DTEND:20230731T044000Z
+DTSTAMP:20230731T024500Z
 UID:N8SMppMMty
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART:20230731T230000Z
+DTEND:20230801T005500Z
+DTSTAMP:20230731T230000Z
+UID:oOnXuqRIVa
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART:20230801T024500Z
+DTEND:20230801T044000Z
+DTSTAMP:20230801T024500Z
+UID:kRXsSDT2tn
 DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
  unexpected guest disrupts their plans. As the sky turns orange from a near
