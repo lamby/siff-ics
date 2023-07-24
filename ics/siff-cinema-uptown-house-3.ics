@@ -1,42 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230723T080455Z
+LAST-MODIFIED:20230724T064559Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:The Mother and the Whore
-DTSTART:20230723T210000Z
-DTEND:20230724T005000Z
-DTSTAMP:20230723T210000Z
-UID:2vmrDOw2uD
-DESCRIPTION:Duration: 219 mins (3h39m)\n\nThe Dirty Stories of Jean Eustac
- he At long last presented in a striking new restoration worthy of the film
- 's reputation\, Jean Eustache’s hard-to-see masterpiece uses an obsessiv
- e\, talkative ménage à trois as the jumping-off point for an intense exp
- loration of sexual politics among liberated yet alienated moderns. New 4k 
- restoration. Individual Tickets: Select showtime to purchase.Passes: $90 
- | $60 SIFF Members - includes full series access.\n\nhttps://www.siff.
- net/programs-and-events/the-dirty-stories-of-jean-eustache/the-mother-and-
- the-whore
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Cochon  & 2 shorts
-DTSTART:20230724T013000Z
-DTEND:20230724T032500Z
-DTSTAMP:20230724T013000Z
-UID:oEUtiA10ok
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe Dirty Stories of Jean Eustac
- he Co-directed with Jean-Michel Barjol\, Eustache’s film documents the s
- laughter of a pig and its subsequent conversion into sausages on a small F
- rench farm in the Massif Central. Subtitles are not available for Le Cocho
- n\, since it was filmed in a local dialect. Individual Tickets: Select sh
- owtime to purchase.Passes: $90 | $60 SIFF Members - includes full serie
- s access.\n\nhttps://www.siff.net/programs-and-events/the-dirty-stories-o
- f-jean-eustache/le-cochon-and-shorts
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART:20230724T234500Z
@@ -265,6 +232,32 @@ DTSTART:20230801T024500Z
 DTEND:20230801T044000Z
 DTSTAMP:20230801T024500Z
 UID:kRXsSDT2tn
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART:20230801T230000Z
+DTEND:20230802T005500Z
+DTSTAMP:20230801T230000Z
+UID:g4B1ayWhJV
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART:20230802T024500Z
+DTEND:20230802T044000Z
+DTSTAMP:20230802T024500Z
+UID:br8NL9sJV7
 DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
  unexpected guest disrupts their plans. As the sky turns orange from a near

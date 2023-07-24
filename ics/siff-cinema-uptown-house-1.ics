@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230723T080455Z
+LAST-MODIFIED:20230724T064559Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Oppenheimer 35mm
-DTSTART:20230723T221500Z
-DTEND:20230724T012500Z
-DTSTAMP:20230723T221500Z
-UID:qycZaQAwp8
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
- e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm. Collectible 35mm filmstrips will be given out at the 7:1
- 5pm screening on July 21. July SIFF Shop Exclusive: BARBIEHEIMER T-shirts 
- are now on sale. Note: For 35mm screenings\, open and closed captions are 
- not available. Assistive hearing headphones will be available.\n\nhttps://
- www.siff.net/cinema/in-theaters/oppenheimer-35mm
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer 35mm
 DTSTART:20230724T021500Z
@@ -205,6 +190,36 @@ DTSTART:20230801T023000Z
 DTEND:20230801T041000Z
 DTSTAMP:20230801T023000Z
 UID:so5VeIIOsL
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART:20230801T231500Z
+DTEND:20230802T005500Z
+DTSTAMP:20230801T231500Z
+UID:3A3BGGQEL9
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities.\n\nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART:20230802T023000Z
+DTEND:20230802T041000Z
+DTSTAMP:20230802T023000Z
+UID:TsAJt7UJpw
 DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
  ndown AdirondACTS theater camp when their founder falls into a coma\, leav
  ing the counselors\, a clueless new owner\, and an eccentric ensemble of i

@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230723T080455Z
+LAST-MODIFIED:20230724T064559Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
-BEGIN:VEVENT
-SUMMARY:NT Live: Hamlet
-DTSTART:20230723T183000Z
-DTEND:20230723T222000Z
-DTSTAMP:20230723T183000Z
-UID:mtndL3oJ5D
-DESCRIPTION:Duration: 220 mins (3h40m)\n\nStage to Screen Benedict Cumberb
- atch (Doctor Strange\, Sherlock\, The Power of the Dog) plays the title ro
- le of Shakespeare's great tragedy.\n\nhttps://www.siff.net/programs-and-ev
- ents/stage-to-screen/nt-live-hamlet
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: Hamlet
 DTSTART:20230725T013000Z
