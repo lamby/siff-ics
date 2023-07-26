@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230725T074332Z
+LAST-MODIFIED:20230726T054533Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART:20230725T233000Z
-DTEND:20230726T013000Z
-DTSTAMP:20230725T233000Z
-UID:cljcdPF7Q9
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART:20230726T021500Z
@@ -272,6 +258,32 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
  ose who are susceptible to photosensitive epilepsy or have other photosens
  itivities. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\
  nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART:20230803T230000Z
+DTEND:20230804T005500Z
+DTSTAMP:20230803T230000Z
+UID:g5R67x1ZFt
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART:20230804T024500Z
+DTEND:20230804T044000Z
+DTSTAMP:20230804T024500Z
+UID:Z2gtfHO4Wl
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

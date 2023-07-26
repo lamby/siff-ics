@@ -1,25 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230725T074333Z
+LAST-MODIFIED:20230726T054533Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART:20230725T231500Z
-DTEND:20230726T012000Z
-DTSTAMP:20230725T231500Z
-UID:hFMCjyf05Y
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
- a perfect being in a perfect place. Unless you have a full-on existential 
- crisis. Or you’re a Ken. SIFF Cinema Barbie World:  Dress in your Barbie
-  best and join us for photo ops in our lifesized Barbie box Children ages 
- 6-14 now get in for $8\, a new ticket price offering just for the young Ba
- rbies and Kens Get your BARBIEHEIMER t-shirt at the SIFF Shop\, exclusive 
- for July OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimesSIFF 
- year-round passes and vouchers not valid until July 30.\n\nhttps://www.sif
- f.net/cinema/in-theaters/barbie
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+SUMMARY:NT Live: Hamlet
+DTSTART:20230726T013000Z
+DTEND:20230726T052000Z
+DTSTAMP:20230726T013000Z
+UID:EIP236B8xQ
+DESCRIPTION:Duration: 220 mins (3h40m)\n\nStage to Screen Benedict Cumberb
+ atch (Doctor Strange\, Sherlock\, The Power of the Dog) plays the title ro
+ le of Shakespeare's great tragedy.\n\nhttps://www.siff.net/programs-and-ev
+ ents/stage-to-screen/nt-live-hamlet
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
@@ -39,47 +34,34 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART:20230725T233000Z
-DTEND:20230726T013000Z
-DTSTAMP:20230725T233000Z
-UID:cljcdPF7Q9
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
+SUMMARY:Oppenheimer
+DTSTART:20230726T020000Z
+DTEND:20230726T051000Z
+DTSTAMP:20230726T020000Z
+UID:ByBBoBRcRg
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART:20230726T021500Z
+DTEND:20230726T041000Z
+DTSTAMP:20230726T021500Z
+UID:5Qj435euks
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
+ zer convention is spectacularly disrupted by world-changing events in this
+  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
+ unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Hamlet
-DTSTART:20230726T013000Z
-DTEND:20230726T052000Z
-DTSTAMP:20230726T013000Z
-UID:EIP236B8xQ
-DESCRIPTION:Duration: 220 mins (3h40m)\n\nStage to Screen Benedict Cumberb
- atch (Doctor Strange\, Sherlock\, The Power of the Dog) plays the title ro
- le of Shakespeare's great tragedy.\n\nhttps://www.siff.net/programs-and-ev
- ents/stage-to-screen/nt-live-hamlet
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Film Project
-DTSTART:20230726T013000Z
-DTEND:20230726T034000Z
-DTSTAMP:20230726T013000Z
-UID:eQWGxWpbSL
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Seattle 48 Hour Film Project
-  returns for its 19th year featuring 80 films by local filmmakers all crea
- ted during the weekend of July 14-16\, 2023. Filmmakers are tasked with 4 
- required elements that must be used in the creation of a 4-7 minute short 
- film completely from scratch all within a 48 hour time frame. Individual T
- ickets: Select showtime to purchase.Passes: $60 | $50 SIFF Members - inc
- ludes access to all in-person Seattle 48 Hour Film Project screenings.\n\
- nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-project-x301
- 77
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle 48 Hour Film Project
@@ -97,34 +79,6 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Seattle 48 Hour Film Project
  nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-project-x301
  77
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART:20230726T020000Z
-DTEND:20230726T051000Z
-DTSTAMP:20230726T020000Z
-UID:ByBBoBRcRg
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
- e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART:20230726T021500Z
-DTEND:20230726T041000Z
-DTSTAMP:20230726T021500Z
-UID:5Qj435euks
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
@@ -214,12 +168,14 @@ DTSTAMP:20230727T020000Z
 UID:SXxlf4OfxM
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -326,12 +282,14 @@ DTSTAMP:20230728T020000Z
 UID:limJUpdDxt
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -358,12 +316,14 @@ DTSTAMP:20230728T220000Z
 UID:e7XaIoUV4E
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -374,12 +334,14 @@ DTSTAMP:20230729T021500Z
 UID:0BOoqx7qap
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -620,12 +582,14 @@ DTSTAMP:20230729T220000Z
 UID:i9JL5CfQl2
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -636,12 +600,14 @@ DTSTAMP:20230730T021500Z
 UID:G3unqpcD6y
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -790,12 +756,14 @@ DTSTAMP:20230730T220000Z
 UID:RqklgFjEKR
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -806,12 +774,14 @@ DTSTAMP:20230731T021500Z
 UID:vlRGL9VHRM
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -914,12 +884,14 @@ DTSTAMP:20230801T020000Z
 UID:xrti0awAtJ
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1022,12 +994,14 @@ DTSTAMP:20230802T020000Z
 UID:LN0oPWQOdT
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1135,12 +1109,124 @@ DTSTAMP:20230803T020000Z
 UID:nXE9UsxCrC
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. P
- resented on 35mm through July 30. July SIFF Shop Exclusive: BARBIEHEIMER T
- -shirts are now on sale. Note: For 35mm screenings\, open and closed capti
- ons are not available. Assistive hearing headphones will be available. Ope
- n Caption screenings on Tuesdays and Sundays will begin August 1 when the 
- format changes to digital.\n\nhttps://www.siff.net/cinema/in-theaters/oppe
- nheimer-35mm
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART:20230803T230000Z
+DTEND:20230804T005500Z
+DTSTAMP:20230803T230000Z
+UID:g5R67x1ZFt
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afire
+DTSTART:20230804T024500Z
+DTEND:20230804T044000Z
+DTSTAMP:20230804T024500Z
+UID:Z2gtfHO4Wl
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
+ r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
+ unexpected guest disrupts their plans. As the sky turns orange from a near
+ by forest fire\, it’s clear that trees aren’t the only thing burning.\
+ n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART:20230803T231500Z
+DTEND:20230804T012000Z
+DTSTAMP:20230803T231500Z
+UID:m7Kb9gn2NM
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. SIFF Cinema Barbie World:  Dress in your Barbie
+  best and join us for photo ops in our lifesized Barbie box Children ages 
+ 6-14 now get in for $8\, a new ticket price offering just for the young Ba
+ rbies and Kens Get your BARBIEHEIMER t-shirt at the SIFF Shop\, exclusive 
+ for July OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimesSIFF 
+ year-round passes and vouchers not valid until July 30.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART:20230804T020000Z
+DTEND:20230804T040500Z
+DTSTAMP:20230804T020000Z
+UID:G5LqK1sLfu
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
+ a perfect being in a perfect place. Unless you have a full-on existential 
+ crisis. Or you’re a Ken. SIFF Cinema Barbie World:  Dress in your Barbie
+  best and join us for photo ops in our lifesized Barbie box Children ages 
+ 6-14 now get in for $8\, a new ticket price offering just for the young Ba
+ rbies and Kens Get your BARBIEHEIMER t-shirt at the SIFF Shop\, exclusive 
+ for July OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimesSIFF 
+ year-round passes and vouchers not valid until July 30.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/barbie
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART:20230803T231500Z
+DTEND:20230804T005500Z
+DTSTAMP:20230803T231500Z
+UID:SgULbMehnr
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\
+ nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART:20230804T023000Z
+DTEND:20230804T041000Z
+DTSTAMP:20230804T023000Z
+UID:ESZbBjpQ9w
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\
+ nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART:20230804T020000Z
+DTEND:20230804T051000Z
+DTSTAMP:20230804T020000Z
+UID:Vmo0GZU5NJ
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. P
+ resented on 35mm through July 30. On Friday\, July 28\, the first four pat
+ rons who purchase any concessions from the Uptown will receive an Oppenhei
+ mer t-shirt. First come\, first served. July SIFF Shop Exclusive: BARBIEHE
+ IMER T-shirts are now on sale. Note: For 35mm screenings\, open and closed
+  captions are not available. Assistive hearing headphones will be availabl
+ e. Open Caption screenings on Tuesdays and Sundays will begin August 1 whe
+ n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
+ s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
