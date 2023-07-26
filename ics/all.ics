@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230726T054533Z
+LAST-MODIFIED:20230726T060125Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
 BEGIN:VEVENT
@@ -15,23 +15,6 @@ DESCRIPTION:Duration: 220 mins (3h40m)\n\nStage to Screen Benedict Cumberb
  le of Shakespeare's great tragedy.\n\nhttps://www.siff.net/programs-and-ev
  ents/stage-to-screen/nt-live-hamlet
 LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART:20230726T020000Z
-DTEND:20230726T040500Z
-DTSTAMP:20230726T020000Z
-UID:9Gbix2s4yH
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nTo live in Barbie Land is to be 
- a perfect being in a perfect place. Unless you have a full-on existential 
- crisis. Or you’re a Ken. SIFF Cinema Barbie World:  Dress in your Barbie
-  best and join us for photo ops in our lifesized Barbie box Children ages 
- 6-14 now get in for $8\, a new ticket price offering just for the young Ba
- rbies and Kens Get your BARBIEHEIMER t-shirt at the SIFF Shop\, exclusive 
- for July OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimesSIFF 
- year-round passes and vouchers not valid until July 30.\n\nhttps://www.sif
- f.net/cinema/in-theaters/barbie
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
@@ -50,18 +33,6 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  n the format changes to digital.\n\nhttps://www.siff.net/cinema/in-theater
  s/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART:20230726T021500Z
-DTEND:20230726T041000Z
-DTSTAMP:20230726T021500Z
-UID:5Qj435euks
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle 48 Hour Film Project

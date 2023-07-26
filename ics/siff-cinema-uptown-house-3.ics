@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230726T054533Z
+LAST-MODIFIED:20230726T060125Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART:20230726T021500Z
-DTEND:20230726T041000Z
-DTSTAMP:20230726T021500Z
-UID:5Qj435euks
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART:20230726T233000Z
