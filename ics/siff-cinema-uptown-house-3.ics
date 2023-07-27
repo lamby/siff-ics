@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230726T060125Z
+LAST-MODIFIED:20230727T064803Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART:20230726T233000Z
-DTEND:20230727T012500Z
-DTSTAMP:20230726T233000Z
-UID:bWahDCRADE
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nThe itinerary of a Junior Starga
- zer convention is spectacularly disrupted by world-changing events in this
-  new film from Wes Anderson. OPEN CAPTION SCREENINGS - all Tuesday and S
- unday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/asteroid-city
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART:20230727T021500Z
-DTEND:20230727T041500Z
-DTSTAMP:20230727T021500Z
-UID:myBs35mhi4
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Past Lives
 DTSTART:20230727T233000Z
@@ -39,9 +13,8 @@ UID:VYvf8osuHB
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
  e Song (“Endlings”) makes her directorial debut with this beautiful an
  d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation. OPEN CAPTION S
- CREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/cinem
- a/in-theaters/past-lives
+ od best friends reunite years after an untimely separation.\n\nhttps://www
+ .siff.net/cinema/in-theaters/past-lives
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -272,6 +245,34 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
  unexpected guest disrupts their plans. As the sky turns orange from a near
  by forest fire\, it’s clear that trees aren’t the only thing burning.\
  n\nhttps://www.siff.net/cinema/in-theaters/afire
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest
+DTSTART:20230804T233000Z
+DTEND:20230805T005500Z
+DTSTAMP:20230804T233000Z
+UID:BRGCBaZVix
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nJoin us this summer for a fun\, f
+ amily-friendly night at the movies that raises money for local cats in nee
+ d! One dollar of each ticket sale goes to support PAWS (​​Progressiv
+ e Animal Welfare Society). All ages welcome. Presented in partnership with
+  CatVideoFest.\n\nhttps://www.siff.net/cinema/in-theaters/catvideofest-202
+ 3
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest
+DTSTART:20230805T023000Z
+DTEND:20230805T035500Z
+DTSTAMP:20230805T023000Z
+UID:1KfdLcI6Ko
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nJoin us this summer for a fun\, f
+ amily-friendly night at the movies that raises money for local cats in nee
+ d! One dollar of each ticket sale goes to support PAWS (​​Progressiv
+ e Animal Welfare Society). All ages welcome. Presented in partnership with
+  CatVideoFest.\n\nhttps://www.siff.net/cinema/in-theaters/catvideofest-202
+ 3
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
