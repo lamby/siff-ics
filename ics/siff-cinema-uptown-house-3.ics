@@ -1,64 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230727T064803Z
+LAST-MODIFIED:20230729T075449Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART:20230727T233000Z
-DTEND:20230728T013000Z
-DTSTAMP:20230727T233000Z
-UID:VYvf8osuHB
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nKorean-Canadian playwright Celin
- e Song (“Endlings”) makes her directorial debut with this beautiful an
- d delicate romance about the depth of love and connection\, as two childho
- od best friends reunite years after an untimely separation.\n\nhttps://www
- .siff.net/cinema/in-theaters/past-lives
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART:20230728T023000Z
-DTEND:20230728T041000Z
-DTSTAMP:20230728T023000Z
-UID:tT8dgmERd9
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
- ndown AdirondACTS theater camp when their founder falls into a coma\, leav
- ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
- mpressionable kids scrambling to put together the best summer show possibl
- e. Theater Camp contains sequences with flashing lights that may affect th
- ose who are susceptible to photosensitive epilepsy or have other photosens
- itivities. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\
- nhttps://www.siff.net/cinema/in-theaters/theater-camp
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230728T230000Z
-DTEND:20230729T005500Z
-DTSTAMP:20230728T230000Z
-UID:VKkt9WmtpF
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230729T024500Z
-DTEND:20230729T044000Z
-DTSTAMP:20230729T024500Z
-UID:3NUTYUuO4o
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
 DTSTART:20230729T203000Z
@@ -273,6 +218,88 @@ DESCRIPTION:Duration: 75 mins (1h15m)\n\nJoin us this summer for a fun\, f
  e Animal Welfare Society). All ages welcome. Presented in partnership with
   CatVideoFest.\n\nhttps://www.siff.net/cinema/in-theaters/catvideofest-202
  3
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest
+DTSTART:20230805T200000Z
+DTEND:20230805T212500Z
+DTSTAMP:20230805T200000Z
+UID:TLciemMl3v
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nJoin us this summer for a fun\, f
+ amily-friendly night at the movies that raises money for local cats in nee
+ d! One dollar of each ticket sale goes to support PAWS (​​Progressiv
+ e Animal Welfare Society). All ages welcome. Presented in partnership with
+  CatVideoFest.\n\nhttps://www.siff.net/cinema/in-theaters/catvideofest-202
+ 3
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest
+DTSTART:20230805T233000Z
+DTEND:20230806T005500Z
+DTSTAMP:20230805T233000Z
+UID:7ORUjOtlZd
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nJoin us this summer for a fun\, f
+ amily-friendly night at the movies that raises money for local cats in nee
+ d! One dollar of each ticket sale goes to support PAWS (​​Progressiv
+ e Animal Welfare Society). All ages welcome. Presented in partnership with
+  CatVideoFest.\n\nhttps://www.siff.net/cinema/in-theaters/catvideofest-202
+ 3
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola
+DTSTART:20230806T023000Z
+DTEND:20230806T034000Z
+DTSTAMP:20230806T023000Z
+UID:hpFtZPD70t
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nA crackling speculative fiction o
+ ut of Ireland about two sisters\, circa 1941\, who build a machine that pi
+ cks up broadcasts from the future. But when they realize they can change t
+ he course of World War II\, a terrible butterfly effect is set into motion
+ .\n\nhttps://www.siff.net/cinema/in-theaters/lola
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest
+DTSTART:20230806T200000Z
+DTEND:20230806T212500Z
+DTSTAMP:20230806T200000Z
+UID:66rDf8KqGg
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nJoin us this summer for a fun\, f
+ amily-friendly night at the movies that raises money for local cats in nee
+ d! One dollar of each ticket sale goes to support PAWS (​​Progressiv
+ e Animal Welfare Society). All ages welcome. Presented in partnership with
+  CatVideoFest.\n\nhttps://www.siff.net/cinema/in-theaters/catvideofest-202
+ 3
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest
+DTSTART:20230806T233000Z
+DTEND:20230807T005500Z
+DTSTAMP:20230806T233000Z
+UID:OekUsOWJBE
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nJoin us this summer for a fun\, f
+ amily-friendly night at the movies that raises money for local cats in nee
+ d! One dollar of each ticket sale goes to support PAWS (​​Progressiv
+ e Animal Welfare Society). All ages welcome. Presented in partnership with
+  CatVideoFest.\n\nhttps://www.siff.net/cinema/in-theaters/catvideofest-202
+ 3
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola
+DTSTART:20230807T023000Z
+DTEND:20230807T034000Z
+DTSTAMP:20230807T023000Z
+UID:IGpY1dhuSU
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nA crackling speculative fiction o
+ ut of Ireland about two sisters\, circa 1941\, who build a machine that pi
+ cks up broadcasts from the future. But when they realize they can change t
+ he course of World War II\, a terrible butterfly effect is set into motion
+ .\n\nhttps://www.siff.net/cinema/in-theaters/lola
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
