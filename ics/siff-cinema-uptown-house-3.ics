@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230729T075449Z
+LAST-MODIFIED:20230730T060807Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230729T203000Z
-DTEND:20230729T222500Z
-DTSTAMP:20230729T203000Z
-UID:p30ZQ2YLf4
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230729T230000Z
-DTEND:20230730T005500Z
-DTSTAMP:20230729T230000Z
-UID:kF7XJ99Ikk
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
 DTSTART:20230730T024500Z
@@ -295,6 +269,19 @@ DTSTART:20230807T023000Z
 DTEND:20230807T034000Z
 DTSTAMP:20230807T023000Z
 UID:IGpY1dhuSU
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nA crackling speculative fiction o
+ ut of Ireland about two sisters\, circa 1941\, who build a machine that pi
+ cks up broadcasts from the future. But when they realize they can change t
+ he course of World War II\, a terrible butterfly effect is set into motion
+ .\n\nhttps://www.siff.net/cinema/in-theaters/lola
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola
+DTSTART:20230807T233000Z
+DTEND:20230808T004000Z
+DTSTAMP:20230807T233000Z
+UID:whoIj8OAvB
 DESCRIPTION:Duration: 60 mins (1h00m)\n\nA crackling speculative fiction o
  ut of Ireland about two sisters\, circa 1941\, who build a machine that pi
  cks up broadcasts from the future. But when they realize they can change t
