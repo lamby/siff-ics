@@ -1,87 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230730T060807Z
+LAST-MODIFIED:20230801T071933Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230730T024500Z
-DTEND:20230730T044000Z
-DTSTAMP:20230730T024500Z
-UID:wVnqWsn0DH
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230730T203000Z
-DTEND:20230730T222500Z
-DTSTAMP:20230730T203000Z
-UID:eOoQIrPj1y
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230730T230000Z
-DTEND:20230731T005500Z
-DTSTAMP:20230730T230000Z
-UID:fUJibKo2QW
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230731T024500Z
-DTEND:20230731T044000Z
-DTSTAMP:20230731T024500Z
-UID:N8SMppMMty
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230731T230000Z
-DTEND:20230801T005500Z
-DTSTAMP:20230731T230000Z
-UID:oOnXuqRIVa
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230801T024500Z
-DTEND:20230801T044000Z
-DTSTAMP:20230801T024500Z
-UID:kRXsSDT2tn
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afire
 DTSTART:20230801T230000Z
@@ -287,6 +209,48 @@ DESCRIPTION:Duration: 60 mins (1h00m)\n\nA crackling speculative fiction o
  cks up broadcasts from the future. But when they realize they can change t
  he course of World War II\, a terrible butterfly effect is set into motion
  .\n\nhttps://www.siff.net/cinema/in-theaters/lola
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART:20230808T234500Z
+DTEND:20230809T012500Z
+DTSTAMP:20230808T234500Z
+UID:5k0qX3hr6h
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nIt seems like curtains for the ru
+ ndown AdirondACTS theater camp when their founder falls into a coma\, leav
+ ing the counselors\, a clueless new owner\, and an eccentric ensemble of i
+ mpressionable kids scrambling to put together the best summer show possibl
+ e. Theater Camp contains sequences with flashing lights that may affect th
+ ose who are susceptible to photosensitive epilepsy or have other photosens
+ itivities. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\
+ nhttps://www.siff.net/cinema/in-theaters/theater-camp
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola
+DTSTART:20230809T023000Z
+DTEND:20230809T034000Z
+DTSTAMP:20230809T023000Z
+UID:ubljIVwths
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nA crackling speculative fiction o
+ ut of Ireland about two sisters\, circa 1941\, who build a machine that pi
+ cks up broadcasts from the future. But when they realize they can change t
+ he course of World War II\, a terrible butterfly effect is set into motion
+ .\n\nhttps://www.siff.net/cinema/in-theaters/lola
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART:20230810T013000Z
+DTEND:20230810T044000Z
+DTSTAMP:20230810T013000Z
+UID:VtAehCJ4hy
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. Pr
+ esented on 35mm through 8/3. July SIFF Shop Exclusive: BARBIEHEIMER T-shir
+ ts are now on sale. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sho
+ wtimes\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35mm
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
