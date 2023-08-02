@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230801T071933Z
+LAST-MODIFIED:20230802T064358Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230801T230000Z
-DTEND:20230802T005500Z
-DTSTAMP:20230801T230000Z
-UID:g4B1ayWhJV
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afire
-DTSTART:20230802T024500Z
-DTEND:20230802T044000Z
-DTSTAMP:20230802T024500Z
-UID:br8NL9sJV7
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nLeon and Felix travel to a summe
- r home near the Baltic Sea hoping to dive into creative pursuits\, but an 
- unexpected guest disrupts their plans. As the sky turns orange from a near
- by forest fire\, it’s clear that trees aren’t the only thing burning.\
- n\nhttps://www.siff.net/cinema/in-theaters/afire
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater Camp
 DTSTART:20230802T231500Z
@@ -248,9 +222,22 @@ DTSTAMP:20230810T013000Z
 UID:VtAehCJ4hy
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
  e enigmatic man who must risk destroying the world in order to save it. Pr
- esented on 35mm through 8/3. July SIFF Shop Exclusive: BARBIEHEIMER T-shir
- ts are now on sale. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sho
- wtimes\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-35mm
+ esented on 35mm through Aug 3. OPEN CAPTION SCREENINGS - all Tuesday and
+  Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-3
+ 5mm
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART:20230811T013000Z
+DTEND:20230811T044000Z
+DTSTAMP:20230811T013000Z
+UID:IVl3VH2u11
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nThe pulse-pounding paradox of th
+ e enigmatic man who must risk destroying the world in order to save it. Pr
+ esented on 35mm through Aug 3. OPEN CAPTION SCREENINGS - all Tuesday and
+  Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/oppenheimer-3
+ 5mm
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
