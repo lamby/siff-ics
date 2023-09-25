@@ -1,59 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230924T194507Z
+LAST-MODIFIED:20230925T153553Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Invasion of the Body Snatchers
-DTSTART:20230924T200000Z
-DTEND:20230924T220500Z
-DTSTAMP:20230924T200000Z
-UID:WrtbXrSATZ
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nThey Came From Outer Space A mys
- terious alien presence begins replacing humans with emotionless duplicates
- . As fear and paranoia grip San Francisco\, psychiatrist Dr. Matthew Benne
- ll (Donald Sutherland) must navigate a terrifying world where trust is sca
- rce\, and survival is uncertain. Brace yourself for a gripping tale of sus
- pense and suspicion. 4k restoration. Individual Tickets: Select showtime 
- to purchase.Passes: $100 | $75 SIFF Members - includes full series access
- \n\nhttps://www.siff.net/programs-and-events/they-came-from-outer-space/in
- vasion-of-the-body-snatchers
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arrival
-DTSTART:20230924T230000Z
-DTEND:20230925T011000Z
-DTSTAMP:20230924T230000Z
-UID:eILKVj3t75
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nThey Came From Outer Space Lingu
- istics expert Dr. Louise Banks (Amy Adams) deciphers an alien language whe
- n mysterious spacecrafts land on Earth. As she unravels their intentions\,
-  she experiences mind-bending revelations about time and humanity's future
- . A visually stunning and intellectually captivating exploration of commun
- ication and connection. Individual Tickets: Select showtime to purchase.P
- asses: $100 | $75 SIFF Members - includes full series access\n\nhttps://w
- ww.siff.net/programs-and-events/they-came-from-outer-space/arrival
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Blob (1958)
-DTSTART:20230925T020000Z
-DTEND:20230925T034000Z
-DTSTAMP:20230925T020000Z
-UID:msnbs92Zlb
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nThey Came From Outer Space In the
-  1958 sci-fi horror The Blob\, a small town is terrorized when a gelatinou
- s alien entity crash-lands from space. As it devours everything in its pat
- h\, a brave teenager must lead the fight to stop the ravenous menace from 
- consuming their community. A classic tale of fear and survival unfolds. A 
- double feature presentation of The Blob (1958) and The Blob (1988) will
-  be shown on September 2. Individual Tickets: Select showtime to purchase
- .Passes: $100 | $75 SIFF Members - includes full series access\n\nhttps:/
- /www.siff.net/programs-and-events/they-came-from-outer-space/the-blob-1958
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Men in Black
 DTSTART:20230926T020000Z
@@ -200,6 +150,19 @@ DESCRIPTION:Duration: 75 mins (1h15m)\n\nScarecrowber Mary Shelley reveals
   the main characters of her novel survived: Dr. Frankenstein\, goaded by a
  n even madder scientist\, builds his monster a mate.\n\nhttps://www.siff.n
  et/programs-and-events/scarecrowber/the-bride-of-frankenstein
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula
+DTSTART:20231004T013000Z
+DTEND:20231004T035000Z
+DTSTAMP:20231004T013000Z
+UID:M8JVOyNZNf
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nScarecrowber The centuries old v
+ ampire Count Dracula comes to England to seduce his barrister Jonathan Har
+ ker's fiancée Mina Murray and inflict havoc in the foreign land. Present
+ ed in 4k.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/bram-st
+ okers-dracula
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

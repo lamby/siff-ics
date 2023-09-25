@@ -1,45 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230924T194507Z
+LAST-MODIFIED:20230925T153553Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230924T201500Z
-DTEND:20230924T223000Z
-DTSTAMP:20230924T201500Z
-UID:aBtS4ugiUD
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230924T231500Z
-DTEND:20230925T013000Z
-DTSTAMP:20230924T231500Z
-UID:mM5gGcIgpE
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230925T020000Z
-DTEND:20230925T041500Z
-DTSTAMP:20230925T020000Z
-UID:FkwKsKk0RQ
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART:20230925T231500Z
