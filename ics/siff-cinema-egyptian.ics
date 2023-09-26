@@ -1,25 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230925T153553Z
+LAST-MODIFIED:20230926T103201Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Men in Black
-DTSTART:20230926T020000Z
-DTEND:20230926T035000Z
-DTSTAMP:20230926T020000Z
-UID:9ybtrHi2KB
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nThey Came From Outer Space NYPD o
- fficer James Edwards (Will Smith) becomes Agent J\, joining a top-secret a
- gency that polices alien activity on Earth. Partnered with the no-nonsense
-  Agent K (Tommy Lee Jones)\, they embark on a wild and wacky adventure to 
- protect the world from extraterrestrial threats. Individual Tickets: Sele
- ct showtime to purchase.Passes: $100 | $75 SIFF Members - includes full s
- eries access\n\nhttps://www.siff.net/programs-and-events/they-came-from-ou
- ter-space/men-in-black
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Attack the Block
 DTSTART:20230927T020000Z
@@ -161,8 +145,8 @@ UID:M8JVOyNZNf
 DESCRIPTION:Duration: 128 mins (2h08m)\n\nScarecrowber The centuries old v
  ampire Count Dracula comes to England to seduce his barrister Jonathan Har
  ker's fiancée Mina Murray and inflict havoc in the foreign land. Present
- ed in 4k.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/bram-st
- okers-dracula
+ ed in 4k. October 3 screening introduced by Matt Lynch.\n\nhttps://www.sif
+ f.net/programs-and-events/scarecrowber/bram-stokers-dracula
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
