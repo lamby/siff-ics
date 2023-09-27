@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230926T103201Z
+LAST-MODIFIED:20230927T055320Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Mutt
-DTSTART:20230926T224500Z
-DTEND:20230927T002500Z
-DTSTAMP:20230926T224500Z
-UID:bxs8yaPylM
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nFeña (Sundance award-winner Lío
-  Mehiel)\, still early in his transition\, must navigate how he’s percei
- ved by people from his past\, including his ex-boyfriend\, his half-sister
- \, and his out-of-touch father over one long\, hectic summer day in New Yo
- rk City. New American Cinema Competition: Grand Jury Prize (Seattle Inter
- national Film Festival 2023).\n\nhttps://www.siff.net/cinema/in-theaters/m
- utt
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mutt
 DTSTART:20230927T233000Z
@@ -263,6 +248,30 @@ DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
  hemes of family\, patriarchy\, and deception in a tense household from dir
  ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
  n-of-evil
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART:20231005T231500Z
+DTEND:20231006T010000Z
+DTSTAMP:20231005T231500Z
+UID:uXKfAiY3on
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
+ ls in their senior year who start a fight club to try to impress and hook 
+ up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
+ howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART:20231006T021500Z
+DTEND:20231006T040000Z
+DTSTAMP:20231006T021500Z
+UID:QPFG54D8Fc
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
+ ls in their senior year who start a fight club to try to impress and hook 
+ up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
+ howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

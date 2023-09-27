@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230926T103201Z
+LAST-MODIFIED:20230927T055320Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230926T234500Z
-DTEND:20230927T013000Z
-DTSTAMP:20230926T234500Z
-UID:EFmiHppm1r
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230927T021500Z
-DTEND:20230927T040000Z
-DTSTAMP:20230927T021500Z
-UID:JXWvdb984P
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bottoms
 DTSTART:20230927T234500Z
@@ -243,6 +219,35 @@ DTSTART:20231005T023000Z
 DTEND:20231005T041000Z
 DTSTAMP:20231005T023000Z
 UID:DpHtLVWWdS
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nThe greatest concert film of all 
+ time\, Stop Making Sense brings to the screen Talking Heads at Hollywood's
+  Pantages Theater in December 1983: David Byrne\, Tina Weymouth\, Chris Fr
+ antz\, and Jerry Harrison\, alongside an ecstatic ensemble of supporting m
+ usicians. Renowned filmmaker Jonathan Demme (Silence of the Lambs) capture
+ s the band at their exhilarating best\, in this new and complete restorati
+ on for the film's 40th anniversary. 40th Anniversary Restoration. OPEN CA
+ PTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.
+ net/cinema/in-theaters/stop-making-sense
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Origin of Evil
+DTSTART:20231005T230000Z
+DTEND:20231006T011500Z
+DTSTAMP:20231005T230000Z
+UID:JbGR2MFF8U
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
+ hemes of family\, patriarchy\, and deception in a tense household from dir
+ ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
+ n-of-evil
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense
+DTSTART:20231006T023000Z
+DTEND:20231006T041000Z
+DTSTAMP:20231006T023000Z
+UID:WBpMhMIqkY
 DESCRIPTION:Duration: 88 mins (1h28m)\n\nThe greatest concert film of all 
  time\, Stop Making Sense brings to the screen Talking Heads at Hollywood's
   Pantages Theater in December 1983: David Byrne\, Tina Weymouth\, Chris Fr

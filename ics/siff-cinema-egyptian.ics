@@ -1,25 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230926T103201Z
+LAST-MODIFIED:20230927T055320Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Attack the Block
-DTSTART:20230927T020000Z
-DTEND:20230927T034000Z
-DTSTAMP:20230927T020000Z
-UID:DXX6I8ZPSZ
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nThey Came From Outer Space A Sout
- h London housing estate becomes a battleground when a gang of young delinq
- uents\, led by Moses (John Boyega)\, face off against ferocious extraterre
- strial invaders. With pulse-pounding action and clever humor\, they prove 
- that heroes can emerge from unexpected places. Individual Tickets: Select
-  showtime to purchase.Passes: $100 | $75 SIFF Members - includes full ser
- ies access\n\nhttps://www.siff.net/programs-and-events/they-came-from-oute
- r-space/attack-the-block
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Contact
 DTSTART:20230929T020000Z
@@ -147,6 +131,21 @@ DESCRIPTION:Duration: 128 mins (2h08m)\n\nScarecrowber The centuries old v
  ker's fiancée Mina Murray and inflict havoc in the foreign land. Present
  ed in 4k. October 3 screening introduced by Matt Lynch.\n\nhttps://www.sif
  f.net/programs-and-events/scarecrowber/bram-stokers-dracula
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quality Ski Time Film Tour
+DTSTART:20231006T023000Z
+DTEND:20231006T044000Z
+DTSTAMP:20231006T023000Z
+UID:pIFoGMRD6f
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nDoors open at 6:30 pm | Show sta
+ rts at 7:30 pm Get stoked for ski season with an all-new lineup of the gre
+ atest ski films of the year including The FIFTY and Blank Collective Films
+ \, along with copious gear giveaways\, poster signings with your favorite 
+ pro skiers\, and the chance to win a ski trip for two this winter.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/quality-ski-time-film-tour-presented-b
+ y-salomon
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

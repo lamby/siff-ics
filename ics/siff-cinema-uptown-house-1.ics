@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230926T103201Z
+LAST-MODIFIED:20230927T055320Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230926T231500Z
-DTEND:20230927T013000Z
-DTSTAMP:20230926T231500Z
-UID:xc2IQqN4eK
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART:20230927T020000Z
@@ -309,6 +297,23 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nSIFF Movie Club Slay goes both w
  anager (and horror writer) Caroline Beston. Tickets: $10 ($5 SIFF members)
  \n\nhttps://www.siff.net/programs-and-events/siff-movie-club/eyes-of-laura
  -mars
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Going Varsity In Mariachi
+DTSTART:20231006T020000Z
+DTEND:20231006T035500Z
+DTSTAMP:20231006T020000Z
+UID:Klp3JTVgQY
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nSIFF DocFest Dive into the drama
+ tic world of competitive high school mariachi\, as coach Abel Acuña gra
+ pples with his school’s shoestring budget and a diverse crew of inexperi
+ enced musicians in a quest to reach the state championships. The film will
+  be preceded by a live performance from Mariachi Monarcas. Passholders and
+  ticket buyers are invited to join us afterwards at Agave Cocina & Tequila
+ s (15% off for DocFest attendees). Individual Tickets: Select showtime to 
+ purchasePasses: $100 | $75 SIFF Members - Access to all screenings\n\nhtt
+ ps://www.siff.net/programs-and-events/docfest/going-varsity-in-mariachi
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

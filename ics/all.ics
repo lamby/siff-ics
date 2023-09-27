@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230926T103201Z
+LAST-MODIFIED:20230927T055320Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Mutt
-DTSTART:20230926T224500Z
-DTEND:20230927T002500Z
-DTSTAMP:20230926T224500Z
-UID:bxs8yaPylM
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nFeña (Sundance award-winner Lío
-  Mehiel)\, still early in his transition\, must navigate how he’s percei
- ved by people from his past\, including his ex-boyfriend\, his half-sister
- \, and his out-of-touch father over one long\, hectic summer day in New Yo
- rk City. New American Cinema Competition: Grand Jury Prize (Seattle Inter
- national Film Festival 2023).\n\nhttps://www.siff.net/cinema/in-theaters/m
- utt
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230926T231500Z
-DTEND:20230927T013000Z
-DTSTAMP:20230926T231500Z
-UID:xc2IQqN4eK
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART:20230927T020000Z
@@ -42,46 +15,6 @@ DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
  ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
  n-of-evil
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230926T234500Z
-DTEND:20230927T013000Z
-DTSTAMP:20230926T234500Z
-UID:EFmiHppm1r
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230927T021500Z
-DTEND:20230927T040000Z
-DTSTAMP:20230927T021500Z
-UID:JXWvdb984P
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Attack the Block
-DTSTART:20230927T020000Z
-DTEND:20230927T034000Z
-DTSTAMP:20230927T020000Z
-UID:DXX6I8ZPSZ
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nThey Came From Outer Space A Sout
- h London housing estate becomes a battleground when a gang of young delinq
- uents\, led by Moses (John Boyega)\, face off against ferocious extraterre
- strial invaders. With pulse-pounding action and clever humor\, they prove 
- that heroes can emerge from unexpected places. Individual Tickets: Select
-  showtime to purchase.Passes: $100 | $75 SIFF Members - includes full ser
- ies access\n\nhttps://www.siff.net/programs-and-events/they-came-from-oute
- r-space/attack-the-block
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
@@ -1002,5 +935,90 @@ DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
  ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
  n-of-evil
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Origin of Evil
+DTSTART:20231005T230000Z
+DTEND:20231006T011500Z
+DTSTAMP:20231005T230000Z
+UID:JbGR2MFF8U
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
+ hemes of family\, patriarchy\, and deception in a tense household from dir
+ ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
+ n-of-evil
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART:20231005T231500Z
+DTEND:20231006T010000Z
+DTSTAMP:20231005T231500Z
+UID:uXKfAiY3on
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
+ ls in their senior year who start a fight club to try to impress and hook 
+ up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
+ howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART:20231006T021500Z
+DTEND:20231006T040000Z
+DTSTAMP:20231006T021500Z
+UID:QPFG54D8Fc
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
+ ls in their senior year who start a fight club to try to impress and hook 
+ up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
+ howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Going Varsity In Mariachi
+DTSTART:20231006T020000Z
+DTEND:20231006T035500Z
+DTSTAMP:20231006T020000Z
+UID:Klp3JTVgQY
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nSIFF DocFest Dive into the drama
+ tic world of competitive high school mariachi\, as coach Abel Acuña gra
+ pples with his school’s shoestring budget and a diverse crew of inexperi
+ enced musicians in a quest to reach the state championships. The film will
+  be preceded by a live performance from Mariachi Monarcas. Passholders and
+  ticket buyers are invited to join us afterwards at Agave Cocina & Tequila
+ s (15% off for DocFest attendees). Individual Tickets: Select showtime to 
+ purchasePasses: $100 | $75 SIFF Members - Access to all screenings\n\nhtt
+ ps://www.siff.net/programs-and-events/docfest/going-varsity-in-mariachi
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quality Ski Time Film Tour
+DTSTART:20231006T023000Z
+DTEND:20231006T044000Z
+DTSTAMP:20231006T023000Z
+UID:pIFoGMRD6f
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nDoors open at 6:30 pm | Show sta
+ rts at 7:30 pm Get stoked for ski season with an all-new lineup of the gre
+ atest ski films of the year including The FIFTY and Blank Collective Films
+ \, along with copious gear giveaways\, poster signings with your favorite 
+ pro skiers\, and the chance to win a ski trip for two this winter.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/quality-ski-time-film-tour-presented-b
+ y-salomon
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense
+DTSTART:20231006T023000Z
+DTEND:20231006T041000Z
+DTSTAMP:20231006T023000Z
+UID:WBpMhMIqkY
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nThe greatest concert film of all 
+ time\, Stop Making Sense brings to the screen Talking Heads at Hollywood's
+  Pantages Theater in December 1983: David Byrne\, Tina Weymouth\, Chris Fr
+ antz\, and Jerry Harrison\, alongside an ecstatic ensemble of supporting m
+ usicians. Renowned filmmaker Jonathan Demme (Silence of the Lambs) capture
+ s the band at their exhilarating best\, in this new and complete restorati
+ on for the film's 40th anniversary. 40th Anniversary Restoration. OPEN CA
+ PTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.
+ net/cinema/in-theaters/stop-making-sense
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
