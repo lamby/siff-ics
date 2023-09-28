@@ -1,99 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230927T055320Z
+LAST-MODIFIED:20230928T080430Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230927T020000Z
-DTEND:20230927T041500Z
-DTSTAMP:20230927T020000Z
-UID:GrO8r02Ic6
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230927T231500Z
-DTEND:20230928T013000Z
-DTSTAMP:20230927T231500Z
-UID:RbFAlwHD60
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230928T020000Z
-DTEND:20230928T041500Z
-DTSTAMP:20230928T020000Z
-UID:B56mLKjZcv
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutt
-DTSTART:20230927T233000Z
-DTEND:20230928T011000Z
-DTSTAMP:20230927T233000Z
-UID:mHwyxIXCPD
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nFeña (Sundance award-winner Lío
-  Mehiel)\, still early in his transition\, must navigate how he’s percei
- ved by people from his past\, including his ex-boyfriend\, his half-sister
- \, and his out-of-touch father over one long\, hectic summer day in New Yo
- rk City. New American Cinema Competition: Grand Jury Prize (Seattle Inter
- national Film Festival 2023).\n\nhttps://www.siff.net/cinema/in-theaters/m
- utt
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutt
-DTSTART:20230928T023000Z
-DTEND:20230928T041000Z
-DTSTAMP:20230928T023000Z
-UID:OkICfEV8MQ
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nFeña (Sundance award-winner Lío
-  Mehiel)\, still early in his transition\, must navigate how he’s percei
- ved by people from his past\, including his ex-boyfriend\, his half-sister
- \, and his out-of-touch father over one long\, hectic summer day in New Yo
- rk City. New American Cinema Competition: Grand Jury Prize (Seattle Inter
- national Film Festival 2023).\n\nhttps://www.siff.net/cinema/in-theaters/m
- utt
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230927T234500Z
-DTEND:20230928T013000Z
-DTSTAMP:20230927T234500Z
-UID:yiv3lFUQH6
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230928T021500Z
-DTEND:20230928T040000Z
-DTSTAMP:20230928T021500Z
-UID:Zy5yRu8aOU
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART:20230928T231500Z
@@ -946,7 +856,7 @@ DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
  hemes of family\, patriarchy\, and deception in a tense household from dir
  ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
  n-of-evil
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bottoms
@@ -987,7 +897,7 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nSIFF DocFest Dive into the drama
  s (15% off for DocFest attendees). Individual Tickets: Select showtime to 
  purchasePasses: $100 | $75 SIFF Members - Access to all screenings\n\nhtt
  ps://www.siff.net/programs-and-events/docfest/going-varsity-in-mariachi
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quality Ski Time Film Tour
@@ -1019,6 +929,99 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nThe greatest concert film of all
  on for the film's 40th anniversary. 40th Anniversary Restoration. OPEN CA
  PTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.
  net/cinema/in-theaters/stop-making-sense
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radical Wolfe
+DTSTART:20231006T233000Z
+DTEND:20231007T010000Z
+DTSTAMP:20231006T233000Z
+UID:eyo2dH72PX
+DESCRIPTION:Duration: 76 mins (1h16m)\n\nSIFF DocFest Richard Dewey's enli
+ ghtening portrait of legendary writer Tom Wolfe\, the debonair\, contraria
+ n author whose provocative work blurred the lines between reporting and li
+ terature\, playing a monumental role in American journalism. Individual Ti
+ ckets: Select showtime to purchasePasses: $100 | $75 SIFF Members - Acces
+ s to all screenings\n\nhttps://www.siff.net/programs-and-events/docfest/ra
+ dical-wolfe
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231006T234500Z
+DTEND:20231007T013000Z
+DTSTAMP:20231006T234500Z
+UID:h28EPGWMNd
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
+  a job in a remote Australian pub for some extra cash and are confronted w
+ ith a bunch of unruly locals and a situation that grows rapidly out of the
+ ir control.\n\nhttps://www.siff.net/cinema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231007T021500Z
+DTEND:20231007T040000Z
+DTSTAMP:20231007T021500Z
+UID:3xc5pKrCHV
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
+  a job in a remote Australian pub for some extra cash and are confronted w
+ ith a bunch of unruly locals and a situation that grows rapidly out of the
+ ir control.\n\nhttps://www.siff.net/cinema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Almodovar Shorts
+DTSTART:20231007T000000Z
+DTEND:20231007T011000Z
+DTSTAMP:20231007T000000Z
+UID:tPnCLLyrwB
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nDouble feature presentation of Al
+ modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
+ \, The Human Voice.\n\nhttps://www.siff.net/cinema/in-theaters/strange-wa
+ y-of-life-with-the-human-voice
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine
+DTSTART:20231007T014500Z
+DTEND:20231007T045000Z
+DTSTAMP:20231007T014500Z
+UID:QaoisykRLu
+DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
+ long out of print masterpiece chronicles the rise of two young stars of th
+ e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
+ lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
+ ll-my-concubine
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Comet
+DTSTART:20231007T020000Z
+DTEND:20231007T034500Z
+DTSTAMP:20231007T020000Z
+UID:gjv87DTkN6
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScarecrowber A comet wipes out mo
+ st of life on Earth\, leaving two Valley Girls fighting against cannibal z
+ ombies and a sinister group of scientists. Presented in 4k. Presented by 
+ the Psychotronic Challenge. Scarecrow will be on hand for introduction and
+  giveaways! Screening introduced by Jensen Ward and Clinton McClung.\n\nht
+ tps://www.siff.net/programs-and-events/scarecrowber/night-of-the-comet
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silver Dollar Road
+DTSTART:20231007T020000Z
+DTEND:20231007T035000Z
+DTSTAMP:20231007T020000Z
+UID:UsMVYur4yU
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nSIFF DocFest Academy-Award Nomin
+ ee Raoul Peck (I Am Not Your Negro) returns with the shocking story of a B
+ lack family in North Carolina combating decades of harassment by land deve
+ lopers trying to seize their waterfront property. Individual Tickets: Sele
+ ct showtime to purchasePasses: $100 | $75 SIFF Members - Access to all sc
+ reenings\n\nhttps://www.siff.net/programs-and-events/docfest/silver-dollar
+ -road
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

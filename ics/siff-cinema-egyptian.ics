@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230927T055320Z
+LAST-MODIFIED:20230928T080430Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
 BEGIN:VEVENT
@@ -146,6 +146,20 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nDoors open at 6:30 pm | Show sta
  pro skiers\, and the chance to win a ski trip for two this winter.\n\nhttp
  s://www.siff.net/cinema/in-theaters/quality-ski-time-film-tour-presented-b
  y-salomon
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Comet
+DTSTART:20231007T020000Z
+DTEND:20231007T034500Z
+DTSTAMP:20231007T020000Z
+UID:gjv87DTkN6
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScarecrowber A comet wipes out mo
+ st of life on Earth\, leaving two Valley Girls fighting against cannibal z
+ ombies and a sinister group of scientists. Presented in 4k. Presented by 
+ the Psychotronic Challenge. Scarecrow will be on hand for introduction and
+  giveaways! Screening introduced by Jensen Ward and Clinton McClung.\n\nht
+ tps://www.siff.net/programs-and-events/scarecrowber/night-of-the-comet
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

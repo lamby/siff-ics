@@ -1,45 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230927T055320Z
+LAST-MODIFIED:20230928T080430Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230927T020000Z
-DTEND:20230927T041500Z
-DTSTAMP:20230927T020000Z
-UID:GrO8r02Ic6
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230927T231500Z
-DTEND:20230928T013000Z
-DTSTAMP:20230927T231500Z
-UID:RbFAlwHD60
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230928T020000Z
-DTEND:20230928T041500Z
-DTSTAMP:20230928T020000Z
-UID:B56mLKjZcv
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART:20230928T231500Z
@@ -300,20 +264,56 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nSIFF Movie Club Slay goes both w
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Going Varsity In Mariachi
-DTSTART:20231006T020000Z
-DTEND:20231006T035500Z
-DTSTAMP:20231006T020000Z
-UID:Klp3JTVgQY
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nSIFF DocFest Dive into the drama
- tic world of competitive high school mariachi\, as coach Abel Acuña gra
- pples with his school’s shoestring budget and a diverse crew of inexperi
- enced musicians in a quest to reach the state championships. The film will
-  be preceded by a live performance from Mariachi Monarcas. Passholders and
-  ticket buyers are invited to join us afterwards at Agave Cocina & Tequila
- s (15% off for DocFest attendees). Individual Tickets: Select showtime to 
- purchasePasses: $100 | $75 SIFF Members - Access to all screenings\n\nhtt
- ps://www.siff.net/programs-and-events/docfest/going-varsity-in-mariachi
+SUMMARY:The Origin of Evil
+DTSTART:20231005T230000Z
+DTEND:20231006T011500Z
+DTSTAMP:20231005T230000Z
+UID:JbGR2MFF8U
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
+ hemes of family\, patriarchy\, and deception in a tense household from dir
+ ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
+ n-of-evil
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense
+DTSTART:20231006T023000Z
+DTEND:20231006T041000Z
+DTSTAMP:20231006T023000Z
+UID:WBpMhMIqkY
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nThe greatest concert film of all 
+ time\, Stop Making Sense brings to the screen Talking Heads at Hollywood's
+  Pantages Theater in December 1983: David Byrne\, Tina Weymouth\, Chris Fr
+ antz\, and Jerry Harrison\, alongside an ecstatic ensemble of supporting m
+ usicians. Renowned filmmaker Jonathan Demme (Silence of the Lambs) capture
+ s the band at their exhilarating best\, in this new and complete restorati
+ on for the film's 40th anniversary. 40th Anniversary Restoration. OPEN CA
+ PTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.
+ net/cinema/in-theaters/stop-making-sense
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231006T234500Z
+DTEND:20231007T013000Z
+DTSTAMP:20231006T234500Z
+UID:h28EPGWMNd
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
+  a job in a remote Australian pub for some extra cash and are confronted w
+ ith a bunch of unruly locals and a situation that grows rapidly out of the
+ ir control.\n\nhttps://www.siff.net/cinema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231007T021500Z
+DTEND:20231007T040000Z
+DTSTAMP:20231007T021500Z
+UID:3xc5pKrCHV
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
+  a job in a remote Australian pub for some extra cash and are confronted w
+ ith a bunch of unruly locals and a situation that grows rapidly out of the
+ ir control.\n\nhttps://www.siff.net/cinema/in-theaters/royal-hotel
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
