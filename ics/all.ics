@@ -1,103 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230928T080430Z
+LAST-MODIFIED:20230929T081840Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230928T231500Z
-DTEND:20230929T013000Z
-DTSTAMP:20230928T231500Z
-UID:eGEPUnUbZI
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230929T020000Z
-DTEND:20230929T041500Z
-DTSTAMP:20230929T020000Z
-UID:74bjMKByYv
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutt
-DTSTART:20230928T233000Z
-DTEND:20230929T011000Z
-DTSTAMP:20230928T233000Z
-UID:2kuph7PSXG
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nFeña (Sundance award-winner Lío
-  Mehiel)\, still early in his transition\, must navigate how he’s percei
- ved by people from his past\, including his ex-boyfriend\, his half-sister
- \, and his out-of-touch father over one long\, hectic summer day in New Yo
- rk City. New American Cinema Competition: Grand Jury Prize (Seattle Inter
- national Film Festival 2023).\n\nhttps://www.siff.net/cinema/in-theaters/m
- utt
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutt
-DTSTART:20230929T023000Z
-DTEND:20230929T041000Z
-DTSTAMP:20230929T023000Z
-UID:2cAji1YG8A
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nFeña (Sundance award-winner Lío
-  Mehiel)\, still early in his transition\, must navigate how he’s percei
- ved by people from his past\, including his ex-boyfriend\, his half-sister
- \, and his out-of-touch father over one long\, hectic summer day in New Yo
- rk City. New American Cinema Competition: Grand Jury Prize (Seattle Inter
- national Film Festival 2023).\n\nhttps://www.siff.net/cinema/in-theaters/m
- utt
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230928T234500Z
-DTEND:20230929T013000Z
-DTSTAMP:20230928T234500Z
-UID:SfoOTNowTp
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230929T021500Z
-DTEND:20230929T040000Z
-DTSTAMP:20230929T021500Z
-UID:A4sNMy1nJI
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Contact
-DTSTART:20230929T020000Z
-DTEND:20230929T044000Z
-DTSTAMP:20230929T020000Z
-UID:kRtINYXV6K
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nThey Came From Outer Space Radio
-  astronomer Dr. Ellie Arroway (Jodie Foster) receives an enigmatic message
-  from space\, leading her on a profound and exhilarating quest for extrate
- rrestrial intelligence. As she grapples with the cosmos\, the film explore
- s faith\, science\, and the boundless wonders of the universe. Individual 
- Tickets: Select showtime to purchase.Passes: $100 | $75 SIFF Members - i
- ncludes full series access\n\nhttps://www.siff.net/programs-and-events/the
- y-came-from-outer-space/contact
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E.T. the Extra-Terrestrial
 DTSTART:20230929T230000Z
@@ -1022,6 +928,160 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nSIFF DocFest Academy-Award Nomin
  ct showtime to purchasePasses: $100 | $75 SIFF Members - Access to all sc
  reenings\n\nhttps://www.siff.net/programs-and-events/docfest/silver-dollar
  -road
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestra
+DTSTART:20231007T200000Z
+DTEND:20231007T214000Z
+DTSTAMP:20231007T200000Z
+UID:KnWFygNdf0
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nSIFF DocFest Five women from arou
+ nd the world gather to compete in the prestigious\, ultra-competitive “L
+ a Maestra” competition\, the only competition in the world for female cl
+ assical orchestra conductors. Individual Tickets: Select showtime to purch
+ asePasses: $100 | $75 SIFF Members - Access to all screenings\n\nhttps://
+ www.siff.net/programs-and-events/docfest/maestra
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine
+DTSTART:20231007T201500Z
+DTEND:20231007T232000Z
+DTSTAMP:20231007T201500Z
+UID:fDQ3xkHQpo
+DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
+ long out of print masterpiece chronicles the rise of two young stars of th
+ e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
+ lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
+ ll-my-concubine
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine
+DTSTART:20231008T014500Z
+DTEND:20231008T045000Z
+DTSTAMP:20231008T014500Z
+UID:fveRRg6a63
+DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
+ long out of print masterpiece chronicles the rise of two young stars of th
+ e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
+ lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
+ ll-my-concubine
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231007T203000Z
+DTEND:20231007T221500Z
+DTSTAMP:20231007T203000Z
+UID:M0Co2CUtUB
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
+  a job in a remote Australian pub for some extra cash and are confronted w
+ ith a bunch of unruly locals and a situation that grows rapidly out of the
+ ir control.\n\nhttps://www.siff.net/cinema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231007T234500Z
+DTEND:20231008T013000Z
+DTSTAMP:20231007T234500Z
+UID:IaGe2FGgy3
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
+  a job in a remote Australian pub for some extra cash and are confronted w
+ ith a bunch of unruly locals and a situation that grows rapidly out of the
+ ir control.\n\nhttps://www.siff.net/cinema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231008T021500Z
+DTEND:20231008T040000Z
+DTSTAMP:20231008T021500Z
+UID:uk68tj1JFO
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
+  a job in a remote Australian pub for some extra cash and are confronted w
+ ith a bunch of unruly locals and a situation that grows rapidly out of the
+ ir control.\n\nhttps://www.siff.net/cinema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bride of Frankenstein
+DTSTART:20231007T210000Z
+DTEND:20231007T222500Z
+DTSTAMP:20231007T210000Z
+UID:lWva6ZM5re
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nScarecrowber Mary Shelley reveals
+  the main characters of her novel survived: Dr. Frankenstein\, goaded by a
+ n even madder scientist\, builds his monster a mate.\n\nhttps://www.siff.n
+ et/programs-and-events/scarecrowber/the-bride-of-frankenstein
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invisible Nation
+DTSTART:20231007T230000Z
+DTEND:20231008T003500Z
+DTSTAMP:20231007T230000Z
+UID:tecQ7sHhaG
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nSIFF DocFest With unprecedented a
+ ccess to Taiwan’s sitting head of state\, director Vanessa Hope’s eye-
+ opening documentary investigates the election and tenure of Tsai Ing-wen\,
+  the first female president of Taiwan. Individual Tickets: Select showtime
+  to purchasePasses: $100 | $75 SIFF Members - Access to all screenings\n\
+ nhttps://www.siff.net/programs-and-events/docfest/invisible-nation
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival of Souls
+DTSTART:20231007T233000Z
+DTEND:20231008T010000Z
+DTSTAMP:20231007T233000Z
+UID:SsZRETaQ9C
+DESCRIPTION:Duration: 80 mins (1h20m)\n\nScarecrowber After a traumatic ac
+ cident\, a woman becomes drawn to a mysterious abandoned carnival. Presen
+ ted in 4k. October 16\, 29 screening presented by Emalie Soderback.\n\nhtt
+ ps://www.siff.net/programs-and-events/scarecrowber/carnival-of-souls
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Almodovar Shorts
+DTSTART:20231008T000000Z
+DTEND:20231008T011000Z
+DTSTAMP:20231008T000000Z
+UID:WeBhrTkpSU
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nDouble feature presentation of Al
+ modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
+ \, The Human Voice.\n\nhttps://www.siff.net/cinema/in-theaters/strange-wa
+ y-of-life-with-the-human-voice
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cat People
+DTSTART:20231008T020000Z
+DTEND:20231008T032500Z
+DTSTAMP:20231008T020000Z
+UID:ivAtpdU8kF
+DESCRIPTION:Duration: 73 mins (1h13m)\n\nScarecrowber Simone Simon stars a
+ s a Serbian émigré in Manhattan who believes that\, because of an ancien
+ t curse\, any physical intimacy with the man she loves (Kent Smith) will t
+ urn her into a feline predator. October 7 screening introduced by Megan M
+ cNeils.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/cat-peopl
+ e
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plan C
+DTSTART:20231008T020000Z
+DTEND:20231008T034500Z
+DTSTAMP:20231008T020000Z
+UID:BUWhwZuNfa
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nSIFF DocFest Shot over the course
+  of four years\, Plan C takes us into a clandestine network of activists 
+ and physicians\, fighting to keep abortion pills available in the face of 
+ crumbling reproductive rights across the US. Individual Tickets: Select sh
+ owtime to purchasePasses: $100 | $75 SIFF Members - Access to all screeni
+ ngs\n\nhttps://www.siff.net/programs-and-events/docfest/plan-c
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

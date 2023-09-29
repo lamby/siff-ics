@@ -1,25 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230928T080430Z
+LAST-MODIFIED:20230929T081840Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Contact
-DTSTART:20230929T020000Z
-DTEND:20230929T044000Z
-DTSTAMP:20230929T020000Z
-UID:kRtINYXV6K
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nThey Came From Outer Space Radio
-  astronomer Dr. Ellie Arroway (Jodie Foster) receives an enigmatic message
-  from space\, leading her on a profound and exhilarating quest for extrate
- rrestrial intelligence. As she grapples with the cosmos\, the film explore
- s faith\, science\, and the boundless wonders of the universe. Individual 
- Tickets: Select showtime to purchase.Passes: $100 | $75 SIFF Members - i
- ncludes full series access\n\nhttps://www.siff.net/programs-and-events/the
- y-came-from-outer-space/contact
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E.T. the Extra-Terrestrial
 DTSTART:20230929T230000Z
@@ -160,6 +144,44 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nScarecrowber A comet wipes out mo
  the Psychotronic Challenge. Scarecrow will be on hand for introduction and
   giveaways! Screening introduced by Jensen Ward and Clinton McClung.\n\nht
  tps://www.siff.net/programs-and-events/scarecrowber/night-of-the-comet
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bride of Frankenstein
+DTSTART:20231007T210000Z
+DTEND:20231007T222500Z
+DTSTAMP:20231007T210000Z
+UID:lWva6ZM5re
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nScarecrowber Mary Shelley reveals
+  the main characters of her novel survived: Dr. Frankenstein\, goaded by a
+ n even madder scientist\, builds his monster a mate.\n\nhttps://www.siff.n
+ et/programs-and-events/scarecrowber/the-bride-of-frankenstein
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival of Souls
+DTSTART:20231007T233000Z
+DTEND:20231008T010000Z
+DTSTAMP:20231007T233000Z
+UID:SsZRETaQ9C
+DESCRIPTION:Duration: 80 mins (1h20m)\n\nScarecrowber After a traumatic ac
+ cident\, a woman becomes drawn to a mysterious abandoned carnival. Presen
+ ted in 4k. October 16\, 29 screening presented by Emalie Soderback.\n\nhtt
+ ps://www.siff.net/programs-and-events/scarecrowber/carnival-of-souls
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cat People
+DTSTART:20231008T020000Z
+DTEND:20231008T032500Z
+DTSTAMP:20231008T020000Z
+UID:ivAtpdU8kF
+DESCRIPTION:Duration: 73 mins (1h13m)\n\nScarecrowber Simone Simon stars a
+ s a Serbian émigré in Manhattan who believes that\, because of an ancien
+ t curse\, any physical intimacy with the man she loves (Kent Smith) will t
+ urn her into a feline predator. October 7 screening introduced by Megan M
+ cNeils.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/cat-peopl
+ e
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

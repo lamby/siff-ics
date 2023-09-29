@@ -1,39 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230928T080430Z
+LAST-MODIFIED:20230929T081840Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Mutt
-DTSTART:20230928T233000Z
-DTEND:20230929T011000Z
-DTSTAMP:20230928T233000Z
-UID:2kuph7PSXG
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nFeña (Sundance award-winner Lío
-  Mehiel)\, still early in his transition\, must navigate how he’s percei
- ved by people from his past\, including his ex-boyfriend\, his half-sister
- \, and his out-of-touch father over one long\, hectic summer day in New Yo
- rk City. New American Cinema Competition: Grand Jury Prize (Seattle Inter
- national Film Festival 2023).\n\nhttps://www.siff.net/cinema/in-theaters/m
- utt
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutt
-DTSTART:20230929T023000Z
-DTEND:20230929T041000Z
-DTSTAMP:20230929T023000Z
-UID:2cAji1YG8A
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nFeña (Sundance award-winner Lío
-  Mehiel)\, still early in his transition\, must navigate how he’s percei
- ved by people from his past\, including his ex-boyfriend\, his half-sister
- \, and his out-of-touch father over one long\, hectic summer day in New Yo
- rk City. New American Cinema Competition: Grand Jury Prize (Seattle Inter
- national Film Festival 2023).\n\nhttps://www.siff.net/cinema/in-theaters/m
- utt
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mutt
 DTSTART:20230929T234500Z
@@ -267,6 +237,44 @@ DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\,
  e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
  lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
  ll-my-concubine
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine
+DTSTART:20231007T201500Z
+DTEND:20231007T232000Z
+DTSTAMP:20231007T201500Z
+UID:fDQ3xkHQpo
+DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
+ long out of print masterpiece chronicles the rise of two young stars of th
+ e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
+ lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
+ ll-my-concubine
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine
+DTSTART:20231008T014500Z
+DTEND:20231008T045000Z
+DTSTAMP:20231008T014500Z
+UID:fveRRg6a63
+DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
+ long out of print masterpiece chronicles the rise of two young stars of th
+ e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
+ lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
+ ll-my-concubine
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Almodovar Shorts
+DTSTART:20231008T000000Z
+DTEND:20231008T011000Z
+DTSTAMP:20231008T000000Z
+UID:WeBhrTkpSU
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nDouble feature presentation of Al
+ modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
+ \, The Human Voice.\n\nhttps://www.siff.net/cinema/in-theaters/strange-wa
+ y-of-life-with-the-human-voice
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230928T080430Z
+LAST-MODIFIED:20230929T081840Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230928T231500Z
-DTEND:20230929T013000Z
-DTSTAMP:20230928T231500Z
-UID:eGEPUnUbZI
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART:20230929T020000Z
-DTEND:20230929T041500Z
-DTSTAMP:20230929T020000Z
-UID:74bjMKByYv
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA satirical thriller exploring t
- hemes of family\, patriarchy\, and deception in a tense household from dir
- ector Sébastien Marnier.\n\nhttps://www.siff.net/cinema/in-theaters/origi
- n-of-evil
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stop Making Sense
 DTSTART:20230929T233000Z
@@ -310,6 +286,42 @@ DTSTART:20231007T021500Z
 DTEND:20231007T040000Z
 DTSTAMP:20231007T021500Z
 UID:3xc5pKrCHV
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
+  a job in a remote Australian pub for some extra cash and are confronted w
+ ith a bunch of unruly locals and a situation that grows rapidly out of the
+ ir control.\n\nhttps://www.siff.net/cinema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231007T203000Z
+DTEND:20231007T221500Z
+DTSTAMP:20231007T203000Z
+UID:M0Co2CUtUB
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
+  a job in a remote Australian pub for some extra cash and are confronted w
+ ith a bunch of unruly locals and a situation that grows rapidly out of the
+ ir control.\n\nhttps://www.siff.net/cinema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231007T234500Z
+DTEND:20231008T013000Z
+DTSTAMP:20231007T234500Z
+UID:IaGe2FGgy3
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
+  a job in a remote Australian pub for some extra cash and are confronted w
+ ith a bunch of unruly locals and a situation that grows rapidly out of the
+ ir control.\n\nhttps://www.siff.net/cinema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231008T021500Z
+DTEND:20231008T040000Z
+DTSTAMP:20231008T021500Z
+UID:uk68tj1JFO
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nUS backpackers Hanna and Liv take
   a job in a remote Australian pub for some extra cash and are confronted w
  ith a bunch of unruly locals and a situation that grows rapidly out of the

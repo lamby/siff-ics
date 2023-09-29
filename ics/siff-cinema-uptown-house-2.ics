@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230928T080430Z
+LAST-MODIFIED:20230929T081840Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230928T234500Z
-DTEND:20230929T013000Z
-DTSTAMP:20230928T234500Z
-UID:SfoOTNowTp
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230929T021500Z
-DTEND:20230929T040000Z
-DTSTAMP:20230929T021500Z
-UID:A4sNMy1nJI
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bottoms
 DTSTART:20230929T231500Z
@@ -251,6 +227,48 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nSIFF DocFest Academy-Award Nomin
  ct showtime to purchasePasses: $100 | $75 SIFF Members - Access to all sc
  reenings\n\nhttps://www.siff.net/programs-and-events/docfest/silver-dollar
  -road
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestra
+DTSTART:20231007T200000Z
+DTEND:20231007T214000Z
+DTSTAMP:20231007T200000Z
+UID:KnWFygNdf0
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nSIFF DocFest Five women from arou
+ nd the world gather to compete in the prestigious\, ultra-competitive “L
+ a Maestra” competition\, the only competition in the world for female cl
+ assical orchestra conductors. Individual Tickets: Select showtime to purch
+ asePasses: $100 | $75 SIFF Members - Access to all screenings\n\nhttps://
+ www.siff.net/programs-and-events/docfest/maestra
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invisible Nation
+DTSTART:20231007T230000Z
+DTEND:20231008T003500Z
+DTSTAMP:20231007T230000Z
+UID:tecQ7sHhaG
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nSIFF DocFest With unprecedented a
+ ccess to Taiwan’s sitting head of state\, director Vanessa Hope’s eye-
+ opening documentary investigates the election and tenure of Tsai Ing-wen\,
+  the first female president of Taiwan. Individual Tickets: Select showtime
+  to purchasePasses: $100 | $75 SIFF Members - Access to all screenings\n\
+ nhttps://www.siff.net/programs-and-events/docfest/invisible-nation
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plan C
+DTSTART:20231008T020000Z
+DTEND:20231008T034500Z
+DTSTAMP:20231008T020000Z
+UID:BUWhwZuNfa
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nSIFF DocFest Shot over the course
+  of four years\, Plan C takes us into a clandestine network of activists 
+ and physicians\, fighting to keep abortion pills available in the face of 
+ crumbling reproductive rights across the US. Individual Tickets: Select sh
+ owtime to purchasePasses: $100 | $75 SIFF Members - Access to all screeni
+ ngs\n\nhttps://www.siff.net/programs-and-events/docfest/plan-c
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
