@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230929T081840Z
+LAST-MODIFIED:20230930T084056Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230929T231500Z
-DTEND:20230930T010000Z
-DTSTAMP:20230929T231500Z
-UID:gg9JkiWf5Q
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART:20230930T021500Z
-DTEND:20230930T040000Z
-DTSTAMP:20230930T021500Z
-UID:QcW12jBchl
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nBottoms follows two unpopular gir
- ls in their senior year who start a fight club to try to impress and hook 
- up with cheerleaders. OPEN CAPTION SCREENINGS - all Tuesday and Sunday s
- howtimes\n\nhttps://www.siff.net/cinema/in-theaters/bottoms
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bottoms
 DTSTART:20230930T211500Z
@@ -269,6 +245,37 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nSIFF DocFest Shot over the course
  crumbling reproductive rights across the US. Individual Tickets: Select sh
  owtime to purchasePasses: $100 | $75 SIFF Members - Access to all screeni
  ngs\n\nhttps://www.siff.net/programs-and-events/docfest/plan-c
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Menus-Plaisirs Les Troisgros
+DTSTART:20231008T200000Z
+DTEND:20231009T001000Z
+DTSTAMP:20231008T200000Z
+UID:4YkSXgRKRC
+DESCRIPTION:Duration: 240 mins (4h00m)\n\nSIFF DocFest A food-lover’s dr
+ eam\, legendary documentarian Frederick Wiseman’s latest film is a luxur
+ ious look behind-the-scenes of France’s celebrated restaurant La Maison 
+ Troisgros\, which has held three Michelin stars for over five decades. Ind
+ ividual Tickets: Select showtime to purchasePasses: $100 | $75 SIFF Member
+ s - Access to all screenings\n\nhttps://www.siff.net/programs-and-events/
+ docfest/menus-plaisirs-les-troisgros
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omoiyari: A Song Film by Kishi Bashi
+DTSTART:20231009T020000Z
+DTEND:20231009T032500Z
+DTSTAMP:20231009T020000Z
+UID:RDgglDcrEX
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nSIFF DocFest Violinist and songwr
+ iter Kaoru Ishibashi (better known as Kishi Bashi) embarks on a musical jo
+ urney to understand WWII era Japanese Incarceration\, assimilation\, and w
+ hat it means to be a minority in America today. Join us beforehand at Trav
+ eling Goat from 5:00-7:00pm for a happy hour sponsored by Seattle Documen
+ tary Association. Individual Tickets: Select showtime to purchasePasses: $
+ 100 | $75 SIFF Members - Access to all screenings\n\nhttps://www.siff.net
+ /programs-and-events/docfest/omoiyari-a-song-film-by-kishi-bashi
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

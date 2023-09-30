@@ -1,43 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230929T081840Z
+LAST-MODIFIED:20230930T084056Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:E.T. the Extra-Terrestrial
-DTSTART:20230929T230000Z
-DTEND:20230930T010500Z
-DTSTAMP:20230929T230000Z
-UID:IbaJm1v0RG
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nThey Came From Outer Space A you
- ng boy\, Elliott\, discovers and befriends a friendly alien stranded on Ea
- rth. Together\, they embark on a heartwarming and magical adventure\, teac
- hing us the power of friendship\, love\, and the boundless wonders of the 
- universe. Steven Spielberg's iconic film continues to captivate audiences 
- of all ages. Presented in 4k. Individual Tickets: Select showtime to pur
- chase - $8 ticket price for children ages 6-14.Passes: $100 | $75 SIFF Mem
- bers - includes full series access\n\nhttps://www.siff.net/programs-and-e
- vents/they-came-from-outer-space/et-the-extra-terrestrial
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Blob (1988)
-DTSTART:20230930T020000Z
-DTEND:20230930T034500Z
-DTSTAMP:20230930T020000Z
-UID:ePaPwA4lH9
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nThey Came From Outer Space In the
-  1988 remake of The Blob\, a small town is besieged by a gelatinous alien 
- creature. As the insatiable blob consumes everything in its path\, a group
-  of brave individuals must unite to confront the nightmarish menace and pr
- event it from consuming the entire community. A double feature presentatio
- n of The Blob (1958) and The Blob (1988) will be shown on September 2. I
- ndividual Tickets: Select showtime to purchase.Passes: $100 | $75 SIFF Me
- mbers - includes full series access\n\nhttps://www.siff.net/programs-and-
- events/they-came-from-outer-space/the-blob-1988
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Plan 9 From Outer Space
 DTSTART:20230930T200000Z
@@ -182,6 +148,46 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nScarecrowber Simone Simon stars a
  urn her into a feline predator. October 7 screening introduced by Megan M
  cNeils.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/cat-peopl
  e
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Tale of Two Sisters
+DTSTART:20231008T210000Z
+DTEND:20231008T230500Z
+DTSTAMP:20231008T210000Z
+UID:hwlkUigncm
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nKorean Horror Film Talk & Screen
+ ing Series A young girl returns home with her sister after being released 
+ from a psychiatric hospital\, but disturbing events surrounding their step
+ mother hint at something haunting their family. Presented on 35mm.\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/a-tale-of-two-sisters
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spookies
+DTSTART:20231008T234500Z
+DTEND:20231009T012000Z
+DTSTAMP:20231008T234500Z
+UID:4YwBwPqXBO
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nScarecrowber A dilapidated mansio
+ n becomes a slaughterhouse when an evil sorcerer unleashes his monstrous s
+ idekicks on intruders. Presented in 4k. October 8 screening introduced by
+  Alicia Betty.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/sp
+ ookies
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Beyond
+DTSTART:20231009T020000Z
+DTEND:20231009T034000Z
+DTSTAMP:20231009T020000Z
+UID:1S8S8Zkp7D
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nScarecrowber A group of scientist
+ s have developed the Resonator\, a machine which allows whoever is within 
+ range to see beyond normal perceptible reality. But when the experiment su
+ cceeds\, they are immediately attacked by terrible life forms. October 8 s
+ creening introduced by Clinton McClung.\n\nhttps://www.siff.net/programs-a
+ nd-events/scarecrowber/from-beyond
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
