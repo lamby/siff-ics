@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231008T161506Z
+LAST-MODIFIED:20231009T145357Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Farewell My Concubine
-DTSTART:20231008T201500Z
-DTEND:20231008T232000Z
-DTSTAMP:20231008T201500Z
-UID:GWyxENAjb9
-DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
- long out of print masterpiece chronicles the rise of two young stars of th
- e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
- lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
- ll-my-concubine
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Farewell My Concubine
-DTSTART:20231009T014500Z
-DTEND:20231009T045000Z
-DTSTAMP:20231009T014500Z
-UID:KQ6Mh4F0QG
-DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
- long out of print masterpiece chronicles the rise of two young stars of th
- e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
- lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
- ll-my-concubine
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Almodovar Shorts
-DTSTART:20231009T000000Z
-DTEND:20231009T011000Z
-DTSTAMP:20231009T000000Z
-UID:gab6VrPBRN
-DESCRIPTION:Duration: 60 mins (1h00m)\n\nDouble feature presentation of Al
- modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
- \, The Human Voice. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sh
- owtimes\n\nhttps://www.siff.net/cinema/in-theaters/strange-way-of-life-wit
- h-the-human-voice
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Almodovar Shorts
 DTSTART:20231009T233000Z
@@ -205,6 +166,32 @@ DTSTART:20231017T023000Z
 DTEND:20231017T043500Z
 DTSTAMP:20231017T023000Z
 UID:aCrnJiEr0x
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
+  legendary singer and activist Joan Baez takes an honest look back and a d
+ eep look inward as she tries to make sense of her large\, history-making l
+ ife\, and the personal struggles she's kept private.\n\nhttps://www.siff.n
+ et/cinema/in-theaters/joan-baez-i-am-a-noise
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joan Baez: I Am A Noise
+DTSTART:20231017T234500Z
+DTEND:20231018T015000Z
+DTSTAMP:20231017T234500Z
+UID:M9FOS4IjO5
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
+  legendary singer and activist Joan Baez takes an honest look back and a d
+ eep look inward as she tries to make sense of her large\, history-making l
+ ife\, and the personal struggles she's kept private.\n\nhttps://www.siff.n
+ et/cinema/in-theaters/joan-baez-i-am-a-noise
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joan Baez: I Am A Noise
+DTSTART:20231018T023000Z
+DTEND:20231018T043500Z
+DTSTAMP:20231018T023000Z
+UID:AxaWTOJ5sc
 DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
   legendary singer and activist Joan Baez takes an honest look back and a d
  eep look inward as she tries to make sense of her large\, history-making l

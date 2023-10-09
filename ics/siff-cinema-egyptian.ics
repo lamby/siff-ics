@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231008T161506Z
+LAST-MODIFIED:20231009T145357Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:A Tale of Two Sisters
-DTSTART:20231008T210000Z
-DTEND:20231008T230500Z
-DTSTAMP:20231008T210000Z
-UID:hwlkUigncm
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nKorean Horror Film Talk & Screen
- ing Series A young girl returns home with her sister after being released 
- from a psychiatric hospital\, but disturbing events surrounding their step
- mother hint at something haunting their family. Presented on 35mm.\n\nhtt
- ps://www.siff.net/cinema/in-theaters/a-tale-of-two-sisters
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spookies
-DTSTART:20231008T234500Z
-DTEND:20231009T012000Z
-DTSTAMP:20231008T234500Z
-UID:4YwBwPqXBO
-DESCRIPTION:Duration: 85 mins (1h25m)\n\nScarecrowber A dilapidated mansio
- n becomes a slaughterhouse when an evil sorcerer unleashes his monstrous s
- idekicks on intruders. Presented in 4k. October 8 screening introduced by
-  Alicia Betty.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/sp
- ookies
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Beyond
-DTSTART:20231009T020000Z
-DTEND:20231009T034000Z
-DTSTAMP:20231009T020000Z
-UID:1S8S8Zkp7D
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nScarecrowber A group of scientist
- s have developed the Resonator\, a machine which allows whoever is within 
- range to see beyond normal perceptible reality. But when the experiment su
- cceeds\, they are immediately attacked by terrible life forms. October 8 s
- creening introduced by Clinton McClung.\n\nhttps://www.siff.net/programs-a
- nd-events/scarecrowber/from-beyond
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twins of Evil
 DTSTART:20231010T020000Z
@@ -135,6 +95,19 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nScarecrowber After a traumatic ac
  cident\, a woman becomes drawn to a mysterious abandoned carnival. Presen
  ted in 4k. October 16\, 29 screening presented by Emalie Soderback.\n\nhtt
  ps://www.siff.net/programs-and-events/scarecrowber/carnival-of-souls
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula
+DTSTART:20231018T013000Z
+DTEND:20231018T035000Z
+DTSTAMP:20231018T013000Z
+UID:u8tDAwVveb
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nScarecrowber The centuries old v
+ ampire Count Dracula comes to England to seduce his barrister Jonathan Har
+ ker's fiancée Mina Murray and inflict havoc in the foreign land. Present
+ ed in 4k. October 3 screening introduced by Matt Lynch.\n\nhttps://www.sif
+ f.net/programs-and-events/scarecrowber/bram-stokers-dracula
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
