@@ -1,40 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231009T145357Z
+LAST-MODIFIED:20231010T063756Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Stop Making Sense
-DTSTART:20231009T234500Z
-DTEND:20231010T012500Z
-DTSTAMP:20231009T234500Z
-UID:AlYoHxc86V
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nThe greatest concert film of all 
- time\, Stop Making Sense brings to the screen Talking Heads at Hollywood's
-  Pantages Theater in December 1983: David Byrne\, Tina Weymouth\, Chris Fr
- antz\, and Jerry Harrison\, alongside an ecstatic ensemble of supporting m
- usicians. Renowned filmmaker Jonathan Demme (Silence of the Lambs) capture
- s the band at their exhilarating best\, in this new and complete restorati
- on for the film's 40th anniversary. 40th Anniversary Restoration. OPEN CA
- PTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.
- net/cinema/in-theaters/stop-making-sense
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Royal Hotel
-DTSTART:20231010T021500Z
-DTEND:20231010T040000Z
-DTSTAMP:20231010T021500Z
-UID:aB8iUTCmuQ
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nIn Kitty Green's (The Assistant)
-  latest film\, US backpackers Hanna and Liv take a job in a remote Austra
- lian pub for some extra cash and are confronted with a bunch of unruly loc
- als and a situation that grows rapidly out of their control. OPEN CAPTION 
- SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/ci
- nema/in-theaters/royal-hotel
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stop Making Sense
 DTSTART:20231010T234500Z
@@ -202,6 +171,22 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
   on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
  9 general | $13.13 seniors & students\n\nhttps://www.siff.net/cinema/in-th
  eaters/taylor-swift-the-eras-tour
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231019T020000Z
+DTEND:20231019T044500Z
+DTSTAMP:20231019T020000Z
+UID:ssLyhJhNBL
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Fillm Festival\, Justine Triet’s Anatomy of a Fall tells t
+ he story of an enigmatic German novelist (Sandra Hüller) who is arrested 
+ after the mysterious death of her husband at their chalet in the French Al
+ ps. The court case examines every aspect of the relationship she had with 
+ her husband\, while her visually impaired son is called to testify as a wi
+ tness. Sneak preview screening on October 18\, 2023.\n\nhttps://www.siff.n
+ et/cinema/in-theaters/anatomy-of-a-fall
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

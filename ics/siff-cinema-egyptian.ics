@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231009T145357Z
+LAST-MODIFIED:20231010T063756Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Twins of Evil
-DTSTART:20231010T020000Z
-DTEND:20231010T034000Z
-DTSTAMP:20231010T020000Z
-UID:aGVvupep5N
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nScarecrowber Frieda and Maria are
-  identical twins who stay with their uncle after the death of their parent
- s in the shadow of Karnstein Castle where\, legend has it\, vampires dwell
- . One of the twins is destined to fall under the castle's spell.\n\nhttps:
- //www.siff.net/programs-and-events/scarecrowber/twins-of-evil
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mad Monster Party?
 DTSTART:20231011T020000Z
