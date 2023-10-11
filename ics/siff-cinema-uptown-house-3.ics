@@ -1,42 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231010T063756Z
+LAST-MODIFIED:20231011T065413Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 BEGIN:VEVENT
-SUMMARY:Farewell My Concubine
-DTSTART:20231010T233000Z
-DTEND:20231011T023500Z
-DTSTAMP:20231010T233000Z
-UID:5ZetF1qCaH
-DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
- long out of print masterpiece chronicles the rise of two young stars of th
- e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
- lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
- ll-my-concubine
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Almodovar Shorts
-DTSTART:20231011T030000Z
-DTEND:20231011T041000Z
-DTSTAMP:20231011T030000Z
-UID:Zj0Au9kh65
-DESCRIPTION:Duration: 60 mins (1h00m)\n\nDouble feature presentation of Al
- modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
- \, The Human Voice. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sh
- owtimes\n\nhttps://www.siff.net/cinema/in-theaters/strange-way-of-life-wit
- h-the-human-voice
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Almodovar Shorts
 DTSTART:20231011T233000Z
-DTEND:20231012T004000Z
+DTEND:20231012T004500Z
 DTSTAMP:20231011T233000Z
 UID:wvHYctaqfD
-DESCRIPTION:Duration: 60 mins (1h00m)\n\nDouble feature presentation of Al
+DESCRIPTION:Duration: 61 mins (1h01m)\n\nDouble feature presentation of Al
  modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
  \, The Human Voice. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sh
  owtimes\n\nhttps://www.siff.net/cinema/in-theaters/strange-way-of-life-wit
@@ -72,10 +46,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Almodovar Shorts
 DTSTART:20231013T030000Z
-DTEND:20231013T041000Z
+DTEND:20231013T041500Z
 DTSTAMP:20231013T030000Z
 UID:6yhnYYcij2
-DESCRIPTION:Duration: 60 mins (1h00m)\n\nDouble feature presentation of Al
+DESCRIPTION:Duration: 61 mins (1h01m)\n\nDouble feature presentation of Al
  modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
  \, The Human Voice. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sh
  owtimes\n\nhttps://www.siff.net/cinema/in-theaters/strange-way-of-life-wit
@@ -192,6 +166,32 @@ DTSTART:20231019T023000Z
 DTEND:20231019T043500Z
 DTSTAMP:20231019T023000Z
 UID:ajZ005KbPY
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
+  legendary singer and activist Joan Baez takes an honest look back and a d
+ eep look inward as she tries to make sense of her large\, history-making l
+ ife\, and the personal struggles she's kept private.\n\nhttps://www.siff.n
+ et/cinema/in-theaters/joan-baez-i-am-a-noise
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joan Baez: I Am A Noise
+DTSTART:20231019T234500Z
+DTEND:20231020T015000Z
+DTSTAMP:20231019T234500Z
+UID:tmpp6tnqMv
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
+  legendary singer and activist Joan Baez takes an honest look back and a d
+ eep look inward as she tries to make sense of her large\, history-making l
+ ife\, and the personal struggles she's kept private.\n\nhttps://www.siff.n
+ et/cinema/in-theaters/joan-baez-i-am-a-noise
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joan Baez: I Am A Noise
+DTSTART:20231020T023000Z
+DTEND:20231020T043500Z
+DTSTAMP:20231020T023000Z
+UID:DBfVbDQNv0
 DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
   legendary singer and activist Joan Baez takes an honest look back and a d
  eep look inward as she tries to make sense of her large\, history-making l

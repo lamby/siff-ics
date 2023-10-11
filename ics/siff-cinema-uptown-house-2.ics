@@ -1,65 +1,38 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231010T063756Z
+LAST-MODIFIED:20231011T065413Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 BEGIN:VEVENT
-SUMMARY:Time Bomb Y2K
-DTSTART:20231011T000000Z
-DTEND:20231011T013000Z
-DTSTAMP:20231011T000000Z
-UID:bd9AKXTFNc
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nSIFF DocFest A hilarious and huma
- n look back at the end of the 20th century\, when fears rose that a ubiqui
- tous coding error would cause the world’s computerized systems to grind 
- to a halt\, and armageddon loomed. Individual Tickets: Select showtime to 
- purchasePasses: $100 | $75 SIFF Members - Access to all screenings\n\nhtt
- ps://www.siff.net/programs-and-events/docfest/time-bomb-y2k
+SUMMARY:Stop Making Sense
+DTSTART:20231011T234500Z
+DTEND:20231012T012500Z
+DTSTAMP:20231011T234500Z
+UID:Hj5F1dHL8d
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nThe greatest concert film of all 
+ time\, Stop Making Sense brings to the screen Talking Heads at Hollywood's
+  Pantages Theater in December 1983: David Byrne\, Tina Weymouth\, Chris Fr
+ antz\, and Jerry Harrison\, alongside an ecstatic ensemble of supporting m
+ usicians. Renowned filmmaker Jonathan Demme (Silence of the Lambs) capture
+ s the band at their exhilarating best\, in this new and complete restorati
+ on for the film's 40th anniversary. 40th Anniversary Restoration. OPEN CA
+ PTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.
+ net/cinema/in-theaters/stop-making-sense
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Royal Hotel
-DTSTART:20231011T021500Z
-DTEND:20231011T040000Z
-DTSTAMP:20231011T021500Z
-UID:iZB1KkFF5N
+DTSTART:20231012T021500Z
+DTEND:20231012T040000Z
+DTSTAMP:20231012T021500Z
+UID:AQbRtdqQur
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nIn Kitty Green's (The Assistant)
   latest film\, US backpackers Hanna and Liv take a job in a remote Austra
  lian pub for some extra cash and are confronted with a bunch of unruly loc
  als and a situation that grows rapidly out of their control. OPEN CAPTION 
  SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/ci
  nema/in-theaters/royal-hotel
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Between the Rains 
-DTSTART:20231012T000000Z
-DTEND:20231012T013500Z
-DTSTAMP:20231012T000000Z
-UID:iGi74HxorL
-DESCRIPTION:Duration: 83 mins (1h23m)\n\nSIFF DocFest In their visually st
- unning film\, Moses Thuranira and Andrew H. Brown’s award-winning docume
- ntary explores a tribal boy’s childhood as he grows up in a traditional 
- Kenyan culture that is a casualty of climate change. Individual Tickets: S
- elect showtime to purchasePasses: $100 | $75 SIFF Members - Access to all
-  screenings\n\nhttps://www.siff.net/programs-and-events/docfest/between-th
- e-rains
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Richland
-DTSTART:20231012T023000Z
-DTEND:20231012T041500Z
-DTSTAMP:20231012T023000Z
-UID:xfKG7dYTmI
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nSIFF DocFest Approaching the 80th
-  anniversary of the creation of the Hanford reactor\, Richland\, Washingto
- n’s residents wrestle with both pride and ambivalence about their role i
- n the Nagasaki bombing and the nuclear legacy they have left behind. Indiv
- idual Tickets: Select showtime to purchasePasses: $100 | $75 SIFF Members 
- - Access to all screenings\n\nhttps://www.siff.net/programs-and-events/do
- cfest/richland
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -127,6 +100,125 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
  eep look inward as she tries to make sense of her large\, history-making l
  ife\, and the personal struggles she's kept private.\n\nhttps://www.siff.n
  et/cinema/in-theaters/joan-baez-i-am-a-noise
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231014T231500Z
+DTEND:20231015T010000Z
+DTSTAMP:20231014T231500Z
+UID:kS7cIipbkw
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nIn Kitty Green's (The Assistant)
+  latest film\, US backpackers Hanna and Liv take a job in a remote Austra
+ lian pub for some extra cash and are confronted with a bunch of unruly loc
+ als and a situation that grows rapidly out of their control. OPEN CAPTION 
+ SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/ci
+ nema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine
+DTSTART:20231015T221500Z
+DTEND:20231016T012000Z
+DTSTAMP:20231015T221500Z
+UID:RRPduBY092
+DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
+ long out of print masterpiece chronicles the rise of two young stars of th
+ e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
+ lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
+ ll-my-concubine
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Hotel
+DTSTART:20231016T021500Z
+DTEND:20231016T040000Z
+DTSTAMP:20231016T021500Z
+UID:hSyYxrSCk6
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nIn Kitty Green's (The Assistant)
+  latest film\, US backpackers Hanna and Liv take a job in a remote Austra
+ lian pub for some extra cash and are confronted with a bunch of unruly loc
+ als and a situation that grows rapidly out of their control. OPEN CAPTION 
+ SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/ci
+ nema/in-theaters/royal-hotel
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Almodovar Shorts
+DTSTART:20231016T231500Z
+DTEND:20231017T003000Z
+DTSTAMP:20231016T231500Z
+UID:xO5xjZ0gIP
+DESCRIPTION:Duration: 61 mins (1h01m)\n\nDouble feature presentation of Al
+ modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
+ \, The Human Voice. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sh
+ owtimes\n\nhttps://www.siff.net/cinema/in-theaters/strange-way-of-life-wit
+ h-the-human-voice
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine
+DTSTART:20231017T014500Z
+DTEND:20231017T045000Z
+DTSTAMP:20231017T014500Z
+UID:dd9K1r2cWV
+DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
+ long out of print masterpiece chronicles the rise of two young stars of th
+ e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
+ lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
+ ll-my-concubine
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine
+DTSTART:20231017T231500Z
+DTEND:20231018T022000Z
+DTSTAMP:20231017T231500Z
+UID:FjxiPWXQAE
+DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
+ long out of print masterpiece chronicles the rise of two young stars of th
+ e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
+ lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
+ ll-my-concubine
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Almodovar Shorts
+DTSTART:20231018T024500Z
+DTEND:20231018T040000Z
+DTSTAMP:20231018T024500Z
+UID:SK8QAUfspd
+DESCRIPTION:Duration: 61 mins (1h01m)\n\nDouble feature presentation of Al
+ modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
+ \, The Human Voice. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sh
+ owtimes\n\nhttps://www.siff.net/cinema/in-theaters/strange-way-of-life-wit
+ h-the-human-voice
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Almodovar Shorts
+DTSTART:20231018T231500Z
+DTEND:20231019T003000Z
+DTSTAMP:20231018T231500Z
+UID:MlYvG1giGO
+DESCRIPTION:Duration: 61 mins (1h01m)\n\nDouble feature presentation of Al
+ modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
+ \, The Human Voice. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sh
+ owtimes\n\nhttps://www.siff.net/cinema/in-theaters/strange-way-of-life-wit
+ h-the-human-voice
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine
+DTSTART:20231019T014500Z
+DTEND:20231019T045000Z
+DTSTAMP:20231019T014500Z
+UID:Z9UHY8yVdy
+DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
+ long out of print masterpiece chronicles the rise of two young stars of th
+ e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
+ lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
+ ll-my-concubine
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

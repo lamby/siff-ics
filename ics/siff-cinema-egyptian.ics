@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231010T063756Z
+LAST-MODIFIED:20231011T065413Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Mad Monster Party?
-DTSTART:20231011T020000Z
-DTEND:20231011T034500Z
-DTSTAMP:20231011T020000Z
-UID:H7kMGAFEqO
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nScarecrowber When Dr. Frankenstei
- n retires\, he calls an international roster of monsters to elect his succ
- essor. However\, his title is not all that is at stake\, as the famous doc
- tor realizes the secret of total destruction that must not fall into the w
- rong hands. October 10 screening introduced by Clinton McClung.\n\nhttps:/
- /www.siff.net/programs-and-events/scarecrowber/mad-monster-party
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friday the 13th
 DTSTART:20231014T020000Z
