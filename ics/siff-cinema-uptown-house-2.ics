@@ -1,55 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231011T065413Z
+LAST-MODIFIED:20231013T065707Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Stop Making Sense
-DTSTART:20231011T234500Z
-DTEND:20231012T012500Z
-DTSTAMP:20231011T234500Z
-UID:Hj5F1dHL8d
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nThe greatest concert film of all 
- time\, Stop Making Sense brings to the screen Talking Heads at Hollywood's
-  Pantages Theater in December 1983: David Byrne\, Tina Weymouth\, Chris Fr
- antz\, and Jerry Harrison\, alongside an ecstatic ensemble of supporting m
- usicians. Renowned filmmaker Jonathan Demme (Silence of the Lambs) capture
- s the band at their exhilarating best\, in this new and complete restorati
- on for the film's 40th anniversary. 40th Anniversary Restoration. OPEN CA
- PTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.
- net/cinema/in-theaters/stop-making-sense
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Royal Hotel
-DTSTART:20231012T021500Z
-DTEND:20231012T040000Z
-DTSTAMP:20231012T021500Z
-UID:AQbRtdqQur
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nIn Kitty Green's (The Assistant)
-  latest film\, US backpackers Hanna and Liv take a job in a remote Austra
- lian pub for some extra cash and are confronted with a bunch of unruly loc
- als and a situation that grows rapidly out of their control. OPEN CAPTION 
- SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/ci
- nema/in-theaters/royal-hotel
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Pigeon Tunnel
-DTSTART:20231013T023000Z
-DTEND:20231013T041500Z
-DTSTAMP:20231013T023000Z
-UID:y0utdu1kw5
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nSIFF DocFest Academy Award-winner
-  Errol Morris creates an enthralling portrait of former British spy David 
- Cornwell—a.k.a. writer John le Carré\, whose classic novels changed how
-  we perceive espionage in popular culture and the world. Individual Ticket
- s: Select showtime to purchasePasses: $100 | $75 SIFF Members - Access to
-  all screenings\n\nhttps://www.siff.net/programs-and-events/docfest/the-pi
- geon-tunnel
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joan Baez: I Am A Noise
 DTSTART:20231013T230000Z
@@ -219,6 +173,58 @@ DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\,
  e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
  lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
  ll-my-concubine
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231020T213000Z
+DTEND:20231021T011000Z
+DTSTAMP:20231020T213000Z
+UID:Bwk9ArOxGg
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal.\n\
+ nhttps://www.siff.net/cinema/in-theaters/killers-of-the-flower-moon
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231021T014500Z
+DTEND:20231021T052500Z
+DTSTAMP:20231021T014500Z
+UID:ckC6RYrCCC
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal.\n\
+ nhttps://www.siff.net/cinema/in-theaters/killers-of-the-flower-moon
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231021T213000Z
+DTEND:20231022T011000Z
+DTSTAMP:20231021T213000Z
+UID:J8tUm7o3Dm
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal.\n\
+ nhttps://www.siff.net/cinema/in-theaters/killers-of-the-flower-moon
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231022T014500Z
+DTEND:20231022T052500Z
+DTSTAMP:20231022T014500Z
+UID:PQXFdjHA7A
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal.\n\
+ nhttps://www.siff.net/cinema/in-theaters/killers-of-the-flower-moon
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

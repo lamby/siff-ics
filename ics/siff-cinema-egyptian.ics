@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231011T065413Z
+LAST-MODIFIED:20231013T065707Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
 BEGIN:VEVENT
@@ -81,6 +81,20 @@ DESCRIPTION:Duration: 128 mins (2h08m)\n\nScarecrowber The centuries old v
  ker's fiancée Mina Murray and inflict havoc in the foreign land. Present
  ed in 4k. October 3 screening introduced by Matt Lynch.\n\nhttps://www.sif
  f.net/programs-and-events/scarecrowber/bram-stokers-dracula
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Near Dark
+DTSTART:20231021T020000Z
+DTEND:20231021T034500Z
+DTSTAMP:20231021T020000Z
+UID:RwJK83N9AW
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScarecrowber A small-town farmer'
+ s son reluctantly joins a traveling group of vampires after he is bitten b
+ y a beautiful drifter. Presented in 35mm. Presented by Unstreamable. Scare
+ crow will be on hand for introduction and giveaways! Screening introduced 
+ by Jas Keimig and Chase Burns.\n\nhttps://www.siff.net/programs-and-events
+ /scarecrowber/near-dark
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
