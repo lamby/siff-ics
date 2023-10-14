@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231013T065707Z
+LAST-MODIFIED:20231014T085031Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 BEGIN:VEVENT
@@ -229,6 +229,19 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nSeattle Polish Film Festival Cont
  emporary Warsaw. A young musician meets an aspiring vocalist from a small 
  town. Can two different sounds harmonize?\n\nhttps://www.siff.net/cinema/i
  n-theaters/seattle-polish-film-festival-2023/songs-about-love
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Love Affair With Marriage
+DTSTART:20231022T230000Z
+DTEND:20231023T010000Z
+DTSTAMP:20231022T230000Z
+UID:DcIg4yBlls
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nThis delightful and evocatively 
+ animated musical comedy for adults follows Zelma (Dagmara Dominczyk\, “S
+ uccession”) over 23 years as she learns about and rebels against what wo
+ men are taught about sex\, body image\, the that promise of one true love.
+ \n\nhttps://www.siff.net/cinema/in-theaters/my-love-affair-with-marriage
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

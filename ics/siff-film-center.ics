@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231013T065707Z
+LAST-MODIFIED:20231014T085031Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
-BEGIN:VEVENT
-SUMMARY:Swarm
-DTSTART:20231014T010000Z
-DTEND:20231014T030000Z
-DTSTAMP:20231014T010000Z
-UID:8E5Lro6lZV
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nSeattle Polish Film Festival For
-  ten years a family has been living on an island\, isolated from reality. 
- This apparent harmony turns into a trap. Against her partner's wish\, the 
- mother decides to return to the world she has left behind.\n\nhttps://www.
- siff.net/cinema/in-theaters/seattle-polish-film-festival-2023/swarm
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Came from the Water
-DTSTART:20231014T030000Z
-DTEND:20231014T051000Z
-DTSTAMP:20231014T030000Z
-UID:SF70cemITV
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nSeattle Polish Film Festival A g
- roup of Warsaw high school graduates\, sick and tired of lockdowns and onl
- ine schooling\, decide to head to the seaside for a party to remember.\n\n
- https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2023/
- it-came-from-the-water
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tough Luck
 DTSTART:20231014T210000Z
@@ -149,6 +123,49 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKorean Horror | Film Talks As
  nema Egyptian on Sunday\, October 15. FILM TALK TICKETS Individual Talks: 
  $25 Sustainer | $15 Regular | $10 SIFF member\n\nhttps://www.siff.net/prog
  rams-and-events/film-talks/korean-horror/week-2-succubi-and-killers
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Eagles Grodno ‘39
+DTSTART:20231022T210000Z
+DTEND:20231022T225500Z
+DTSTAMP:20231022T210000Z
+UID:oqYTeIFnFn
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nSeattle Polish Film Festival You
+ ng Eagles is a dramatic depiction of war against the Soviets as seen throu
+ gh the eyes of a twelve-year-old boy\, Leon. On 9/1/1939\, marking the beg
+ inning of the school year\, his school is bombed by German planes. The war
+  forces Leoś\, Tadek\, Ewelina\, and thousands of Polish children to leav
+ e their childhood behind and quickly grow up in order to confront darkness
+  of this new\, twisted reality of adult life they are about to face\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2023/you
+ ng-eagles-grodno-39
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Breach
+DTSTART:20231022T231500Z
+DTEND:20231023T010000Z
+DTSTAMP:20231022T231500Z
+UID:jAq8NhlrxC
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nSeattle Polish Film Festival Maci
+ ek's wife's accident turns his life upside down. Soon the tragedy turns in
+ to a mystery full of secrets.\n\nhttps://www.siff.net/cinema/in-theaters/s
+ eattle-polish-film-festival-2023/the-breach
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hidden Web
+DTSTART:20231023T011500Z
+DTEND:20231023T031500Z
+DTSTAMP:20231023T011500Z
+UID:OvbyVmVWeR
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nSeattle Polish Film Festival You
+ ng journalist Julita Wójcicka is investigating the mysterious death of a 
+ television celebrity. She believes that what the services classify as an u
+ nfortunate accident was in fact a precisely planned crime.\n\nhttps://www.
+ siff.net/cinema/in-theaters/seattle-polish-film-festival-2023/the-hidden-w
+ eb
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR

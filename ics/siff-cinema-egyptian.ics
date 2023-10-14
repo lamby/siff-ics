@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231013T065707Z
+LAST-MODIFIED:20231014T085031Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Friday the 13th
-DTSTART:20231014T020000Z
-DTEND:20231014T034500Z
-DTSTAMP:20231014T020000Z
-UID:Hw50FJYCfF
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nWhen Camp Crystal Lake reopens af
- ter being closed down 20 years ago for being cursed with death\, horny tee
- n camp counselors find themselves stalked by an unseen killer\, who hunts 
- them down one-by-one on the night of Friday the 13th.\n\nhttps://www.siff.
- net/cinema/in-theaters/friday-the-13th
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:She Marches in Chinatown
 DTSTART:20231014T203000Z
@@ -95,6 +82,19 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nScarecrowber A small-town farmer'
  crow will be on hand for introduction and giveaways! Screening introduced 
  by Jas Keimig and Chase Burns.\n\nhttps://www.siff.net/programs-and-events
  /scarecrowber/near-dark
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wailing
+DTSTART:20231022T210000Z
+DTEND:20231022T235000Z
+DTSTAMP:20231022T210000Z
+UID:C6WoB9dOru
+DESCRIPTION:Duration: 157 mins (2h37m)\n\nKorean Horror Film Talk & Screen
+ ing Series When a rural town is suddenly plagued with a bizarre and violen
+ t disease\, the local police begin to suspect a foreign newcomer. But who 
+ can be believed\, and what can you believe in?\n\nhttps://www.siff.net/cin
+ ema/in-theaters/the-wailing
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

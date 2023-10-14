@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231013T065707Z
+LAST-MODIFIED:20231014T085031Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Joan Baez: I Am A Noise
-DTSTART:20231013T230000Z
-DTEND:20231014T010500Z
-DTSTAMP:20231013T230000Z
-UID:AAqRPxSvXv
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
-  legendary singer and activist Joan Baez takes an honest look back and a d
- eep look inward as she tries to make sense of her large\, history-making l
- ife\, and the personal struggles she's kept private.\n\nhttps://www.siff.n
- et/cinema/in-theaters/joan-baez-i-am-a-noise
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joan Baez: I Am A Noise
-DTSTART:20231014T023000Z
-DTEND:20231014T043500Z
-DTSTAMP:20231014T023000Z
-UID:yn6xHj2oTR
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
-  legendary singer and activist Joan Baez takes an honest look back and a d
- eep look inward as she tries to make sense of her large\, history-making l
- ife\, and the personal struggles she's kept private.\n\nhttps://www.siff.n
- et/cinema/in-theaters/joan-baez-i-am-a-noise
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joan Baez: I Am A Noise
 DTSTART:20231014T203000Z
@@ -220,6 +194,32 @@ DTSTART:20231022T014500Z
 DTEND:20231022T052500Z
 DTSTAMP:20231022T014500Z
 UID:PQXFdjHA7A
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal.\n\
+ nhttps://www.siff.net/cinema/in-theaters/killers-of-the-flower-moon
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231022T213000Z
+DTEND:20231023T011000Z
+DTSTAMP:20231022T213000Z
+UID:rju9PYytAS
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal.\n\
+ nhttps://www.siff.net/cinema/in-theaters/killers-of-the-flower-moon
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231023T014500Z
+DTEND:20231023T052500Z
+DTSTAMP:20231023T014500Z
+UID:m9mXVS7ARp
 DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
  hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
  ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
