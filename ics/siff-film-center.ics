@@ -1,66 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231014T085031Z
+LAST-MODIFIED:20231015T081126Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
-BEGIN:VEVENT
-SUMMARY:Tough Luck
-DTSTART:20231014T210000Z
-DTEND:20231014T224000Z
-DTSTAMP:20231014T210000Z
-UID:OkLlcbKO9m
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nSeattle Polish Film Festival Duri
- ng the wake after the funeral of their beloved grandfather\, the family fi
- nds out that the numbers that grandfather played all his life have just be
- en drawn in the lottery.\n\nhttps://www.siff.net/cinema/in-theaters/seattl
- e-polish-film-festival-2023/tough-luck
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backwards
-DTSTART:20231014T230000Z
-DTEND:20231015T010500Z
-DTSTAMP:20231014T230000Z
-UID:a7XGwnmUn3
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nSeattle Polish Film Festival The
-  story of the mother of an autistic boy\, whose fight against bureaucracy 
- and human heartlessness led to significant changes in the Polish education
-  system. Inspired by real events.\n\nhttps://www.siff.net/cinema/in-theate
- rs/seattle-polish-film-festival-2023/backwards
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elephant
-DTSTART:20231015T011500Z
-DTEND:20231015T030000Z
-DTSTAMP:20231015T011500Z
-UID:UaAfAnDwMu
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nSeattle Polish Film Festival Bart
- ek (22) runs a small horse farm in the mountains in Poland. He had to beco
- me head of the family when his father left and his mother fell apart. One 
- day their neighbour dies and his son Dawid (32) comes back to the village 
- for funeral. Bartek becomes fascinated by Dawid and his carefreeness. Firs
- t love will force him to decide if he’s ready to choose his freedom abov
- e family obligations.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-p
- olish-film-festival-2023/elephant
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dangerous Gentlemen
-DTSTART:20231015T030000Z
-DTEND:20231015T050000Z
-DTSTAMP:20231015T030000Z
-UID:N7JfZ4mceM
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nSeattle Polish Film Festival Tad
- eusz Boy-Zelenski\, Witkacy\, Joseph Conrad and Bronislaw Malinowski\, fou
- r leading figures among the Zakopane bohemians\, wake up after an all-nigh
- t drunken party. Their hangover headaches are killing them\, none of them 
- remembers anything\, and finding the corpse of a male stranger on the floo
- r doesn't help.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-polish-
- film-festival-2023/dangerous-gentlemen
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sholem Aleichem: Laughing in the Darkness
 DTSTART:20231015T210000Z
@@ -166,6 +109,28 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nSeattle Polish Film Festival You
  nfortunate accident was in fact a precisely planned crime.\n\nhttps://www.
  siff.net/cinema/in-theaters/seattle-polish-film-festival-2023/the-hidden-w
  eb
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Korean Horror Week 3
+DTSTART:20231024T020000Z
+DTEND:20231024T041000Z
+DTSTAMP:20231024T020000Z
+UID:ai73R1baJb
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nKorean Horror | Film Talks The
+  fear of the other is one of the most central terrors animating human hist
+ ory. This week\, we’ll discuss two films that plant this fear squarely w
+ ithin South Korea’s history under Japanese colonization and American mil
+ itary imperialism. Featuring The Wailing (2016)\, we’ll discuss the film
+ ’s depiction of traditional shamanism through the subgenre of folk horro
+ r and the lenses of tradition\, modernity\, and religion. As well\, we’l
+ l examine the monstrous consequences of military imperialism as literalize
+ d through The Host (2006)\, the film that drew global attention to directo
+ r Bong Joon-ho (Parasite).  In conjunction with this film talk\, SIFF wil
+ l present The Wailing at SIFF Cinema Egyptian on Sunday\, October 22. FILM
+  TALK TICKETS Individual Talks: $25 Sustainer | $15 Regular | $10 SIFF mem
+ ber\n\nhttps://www.siff.net/programs-and-events/film-talks/korean-horror/w
+ eek-3-foreign-devils-and-monsters
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR

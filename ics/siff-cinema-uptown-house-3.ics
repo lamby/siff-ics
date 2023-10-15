@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231014T085031Z
+LAST-MODIFIED:20231015T081126Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 BEGIN:VEVENT
@@ -242,6 +242,19 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nThis delightful and evocatively
  uccession”) over 23 years as she learns about and rebels against what wo
  men are taught about sex\, body image\, the that promise of one true love.
  \n\nhttps://www.siff.net/cinema/in-theaters/my-love-affair-with-marriage
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231023T234500Z
+DTEND:20231024T032500Z
+DTSTAMP:20231023T234500Z
+UID:58DeQAhmC0
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal.\n\
+ nhttps://www.siff.net/cinema/in-theaters/killers-of-the-flower-moon
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231014T085031Z
+LAST-MODIFIED:20231015T081126Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:She Marches in Chinatown
-DTSTART:20231014T203000Z
-DTEND:20231014T224000Z
-DTSTAMP:20231014T203000Z
-UID:OMkhl2s6Gr
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Seattle Chinese Community Gi
- rls Drill Team is the only drill team in the world to combine Chinese oper
- a costumes with American military style drills. Currently at a crossroads\
- , the team has empowered Asian American females for over 70 years and rema
- ins an iconic parade favorite. Free screening. Co-presented with Chenanig
- an Films.\n\nhttps://www.siff.net/cinema/in-theaters/she-marches-in-chinat
- own
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cujo
-DTSTART:20231015T020000Z
-DTEND:20231015T034500Z
-DTSTAMP:20231015T020000Z
-UID:BRJjCucG7f
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nScarecrowber Cujo\, a friendly St
- . Bernard\, contracts rabies and conducts a reign of terror on a small Ame
- rican town. Presented by Viva Physical Media. Scarecrow will be on hand fo
- r introduction and giveaways! Screening introduced by Emalie Soderback and
-  Matt Lynch.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/cujo
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Housemaid
 DTSTART:20231015T210000Z
@@ -95,6 +67,18 @@ DESCRIPTION:Duration: 157 mins (2h37m)\n\nKorean Horror Film Talk & Screen
  t disease\, the local police begin to suspect a foreign newcomer. But who 
  can be believed\, and what can you believe in?\n\nhttps://www.siff.net/cin
  ema/in-theaters/the-wailing
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Possession
+DTSTART:20231024T013000Z
+DTEND:20231024T034500Z
+DTSTAMP:20231024T013000Z
+UID:2uSSU9CHIa
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nScarecrowber A woman starts exhi
+ biting increasingly disturbing behavior after asking her husband for a div
+ orce. Suspicions of infidelity soon give way to something much more sinist
+ er.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/possession
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231014T085031Z
+LAST-MODIFIED:20231015T081126Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Joan Baez: I Am A Noise
-DTSTART:20231014T203000Z
-DTEND:20231014T223500Z
-DTSTAMP:20231014T203000Z
-UID:MiF0iHxLLJ
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
-  legendary singer and activist Joan Baez takes an honest look back and a d
- eep look inward as she tries to make sense of her large\, history-making l
- ife\, and the personal struggles she's kept private.\n\nhttps://www.siff.n
- et/cinema/in-theaters/joan-baez-i-am-a-noise
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joan Baez: I Am A Noise
-DTSTART:20231015T023000Z
-DTEND:20231015T043500Z
-DTSTAMP:20231015T023000Z
-UID:Y2ROvdOp4W
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nAt the end of a 60-year career\,
-  legendary singer and activist Joan Baez takes an honest look back and a d
- eep look inward as she tries to make sense of her large\, history-making l
- ife\, and the personal struggles she's kept private.\n\nhttps://www.siff.n
- et/cinema/in-theaters/joan-baez-i-am-a-noise
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Royal Hotel
-DTSTART:20231014T231500Z
-DTEND:20231015T010000Z
-DTSTAMP:20231014T231500Z
-UID:kS7cIipbkw
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nIn Kitty Green's (The Assistant)
-  latest film\, US backpackers Hanna and Liv take a job in a remote Austra
- lian pub for some extra cash and are confronted with a bunch of unruly loc
- als and a situation that grows rapidly out of their control. OPEN CAPTION 
- SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/ci
- nema/in-theaters/royal-hotel
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Farewell My Concubine
 DTSTART:20231015T221500Z
@@ -220,6 +180,19 @@ DTSTART:20231023T014500Z
 DTEND:20231023T052500Z
 DTSTAMP:20231023T014500Z
 UID:m9mXVS7ARp
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal.\n\
+ nhttps://www.siff.net/cinema/in-theaters/killers-of-the-flower-moon
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231024T014500Z
+DTEND:20231024T052500Z
+DTSTAMP:20231024T014500Z
+UID:1JDcKrEby9
 DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
  hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
  ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
