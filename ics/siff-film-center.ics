@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231015T081126Z
+LAST-MODIFIED:20231016T083256Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
-BEGIN:VEVENT
-SUMMARY:Sholem Aleichem: Laughing in the Darkness
-DTSTART:20231015T210000Z
-DTEND:20231015T230500Z
-DTSTAMP:20231015T210000Z
-UID:u1hB0iqcAh
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nSeattle Polish Film Festival Fil
- mmaker Joseph Dorman presents the life\, work and legacy of the Yiddish wr
- iter who used the vernacular of the common man.\n\nhttps://www.siff.net/ci
- nema/in-theaters/seattle-polish-film-festival-2023/sholem-aleichem-laughin
- g-in-the-darkness
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Woman on the Roof
-DTSTART:20231015T230000Z
-DTEND:20231016T005000Z
-DTSTAMP:20231015T230000Z
-UID:iKRhs7g9Za
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nSeattle Polish Film Festival Mira
- \, a 60 year-old woman\, appears to have a normal life. One morning she st
- arts her day like any other\, wakes up early\, puts her family's clothes o
- ut to dry\, purchases food for her fish and commits a bank robbery with a 
- kitchen knife. She discovers her need for money is surpassed only by her n
- eed for love.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-polish-fi
- lm-festival-2023/woman-on-the-roof
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dad
-DTSTART:20231016T010000Z
-DTEND:20231016T030000Z
-DTSTAMP:20231016T010000Z
-UID:VyvTsls2Y4
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nSeattle Polish Film Festival A l
- onely dad\, facing the sudden death of a Ukrainian babysitter\, takes his 
- daughter and her friend on a journey by the truck. Will trucker and two sc
- amp girls handle the transport of frozen fish\, body smuggling and life wi
- thout a home?\n\nhttps://www.siff.net/cinema/in-theaters/seattle-polish-fi
- lm-festival-2023/dad
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Korean Horror Week 2
 DTSTART:20231017T020000Z
@@ -131,6 +89,18 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKorean Horror | Film Talks The
   TALK TICKETS Individual Talks: $25 Sustainer | $15 Regular | $10 SIFF mem
  ber\n\nhttps://www.siff.net/programs-and-events/film-talks/korean-horror/w
  eek-3-foreign-devils-and-monsters
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Classified Cinema presents: SECRET MOVIE
+DTSTART:20231025T023000Z
+DTEND:20231025T040500Z
+DTSTAMP:20231025T023000Z
+UID:IEfLnnHl8I
+DESCRIPTION:Duration: 84 mins (1h24m)\n\nImmaculately curated films kept t
+ op secret until they hit the screen. Always fun\, never pretentious\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/classified-cinema-presents-secret-mov
+ ie
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
