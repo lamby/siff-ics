@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231016T083256Z
+LAST-MODIFIED:20231017T084302Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Carnival of Souls
-DTSTART:20231017T020000Z
-DTEND:20231017T033000Z
-DTSTAMP:20231017T020000Z
-UID:6lnCIl2QRV
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nScarecrowber After a traumatic ac
- cident\, a woman becomes drawn to a mysterious abandoned carnival. Presen
- ted in 4k. October 16\, 29 screening presented by Emalie Soderback.\n\nhtt
- ps://www.siff.net/programs-and-events/scarecrowber/carnival-of-souls
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bram Stoker's Dracula
 DTSTART:20231018T013000Z
@@ -66,6 +54,20 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nScarecrowber A woman starts exhi
  biting increasingly disturbing behavior after asking her husband for a div
  orce. Suspicions of infidelity soon give way to something much more sinist
  er.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/possession
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cat People
+DTSTART:20231026T020000Z
+DTEND:20231026T032500Z
+DTSTAMP:20231026T020000Z
+UID:PXecgUl9jj
+DESCRIPTION:Duration: 73 mins (1h13m)\n\nScarecrowber Simone Simon stars a
+ s a Serbian émigré in Manhattan who believes that\, because of an ancien
+ t curse\, any physical intimacy with the man she loves (Kent Smith) will t
+ urn her into a feline predator. October 7 screening introduced by Megan M
+ cNeils.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/cat-peopl
+ e
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
