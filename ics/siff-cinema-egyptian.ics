@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231017T084302Z
+LAST-MODIFIED:20231018T081117Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Bram Stoker's Dracula
-DTSTART:20231018T013000Z
-DTEND:20231018T035000Z
-DTSTAMP:20231018T013000Z
-UID:u8tDAwVveb
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nScarecrowber The centuries old v
- ampire Count Dracula comes to England to seduce his barrister Jonathan Har
- ker's fiancée Mina Murray and inflict havoc in the foreign land. Present
- ed in 4k. October 3 screening introduced by Matt Lynch.\n\nhttps://www.sif
- f.net/programs-and-events/scarecrowber/bram-stokers-dracula
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Near Dark
 DTSTART:20231021T020000Z
@@ -68,6 +55,19 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nScarecrowber Simone Simon stars a
  urn her into a feline predator. October 7 screening introduced by Megan M
  cNeils.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/cat-peopl
  e
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twins of Evil
+DTSTART:20231027T020000Z
+DTEND:20231027T034000Z
+DTSTAMP:20231027T020000Z
+UID:dtEwL1ov0j
+DESCRIPTION:Duration: 87 mins (1h27m)\n\nScarecrowber Frieda and Maria are
+  identical twins who stay with their uncle after the death of their parent
+ s in the shadow of Karnstein Castle where\, legend has it\, vampires dwell
+ . One of the twins is destined to fall under the castle's spell.\n\nhttps:
+ //www.siff.net/programs-and-events/scarecrowber/twins-of-evil
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
