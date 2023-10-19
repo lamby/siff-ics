@@ -1,39 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231018T081117Z
+LAST-MODIFIED:20231019T090600Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:The Royal Hotel
-DTSTART:20231018T233000Z
-DTEND:20231019T011500Z
-DTSTAMP:20231018T233000Z
-UID:s6ZUfPv6J7
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nIn Kitty Green's (The Assistant)
-  latest film\, US backpackers Hanna and Liv take a job in a remote Austra
- lian pub for some extra cash and are confronted with a bunch of unruly loc
- als and a situation that grows rapidly out of their control. OPEN CAPTION 
- SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.siff.net/ci
- nema/in-theaters/royal-hotel
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART:20231019T020000Z
-DTEND:20231019T044500Z
-DTSTAMP:20231019T020000Z
-UID:ssLyhJhNBL
-DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
- e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
- e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
- fter the mysterious death of her husband at their chalet in the French Alp
- s. The court case examines every aspect of the relationship she had with h
- er husband\, while her visually impaired son is called to testify as a wit
- ness. Sneak preview screening on October 18\, 2023.\n\nhttps://www.siff.ne
- t/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
 DTSTART:20231019T220000Z
@@ -218,6 +188,19 @@ DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
  n crime saga\, where real love crosses paths with unspeakable betrayal. OP
  EN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttps://www.
  siff.net/cinema/in-theaters/killers-of-the-flower-moon
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231028T023000Z
+DTEND:20231028T033500Z
+DTSTAMP:20231028T023000Z
+UID:mTE7iyb6AI
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

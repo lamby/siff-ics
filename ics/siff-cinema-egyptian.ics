@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231018T081117Z
+LAST-MODIFIED:20231019T090600Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
 BEGIN:VEVENT
@@ -68,6 +68,18 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nScarecrowber Frieda and Maria are
  s in the shadow of Karnstein Castle where\, legend has it\, vampires dwell
  . One of the twins is destined to fall under the castle's spell.\n\nhttps:
  //www.siff.net/programs-and-events/scarecrowber/twins-of-evil
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Possession
+DTSTART:20231028T013000Z
+DTEND:20231028T034500Z
+DTSTAMP:20231028T013000Z
+UID:GLvuAye2nC
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nScarecrowber A woman starts exhi
+ biting increasingly disturbing behavior after asking her husband for a div
+ orce. Suspicions of infidelity soon give way to something much more sinist
+ er.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/possession
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

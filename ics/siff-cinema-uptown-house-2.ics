@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231018T081117Z
+LAST-MODIFIED:20231019T090600Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Almodovar Shorts
-DTSTART:20231018T231500Z
-DTEND:20231019T003000Z
-DTSTAMP:20231018T231500Z
-UID:MlYvG1giGO
-DESCRIPTION:Duration: 61 mins (1h01m)\n\nDouble feature presentation of Al
- modóvar's latest short\, Strange Way of Life\, as well as his 2020 short
- \, The Human Voice. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sh
- owtimes\n\nhttps://www.siff.net/cinema/in-theaters/strange-way-of-life-wit
- h-the-human-voice
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Farewell My Concubine
-DTSTART:20231019T014500Z
-DTEND:20231019T045000Z
-DTSTAMP:20231019T014500Z
-UID:Z9UHY8yVdy
-DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
- long out of print masterpiece chronicles the rise of two young stars of th
- e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
- lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
- ll-my-concubine
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
 DTSTART:20231020T220000Z
@@ -187,6 +161,38 @@ DTSTART:20231027T020000Z
 DTEND:20231027T045500Z
 DTSTAMP:20231027T020000Z
 UID:gHWDnbmPY2
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
+ s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
+ ilm experience with a breathtaking\, cinematic view of the history-making 
+ tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
+  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
+ 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
+ -swift-the-eras-tour
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
+DTSTART:20231027T220000Z
+DTEND:20231028T005500Z
+DTSTAMP:20231027T220000Z
+UID:ufgfUiO7DY
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
+ s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
+ ilm experience with a breathtaking\, cinematic view of the history-making 
+ tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
+  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
+ 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
+ -swift-the-eras-tour
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
+DTSTART:20231028T020000Z
+DTEND:20231028T045500Z
+DTSTAMP:20231028T020000Z
+UID:LD2sBkJS7F
 DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
  ilm experience with a breathtaking\, cinematic view of the history-making 
