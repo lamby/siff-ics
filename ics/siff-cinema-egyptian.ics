@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231019T090600Z
+LAST-MODIFIED:20231020T063942Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
 BEGIN:VEVENT
@@ -80,6 +80,46 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nScarecrowber A woman starts exhi
  biting increasingly disturbing behavior after asking her husband for a div
  orce. Suspicions of infidelity soon give way to something much more sinist
  er.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/possession
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad Monster Party?
+DTSTART:20231028T200000Z
+DTEND:20231028T214500Z
+DTSTAMP:20231028T200000Z
+UID:UdLtCaFLnW
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScarecrowber When Dr. Frankenstei
+ n retires\, he calls an international roster of monsters to elect his succ
+ essor. However\, his title is not all that is at stake\, as the famous doc
+ tor realizes the secret of total destruction that must not fall into the w
+ rong hands. October 10 screening introduced by Clinton McClung.\n\nhttps:/
+ /www.siff.net/programs-and-events/scarecrowber/mad-monster-party
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spookies
+DTSTART:20231028T230000Z
+DTEND:20231029T003500Z
+DTSTAMP:20231028T230000Z
+UID:4ZDpSy4LIh
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nScarecrowber A dilapidated mansio
+ n becomes a slaughterhouse when an evil sorcerer unleashes his monstrous s
+ idekicks on intruders. Presented in 4k. October 8 screening introduced by
+  Alicia Betty.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/sp
+ ookies
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula
+DTSTART:20231029T013000Z
+DTEND:20231029T035000Z
+DTSTAMP:20231029T013000Z
+UID:gw6f9LYhZP
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nScarecrowber The centuries old v
+ ampire Count Dracula comes to England to seduce his barrister Jonathan Har
+ ker's fiancée Mina Murray and inflict havoc in the foreign land. Present
+ ed in 4k. October 3 screening introduced by Matt Lynch.\n\nhttps://www.sif
+ f.net/programs-and-events/scarecrowber/bram-stokers-dracula
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
