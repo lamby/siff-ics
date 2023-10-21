@@ -1,57 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231020T063942Z
+LAST-MODIFIED:20231021T074942Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
-DTSTART:20231020T020000Z
-DTEND:20231020T045500Z
-DTSTAMP:20231020T020000Z
-UID:a8YyD7kFgR
-DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
- s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
- ilm experience with a breathtaking\, cinematic view of the history-making 
- tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
-  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
- 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
- -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231020T213000Z
-DTEND:20231021T011000Z
-DTSTAMP:20231020T213000Z
-UID:Bwk9ArOxGg
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231021T014500Z
-DTEND:20231021T052500Z
-DTSTAMP:20231021T014500Z
-UID:ckC6RYrCCC
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Killers of the Flower Moon
 DTSTART:20231021T213000Z
@@ -197,6 +149,22 @@ DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231027T213000Z
+DTEND:20231028T011000Z
+DTSTAMP:20231027T213000Z
+UID:xB5qxHg6u5
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Once Within a Time
 DTSTART:20231028T023000Z
 DTEND:20231028T033500Z
@@ -231,6 +199,38 @@ DTSTART:20231029T020000Z
 DTEND:20231029T045500Z
 DTSTAMP:20231029T020000Z
 UID:ZTP3C6r1if
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
+ s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
+ ilm experience with a breathtaking\, cinematic view of the history-making 
+ tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
+  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
+ 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
+ -swift-the-eras-tour
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
+DTSTART:20231029T220000Z
+DTEND:20231030T005500Z
+DTSTAMP:20231029T220000Z
+UID:wWwYkCg77g
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
+ s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
+ ilm experience with a breathtaking\, cinematic view of the history-making 
+ tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
+  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
+ 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
+ -swift-the-eras-tour
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
+DTSTART:20231030T020000Z
+DTEND:20231030T045500Z
+DTSTAMP:20231030T020000Z
+UID:VRf8QF40Y4
 DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
  ilm experience with a breathtaking\, cinematic view of the history-making 

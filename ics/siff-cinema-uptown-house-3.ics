@@ -1,39 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231020T063942Z
+LAST-MODIFIED:20231021T074942Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:If I Were You
-DTSTART:20231021T010000Z
-DTEND:20231021T030000Z
-DTSTAMP:20231021T010000Z
-UID:yauf9jKjik
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nSeattle Polish Film Festival Nor
- mal married couple with one adorable child find fighting about everything 
- the norm until one day they wake up in the other's body - oops - and get t
- o see what it is to be married to themselves.\n\nhttps://www.siff.net/cine
- ma/in-theaters/seattle-polish-film-festival-2023/if-i-were-you
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filip
-DTSTART:20231021T031500Z
-DTEND:20231021T053000Z
-DTSTAMP:20231021T031500Z
-UID:r5iZTcmRyy
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nSeattle Polish Film Festival Fil
- ip\, an attractive twenty-something man\, juggles working as a waiter in a
-  luxury hotel with trying to enjoy life in a time when enjoyment is hard t
- o find. But pleasure can also be derived from vengeance\, especially when 
- every day brings uncertainty in terms of survival. This very current study
-  of identity and wartime trauma dressed in period garb poses unsettling qu
- estions about the limits of human resilience and the price of salvation.\n
- \nhttps://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-202
- 3/filip
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Until the Last Drop
 DTSTART:20231021T210000Z
@@ -179,6 +149,22 @@ DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231028T014500Z
+DTEND:20231028T052500Z
+DTSTAMP:20231028T014500Z
+UID:TC8CBk2q51
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Once Within a Time
 DTSTART:20231028T000000Z
 DTEND:20231028T010500Z
@@ -223,6 +209,45 @@ DTSTART:20231029T023000Z
 DTEND:20231029T033500Z
 DTSTAMP:20231029T023000Z
 UID:i41doExu9O
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231029T221500Z
+DTEND:20231029T232000Z
+DTSTAMP:20231029T221500Z
+UID:4RYBUkAB4T
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231030T000000Z
+DTEND:20231030T010500Z
+DTSTAMP:20231030T000000Z
+UID:KxMl8rUFRT
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231030T023000Z
+DTEND:20231030T033500Z
+DTSTAMP:20231030T023000Z
+UID:vDCPTW7H8K
 DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
  o returns after ten years with a new experimental film about the end of th
  e world and the beginning of a new one\, featuring an electrifying score b
