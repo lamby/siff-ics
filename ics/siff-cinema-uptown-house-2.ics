@@ -1,41 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231021T074942Z
+LAST-MODIFIED:20231022T084300Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
-DTSTART:20231021T220000Z
-DTEND:20231022T005500Z
-DTSTAMP:20231021T220000Z
-UID:NZpb9qRhrb
-DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
- s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
- ilm experience with a breathtaking\, cinematic view of the history-making 
- tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
-  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
- 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
- -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
-DTSTART:20231022T020000Z
-DTEND:20231022T045500Z
-DTSTAMP:20231022T020000Z
-UID:fhVLV1YRiI
-DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
- s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
- ilm experience with a breathtaking\, cinematic view of the history-making 
- tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
-  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
- 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
- -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
 DTSTART:20231022T220000Z
@@ -169,6 +137,34 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
  day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
  -swift-the-eras-tour
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle 48 Hour Horror 
+DTSTART:20231031T013000Z
+DTEND:20231031T032000Z
+DTSTAMP:20231031T013000Z
+UID:R9mtwg0obJ
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nA collection of 60 locally produ
+ ced horror films\, all shot for the Seattle 48 Hour Horror Film Project du
+ ring the second weekend of October. Individual Tickets: $15 | $12 SIFF Me
+ mbers\, Seniors\, Students\, Groups of 10+ - Select showtimes to purchaseP
+ asses: $50 - Access to all series screenings\n\nhttps://www.siff.net/cine
+ ma/in-theaters/10th-annual-seattle-48-hour-horror-film-project
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle 48 Hour Horror 
+DTSTART:20231031T040000Z
+DTEND:20231031T055000Z
+DTSTAMP:20231031T040000Z
+UID:eB8UNwyGkK
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nA collection of 60 locally produ
+ ced horror films\, all shot for the Seattle 48 Hour Horror Film Project du
+ ring the second weekend of October. Individual Tickets: $15 | $12 SIFF Me
+ mbers\, Seniors\, Students\, Groups of 10+ - Select showtimes to purchaseP
+ asses: $50 - Access to all series screenings\n\nhttps://www.siff.net/cine
+ ma/in-theaters/10th-annual-seattle-48-hour-horror-film-project
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

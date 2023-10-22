@@ -1,63 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231021T074942Z
+LAST-MODIFIED:20231022T084300Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Until the Last Drop
-DTSTART:20231021T210000Z
-DTEND:20231021T222000Z
-DTSTAMP:20231021T210000Z
-UID:JDDh20Oe6s
-DESCRIPTION:Duration: 69 mins (1h09m)\n\nSeattle Polish Film Festival Unti
- l the Last Drop is the latest documentary by the famous director and produ
- cer Ewa Ewart\, created in co-production with TVN24. Reveals the global co
- sts and consequences of destroying nature "in the name of progress."\n\nht
- tps://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2023/un
- til-the-last-drop
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:True Life of Angels
-DTSTART:20231021T223000Z
-DTEND:20231022T000000Z
-DTSTAMP:20231021T223000Z
-UID:8U5eKN0VrM
-DESCRIPTION:Duration: 77 mins (1h17m)\n\nSeattle Polish Film Festival Adam
- \, a famous actor\, a man with typical troubles of the middle-aged male an
- d difficulties in finding the meaning of life\, gets a stroke and loses co
- ntact with the world. Doctors make a catastrophic diagnosis.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/seattle-polish-film-festival-2023/true-life-
- of-angels
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Baptism
-DTSTART:20231022T001500Z
-DTEND:20231022T015500Z
-DTSTAMP:20231022T001500Z
-UID:dWiDuEMvej
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nSeattle Polish Film Festival Mari
- anna wants the family to live in harmony. The christening of her youngest 
- grandson is a chance for reconciliation between her relatives. Plans are t
- hwarted by General Jaruzelski. It is December 13\, 1981. On this solemn da
- y for the whole family\, martial law is introduced.\n\nhttps://www.siff.ne
- t/cinema/in-theaters/seattle-polish-film-festival-2023/baptism
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Songs About Love
-DTSTART:20231022T023000Z
-DTEND:20231022T041000Z
-DTSTAMP:20231022T023000Z
-UID:MuhcXPBhIf
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nSeattle Polish Film Festival Cont
- emporary Warsaw. A young musician meets an aspiring vocalist from a small 
- town. Can two different sounds harmonize?\n\nhttps://www.siff.net/cinema/i
- n-theaters/seattle-polish-film-festival-2023/songs-about-love
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Love Affair With Marriage
 DTSTART:20231022T230000Z
@@ -248,6 +194,32 @@ DTSTART:20231030T023000Z
 DTEND:20231030T033500Z
 DTSTAMP:20231030T023000Z
 UID:vDCPTW7H8K
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231031T000000Z
+DTEND:20231031T010500Z
+DTSTAMP:20231031T000000Z
+UID:L03SCZYqfG
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231031T023000Z
+DTEND:20231031T033500Z
+DTSTAMP:20231031T023000Z
+UID:OKQIAVC9Dx
 DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
  o returns after ten years with a new experimental film about the end of th
  e world and the beginning of a new one\, featuring an electrifying score b

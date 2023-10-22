@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231021T074942Z
+LAST-MODIFIED:20231022T084300Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
 BEGIN:VEVENT
@@ -79,6 +79,24 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nImmaculately curated films kept t
  op secret until they hit the screen. Always fun\, never pretentious.\n\nht
  tps://www.siff.net/cinema/in-theaters/classified-cinema-presents-secret-mo
  vie
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Korean Horror Week 4
+DTSTART:20231031T020000Z
+DTEND:20231031T041000Z
+DTSTAMP:20231031T020000Z
+UID:JxYgXBvv4R
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nKorean Horror | Film Talks Inf
+ ection and apocalypse consume our modern waking nightmares—Korean media 
+ is not immune. To finish out our course\, we’ll examine the Korean zombi
+ e craze initiated by 2016’s global hit\, Train to Busan (2016)\, and con
+ tinued by films like the refreshingly funny horror-comedy\, Zombie for Sal
+ e (2019). Why zombies\, why now?  In conjunction with this film talk\, SI
+ FF will present Train to Busan at SIFF Cinema Egyptian on Sunday\, October
+  29. FILM TALK TICKETS Individual Talks: $25 Sustainer | $15 Regular | $10
+  SIFF member\n\nhttps://www.siff.net/programs-and-events/film-talks/korean
+ -horror/week-4-zombies-and-viruses
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
