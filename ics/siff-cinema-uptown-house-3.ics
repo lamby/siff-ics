@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231022T084300Z
+LAST-MODIFIED:20231023T072016Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:My Love Affair With Marriage
-DTSTART:20231022T230000Z
-DTEND:20231023T010000Z
-DTSTAMP:20231022T230000Z
-UID:DcIg4yBlls
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nThis delightful and evocatively 
- animated musical comedy for adults follows Zelma (Dagmara Dominczyk\, “S
- uccession”) over 23 years as she learns about and rebels against what wo
- men are taught about sex\, body image\, the that promise of one true love.
- \n\nhttps://www.siff.net/cinema/in-theaters/my-love-affair-with-marriage
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Farewell My Concubine
-DTSTART:20231023T021500Z
-DTEND:20231023T052000Z
-DTSTAMP:20231023T021500Z
-UID:wZJ0P26g8u
-DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
- long out of print masterpiece chronicles the rise of two young stars of th
- e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
- lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
- ll-my-concubine
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Killers of the Flower Moon
 DTSTART:20231023T234500Z
@@ -220,6 +194,32 @@ DTSTART:20231031T023000Z
 DTEND:20231031T033500Z
 DTSTAMP:20231031T023000Z
 UID:OKQIAVC9Dx
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231101T000000Z
+DTEND:20231101T010500Z
+DTSTAMP:20231101T000000Z
+UID:SITNnxf59f
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231101T023000Z
+DTEND:20231101T033500Z
+DTSTAMP:20231101T023000Z
+UID:wdM4ykGC2i
 DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
  o returns after ten years with a new experimental film about the end of th
  e world and the beginning of a new one\, featuring an electrifying score b

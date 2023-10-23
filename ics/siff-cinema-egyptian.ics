@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231022T084300Z
+LAST-MODIFIED:20231023T072016Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:The Wailing
-DTSTART:20231022T210000Z
-DTEND:20231022T235000Z
-DTSTAMP:20231022T210000Z
-UID:C6WoB9dOru
-DESCRIPTION:Duration: 157 mins (2h37m)\n\nKorean Horror Film Talk & Screen
- ing Series When a rural town is suddenly plagued with a bizarre and violen
- t disease\, the local police begin to suspect a foreign newcomer. But who 
- can be believed\, and what can you believe in?\n\nhttps://www.siff.net/cin
- ema/in-theaters/the-wailing
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Possession
 DTSTART:20231024T013000Z
@@ -157,6 +144,21 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nScarecrowber A group of scientist
  cceeds\, they are immediately attacked by terrible life forms. October 8 s
  creening introduced by Clinton McClung.\n\nhttps://www.siff.net/programs-a
  nd-events/scarecrowber/from-beyond
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collide-O-Scope Halloween
+DTSTART:20231101T030000Z
+DTEND:20231101T051000Z
+DTSTAMP:20231101T030000Z
+UID:VgMyTEmVWM
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nCollide-O-Scope Halloween is one
+ -of-a-kind found-footage phantasmagoria of hilariously hair-raising film f
+ reakouts and outrageous oddball video! A deliriously demented cavalcade of
+  expertly crafted montage\, packed with absurd pop culture ephemera\, obsc
+ ure oddities\, and awesome music—all remixed and mashed into an evening 
+ of eerily epic entertainment.\n\nhttps://www.siff.net/cinema/in-theaters/c
+ ollide-o-scope-halloween
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
