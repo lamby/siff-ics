@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231023T072016Z
+LAST-MODIFIED:20231024T050913Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
 BEGIN:VEVENT
@@ -322,7 +322,7 @@ DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
  nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
  Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
  -flower-moon
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
@@ -338,7 +338,7 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
  day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
  -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
@@ -354,7 +354,7 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
  day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
  -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Once Within a Time
@@ -367,7 +367,7 @@ DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
  e world and the beginning of a new one\, featuring an electrifying score b
  y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
  ime
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Once Within a Time
@@ -380,7 +380,7 @@ DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
  e world and the beginning of a new one\, featuring an electrifying score b
  y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
  ime
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Possession
@@ -409,6 +409,38 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nScarecrowber When Dr. Frankenstei
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231028T213000Z
+DTEND:20231029T011000Z
+DTSTAMP:20231028T213000Z
+UID:sbKb5IwJAR
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231029T014500Z
+DTEND:20231029T052500Z
+DTSTAMP:20231029T014500Z
+UID:gZQFdwsIje
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
 DTSTART:20231028T220000Z
 DTEND:20231029T005500Z
@@ -422,7 +454,7 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
  day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
  -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
@@ -438,7 +470,7 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
  day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
  -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Once Within a Time
@@ -519,6 +551,38 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nKorean Horror Film Talk & Screen
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231029T213000Z
+DTEND:20231030T011000Z
+DTSTAMP:20231029T213000Z
+UID:YD0cAp6lSD
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231030T014500Z
+DTEND:20231030T052500Z
+DTSTAMP:20231030T014500Z
+UID:tF2y24wGWO
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
 DTSTART:20231029T220000Z
 DTEND:20231030T005500Z
@@ -532,7 +596,7 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
  day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
  -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
@@ -548,7 +612,7 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
  day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
  -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Once Within a Time
@@ -668,6 +732,22 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nA collection of 60 locally produ
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231031T014500Z
+DTEND:20231031T052500Z
+DTSTAMP:20231031T014500Z
+UID:A3OjtXwYay
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:From Beyond
 DTSTART:20231031T020000Z
 DTEND:20231031T034000Z
@@ -754,19 +834,19 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nA collection of 60 locally produ
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
-DTSTART:20231101T020000Z
-DTEND:20231101T045500Z
-DTSTAMP:20231101T020000Z
-UID:Hrye7qp07K
-DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
- s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
- ilm experience with a breathtaking\, cinematic view of the history-making 
- tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
-  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
- 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
- -swift-the-eras-tour
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231101T014500Z
+DTEND:20231101T052500Z
+DTSTAMP:20231101T014500Z
+UID:E6s9hdIuGV
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -783,5 +863,63 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nCollide-O-Scope Halloween is one
  of eerily epic entertainment.\n\nhttps://www.siff.net/cinema/in-theaters/c
  ollide-o-scope-halloween
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231102T000000Z
+DTEND:20231102T010500Z
+DTSTAMP:20231102T000000Z
+UID:pm4G5wHURY
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231102T023000Z
+DTEND:20231102T033500Z
+DTSTAMP:20231102T023000Z
+UID:Sy05c8whOA
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moonstruck
+DTSTART:20231102T010000Z
+DTEND:20231102T025500Z
+DTSTAMP:20231102T010000Z
+UID:MMH9Y9nTo0
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nSIFF Movie Club With a murderer
+ ’s row of heavy hitter character actors\, the indomitable Cher\, and an 
+ iconic breakout performance from a 23-year-old Nicolas Cage\, Moonstruck i
+ s a romantic-comedy masterpiece about the unknowable natural forces that p
+ ull men and women towards each other like animals in heat. That’s amoré
+ ! Selected and introduced by SIFF Cinema staffer Milo Harms. Tickets: $10 
+ ($5 SIFF members)\n\nhttps://www.siff.net/programs-and-events/siff-movie-c
+ lub/moonstruck
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231102T014500Z
+DTEND:20231102T052500Z
+DTSTAMP:20231102T014500Z
+UID:2ZM4BqDXXG
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

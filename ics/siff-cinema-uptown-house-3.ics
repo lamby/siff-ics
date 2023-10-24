@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231023T072016Z
+LAST-MODIFIED:20231024T050913Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 BEGIN:VEVENT
@@ -69,32 +69,35 @@ DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231028T014500Z
-DTEND:20231028T052500Z
-DTSTAMP:20231028T014500Z
-UID:TC8CBk2q51
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
+SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
+DTSTART:20231027T220000Z
+DTEND:20231028T005500Z
+DTSTAMP:20231027T220000Z
+UID:ufgfUiO7DY
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
+ s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
+ ilm experience with a breathtaking\, cinematic view of the history-making 
+ tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
+  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
+ 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
+ -swift-the-eras-tour
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART:20231028T000000Z
-DTEND:20231028T010500Z
-DTSTAMP:20231028T000000Z
-UID:NkiivCCBwr
-DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
- o returns after ten years with a new experimental film about the end of th
- e world and the beginning of a new one\, featuring an electrifying score b
- y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
- ime
+SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
+DTSTART:20231028T020000Z
+DTEND:20231028T045500Z
+DTSTAMP:20231028T020000Z
+UID:LD2sBkJS7F
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
+ s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
+ ilm experience with a breathtaking\, cinematic view of the history-making 
+ tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
+  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
+ 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
+ -swift-the-eras-tour
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -220,6 +223,32 @@ DTSTART:20231101T023000Z
 DTEND:20231101T033500Z
 DTSTAMP:20231101T023000Z
 UID:wdM4ykGC2i
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231102T000000Z
+DTEND:20231102T010500Z
+DTSTAMP:20231102T000000Z
+UID:pm4G5wHURY
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231102T023000Z
+DTEND:20231102T033500Z
+DTSTAMP:20231102T023000Z
+UID:Sy05c8whOA
 DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
  o returns after ten years with a new experimental film about the end of th
  e world and the beginning of a new one\, featuring an electrifying score b
