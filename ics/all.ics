@@ -1,103 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231024T050913Z
+LAST-MODIFIED:20231025T055728Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
 BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231023T234500Z
-DTEND:20231024T032500Z
-DTSTAMP:20231023T234500Z
-UID:58DeQAhmC0
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231024T014500Z
-DTEND:20231024T052500Z
-DTSTAMP:20231024T014500Z
-UID:1JDcKrEby9
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Farewell My Concubine
-DTSTART:20231024T013000Z
-DTEND:20231024T043500Z
-DTSTAMP:20231024T013000Z
-UID:Ko6p8cfPQl
+DTSTART:20231025T013000Z
+DTEND:20231025T043500Z
+DTSTAMP:20231025T013000Z
+UID:oTgAbe46WZ
 DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
  long out of print masterpiece chronicles the rise of two young stars of th
  e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
  lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
  ll-my-concubine
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Possession
-DTSTART:20231024T013000Z
-DTEND:20231024T034500Z
-DTSTAMP:20231024T013000Z
-UID:2uSSU9CHIa
-DESCRIPTION:Duration: 124 mins (2h04m)\n\nScarecrowber A woman starts exhi
- biting increasingly disturbing behavior after asking her husband for a div
- orce. Suspicions of infidelity soon give way to something much more sinist
- er.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/possession
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Korean Horror Week 3
-DTSTART:20231024T020000Z
-DTEND:20231024T041000Z
-DTSTAMP:20231024T020000Z
-UID:ai73R1baJb
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nKorean Horror | Film Talks The
-  fear of the other is one of the most central terrors animating human hist
- ory. This week\, we’ll discuss two films that plant this fear squarely w
- ithin South Korea’s history under Japanese colonization and American mil
- itary imperialism. Featuring The Wailing (2016)\, we’ll discuss the film
- ’s depiction of traditional shamanism through the subgenre of folk horro
- r and the lenses of tradition\, modernity\, and religion. As well\, we’l
- l examine the monstrous consequences of military imperialism as literalize
- d through The Host (2006)\, the film that drew global attention to directo
- r Bong Joon-ho (Parasite).  In conjunction with this film talk\, SIFF wil
- l present The Wailing at SIFF Cinema Egyptian on Sunday\, October 22. FILM
-  TALK TICKETS Individual Talks: $25 Sustainer | $15 Regular | $10 SIFF mem
- ber\n\nhttps://www.siff.net/programs-and-events/film-talks/korean-horror/w
- eek-3-foreign-devils-and-monsters
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231024T234500Z
-DTEND:20231025T032500Z
-DTSTAMP:20231024T234500Z
-UID:2KnLPxlqTA
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Killers of the Flower Moon
@@ -114,31 +32,6 @@ DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
  Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
  -flower-moon
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Farewell My Concubine
-DTSTART:20231025T013000Z
-DTEND:20231025T043500Z
-DTSTAMP:20231025T013000Z
-UID:oTgAbe46WZ
-DESCRIPTION:Duration: 171 mins (2h51m)\n\nChen Kaige’s much acclaimed\, 
- long out of print masterpiece chronicles the rise of two young stars of th
- e Beijing Opera House\, their turbulent relationship\, and ultimate downfa
- lls. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-theaters/farewe
- ll-my-concubine
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Classified Cinema presents: SECRET MOVIE
-DTSTART:20231025T023000Z
-DTEND:20231025T040500Z
-DTSTAMP:20231025T023000Z
-UID:IEfLnnHl8I
-DESCRIPTION:Duration: 84 mins (1h24m)\n\nImmaculately curated films kept t
- op secret until they hit the screen. Always fun\, never pretentious.\n\nht
- tps://www.siff.net/cinema/in-theaters/classified-cinema-presents-secret-mo
- vie
-LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Killers of the Flower Moon
@@ -920,6 +813,64 @@ DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
  nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
  Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
  -flower-moon
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231103T000000Z
+DTEND:20231103T010500Z
+DTSTAMP:20231103T000000Z
+UID:6AiMeTHbty
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART:20231103T023000Z
+DTEND:20231103T033500Z
+DTSTAMP:20231103T023000Z
+UID:l1Q4SVgoQP
+DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
+ o returns after ten years with a new experimental film about the end of th
+ e world and the beginning of a new one\, featuring an electrifying score b
+ y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
+ ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231103T014500Z
+DTEND:20231103T052500Z
+DTSTAMP:20231103T014500Z
+UID:c9k6TsDujY
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
+DTSTART:20231103T020000Z
+DTEND:20231103T045500Z
+DTSTAMP:20231103T020000Z
+UID:bxQpeJO7wl
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
+ s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
+ ilm experience with a breathtaking\, cinematic view of the history-making 
+ tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
+  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
+ 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
+ -swift-the-eras-tour
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
