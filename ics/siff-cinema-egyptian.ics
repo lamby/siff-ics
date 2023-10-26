@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231025T055728Z
+LAST-MODIFIED:20231026T073343Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Cat People
-DTSTART:20231026T020000Z
-DTEND:20231026T032500Z
-DTSTAMP:20231026T020000Z
-UID:PXecgUl9jj
-DESCRIPTION:Duration: 73 mins (1h13m)\n\nScarecrowber Simone Simon stars a
- s a Serbian émigré in Manhattan who believes that\, because of an ancien
- t curse\, any physical intimacy with the man she loves (Kent Smith) will t
- urn her into a feline predator. October 7 screening introduced by Megan M
- cNeils.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/cat-peopl
- e
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twins of Evil
 DTSTART:20231027T020000Z
@@ -147,6 +133,48 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nCollide-O-Scope Halloween is one
  ure oddities\, and awesome music—all remixed and mashed into an evening 
  of eerily epic entertainment.\n\nhttps://www.siff.net/cinema/in-theaters/c
  ollide-o-scope-halloween
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eighth Grade
+DTSTART:20231103T223000Z
+DTEND:20231104T001500Z
+DTSTAMP:20231103T223000Z
+UID:ZCZElLU7nZ
+DESCRIPTION:Duration: 94 mins (1h34m)\n\n50 Years of SIFF In a star-making
+  performance\, Elsie Fisher perfectly captures the everyday humiliations a
+ nd triumphs of a modern-day thirteen-year-old making her way through her d
+ isastrous eighth grade year in the auspicious filmmaking debut of comedian
+  Bo Burnham.\n\nhttps://www.siff.net/programs-and-events/50-years-of-siff/
+ eighth-grade
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pricilla\, Queen of the Desert
+DTSTART:20231104T004500Z
+DTEND:20231104T024000Z
+DTSTAMP:20231104T004500Z
+UID:l8rdbd7ctI
+DESCRIPTION:Duration: 103 mins (1h43m)\n\n50 Years of SIFF Three girlfrien
+ ds—two drag performers and a transgender woman—escape from their harsh
+  city life and embark on an all-singing\, all-dancing\, all-camping cross-
+ country tour into the wild Australian outback in their cherished lavender 
+ bus\, Priscilla.\n\nhttps://www.siff.net/programs-and-events/50-years-of-s
+ iff/the-adventures-of-priscilla-queen-of-the-desert
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lost Honor of Katharina Blum
+DTSTART:20231104T031500Z
+DTEND:20231104T051500Z
+DTSTAMP:20231104T031500Z
+UID:1PWwwTt4VY
+DESCRIPTION:Duration: 106 mins (1h46m)\n\n50 Years of SIFF In the film tha
+ t opened the very first Seattle International Film Festival in 1976—held
+  at the Moore-Egyptian\, now just the Moore Theatre—\, a woman is harass
+ ed by the police and press after a chance encounter with a wanted man unti
+ l she takes violent action.\n\nhttps://www.siff.net/programs-and-events/50
+ -years-of-siff/the-lost-honor-of-katharina-blum
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

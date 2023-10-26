@@ -1,25 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231025T055728Z
+LAST-MODIFIED:20231026T073343Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231025T234500Z
-DTEND:20231026T032500Z
-DTSTAMP:20231025T234500Z
-UID:rOrqZs4h5a
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Killers of the Flower Moon
 DTSTART:20231026T234500Z
@@ -248,6 +232,36 @@ DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
  e world and the beginning of a new one\, featuring an electrifying score b
  y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
  ime
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231103T230000Z
+DTEND:20231104T014500Z
+DTSTAMP:20231103T230000Z
+UID:j74FAXP2qt
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
+ e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
+ fter the mysterious death of her husband at their chalet in the French Alp
+ s. The court case examines every aspect of the relationship she had with h
+ er husband\, while her visually impaired son is called to testify as a wit
+ ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231104T021500Z
+DTEND:20231104T050000Z
+DTSTAMP:20231104T021500Z
+UID:yGJr9Hm7qy
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
+ e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
+ fter the mysterious death of her husband at their chalet in the French Alp
+ s. The court case examines every aspect of the relationship she had with h
+ er husband\, while her visually impaired son is called to testify as a wit
+ ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
