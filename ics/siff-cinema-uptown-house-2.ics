@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231027T064733Z
+LAST-MODIFIED:20231028T075222Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART:20231028T000000Z
-DTEND:20231028T010500Z
-DTSTAMP:20231028T000000Z
-UID:NkiivCCBwr
-DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
- o returns after ten years with a new experimental film about the end of th
- e world and the beginning of a new one\, featuring an electrifying score b
- y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
- ime
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART:20231028T023000Z
-DTEND:20231028T033500Z
-DTSTAMP:20231028T023000Z
-UID:mTE7iyb6AI
-DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
- o returns after ten years with a new experimental film about the end of th
- e world and the beginning of a new one\, featuring an electrifying score b
- y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
- ime
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
 DTSTART:20231028T220000Z
@@ -226,6 +200,52 @@ DESCRIPTION:Duration: 77 mins (1h17m)\n\nRomanian Film Festival Seattle\,
  : $45 | $40 SIFF Members\, Seniors\, Students - includes full series ac
  cess Buy Pass\n\nhttps://www.siff.net/cinema/in-theaters/the-romanian-film
  -festival-seattle/romanian-film-festival-seattle-playback
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
+DTSTART:20231105T230000Z
+DTEND:20231106T015500Z
+DTSTAMP:20231105T230000Z
+UID:Fx1tQWnPuJ
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
+ s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
+ ilm experience with a breathtaking\, cinematic view of the history-making 
+ tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
+  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
+ 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
+ day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
+ -swift-the-eras-tour
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Between Revolutions
+DTSTART:20231106T012000Z
+DTEND:20231106T024000Z
+DTSTAMP:20231106T012000Z
+UID:Hi35LIMpb0
+DESCRIPTION:Duration: 68 mins (1h08m)\n\nRomanian Film Festival Seattle\, 
+ 10th Edition Two friends separated by political revolutions find connectio
+ n through letters\, defying distance and turmoil. Individual Tickets: Sel
+ ect showtime to purchase.Passes: $45 | $40 SIFF Members\, Seniors\, Studen
+ ts - includes full series access Buy Pass\n\nhttps://www.siff.net/cinem
+ a/in-theaters/the-romanian-film-festival-seattle/romanian-film-festival-se
+ attle-between-revolutions
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taxi Drivers
+DTSTART:20231106T030000Z
+DTEND:20231106T045000Z
+DTSTAMP:20231106T030000Z
+UID:YqRgOPkki7
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nRomanian Film Festival Seattle\,
+  10th Edition Bucharest’s nightlife is seen through the eyes of two taxi
+  drivers\, Liviu and Lică\, who run into a series of unexpected and hilar
+ ious events. Individual Tickets: Select showtime to purchase.Passes: $45 
+ | $40 SIFF Members\, Seniors\, Students - includes full series access B
+ uy Pass\n\nhttps://www.siff.net/cinema/in-theaters/the-romanian-film-festi
+ val-seattle/romanian-film-festival-seattle-taxi-drivers
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
