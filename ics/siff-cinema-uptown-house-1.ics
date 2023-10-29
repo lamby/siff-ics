@@ -1,41 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231028T075222Z
+LAST-MODIFIED:20231029T081246Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231028T213000Z
-DTEND:20231029T011000Z
-DTSTAMP:20231028T213000Z
-UID:sbKb5IwJAR
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231029T014500Z
-DTEND:20231029T052500Z
-DTSTAMP:20231029T014500Z
-UID:gZQFdwsIje
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Killers of the Flower Moon
 DTSTART:20231029T213000Z
@@ -130,6 +98,21 @@ DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
  nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
  Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
  -flower-moon
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231107T023000Z
+DTEND:20231107T051500Z
+DTSTAMP:20231107T023000Z
+UID:m9XKivPOEh
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
+ e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
+ fter the mysterious death of her husband at their chalet in the French Alp
+ s. The court case examines every aspect of the relationship she had with h
+ er husband\, while her visually impaired son is called to testify as a wit
+ ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

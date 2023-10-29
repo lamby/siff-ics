@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231028T075222Z
+LAST-MODIFIED:20231029T081246Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Mad Monster Party?
-DTSTART:20231028T200000Z
-DTEND:20231028T214500Z
-DTSTAMP:20231028T200000Z
-UID:UdLtCaFLnW
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nScarecrowber When Dr. Frankenstei
- n retires\, he calls an international roster of monsters to elect his succ
- essor. However\, his title is not all that is at stake\, as the famous doc
- tor realizes the secret of total destruction that must not fall into the w
- rong hands. October 10 screening introduced by Clinton McClung.\n\nhttps:/
- /www.siff.net/programs-and-events/scarecrowber/mad-monster-party
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spookies
-DTSTART:20231028T230000Z
-DTEND:20231029T003500Z
-DTSTAMP:20231028T230000Z
-UID:4ZDpSy4LIh
-DESCRIPTION:Duration: 85 mins (1h25m)\n\nScarecrowber A dilapidated mansio
- n becomes a slaughterhouse when an evil sorcerer unleashes his monstrous s
- idekicks on intruders. Presented in 4k. October 8 screening introduced by
-  Alicia Betty.\n\nhttps://www.siff.net/programs-and-events/scarecrowber/sp
- ookies
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bram Stoker's Dracula
-DTSTART:20231029T013000Z
-DTEND:20231029T035000Z
-DTSTAMP:20231029T013000Z
-UID:gw6f9LYhZP
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nScarecrowber The centuries old v
- ampire Count Dracula comes to England to seduce his barrister Jonathan Har
- ker's fiancée Mina Murray and inflict havoc in the foreign land. Present
- ed in 4k. October 3 screening introduced by Matt Lynch.\n\nhttps://www.sif
- f.net/programs-and-events/scarecrowber/bram-stokers-dracula
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Train to Busan
 DTSTART:20231029T210000Z
@@ -150,6 +110,33 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\n50 Years of SIFF In the film tha
  ed by the police and press after a chance encounter with a wanted man unti
  l she takes violent action.\n\nhttps://www.siff.net/programs-and-events/50
  -years-of-siff/the-lost-honor-of-katharina-blum
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain Fantastic
+DTSTART:20231107T010000Z
+DTEND:20231107T031000Z
+DTSTAMP:20231107T010000Z
+UID:OryAphY12u
+DESCRIPTION:Duration: 118 mins (1h58m)\n\n50 Years of SIFF Viggo Mortensen
+  stars in this heartfelt story of unconventional family values as the devo
+ ted father of a brood of six who live off the grid in the wilds of Washing
+ ton state\, until events lead them back to the outside world for the first
+  time in decades.\n\nhttps://www.siff.net/programs-and-events/50-years-of-
+ siff/captain-fantastic
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comrades: Almost a Love Story
+DTSTART:20231107T034500Z
+DTEND:20231107T055500Z
+DTSTAMP:20231107T034500Z
+UID:1PNCceO9Ov
+DESCRIPTION:Duration: 118 mins (1h58m)\n\n50 Years of SIFF Two Chinese-mai
+ nlanders living in Hong Kong (Maggie Cheung and Leon Lai) form a close fri
+ endship that shifts over the years into love\, and back again\, but secret
+ ly those feelings always lie just under the surface.\n\nhttps://www.siff.n
+ et/programs-and-events/50-years-of-siff/comrades-almost-a-love-story
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
