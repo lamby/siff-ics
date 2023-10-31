@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231030T145109Z
+LAST-MODIFIED:20231031T073441Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART:20231031T000000Z
-DTEND:20231031T010500Z
-DTSTAMP:20231031T000000Z
-UID:L03SCZYqfG
-DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
- o returns after ten years with a new experimental film about the end of th
- e world and the beginning of a new one\, featuring an electrifying score b
- y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
- ime
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART:20231031T023000Z
-DTEND:20231031T033500Z
-DTSTAMP:20231031T023000Z
-UID:OKQIAVC9Dx
-DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
- o returns after ten years with a new experimental film about the end of th
- e world and the beginning of a new one\, featuring an electrifying score b
- y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
- ime
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Horror 
-DTSTART:20231031T013000Z
-DTEND:20231031T032000Z
-DTSTAMP:20231031T013000Z
-UID:R9mtwg0obJ
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nA collection of 60 locally produ
- ced horror films\, all shot for the Seattle 48 Hour Horror Film Project du
- ring the second weekend of October. Individual Tickets: $15 | $12 SIFF Me
- mbers\, Seniors\, Students\, Groups of 10+ - Select showtimes to purchaseP
- asses: $50 - Access to all series screenings\n\nhttps://www.siff.net/cine
- ma/in-theaters/10th-annual-seattle-48-hour-horror-film-project
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle 48 Hour Horror 
 DTSTART:20231031T040000Z
@@ -57,54 +17,6 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nA collection of 60 locally produ
  asses: $50 - Access to all series screenings\n\nhttps://www.siff.net/cine
  ma/in-theaters/10th-annual-seattle-48-hour-horror-film-project
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231031T014500Z
-DTEND:20231031T052500Z
-DTSTAMP:20231031T014500Z
-UID:A3OjtXwYay
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Beyond
-DTSTART:20231031T020000Z
-DTEND:20231031T034000Z
-DTSTAMP:20231031T020000Z
-UID:twmgDP4sk1
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nScarecrowber A group of scientist
- s have developed the Resonator\, a machine which allows whoever is within 
- range to see beyond normal perceptible reality. But when the experiment su
- cceeds\, they are immediately attacked by terrible life forms. October 8 s
- creening introduced by Clinton McClung.\n\nhttps://www.siff.net/programs-a
- nd-events/scarecrowber/from-beyond
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Korean Horror Week 4
-DTSTART:20231031T020000Z
-DTEND:20231031T041000Z
-DTSTAMP:20231031T020000Z
-UID:JxYgXBvv4R
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nKorean Horror | Film Talks Inf
- ection and apocalypse consume our modern waking nightmares—Korean media 
- is not immune. To finish out our course\, we’ll examine the Korean zombi
- e craze initiated by 2016’s global hit\, Train to Busan (2016)\, and con
- tinued by films like the refreshingly funny horror-comedy\, Zombie for Sal
- e (2019). Why zombies\, why now?  In conjunction with this film talk\, SI
- FF will present Train to Busan at SIFF Cinema Egyptian on Sunday\, October
-  29. FILM TALK TICKETS Individual Talks: $25 Sustainer | $15 Regular | $10
-  SIFF member\n\nhttps://www.siff.net/programs-and-events/film-talks/korean
- -horror/week-4-zombies-and-viruses
-LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Once Within a Time
@@ -333,8 +245,9 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
@@ -348,8 +261,9 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pricilla\, Queen of the Desert
@@ -366,6 +280,22 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\n50 Years of SIFF Three girlfrien
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231104T014500Z
+DTEND:20231104T052500Z
+DTSTAMP:20231104T014500Z
+UID:oaRY9dZPna
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
 DTSTART:20231104T020000Z
 DTEND:20231104T045500Z
@@ -379,7 +309,7 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
  day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
  -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lost Honor of Katharina Blum
@@ -407,8 +337,9 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
@@ -422,8 +353,9 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
@@ -437,7 +369,40 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231104T213000Z
+DTEND:20231105T011000Z
+DTSTAMP:20231104T213000Z
+UID:To9QUpKFyE
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231105T014500Z
+DTEND:20231105T052500Z
+DTSTAMP:20231105T014500Z
+UID:0lmNiT1Kou
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -482,8 +447,9 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
@@ -497,8 +463,9 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
@@ -512,8 +479,9 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
@@ -529,7 +497,7 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
  9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
  day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
  -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Between Revolutions
@@ -545,6 +513,22 @@ DESCRIPTION:Duration: 68 mins (1h08m)\n\nRomanian Film Festival Seattle\,
  a/in-theaters/the-romanian-film-festival-seattle/romanian-film-festival-se
  attle-between-revolutions
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231106T024500Z
+DTEND:20231106T062500Z
+DTSTAMP:20231106T024500Z
+UID:MD0X2mLuLZ
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taxi Drivers
@@ -573,22 +557,8 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART:20231107T023000Z
-DTEND:20231107T051500Z
-DTSTAMP:20231107T023000Z
-UID:m9XKivPOEh
-DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
- e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
- e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
- fter the mysterious death of her husband at their chalet in the French Alp
- s. The court case examines every aspect of the relationship she had with h
- er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -603,7 +573,40 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231107T001500Z
+DTEND:20231107T035500Z
+DTSTAMP:20231107T001500Z
+UID:4S49weMhPw
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231107T024500Z
+DTEND:20231107T062500Z
+DTSTAMP:20231107T024500Z
+UID:eG0IKbtBpd
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -645,22 +648,8 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART:20231108T023000Z
-DTEND:20231108T051500Z
-DTSTAMP:20231108T023000Z
-UID:F21ZW7t0dK
-DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
- e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
- e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
- fter the mysterious death of her husband at their chalet in the French Alp
- s. The court case examines every aspect of the relationship she had with h
- er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -675,7 +664,84 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  fter the mysterious death of her husband at their chalet in the French Alp
  s. The court case examines every aspect of the relationship she had with h
  er husband\, while her visually impaired son is called to testify as a wit
- ness.\n\nhttps://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231108T024500Z
+DTEND:20231108T062500Z
+DTSTAMP:20231108T024500Z
+UID:cKEwb8JFo0
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231109T000000Z
+DTEND:20231109T024500Z
+DTSTAMP:20231109T000000Z
+UID:UjjwdtYHEB
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
+ e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
+ fter the mysterious death of her husband at their chalet in the French Alp
+ s. The court case examines every aspect of the relationship she had with h
+ er husband\, while her visually impaired son is called to testify as a wit
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231109T031500Z
+DTEND:20231109T060000Z
+DTSTAMP:20231109T031500Z
+UID:p2aFoiTXld
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
+ e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
+ fter the mysterious death of her husband at their chalet in the French Alp
+ s. The court case examines every aspect of the relationship she had with h
+ er husband\, while her visually impaired son is called to testify as a wit
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Titanic: The Musical 
+DTSTART:20231109T023000Z
+DTEND:20231109T050500Z
+DTSTAMP:20231109T023000Z
+UID:kH5RET0vHx
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nStage to Screen Winner of five T
+ ony Awards\, Titanic: The Musical is captured live on stage for cinema scr
+ eenings\, celebrating the 10th anniversary of its London premiere.\n\nhttp
+ s://www.siff.net/programs-and-events/stage-to-screen/titanic-the-musical
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART:20231109T024500Z
+DTEND:20231109T062500Z
+DTSTAMP:20231109T024500Z
+UID:uysr7yiUQJ
+DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
+ hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
+ ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
+ n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
+ reenings include a short recorded intro from Principal Chief Geoffrey Sta
+ nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
+ Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
+ -flower-moon
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231030T145109Z
+LAST-MODIFIED:20231031T073441Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:From Beyond
-DTSTART:20231031T020000Z
-DTEND:20231031T034000Z
-DTSTAMP:20231031T020000Z
-UID:twmgDP4sk1
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nScarecrowber A group of scientist
- s have developed the Resonator\, a machine which allows whoever is within 
- range to see beyond normal perceptible reality. But when the experiment su
- cceeds\, they are immediately attacked by terrible life forms. October 8 s
- creening introduced by Clinton McClung.\n\nhttps://www.siff.net/programs-a
- nd-events/scarecrowber/from-beyond
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Collide-O-Scope Halloween
 DTSTART:20231101T030000Z
