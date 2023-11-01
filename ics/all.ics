@@ -1,108 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231031T073441Z
+LAST-MODIFIED:20231101T095803Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Horror 
-DTSTART:20231031T040000Z
-DTEND:20231031T055000Z
-DTSTAMP:20231031T040000Z
-UID:eB8UNwyGkK
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nA collection of 60 locally produ
- ced horror films\, all shot for the Seattle 48 Hour Horror Film Project du
- ring the second weekend of October. Individual Tickets: $15 | $12 SIFF Me
- mbers\, Seniors\, Students\, Groups of 10+ - Select showtimes to purchaseP
- asses: $50 - Access to all series screenings\n\nhttps://www.siff.net/cine
- ma/in-theaters/10th-annual-seattle-48-hour-horror-film-project
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART:20231101T000000Z
-DTEND:20231101T010500Z
-DTSTAMP:20231101T000000Z
-UID:SITNnxf59f
-DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
- o returns after ten years with a new experimental film about the end of th
- e world and the beginning of a new one\, featuring an electrifying score b
- y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
- ime
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART:20231101T023000Z
-DTEND:20231101T033500Z
-DTSTAMP:20231101T023000Z
-UID:wdM4ykGC2i
-DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
- o returns after ten years with a new experimental film about the end of th
- e world and the beginning of a new one\, featuring an electrifying score b
- y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
- ime
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Horror 
-DTSTART:20231101T013000Z
-DTEND:20231101T032000Z
-DTSTAMP:20231101T013000Z
-UID:RuvyAIn3P4
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nA collection of 60 locally produ
- ced horror films\, all shot for the Seattle 48 Hour Horror Film Project du
- ring the second weekend of October. Individual Tickets: $15 | $12 SIFF Me
- mbers\, Seniors\, Students\, Groups of 10+ - Select showtimes to purchaseP
- asses: $50 - Access to all series screenings\n\nhttps://www.siff.net/cine
- ma/in-theaters/10th-annual-seattle-48-hour-horror-film-project
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Horror 
-DTSTART:20231101T040000Z
-DTEND:20231101T055000Z
-DTSTAMP:20231101T040000Z
-UID:FZV3o6oqOZ
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nA collection of 60 locally produ
- ced horror films\, all shot for the Seattle 48 Hour Horror Film Project du
- ring the second weekend of October. Individual Tickets: $15 | $12 SIFF Me
- mbers\, Seniors\, Students\, Groups of 10+ - Select showtimes to purchaseP
- asses: $50 - Access to all series screenings\n\nhttps://www.siff.net/cine
- ma/in-theaters/10th-annual-seattle-48-hour-horror-film-project
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231101T014500Z
-DTEND:20231101T052500Z
-DTSTAMP:20231101T014500Z
-UID:E6s9hdIuGV
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Collide-O-Scope Halloween
-DTSTART:20231101T030000Z
-DTEND:20231101T051000Z
-DTSTAMP:20231101T030000Z
-UID:VgMyTEmVWM
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nCollide-O-Scope Halloween is one
- -of-a-kind found-footage phantasmagoria of hilariously hair-raising film f
- reakouts and outrageous oddball video! A deliriously demented cavalcade of
-  expertly crafted montage\, packed with absurd pop culture ephemera\, obsc
- ure oddities\, and awesome music—all remixed and mashed into an evening 
- of eerily epic entertainment.\n\nhttps://www.siff.net/cinema/in-theaters/c
- ollide-o-scope-halloween
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Once Within a Time
 DTSTART:20231102T000000Z
@@ -743,5 +644,78 @@ DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
  Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
  -flower-moon
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231110T000000Z
+DTEND:20231110T024500Z
+DTSTAMP:20231110T000000Z
+UID:fqojmgNivU
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
+ e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
+ fter the mysterious death of her husband at their chalet in the French Alp
+ s. The court case examines every aspect of the relationship she had with h
+ er husband\, while her visually impaired son is called to testify as a wit
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231110T031500Z
+DTEND:20231110T060000Z
+DTSTAMP:20231110T031500Z
+UID:G8WZ8TLFEL
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
+ e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
+ fter the mysterious death of her husband at their chalet in the French Alp
+ s. The court case examines every aspect of the relationship she had with h
+ er husband\, while her visually impaired son is called to testify as a wit
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kidnapped
+DTSTART:20231110T020000Z
+DTEND:20231110T042500Z
+DTSTAMP:20231110T020000Z
+UID:jCK3gkpMAh
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nCinema Italian Style Based on in
+ credible true events\, this gripping historical drama from master auteur M
+ arco Bellocchio (The Traitor) follows the story of a young Jewish boy who
+ se abduction from his parents by the Vatican fuelled outrage in 19th Cen
+ tury Italy and triggered a global scandal. Individual Tickets: Select show
+ time to purchasePasses: $125 | $100 SIFF Members - Access to all Cinema It
+ alian Style screenings and the Opening Night party\n\nhttps://www.siff.ne
+ t/programs-and-events/cinema-italian-style/kidnapped
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Titanic: The Musical 
+DTSTART:20231110T023000Z
+DTEND:20231110T050500Z
+DTSTAMP:20231110T023000Z
+UID:tWAomqWsiE
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nStage to Screen Winner of five T
+ ony Awards\, Titanic: The Musical is captured live on stage for cinema scr
+ eenings\, celebrating the 10th anniversary of its London premiere.\n\nhttp
+ s://www.siff.net/programs-and-events/stage-to-screen/titanic-the-musical
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231110T030000Z
+DTEND:20231110T052500Z
+DTSTAMP:20231110T030000Z
+UID:3Vr3PAXq8E
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school.\n\nhttps://www.siff.net/cinema/in-theaters/the-
+ holdovers
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

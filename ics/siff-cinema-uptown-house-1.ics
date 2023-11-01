@@ -1,25 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231031T073441Z
+LAST-MODIFIED:20231101T095803Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231101T014500Z
-DTEND:20231101T052500Z
-DTSTAMP:20231101T014500Z
-UID:E6s9hdIuGV
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nBased on a true story and told t
- hrough the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and M
- ollie Kyle (Lily Gladstone)\, Killers of the Flower Moon is an epic wester
- n crime saga\, where real love crosses paths with unspeakable betrayal. Sc
- reenings include a short recorded intro from Principal Chief Geoffrey Sta
- nding Bear from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and 
- Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the
- -flower-moon
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moonstruck
 DTSTART:20231102T010000Z
@@ -274,6 +258,22 @@ DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  er husband\, while her visually impaired son is called to testify as a wit
  ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
  s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kidnapped
+DTSTART:20231110T020000Z
+DTEND:20231110T042500Z
+DTSTAMP:20231110T020000Z
+UID:jCK3gkpMAh
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nCinema Italian Style Based on in
+ credible true events\, this gripping historical drama from master auteur M
+ arco Bellocchio (The Traitor) follows the story of a young Jewish boy who
+ se abduction from his parents by the Vatican fuelled outrage in 19th Cen
+ tury Italy and triggered a global scandal. Individual Tickets: Select show
+ time to purchasePasses: $125 | $100 SIFF Members - Access to all Cinema It
+ alian Style screenings and the Opening Night party\n\nhttps://www.siff.ne
+ t/programs-and-events/cinema-italian-style/kidnapped
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
