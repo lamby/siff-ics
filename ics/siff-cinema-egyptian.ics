@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231101T095803Z
+LAST-MODIFIED:20231102T075203Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
 BEGIN:VEVENT
@@ -71,6 +71,50 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\n50 Years of SIFF Two Chinese-mai
  endship that shifts over the years into love\, and back again\, but secret
  ly those feelings always lie just under the surface.\n\nhttps://www.siff.n
  et/programs-and-events/50-years-of-siff/comrades-almost-a-love-story
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WarGames
+DTSTART:20231110T214500Z
+DTEND:20231110T235000Z
+DTSTAMP:20231110T214500Z
+UID:tajnBfwyxk
+DESCRIPTION:Duration: 114 mins (1h54m)\n\n50 Years of SIFF In this techno-
+ thriller shot in Seattle\, WarGames follows a young man (Matthew Broderick
+ ) who finds a back door into a military central computer in which reality 
+ is confused with game-playing\, possibly starting World War III.\n\nhttps:
+ //www.siff.net/programs-and-events/50-years-of-siff/wargames
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OSS 117: Nest of Spies 
+DTSTART:20231111T003000Z
+DTEND:20231111T022000Z
+DTSTAMP:20231111T003000Z
+UID:UEURCWNqY8
+DESCRIPTION:Duration: 99 mins (1h39m)\n\n50 Years of SIFF See how it all b
+ egan for Hubert Bonisseur de la Bath\, aka agent OSS 117—France’s answ
+ er to James Bond\, Maxwell Smart\, and Austin Powers—as he goes undercov
+ er in Cairo to investigate the murder of a fellow agent. Starring Jean Duj
+ ardin\, Bérénice Bejo\, and Aure Atika. Presented on 35mm.\n\nhttps://ww
+ w.siff.net/programs-and-events/50-years-of-siff/oss-117-cairo-nest-of-spie
+ s
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empire Strikes Back
+DTSTART:20231111T030000Z
+DTEND:20231111T052500Z
+DTSTAMP:20231111T030000Z
+UID:hhR4tNf6E9
+DESCRIPTION:Duration: 134 mins (2h14m)\n\n50 Years of SIFF After the Rebel
+ s are overpowered by the Empire\, Luke Skywalker begins his Jedi training 
+ with Yoda\, while his friends are pursued across the galaxy by Darth Vader
+  and bounty hunter Boba Fett. The 1980 Seattle International Film Festival
+  proudly hosted the world premiere of this now legendary Star Wars epic. 
+ This presentation is the Special Edition released theatrically in 1997.\n\
+ nhttps://www.siff.net/programs-and-events/50-years-of-siff/the-empire-stri
+ kes-back
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231101T095803Z
+LAST-MODIFIED:20231102T075203Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
 BEGIN:VEVENT
@@ -22,6 +22,18 @@ DTSTART:20231110T023000Z
 DTEND:20231110T050500Z
 DTSTAMP:20231110T023000Z
 UID:tWAomqWsiE
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nStage to Screen Winner of five T
+ ony Awards\, Titanic: The Musical is captured live on stage for cinema scr
+ eenings\, celebrating the 10th anniversary of its London premiere.\n\nhttp
+ s://www.siff.net/programs-and-events/stage-to-screen/titanic-the-musical
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Titanic: The Musical 
+DTSTART:20231111T023000Z
+DTEND:20231111T050500Z
+DTSTAMP:20231111T023000Z
+UID:s4aEYeT0q4
 DESCRIPTION:Duration: 145 mins (2h25m)\n\nStage to Screen Winner of five T
  ony Awards\, Titanic: The Musical is captured live on stage for cinema scr
  eenings\, celebrating the 10th anniversary of its London premiere.\n\nhttp
