@@ -1,26 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231102T075203Z
+LAST-MODIFIED:20231103T075236Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231103T014500Z
-DTEND:20231103T052500Z
-DTSTAMP:20231103T014500Z
-UID:c9k6TsDujY
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nAt the turn of the 20th century\
- , oilfields made the Osage Nation some of the richest people in the world 
- overnight\, bringing in white interlopers who stole as much Osage money as
-  they could before resorting to deep betrayal and murder. The new epic wes
- tern crime saga from Martin Scorsese\, based on a true story. Screenings i
- nclude a short recorded intro from Principal Chief Geoffrey Standing Bear
-  from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sho
- wtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the-flower-mo
- on
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
 DTSTART:20231103T230000Z
@@ -280,6 +263,45 @@ DTSTART:20231111T031500Z
 DTEND:20231111T054000Z
 DTSTAMP:20231111T031500Z
 UID:UyjviEYPVA
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school.\n\nhttps://www.siff.net/cinema/in-theaters/the-
+ holdovers
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231111T204500Z
+DTEND:20231111T231000Z
+DTSTAMP:20231111T204500Z
+UID:WpctHb7fQX
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school.\n\nhttps://www.siff.net/cinema/in-theaters/the-
+ holdovers
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231112T000000Z
+DTEND:20231112T022500Z
+DTSTAMP:20231112T000000Z
+UID:GwGVts2fEu
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school.\n\nhttps://www.siff.net/cinema/in-theaters/the-
+ holdovers
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231112T031500Z
+DTEND:20231112T054000Z
+DTSTAMP:20231112T031500Z
+UID:vFVm1uTr8f
 DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
   Payne’s latest about the bond that forms between a strict professor and
   a belligerent student he’s stuck supervising over the winter holiday at

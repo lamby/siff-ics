@@ -1,68 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231102T075203Z
+LAST-MODIFIED:20231103T075236Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART:20231103T000000Z
-DTEND:20231103T010500Z
-DTSTAMP:20231103T000000Z
-UID:6AiMeTHbty
-DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
- o returns after ten years with a new experimental film about the end of th
- e world and the beginning of a new one\, featuring an electrifying score b
- y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
- ime
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART:20231103T023000Z
-DTEND:20231103T033500Z
-DTSTAMP:20231103T023000Z
-UID:l1Q4SVgoQP
-DESCRIPTION:Duration: 53 mins (0h53m)\n\nCelebrated director Godfrey Reggi
- o returns after ten years with a new experimental film about the end of th
- e world and the beginning of a new one\, featuring an electrifying score b
- y Philip Glass.\n\nhttps://www.siff.net/cinema/in-theaters/once-within-a-t
- ime
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART:20231103T014500Z
-DTEND:20231103T052500Z
-DTSTAMP:20231103T014500Z
-UID:c9k6TsDujY
-DESCRIPTION:Duration: 206 mins (3h26m)\n\nAt the turn of the 20th century\
- , oilfields made the Osage Nation some of the richest people in the world 
- overnight\, bringing in white interlopers who stole as much Osage money as
-  they could before resorting to deep betrayal and murder. The new epic wes
- tern crime saga from Martin Scorsese\, based on a true story. Screenings i
- nclude a short recorded intro from Principal Chief Geoffrey Standing Bear
-  from Osage Nation. OPEN CAPTION SCREENINGS - all Tuesday and Sunday sho
- wtimes\n\nhttps://www.siff.net/cinema/in-theaters/killers-of-the-flower-mo
- on
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TAYLOR SWIFT: THE ERAS TOUR
-DTSTART:20231103T020000Z
-DTEND:20231103T045500Z
-DTSTAMP:20231103T020000Z
-UID:bxQpeJO7wl
-DESCRIPTION:Duration: 165 mins (2h45m)\n\nThe cultural phenomenon continue
- s on the big screen! Immerse yourself in this once-in-a-lifetime concert f
- ilm experience with a breathtaking\, cinematic view of the history-making 
- tour. Taylor Swift Eras attire encouraged! Free SIFF Friendship Bracelets
-  on Opening Weekend (while supplies last). All ages welcome! TICKETS $19.8
- 9 general | $13.13 seniors & students OPEN CAPTION SCREENINGS - all Tues
- day and Sunday showtimes\n\nhttps://www.siff.net/cinema/in-theaters/taylor
- -swift-the-eras-tour
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eighth Grade
 DTSTART:20231103T223000Z
@@ -597,6 +538,18 @@ DESCRIPTION:Duration: 206 mins (3h26m)\n\nAt the turn of the 20th century\
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:48 Hour Horror Film Project Awards
+DTSTART:20231109T030000Z
+DTEND:20231109T054000Z
+DTSTAMP:20231109T030000Z
+UID:cXxFUqnBoF
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nRevel in the gory glory of these
+  locally produced\, award winning horror films made in only 48 hours durin
+ g one weekend this past October.\n\nhttps://www.siff.net/cinema/in-theater
+ s/48-hour-horror-film-project-awards
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
 DTSTART:20231110T000000Z
 DTEND:20231110T024500Z
@@ -781,6 +734,127 @@ DESCRIPTION:Duration: 130 mins (2h10m)\n\nCinema Italian Style With a bewi
  ccess to all Cinema Italian Style screenings and the Opening Night party\
  n\nhttps://www.siff.net/programs-and-events/cinema-italian-style/la-chimer
  a
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Dissection: The Wicker Man
+DTSTART:20231111T180000Z
+DTEND:20231112T001000Z
+DTSTAMP:20231111T180000Z
+UID:x8mjX3hRk1
+DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks If ever there was a q
+ uintessential cult film\, it would be The Wicker Man. Director Robin Hardy
+ ’s film saw release in its native Britain as a B-feature companion to Do
+ n’t Look Now. However\, it had been cut significantly\, and its subseque
+ nt US release was delayed and went unheralded. But slowly\, through drive-
+ in screening and television airings\, The Wicker Man captivated audiences 
+ with its wicked bait-and-switch narrative—a stodgy policeman sent to fin
+ d a missing young girl uncovers something much more sinister\, leading to 
+ an unforgettably nightmarish climax. It has since become a defining film o
+ f the Folk Horror genre\, one-third of its “Unholy Trinity”. Join faci
+ litator and SIFF Programmer Dan Doody in traveling to the remote Hebrides\
+ , where we’ll unveil the secrets of Summerisle and its mysterious Mayday
+  festivities. There are multiple versions of The Wicker Man\; this dissect
+ ion will focus on “The Final Cut” (2013)\, the last version assembled 
+ and supervised by the film’s director Robin Hardy.\n\nhttps://www.siff.n
+ et/programs-and-events/film-talks/cinema-dissection-the-wicker-man
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231111T204500Z
+DTEND:20231111T231000Z
+DTSTAMP:20231111T204500Z
+UID:WpctHb7fQX
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school.\n\nhttps://www.siff.net/cinema/in-theaters/the-
+ holdovers
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231112T000000Z
+DTEND:20231112T022500Z
+DTSTAMP:20231112T000000Z
+UID:GwGVts2fEu
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school.\n\nhttps://www.siff.net/cinema/in-theaters/the-
+ holdovers
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231112T031500Z
+DTEND:20231112T054000Z
+DTSTAMP:20231112T031500Z
+UID:vFVm1uTr8f
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school.\n\nhttps://www.siff.net/cinema/in-theaters/the-
+ holdovers
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ennio
+DTSTART:20231111T220000Z
+DTEND:20231112T005000Z
+DTSTAMP:20231111T220000Z
+UID:TjQdahsiTC
+DESCRIPTION:Duration: 156 mins (2h36m)\n\nCinema Italian Style Giuseppe To
+ rnatore pays tribute to Ennio Morricone\, retracing the life and works of 
+ the legendary composer: from his debut with Sergio Leone to the Oscar-winn
+ ing The Hateful Eight. Individual Tickets: Select showtime to purchasePass
+ es: $125 | $100 SIFF Members - Access to all Cinema Italian Style screenin
+ gs and the Opening Night party\n\nhttps://www.siff.net/programs-and-event
+ s/cinema-italian-style/ennio
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Never Too Late For Love
+DTSTART:20231112T013000Z
+DTEND:20231112T032000Z
+DTSTAMP:20231112T013000Z
+UID:AVDdvONS1A
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nCinema Italian Style When Astolf
+ o\, a pensioner who no longer expects anything from life\, is evicted from
+  his Roman apartment\, he returns to his family’s crumbling palace in a 
+ small town\, and takes up with a group of misfits\, he is certainly not ex
+ pecting to meet Stefania... Individual Tickets: Select showtime to purchas
+ ePasses: $125 | $100 SIFF Members - Access to all Cinema Italian Style scr
+ eenings and the Opening Night party\n\nhttps://www.siff.net/programs-and-
+ events/cinema-italian-style/never-too-late-for-love
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Titanic: The Musical 
+DTSTART:20231112T013000Z
+DTEND:20231112T040500Z
+DTSTAMP:20231112T013000Z
+UID:ZgkytNClMr
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nStage to Screen Winner of five T
+ ony Awards\, Titanic: The Musical is captured live on stage for cinema scr
+ eenings\, celebrating the 10th anniversary of its London premiere.\n\nhttp
+ s://www.siff.net/programs-and-events/stage-to-screen/titanic-the-musical
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thank You Guys
+DTSTART:20231112T040000Z
+DTEND:20231112T061000Z
+DTSTAMP:20231112T040000Z
+UID:lM3xXqD4HU
+DESCRIPTION:Duration: 117 mins (1h57m)\n\nCinema Italian Style Faced with 
+ a lack of job offers\, Antonio\, a passionate but often unemployed actor\,
+  accepts a job as a teacher of a theater workshop in a penitentiary instit
+ ute\, deciding to stage "Waiting for Godot." Individual Tickets: Select sh
+ owtime to purchasePasses: $125 | $100 SIFF Members - Access to all Cinema 
+ Italian Style screenings and the Opening Night party\n\nhttps://www.siff.
+ net/programs-and-events/cinema-italian-style/thank-you-guys
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
