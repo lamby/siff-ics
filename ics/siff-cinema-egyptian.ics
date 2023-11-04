@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231103T075236Z
+LAST-MODIFIED:20231104T084521Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Eighth Grade
-DTSTART:20231103T223000Z
-DTEND:20231104T001500Z
-DTSTAMP:20231103T223000Z
-UID:ZCZElLU7nZ
-DESCRIPTION:Duration: 94 mins (1h34m)\n\n50 Years of SIFF In a star-making
-  performance\, Elsie Fisher perfectly captures the everyday humiliations a
- nd triumphs of a modern-day thirteen-year-old making her way through her d
- isastrous eighth grade year in the auspicious filmmaking debut of comedian
-  Bo Burnham.\n\nhttps://www.siff.net/programs-and-events/50-years-of-siff/
- eighth-grade
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pricilla\, Queen of the Desert
-DTSTART:20231104T004500Z
-DTEND:20231104T024000Z
-DTSTAMP:20231104T004500Z
-UID:l8rdbd7ctI
-DESCRIPTION:Duration: 103 mins (1h43m)\n\n50 Years of SIFF Three girlfrien
- ds—two drag performers and a transgender woman—escape from their harsh
-  city life and embark on an all-singing\, all-dancing\, all-camping cross-
- country tour into the wild Australian outback in their cherished lavender 
- bus\, Priscilla.\n\nhttps://www.siff.net/programs-and-events/50-years-of-s
- iff/the-adventures-of-priscilla-queen-of-the-desert
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Honor of Katharina Blum
-DTSTART:20231104T031500Z
-DTEND:20231104T051500Z
-DTSTAMP:20231104T031500Z
-UID:1PWwwTt4VY
-DESCRIPTION:Duration: 106 mins (1h46m)\n\n50 Years of SIFF In the film tha
- t opened the very first Seattle International Film Festival in 1976—held
-  at the Moore-Egyptian\, now just the Moore Theatre—\, a woman is harass
- ed by the police and press after a chance encounter with a wanted man unti
- l she takes violent action.\n\nhttps://www.siff.net/programs-and-events/50
- -years-of-siff/the-lost-honor-of-katharina-blum
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Captain Fantastic
 DTSTART:20231107T010000Z
@@ -115,6 +73,58 @@ DESCRIPTION:Duration: 134 mins (2h14m)\n\n50 Years of SIFF After the Rebel
  This presentation is the Special Edition released theatrically in 1997.\n\
  nhttps://www.siff.net/programs-and-events/50-years-of-siff/the-empire-stri
  kes-back
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boyhood 
+DTSTART:20231112T200000Z
+DTEND:20231112T225500Z
+DTSTAMP:20231112T200000Z
+UID:5Uawi5PHw3
+DESCRIPTION:Duration: 163 mins (2h43m)\n\n50 Years of SIFF Richard Linklat
+ er made a triumphant return to his independent roots with this dazzling co
+ ming-of-age micro-epic. Shot over the course of 12 years in and around Aus
+ tin\, Texas\, Boyhood tracks the evolution of a single American family thr
+ ough the eyes of a young boy.\n\nhttps://www.siff.net/programs-and-events/
+ 50-years-of-siff/boyhood
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blood Simple
+DTSTART:20231112T233000Z
+DTEND:20231113T012000Z
+DTSTAMP:20231112T233000Z
+UID:sYSMJDrI2C
+DESCRIPTION:Duration: 96 mins (1h36m)\n\n50 Years of SIFF The owner of a s
+ eedy small-town Texas bar discovers that one of his employees is having an
+  affair with his wife in this now classic neo-noir from the Coen Brothers.
+ \n\nhttps://www.siff.net/programs-and-events/50-years-of-siff/blood-simple
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run Lola Run
+DTSTART:20231113T020000Z
+DTEND:20231113T033000Z
+DTSTAMP:20231113T020000Z
+UID:rJn3E4oiWm
+DESCRIPTION:Duration: 80 mins (1h20m)\n\n50 Years of SIFF After a botched 
+ money delivery\, Lola has 20 minutes to come up with 100\,000 Deutschmarks
+ .\n\nhttps://www.siff.net/programs-and-events/50-years-of-siff/run-lola-ru
+ n
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kiss of the Spider Woman
+DTSTART:20231113T040000Z
+DTEND:20231113T061500Z
+DTSTAMP:20231113T040000Z
+UID:TORQxGWYX8
+DESCRIPTION:Duration: 121 mins (2h01m)\n\n50 Years of SIFF Based on the no
+ vel by Manuel Puig\, two Brazilian men\, imprisoned during the military di
+ ctatorship for very different reasons\, find a common ground recounting me
+ mories of favorite films. Starring William Hurt and Raul Julia. Presented 
+ on 35mm.\n\nhttps://www.siff.net/programs-and-events/50-years-of-siff/kiss
+ -of-the-spider-woman
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
