@@ -1,39 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231104T084521Z
+LAST-MODIFIED:20231105T073714Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Boss
-DTSTART:20231104T232000Z
-DTEND:20231105T014000Z
-DTSTAMP:20231104T232000Z
-UID:7cPE6QjcRn
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nRomanian Film Festival Seattle\,
-  10th Edition Bogdan\, an ambulance driver in Bucharest\, takes part in an
-  armed robbery gone wrong\, leading his life to spiral out of control. Ind
- ividual Tickets: Select showtime to purchase.Passes: $45 | $40 SIFF Membe
- rs\, Seniors\, Students - includes full series access Buy Pass\n\nhttps
- ://www.siff.net/cinema/in-theaters/the-romanian-film-festival-seattle/roma
- nian-film-festival-seattle-boss
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Playback
-DTSTART:20231105T020000Z
-DTEND:20231105T033000Z
-DTSTAMP:20231105T020000Z
-UID:gbMnDacHhZ
-DESCRIPTION:Duration: 77 mins (1h17m)\n\nRomanian Film Festival Seattle\, 
- 10th Edition Playback follows Sorin Lupașcu\, a famous DJ during Romania'
- s communist years\, as the film subtly reveals the country's transformatio
- ns to a democracy. Individual Tickets: Select showtime to purchase.Passes
- : $45 | $40 SIFF Members\, Seniors\, Students - includes full series ac
- cess Buy Pass\n\nhttps://www.siff.net/cinema/in-theaters/the-romanian-film
- -festival-seattle/romanian-film-festival-seattle-playback
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Between Revolutions
 DTSTART:20231106T012000Z
@@ -238,6 +208,22 @@ DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
   a belligerent student he’s stuck supervising over the winter holiday at
   an elite boarding school.\n\nhttps://www.siff.net/cinema/in-theaters/the-
  holdovers
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Like Sheep Among Wolves
+DTSTART:20231114T020000Z
+DTEND:20231114T035000Z
+DTSTAMP:20231114T020000Z
+UID:lgWSvidlLm
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nCinema Italian Style Combining a
+  hard-boiled crime thriller with a family drama\, Lyda Patitucci’s fierc
+ e\, gripping feature debut Like Sheep Among Wolves is a story of revenge 
+ and redemption against the backdrop of a moody\, dangerous Rome. Director 
+ Lyda Patitucci scheduled to attend. Individual Tickets: Select showtime to
+  purchasePasses: $125 | $100 SIFF Members - Access to all Cinema Italian S
+ tyle screenings and the Opening Night party\n\nhttps://www.siff.net/progr
+ ams-and-events/cinema-italian-style/like-sheep-among-wolves
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

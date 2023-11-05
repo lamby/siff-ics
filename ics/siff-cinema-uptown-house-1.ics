@@ -1,57 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231104T084521Z
+LAST-MODIFIED:20231105T073714Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART:20231104T194500Z
-DTEND:20231104T223000Z
-DTSTAMP:20231104T194500Z
-UID:cqD7QvOTpY
-DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
- e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
- e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
- fter the mysterious death of her husband at their chalet in the French Alp
- s. The court case examines every aspect of the relationship she had with h
- er husband\, while her visually impaired son is called to testify as a wit
- ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
- s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART:20231104T230000Z
-DTEND:20231105T014500Z
-DTSTAMP:20231104T230000Z
-UID:lKxGq0yf8s
-DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
- e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
- e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
- fter the mysterious death of her husband at their chalet in the French Alp
- s. The court case examines every aspect of the relationship she had with h
- er husband\, while her visually impaired son is called to testify as a wit
- ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
- s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART:20231105T021500Z
-DTEND:20231105T050000Z
-DTSTAMP:20231105T021500Z
-UID:TfjvLeZaxw
-DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
- e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
- e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
- fter the mysterious death of her husband at their chalet in the French Alp
- s. The court case examines every aspect of the relationship she had with h
- er husband\, while her visually impaired son is called to testify as a wit
- ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
- s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
 DTSTART:20231105T204500Z
@@ -320,6 +272,32 @@ DESCRIPTION:Duration: 140 mins (2h20m)\n\nCinema Italian Style Inspired by
  asePasses: $125 | $100 SIFF Members - Access to all Cinema Italian Style s
  creenings and the Opening Night party\n\nhttps://www.siff.net/programs-an
  d-events/cinema-italian-style/fireworks
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231114T000000Z
+DTEND:20231114T022500Z
+DTSTAMP:20231114T000000Z
+UID:b3hOmtdqZL
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school.\n\nhttps://www.siff.net/cinema/in-theaters/the-
+ holdovers
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231114T031500Z
+DTEND:20231114T054000Z
+DTSTAMP:20231114T031500Z
+UID:VVByOXbVjN
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school.\n\nhttps://www.siff.net/cinema/in-theaters/the-
+ holdovers
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
