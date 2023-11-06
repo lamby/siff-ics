@@ -1,39 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231105T073714Z
+LAST-MODIFIED:20231106T074343Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Between Revolutions
-DTSTART:20231106T012000Z
-DTEND:20231106T024000Z
-DTSTAMP:20231106T012000Z
-UID:Hi35LIMpb0
-DESCRIPTION:Duration: 68 mins (1h08m)\n\nRomanian Film Festival Seattle\, 
- 10th Edition Two friends separated by political revolutions find connectio
- n through letters\, defying distance and turmoil. Individual Tickets: Sel
- ect showtime to purchase.Passes: $45 | $40 SIFF Members\, Seniors\, Studen
- ts - includes full series access Buy Pass\n\nhttps://www.siff.net/cinem
- a/in-theaters/the-romanian-film-festival-seattle/romanian-film-festival-se
- attle-between-revolutions
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taxi Drivers
-DTSTART:20231106T030000Z
-DTEND:20231106T045000Z
-DTSTAMP:20231106T030000Z
-UID:YqRgOPkki7
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nRomanian Film Festival Seattle\,
-  10th Edition Bucharest’s nightlife is seen through the eyes of two taxi
-  drivers\, Liviu and Lică\, who run into a series of unexpected and hilar
- ious events. Individual Tickets: Select showtime to purchase.Passes: $45 
- | $40 SIFF Members\, Seniors\, Students - includes full series access B
- uy Pass\n\nhttps://www.siff.net/cinema/in-theaters/the-romanian-film-festi
- val-seattle/romanian-film-festival-seattle-taxi-drivers
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Killers of the Flower Moon
 DTSTART:20231107T001500Z
@@ -224,6 +194,38 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nCinema Italian Style Combining a
   purchasePasses: $125 | $100 SIFF Members - Access to all Cinema Italian S
  tyle screenings and the Opening Night party\n\nhttps://www.siff.net/progr
  ams-and-events/cinema-italian-style/like-sheep-among-wolves
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Properties of Metals
+DTSTART:20231115T020000Z
+DTEND:20231115T034500Z
+DTSTAMP:20231115T020000Z
+UID:0AiWOlc6cB
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nCinema Italian Style In an Italia
+ n village\, where the idyllic beauty of the landscape belies the toughness
+  of life\, word has it young Pietro has psychokinetic powers. A tender por
+ trait of a young boy\, and an allegory of the science of invisible forces.
+  Individual Tickets: Select showtime to purchasePasses: $125 | $100 SIFF M
+ embers - Access to all Cinema Italian Style screenings and the Opening Ni
+ ght party\n\nhttps://www.siff.net/programs-and-events/cinema-italian-style
+ /the-properties-of-metals
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Best Century of My Life
+DTSTART:20231115T041500Z
+DTEND:20231115T055500Z
+DTSTAMP:20231115T041500Z
+UID:cfEFAUg8mP
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nCinema Italian Style Sergio Caste
+ llitto plays a centenarian in Alessandro Bardani’s dramedic road movie a
+ bout two men\, both without knowledge of their birth parents\, who take on
+  the Italian law prohibiting them from finding out until they are 100 year
+ s-old. Individual Tickets: Select showtime to purchasePasses: $125 | $100 
+ SIFF Members - Access to all Cinema Italian Style screenings and the Open
+ ing Night party\n\nhttps://www.siff.net/programs-and-events/cinema-italian
+ -style/the-best-century-of-my-life
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
