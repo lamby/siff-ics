@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231106T074343Z
+LAST-MODIFIED:20231108T081542Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
 BEGIN:VEVENT
@@ -98,6 +98,27 @@ DESCRIPTION:Duration: 145 mins (2h25m)\n\nStage to Screen Winner of five T
  ony Awards\, Titanic: The Musical is captured live on stage for cinema scr
  eenings\, celebrating the 10th anniversary of its London premiere.\n\nhttp
  s://www.siff.net/programs-and-events/stage-to-screen/titanic-the-musical
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folk Horror:
+DTSTART:20231116T030000Z
+DTEND:20231116T051000Z
+DTSTAMP:20231116T030000Z
+UID:JM05MtHCey
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nFilm Talks When Midsommar opened
+  in the summer of 2019\, its success marked a renewed interest in the Folk
+  Horror genre. Shortly afterwards\, Kier-La Janisse premiered her three-ho
+ ur documentary on the subject\, Woodlands Dark and Days Bewitched\, an exh
+ austive investigation into its cinematic history. Yet\, the question still
+  remains—what exactly is Folk Horror? Is it all about human sacrifices\,
+  remote rural cults\, and pagan deities? Or could it also include ancient 
+ aliens\, urban decay\, nuclear threat\, maybe even public safety films?  
+ SIFF Programmer Dan Doody presents a concise introduction to the world of 
+ Folk Horror—its tropes\, styles\, settings\, and themes—from the genre
+ ’s literary origins to the landmark “Unholy Trinity” to its recent r
+ evival as a box office draw and multimedia darling.\n\nhttps://www.siff.ne
+ t/programs-and-events/film-talks/folk-horror
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR

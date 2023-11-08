@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231106T074343Z
+LAST-MODIFIED:20231108T081542Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Captain Fantastic
-DTSTART:20231107T010000Z
-DTEND:20231107T031000Z
-DTSTAMP:20231107T010000Z
-UID:OryAphY12u
-DESCRIPTION:Duration: 118 mins (1h58m)\n\n50 Years of SIFF Viggo Mortensen
-  stars in this heartfelt story of unconventional family values as the devo
- ted father of a brood of six who live off the grid in the wilds of Washing
- ton state\, until events lead them back to the outside world for the first
-  time in decades.\n\nhttps://www.siff.net/programs-and-events/50-years-of-
- siff/captain-fantastic
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comrades: Almost a Love Story
-DTSTART:20231107T034500Z
-DTEND:20231107T055500Z
-DTSTAMP:20231107T034500Z
-UID:1PNCceO9Ov
-DESCRIPTION:Duration: 118 mins (1h58m)\n\n50 Years of SIFF Two Chinese-mai
- nlanders living in Hong Kong (Maggie Cheung and Leon Lai) form a close fri
- endship that shifts over the years into love\, and back again\, but secret
- ly those feelings always lie just under the surface.\n\nhttps://www.siff.n
- et/programs-and-events/50-years-of-siff/comrades-almost-a-love-story
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WarGames
 DTSTART:20231110T214500Z
@@ -150,6 +123,23 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\n50 Years of SIFF Overburdened an
  locaust survivor her husband brings home. As she begins to reflect on her 
  life\, she turns to the man who lives across from her…\n\nhttps://www.si
  ff.net/programs-and-events/50-years-of-siff/facing-windows
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dolly Parton Rockstar
+DTSTART:20231116T030000Z
+DTEND:20231116T042000Z
+DTSTAMP:20231116T030000Z
+UID:FirWNO6pEX
+DESCRIPTION:Duration: 67 mins (1h07m)\n\nGlobal superstar Dolly Parton cel
+ ebrates the release of her star-studded rock album\, ROCKSTAR\, with a glo
+ bal first-listen fan event featuring selections from the album and an excl
+ usive interview with Dolly on November 15th\, with select encores on Novem
+ ber 16th. The behind the album event will feature a sneak peek of select t
+ racks and music videos from the upcoming album set to release on November 
+ 17th. Plus an exclusive performance of a holiday song and her classic hit 
+ “9 to 5.”\n\nhttps://www.siff.net/cinema/in-theaters/dolly-parton-rock
+ star-the-global-first-listen-event
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
