@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231108T081542Z
+LAST-MODIFIED:20231109T075321Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:48 Hour Horror Film Project Awards
-DTSTART:20231109T030000Z
-DTEND:20231109T054000Z
-DTSTAMP:20231109T030000Z
-UID:cXxFUqnBoF
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nRevel in the gory glory of these
-  locally produced\, award winning horror films made in only 48 hours durin
- g one weekend this past October.\n\nhttps://www.siff.net/cinema/in-theater
- s/48-hour-horror-film-project-awards
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Holdovers
 DTSTART:20231110T030000Z
@@ -250,6 +238,58 @@ DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
   a belligerent student he’s stuck supervising over the winter holiday at
   an elite boarding school. OPEN CAPTION SCREENINGS - all Tuesday and Sun
  day showtimes\n\nhttps://www.siff.net/cinema/in-theaters/the-holdovers
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who is Mihri
+DTSTART:20231118T011500Z
+DTEND:20231118T025500Z
+DTSTAMP:20231118T011500Z
+UID:uMhkQKq3Jq
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nSeattle Turkish Film Festival A d
+ ocumentary about the life of Mihri (Müşfik) Rasim Achba\, one of the fir
+ st female portrait painters\, whose journey is traced from the late Ottoma
+ n Empire era Istanbul to Rome\, Paris and New York. A pioneering figure ev
+ en during her era\, Mihri’s untold story is explored by filmmaker Berna 
+ Gençalp using interviews and animation.Winner Best National Documentary (
+ Antalya Golden Orange Film Festival). Individual Tickets: Select showtime 
+ to purchase. Pass: $80 | $55 SIFF Members + Students - Provides access 
+ to all festival films\, excluding the Gala Film and Gala Party.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/seattle-turkish-film-festival/who-is-mih
+ ri
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Day\, 365 Hours
+DTSTART:20231118T030000Z
+DTEND:20231118T043000Z
+DTSTAMP:20231118T030000Z
+UID:gKf0B4UyMd
+DESCRIPTION:Duration: 79 mins (1h19m)\n\nSeattle Turkish Film Festival One
+  of the boldest documentaries of 2023\, this film focuses the legal battle
+  of two women who have been victims of abuse and violence. Filmmaker in at
+ tendance. Individual Tickets: Select showtime to purchase. Pass: $80 | $5
+ 5 SIFF Members + Students - Provides access to all festival films\, exc
+ luding the Gala Film and Gala Party.\n\nhttps://www.siff.net/cinema/in-the
+ aters/seattle-turkish-film-festival/a-day-365-hours
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seytan (aka Turkish Exorcist)
+DTSTART:20231118T050000Z
+DTEND:20231118T065500Z
+DTSTAMP:20231118T050000Z
+UID:LNT8btKaBL
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nSeattle Turkish Film Festival A 
+ crowd pleaser cult classic! Directed by award winning filmmaker Metin Erks
+ an\, Şeytan is an almost scene-by-scene remake of the 1973 masterpiece T
+ he Exorcist\, by the late William Friedkin. But\, made for the Turkish aud
+ ience with an imam in place of a priest\, and a Quran in place of a Bible.
+   Archival cult classic from 1974. Restored and Remastered. Individual Ti
+ ckets: Select showtime to purchase. Pass: $80 | $55 SIFF Members + Studen
+ ts - Provides access to all festival films\, excluding the Gala Film an
+ d Gala Party.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-turkish-f
+ ilm-festival/seytan
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
