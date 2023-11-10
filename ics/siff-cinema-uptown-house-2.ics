@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231109T075321Z
+LAST-MODIFIED:20231110T090510Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART:20231110T030000Z
-DTEND:20231110T052500Z
-DTSTAMP:20231110T030000Z
-UID:3Vr3PAXq8E
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
-  Payne’s latest about the bond that forms between a strict professor and
-  a belligerent student he’s stuck supervising over the winter holiday at
-  an elite boarding school. OPEN CAPTION SCREENINGS - all Tuesday and Sun
- day showtimes\n\nhttps://www.siff.net/cinema/in-theaters/the-holdovers
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Princess
 DTSTART:20231111T010000Z
@@ -290,6 +277,54 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nSeattle Turkish Film Festival A
  ts - Provides access to all festival films\, excluding the Gala Film an
  d Gala Party.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-turkish-f
  ilm-festival/seytan
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STFF Shorts Program
+DTSTART:20231118T203000Z
+DTEND:20231118T224000Z
+DTSTAMP:20231118T203000Z
+UID:TDMuB0i7GZ
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nSeattle Turkish Film Festival A 
+ collection of short narrative films from Türkiye\, including STFF Jury aw
+ ard winners. Individual Tickets: Select showtime to purchase. Pass: $80 |
+  $55 SIFF Members + Students - Provides access to all festival films\,
+  excluding the Gala Film and Gala Party. Shorts Program Pass: $14 | $9 SIF
+ F Members + Students - Provides access to only the narrative and documenta
+ ry short film packages.\n\nhttps://www.siff.net/cinema/in-theaters/seattle
+ -turkish-film-festival/stff-shorts-program
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iguana Tokyo
+DTSTART:20231119T000000Z
+DTEND:20231119T012500Z
+DTSTAMP:20231119T000000Z
+UID:Uiy68HMWXY
+DESCRIPTION:Duration: 74 mins (1h14m)\n\nSeattle Turkish Film Festival A s
+ mall family living in Tokyo experiences a dramatic change in their lives w
+ hen they begin playing a virtual reality game. Individual Tickets: Select 
+ showtime to purchase. Pass: $80 | $55 SIFF Members + Students - Provide
+ s access to all festival films\, excluding the Gala Film and Gala Party.\
+ n\nhttps://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival/i
+ guana-tokyo
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Night (Gala Film and Party)
+DTSTART:20231119T014500Z
+DTEND:20231119T035000Z
+DTSTAMP:20231119T014500Z
+UID:SqWJjsEEPy
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nSeattle Turkish Film Festival Is
+ hak\, a musician living in a small town in Anatolia\, faces his past and t
+ he collective anger of villagers. Screening at SIFF Uptown will follow wit
+ h a Gala Party at MoPOP featuring KEXP DJ Darek Mazzone. Gala film and Par
+ ty. Filmmaker in attendance. STFF Gala Film and Party: $100 | $80 Members
+  - Provides access to screening at SIFF Uptown at 5:45pm\, followed by t
+ he Gala Party at MoPOP starting at 8pm. Full series festival pass does NO
+ T include this screening and party.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/seattle-turkish-film-festival/black-night
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

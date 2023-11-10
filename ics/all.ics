@@ -1,82 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231109T075321Z
+LAST-MODIFIED:20231110T090510Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART:20231110T000000Z
-DTEND:20231110T024500Z
-DTSTAMP:20231110T000000Z
-UID:fqojmgNivU
-DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
- e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
- e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
- fter the mysterious death of her husband at their chalet in the French Alp
- s. The court case examines every aspect of the relationship she had with h
- er husband\, while her visually impaired son is called to testify as a wit
- ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
- s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART:20231110T031500Z
-DTEND:20231110T060000Z
-DTSTAMP:20231110T031500Z
-UID:G8WZ8TLFEL
-DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
- e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
- e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
- fter the mysterious death of her husband at their chalet in the French Alp
- s. The court case examines every aspect of the relationship she had with h
- er husband\, while her visually impaired son is called to testify as a wit
- ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
- s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kidnapped
-DTSTART:20231110T020000Z
-DTEND:20231110T042500Z
-DTSTAMP:20231110T020000Z
-UID:jCK3gkpMAh
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nCinema Italian Style Based on in
- credible true events\, this gripping historical drama from master auteur M
- arco Bellocchio (The Traitor) follows the story of a young Jewish boy who
- se abduction from his parents by the Vatican fuelled outrage in 19th Cen
- tury Italy and triggered a global scandal. Individual Tickets: Select show
- time to purchasePasses: $125 | $100 SIFF Members - Access to all Cinema It
- alian Style screenings and the Opening Night party\n\nhttps://www.siff.ne
- t/programs-and-events/cinema-italian-style/kidnapped
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Titanic: The Musical 
-DTSTART:20231110T023000Z
-DTEND:20231110T050500Z
-DTSTAMP:20231110T023000Z
-UID:tWAomqWsiE
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nStage to Screen Winner of five T
- ony Awards\, Titanic: The Musical is captured live on stage for cinema scr
- eenings\, celebrating the 10th anniversary of its London premiere.\n\nhttp
- s://www.siff.net/programs-and-events/stage-to-screen/titanic-the-musical
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART:20231110T030000Z
-DTEND:20231110T052500Z
-DTSTAMP:20231110T030000Z
-UID:3Vr3PAXq8E
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
-  Payne’s latest about the bond that forms between a strict professor and
-  a belligerent student he’s stuck supervising over the winter holiday at
-  an elite boarding school. OPEN CAPTION SCREENINGS - all Tuesday and Sun
- day showtimes\n\nhttps://www.siff.net/cinema/in-theaters/the-holdovers
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WarGames
 DTSTART:20231110T214500Z
@@ -1072,5 +999,108 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nSeattle Turkish Film Festival A
  d Gala Party.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-turkish-f
  ilm-festival/seytan
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kingdom I
+DTSTART:20231118T193000Z
+DTEND:20231119T002000Z
+DTSTAMP:20231118T193000Z
+UID:5hCGGp1CnR
+DESCRIPTION:Duration: 277 mins (4h37m)\n\n50 Years of SIFF Strange things 
+ are happening in the underbelly of a Danish hospital in Lars von Trier’s
+  long unavailable cult TV phenomenon. Stunningly restored in never-before-
+ seen versions\, The Kingdom I is a wickedly funny supernatural mystery.\n\
+ nhttps://www.siff.net/programs-and-events/50-years-of-siff/the-kingdom-i
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STFF Shorts Program
+DTSTART:20231118T203000Z
+DTEND:20231118T224000Z
+DTSTAMP:20231118T203000Z
+UID:TDMuB0i7GZ
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nSeattle Turkish Film Festival A 
+ collection of short narrative films from Türkiye\, including STFF Jury aw
+ ard winners. Individual Tickets: Select showtime to purchase. Pass: $80 |
+  $55 SIFF Members + Students - Provides access to all festival films\,
+  excluding the Gala Film and Gala Party. Shorts Program Pass: $14 | $9 SIF
+ F Members + Students - Provides access to only the narrative and documenta
+ ry short film packages.\n\nhttps://www.siff.net/cinema/in-theaters/seattle
+ -turkish-film-festival/stff-shorts-program
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borromini and Bernini
+DTSTART:20231118T211500Z
+DTEND:20231118T231000Z
+DTSTAMP:20231118T211500Z
+UID:SQMh2GM7xx
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nA journey into the great beauty 
+ of Baroque Rome\, when the city was the centre of western art and where ev
+ ery ambitious painter\, sculptor and architect had to be.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/borromini-and-bernini
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iguana Tokyo
+DTSTART:20231119T000000Z
+DTEND:20231119T012500Z
+DTSTAMP:20231119T000000Z
+UID:Uiy68HMWXY
+DESCRIPTION:Duration: 74 mins (1h14m)\n\nSeattle Turkish Film Festival A s
+ mall family living in Tokyo experiences a dramatic change in their lives w
+ hen they begin playing a virtual reality game. Individual Tickets: Select 
+ showtime to purchase. Pass: $80 | $55 SIFF Members + Students - Provide
+ s access to all festival films\, excluding the Gala Film and Gala Party.\
+ n\nhttps://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival/i
+ guana-tokyo
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run Lola Run
+DTSTART:20231119T004500Z
+DTEND:20231119T021500Z
+DTSTAMP:20231119T004500Z
+UID:aqUsenab77
+DESCRIPTION:Duration: 80 mins (1h20m)\n\n50 Years of SIFF After a botched 
+ money delivery\, Lola has 20 minutes to come up with 100\,000 Deutschmarks
+ .\n\nhttps://www.siff.net/programs-and-events/50-years-of-siff/run-lola-ru
+ n
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Night (Gala Film and Party)
+DTSTART:20231119T014500Z
+DTEND:20231119T035000Z
+DTSTAMP:20231119T014500Z
+UID:SqWJjsEEPy
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nSeattle Turkish Film Festival Is
+ hak\, a musician living in a small town in Anatolia\, faces his past and t
+ he collective anger of villagers. Screening at SIFF Uptown will follow wit
+ h a Gala Party at MoPOP featuring KEXP DJ Darek Mazzone. Gala film and Par
+ ty. Filmmaker in attendance. STFF Gala Film and Party: $100 | $80 Members
+  - Provides access to screening at SIFF Uptown at 5:45pm\, followed by t
+ he Gala Party at MoPOP starting at 8pm. Full series festival pass does NO
+ T include this screening and party.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/seattle-turkish-film-festival/black-night
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twilight
+DTSTART:20231119T030000Z
+DTEND:20231119T051500Z
+DTSTAMP:20231119T030000Z
+UID:AuiGaToSPq
+DESCRIPTION:Duration: 122 mins (2h02m)\n\nWhen Bella Swan moves to a small
+  town in the Pacific Northwest\, she falls in love with Edward Cullen\, a 
+ mysterious classmate who reveals himself to be a 108-year-old vampire. Joi
+ n us for 15th Anniversary screenings including:- Q&A with Twilight direct
+ or Catherine Hardwicke (Nov 17)- Staff from The Forever Twilight Exhibit
+ ion in attendance (Nov 17)- An exclusive Twilight poster\, vampire zin
+ es\, and more from author and illustrator Stella Harvey (Nov 17) - A gi
+ veaway for a limited edition poster signed by director Catherine Hardwic
+ ke (Nov 18) November 17 screening ON STANDBY. Tickets still available for 
+ November 18.\n\nhttps://www.siff.net/cinema/in-theaters/twilight
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
