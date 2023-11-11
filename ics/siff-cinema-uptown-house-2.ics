@@ -1,41 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231110T090510Z
+LAST-MODIFIED:20231111T085648Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 2)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Princess
-DTSTART:20231111T010000Z
-DTEND:20231111T030000Z
-DTSTAMP:20231111T010000Z
-UID:BdhZ06joES
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nCinema Italian Style A young cla
- ndestine Nigerian girl sells her body in an enchanted forest\, dodging emo
- tions and deceiving customers. Until one day—forced to break the chains 
- of exploitation—she meets a man who wants to save her. But first\, she h
- as to save herself. Individual Tickets: Select showtime to purchasePasses:
-  $125 | $100 SIFF Members - Access to all Cinema Italian Style screenings
-  and the Opening Night party\n\nhttps://www.siff.net/programs-and-events/
- cinema-italian-style/princess
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chimera
-DTSTART:20231111T033000Z
-DTEND:20231111T055000Z
-DTSTAMP:20231111T033000Z
-UID:5p4eCmdQYd
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nCinema Italian Style With a bewi
- tching mixture of earthiness and magical realism\, the latest from Alice R
- ohrwacher follows the travails of Arthur\, a pleasantly rumpled Englishman
-  in Italy with a preternatural ability to connect with the land. Individua
- l Tickets: Select showtime to purchasePasses: $125 | $100 SIFF Members - A
- ccess to all Cinema Italian Style screenings and the Opening Night party\
- n\nhttps://www.siff.net/programs-and-events/cinema-italian-style/la-chimer
- a
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ennio
 DTSTART:20231111T220000Z
@@ -325,6 +293,90 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nSeattle Turkish Film Festival Is
  he Gala Party at MoPOP starting at 8pm. Full series festival pass does NO
  T include this screening and party.\n\nhttps://www.siff.net/cinema/in-thea
  ters/seattle-turkish-film-festival/black-night
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile
+DTSTART:20231119T191500Z
+DTEND:20231119T210000Z
+DTSTAMP:20231119T191500Z
+UID:xT0sJVawMW
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nSeattle Turkish Film Festival Mus
+ tafa\, a man in his mid-30s\, works in the archive department of a governm
+ ent institution. Known for his grimness and introversion by those around h
+ im\, the film becomes a dark comedy where Mustafa’s life takes an absurd
+  turn when he visits his father at a hospital.Nominated for Best Film (Bos
+ phorous Film Festival). Individual Tickets: Select showtime to purchase. P
+ ass: $80 | $55 SIFF Members + Students - Provides access to all festiv
+ al films\, excluding the Gala Film and Gala Party.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/seattle-turkish-film-festival/smile
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STFF Docs Program
+DTSTART:20231119T210000Z
+DTEND:20231119T231000Z
+DTSTAMP:20231119T210000Z
+UID:20HFCLR30d
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nSeattle Turkish Film Festival A 
+ collection of short documentaries from Türkiye. Individual Tickets: Selec
+ t showtime to purchase. Pass: $80 | $55 SIFF Members + Students - Provi
+ des access to all festival films\, excluding the Gala Film and Gala Party.
+  Shorts Program Pass: $14 | $9 SIFF Members + Students - Provides access t
+ o only the narrative and documentary short film packages.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/seattle-turkish-film-festival/stff-docs-program
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suddenly
+DTSTART:20231119T231500Z
+DTEND:20231120T012000Z
+DTSTAMP:20231119T231500Z
+UID:YGh4jNO14e
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nSeattle Turkish Film Festival Re
+ yhan\, ust before returning to Istanbul from Hamburg\, notices that she ha
+ s lost her sense of smell. Instead of addressing her illness\, she embarks
+  on a journey to find her true self. Individual Tickets: Select showtime t
+ o purchase. Pass: $80 | $55 SIFF Members + Students - Provides access t
+ o all festival films\, excluding the Gala Film and Gala Party.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/seattle-turkish-film-festival/suddenly
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:About Dry Grasses
+DTSTART:20231120T014500Z
+DTEND:20231120T051500Z
+DTSTAMP:20231120T014500Z
+UID:hR1R83NGOC
+DESCRIPTION:Duration: 197 mins (3h17m)\n\nSeattle Turkish Film Festival Th
+ e most prominent film of STFF 2023 is by award winning filmmaker Nuri Bilg
+ e Ceylan. Nominated for the prestigious Palme d’Or and winner of Best Ac
+ tress at the 2023 Cannes Film Festival\, the film revolves around a teache
+ r assigned to a teaching post in the rural areas of eastern Anatolia who i
+ s dealing with accusations of inappropriate behavior by two students. Indi
+ vidual Tickets: Select showtime to purchase. Pass: $80 | $55 SIFF Members
+  + Students - Provides access to all festival films\, excluding the Gal
+ a Film and Gala Party.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-
+ turkish-film-festival/about-dry-grasses
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Man Who Saves the World
+DTSTART:20231120T053000Z
+DTEND:20231120T071500Z
+DTSTAMP:20231120T053000Z
+UID:RKQTaguKXm
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nSeattle Turkish Film Festival One
+  of the most intriguing films in Turkish Cinema history\, The Man who Save
+ s the World is filmmaker Çetin İnanç’s attempt at a fantasy science f
+ iction that gained a cult following over time and is now part of midnight 
+ screenings all over the world. The film is notorious for scenes and/or mus
+ ic copied from a total of 19 Hollywood films. Archival cult classic from 1
+ 982. Restored and Remastered. Individual Tickets: Select showtime to purch
+ ase. Pass: $80 | $55 SIFF Members + Students - Provides access to all 
+ festival films\, excluding the Gala Film and Gala Party.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/seattle-turkish-film-festival/the-man-who-saves
+ -the-world
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
