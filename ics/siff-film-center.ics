@@ -1,69 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231111T085648Z
+LAST-MODIFIED:20231113T073920Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
-BEGIN:VEVENT
-SUMMARY:Cinema Dissection: The Wicker Man
-DTSTART:20231111T180000Z
-DTEND:20231112T001000Z
-DTSTAMP:20231111T180000Z
-UID:x8mjX3hRk1
-DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks If ever there was a q
- uintessential cult film\, it would be The Wicker Man. Director Robin Hardy
- ’s film saw release in its native Britain as a B-feature companion to Do
- n’t Look Now. However\, it had been cut significantly\, and its subseque
- nt US release was delayed and went unheralded. But slowly\, through drive-
- in screening and television airings\, The Wicker Man captivated audiences 
- with its wicked bait-and-switch narrative—a stodgy policeman sent to fin
- d a missing young girl uncovers something much more sinister\, leading to 
- an unforgettably nightmarish climax. It has since become a defining film o
- f the Folk Horror genre\, one-third of its “Unholy Trinity”. Join faci
- litator and SIFF Programmer Dan Doody in traveling to the remote Hebrides\
- , where we’ll unveil the secrets of Summerisle and its mysterious Mayday
-  festivities. There are multiple versions of The Wicker Man\; this dissect
- ion will focus on “The Final Cut” (2013)\, the last version assembled 
- and supervised by the film’s director Robin Hardy.\n\nhttps://www.siff.n
- et/programs-and-events/film-talks/cinema-dissection-the-wicker-man
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Titanic: The Musical 
-DTSTART:20231112T013000Z
-DTEND:20231112T040500Z
-DTSTAMP:20231112T013000Z
-UID:ZgkytNClMr
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nStage to Screen Winner of five T
- ony Awards\, Titanic: The Musical is captured live on stage for cinema scr
- eenings\, celebrating the 10th anniversary of its London premiere.\n\nhttp
- s://www.siff.net/programs-and-events/stage-to-screen/titanic-the-musical
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Titanic: The Musical 
-DTSTART:20231112T220000Z
-DTEND:20231113T003500Z
-DTSTAMP:20231112T220000Z
-UID:mBuAnB00p3
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nStage to Screen Winner of five T
- ony Awards\, Titanic: The Musical is captured live on stage for cinema scr
- eenings\, celebrating the 10th anniversary of its London premiere.\n\nhttp
- s://www.siff.net/programs-and-events/stage-to-screen/titanic-the-musical
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Titanic: The Musical 
-DTSTART:20231113T013000Z
-DTEND:20231113T040500Z
-DTSTAMP:20231113T013000Z
-UID:BhDZnMbLSm
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nStage to Screen Winner of five T
- ony Awards\, Titanic: The Musical is captured live on stage for cinema scr
- eenings\, celebrating the 10th anniversary of its London premiere.\n\nhttp
- s://www.siff.net/programs-and-events/stage-to-screen/titanic-the-musical
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Folk Horror:
 DTSTART:20231116T030000Z
@@ -103,6 +43,18 @@ DTSTART:20231119T211500Z
 DTEND:20231119T231000Z
 DTSTAMP:20231119T211500Z
 UID:TWqIAJB2pD
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nA journey into the great beauty 
+ of Baroque Rome\, when the city was the centre of western art and where ev
+ ery ambitious painter\, sculptor and architect had to be.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/borromini-and-bernini
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Borromini and Bernini
+DTSTART:20231121T031500Z
+DTEND:20231121T051000Z
+DTSTAMP:20231121T031500Z
+UID:ABTpkRi6xE
 DESCRIPTION:Duration: 102 mins (1h42m)\n\nA journey into the great beauty 
  of Baroque Rome\, when the city was the centre of western art and where ev
  ery ambitious painter\, sculptor and architect had to be.\n\nhttps://www.s

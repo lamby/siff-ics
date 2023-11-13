@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231111T085648Z
+LAST-MODIFIED:20231113T073920Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
-BEGIN:VEVENT
-SUMMARY:Boyhood 
-DTSTART:20231112T200000Z
-DTEND:20231112T225500Z
-DTSTAMP:20231112T200000Z
-UID:5Uawi5PHw3
-DESCRIPTION:Duration: 163 mins (2h43m)\n\n50 Years of SIFF Richard Linklat
- er made a triumphant return to his independent roots with this dazzling co
- ming-of-age micro-epic. Shot over the course of 12 years in and around Aus
- tin\, Texas\, Boyhood tracks the evolution of a single American family thr
- ough the eyes of a young boy.\n\nhttps://www.siff.net/programs-and-events/
- 50-years-of-siff/boyhood
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blood Simple
-DTSTART:20231112T233000Z
-DTEND:20231113T012000Z
-DTSTAMP:20231112T233000Z
-UID:sYSMJDrI2C
-DESCRIPTION:Duration: 96 mins (1h36m)\n\n50 Years of SIFF The owner of a s
- eedy small-town Texas bar discovers that one of his employees is having an
-  affair with his wife in this now classic neo-noir from the Coen Brothers.
- \n\nhttps://www.siff.net/programs-and-events/50-years-of-siff/blood-simple
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Run Lola Run
-DTSTART:20231113T020000Z
-DTEND:20231113T033000Z
-DTSTAMP:20231113T020000Z
-UID:rJn3E4oiWm
-DESCRIPTION:Duration: 80 mins (1h20m)\n\n50 Years of SIFF After a botched 
- money delivery\, Lola has 20 minutes to come up with 100\,000 Deutschmarks
- .\n\nhttps://www.siff.net/programs-and-events/50-years-of-siff/run-lola-ru
- n
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kiss of the Spider Woman
-DTSTART:20231113T040000Z
-DTEND:20231113T061500Z
-DTSTAMP:20231113T040000Z
-UID:TORQxGWYX8
-DESCRIPTION:Duration: 121 mins (2h01m)\n\n50 Years of SIFF Based on the no
- vel by Manuel Puig\, two Brazilian men\, imprisoned during the military di
- ctatorship for very different reasons\, find a common ground recounting me
- mories of favorite films. Starring William Hurt and Raul Julia. Presented 
- on 35mm.\n\nhttps://www.siff.net/programs-and-events/50-years-of-siff/kiss
- -of-the-spider-woman
-LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Run Lola Run
 DTSTART:20231114T020000Z
@@ -197,6 +145,34 @@ DESCRIPTION:Duration: 295 mins (4h55m)\n\n50 Years of SIFF Picking up from
  profound evil rising from the bowels of Copenhagen’s favorite haunted ho
  spital. | SIFF 1998\n\nhttps://www.siff.net/programs-and-events/50-years-o
  f-siff/the-kingdom-ii
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multiple Maniacs
+DTSTART:20231121T011500Z
+DTEND:20231121T030500Z
+DTSTAMP:20231121T011500Z
+UID:M7WW5bsipY
+DESCRIPTION:Duration: 96 mins (1h36m)\n\n50 Years of SIFF SIFF favorite di
+ rector John Waters’s second feature film follows The Cavalcade of Perver
+ sion\, a traveling freak-show that is a front for a band of psychotic kidn
+ appers and murderers.\n\nhttps://www.siff.net/programs-and-events/50-years
+ -of-siff/multiple-maniacs
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OSS 117: Nest of Spies 
+DTSTART:20231121T033000Z
+DTEND:20231121T052000Z
+DTSTAMP:20231121T033000Z
+UID:2R606MVkuS
+DESCRIPTION:Duration: 99 mins (1h39m)\n\n50 Years of SIFF See how it all b
+ egan for Hubert Bonisseur de la Bath\, aka agent OSS 117—France’s answ
+ er to James Bond\, Maxwell Smart\, and Austin Powers—as he goes undercov
+ er in Cairo to investigate the murder of a fellow agent. Starring Jean Duj
+ ardin\, Bérénice Bejo\, and Aure Atika. Presented on 35mm.\n\nhttps://ww
+ w.siff.net/programs-and-events/50-years-of-siff/oss-117-cairo-nest-of-spie
+ s
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR
