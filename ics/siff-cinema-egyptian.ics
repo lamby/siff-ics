@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231114T141615Z
+LAST-MODIFIED:20231115T075057Z
 NAME:SIFF Cinema (SIFF Cinema Egyptian)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Egyptian)
 BEGIN:VEVENT
@@ -148,6 +148,35 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\n50 Years of SIFF See how it all b
  ardin\, Bérénice Bejo\, and Aure Atika. Presented on 35mm.\n\nhttps://ww
  w.siff.net/programs-and-events/50-years-of-siff/oss-117-cairo-nest-of-spie
  s
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wedding Banquet
+DTSTART:20231124T003000Z
+DTEND:20231124T023000Z
+DTSTAMP:20231124T003000Z
+UID:SS0Gi9w1Yr
+DESCRIPTION:Duration: 106 mins (1h46m)\n\n50 Years of SIFF To satisfy his 
+ nagging parents\, a gay landlord and a female tenant agree to a marriage o
+ f convenience\, but when his parents arrive to visit\, and celebrate their
+  wedding\, things get out of hand. Presented on 35mm.\n\nhttps://www.siff.
+ net/programs-and-events/50-years-of-siff/the-wedding-banquet
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empire Strikes Back
+DTSTART:20231124T031500Z
+DTEND:20231124T054000Z
+DTSTAMP:20231124T031500Z
+UID:cTMDqm2smr
+DESCRIPTION:Duration: 134 mins (2h14m)\n\n50 Years of SIFF After the Rebel
+ s are overpowered by the Empire\, Luke Skywalker begins his Jedi training 
+ with Yoda\, while his friends are pursued across the galaxy by Darth Vader
+  and bounty hunter Boba Fett. The 1980 Seattle International Film Festival
+  proudly hosted the world premiere of this now legendary Star Wars epic. 
+ This presentation is the Special Edition released theatrically in 1997.\n\
+ nhttps://www.siff.net/programs-and-events/50-years-of-siff/the-empire-stri
+ kes-back
 LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

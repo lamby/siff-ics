@@ -1,99 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231114T141615Z
+LAST-MODIFIED:20231115T075057Z
 NAME:SIFF Cinema (all venues)
 X-WR-CALNAME:SIFF Cinema (all venues)
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART:20231114T234500Z
-DTEND:20231115T023000Z
-DTSTAMP:20231114T234500Z
-UID:qISN8flSYN
-DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
- e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
- e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
- fter the mysterious death of her husband at their chalet in the French Alp
- s. The court case examines every aspect of the relationship she had with h
- er husband\, while her visually impaired son is called to testify as a wit
- ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
- s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART:20231115T030000Z
-DTEND:20231115T054500Z
-DTSTAMP:20231115T030000Z
-UID:GsiinfEmUN
-DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
- e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
- e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
- fter the mysterious death of her husband at their chalet in the French Alp
- s. The court case examines every aspect of the relationship she had with h
- er husband\, while her visually impaired son is called to testify as a wit
- ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
- s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART:20231115T000000Z
-DTEND:20231115T022500Z
-DTSTAMP:20231115T000000Z
-UID:9ZsKOgYCx0
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
-  Payne’s latest about the bond that forms between a strict professor and
-  a belligerent student he’s stuck supervising over the winter holiday at
-  an elite boarding school. OPEN CAPTION SCREENINGS - all Tuesday and Sun
- day showtimes\n\nhttps://www.siff.net/cinema/in-theaters/the-holdovers
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART:20231115T031500Z
-DTEND:20231115T054000Z
-DTSTAMP:20231115T031500Z
-UID:AYjT9WLWh2
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
-  Payne’s latest about the bond that forms between a strict professor and
-  a belligerent student he’s stuck supervising over the winter holiday at
-  an elite boarding school. OPEN CAPTION SCREENINGS - all Tuesday and Sun
- day showtimes\n\nhttps://www.siff.net/cinema/in-theaters/the-holdovers
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Properties of Metals
-DTSTART:20231115T020000Z
-DTEND:20231115T034500Z
-DTSTAMP:20231115T020000Z
-UID:0AiWOlc6cB
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nCinema Italian Style In an Italia
- n village\, where the idyllic beauty of the landscape belies the toughness
-  of life\, word has it young Pietro has psychokinetic powers. A tender por
- trait of a young boy\, and an allegory of the science of invisible forces.
-  Individual Tickets: Select showtime to purchasePasses: $125 | $100 SIFF M
- embers - Access to all Cinema Italian Style screenings and the Opening Ni
- ght party\n\nhttps://www.siff.net/programs-and-events/cinema-italian-style
- /the-properties-of-metals
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Best Century of My Life
-DTSTART:20231115T041500Z
-DTEND:20231115T055500Z
-DTSTAMP:20231115T041500Z
-UID:cfEFAUg8mP
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nCinema Italian Style Sergio Caste
- llitto plays a centenarian in Alessandro Bardani’s dramedic road movie a
- bout two men\, both without knowledge of their birth parents\, who take on
-  the Italian law prohibiting them from finding out until they are 100 year
- s-old. Individual Tickets: Select showtime to purchasePasses: $125 | $100 
- SIFF Members - Access to all Cinema Italian Style screenings and the Open
- ing Night party\n\nhttps://www.siff.net/programs-and-events/cinema-italian
- -style/the-best-century-of-my-life
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
 DTSTART:20231115T234500Z
@@ -296,6 +206,20 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nCinema Italian Style From Italian
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:In Your Light Do We See Light / A Perfect Love
+DTSTART:20231117T023000Z
+DTEND:20231117T043000Z
+DTSTAMP:20231117T023000Z
+UID:5CV33o9Jgn
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nNorth America International UniF
+ ilm Festival The short film\, In Your Light Do We See Light\, tells a belo
+ ved story about how to find herself. The short film\, A Perfect Love\, tel
+ ls a true lovely family story about adoption.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/unifilm-festival/unifilm-festival-in-your-light-do-we-see-a
+ -perfect-love
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Facing Windows
 DTSTART:20231117T233000Z
 DTEND:20231118T012500Z
@@ -384,6 +308,19 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nSeattle Turkish Film Festival A d
  //www.siff.net/cinema/in-theaters/seattle-turkish-film-festival/who-is-mih
  ri
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Four Stage Dating Protocol / One Mile Walk
+DTSTART:20231118T023000Z
+DTEND:20231118T043000Z
+DTSTAMP:20231118T023000Z
+UID:VdURHgl2q8
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nNorth America International UniF
+ ilm Festival The Four Stage Dating Protocol shares the young generation's 
+ dating experiences. One Mile Walk tells a historic true story about immigr
+ ants.\n\nhttps://www.siff.net/cinema/in-theaters/unifilm-festival/unifilm-
+ festival-the-four-stage-dating-protocol-one-mile-walk
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Day\, 365 Hours
@@ -609,6 +546,18 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nSeattle Turkish Film Festival Is
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Remote Home
+DTSTART:20231119T023000Z
+DTEND:20231119T051000Z
+DTSTAMP:20231119T023000Z
+UID:FWba4EVsCW
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nNorth America International UniF
+ ilm Festival This feature film tells a love story in China Fujian Tulou.\n
+ \nhttps://www.siff.net/cinema/in-theaters/unifilm-festival/unifilm-festiva
+ l-remote-home
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Twilight
 DTSTART:20231119T030000Z
 DTEND:20231119T051500Z
@@ -662,6 +611,38 @@ DTSTART:20231119T203000Z
 DTEND:20231119T231500Z
 DTSTAMP:20231119T203000Z
 UID:RLfi5Xdvdj
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
+ e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
+ fter the mysterious death of her husband at their chalet in the French Alp
+ s. The court case examines every aspect of the relationship she had with h
+ er husband\, while her visually impaired son is called to testify as a wit
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231119T234500Z
+DTEND:20231120T023000Z
+DTSTAMP:20231119T234500Z
+UID:bh20p7b0U1
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
+ e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
+ fter the mysterious death of her husband at their chalet in the French Alp
+ s. The court case examines every aspect of the relationship she had with h
+ er husband\, while her visually impaired son is called to testify as a wit
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231120T030000Z
+DTEND:20231120T054500Z
+DTSTAMP:20231120T030000Z
+UID:Ur50MqPBTa
 DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
  e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
  e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
@@ -784,6 +765,18 @@ DESCRIPTION:Duration: 197 mins (3h17m)\n\nSeattle Turkish Film Festival Th
  a Film and Gala Party.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-
  turkish-film-festival/about-dry-grasses
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The King of All the World
+DTSTART:20231120T023000Z
+DTEND:20231120T051000Z
+DTSTAMP:20231120T023000Z
+UID:UrJlbs5SJA
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nNorth America International UniF
+ ilm Festival This feature film tells a group of beautiful people about dan
+ cers.\n\nhttps://www.siff.net/cinema/in-theaters/unifilm-festival/unifilm-
+ festival-the-king-of-all-the-world
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Man Who Saves the World
@@ -1075,5 +1068,164 @@ DESCRIPTION:Duration: 60 mins (1h00m)\n\nIn 1966\, the documentary Rush to
  John F. Kennedy. New 4k restoration.\n\nhttps://www.siff.net/cinema/in-th
  eaters/rush-to-judgment
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART:20231123T204500Z
+DTEND:20231123T233000Z
+DTSTAMP:20231123T204500Z
+UID:04HgBIbsmK
+DESCRIPTION:Duration: 151 mins (2h31m)\n\nWinner of the Palme d’Or at th
+ e 2023 Cannes Film Festival\, Justine Triet’s Anatomy of a Fall tells th
+ e story of an enigmatic German novelist (Sandra Hüller) who is arrested a
+ fter the mysterious death of her husband at their chalet in the French Alp
+ s. The court case examines every aspect of the relationship she had with h
+ er husband\, while her visually impaired son is called to testify as a wit
+ ness. OPEN CAPTION SCREENINGS - all Tuesday and Sunday showtimes\n\nhttp
+ s://www.siff.net/cinema/in-theaters/anatomy-of-a-fall
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231123T210000Z
+DTEND:20231123T232500Z
+DTSTAMP:20231123T210000Z
+UID:AMG9QBmjcp
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school. OPEN CAPTION SCREENINGS - all Tuesday and Sun
+ day showtimes\n\nhttps://www.siff.net/cinema/in-theaters/the-holdovers
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231124T000000Z
+DTEND:20231124T022500Z
+DTSTAMP:20231124T000000Z
+UID:o39dGD6pW6
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school. OPEN CAPTION SCREENINGS - all Tuesday and Sun
+ day showtimes\n\nhttps://www.siff.net/cinema/in-theaters/the-holdovers
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART:20231124T030000Z
+DTEND:20231124T052500Z
+DTSTAMP:20231124T030000Z
+UID:2DRddXYsVB
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
+  Payne’s latest about the bond that forms between a strict professor and
+  a belligerent student he’s stuck supervising over the winter holiday at
+  an elite boarding school. OPEN CAPTION SCREENINGS - all Tuesday and Sun
+ day showtimes\n\nhttps://www.siff.net/cinema/in-theaters/the-holdovers
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART:20231123T211500Z
+DTEND:20231123T233500Z
+DTSTAMP:20231123T211500Z
+UID:J9msiniZIC
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nAcademy Award winning filmmaker 
+ Emerald Fennell (Promising Young Woman) brings us a wicked tale of privile
+ ge and desire. Struggling to find his place at Oxford University\, student
+  Oliver Quick (Barry Keoghan) finds himself drawn into the world of the ch
+ arming and aristocratic Felix Catton (Jacob Elordi)\, who invites him to S
+ altburn\, his eccentric family’s sprawling estate\, for a summer never t
+ o be forgotten.\n\nhttps://www.siff.net/cinema/in-theaters/saltburn
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART:20231124T001500Z
+DTEND:20231124T023500Z
+DTSTAMP:20231124T001500Z
+UID:r0ZCIwBfJI
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nAcademy Award winning filmmaker 
+ Emerald Fennell (Promising Young Woman) brings us a wicked tale of privile
+ ge and desire. Struggling to find his place at Oxford University\, student
+  Oliver Quick (Barry Keoghan) finds himself drawn into the world of the ch
+ arming and aristocratic Felix Catton (Jacob Elordi)\, who invites him to S
+ altburn\, his eccentric family’s sprawling estate\, for a summer never t
+ o be forgotten.\n\nhttps://www.siff.net/cinema/in-theaters/saltburn
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART:20231124T031500Z
+DTEND:20231124T053500Z
+DTSTAMP:20231124T031500Z
+UID:QK2nwX5HWn
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nAcademy Award winning filmmaker 
+ Emerald Fennell (Promising Young Woman) brings us a wicked tale of privile
+ ge and desire. Struggling to find his place at Oxford University\, student
+  Oliver Quick (Barry Keoghan) finds himself drawn into the world of the ch
+ arming and aristocratic Felix Catton (Jacob Elordi)\, who invites him to S
+ altburn\, his eccentric family’s sprawling estate\, for a summer never t
+ o be forgotten.\n\nhttps://www.siff.net/cinema/in-theaters/saltburn
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART:20231124T003000Z
+DTEND:20231124T022000Z
+DTSTAMP:20231124T003000Z
+UID:DaaIO8sw2Y
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nHapless family man Paul Matthews
+  (Nicolas Cage) finds his life turned upside down when millions of strange
+ rs suddenly start seeing him in their dreams. But when his nighttime appea
+ rances take a nightmarish turn\, Paul is forced to navigate his newfound s
+ tardom\, in this wickedly entertaining comedy from writer-director Kristof
+ fer Borgli (Sick of Myself) and producer Ari Aster.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/dream-scenario
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dream Scenario
+DTSTART:20231124T033000Z
+DTEND:20231124T052000Z
+DTSTAMP:20231124T033000Z
+UID:y4QU8GjRbB
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nHapless family man Paul Matthews
+  (Nicolas Cage) finds his life turned upside down when millions of strange
+ rs suddenly start seeing him in their dreams. But when his nighttime appea
+ rances take a nightmarish turn\, Paul is forced to navigate his newfound s
+ tardom\, in this wickedly entertaining comedy from writer-director Kristof
+ fer Borgli (Sick of Myself) and producer Ari Aster.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/dream-scenario
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wedding Banquet
+DTSTART:20231124T003000Z
+DTEND:20231124T023000Z
+DTSTAMP:20231124T003000Z
+UID:SS0Gi9w1Yr
+DESCRIPTION:Duration: 106 mins (1h46m)\n\n50 Years of SIFF To satisfy his 
+ nagging parents\, a gay landlord and a female tenant agree to a marriage o
+ f convenience\, but when his parents arrive to visit\, and celebrate their
+  wedding\, things get out of hand. Presented on 35mm.\n\nhttps://www.siff.
+ net/programs-and-events/50-years-of-siff/the-wedding-banquet
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empire Strikes Back
+DTSTART:20231124T031500Z
+DTEND:20231124T054000Z
+DTSTAMP:20231124T031500Z
+UID:cTMDqm2smr
+DESCRIPTION:Duration: 134 mins (2h14m)\n\n50 Years of SIFF After the Rebel
+ s are overpowered by the Empire\, Luke Skywalker begins his Jedi training 
+ with Yoda\, while his friends are pursued across the galaxy by Darth Vader
+  and bounty hunter Boba Fett. The 1980 Seattle International Film Festival
+  proudly hosted the world premiere of this now legendary Star Wars epic. 
+ This presentation is the Special Edition released theatrically in 1997.\n\
+ nhttps://www.siff.net/programs-and-events/50-years-of-siff/the-empire-stri
+ kes-back
+LOCATION:SIFF Cinema Egyptian\, 805 East Pine Street
 END:VEVENT
 END:VCALENDAR

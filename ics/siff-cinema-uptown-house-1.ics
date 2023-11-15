@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231114T141615Z
+LAST-MODIFIED:20231115T075057Z
 NAME:SIFF Cinema (SIFF Cinema Uptown House 1)
 X-WR-CALNAME:SIFF Cinema (SIFF Cinema Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART:20231115T000000Z
-DTEND:20231115T022500Z
-DTSTAMP:20231115T000000Z
-UID:9ZsKOgYCx0
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
-  Payne’s latest about the bond that forms between a strict professor and
-  a belligerent student he’s stuck supervising over the winter holiday at
-  an elite boarding school. OPEN CAPTION SCREENINGS - all Tuesday and Sun
- day showtimes\n\nhttps://www.siff.net/cinema/in-theaters/the-holdovers
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART:20231115T031500Z
-DTEND:20231115T054000Z
-DTSTAMP:20231115T031500Z
-UID:AYjT9WLWh2
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nPaul Giamatti stars in Alexander
-  Payne’s latest about the bond that forms between a strict professor and
-  a belligerent student he’s stuck supervising over the winter holiday at
-  an elite boarding school. OPEN CAPTION SCREENINGS - all Tuesday and Sun
- day showtimes\n\nhttps://www.siff.net/cinema/in-theaters/the-holdovers
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Holdovers
 DTSTART:20231116T000000Z
@@ -226,6 +200,51 @@ DTSTART:20231123T031500Z
 DTEND:20231123T053500Z
 DTSTAMP:20231123T031500Z
 UID:aLhgQckWGS
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nAcademy Award winning filmmaker 
+ Emerald Fennell (Promising Young Woman) brings us a wicked tale of privile
+ ge and desire. Struggling to find his place at Oxford University\, student
+  Oliver Quick (Barry Keoghan) finds himself drawn into the world of the ch
+ arming and aristocratic Felix Catton (Jacob Elordi)\, who invites him to S
+ altburn\, his eccentric family’s sprawling estate\, for a summer never t
+ o be forgotten.\n\nhttps://www.siff.net/cinema/in-theaters/saltburn
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART:20231123T211500Z
+DTEND:20231123T233500Z
+DTSTAMP:20231123T211500Z
+UID:J9msiniZIC
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nAcademy Award winning filmmaker 
+ Emerald Fennell (Promising Young Woman) brings us a wicked tale of privile
+ ge and desire. Struggling to find his place at Oxford University\, student
+  Oliver Quick (Barry Keoghan) finds himself drawn into the world of the ch
+ arming and aristocratic Felix Catton (Jacob Elordi)\, who invites him to S
+ altburn\, his eccentric family’s sprawling estate\, for a summer never t
+ o be forgotten.\n\nhttps://www.siff.net/cinema/in-theaters/saltburn
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART:20231124T001500Z
+DTEND:20231124T023500Z
+DTSTAMP:20231124T001500Z
+UID:r0ZCIwBfJI
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nAcademy Award winning filmmaker 
+ Emerald Fennell (Promising Young Woman) brings us a wicked tale of privile
+ ge and desire. Struggling to find his place at Oxford University\, student
+  Oliver Quick (Barry Keoghan) finds himself drawn into the world of the ch
+ arming and aristocratic Felix Catton (Jacob Elordi)\, who invites him to S
+ altburn\, his eccentric family’s sprawling estate\, for a summer never t
+ o be forgotten.\n\nhttps://www.siff.net/cinema/in-theaters/saltburn
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART:20231124T031500Z
+DTEND:20231124T053500Z
+DTSTAMP:20231124T031500Z
+UID:QK2nwX5HWn
 DESCRIPTION:Duration: 127 mins (2h07m)\n\nAcademy Award winning filmmaker 
  Emerald Fennell (Promising Young Woman) brings us a wicked tale of privile
  ge and desire. Struggling to find his place at Oxford University\, student

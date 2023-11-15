@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231114T141615Z
+LAST-MODIFIED:20231115T075057Z
 NAME:SIFF Cinema (SIFF Film Center)
 X-WR-CALNAME:SIFF Cinema (SIFF Film Center)
 BEGIN:VEVENT
@@ -26,6 +26,33 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nFilm Talks When Midsommar opened
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:In Your Light Do We See Light / A Perfect Love
+DTSTART:20231117T023000Z
+DTEND:20231117T043000Z
+DTSTAMP:20231117T023000Z
+UID:5CV33o9Jgn
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nNorth America International UniF
+ ilm Festival The short film\, In Your Light Do We See Light\, tells a belo
+ ved story about how to find herself. The short film\, A Perfect Love\, tel
+ ls a true lovely family story about adoption.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/unifilm-festival/unifilm-festival-in-your-light-do-we-see-a
+ -perfect-love
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Four Stage Dating Protocol / One Mile Walk
+DTSTART:20231118T023000Z
+DTEND:20231118T043000Z
+DTSTAMP:20231118T023000Z
+UID:VdURHgl2q8
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nNorth America International UniF
+ ilm Festival The Four Stage Dating Protocol shares the young generation's 
+ dating experiences. One Mile Walk tells a historic true story about immigr
+ ants.\n\nhttps://www.siff.net/cinema/in-theaters/unifilm-festival/unifilm-
+ festival-the-four-stage-dating-protocol-one-mile-walk
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Borromini and Bernini
 DTSTART:20231118T211500Z
 DTEND:20231118T231000Z
@@ -38,6 +65,18 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nA journey into the great beauty
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Remote Home
+DTSTART:20231119T023000Z
+DTEND:20231119T051000Z
+DTSTAMP:20231119T023000Z
+UID:FWba4EVsCW
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nNorth America International UniF
+ ilm Festival This feature film tells a love story in China Fujian Tulou.\n
+ \nhttps://www.siff.net/cinema/in-theaters/unifilm-festival/unifilm-festiva
+ l-remote-home
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Borromini and Bernini
 DTSTART:20231119T211500Z
 DTEND:20231119T231000Z
@@ -47,6 +86,18 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nA journey into the great beauty
  of Baroque Rome\, when the city was the centre of western art and where ev
  ery ambitious painter\, sculptor and architect had to be.\n\nhttps://www.s
  iff.net/cinema/in-theaters/borromini-and-bernini
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The King of All the World
+DTSTART:20231120T023000Z
+DTEND:20231120T051000Z
+DTSTAMP:20231120T023000Z
+UID:UrJlbs5SJA
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nNorth America International UniF
+ ilm Festival This feature film tells a group of beautiful people about dan
+ cers.\n\nhttps://www.siff.net/cinema/in-theaters/unifilm-festival/unifilm-
+ festival-the-king-of-all-the-world
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
