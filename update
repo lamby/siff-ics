@@ -20,7 +20,7 @@ from rich.logging import RichHandler
 from rich.progress import track
 
 logging.basicConfig(
-    level=logging.DEBUG, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+    level=logging.WARNING, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
 )
 
 re_collapse_newlines = re.compile(r"\n+")
@@ -131,7 +131,7 @@ class SiffICS:
             self.events.append(data)
 
     def get_ics(self, events, venue_name):
-        logging.info(f"Generating .ics for {venue_name}")
+        logging.info(f"Generating ICS for {venue_name}")
 
         name = f"SIFF Cinema ({venue_name})"
 
