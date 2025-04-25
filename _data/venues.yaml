@@ -1,13 +1,33 @@
-- VenueAddress1: 805 East Pine Street
+- VenueAddress1: 600 Pine Street
+  VenueAddress2: null
+  VenueCapacity: 296
+  VenueCity: Seattle
+  VenueCountry: United States
+  VenueName: AMC Pacific Place 11
+  VenuePhoneNumber: (206) 405-2655
+  VenueSlug: amc-pacific-place-11
+  VenueState: WA
+  VenueZipCode: '98101'
+- VenueAddress1: 911 Pine Street
+  VenueAddress2: null
+  VenueCapacity: 2000
+  VenueCity: Seattle
+  VenueCountry: United States
+  VenueName: Paramount Theatre
+  VenuePhoneNumber: null
+  VenueSlug: paramount-theatre
+  VenueState: WA
+  VenueZipCode: '98101'
+- VenueAddress1: 2100 4th Avenue
   VenueAddress2: null
   VenueCapacity: 570
   VenueCity: Seattle
   VenueCountry: United States
-  VenueName: SIFF Cinema Egyptian
+  VenueName: SIFF Cinema Downtown
   VenuePhoneNumber: null
-  VenueSlug: siff-cinema-egyptian
+  VenueSlug: siff-cinema-downtown
   VenueState: WA
-  VenueZipCode: '98122'
+  VenueZipCode: '98121'
 - VenueAddress1: 511 Queen Anne Avenue North
   VenueAddress2: null
   VenueCapacity: 479
@@ -48,3 +68,13 @@
   VenueSlug: siff-film-center
   VenueState: WA
   VenueZipCode: '98109'
+- VenueAddress1: 16101 Greenwood Avenue North
+  VenueAddress2: null
+  VenueCapacity: 351
+  VenueCity: Shoreline
+  VenueCountry: United States
+  VenueName: Shoreline CC Theater
+  VenuePhoneNumber: (206) 546-4728
+  VenueSlug: shoreline-cc-theater
+  VenueState: WA
+  VenueZipCode: '98133'

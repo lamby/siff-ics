@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250425T223905Z
-NAME:SIFF Cinema (all venues)
-X-WR-CALNAME:SIFF Cinema (all venues)
+LAST-MODIFIED:20250425T223005Z
+NAME:SIFF Cinema ()
+X-WR-CALNAME:SIFF Cinema ()
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART:20250425T230000Z
@@ -16,7 +16,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -30,7 +30,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -48,7 +48,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -66,7 +66,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -78,7 +78,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -90,7 +90,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -106,7 +106,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -122,7 +122,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Hearts
@@ -135,7 +135,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nA small Belgian town is the setti
  st sets eyes on his new neighbor\, Alexander\, a delicate first love emerg
  es between the two\, and damn what their heteronormative society tells the
  m.\n\nhttps://www.siff.net/cinema/in-theaters/young-hearts
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Hearts
@@ -148,7 +148,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nA small Belgian town is the setti
  st sets eyes on his new neighbor\, Alexander\, a delicate first love emerg
  es between the two\, and damn what their heteronormative society tells the
  m.\n\nhttps://www.siff.net/cinema/in-theaters/young-hearts
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cinema Dissection: Grey Gardens
@@ -173,7 +173,7 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks "It's very hard to ke
  about performance\, identity\, and the intersection of personal history an
  d public spectacle.\n\nhttps://www.siff.net/programs-and-events/education/
  adult-film-education/film-talks/cinema-dissection-grey-gardens
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -187,7 +187,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -201,7 +201,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -215,7 +215,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -233,7 +233,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -251,7 +251,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -269,7 +269,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -281,7 +281,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -293,7 +293,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -305,7 +305,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -321,7 +321,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -337,7 +337,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -353,7 +353,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Hearts
@@ -366,7 +366,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nA small Belgian town is the setti
  st sets eyes on his new neighbor\, Alexander\, a delicate first love emerg
  es between the two\, and damn what their heteronormative society tells the
  m.\n\nhttps://www.siff.net/cinema/in-theaters/young-hearts
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Hearts
@@ -379,7 +379,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nA small Belgian town is the setti
  st sets eyes on his new neighbor\, Alexander\, a delicate first love emerg
  es between the two\, and damn what their heteronormative society tells the
  m.\n\nhttps://www.siff.net/cinema/in-theaters/young-hearts
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Welfare
@@ -393,7 +393,7 @@ DESCRIPTION:Duration: 167 mins (2h47m)\n\nThe Films of Frederick Wiseman 
  of problems that constitute welfare: housing\, unemployment\, divorce\, me
  dical and psychiatric problems\, abandoned and abused children\, and the e
  lderly.\n\nhttps://www.siff.net/programs-and-events/wiseman/welfare
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -407,7 +407,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -421,7 +421,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -435,7 +435,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -453,7 +453,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -471,7 +471,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -489,7 +489,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -505,7 +505,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -521,7 +521,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -537,7 +537,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food and Country
@@ -555,7 +555,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nDocumentarian Laura Gabbert (City
  ichael Bracy\, Food and Country (moderator) Mariah DeLeo\, Seattle Good B
  usiness Network Seth Pacleb\, Pidgin Cooperative Michael Frazier\, Viva Fa
  rms\n\nhttps://www.siff.net/cinema/in-theaters/food-and-country
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Hearts
@@ -568,7 +568,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nA small Belgian town is the setti
  st sets eyes on his new neighbor\, Alexander\, a delicate first love emerg
  es between the two\, and damn what their heteronormative society tells the
  m.\n\nhttps://www.siff.net/cinema/in-theaters/young-hearts
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Hearts
@@ -581,7 +581,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nA small Belgian town is the setti
  st sets eyes on his new neighbor\, Alexander\, a delicate first love emerg
  es between the two\, and damn what their heteronormative society tells the
  m.\n\nhttps://www.siff.net/cinema/in-theaters/young-hearts
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -593,7 +593,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -605,7 +605,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Store
@@ -617,7 +617,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nThe Films of Frederick Wiseman 
  | Presented by SIFF and The Beacon Filmmaker Frederick Wiseman takes camer
  as inside a Neiman Marcus store and its corporate headquarters in Dallas.\
  n\nhttps://www.siff.net/programs-and-events/wiseman/the-store
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -631,7 +631,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -645,7 +645,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -663,7 +663,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -681,7 +681,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -693,7 +693,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -705,7 +705,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -721,7 +721,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -737,7 +737,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Hearts
@@ -750,7 +750,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nA small Belgian town is the setti
  st sets eyes on his new neighbor\, Alexander\, a delicate first love emerg
  es between the two\, and damn what their heteronormative society tells the
  m.\n\nhttps://www.siff.net/cinema/in-theaters/young-hearts
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Hearts
@@ -763,7 +763,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nA small Belgian town is the setti
  st sets eyes on his new neighbor\, Alexander\, a delicate first love emerg
  es between the two\, and damn what their heteronormative society tells the
  m.\n\nhttps://www.siff.net/cinema/in-theaters/young-hearts
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -777,7 +777,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -791,7 +791,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -809,7 +809,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -827,7 +827,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -839,7 +839,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -851,7 +851,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -867,7 +867,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -883,7 +883,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -897,7 +897,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -911,7 +911,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -929,7 +929,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -947,7 +947,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -959,7 +959,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -971,7 +971,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -987,7 +987,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juvenile Court
@@ -1000,7 +1000,7 @@ DESCRIPTION:Duration: 144 mins (2h24m)\n\nThe Films of Frederick Wiseman 
  nobtrusive examination of the goings-on of a children's court\, Memphis Ju
  venile Court 616.\n\nhttps://www.siff.net/programs-and-events/wiseman/juve
  nile-court
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Persona
@@ -1017,7 +1017,7 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nPresented by The Swedish Club and
   nothing. Is she feeding on Andersson’s life force? Are they actually ea
  ch other? Is there someone else on the island?\n\nhttps://www.siff.net/pro
  grams-and-events/the-magic-lantern-of-ingmar-bergman/persona
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1031,7 +1031,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1045,7 +1045,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1063,7 +1063,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1081,7 +1081,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -1093,7 +1093,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding Banquet
@@ -1105,7 +1105,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFrom Director Andrew Ahn comes a
   joyful comedy of errors about a chosen family navigating cultural identit
  y\, queerness\, and family expectations.\n\nhttps://www.siff.net/cinema/in
  -theaters/wedding-banquet
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -1121,7 +1121,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ballad of Wallis Island
@@ -1137,7 +1137,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Ballad of Wallis Island follo
  o play a private show at his home on Wallis Island. Old tensions resurface
   as Charles tries desperately to salvage his dream gig.\n\nhttps://www.sif
  f.net/cinema/in-theaters/the-ballad-of-wallis-island
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Public Housing
@@ -1150,7 +1150,7 @@ DESCRIPTION:Duration: 200 mins (3h20m)\n\nThe Films of Frederick Wiseman 
  is cameras on a housing project that is home to some of the poorest reside
  nts living in Chicago's South Side.\n\nhttps://www.siff.net/programs-and-e
  vents/wiseman/public-housing
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1164,7 +1164,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1178,7 +1178,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1196,7 +1196,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1214,7 +1214,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -1226,7 +1226,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -1238,7 +1238,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Welfare
@@ -1252,7 +1252,7 @@ DESCRIPTION:Duration: 167 mins (2h47m)\n\nThe Films of Frederick Wiseman 
  of problems that constitute welfare: housing\, unemployment\, divorce\, me
  dical and psychiatric problems\, abandoned and abused children\, and the e
  lderly.\n\nhttps://www.siff.net/programs-and-events/wiseman/welfare
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Store
@@ -1264,7 +1264,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nThe Films of Frederick Wiseman 
  | Presented by SIFF and The Beacon Filmmaker Frederick Wiseman takes camer
  as inside a Neiman Marcus store and its corporate headquarters in Dallas.\
  n\nhttps://www.siff.net/programs-and-events/wiseman/the-store
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:High School
@@ -1277,7 +1277,7 @@ DESCRIPTION:Duration: 75 mins (1h15m)\n\nThe Films of Frederick Wiseman |
  takes us inside Northeast High School as a fly on the wall to observe the 
  teachers and how they interact with the students.\n\nhttps://www.siff.net/
  programs-and-events/wiseman/high-school
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1291,7 +1291,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1305,7 +1305,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1319,7 +1319,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1337,7 +1337,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1355,7 +1355,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1373,7 +1373,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -1385,7 +1385,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -1397,7 +1397,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -1409,7 +1409,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1423,7 +1423,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1437,7 +1437,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1451,7 +1451,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1469,7 +1469,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1487,7 +1487,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1505,7 +1505,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -1517,7 +1517,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Metropolitan
@@ -1531,7 +1531,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nAn ironically comic look at Manha
  ghtly to discuss love\, honor\, and the impending demise of their class. 
  Director Whit Stillman is scheduled to attend.\n\nhttps://www.siff.net/cin
  ema/in-theaters/metropolitan
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Welfare
@@ -1545,7 +1545,7 @@ DESCRIPTION:Duration: 167 mins (2h47m)\n\nThe Films of Frederick Wiseman 
  of problems that constitute welfare: housing\, unemployment\, divorce\, me
  dical and psychiatric problems\, abandoned and abused children\, and the e
  lderly.\n\nhttps://www.siff.net/programs-and-events/wiseman/welfare
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1559,7 +1559,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1573,7 +1573,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1591,7 +1591,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1609,7 +1609,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -1621,7 +1621,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -1633,7 +1633,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Store
@@ -1645,7 +1645,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nThe Films of Frederick Wiseman 
  | Presented by SIFF and The Beacon Filmmaker Frederick Wiseman takes camer
  as inside a Neiman Marcus store and its corporate headquarters in Dallas.\
  n\nhttps://www.siff.net/programs-and-events/wiseman/the-store
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:High School
@@ -1658,7 +1658,7 @@ DESCRIPTION:Duration: 75 mins (1h15m)\n\nThe Films of Frederick Wiseman |
  takes us inside Northeast High School as a fly on the wall to observe the 
  teachers and how they interact with the students.\n\nhttps://www.siff.net/
  programs-and-events/wiseman/high-school
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1672,7 +1672,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1686,7 +1686,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juvenile Court
@@ -1699,7 +1699,7 @@ DESCRIPTION:Duration: 144 mins (2h24m)\n\nThe Films of Frederick Wiseman 
  nobtrusive examination of the goings-on of a children's court\, Memphis Ju
  venile Court 616.\n\nhttps://www.siff.net/programs-and-events/wiseman/juve
  nile-court
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1717,7 +1717,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Classified Cinema
@@ -1729,7 +1729,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
  op secret until they hit the screen. Still free\, always fun\, never prete
  ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema-x3692
  5
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1743,7 +1743,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1757,7 +1757,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1775,7 +1775,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1793,7 +1793,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -1805,7 +1805,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Store
@@ -1817,7 +1817,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nThe Films of Frederick Wiseman 
  | Presented by SIFF and The Beacon Filmmaker Frederick Wiseman takes camer
  as inside a Neiman Marcus store and its corporate headquarters in Dallas.\
  n\nhttps://www.siff.net/programs-and-events/wiseman/the-store
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bjork’s Cornucopia
@@ -1829,7 +1829,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nBjörk: Cornucopia\, the highly a
  nticipated concert film recorded live in Lisbon\, captures the celebrated 
  artist’s groundbreaking tour that mesmerised audiences worldwide for fiv
  e years.\n\nhttps://www.siff.net/cinema/in-theaters/bjork
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1843,7 +1843,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1857,7 +1857,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1875,7 +1875,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1893,7 +1893,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -1905,7 +1905,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juvenile Court
@@ -1918,7 +1918,7 @@ DESCRIPTION:Duration: 144 mins (2h24m)\n\nThe Films of Frederick Wiseman 
  nobtrusive examination of the goings-on of a children's court\, Memphis Ju
  venile Court 616.\n\nhttps://www.siff.net/programs-and-events/wiseman/juve
  nile-court
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tall Tales
@@ -1933,7 +1933,7 @@ DESCRIPTION:Duration: 65 mins (1h05m)\n\nFabled English record producer Ma
   prog\, dub\, 70s synth\, Joe Meek\, Ivor Cutler\, Library\, kraut\, and c
  lassic Warp—Tall Tales sounds like musicians meeting in the Hinterland.\
  n\nhttps://www.siff.net/cinema/in-theaters/tall-tales
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1947,7 +1947,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -1961,7 +1961,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1979,7 +1979,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -1997,7 +1997,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -2009,7 +2009,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -2021,7 +2021,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Public Housing
@@ -2034,7 +2034,7 @@ DESCRIPTION:Duration: 200 mins (3h20m)\n\nThe Films of Frederick Wiseman 
  is cameras on a housing project that is home to some of the poorest reside
  nts living in Chicago's South Side.\n\nhttps://www.siff.net/programs-and-e
  vents/wiseman/public-housing
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cinema Dissect-Off: 28 Days Later
@@ -2054,7 +2054,7 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks Join Cinema Dissectio
  ne breakdown of Danny Boyle’s post-apocalyptic horror masterpiece\, 28 D
  ays Later.\n\nhttps://www.siff.net/programs-and-events/education/adult-fil
  m-education/film-talks/cinema-dissect-off-28-days-later
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -2068,7 +2068,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -2082,7 +2082,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -2096,7 +2096,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -2114,7 +2114,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -2132,7 +2132,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -2150,7 +2150,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bjork’s Cornucopia
@@ -2162,7 +2162,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nBjörk: Cornucopia\, the highly a
  nticipated concert film recorded live in Lisbon\, captures the celebrated 
  artist’s groundbreaking tour that mesmerised audiences worldwide for fiv
  e years.\n\nhttps://www.siff.net/cinema/in-theaters/bjork
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -2174,7 +2174,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -2186,7 +2186,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -2198,7 +2198,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juvenile Court
@@ -2211,7 +2211,7 @@ DESCRIPTION:Duration: 144 mins (2h24m)\n\nThe Films of Frederick Wiseman 
  nobtrusive examination of the goings-on of a children's court\, Memphis Ju
  venile Court 616.\n\nhttps://www.siff.net/programs-and-events/wiseman/juve
  nile-court
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mamma Mia!
@@ -2227,7 +2227,7 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF 'n' Stitch The votes are in
  dling projects\, but leave any paint\, glitter\, glue\, sequins\, feathers
  \, small beads\, or tools that need to be plugged in at home.\n\nhttps://w
  ww.siff.net/programs-and-events/siff-n-stitch/crafters-choice-mamma-mia
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Public Housing
@@ -2240,7 +2240,7 @@ DESCRIPTION:Duration: 200 mins (3h20m)\n\nThe Films of Frederick Wiseman 
  is cameras on a housing project that is home to some of the poorest reside
  nts living in Chicago's South Side.\n\nhttps://www.siff.net/programs-and-e
  vents/wiseman/public-housing
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -2254,7 +2254,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -2268,7 +2268,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
@@ -2282,7 +2282,7 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nGet ready for Ryan Coogler's (Bl
  ritics are calling it 'gory\, horny\, relevant\,' so you'll want to be sur
  e to see it on our 97-foot screen in immersive Dolby Atmos sound.\n\nhttps
  ://www.siff.net/cinema/in-theaters/sinners
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -2300,7 +2300,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -2318,7 +2318,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
@@ -2336,7 +2336,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nKarsh\, 50\, is a prominent busi
  hensive new text on the cult director packed with stills\, illustrations\,
   and a forward from Viggo Mortensen (Crimes of the Future).\n\nhttps://www
  .siff.net/cinema/in-theaters/the-shrouds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -2348,7 +2348,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
@@ -2360,7 +2360,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA devastatingly personal story ab
  out the decades-long forced demolition of Masafer Yatta\, a rural West Ban
  k community. 2025 Academy Award Winner: Best Documentary Feature.\n\nhttp
  s://www.siff.net/cinema/in-theaters/no-other-land
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:High School
@@ -2373,7 +2373,7 @@ DESCRIPTION:Duration: 75 mins (1h15m)\n\nThe Films of Frederick Wiseman |
  takes us inside Northeast High School as a fly on the wall to observe the 
  teachers and how they interact with the students.\n\nhttps://www.siff.net/
  programs-and-events/wiseman/high-school
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Welfare
@@ -2387,7 +2387,7 @@ DESCRIPTION:Duration: 167 mins (2h47m)\n\nThe Films of Frederick Wiseman 
  of problems that constitute welfare: housing\, unemployment\, divorce\, me
  dical and psychiatric problems\, abandoned and abused children\, and the e
  lderly.\n\nhttps://www.siff.net/programs-and-events/wiseman/welfare
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Opening Night Film & Party
@@ -2404,7 +2404,7 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nDarren Thornton (SIFF 2017’s A
   parties are for ages 21+\, and IDs will be checked at the door. No refund
  s will be issued for tickets purchased with an invalid ID.\n\nhttps://www.
  siff.net/festival/four-mothers
-LOCATION:Paramount Theatre\, 911 Pine Street
+LOCATION:\, 911 Pine Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:April
@@ -2418,7 +2418,7 @@ DESCRIPTION:Duration: 134 mins (2h14m)\n\nAn obstetrician who secretly pro
  ght when she loses a newborn while on duty in the unflinching second film 
  from Dea Kulumbegashvili (Beginning).\n\nhttps://www.siff.net/festival/apr
  il
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bitter Gold
@@ -2431,7 +2431,7 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nIn this pulse-pounding neo-wester
  f northern Chile\, 16-year-old Carola must take control of the family busi
  ness and stave off greedy\, gold-seeking rivals after her father gets seri
  ously injured.\n\nhttps://www.siff.net/festival/bitter-gold
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beef
@@ -2445,7 +2445,7 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nLati\, a first-generation Malian
  a new world opens up when she learns how to tap into her frustration and a
  nger to create empowering\, liberating rhymes.\n\nhttps://www.siff.net/fes
  tival/beef
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Auction
@@ -2457,20 +2457,7 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nWhen a long-lost painting\, stole
  n by the Nazis in 1939\, turns up in a cottage in Eastern France\, it sets
   in motion a story of intrigue\, deceit\, and surprise. Based on a remarka
  ble true story.\n\nhttps://www.siff.net/festival/auction
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Build a Library
-DTSTART:20250516T203000Z
-DTEND:20250516T222000Z
-DTSTAMP:20250516T203000Z
-UID:9lwfydGOfO
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen two local women set out to 
- decolonize Nairobi’s formerly whites-only McMillan Memorial Library and 
- turn it into a multicultural hub\, they must contend with their country’
- s history and a complicated web of bureaucracy over eight very long but re
- warding years.\n\nhttps://www.siff.net/festival/how-to-build-a-library
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manas
@@ -2483,7 +2470,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nSet in a corner of Brazil that r
  ng tale of Marcielle\, a young victim of abuse who yearns to find a way ou
  t of a hostile home and a village that has resisted change for generations
  .\n\nhttps://www.siff.net/festival/manas
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monk in Pieces
@@ -2496,7 +2483,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nAs avant-garde multihyphenate gen
  s Net\,” she and her greatest protégés and collaborators relive and re
  interpret her storied career’s most enduring works. Director Billy Sheba
  r scheduled to attend.\n\nhttps://www.siff.net/festival/monk-in-pieces
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hanami
@@ -2509,7 +2496,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nWeaving between the natural and m
  s. Left by her mother soon after birth\, she will spend her life trying to
   find the right answer to the lingering question in her mind and soul: Sho
  uld she stay or should she go?\n\nhttps://www.siff.net/festival/hanami
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Under the Volcano
@@ -2522,21 +2509,7 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nA Ukrainian family on vacation i
  asion of their home country\, sending them into fits of desperation and in
  trospection as they wander the beaches speculating what comes next.\n\nhtt
  ps://www.siff.net/festival/under-the-volcano
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Road: The Edna O'Brien Story
-DTSTART:20250516T230000Z
-DTEND:20250517T005000Z
-DTSTAMP:20250516T230000Z
-UID:U7CdAtZx3f
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nThe controversial and boldly fem
- inist Irish author Edna O’Brien (“The Country Girls”) shares journal
-  entries and provocative insight into her trailblazing career in a series 
- of late-in-life interviews in this Palm Springs International Film Festiva
- l award winner.\n\nhttps://www.siff.net/festival/blue-road-the-edna-obrien
- -story
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drowned Land
@@ -2550,7 +2523,7 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nThe Choctaw Nation of southeaster
  rse bodies of water in the state\, in this call to action from SIFF 4th Wo
  rld Media Lab alum Colleen Thurston. Director Colleen Thurston scheduled t
  o attend.\n\nhttps://www.siff.net/festival/drowned-land
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Billy
@@ -2563,7 +2536,7 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn this compassionate yet distur
  ormer filmmaking friend Billy Poulin\, now in prison for murder\, through 
  his own stockpile of video footage and deconstructs the effects of untreat
  ed schizophrenia.\n\nhttps://www.siff.net/festival/billy
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ka Whawhai Tonu: Struggle Without End
@@ -2576,7 +2549,7 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nCliff Curtis and Temuera Morriso
  age epic about the 1864 Battle of Ōrākau\, as an Indigenous tribe defend
  s their land from invading British forces.\n\nhttps://www.siff.net/festiva
  l/ka-whawhai-tonu-struggle-without-end
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Starman
@@ -2590,34 +2563,7 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nJet Propulsion Laboratory scienti
  es and views on the possibility of extraterrestrial life. Director Robert 
  Stone and cast member Gentry Lee scheduled to attend.\n\nhttps://www.siff.
  net/festival/starman
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dancing Queen in Hollywood
-DTSTART:20250517T013000Z
-DTEND:20250517T031000Z
-DTSTAMP:20250517T013000Z
-UID:7X0XS6cH6s
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nIn the sequel to SIFF 2023 Golden
-  Space Needle Best Film winner Dancing Queen\, young hip-hop-dancing Mina 
- and her dance partner Markus head to Los Angeles in hopes of starring in a
-  music video\, only for her to get the chance to be in a major motion pict
- ure!\n\nhttps://www.siff.net/festival/dancing-queen-in-hollywood
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Invention
-DTSTART:20250517T013000Z
-DTEND:20250517T025500Z
-DTSTAMP:20250517T013000Z
-UID:8nGOMXbXwZ
-DESCRIPTION:Duration: 72 mins (1h12m)\n\nCallie Hernandez (The Endless) co
- -writes and stars in this inventive\, autofictional indie that evokes the 
- tone of a Haruki Murakami detective story\, as a daughter investigates her
-  estranged late father’s experimental health marketing schemes. Director
-  Courtney Stephens scheduled to attend.\n\nhttps://www.siff.net/festival/i
- nvention
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Librarians
@@ -2631,7 +2577,7 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nWarriors come in all shapes and s
  ght in the latest from Oscar®-nominated director Kim A. Snyder (Death by 
  Numbers). Director Kim A. Snyder scheduled to attend.\n\nhttps://www.siff.
  net/festival/the-librarians
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ShortsFest Opening Night
@@ -2644,7 +2590,7 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nIt is our great pleasure to open
  the world: whether narrative or documentary\, live action or animation—t
  hese films prove short is truly sweet.\n\nhttps://www.siff.net/festival/sh
  ortsfest-opening-night-x39745
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ALT Shorts: Dead Reckoning
@@ -2656,7 +2602,7 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nChart a course through experiment
  al fables and water imagery and oceans of cut-out and crazy animations…w
  ith nary a Tom Cruise nor impossible mission in sight.\n\nhttps://www.siff
  .net/festival/alt-shorts-dead-reckoning
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mongrels
@@ -2669,7 +2615,7 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nIn this triptych of stories\, a
   town deal with its feral dog population\, all while making a new life in 
  a strange land and navigating the grief of an absent mother. Director Jero
  me Yoo scheduled to attend.\n\nhttps://www.siff.net/festival/mongrels
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:40 Acres
@@ -2682,7 +2628,7 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nMusic video veteran R.T. Thorne
  sation\, a speculative fiction thriller about a Black family in a starved\
  , post-civil war near future who must defend their farm from invading cann
  ibals.\n\nhttps://www.siff.net/festival/40-acres
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chain Reactions
@@ -2697,21 +2643,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nFilm essayist and SIFF alum Alex
  ap your leather face for your thinking cap at the May 16 screening\, where
   BoneBat Comedy of Horrors Film Fest will be giving away goodies via trivi
  a!\n\nhttps://www.siff.net/festival/chain-reactions
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Nature of Invisible Things
-DTSTART:20250517T040000Z
-DTEND:20250517T054000Z
-DTSTAMP:20250517T040000Z
-UID:PyMFo8kFHF
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nGloria and Sofia\, two 10-year-ol
- d girls\, meet during the summer holidays while spending the days in a hos
- pital. Gloria is accompanying her nurse mother and Sofia is visiting her g
- randmother with Alzheimer’s. Their playful and delicate bond will help t
- hem navigate the fragility of life. Director Rafaela Camelo scheduled to a
- ttend.\n\nhttps://www.siff.net/festival/the-nature-of-invisible-things
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:F*cktoys
@@ -2725,7 +2657,7 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nAnnapurna Sriram writes\, direct
  riend to break a terrible curse that has befallen her. SXSW Special Jury P
  rize winner. Director Annapurna Sriram scheduled to attend.\n\nhttps://www
  .siff.net/festival/fucktoys
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spermageddon
@@ -2739,20 +2671,7 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nIn this raunchy yet sincere anima
   the nefarious Jizzmo from enacting Spermageddon! From co-director Tommy W
  irkola (Dead Snow\, Violent Night).\n\nhttps://www.siff.net/festival/sperm
  ageddon
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mongrels
-DTSTART:20250517T174500Z
-DTEND:20250517T194500Z
-DTSTAMP:20250517T174500Z
-UID:k1l4Ml5hKs
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nIn this triptych of stories\, a 
- Korean father and his two children move to the Canadian prairies to help a
-  town deal with its feral dog population\, all while making a new life in 
- a strange land and navigating the grief of an absent mother. Director Jero
- me Yoo scheduled to attend.\n\nhttps://www.siff.net/festival/mongrels
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Medicine Circle: Indigenous Stories of Return
@@ -2765,7 +2684,7 @@ DESCRIPTION:Duration: 71 mins (1h11m)\n\nThis selection of short\, Indigen
   of communities from around the snowy northern regions of the world. *Stre
  aming In My Hand restricted to audiences in WA State.\n\nhttps://www.siff.
  net/festival/medicine-circle-indigenous-stories-of-return
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Diciannove
@@ -2778,7 +2697,7 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn this freewheeling Gen Z bildu
  ves his privileged world and economic studies behind to bustle around Sien
  a in desperate search of identity and connection.\n\nhttps://www.siff.net/
  festival/diciannove
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drowning Dry
@@ -2791,7 +2710,7 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nIn this elliptically told melodra
  amilies must confront lingering resentments when tragedy strikes during a 
  lakeside weekend summer vacation. Winner of Best Director at the 2024 Loca
  rno Film Festival.\n\nhttps://www.siff.net/festival/drowning-dry
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Into the Wonderwoods
@@ -2804,20 +2723,7 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nWhen Angelo is accidentally separ
  rough the dark woods to grandmother’s house\, encountering a wondrous fa
  iry tale fantasy world along the way in this eco-conscious marvel of a fam
  ily film. Ages 8+\n\nhttps://www.siff.net/festival/into-the-wonderwoods
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Don’t Let’s Go to the Dogs Tonight
-DTSTART:20250517T193000Z
-DTEND:20250517T212000Z
-DTSTAMP:20250517T193000Z
-UID:7EwXkDH6nR
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nActress Embeth Davidtz (Schindler
- 's List) makes her feature directorial debut\, adapting Alexandra Fuller
- ’s bestselling memoir about a precocious eight-year-old farmgirl who wit
- nesses Rhodesia’s tumultuous political shift in the early 1980s.\n\nhttp
- s://www.siff.net/festival/dont-lets-go-to-the-dogs-tonight
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Invention
@@ -2831,22 +2737,7 @@ DESCRIPTION:Duration: 72 mins (1h12m)\n\nCallie Hernandez (The Endless) co
   estranged late father’s experimental health marketing schemes. Director
   Courtney Stephens scheduled to attend.\n\nhttps://www.siff.net/festival/i
  nvention
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chain Reactions
-DTSTART:20250517T203000Z
-DTEND:20250517T222500Z
-DTSTAMP:20250517T203000Z
-UID:NjjQTSHNHs
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nFilm essayist and SIFF alum Alex
- andre O. Philippe (78/52\, Lynch/Oz) calls upon five horror luminaries—S
- tephen King and Takashi Miike among them—to discuss the impact 1974’s 
- seminal The Texas Chain Saw Massacre had upon their lives and careers. Sw
- ap your leather face for your thinking cap at the May 16 screening\, where
-  BoneBat Comedy of Horrors Film Fest will be giving away goodies via trivi
- a!\n\nhttps://www.siff.net/festival/chain-reactions
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Librarians
@@ -2860,7 +2751,7 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nWarriors come in all shapes and s
  ght in the latest from Oscar®-nominated director Kim A. Snyder (Death by 
  Numbers). Director Kim A. Snyder scheduled to attend.\n\nhttps://www.siff.
  net/festival/the-librarians
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Billy
@@ -2873,7 +2764,7 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn this compassionate yet distur
  ormer filmmaking friend Billy Poulin\, now in prison for murder\, through 
  his own stockpile of video footage and deconstructs the effects of untreat
  ed schizophrenia.\n\nhttps://www.siff.net/festival/billy
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Remaining Native
@@ -2888,7 +2779,7 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nAs Indigenous teenager Ku Stevens
  ing school. Director Paige Bethmann\, producer Jessica Epstein\, and cast 
  member Ku Stevens scheduled to attend.\n\nhttps://www.siff.net/festival/re
  maining-native
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Viktor
@@ -2901,21 +2792,7 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nWhen Russia invaded Ukraine\, Vik
  eafness. Instead\, he became a war photographer. Join Viktor on the frontl
  ines in this wholly immersive and terrifying documentary from producer Dar
  ren Aronofsky.\n\nhttps://www.siff.net/festival/viktor
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Starman
-DTSTART:20250517T220000Z
-DTEND:20250517T233500Z
-DTSTAMP:20250517T220000Z
-UID:GraNEx2uxs
-DESCRIPTION:Duration: 85 mins (1h25m)\n\nJet Propulsion Laboratory scienti
- st\, robotics engineer\, and best-selling science fiction author Gentry Le
- e\, who was on NASA’s Viking and Voyager teams\, discusses his experienc
- es and views on the possibility of extraterrestrial life. Director Robert 
- Stone and cast member Gentry Lee scheduled to attend.\n\nhttps://www.siff.
- net/festival/starman
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Nature of Invisible Things
@@ -2929,21 +2806,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nGloria and Sofia\, two 10-year-ol
  randmother with Alzheimer’s. Their playful and delicate bond will help t
  hem navigate the fragility of life. Director Rafaela Camelo scheduled to a
  ttend.\n\nhttps://www.siff.net/festival/the-nature-of-invisible-things
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F*cktoys
-DTSTART:20250517T231500Z
-DTEND:20250518T011500Z
-DTSTAMP:20250517T231500Z
-UID:INJl9fQN9R
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nAnnapurna Sriram writes\, direct
- s\, and stars in this campy\, vividly pastel-colored romp about a woman wh
- o embarks upon a sex worker odyssey through Trashtown with her nonbinary f
- riend to break a terrible curse that has befallen her. SXSW Special Jury P
- rize winner. Director Annapurna Sriram scheduled to attend.\n\nhttps://www
- .siff.net/festival/fucktoys
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deaf
@@ -2957,7 +2820,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA Deaf woman and her hearing part
  ngela's pregnancy triggers fears about motherhood and how she will be able
   to raise her daughter in a world of sounds.\n\nhttps://www.siff.net/festi
  val/deaf
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Come See Me in the Good Light
@@ -2971,7 +2834,7 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nSpoken word performer/Colorado p
   to the fullest in this intimate\, surprisingly funny Sundance 2025 award-
  winning doc produced by Tig Notaro.\n\nhttps://www.siff.net/festival/come-
  see-me-in-the-good-light
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seeds
@@ -2985,7 +2848,7 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nFilmmaker/cinematographer Britta
  ial straits and their dedication to one another. Winner of the US Grand Ju
  ry Prize - Documentary at Sundance 2025.\n\nhttps://www.siff.net/festival/
  seeds
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Through the Looking Glass
@@ -2996,20 +2859,7 @@ UID:Smq3058Nft
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nJourney through surreal worlds\, 
  warped realities\, and absurd encounters where nothing is as it seems.\n\n
  https://www.siff.net/festival/through-the-looking-glass
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolf Land
-DTSTART:20250518T003000Z
-DTEND:20250518T015500Z
-DTSTAMP:20250518T003000Z
-UID:QcQnBkLhYe
-DESCRIPTION:Duration: 71 mins (1h11m)\n\nRange rider and “wolf-protectin
- g cowboy” Daniel Curry and cattle rancher Jerry Francis try to find comm
- on ground between their conflicting interests in the forests of northeaste
- rn Washington\, just 20 miles from the Canadian border. Director Sarah Hof
- fman scheduled to attend.\n\nhttps://www.siff.net/festival/wolf-land
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paying For It
@@ -3023,21 +2873,7 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nSook-Yin Lee (Shortbus) adapts he
   he and his partner break up but decide to keep living together. Director 
  Sook-Yin Lee scheduled to attend.\n\nhttps://www.siff.net/festival/paying-
  for-it
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAR
-DTSTART:20250518T020000Z
-DTEND:20250518T034000Z
-DTSTAMP:20250518T020000Z
-UID:EfZ2gNL1Bj
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nDon Hardy (Pick of the Litter\, S
- IFF 2018) returns to Seattle with this perfect cocktail of a documentary\,
-  focusing on students participating in the Culinary Institute of America
- ’s BAR (Beverage Alcohol Resource) 5-Day Program\, hoping to be some of 
- the world’s greatest mixologists. Director Don Hardy scheduled to attend
- .\n\nhttps://www.siff.net/festival/bar
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:April
@@ -3051,20 +2887,7 @@ DESCRIPTION:Duration: 134 mins (2h14m)\n\nAn obstetrician who secretly pro
  ght when she loses a newborn while on duty in the unflinching second film 
  from Dea Kulumbegashvili (Beginning).\n\nhttps://www.siff.net/festival/apr
  il
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wailing
-DTSTART:20250518T030000Z
-DTEND:20250518T050000Z
-DTSTAMP:20250518T030000Z
-UID:7Pgsh6VstL
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nThree women separated in time an
- d space are unknowingly connected by a threat that nobody can explain. Som
- ething is stalking them and provoking unthinkable acts of violence with on
- e eerie thing in common: the disturbing sound of a wailing.\n\nhttps://www
- .siff.net/festival/the-wailing
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Leonard Peltier
@@ -3078,7 +2901,7 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nIn 1975\, Indigenous American Le
  utive life sentences. As he faces his final years\, learn the real facts f
  rom those who fought for his clemency. Director Jesse Short Bull scheduled
   to attend.\n\nhttps://www.siff.net/festival/free-leonard-peltier
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Undercover
@@ -3093,7 +2916,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nA young policewoman is recruited
   violent times that still ripple through today’s Spain. This film is gen
  erously sponsored by Dale Pratt.\n\nhttps://www.siff.net/festival/undercov
  er
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monk in Pieces
@@ -3106,7 +2929,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nAs avant-garde multihyphenate gen
  s Net\,” she and her greatest protégés and collaborators relive and re
  interpret her storied career’s most enduring works. Director Billy Sheba
  r scheduled to attend.\n\nhttps://www.siff.net/festival/monk-in-pieces
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Animation4Adults
@@ -3120,21 +2943,7 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nFrom wide open spaces to the crow
  eer life choices\, or underground mysteries. *Streaming Mother's Child res
  tricted to audiences in WA State.\n\nhttps://www.siff.net/festival/animati
  on4adults-x39737
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Idyllic
-DTSTART:20250518T043000Z
-DTEND:20250518T062000Z
-DTSTAMP:20250518T043000Z
-UID:gs9s5yZw8i
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nThis vibrant and witty meditation
-  on death and discontent tracks three generations of one Dutch family as t
- hey contend with all the various curveballs life throws at them. But in th
- eir own respective way\, each extended family member just wants the same t
- hing: a happy life. Director Aaron Rookus scheduled to attend.\n\nhttps://
- www.siff.net/festival/idyllic
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Jack Fury
@@ -3148,21 +2957,7 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nIn this rock ’em\, sock ’em\,
  rlfriend and take down the deadly Styles Syndicate once and for all! Direc
  tor Lanfia Wal scheduled to attend. *Streaming restricted to audiences in 
  WA State.\n\nhttps://www.siff.net/festival/new-jack-fury
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAR
-DTSTART:20250518T180000Z
-DTEND:20250518T194000Z
-DTSTAMP:20250518T180000Z
-UID:F8K4fmGxpb
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nDon Hardy (Pick of the Litter\, S
- IFF 2018) returns to Seattle with this perfect cocktail of a documentary\,
-  focusing on students participating in the Culinary Institute of America
- ’s BAR (Beverage Alcohol Resource) 5-Day Program\, hoping to be some of 
- the world’s greatest mixologists. Director Don Hardy scheduled to attend
- .\n\nhttps://www.siff.net/festival/bar
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Leonard Peltier
@@ -3176,20 +2971,7 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nIn 1975\, Indigenous American Le
  utive life sentences. As he faces his final years\, learn the real facts f
  rom those who fought for his clemency. Director Jesse Short Bull scheduled
   to attend.\n\nhttps://www.siff.net/festival/free-leonard-peltier
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Into the Wonderwoods
-DTSTART:20250518T190000Z
-DTEND:20250518T203500Z
-DTSTAMP:20250518T190000Z
-UID:bu2hTvmNeR
-DESCRIPTION:Duration: 84 mins (1h24m)\n\nWhen Angelo is accidentally separ
- ated from his family\, he turns his imagination up to 11 as he journeys th
- rough the dark woods to grandmother’s house\, encountering a wondrous fa
- iry tale fantasy world along the way in this eco-conscious marvel of a fam
- ily film. Ages 8+\n\nhttps://www.siff.net/festival/into-the-wonderwoods
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tales From the Magic Garden
@@ -3203,7 +2985,7 @@ DESCRIPTION:Duration: 71 mins (1h11m)\n\nIn this stop motion marvel from t
  ’s house\, where they take turns spinning fantastical tales to better un
  derstand loss\, compassion\, and empathy.\n\nhttps://www.siff.net/festival
  /tales-from-the-magic-garden
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transfers
@@ -3216,7 +2998,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nA poignant documentary that uses
  ents to chronicle Argentina’s onetime military dictatorship’s use of t
  he infamous Death Flights\, one of the most brutal and effective ways of k
  illing and disappearing people.\n\nhttps://www.siff.net/festival/transfers
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paying For It
@@ -3230,7 +3012,7 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nSook-Yin Lee (Shortbus) adapts he
   he and his partner break up but decide to keep living together. Director 
  Sook-Yin Lee scheduled to attend.\n\nhttps://www.siff.net/festival/paying-
  for-it
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Come See Me in the Good Light
@@ -3244,20 +3026,7 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nSpoken word performer/Colorado p
   to the fullest in this intimate\, surprisingly funny Sundance 2025 award-
  winning doc produced by Tig Notaro.\n\nhttps://www.siff.net/festival/come-
  see-me-in-the-good-light
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolf Land
-DTSTART:20250518T203000Z
-DTEND:20250518T215500Z
-DTSTAMP:20250518T203000Z
-UID:okTnXtpMZL
-DESCRIPTION:Duration: 71 mins (1h11m)\n\nRange rider and “wolf-protectin
- g cowboy” Daniel Curry and cattle rancher Jerry Francis try to find comm
- on ground between their conflicting interests in the forests of northeaste
- rn Washington\, just 20 miles from the Canadian border. Director Sarah Hof
- fman scheduled to attend.\n\nhttps://www.siff.net/festival/wolf-land
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seeds
@@ -3271,7 +3040,7 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nFilmmaker/cinematographer Britta
  ial straits and their dedication to one another. Winner of the US Grand Ju
  ry Prize - Documentary at Sundance 2025.\n\nhttps://www.siff.net/festival/
  seeds
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FutureWave: Teenage Hearts
@@ -3284,20 +3053,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nThis shorts package explores the
  ese films made by filmmakers aged 18 and under explore love in all its per
  mutations\, including romantic love\, self-love\, and familial love.\n\nht
  tps://www.siff.net/festival/futurewave-teenage-hearts
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ka Whawhai Tonu: Struggle Without End
-DTSTART:20250518T213000Z
-DTEND:20250518T233500Z
-DTSTAMP:20250518T213000Z
-UID:jf6XMSy49G
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nCliff Curtis and Temuera Morriso
- n (both of 1994’s Once Were Warriors) star in this sweeping Māori-langu
- age epic about the 1864 Battle of Ōrākau\, as an Indigenous tribe defend
- s their land from invading British forces.\n\nhttps://www.siff.net/festiva
- l/ka-whawhai-tonu-struggle-without-end
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tinā
@@ -3310,7 +3066,7 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nFrom Miki Magasiva (SIFF 2024’
  neful underdog story about Mareta\, a grieving Samoan teacher who finds a 
  new lease on life and connection to community when she forms a student cho
  ir at a wealthy school.\n\nhttps://www.siff.net/festival/tina
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deaf
@@ -3324,21 +3080,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA Deaf woman and her hearing part
  ngela's pregnancy triggers fears about motherhood and how she will be able
   to raise her daughter in a world of sounds.\n\nhttps://www.siff.net/festi
  val/deaf
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Idyllic
-DTSTART:20250518T224500Z
-DTEND:20250519T003500Z
-DTSTAMP:20250518T224500Z
-UID:vbHhTPyBqT
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nThis vibrant and witty meditation
-  on death and discontent tracks three generations of one Dutch family as t
- hey contend with all the various curveballs life throws at them. But in th
- eir own respective way\, each extended family member just wants the same t
- hing: a happy life. Director Aaron Rookus scheduled to attend.\n\nhttps://
- www.siff.net/festival/idyllic
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Glass Web in 3-D
@@ -3351,7 +3093,7 @@ DESCRIPTION:Duration: 81 mins (1h21m)\n\nIt’s blackmail in the third dim
   his colleague (John Forsythe) for murder. This 1953 noir is newly restore
  d by the 3-D Film Archive from the original 35mm camera negatives.\n\nhttp
  s://www.siff.net/festival/the-glass-web-in-3-d
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Remaining Native
@@ -3366,7 +3108,7 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nAs Indigenous teenager Ku Stevens
  ing school. Director Paige Bethmann\, producer Jessica Epstein\, and cast 
  member Ku Stevens scheduled to attend.\n\nhttps://www.siff.net/festival/re
  maining-native
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WWYD (What Would You Do?)
@@ -3377,19 +3119,7 @@ UID:IUPD0fMiYX
 DESCRIPTION:Duration: 94 mins (1h34m)\n\nHeart-pounding\, sexy\, surreal\,
   and sinister. Stories that ask\, what would you do?\n\nhttps://www.siff.n
  et/festival/wwyd-what-would-you-do
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Auction
-DTSTART:20250519T001500Z
-DTEND:20250519T020000Z
-DTSTAMP:20250519T001500Z
-UID:AXPJ34UFYQ
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nWhen a long-lost painting\, stole
- n by the Nazis in 1939\, turns up in a cottage in Eastern France\, it sets
-  in motion a story of intrigue\, deceit\, and surprise. Based on a remarka
- ble true story.\n\nhttps://www.siff.net/festival/auction
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heightened Scrutiny
@@ -3402,7 +3132,7 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nDirector Sam Feder (2020’s Disc
  s Supreme Court as he argues to overturn Tennessee’s bigoted attempt to 
  ban gender-affirming care for trans youth.\n\nhttps://www.siff.net/festiva
  l/heightened-scrutiny
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Familiar Touch
@@ -3416,20 +3146,7 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nRuth Goldman (Broadway legend Kat
  seem like the end\, for her it represents something like a new beginning i
  n this poignant\, Venice Film Festival-winning drama.\n\nhttps://www.siff.
  net/festival/familiar-touch
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The New Year That Never Came
-DTSTART:20250519T011500Z
-DTEND:20250519T034500Z
-DTSTAMP:20250519T011500Z
-UID:j3k3dj7qRP
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nSix lives intertwine in the days
-  leading up to the 1989 Romanian revolution in this darkly funny ensemble 
- film about living under Communist rule. Winner of the 2024 Venice Film Fes
- tival’s Horizons Award and the Palm Springs New Voices/New Visions Grand
-  Jury Prize.\n\nhttps://www.siff.net/festival/the-new-year-that-never-came
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLKNWS: Terms & Conditions
@@ -3443,7 +3160,7 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nSeattle native Kahlil Joseph mak
  egacy\, and archival footage into an uncompromising visual and cerebral fe
  ast. Director Kahlil Joseph scheduled to attend.\n\nhttps://www.siff.net/f
  estival/blknws-terms-and-conditions
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manas
@@ -3456,21 +3173,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nSet in a corner of Brazil that r
  ng tale of Marcielle\, a young victim of abuse who yearns to find a way ou
  t of a hostile home and a village that has resisted change for generations
  .\n\nhttps://www.siff.net/festival/manas
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Jack Fury
-DTSTART:20250519T023000Z
-DTEND:20250519T041000Z
-DTSTAMP:20250519T023000Z
-UID:mPvkF9Af1Y
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nIn this rock ’em\, sock ’em\,
-  kick-’em-in-the-face-while-dancing midnighter\, ex-police officer Dylan
-  Gamble must join forces with a low-level crook to rescue his kidnapped gi
- rlfriend and take down the deadly Styles Syndicate once and for all! Direc
- tor Lanfia Wal scheduled to attend. *Streaming restricted to audiences in 
- WA State.\n\nhttps://www.siff.net/festival/new-jack-fury
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sudden Outbursts of Emotions
@@ -3484,7 +3187,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nWhen a travel agent’s boyfriend
  y to fall for another woman\, in this sex-positive dramedy. Director Paula
   Korva scheduled to attend.\n\nhttps://www.siff.net/festival/sudden-outbur
  sts-of-emotions
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meeting with Pol Pot
@@ -3497,7 +3200,7 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nOscar®-nominated filmmaker Rith
  nfolds like a horror film\, as three French journalists in 1978 Cambodia l
  earn the terrible truth about the Khmer Rouge regime.\n\nhttps://www.siff.
  net/festival/meeting-with-pol-pot
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Balconettes
@@ -3510,7 +3213,7 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nNoémie Merlant (Portrait of a L
  t comic thriller\, as a trio of Marseille roommates—a camgirl\, a writer
  \, and an actress—rage against toxic masculinity in the middle of a terr
  ible heat wave.\n\nhttps://www.siff.net/festival/the-balconettes
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sanatorium Under the Sign of the Hourglass
@@ -3523,19 +3226,7 @@ DESCRIPTION:Duration: 76 mins (1h16m)\n\nThe Brothers Quay spin another fa
   Polish writer Bruno Schulz\, about a young man on a ghostly train ride to
  ward a sanitorium that may exist out of time and space.\n\nhttps://www.sif
  f.net/festival/sanatorium-under-the-sign-of-the-hourglass
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Kill a Mongolian Horse
-DTSTART:20250519T043000Z
-DTEND:20250519T062000Z
-DTSTAMP:20250519T043000Z
-UID:LwjFPyXEel
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nIn this lovely and patient docudr
- ama set on the Mongolian steppes\, a champion horseback rider and herdsman
-  struggles to maintain his family's ranch and traditional way of life in t
- he modern era.\n\nhttps://www.siff.net/festival/to-kill-a-mongolian-horse
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Village Next to Paradise
@@ -3549,7 +3240,7 @@ DESCRIPTION:Duration: 133 mins (2h13m)\n\nIn the first Somali film ever se
  world defined by chaos\, unease\, and civil unrest\, sometimes sacrifice i
  s the only answer.\n\nhttps://www.siff.net/festival/the-village-next-to-pa
  radise
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heightened Scrutiny
@@ -3562,7 +3253,7 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nDirector Sam Feder (2020’s Disc
  s Supreme Court as he argues to overturn Tennessee’s bigoted attempt to 
  ban gender-affirming care for trans youth.\n\nhttps://www.siff.net/festiva
  l/heightened-scrutiny
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Balconettes
@@ -3575,7 +3266,7 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nNoémie Merlant (Portrait of a L
  t comic thriller\, as a trio of Marseille roommates—a camgirl\, a writer
  \, and an actress—rage against toxic masculinity in the middle of a terr
  ible heat wave.\n\nhttps://www.siff.net/festival/the-balconettes
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sudden Outbursts of Emotions
@@ -3589,20 +3280,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nWhen a travel agent’s boyfriend
  y to fall for another woman\, in this sex-positive dramedy. Director Paula
   Korva scheduled to attend.\n\nhttps://www.siff.net/festival/sudden-outbur
  sts-of-emotions
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The New Year That Never Came
-DTSTART:20250519T223000Z
-DTEND:20250520T010000Z
-DTSTAMP:20250519T223000Z
-UID:Vd2oPD8N4H
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nSix lives intertwine in the days
-  leading up to the 1989 Romanian revolution in this darkly funny ensemble 
- film about living under Communist rule. Winner of the 2024 Venice Film Fes
- tival’s Horizons Award and the Palm Springs New Voices/New Visions Grand
-  Jury Prize.\n\nhttps://www.siff.net/festival/the-new-year-that-never-came
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLKNWS: Terms & Conditions
@@ -3616,7 +3294,7 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nSeattle native Kahlil Joseph mak
  egacy\, and archival footage into an uncompromising visual and cerebral fe
  ast. Director Kahlil Joseph scheduled to attend.\n\nhttps://www.siff.net/f
  estival/blknws-terms-and-conditions
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evergreens
@@ -3630,20 +3308,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn Spokane-based Jared Briley’
  d trip across the Evergreen State in this Washington-set love story. Write
  r/Director Jared Briley scheduled to attend.\n\nhttps://www.siff.net/festi
  val/evergreens
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Sun Palace
-DTSTART:20250520T004500Z
-DTEND:20250520T025500Z
-DTSTAMP:20250520T004500Z
-UID:FsG4I22Voi
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nIn Constance Tsang’s strikingl
- y original\, Cannes-winning social realist debut\, two Queens-based Chines
- e immigrants find solace in their shared grief over a massage parlor worke
- r they each loved in their own way before tragedy struck.\n\nhttps://www.s
- iff.net/festival/blue-sun-palace
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1-800-ON-HER-OWN
@@ -3656,7 +3321,7 @@ DESCRIPTION:Duration: 78 mins (1h18m)\n\nStrum a tune with indie folk sing
  um “Revolutionary Love\,” recorded in lockdown\, and the path she pave
  d for other female artists via her Righteous Babe Recordings record label.
  \n\nhttps://www.siff.net/festival/1-800-on-her-own
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Gloria of your Imagination
@@ -3670,7 +3335,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nIn 1963\, a 30-year-old divorced
  hood\, gendered power relationships\, and the biography of Gloria herself.
   Director Jennifer Reeves scheduled to attend.\n\nhttps://www.siff.net/fes
  tival/the-gloria-of-your-imagination
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tinā
@@ -3683,7 +3348,7 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nFrom Miki Magasiva (SIFF 2024’
  neful underdog story about Mareta\, a grieving Samoan teacher who finds a 
  new lease on life and connection to community when she forms a student cho
  ir at a wealthy school.\n\nhttps://www.siff.net/festival/tina
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dancing Queen in Hollywood
@@ -3696,21 +3361,7 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nIn the sequel to SIFF 2023 Golden
  and her dance partner Markus head to Los Angeles in hopes of starring in a
   music video\, only for her to get the chance to be in a major motion pict
  ure!\n\nhttps://www.siff.net/festival/dancing-queen-in-hollywood
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jean Cocteau
-DTSTART:20250520T020000Z
-DTEND:20250520T034500Z
-DTSTAMP:20250520T020000Z
-UID:dcW3XBPaPX
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nLisa Immordino Vreeland (SIFF 202
- 1’s Truman & Tennessee: An Intimate Conversation) constructs an astonish
- ing portrait of polymath Jean Cocteau—filmmaker\, playwright\, poet—to
- ld in his own words using his journals\, letters\, and artistic works. Pro
- ducer/Editor John Northrup scheduled to attend.\n\nhttps://www.siff.net/fe
- stival/jean-cocteau
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud
@@ -3723,20 +3374,7 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nLegendary filmmaker Kiyoshi Kuro
  ing potboiler about a craven opportunist who finds success as an internet 
  reseller\, only for revenge-seeking vigilantes to come calling.\n\nhttps:/
  /www.siff.net/festival/cloud
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fly Me to the Moon
-DTSTART:20250520T033000Z
-DTEND:20250520T053500Z
-DTSTAMP:20250520T033000Z
-UID:31Iw67Myjt
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn Sasha Chuk’s autobiographic
- al coming-of-age drama\, young Yuen struggles to adapt to her new surround
- ings and social class when she and her mother emigrate from Mainland China
-  to 1990s Hong Kong to reunite with the family patriarch.\n\nhttps://www.s
- iff.net/festival/fly-me-to-the-moon
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unclickable
@@ -3749,7 +3387,7 @@ DESCRIPTION:Duration: 74 mins (1h14m)\n\nIn this investigative documentary
   a digital advertising fraud operation\, the likes of which enriches compa
  nies like Google and Facebook at the cost of everybody else…and democrac
  y itself.\n\nhttps://www.siff.net/festival/unclickable
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:She’s The He
@@ -3763,20 +3401,7 @@ DESCRIPTION:Duration: 81 mins (1h21m)\n\nFirst-time director Siobhan McCar
  o pretend to be trans during their last week of high school\, only for one
   of them to find it suits them just fine. Director Siobhan McCarthy schedu
  led to attend.\n\nhttps://www.siff.net/festival/shes-the-he
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Khartoum
-DTSTART:20250520T043000Z
-DTEND:20250520T060000Z
-DTSTAMP:20250520T043000Z
-UID:u5dCkQgv91
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nThe Sudanese Civil War has displa
- ced over 10 million of its citizens. Now\, five survivors contend with the
- ir own memories\, and hope for a peaceful future\, using green screen tech
- nology to reenact their lives leading up to the military coup that forced 
- their evacuation.\n\nhttps://www.siff.net/festival/khartoum
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spermageddon
@@ -3790,7 +3415,7 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nIn this raunchy yet sincere anima
   the nefarious Jizzmo from enacting Spermageddon! From co-director Tommy W
  irkola (Dead Snow\, Violent Night).\n\nhttps://www.siff.net/festival/sperm
  ageddon
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Viktor
@@ -3803,7 +3428,7 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nWhen Russia invaded Ukraine\, Vik
  eafness. Instead\, he became a war photographer. Join Viktor on the frontl
  ines in this wholly immersive and terrifying documentary from producer Dar
  ren Aronofsky.\n\nhttps://www.siff.net/festival/viktor
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meeting with Pol Pot
@@ -3816,7 +3441,7 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nOscar®-nominated filmmaker Rith
  nfolds like a horror film\, as three French journalists in 1978 Cambodia l
  earn the terrible truth about the Khmer Rouge regime.\n\nhttps://www.siff.
  net/festival/meeting-with-pol-pot
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joqtau
@@ -3829,7 +3454,7 @@ DESCRIPTION:Duration: 71 mins (1h11m)\n\nYoung Darkhan returns to his vill
  gined journey to his ancestral home to learn the ways of his elders and th
  e gradual loss of their traditional customs and language.\n\nhttps://www.s
  iff.net/festival/joqtau
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Luz
@@ -3842,19 +3467,7 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nA Chinese ex-con seeks to rekind
   connects with her ailing French stepmother (Huppert)\, in this dual narra
  tive about finding familial intimacy in a virtual reality world.\n\nhttps:
  //www.siff.net/festival/luz
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Kill a Mongolian Horse
-DTSTART:20250520T200000Z
-DTEND:20250520T215000Z
-DTSTAMP:20250520T200000Z
-UID:QVN3h4eveu
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nIn this lovely and patient docudr
- ama set on the Mongolian steppes\, a champion horseback rider and herdsman
-  struggles to maintain his family's ranch and traditional way of life in t
- he modern era.\n\nhttps://www.siff.net/festival/to-kill-a-mongolian-horse
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jean Cocteau
@@ -3868,7 +3481,7 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nLisa Immordino Vreeland (SIFF 202
  ld in his own words using his journals\, letters\, and artistic works. Pro
  ducer/Editor John Northrup scheduled to attend.\n\nhttps://www.siff.net/fe
  stival/jean-cocteau
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evergreens
@@ -3882,21 +3495,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn Spokane-based Jared Briley’
  d trip across the Evergreen State in this Washington-set love story. Write
  r/Director Jared Briley scheduled to attend.\n\nhttps://www.siff.net/festi
  val/evergreens
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She’s The He
-DTSTART:20250520T223000Z
-DTEND:20250521T000500Z
-DTSTAMP:20250520T223000Z
-UID:v85kCovBCf
-DESCRIPTION:Duration: 81 mins (1h21m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Director Siobhan McCarthy schedu
- led to attend.\n\nhttps://www.siff.net/festival/shes-the-he
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Gloria of your Imagination
@@ -3910,7 +3509,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nIn 1963\, a 30-year-old divorced
  hood\, gendered power relationships\, and the biography of Gloria herself.
   Director Jennifer Reeves scheduled to attend.\n\nhttps://www.siff.net/fes
  tival/the-gloria-of-your-imagination
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Undercover
@@ -3925,7 +3524,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nA young policewoman is recruited
   violent times that still ripple through today’s Spain. This film is gen
  erously sponsored by Dale Pratt.\n\nhttps://www.siff.net/festival/undercov
  er
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1-800-ON-HER-OWN
@@ -3938,7 +3537,7 @@ DESCRIPTION:Duration: 78 mins (1h18m)\n\nStrum a tune with indie folk sing
  um “Revolutionary Love\,” recorded in lockdown\, and the path she pave
  d for other female artists via her Righteous Babe Recordings record label.
  \n\nhttps://www.siff.net/festival/1-800-on-her-own
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freeing Juanita
@@ -3951,21 +3550,7 @@ DESCRIPTION:Duration: 74 mins (1h14m)\n\nAn Indigenous Maya Chuj couple ma
   demand the emancipation of their niece\, who was wrongfully imprisoned du
  ring her intended migration to the United States.\n\nhttps://www.siff.net/
  festival/freeing-juanita
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Baby Doe
-DTSTART:20250521T010000Z
-DTEND:20250521T025000Z
-DTSTAMP:20250521T010000Z
-UID:YW7B1g7efW
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nNearly 30 years after Gail aband
- oned her newborn son in the woods and returned to her conservative Christi
- an life\, the police came and arrested her for infanticide. From Tribeca-w
- inning documentarian Jessica Earnshaw (Hulu’s “Jacinta”). Director J
- essica Earnshaw scheduled to attend.\n\nhttps://www.siff.net/festival/baby
- -doe
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Road: The Edna O'Brien Story
@@ -3979,7 +3564,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nThe controversial and boldly fem
  of late-in-life interviews in this Palm Springs International Film Festiva
  l award winner.\n\nhttps://www.siff.net/festival/blue-road-the-edna-obrien
  -story
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Come Closer
@@ -3991,21 +3576,7 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nAfter Eden’s brother dies sudd
  enly\, she discovers that he had a secret girlfriend. As the two women get
   to know one another\, they embark on an intense and intimate relationship
   of their own.\n\nhttps://www.siff.net/festival/come-closer
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drowned Land
-DTSTART:20250521T010000Z
-DTEND:20250521T024000Z
-DTSTAMP:20250521T010000Z
-UID:w7UTIHtvPk
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nThe Choctaw Nation of southeaster
- n Oklahoma fights against cultural displacement and the developers who wis
- h to dam and divert the Kiamichi River\, one of the most ecologically dive
- rse bodies of water in the state\, in this call to action from SIFF 4th Wo
- rld Media Lab alum Colleen Thurston. Director Colleen Thurston scheduled t
- o attend.\n\nhttps://www.siff.net/festival/drowned-land
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monarch City
@@ -4018,7 +3589,7 @@ DESCRIPTION:Duration: 70 mins (1h10m)\n\nIn this soulful family drama shot
   her family’s numerous hardships—addiction\, incarceration\, poverty
  —and find the grace in life’s most fragile moments. Director Titus Ric
  hard scheduled to attend.\n\nhttps://www.siff.net/festival/monarch-city
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIFF & CFC Present The Dark Crystal with DJ NicFit
@@ -4034,7 +3605,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nJoin the Gelflings (and Fizzgig!)
  rs made exclusively for this one-time-only event in the lobby before the s
  how!\n\nhttps://www.siff.net/festival/siff-and-cfc-present-the-dark-crysta
  l-with-dj-nicfit
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:By the Stream
@@ -4047,7 +3618,7 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nHong Sang-soo (Our Sunhi) is bac
  t\, as a university lecturer calls upon her retired uncle to write and dir
  ect a play for her students after their previous hire left under a cloud o
  f scandal.\n\nhttps://www.siff.net/festival/by-the-stream
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don’t Let’s Go to the Dogs Tonight
@@ -4060,7 +3631,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nActress Embeth Davidtz (Schindler
  ’s bestselling memoir about a precocious eight-year-old farmgirl who wit
  nesses Rhodesia’s tumultuous political shift in the early 1980s.\n\nhttp
  s://www.siff.net/festival/dont-lets-go-to-the-dogs-tonight
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transfers
@@ -4073,34 +3644,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nA poignant documentary that uses
  ents to chronicle Argentina’s onetime military dictatorship’s use of t
  he infamous Death Flights\, one of the most brutal and effective ways of k
  illing and disappearing people.\n\nhttps://www.siff.net/festival/transfers
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Under the Volcano
-DTSTART:20250521T033000Z
-DTEND:20250521T052500Z
-DTSTAMP:20250521T033000Z
-UID:cMCevkVBlb
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nA Ukrainian family on vacation i
- n the Canary Islands suddenly find themselves stranded upon Russia’s inv
- asion of their home country\, sending them into fits of desperation and in
- trospection as they wander the beaches speculating what comes next.\n\nhtt
- ps://www.siff.net/festival/under-the-volcano
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Home Sweet Home
-DTSTART:20250521T034500Z
-DTEND:20250521T055000Z
-DTSTAMP:20250521T034500Z
-UID:SVqSg97qcF
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nSingle mother Sofie starts a new
-  career as a caretaker for the elderly\, only to be humbled by the toll it
-  takes on her physical and mental state\, in this authentic and rewarding 
- glimpse at the uncelebrated world of healthcare workers from SIFF alum Fre
- lle Petersen. Director Frelle Peterson scheduled to attend.\n\nhttps://www
- .siff.net/festival/home-sweet-home
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:By Design
@@ -4114,7 +3658,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nPlayful provocateur Amanda Kramer
  ire\, as a lonely woman (Juliette Lewis) swaps bodies with a chair\, only 
  to finally find comfort in life. Cast member Alisa Torres scheduled to att
  end.\n\nhttps://www.siff.net/festival/by-design
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Riefenstahl
@@ -4127,7 +3671,7 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nA gripping portrait of controver
  \, who despite all evidence to the contrary still maintained she was not c
  omplicit in the atrocities carried out by the Third Reich.\n\nhttps://www.
  siff.net/festival/riefenstahl
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:By the Stream
@@ -4140,7 +3684,7 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nHong Sang-soo (Our Sunhi) is bac
  t\, as a university lecturer calls upon her retired uncle to write and dir
  ect a play for her students after their previous hire left under a cloud o
  f scandal.\n\nhttps://www.siff.net/festival/by-the-stream
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Am Nevenka
@@ -4153,7 +3697,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nNevenka Fernández\, the town’
   always getting what he wants politically and personally. Nevenka decides 
  to report him\, turning her courageous fight into Spain’s first #MeToo c
  ase.\n\nhttps://www.siff.net/festival/i-am-nevenka
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fly Me to the Moon
@@ -4166,20 +3710,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn Sasha Chuk’s autobiographic
  ings and social class when she and her mother emigrate from Mainland China
   to 1990s Hong Kong to reunite with the family patriarch.\n\nhttps://www.s
  iff.net/festival/fly-me-to-the-moon
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Khartoum
-DTSTART:20250521T203000Z
-DTEND:20250521T220000Z
-DTSTAMP:20250521T203000Z
-UID:eZfFiux9CF
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nThe Sudanese Civil War has displa
- ced over 10 million of its citizens. Now\, five survivors contend with the
- ir own memories\, and hope for a peaceful future\, using green screen tech
- nology to reenact their lives leading up to the military coup that forced 
- their evacuation.\n\nhttps://www.siff.net/festival/khartoum
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:40 Acres
@@ -4192,7 +3723,7 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nMusic video veteran R.T. Thorne
  sation\, a speculative fiction thriller about a Black family in a starved\
  , post-civil war near future who must defend their farm from invading cann
  ibals.\n\nhttps://www.siff.net/festival/40-acres
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freeing Juanita
@@ -4205,21 +3736,7 @@ DESCRIPTION:Duration: 74 mins (1h14m)\n\nAn Indigenous Maya Chuj couple ma
   demand the emancipation of their niece\, who was wrongfully imprisoned du
  ring her intended migration to the United States.\n\nhttps://www.siff.net/
  festival/freeing-juanita
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Home Sweet Home
-DTSTART:20250521T223000Z
-DTEND:20250522T003500Z
-DTSTAMP:20250521T223000Z
-UID:uFOvKJEWae
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nSingle mother Sofie starts a new
-  career as a caretaker for the elderly\, only to be humbled by the toll it
-  takes on her physical and mental state\, in this authentic and rewarding 
- glimpse at the uncelebrated world of healthcare workers from SIFF alum Fre
- lle Petersen. Director Frelle Peterson scheduled to attend.\n\nhttps://www
- .siff.net/festival/home-sweet-home
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monarch City
@@ -4232,7 +3749,7 @@ DESCRIPTION:Duration: 70 mins (1h10m)\n\nIn this soulful family drama shot
   her family’s numerous hardships—addiction\, incarceration\, poverty
  —and find the grace in life’s most fragile moments. Director Titus Ric
  hard scheduled to attend.\n\nhttps://www.siff.net/festival/monarch-city
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Baby Doe
@@ -4246,7 +3763,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nNearly 30 years after Gail aband
  inning documentarian Jessica Earnshaw (Hulu’s “Jacinta”). Director J
  essica Earnshaw scheduled to attend.\n\nhttps://www.siff.net/festival/baby
  -doe
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:By Design
@@ -4260,7 +3777,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nPlayful provocateur Amanda Kramer
  ire\, as a lonely woman (Juliette Lewis) swaps bodies with a chair\, only 
  to finally find comfort in life. Cast member Alisa Torres scheduled to att
  end.\n\nhttps://www.siff.net/festival/by-design
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Village Next to Paradise
@@ -4274,20 +3791,7 @@ DESCRIPTION:Duration: 133 mins (2h13m)\n\nIn the first Somali film ever se
  world defined by chaos\, unease\, and civil unrest\, sometimes sacrifice i
  s the only answer.\n\nhttps://www.siff.net/festival/the-village-next-to-pa
  radise
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sally
-DTSTART:20250522T010000Z
-DTEND:20250522T025500Z
-DTSTAMP:20250522T010000Z
-UID:oFVv5AdarF
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nAward-winning documentarian Cris
- tina Costantini directs this peek into the personal life of Sally Ride\, t
- he first woman in space. But as Ride journeyed among the stars\, she kept 
- a nearly three-decade romance with author and tennis player Tam O’Shaugh
- nessy a secret.\n\nhttps://www.siff.net/festival/sally
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Suburban Fury
@@ -4301,7 +3805,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nLocal documentarian Robinson Dev
  ssinate President Gerald Ford in 1975\, as told in her own words. Director
   Robison Dever is scheduled to attend.\n\nhttps://www.siff.net/festival/su
  burban-fury
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer's Camera
@@ -4315,21 +3819,7 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nA high school girl\, still reelin
  d gorgeously shot coming-of-age feature debut about first loves. Director/
  Screenwriter Divine Sung scheduled to attend.\n\nhttps://www.siff.net/fest
  ival/summers-camera
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Odd Fish
-DTSTART:20250522T013000Z
-DTEND:20250522T032500Z
-DTSTAMP:20250522T013000Z
-UID:9ekFDfNuj7
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nIn this gentle and welcoming dra
- medy—the first Icelandic film to feature a trans female lead—two child
- hood besties who co-run a seafood restaurant in the northern Westfjords ha
- ve their friendship tested when one of them comes out. This film is genero
- usly sponsored by Jeff Stolz and Tim O'Connor.\n\nhttps://www.siff.net/fes
- tival/odd-fish
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Safe House
@@ -4342,7 +3832,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nIn this sincere and impeccably ar
  r “La Cache\,” a nine-year-old boy and his quirky\, artistic family ex
  perience the turbulence of 1968 Paris from the relative safety of their mu
  ltigenerational home.\n\nhttps://www.siff.net/festival/the-safe-house
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Kingdom
@@ -4354,7 +3844,7 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen an underground war breaks o
  ut between nationalist groups and crime families\, a Corsican mobster and 
  his daughter must go on the run\, bringing them closer together and drawin
  g her into his world.\n\nhttps://www.siff.net/festival/the-kingdom
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Happy Holidays
@@ -4367,7 +3857,7 @@ DESCRIPTION:Duration: 123 mins (2h03m)\n\nOscar® winner Scandar Copti (Aj
  d the impact of the country’s divisions on every aspect of their lives\,
   mundane and momentous alike.\n\nhttps://www.siff.net/festival/happy-holid
  ays
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:How to Build a Library
@@ -4380,21 +3870,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen two local women set out to
  turn it into a multicultural hub\, they must contend with their country’
  s history and a complicated web of bureaucracy over eight very long but re
  warding years.\n\nhttps://www.siff.net/festival/how-to-build-a-library
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Waves
-DTSTART:20250522T033000Z
-DTEND:20250522T055500Z
-DTSTAMP:20250522T033000Z
-UID:nOg9gW3tTP
-DESCRIPTION:Duration: 131 mins (2h11m)\n\nIt’s 1967 Czechoslovakia\, and
-  technician Tomás has just started working at the country’s most renown
- ed radio station. But as the Soviets crack down on any dissenting opinions
- \, Tomás must either become an informant or protect his activist younger 
- brother in this nerve-wracking journalism thriller.\n\nhttps://www.siff.ne
- t/festival/waves
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hanami
@@ -4407,7 +3883,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nWeaving between the natural and m
  s. Left by her mother soon after birth\, she will spend her life trying to
   find the right answer to the lingering question in her mind and soul: Sho
  uld she stay or should she go?\n\nhttps://www.siff.net/festival/hanami
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Diciannove
@@ -4420,20 +3896,7 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn this freewheeling Gen Z bildu
  ves his privileged world and economic studies behind to bustle around Sien
  a in desperate search of identity and connection.\n\nhttps://www.siff.net/
  festival/diciannove
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Red Sweet
-DTSTART:20250522T041500Z
-DTEND:20250522T060000Z
-DTSTAMP:20250522T041500Z
-UID:S6u4YVLDm9
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn a rapidly changing Kowloon Cit
- y\, one Hong Kong family struggles to keep their traditional dessert shop 
- open in the face of illness\, generational desires\, and gentrification in
-  Vincent Chow Wing’s wistful\, nostalgic family drama.\n\nhttps://www.si
- ff.net/festival/little-red-sweet
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ready or Not
@@ -4446,7 +3909,7 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nWhat Katie and her mates think wi
  more complicated when they push toward an adulthood they are ill-prepared 
  for in Claire Frances Byrne’s debut feature. Director Claire Frances Byr
  ne scheduled to attend.\n\nhttps://www.siff.net/festival/ready-or-not
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Riefenstahl
@@ -4459,7 +3922,7 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nA gripping portrait of controver
  \, who despite all evidence to the contrary still maintained she was not c
  omplicit in the atrocities carried out by the Third Reich.\n\nhttps://www.
  siff.net/festival/riefenstahl
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U Are the Universe
@@ -4472,7 +3935,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nIn this Ukraine-shot tale of fin
  , a space trucker thinks he’s the last living person in the universe…u
  ntil a call from a distant space station sets him on a course across the c
  osmos.\n\nhttps://www.siff.net/festival/u-are-the-universe
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boong
@@ -4485,20 +3948,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nWhen nine-year-old schoolboy Boon
  ake the journey to Moreh to investigate in this class-conscious\, charming
   coming-of-age border drama from debut filmmaker Lakshmipriya Devi.\n\nhtt
  ps://www.siff.net/festival/boong
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Happy Holidays
-DTSTART:20250522T200000Z
-DTEND:20250522T221500Z
-DTSTAMP:20250522T200000Z
-UID:fN5ed3NQFc
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nOscar® winner Scandar Copti (Aj
- ami) is back with a new film about a middle-class Arab family in Israel an
- d the impact of the country’s divisions on every aspect of their lives\,
-  mundane and momentous alike.\n\nhttps://www.siff.net/festival/happy-holid
- ays
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unclickable
@@ -4511,7 +3961,7 @@ DESCRIPTION:Duration: 74 mins (1h14m)\n\nIn this investigative documentary
   a digital advertising fraud operation\, the likes of which enriches compa
  nies like Google and Facebook at the cost of everybody else…and democrac
  y itself.\n\nhttps://www.siff.net/festival/unclickable
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:John Cranko
@@ -4524,7 +3974,7 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nSam Riley (Control) stuns in thi
  ercame self-destructive habits and homophobic persecution as he whipped th
  e 1960s Stuttgart Ballet into an internationally renowned dance company.\n
  \nhttps://www.siff.net/festival/john-cranko
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everybody Loves Touda
@@ -4537,7 +3987,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nTouda dreams of being a sheikha\
  rmers are as often eroticized and stigmatized as venerated\, what does it 
  really mean to be loved?\n\nhttps://www.siff.net/festival/everybody-loves-
  touda
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Come Closer
@@ -4549,7 +3999,7 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nAfter Eden’s brother dies sudd
  enly\, she discovers that he had a secret girlfriend. As the two women get
   to know one another\, they embark on an intense and intimate relationship
   of their own.\n\nhttps://www.siff.net/festival/come-closer
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer's Camera
@@ -4563,21 +4013,7 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nA high school girl\, still reelin
  d gorgeously shot coming-of-age feature debut about first loves. Director/
  Screenwriter Divine Sung scheduled to attend.\n\nhttps://www.siff.net/fest
  ival/summers-camera
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Odd Fish
-DTSTART:20250522T224500Z
-DTEND:20250523T004000Z
-DTSTAMP:20250522T224500Z
-UID:7a9AbHqyaS
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nIn this gentle and welcoming dra
- medy—the first Icelandic film to feature a trans female lead—two child
- hood besties who co-run a seafood restaurant in the northern Westfjords ha
- ve their friendship tested when one of them comes out. This film is genero
- usly sponsored by Jeff Stolz and Tim O'Connor.\n\nhttps://www.siff.net/fes
- tival/odd-fish
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ready or Not
@@ -4590,7 +4026,7 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nWhat Katie and her mates think wi
  more complicated when they push toward an adulthood they are ill-prepared 
  for in Claire Frances Byrne’s debut feature. Director Claire Frances Byr
  ne scheduled to attend.\n\nhttps://www.siff.net/festival/ready-or-not
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bitter Gold
@@ -4603,7 +4039,7 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nIn this pulse-pounding neo-wester
  f northern Chile\, 16-year-old Carola must take control of the family busi
  ness and stave off greedy\, gold-seeking rivals after her father gets seri
  ously injured.\n\nhttps://www.siff.net/festival/bitter-gold
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joqtau
@@ -4616,7 +4052,7 @@ DESCRIPTION:Duration: 71 mins (1h11m)\n\nYoung Darkhan returns to his vill
  gined journey to his ancestral home to learn the ways of his elders and th
  e gradual loss of their traditional customs and language.\n\nhttps://www.s
  iff.net/festival/joqtau
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sally
@@ -4629,33 +4065,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nAward-winning documentarian Cris
  he first woman in space. But as Ride journeyed among the stars\, she kept 
  a nearly three-decade romance with author and tennis player Tam O’Shaugh
  nessy a secret.\n\nhttps://www.siff.net/festival/sally
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Safe House
-DTSTART:20250523T010000Z
-DTEND:20250523T024000Z
-DTSTAMP:20250523T010000Z
-UID:vIMg1h99QU
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nIn this sincere and impeccably ar
- t-directed Wes Anderson-esque film based on Christophe Boltanski’s memoi
- r “La Cache\,” a nine-year-old boy and his quirky\, artistic family ex
- perience the turbulence of 1968 Paris from the relative safety of their mu
- ltigenerational home.\n\nhttps://www.siff.net/festival/the-safe-house
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Luz
-DTSTART:20250523T013000Z
-DTEND:20250523T032500Z
-DTSTAMP:20250523T013000Z
-UID:YhGlf5G2jE
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nA Chinese ex-con seeks to rekind
- le a relationship with his estranged cam girl daughter\, while a gallerist
-  connects with her ailing French stepmother (Huppert)\, in this dual narra
- tive about finding familial intimacy in a virtual reality world.\n\nhttps:
- //www.siff.net/festival/luz
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sound Visions
@@ -4667,7 +4077,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nFrom tying the knot\, to settling
   a score\, to appreciating unrecognized icons in our midst\, these shorts 
  explore our region’s creative spirit and talented filmmaking community.\
  n\nhttps://www.siff.net/festival/sound-visions-x39746
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cat Town\, USA
@@ -4681,7 +4091,7 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nIn this feel-good doc expanded fr
  their last days running a retirement home for senior and aging cats. Direc
  tor Jonathan Napolitano and producer James Gannon scheduled to attend.\n\n
  https://www.siff.net/festival/cat-town-usa
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moon
@@ -4694,7 +4104,7 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nAustrian-Kurdish filmmaker Kurdwi
  m Festival for her tense\, provocative sophomore feature\, about an MMA fi
  ghter who heads to Jordan to teach a trio of wealthy sisters\, only to lea
  rn they are confined to their home.\n\nhttps://www.siff.net/festival/moon
-LOCATION:SIFF Film Center\, 305 Harrison Street
+LOCATION:\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beginnings
@@ -4708,20 +4118,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nLife is full of unexpected twists
  re about to finalize their divorce and tell their two daughters\, she suff
  ers a stroke. Producer Eva Jakobsen scheduled to attend.\n\nhttps://www.si
  ff.net/festival/beginnings
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drowning Dry
-DTSTART:20250523T033000Z
-DTEND:20250523T051000Z
-DTSTAMP:20250523T033000Z
-UID:KlDKisr4wk
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nIn this elliptically told melodra
- ma that was Lithuania’s submission for the 2025 Academy Awards®\, two f
- amilies must confront lingering resentments when tragedy strikes during a 
- lakeside weekend summer vacation. Winner of Best Director at the 2024 Loca
- rno Film Festival.\n\nhttps://www.siff.net/festival/drowning-dry
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Souleymane’s Story
@@ -4733,20 +4130,7 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nGuinean immigrant Souleymane has
  applied for asylum in France. Soon he’ll have an interview with the gove
  rnment agency that will change his life…if only he can figure out the ri
  ght story to tell.\n\nhttps://www.siff.net/festival/souleymanes-story
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Happyend
-DTSTART:20250523T040000Z
-DTEND:20250523T060500Z
-DTSTAMP:20250523T040000Z
-UID:iyVoKBEBSR
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nIn an earthquake-rattled near-fu
- ture Tokyo\, a multiethnic band of politically aware teens protest their h
- igh school’s draconian and demerit-based new surveillance system in the 
- latest from SIFF alum Neo Sora (2023’s Ryuichi Sakamoto: Opus).\n\nhttps
- ://www.siff.net/festival/happyend
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beef
@@ -4760,7 +4144,7 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nLati\, a first-generation Malian
  a new world opens up when she learns how to tap into her frustration and a
  nger to create empowering\, liberating rhymes.\n\nhttps://www.siff.net/fes
  tival/beef
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Head Trip Shorts
@@ -4771,20 +4155,7 @@ UID:DWyE4ROUxb
 DESCRIPTION:Duration: 89 mins (1h29m)\n\nFollow the white rabbit to a wond
  erland of bizarro\, belly-bursting\, gasoline-fueled fun.\n\nhttps://www.s
  iff.net/festival/head-trip-shorts
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moon
-DTSTART:20250523T180000Z
-DTEND:20250523T194500Z
-DTSTAMP:20250523T180000Z
-UID:X9IwgpZWLt
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nAustrian-Kurdish filmmaker Kurdwi
- n Ayub (SIFF 2023’s Sonne) won the Special Jury Prize at the Locarno Fil
- m Festival for her tense\, provocative sophomore feature\, about an MMA fi
- ghter who heads to Jordan to teach a trio of wealthy sisters\, only to lea
- rn they are confined to their home.\n\nhttps://www.siff.net/festival/moon
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shepherds
@@ -4797,7 +4168,7 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nIn this layered\, bucolic drama
  uty and harsh reality\, a Quebeçois marketing executive gives it all up a
  nd moves to the French Alps to become a sheep herder.\n\nhttps://www.siff.
  net/festival/shepherds
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sanatorium Under the Sign of the Hourglass
@@ -4810,7 +4181,7 @@ DESCRIPTION:Duration: 76 mins (1h16m)\n\nThe Brothers Quay spin another fa
   Polish writer Bruno Schulz\, about a young man on a ghostly train ride to
  ward a sanitorium that may exist out of time and space.\n\nhttps://www.sif
  f.net/festival/sanatorium-under-the-sign-of-the-hourglass
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Kingdom
@@ -4822,19 +4193,7 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen an underground war breaks o
  ut between nationalist groups and crime families\, a Corsican mobster and 
  his daughter must go on the run\, bringing them closer together and drawin
  g her into his world.\n\nhttps://www.siff.net/festival/the-kingdom
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To a Land Unknown
-DTSTART:20250523T201500Z
-DTEND:20250523T221500Z
-DTSTAMP:20250523T201500Z
-UID:Gg127T33g0
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nChatila and Reda are Palestinian
-  refugees stuck in Athens\, trying to figure out how to get to Germany\, h
- ow to stay alive in the meanwhile\, and how to do it all without losing th
- eir humanity.\n\nhttps://www.siff.net/festival/to-a-land-unknown
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Feminine Urge
@@ -4845,7 +4204,7 @@ UID:U9w8E6K092
 DESCRIPTION:Duration: 94 mins (1h34m)\n\nTo spit\, to protest\, to indulge
  \, to break up with a boyfriend…to be a cat.\n\nhttps://www.siff.net/fes
  tival/the-feminine-urge
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beginnings
@@ -4859,21 +4218,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nLife is full of unexpected twists
  re about to finalize their divorce and tell their two daughters\, she suff
  ers a stroke. Producer Eva Jakobsen scheduled to attend.\n\nhttps://www.si
  ff.net/festival/beginnings
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paul Anka: His Way
-DTSTART:20250523T223000Z
-DTEND:20250524T002000Z
-DTSTAMP:20250523T223000Z
-UID:4qxXvLd0m4
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nHe faced it all\, stood tall\, an
- d did it his way. Get the inside scoop on the life and career of Paul Anka
- \, the Canadian-born son of immigrants who rocketed to the top of the char
- ts not just as a teen heartthrob\, but as the songwriter of some of Americ
- a’s greatest standards.\n\nhttps://www.siff.net/festival/paul-anka-his-w
- ay
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Suburban Fury
@@ -4887,7 +4232,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nLocal documentarian Robinson Dev
  ssinate President Gerald Ford in 1975\, as told in her own words. Director
   Robison Dever is scheduled to attend.\n\nhttps://www.siff.net/festival/su
  burban-fury
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Botanist
@@ -4900,20 +4245,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nIn Jing Yi’s fantastical\, lush
  akh boy in touch with the wonders of nature befriends a local Han girl\, o
  nly for the call of the modern outside world to come calling.\n\nhttps://w
  ww.siff.net/festival/the-botanist
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Happyend
-DTSTART:20250523T224500Z
-DTEND:20250524T005000Z
-DTSTAMP:20250523T224500Z
-UID:WPQL1YrOQv
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nIn an earthquake-rattled near-fu
- ture Tokyo\, a multiethnic band of politically aware teens protest their h
- igh school’s draconian and demerit-based new surveillance system in the 
- latest from SIFF alum Neo Sora (2023’s Ryuichi Sakamoto: Opus).\n\nhttps
- ://www.siff.net/festival/happyend
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adolescent Overdrive
@@ -4924,7 +4256,7 @@ UID:ssGJTomSRK
 DESCRIPTION:Duration: 86 mins (1h26m)\n\nFrom surrealistic swimming lesson
  s to ’90s motocross\, teenage coma musings to rip-roarin’ rodeos\, thi
  s is growing up.\n\nhttps://www.siff.net/festival/adolescent-overdrive
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salsa Lives
@@ -4938,7 +4270,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nThe rhythms\, passion\, and ener
  én Blades and Henry Fiol\, this illuminating journey shows how entire ge
  nerations have celebrated their common identity through music and dance.\n
  \nhttps://www.siff.net/festival/salsa-lives
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:John Cranko
@@ -4951,36 +4283,7 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nSam Riley (Control) stuns in thi
  ercame self-destructive habits and homophobic persecution as he whipped th
  e 1960s Stuttgart Ballet into an internationally renowned dance company.\n
  \nhttps://www.siff.net/festival/john-cranko
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Know Her Name
-DTSTART:20250524T010000Z
-DTEND:20250524T023000Z
-DTSTAMP:20250524T010000Z
-UID:pHZhDTtGg4
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nIn this amazing slice of film her
- story\, learn the legacy of women directors who have fought to be seen and
-  heard and have their films preserved…and how to not let the next genera
- tion get lost in the same inequitable and homogenized system.\n\nhttps://w
- ww.siff.net/festival/know-her-name
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flamingos: Life After the Meteorite
-DTSTART:20250524T013000Z
-DTEND:20250524T030500Z
-DTSTAMP:20250524T013000Z
-UID:X3JabZgEIQ
-DESCRIPTION:Duration: 83 mins (1h23m)\n\nFinding the right partner\, the r
- ight place\, and the ideal time to create a family is the most decisive ta
- sk in nature. Instinct\, love\, and risk are intertwined in this unforgett
- able journey of the Caribbean flamingo in its most delicate period of exis
- tence\; a journey at once surprising\, enthralling\, and deeply inspiring.
-  A few lucky animal lovers at the May 23 screening will earn zoo passes vi
- a a trivia giveaway hosted by Woodland Park Zoo.\n\nhttps://www.siff.net/f
- estival/flamingos-life-after-the-meteorite
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Time Travel Is Dangerous
@@ -4993,7 +4296,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nWhat would you do if a time-trave
  n\, you use it to find and sell antiques at your vintage shop\, of course\
  , regardless of the consequences reverberating across time and space.\n\nh
  ttps://www.siff.net/festival/time-travel-is-dangerous
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Crowd
@@ -5005,7 +4308,7 @@ DESCRIPTION:Duration: 70 mins (1h10m)\n\nA story of a group of friends com
  ing together to plan a farewell party\, The Crowd is also a vibrant portra
  it of a younger generation in Iran\, determined to live life on their own 
  terms.\n\nhttps://www.siff.net/festival/the-crowd
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everybody Loves Touda
@@ -5018,20 +4321,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nTouda dreams of being a sheikha\
  rmers are as often eroticized and stigmatized as venerated\, what does it 
  really mean to be loved?\n\nhttps://www.siff.net/festival/everybody-loves-
  touda
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Am Nevenka
-DTSTART:20250524T033000Z
-DTEND:20250524T053500Z
-DTSTAMP:20250524T033000Z
-UID:0GsFQrnO48
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nNevenka Fernández\, the town’
- s finance councilor\, is relentlessly pursued by the mayor\, a man used to
-  always getting what he wants politically and personally. Nevenka decides 
- to report him\, turning her courageous fight into Spain’s first #MeToo c
- ase.\n\nhttps://www.siff.net/festival/i-am-nevenka
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Raptures
@@ -5044,20 +4334,7 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nIn the first-ever film using the
  ving along the Finland-Sweden border must protect her family from the encr
  oaching wrath of her husband’s newly formed sectarian cult. Director Jon
   Bahed scheduled to attend.\n\nhttps://www.siff.net/festival/raptures
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Things You Kill
-DTSTART:20250524T040000Z
-DTEND:20250524T060500Z
-DTSTAMP:20250524T040000Z
-UID:hY0Ugah3v2
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nIranian writer-director Alireza 
- Khatami (Terrestrial Verses\, SIFF 2024) won the Best Director prize at Su
- ndance for this surreal psychological thriller about the distinct identiti
- es that exist within us and the existential struggle between them.\n\nhttp
- s://www.siff.net/festival/the-things-you-kill
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sons
@@ -5070,7 +4347,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nWriter/director Gustav Möller (S
  nd morally gray thriller\, as a prison guard learns that a young man from 
  her past has just been transferred to her post.\n\nhttps://www.siff.net/fe
  stival/sons
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Spirit Cabinet
@@ -5081,7 +4358,7 @@ UID:UfwEKRcLj3
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nWithin the spirit cabinet\, disco
  ver messages from the beyond\, supernatural terrors\, and an unimaginably 
  creepy cabaret.\n\nhttps://www.siff.net/festival/the-spirit-cabinet
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dead Lover
@@ -5097,20 +4374,7 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nGrace Glowicki (Tito\, SIFF 2021
  eadspace for this absolute ride of a film with a trivia giveaway hosted by
   BoneBat Comedy of Horrors Film Fest before the May 23 screening.\n\nhttps
  ://www.siff.net/festival/dead-lover
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Sun Palace
-DTSTART:20250524T180000Z
-DTEND:20250524T201000Z
-DTSTAMP:20250524T180000Z
-UID:tWyBo37mUi
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nIn Constance Tsang’s strikingl
- y original\, Cannes-winning social realist debut\, two Queens-based Chines
- e immigrants find solace in their shared grief over a massage parlor worke
- r they each loved in their own way before tragedy struck.\n\nhttps://www.s
- iff.net/festival/blue-sun-palace
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Family Picture Show
@@ -5123,7 +4387,7 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nMake your way through a magnifice
  RE SHOW! Joining you on your cinematic quest are a girl with magic mittens
  \, a tenacious snowy owl\, and a fabulous drag queen fox played by Sir Ian
   McKellen.\n\nhttps://www.siff.net/festival/the-family-picture-show-x39738
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Souleymane’s Story
@@ -5135,7 +4399,7 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nGuinean immigrant Souleymane has
  applied for asylum in France. Soon he’ll have an interview with the gove
  rnment agency that will change his life…if only he can figure out the ri
  ght story to tell.\n\nhttps://www.siff.net/festival/souleymanes-story
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Time Travel Is Dangerous
@@ -5148,21 +4412,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nWhat would you do if a time-trave
  n\, you use it to find and sell antiques at your vintage shop\, of course\
  , regardless of the consequences reverberating across time and space.\n\nh
  ttps://www.siff.net/festival/time-travel-is-dangerous
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salsa Lives
-DTSTART:20250524T193000Z
-DTEND:20250524T212500Z
-DTSTAMP:20250524T193000Z
-UID:O07qBcjOhR
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nThe rhythms\, passion\, and ener
- gy of Salsa do not recognize borders. Born in the vibrant streets of New Y
- ork\, it conquered and reigned in Cali. Featuring Salsa legends like Rub
- én Blades and Henry Fiol\, this illuminating journey shows how entire ge
- nerations have celebrated their common identity through music and dance.\n
- \nhttps://www.siff.net/festival/salsa-lives
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twinless
@@ -5175,23 +4425,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nIn this Portland-set dark comedy
  O’Brien and Sweeney) trauma-bond at a support group for people who have 
  lost their twin. Winner of the Sundance 2025 US Dramatic Audience Award.\n
  \nhttps://www.siff.net/festival/twinless
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dead Lover
-DTSTART:20250524T204500Z
-DTEND:20250524T222000Z
-DTSTAMP:20250524T204500Z
-UID:jdG5ppLJVP
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nGrace Glowicki (Tito\, SIFF 2021
- ’s Strawberry Mansion) writes\, directs\, and gives a barkingly daring l
- ead performance in this bizarre\, performance art-coded\, gender-bending l
- o-fi Frankenstein comedy about a lonely gravedigger who will do anything t
- o build the perfect man. SXSW NEON Auteur Award winner. Get in the right h
- eadspace for this absolute ride of a film with a trivia giveaway hosted by
-  BoneBat Comedy of Horrors Film Fest before the May 23 screening.\n\nhttps
- ://www.siff.net/festival/dead-lover
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Diamonds
@@ -5204,7 +4438,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn this lush\, metatheatrical cr
   Ferzan Özpetek gathers 18 of his country’s greatest actresses to tell 
  the story of a Rome-based tailoring shop that makes costumes for the big s
  creen.\n\nhttps://www.siff.net/festival/diamonds
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Raptures
@@ -5217,7 +4451,7 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nIn the first-ever film using the
  ving along the Finland-Sweden border must protect her family from the encr
  oaching wrath of her husband’s newly formed sectarian cult. Director Jon
   Bahed scheduled to attend.\n\nhttps://www.siff.net/festival/raptures
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cat Town\, USA
@@ -5231,23 +4465,7 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nIn this feel-good doc expanded fr
  their last days running a retirement home for senior and aging cats. Direc
  tor Jonathan Napolitano and producer James Gannon scheduled to attend.\n\n
  https://www.siff.net/festival/cat-town-usa
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flamingos: Life After the Meteorite
-DTSTART:20250524T223000Z
-DTEND:20250525T000500Z
-DTSTAMP:20250524T223000Z
-UID:ZPlsCmmMHQ
-DESCRIPTION:Duration: 83 mins (1h23m)\n\nFinding the right partner\, the r
- ight place\, and the ideal time to create a family is the most decisive ta
- sk in nature. Instinct\, love\, and risk are intertwined in this unforgett
- able journey of the Caribbean flamingo in its most delicate period of exis
- tence\; a journey at once surprising\, enthralling\, and deeply inspiring.
-  A few lucky animal lovers at the May 23 screening will earn zoo passes vi
- a a trivia giveaway hosted by Woodland Park Zoo.\n\nhttps://www.siff.net/f
- estival/flamingos-life-after-the-meteorite
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queering The Way
@@ -5258,20 +4476,7 @@ UID:a42s3RlPkQ
 DESCRIPTION:Duration: 95 mins (1h35m)\n\nPursuing social and personal oppo
  rtunities\, these queer individuals strive to break through obstacles and 
  forge on.\n\nhttps://www.siff.net/festival/queering-the-way
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Things You Kill
-DTSTART:20250524T230000Z
-DTEND:20250525T010500Z
-DTSTAMP:20250524T230000Z
-UID:WGUh7g548S
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nIranian writer-director Alireza 
- Khatami (Terrestrial Verses\, SIFF 2024) won the Best Director prize at Su
- ndance for this surreal psychological thriller about the distinct identiti
- es that exist within us and the existential struggle between them.\n\nhttp
- s://www.siff.net/festival/the-things-you-kill
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Color Book
@@ -5285,7 +4490,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nFilmmaker David Fortune won the D
  ck father who just wants to take his young disabled son to his first profe
  ssional baseball game. Director David Fortune scheduled to attend.\n\nhttp
  s://www.siff.net/festival/color-book
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Closing Night Film & Party
@@ -5303,7 +4508,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nEva Victor (“Billions”) writ
  ets. Note: SIFF parties are for ages 21+\, and IDs will be checked at the 
  door. No refunds will be issued for tickets purchased with an invalid ID.\
  n\nhttps://www.siff.net/festival/sorry-baby
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DJ Ahmet
@@ -5316,20 +4521,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nFifteen-year-old shepherd Ahmet r
  ts a taste of electronic dance music in this heartwarming dramedy\, winner
   of the World Cinema – Audience Award Prize at Sundance 2025.\n\nhttps:/
  /www.siff.net/festival/dj-ahmet
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Botanist
-DTSTART:20250525T010000Z
-DTEND:20250525T025000Z
-DTSTAMP:20250525T010000Z
-UID:3w9LgByumW
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nIn Jing Yi’s fantastical\, lush
- ly framed drama set in rural northwestern China\, a lonely 13-year-old Kaz
- akh boy in touch with the wonders of nature befriends a local Han girl\, o
- nly for the call of the modern outside world to come calling.\n\nhttps://w
- ww.siff.net/festival/the-botanist
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Chef & The Daruma
@@ -5343,20 +4535,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nSeattle loves its sushi\, but did
  moving from Japan to Vancouver in the 1970s\, staying true to his traditio
  ns despite all odds. Director Mads Baekkevold scheduled to attend.\n\nhttp
  s://www.siff.net/festival/the-chef-and-the-daruma
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Between Goodbyes
-DTSTART:20250525T014500Z
-DTEND:20250525T033500Z
-DTSTAMP:20250525T014500Z
-UID:Pr2hOcesth
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA Dutch adoptee and her Korean bi
- rth parents try to build familial bonds across languages and cultural diff
- erences from halfway around the world in this tear-jerking\, decades-spann
- ing documentary from debut filmmaker Jota Mun. Director Jota Mun scheduled
-  to attend.\n\nhttps://www.siff.net/festival/between-goodbyes
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coexistence\, My Ass!
@@ -5368,7 +4547,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nComedy about Israel and Palestine
   is a high-wire act and perhaps never more so than now\, which is part of 
  what makes this documentary about Israeli comedian Noam Shuster-Eliassi so
   riveting.\n\nhttps://www.siff.net/festival/coexistence-my-ass
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rebuilding
@@ -5381,19 +4560,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn Max Walker-Silverman’s tende
  Performance)\, Josh O’Connor (Challengers) stars as a Coloradan cowboy w
  ho reconnects with his daughter and ex-wife after a wildfire takes his fam
  ily ranch.\n\nhttps://www.siff.net/festival/rebuilding
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To a Land Unknown
-DTSTART:20250525T033000Z
-DTEND:20250525T053000Z
-DTSTAMP:20250525T033000Z
-UID:CsMRduu5x1
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nChatila and Reda are Palestinian
-  refugees stuck in Athens\, trying to figure out how to get to Germany\, h
- ow to stay alive in the meanwhile\, and how to do it all without losing th
- eir humanity.\n\nhttps://www.siff.net/festival/to-a-land-unknown
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slanted
@@ -5407,7 +4574,7 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nChinese American teen Joan Huang
  ould be devastating in this biting speculative fiction satire. SXSW Grand 
  Jury winner. Director Amy Wang scheduled to attend.\n\nhttps://www.siff.ne
  t/festival/slanted
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Waves
@@ -5421,20 +4588,7 @@ DESCRIPTION:Duration: 131 mins (2h11m)\n\nIt’s 1967 Czechoslovakia\, and
  \, Tomás must either become an informant or protect his activist younger 
  brother in this nerve-wracking journalism thriller.\n\nhttps://www.siff.ne
  t/festival/waves
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Boy
-DTSTART:20250525T043000Z
-DTEND:20250525T055500Z
-DTSTAMP:20250525T043000Z
-UID:3VX56gWjYR
-DESCRIPTION:Duration: 73 mins (1h13m)\n\nYou know when you think your dog 
- is staring at nothing? Turns out they’re really looking for ghosts! In t
- his supernatural chiller\, Indy (the goodest boy of all!) is all that stan
- ds between his human best friend and the dark forces that haunt their rura
- l family home.\n\nhttps://www.siff.net/festival/good-boy
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scarecrow in a Garden of Cucumbers
@@ -5450,20 +4604,7 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nIn this camp classic from 1972 bu
   American Genre Film Archive has to offer in a trivia giveaway before the 
  screening!\n\nhttps://www.siff.net/festival/scarecrow-in-a-garden-of-cucum
  bers
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DJ Ahmet
-DTSTART:20250525T180000Z
-DTEND:20250525T195000Z
-DTSTAMP:20250525T180000Z
-UID:kEWEJetcCZ
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nFifteen-year-old shepherd Ahmet r
- ebels against his conservative North Macedonian farming village when he ge
- ts a taste of electronic dance music in this heartwarming dramedy\, winner
-  of the World Cinema – Audience Award Prize at Sundance 2025.\n\nhttps:/
- /www.siff.net/festival/dj-ahmet
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tales From the Magic Garden
@@ -5477,7 +4618,7 @@ DESCRIPTION:Duration: 71 mins (1h11m)\n\nIn this stop motion marvel from t
  ’s house\, where they take turns spinning fantastical tales to better un
  derstand loss\, compassion\, and empathy.\n\nhttps://www.siff.net/festival
  /tales-from-the-magic-garden
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coexistence\, My Ass!
@@ -5489,7 +4630,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nComedy about Israel and Palestine
   is a high-wire act and perhaps never more so than now\, which is part of 
  what makes this documentary about Israeli comedian Noam Shuster-Eliassi so
   riveting.\n\nhttps://www.siff.net/festival/coexistence-my-ass
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Crowd
@@ -5501,21 +4642,7 @@ DESCRIPTION:Duration: 70 mins (1h10m)\n\nA story of a group of friends com
  ing together to plan a farewell party\, The Crowd is also a vibrant portra
  it of a younger generation in Iran\, determined to live life on their own 
  terms.\n\nhttps://www.siff.net/festival/the-crowd
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Familiar Touch
-DTSTART:20250525T200000Z
-DTEND:20250525T214500Z
-DTSTAMP:20250525T200000Z
-UID:SrHdMDV3jo
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nRuth Goldman (Broadway legend Kat
- hleen Chalfant) has been living with dementia for some time\, and the time
-  has come to place her in an assisted living facility. But while this may 
- seem like the end\, for her it represents something like a new beginning i
- n this poignant\, Venice Film Festival-winning drama.\n\nhttps://www.siff.
- net/festival/familiar-touch
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paul Anka: His Way
@@ -5529,20 +4656,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nHe faced it all\, stood tall\, an
  ts not just as a teen heartthrob\, but as the songwriter of some of Americ
  a’s greatest standards.\n\nhttps://www.siff.net/festival/paul-anka-his-w
  ay
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Between Goodbyes
-DTSTART:20250525T203000Z
-DTEND:20250525T222000Z
-DTSTAMP:20250525T203000Z
-UID:BfCVhcQcLe
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA Dutch adoptee and her Korean bi
- rth parents try to build familial bonds across languages and cultural diff
- erences from halfway around the world in this tear-jerking\, decades-spann
- ing documentary from debut filmmaker Jota Mun. Director Jota Mun scheduled
-  to attend.\n\nhttps://www.siff.net/festival/between-goodbyes
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sons
@@ -5555,7 +4669,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nWriter/director Gustav Möller (S
  nd morally gray thriller\, as a prison guard learns that a young man from 
  her past has just been transferred to her post.\n\nhttps://www.siff.net/fe
  stival/sons
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Chef & The Daruma
@@ -5569,7 +4683,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nSeattle loves its sushi\, but did
  moving from Japan to Vancouver in the 1970s\, staying true to his traditio
  ns despite all odds. Director Mads Baekkevold scheduled to attend.\n\nhttp
  s://www.siff.net/festival/the-chef-and-the-daruma
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Color Book
@@ -5583,20 +4697,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nFilmmaker David Fortune won the D
  ck father who just wants to take his young disabled son to his first profe
  ssional baseball game. Director David Fortune scheduled to attend.\n\nhttp
  s://www.siff.net/festival/color-book
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Red Sweet
-DTSTART:20250525T223000Z
-DTEND:20250526T001500Z
-DTSTAMP:20250525T223000Z
-UID:Kcau59LDXo
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn a rapidly changing Kowloon Cit
- y\, one Hong Kong family struggles to keep their traditional dessert shop 
- open in the face of illness\, generational desires\, and gentrification in
-  Vincent Chow Wing’s wistful\, nostalgic family drama.\n\nhttps://www.si
- ff.net/festival/little-red-sweet
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slanted
@@ -5610,20 +4711,7 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nChinese American teen Joan Huang
  ould be devastating in this biting speculative fiction satire. SXSW Grand 
  Jury winner. Director Amy Wang scheduled to attend.\n\nhttps://www.siff.ne
  t/festival/slanted
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boong
-DTSTART:20250525T230000Z
-DTEND:20250526T004500Z
-DTSTAMP:20250525T230000Z
-UID:2LV02YnZ1Q
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nWhen nine-year-old schoolboy Boon
- g hears a rumor that his father has passed\, he and his best friend Raju m
- ake the journey to Moreh to investigate in this class-conscious\, charming
-  coming-of-age border drama from debut filmmaker Lakshmipriya Devi.\n\nhtt
- ps://www.siff.net/festival/boong
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U Are the Universe
@@ -5636,7 +4724,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nIn this Ukraine-shot tale of fin
  , a space trucker thinks he’s the last living person in the universe…u
  ntil a call from a distant space station sets him on a course across the c
  osmos.\n\nhttps://www.siff.net/festival/u-are-the-universe
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud
@@ -5649,7 +4737,7 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nLegendary filmmaker Kiyoshi Kuro
  ing potboiler about a craven opportunist who finds success as an internet 
  reseller\, only for revenge-seeking vigilantes to come calling.\n\nhttps:/
  /www.siff.net/festival/cloud
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Know Her Name
@@ -5662,20 +4750,7 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nIn this amazing slice of film her
   heard and have their films preserved…and how to not let the next genera
  tion get lost in the same inequitable and homogenized system.\n\nhttps://w
  ww.siff.net/festival/know-her-name
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shepherds
-DTSTART:20250526T010000Z
-DTEND:20250526T030500Z
-DTSTAMP:20250526T010000Z
-UID:FQl5n43p4W
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nIn this layered\, bucolic drama 
- from Francophone director Sophie Deraspe (Antigone) full of moments of bea
- uty and harsh reality\, a Quebeçois marketing executive gives it all up a
- nd moves to the French Alps to become a sheep herder.\n\nhttps://www.siff.
- net/festival/shepherds
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rebuilding
@@ -5688,20 +4763,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn Max Walker-Silverman’s tende
  Performance)\, Josh O’Connor (Challengers) stars as a Coloradan cowboy w
  ho reconnects with his daughter and ex-wife after a wildfire takes his fam
  ily ranch.\n\nhttps://www.siff.net/festival/rebuilding
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wailing
-DTSTART:20250526T013000Z
-DTEND:20250526T033000Z
-DTSTAMP:20250526T013000Z
-UID:EM2cn1ygYn
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nThree women separated in time an
- d space are unknowingly connected by a threat that nobody can explain. Som
- ething is stalking them and provoking unthinkable acts of violence with on
- e eerie thing in common: the disturbing sound of a wailing.\n\nhttps://www
- .siff.net/festival/the-wailing
-LOCATION:AMC Pacific Place 11\, 600 Pine Street
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Diamonds
@@ -5714,7 +4776,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn this lush\, metatheatrical cr
   Ferzan Özpetek gathers 18 of his country’s greatest actresses to tell 
  the story of a Rome-based tailoring shop that makes costumes for the big s
  creen.\n\nhttps://www.siff.net/festival/diamonds
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+LOCATION:\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twinless
@@ -5727,7 +4789,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nIn this Portland-set dark comedy
  O’Brien and Sweeney) trauma-bond at a support group for people who have 
  lost their twin. Winner of the Sundance 2025 US Dramatic Audience Award.\n
  \nhttps://www.siff.net/festival/twinless
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Good Boy
@@ -5740,6 +4802,219 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nYou know when you think your dog
  his supernatural chiller\, Indy (the goodest boy of all!) is all that stan
  ds between his human best friend and the dark forces that haunt their rura
  l family home.\n\nhttps://www.siff.net/festival/good-boy
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pavements
+DTSTART:20250530T230000Z
+DTEND:20250531T012000Z
+DTSTAMP:20250530T230000Z
+UID:X78wKa0lhQ
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nAlex Ross Perry surveys the embl
+ ematic 1990s US indie rock band in typically idiosyncratic style: part-doc
+ umentary\, part-biopic\, part-stage musical—but all Pavement.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/pavements
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pavements
+DTSTART:20250531T020000Z
+DTEND:20250531T042000Z
+DTSTAMP:20250531T020000Z
+UID:vFwvDIjULu
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nAlex Ross Perry surveys the embl
+ ematic 1990s US indie rock band in typically idiosyncratic style: part-doc
+ umentary\, part-biopic\, part-stage musical—but all Pavement.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/pavements
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rashomon
+DTSTART:20250530T234500Z
+DTEND:20250531T012500Z
+DTSTAMP:20250530T234500Z
+UID:3Hi4pqZgrJ
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nAfter the body of a samurai is fo
+ und by a woodcutter\, the truth of what happened to him and his wife becom
+ es more and less clear depending on who's telling the story.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/rashomon
+LOCATION:\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pavements
+DTSTART:20250531T200000Z
+DTEND:20250531T222000Z
+DTSTAMP:20250531T200000Z
+UID:ZADklnKvXE
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nAlex Ross Perry surveys the embl
+ ematic 1990s US indie rock band in typically idiosyncratic style: part-doc
+ umentary\, part-biopic\, part-stage musical—but all Pavement.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/pavements
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pavements
+DTSTART:20250531T230000Z
+DTEND:20250601T012000Z
+DTSTAMP:20250531T230000Z
+UID:DcGwdk1Asl
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nAlex Ross Perry surveys the embl
+ ematic 1990s US indie rock band in typically idiosyncratic style: part-doc
+ umentary\, part-biopic\, part-stage musical—but all Pavement.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/pavements
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pavements
+DTSTART:20250601T020000Z
+DTEND:20250601T042000Z
+DTSTAMP:20250601T020000Z
+UID:IyZ3QBy0HC
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nAlex Ross Perry surveys the embl
+ ematic 1990s US indie rock band in typically idiosyncratic style: part-doc
+ umentary\, part-biopic\, part-stage musical—but all Pavement.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/pavements
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rashomon
+DTSTART:20250531T234500Z
+DTEND:20250601T012500Z
+DTSTAMP:20250531T234500Z
+UID:my7dCV7GoK
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nAfter the body of a samurai is fo
+ und by a woodcutter\, the truth of what happened to him and his wife becom
+ es more and less clear depending on who's telling the story.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/rashomon
+LOCATION:\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:There is Another Way
+DTSTART:20250601T023000Z
+DTEND:20250601T041500Z
+DTSTAMP:20250601T023000Z
+UID:IDtNJTQRRF
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn the midst of darkness\, we dis
+ cover who we truly are. There is Another Way tells the story of a group of
+  visionaries who refuse to surrender to violence and injustice\, and in do
+ ing so show that another path is possible—for them\, for us\, and for al
+ l humanity. Director Stephen Apkon and other guests scheduled to attend f
+ or a post-film Q&A on May 31.\n\nhttps://www.siff.net/cinema/in-theaters/t
+ here-is-another-way
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pavements
+DTSTART:20250601T200000Z
+DTEND:20250601T222000Z
+DTSTAMP:20250601T200000Z
+UID:QLNKeS0G4V
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nAlex Ross Perry surveys the embl
+ ematic 1990s US indie rock band in typically idiosyncratic style: part-doc
+ umentary\, part-biopic\, part-stage musical—but all Pavement.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/pavements
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pavements
+DTSTART:20250601T230000Z
+DTEND:20250602T012000Z
+DTSTAMP:20250601T230000Z
+UID:GRps6ogGcJ
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nAlex Ross Perry surveys the embl
+ ematic 1990s US indie rock band in typically idiosyncratic style: part-doc
+ umentary\, part-biopic\, part-stage musical—but all Pavement.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/pavements
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pavements
+DTSTART:20250602T020000Z
+DTEND:20250602T042000Z
+DTSTAMP:20250602T020000Z
+UID:XaaR9WWlGv
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nAlex Ross Perry surveys the embl
+ ematic 1990s US indie rock band in typically idiosyncratic style: part-doc
+ umentary\, part-biopic\, part-stage musical—but all Pavement.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/pavements
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rashomon
+DTSTART:20250601T201500Z
+DTEND:20250601T215500Z
+DTSTAMP:20250601T201500Z
+UID:bHAS6TXqnO
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nAfter the body of a samurai is fo
+ und by a woodcutter\, the truth of what happened to him and his wife becom
+ es more and less clear depending on who's telling the story.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/rashomon
+LOCATION:\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rashomon
+DTSTART:20250602T030000Z
+DTEND:20250602T044000Z
+DTSTAMP:20250602T030000Z
+UID:7N7MICorWj
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nAfter the body of a samurai is fo
+ und by a woodcutter\, the truth of what happened to him and his wife becom
+ es more and less clear depending on who's telling the story.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/rashomon
+LOCATION:\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:There is Another Way
+DTSTART:20250601T234500Z
+DTEND:20250602T013000Z
+DTSTAMP:20250601T234500Z
+UID:H9Tt1w1vTY
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn the midst of darkness\, we dis
+ cover who we truly are. There is Another Way tells the story of a group of
+  visionaries who refuse to surrender to violence and injustice\, and in do
+ ing so show that another path is possible—for them\, for us\, and for al
+ l humanity. Director Stephen Apkon and other guests scheduled to attend f
+ or a post-film Q&A on May 31.\n\nhttps://www.siff.net/cinema/in-theaters/t
+ here-is-another-way
+LOCATION:\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:There is Another Way
+DTSTART:20250602T020000Z
+DTEND:20250602T034500Z
+DTSTAMP:20250602T020000Z
+UID:CRbrM1RAjO
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn the midst of darkness\, we dis
+ cover who we truly are. There is Another Way tells the story of a group of
+  visionaries who refuse to surrender to violence and injustice\, and in do
+ ing so show that another path is possible—for them\, for us\, and for al
+ l humanity. Director Stephen Apkon and other guests scheduled to attend f
+ or a post-film Q&A on May 31.\n\nhttps://www.siff.net/cinema/in-theaters/t
+ here-is-another-way
+LOCATION:\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pavements
+DTSTART:20250602T230000Z
+DTEND:20250603T012000Z
+DTSTAMP:20250602T230000Z
+UID:KGhSpAxrO6
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nAlex Ross Perry surveys the embl
+ ematic 1990s US indie rock band in typically idiosyncratic style: part-doc
+ umentary\, part-biopic\, part-stage musical—but all Pavement.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/pavements
+LOCATION:\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pavements
+DTSTART:20250603T020000Z
+DTEND:20250603T042000Z
+DTSTAMP:20250603T020000Z
+UID:4SVnX0aYe5
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nAlex Ross Perry surveys the embl
+ ematic 1990s US indie rock band in typically idiosyncratic style: part-doc
+ umentary\, part-biopic\, part-stage musical—but all Pavement.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/pavements
+LOCATION:\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
