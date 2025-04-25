@@ -20,7 +20,7 @@ from rich.logging import RichHandler
 from rich.progress import track
 
 logging.basicConfig(
-    level=logging.WARNING, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+    level=logging.INFO, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
 )
 
 re_collapse_newlines = re.compile(r"\n+")
