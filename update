@@ -28,8 +28,8 @@ re_collapse_newlines = re.compile(r"\n+")
 
 class SiffICS:
     PADDING = 10  # minutes
-    START = datetime.date.today() - datetime.timedelta(days=2)
-    DAYS = 35
+    START = datetime.date(2025, 5, 13)
+    DAYS = 20
     LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
     BASE_URL = "https://www.siff.net/calendar?view=list&date="
 
