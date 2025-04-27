@@ -19,9 +19,9 @@ layout: default
 <h1>ICS files for SIFF venues</h1>
 
 <p>
-  <big><strong><a href="ics/all.ics?{{ site.github.build_revision }}">All events</a></strong> (.ics)
-  <a href="https://larrybolt.github.io/online-ics-feed-viewer/#feed={{ site.url|url_encode }}{{ site.baseurl|url_encode }}/ics/all.ics%3F{{ site.github.build_revision }}&cors=false&title=SIFF">View</a>
-  </big>
+  <big><big><strong><a href="ics/all.ics?{{ site.github.build_revision }}">All events</a></strong> (.ics)</big></big>
+
+  (<a href="https://larrybolt.github.io/online-ics-feed-viewer/#feed={{ site.url|url_encode }}{{ site.baseurl|url_encode }}/ics/all.ics%3F{{ site.github.build_revision }}&cors=false&title=SIFF">View</a>)
 </p>
 
 <p>Venues:</p>
