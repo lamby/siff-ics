@@ -28,8 +28,9 @@ re_collapse_newlines = re.compile(r"\n+")
 
 class SiffICS:
     PADDING = 10  # minutes
-    START = datetime.date(2025, 5, 14)
-    END = datetime.date(2025, 5, 25)
+    YEAR = 2025
+    START = datetime.date(YEAR, 5, 14)
+    END = datetime.date(YEAR, 5, 25)
     LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
     BASE_URL = "https://www.siff.net/calendar?view=list&date="
 
@@ -68,7 +69,7 @@ class SiffICS:
 
         # Write an "all events" calendar, too
         with open(f"ics/all.ics", "w") as f:
-            f.write(self.get_ics(self.events, "all venues"))
+            f.write(self.get_ics(self.events))
 
         # Write venues
         venues = sorted(self.venues.values(), key=lambda x: x["VenueName"])
@@ -138,10 +139,13 @@ class SiffICS:
 
             self.events.append(data)
 
-    def get_ics(self, events, venue_name):
-        logging.info(f"Generating ICS for {venue_name}")
-
-        name = f"🎬 SIFF ({venue_name})"
+    def get_ics(self, events, venue_name=None):
+        if venue_name is None:
+            logging.info("Generating ICS for all venues")
+            name = f"🎬 SIFF {self.year}"
+        else:
+            logging.info(f"Generating ICS for {venue_name}")
+            name = f"🎬 SIFF ({venue_name})"
 
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
