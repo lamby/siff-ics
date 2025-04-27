@@ -28,8 +28,8 @@ re_collapse_newlines = re.compile(r"\n+")
 
 class SiffICS:
     PADDING = 10  # minutes
-    START = datetime.date(2025, 5, 13)
-    DAYS = 20
+    START = datetime.date(2025, 5, 14)
+    END = datetime.date(2025, 5, 25)
     LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
     BASE_URL = "https://www.siff.net/calendar?view=list&date="
 
@@ -39,7 +39,7 @@ class SiffICS:
     def main(self):
         # Parse events
         self.events = []
-        for x in track(range(self.DAYS + 1)):
+        for x in track(range((self.END - self.START).days + 1)):
             date = self.START + datetime.timedelta(days=x)
             self.populate_events_for_date(date)
         logging.info(f"Found {len(self.events)} total events")
@@ -83,8 +83,8 @@ class SiffICS:
             by_title.setdefault(x["EventName"], []).append(x)
 
         # Add film counts
-        for xs in track(by_title.values()):
-            logging.info(f"Downloading data for {xs[0]['EventName']} …")
+        for xs in track(sorted(by_title.values(), key=lambda x: x[0]["EventName"])):
+            logging.info(f"Downloading data for '{xs[0]['EventName']}'")
 
             r = self.session.get(xs[0]["Url"])
             r.raise_for_status()
@@ -96,12 +96,20 @@ class SiffICS:
             body = body.strip()
             body = re_collapse_newlines.sub(" ", body).strip()
 
+            is_streamed = b"SIFF Streaming" in r.content
+
             for idx, x in enumerate(xs):
                 x["EventBody"] = body
 
+                x["EventIndex"] = idx + 1
+                x["EventTotal"] = len(xs)
+                x["EventsOther"] = [y for idx_, y in enumerate(xs) if idx_ != idx]
+
+                x["IsStreamed"] = is_streamed
+
     def populate_events_for_date(self, date):
         date_fmt = date.strftime("%Y-%m-%d")
-        logging.info(f"Getting events for {date_fmt} …")
+        logging.info(f"Getting events for {date_fmt}")
 
         r = self.session.get(
             "{}{}".format(self.BASE_URL, date_fmt),
@@ -172,9 +180,25 @@ class SiffICS:
             # Description
             description = []
             hours, minutes = divmod(runtime, 60)
+
             description.append(f"Duration: {runtime} mins ({hours}h{minutes:02d}m)")
             description.append(x["EventBody"])
             description.append(x["Url"])
+
+            if x["EventsOther"]:
+                description.append("Also playing:")
+
+                val = ""
+                for other in x["EventsOther"]:
+                    dt = get_datetime(other["Showtime"]).astimezone(self.LOCAL_TIMEZONE)
+                    fmt = dt.strftime("%a %-d %B, %-I:%M %p")
+                    val += f"  • {other['VenueName']} ({fmt})\n"
+                description.append(val.strip())
+
+
+            if x["IsStreamed"]:
+                description.append(f"Film is also being streamed.")
+
             event.add("description", "\n\n".join(description))
 
             cal.add_component(event)
