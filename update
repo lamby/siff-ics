@@ -142,7 +142,7 @@ class SiffICS:
     def get_ics(self, events, venue_name=None):
         if venue_name is None:
             logging.info("Generating ICS for all venues")
-            name = f"🎬 SIFF {self.year}"
+            name = f"🎬 SIFF {self.YEAR}"
         else:
             logging.info(f"Generating ICS for {venue_name}")
             name = f"🎬 SIFF ({venue_name})"
