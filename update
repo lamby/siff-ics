@@ -186,9 +186,7 @@ class SiffICS:
             description.append(x["Url"])
 
             if x["EventsOther"]:
-                description.append("Also playing:")
-
-                val = ""
+                val = "Also playing at:\n"
                 for other in x["EventsOther"]:
                     dt = get_datetime(other["Showtime"]).astimezone(self.LOCAL_TIMEZONE)
                     fmt = dt.strftime("%a %-d %B, %-I:%M %p")
