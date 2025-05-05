@@ -24,6 +24,10 @@ layout: default
   (<a href="https://larrybolt.github.io/online-ics-feed-viewer/#feed={{ site.url|url_encode }}{{ site.baseurl|url_encode }}/ics/all.ics%3F{{ site.github.build_revision }}&cors=false&title=SIFF">View</a>)
 </p>
 
+<p>
+    <a href="https://letterboxd.com/gooner1886/list/seattle-international-film-festival-siff-1/">Unofficial Letterboxd list</a>
+</p>
+
 <p>Venues:</p>
 
 <ul>
