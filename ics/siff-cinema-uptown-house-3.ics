@@ -1,68 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250516T142915Z
+LAST-MODIFIED:20250517T151408Z
 NAME:🎬 SIFF (SIFF Cinema Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (SIFF Cinema Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:April
-DTSTART:20250516T193000Z
-DTEND:20250516T215500Z
-DTSTAMP:20250516T193000Z
-UID:TZvNdBwp6v
-DESCRIPTION:Duration: 134 mins (2h14m)\n\nAn obstetrician who secretly pro
- vides abortions and other family planning services to a remote village in 
- Eastern Georgia finds herself thrust into the harsh\, investigative spotli
- ght when she loses a newborn while on duty in the unflinching second film 
- from Dea Kulumbegashvili (Beginning). Sponsored by:\n\nhttps://www.siff.ne
- t/festival/april\n\nAlso playing at:\n  • SIFF Film Center (Sat 17 May\,
-  8:00 PM)
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hanami
-DTSTART:20250516T223000Z
-DTEND:20250517T002000Z
-DTSTAMP:20250516T223000Z
-UID:JnMi1IJW7G
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nWeaving between the natural and m
- agical\, Nana lives on a remote volcanic island from where everybody leave
- s. Left by her mother soon after birth\, she will spend her life trying to
-  find the right answer to the lingering question in her mind and soul: Sho
- uld she stay or should she go? Sponsored by:\n\nhttps://www.siff.net/festi
- val/hanami\n\nAlso playing at:\n  • SIFF Cinema Uptown House 1 (Wed 21 M
- ay\, 9:00 PM)\n\nFilm is also being streamed.
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Starman
-DTSTART:20250517T010000Z
-DTEND:20250517T023500Z
-DTSTAMP:20250517T010000Z
-UID:CuPKWRlpci
-DESCRIPTION:Duration: 85 mins (1h25m)\n\nJet Propulsion Laboratory scienti
- st\, robotics engineer\, and best-selling science fiction author Gentry Le
- e\, who was on NASA’s Viking and Voyager teams\, discusses his experienc
- es and views on the possibility of extraterrestrial life. Director Robert 
- Stone and cast member Gentry Lee scheduled to attend. Sponsored by:\n\nhtt
- ps://www.siff.net/festival/starman\n\nAlso playing at:\n  • Shoreline CC
-  Theater (Sat 17 May\, 3:00 PM)
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mongrels
-DTSTART:20250517T033000Z
-DTEND:20250517T053000Z
-DTSTAMP:20250517T033000Z
-UID:n5yEQSAT3J
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nIn this triptych of stories\, a 
- Korean father and his two children move to the Canadian prairies to help a
-  town deal with its feral dog population\, all while making a new life in 
- a strange land and navigating the grief of an absent mother. Director Jero
- me Yoo scheduled to attend.\n\nhttps://www.siff.net/festival/mongrels\n\nA
- lso playing at:\n  • AMC Pacific Place 11 (Sat 17 May\, 10:45 AM)
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Invention
 DTSTART:20250517T193000Z
@@ -74,8 +15,7 @@ DESCRIPTION:Duration: 72 mins (1h12m)\n\nCallie Hernandez (The Endless) co
  tone of a Haruki Murakami detective story\, as a daughter investigates her
   estranged late father’s experimental health marketing schemes. Director
   Courtney Stephens scheduled to attend. Sponsored by:\n\nhttps://www.siff.
- net/festival/invention\n\nAlso playing at:\n  • AMC Pacific Place 11 (Fr
- i 16 May\, 6:30 PM)
+ net/festival/invention
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -90,8 +30,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nGloria and Sofia\, two 10-year-ol
  randmother with Alzheimer’s. Their playful and delicate bond will help t
  hem navigate the fragility of life. Director Rafaela Camelo scheduled to a
  ttend. Sponsored by:\n\nhttps://www.siff.net/festival/the-nature-of-invisi
- ble-things\n\nAlso playing at:\n  • AMC Pacific Place 11 (Fri 16 May\, 9
- :00 PM)\n\nFilm is also being streamed.
+ ble-things\n\nFilm is also being streamed.
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -121,8 +60,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nAs avant-garde multihyphenate gen
  interpret her storied career’s most enduring works. Director Billy Sheba
  r scheduled to attend. Attend the May 16 screening for a chance to win goo
  die bags from Hex Enduction Records & Books! Sponsored by:\n\nhttps://www.
- siff.net/festival/monk-in-pieces\n\nAlso playing at:\n  • SIFF Cinema Up
- town House 2 (Fri 16 May\, 3:00 PM)
+ siff.net/festival/monk-in-pieces
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -170,19 +108,18 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nDirector Sam Feder (2020’s Disc
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meeting with Pol Pot
-DTSTART:20250519T033000Z
-DTEND:20250519T053500Z
-DTSTAMP:20250519T033000Z
-UID:823ev7gqar
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nOscar®-nominated filmmaker Rith
- y Panh (2013’s The Missing Picture) directs this historical drama that u
- nfolds like a horror film\, as three French journalists in 1978 Cambodia l
- earn the terrible truth about the Khmer Rouge regime. Learn about the Eliz
- abeth Becker Cambodia and Khmer Rouge Collection from UW Associate Profess
- or of Sociocultural Anthropology Jenna Grant at the May 18 screening. Spon
- sored by:\n\nhttps://www.siff.net/festival/meeting-with-pol-pot\n\nAlso pl
- aying at:\n  • SIFF Cinema Uptown House 2 (Tue 20 May\, 12:30 PM)
+SUMMARY:Sudden Outbursts of Emotions
+DTSTART:20250519T030000Z
+DTEND:20250519T045000Z
+DTSTAMP:20250519T030000Z
+UID:fiT5vUy0ko
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nWhen a travel agent’s boyfriend
+  suggests they open up their relationship to the wild world of polyamory\,
+  she is hesitant but joins him on a sojourn to an island-based party\, onl
+ y to fall for another woman\, in this sex-positive dramedy. Writer/Directo
+ r Paula Korva scheduled to attend. Sponsored by:\n\nhttps://www.siff.net/f
+ estival/sudden-outbursts-of-emotions\n\nAlso playing at:\n  • SIFF Cinem
+ a Uptown House 2 (Mon 19 May\, 3:30 PM)
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -354,8 +291,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen two local women set out to
  turn it into a multicultural hub\, they must contend with their country’
  s history and a complicated web of bureaucracy over eight very long but re
  warding years. Sponsored by:\n\nhttps://www.siff.net/festival/how-to-build
- -a-library\n\nAlso playing at:\n  • AMC Pacific Place 11 (Fri 16 May\, 1
- :30 PM)
+ -a-library
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -402,8 +338,7 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nIn this pulse-pounding neo-wester
  n thriller set in the cutthroat artisanal mining industry in the deserts o
  f northern Chile\, 16-year-old Carola must take control of the family busi
  ness and stave off greedy\, gold-seeking rivals after her father gets seri
- ously injured.\n\nhttps://www.siff.net/festival/bitter-gold\n\nAlso playin
- g at:\n  • SIFF Cinema Uptown House 2 (Fri 16 May\, 1:00 PM)
+ ously injured.\n\nhttps://www.siff.net/festival/bitter-gold
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
