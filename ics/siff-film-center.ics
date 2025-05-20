@@ -1,57 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250519T142034Z
+LAST-MODIFIED:20250520T164747Z
 NAME:🎬 SIFF (SIFF Film Center)
 X-WR-CALNAME:🎬 SIFF (SIFF Film Center)
-BEGIN:VEVENT
-SUMMARY:The Village Next to Paradise
-DTSTART:20250519T220000Z
-DTEND:20250520T002500Z
-DTSTAMP:20250519T220000Z
-UID:sxZvTgOClk
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nIn the first Somali film ever se
- lected for the Cannes Film Festival\, a villager and his sister are just t
- rying to make ends meet and send his son off to boarding school. But in a 
- world defined by chaos\, unease\, and civil unrest\, sometimes sacrifice i
- s the only answer. Sponsored by:\n\nhttps://www.siff.net/festival/the-vill
- age-next-to-paradise\n\nAlso playing at:\n  • SIFF Film Center (Wed 21 M
- ay\, 5:30 PM)
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gloria of your Imagination
-DTSTART:20250520T010000Z
-DTEND:20250520T025000Z
-DTSTAMP:20250520T010000Z
-UID:W1pUEBgSJd
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nIn 1964\, a 30-year-old divorced 
- woman named Gloria was filmed consulting with three eminent therapists. Fi
- lmmaker Jennifer Reeves uses this footage to explore single parenthood\, g
- endered power relationships\, and Gloria’s remarkable story. Director Je
- nnifer Reeves and co-producer Randy Sterns scheduled to attend. Attend the
-  May 20 screening to meet filmmaker Caryn Cline\, get a free zine from Int
- erbay Cinema Society\, and learn about the upcoming Engauge Experimental F
- ilm Festival. Sponsored by:\n\nhttps://www.siff.net/festival/the-gloria-of
- -your-imagination\n\nAlso playing at:\n  • SIFF Film Center (Tue 20 May\
- , 3:30 PM)\n\nFilm is also being streamed.
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unclickable
-DTSTART:20250520T033000Z
-DTEND:20250520T045500Z
-DTSTAMP:20250520T033000Z
-UID:wS1S7P7rKD
-DESCRIPTION:Duration: 74 mins (1h14m)\n\nIn this investigative documentary
-  ripped from the headlines\, follow the creation and devastating impact of
-  a digital advertising fraud operation\, the likes of which enriches compa
- nies like Google and Facebook at the cost of everybody else…and democrac
- y itself. Sponsored by:\n\nhttps://www.siff.net/festival/unclickable\n\nAl
- so playing at:\n  • SIFF Cinema Uptown House 3 (Thu 22 May\, 1:30 PM)\n\
- nFilm is also being streamed.
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Gloria of your Imagination
 DTSTART:20250520T223000Z
@@ -66,8 +18,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nIn 1964\, a 30-year-old divorced
   May 20 screening to meet filmmaker Caryn Cline\, get a free zine from Int
  erbay Cinema Society\, and learn about the upcoming Engauge Experimental F
  ilm Festival. Sponsored by:\n\nhttps://www.siff.net/festival/the-gloria-of
- -your-imagination\n\nAlso playing at:\n  • SIFF Film Center (Mon 19 May\
- , 6:00 PM)\n\nFilm is also being streamed.
+ -your-imagination\n\nFilm is also being streamed.
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -125,8 +76,7 @@ DESCRIPTION:Duration: 133 mins (2h13m)\n\nIn the first Somali film ever se
  rying to make ends meet and send his son off to boarding school. But in a 
  world defined by chaos\, unease\, and civil unrest\, sometimes sacrifice i
  s the only answer. Sponsored by:\n\nhttps://www.siff.net/festival/the-vill
- age-next-to-paradise\n\nAlso playing at:\n  • SIFF Film Center (Mon 19 M
- ay\, 3:00 PM)
+ age-next-to-paradise
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
