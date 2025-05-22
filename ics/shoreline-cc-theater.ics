@@ -1,42 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250521T142212Z
+LAST-MODIFIED:20250522T154709Z
 NAME:🎬 SIFF (Shoreline CC Theater)
 X-WR-CALNAME:🎬 SIFF (Shoreline CC Theater)
-BEGIN:VEVENT
-SUMMARY:Sally
-DTSTART:20250522T010000Z
-DTEND:20250522T025500Z
-DTSTAMP:20250522T010000Z
-UID:oFVv5AdarF
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nAward-winning documentarian Cris
- tina Costantini directs this peek into the personal life of Sally Ride\, t
- he first American woman in space. But as Ride journeyed among the stars\, 
- she kept a nearly three-decade romance with author and tennis player Tam O
- ’Shaughnessy a secret. Before the May 22 screening\, stop by the Museum 
- of Flight’s table to learn about their upcoming Sally’s Day celebratio
- n in June. If you’re lucky\, you might even win a pair of museum passes.
-  Sponsored by:        This film is also generously sponsored by the No
- vasio-Wilson Community Fund.\n\nhttps://www.siff.net/festival/sally\n\nAls
- o playing at:\n  • SIFF Cinema Downtown (Thu 22 May\, 6:00 PM)
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Waves
-DTSTART:20250522T033000Z
-DTEND:20250522T055500Z
-DTSTAMP:20250522T033000Z
-UID:nOg9gW3tTP
-DESCRIPTION:Duration: 131 mins (2h11m)\n\nIt’s 1967 Czechoslovakia\, and
-  technician Tomás has just started working at the country’s most renown
- ed radio station. But as the Soviets crack down on any dissenting opinions
- \, Tomás must either become an informant or protect his activist younger 
- brother in this nerve-wracking journalism thriller. Sponsored by:\n\nhttps
- ://www.siff.net/festival/waves\n\nAlso playing at:\n  • SIFF Cinema Down
- town (Sat 24 May\, 9:00 PM)\n\nFilm is also being streamed.
-LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Safe House
 DTSTART:20250523T010000Z
@@ -48,8 +15,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nIn this sincere and impeccably ar
  r “La Cache\,” a nine-year-old boy and his quirky\, artistic family ex
  perience the turbulence of 1968 Paris from the relative safety of their mu
  ltigenerational home. Sponsored by:\n\nhttps://www.siff.net/festival/the-s
- afe-house\n\nAlso playing at:\n  • SIFF Cinema Uptown House 1 (Wed 21 Ma
- y\, 6:30 PM)
+ afe-house
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +73,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nNevenka Fernández\, the town’
  s finance councilor\, is relentlessly pursued by the mayor\, a man used to
   always getting what he wants politically and personally. Nevenka decides 
  to report him\, turning her courageous fight into Spain’s first #MeToo c
- ase. Sponsored by:\n\nhttps://www.siff.net/festival/i-am-nevenka\n\nAlso p
- laying at:\n  • SIFF Cinema Uptown House 1 (Wed 21 May\, 1:00 PM)
+ ase. Sponsored by:\n\nhttps://www.siff.net/festival/i-am-nevenka
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -204,8 +169,7 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn a rapidly changing Kowloon Cit
  y\, one Hong Kong family struggles to keep their traditional dessert shop 
  open in the face of illness\, generational desires\, and gentrification in
   Vincent Chow Wing’s wistful\, nostalgic family drama.\n\nhttps://www.si
- ff.net/festival/little-red-sweet\n\nAlso playing at:\n  • AMC Pacific Pl
- ace 11 (Wed 21 May\, 9:15 PM)
+ ff.net/festival/little-red-sweet
 LOCATION:Shoreline CC Theater\, 16101 Greenwood Avenue North
 END:VEVENT
 BEGIN:VEVENT
