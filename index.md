@@ -24,16 +24,12 @@ layout: default
   (<a href="https://larrybolt.github.io/online-ics-feed-viewer/#feed={{ site.url|url_encode }}{{ site.baseurl|url_encode }}/ics/all.ics%3F{{ site.github.build_revision }}&cors=false&title=SIFF">View</a>)
 </p>
 
-<p>
-    <a href="https://letterboxd.com/gooner1886/list/seattle-international-film-festival-siff-1/">Unofficial Letterboxd list</a>
-</p>
-
 <p>Venues:</p>
 
 <ul>
 {% for venue in site.data.venues %}
 <li>
-    {{ venue["VenueName"] }} (<a href="ics/{{ venue.VenueSlug }}.ics?{{ site.github.build_revision }}">ICS</a>,
+    {{ venue["VenueNameOrig"] }} (<a href="ics/{{ venue.VenueSlug }}.ics?{{ site.github.build_revision }}">ICS</a>,
         <a href="https://larrybolt.github.io/online-ics-feed-viewer/#feed={{ site.url|url_encode }}{{ site.baseurl|url_encode }}/ics/{{ venue.VenueSlug }}.ics%3F{{ site.github.build_revision }}&cors=false&title={{ venue.VenueName|url_encode }}">View</a>, <a href="https://www.google.co.uk/maps/search/{{ venue.VenueName|url_encode }}%20{{ venue.VenueAddress1|url_encode }}">Google Maps</a>)
 </li>
 {% endfor %}

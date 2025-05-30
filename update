@@ -27,10 +27,9 @@ re_collapse_newlines = re.compile(r"\n+")
 
 
 class SiffICS:
-    PADDING = 10  # minutes
-    YEAR = 2025
-    START = datetime.date(YEAR, 5, 14)
-    END = datetime.date(YEAR, 5, 25)
+    PADDING = 20  # minutes
+    START = datetime.date.today()
+    DAYS = 60
     LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
     BASE_URL = "https://www.siff.net/calendar?view=list&date="
 
@@ -40,7 +39,7 @@ class SiffICS:
     def main(self):
         # Parse events
         self.events = []
-        for x in track(range((self.END - self.START).days + 1)):
+        for x in track(range(self.DAYS)):
             date = self.START + datetime.timedelta(days=x)
             self.populate_events_for_date(date)
         logging.info(f"Found {len(self.events)} total events")
@@ -122,14 +121,21 @@ class SiffICS:
         for elem in soup.select("a.elevent"):
             data = json.loads(elem["data-screening"])
 
-            if data["VenueName"] == "Virtual":
+            name = data["VenueName"]
+            if name == "Virtual":
                 continue
 
             name = re.sub(r".*\|\s*", "", data["VenueName"])
 
+            orig_name = name
+
+            # Strip common prefix from name
+            name = re.sub(r"^SIFF\s*(Cinema)?\s*", "", name)
+
             data.update(
                 {
                     "VenueName": name,
+                    "VenueNameOrig": orig_name,
                     "VenueSlug": slugify.slugify(name),
                     "Url": "https://www.siff.net{}".format(
                         elem.parent.parent.parent.select("a")[0]["href"]
@@ -142,7 +148,7 @@ class SiffICS:
     def get_ics(self, events, venue_name=None):
         if venue_name is None:
             logging.info("Generating ICS for all venues")
-            name = f"🎬 SIFF {self.YEAR}"
+            name = f"🎬 SIFF (all venues)"
         else:
             logging.info(f"Generating ICS for {venue_name}")
             name = f"🎬 SIFF ({venue_name})"
@@ -168,7 +174,7 @@ class SiffICS:
             event.add("summary", x["EventName"])
             event.add(
                 "location",
-                f"{x['VenueName']}, {x['VenueAddress1']}",
+                f"{x['VenueNameOrig']}, {x['VenueAddress1']}",
             )
 
             # Calculate times
@@ -189,14 +195,13 @@ class SiffICS:
             description.append(x["EventBody"])
             description.append(x["Url"])
 
-            if x["EventsOther"]:
+            if False and x["EventsOther"]:
                 val = "Also playing at:\n"
                 for other in x["EventsOther"]:
                     dt = get_datetime(other["Showtime"]).astimezone(self.LOCAL_TIMEZONE)
                     fmt = dt.strftime("%a %-d %B, %-I:%M %p")
                     val += f"  • {other['VenueName']} ({fmt})\n"
                 description.append(val.strip())
-
 
             if x["IsStreamed"]:
                 description.append(f"Film is also being streamed.")
