@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250605T143723Z
+LAST-MODIFIED:20250606T145441Z
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-BEGIN:VEVENT
-SUMMARY:Flying In
-DTSTART:20250606T011500Z
-DTEND:20250606T023500Z
-DTSTAMP:20250606T011500Z
-UID:XtIyi8npKt
-DESCRIPTION:Duration: 60 mins (1h00m)\n\nPresented by Elliott Bay Book Co
- mpany. McGowan relays her often humorous and absurd stories in "Flying In:
-  My Adventures in Filmmaking." This is a story told from the inside out\, 
- showcasing the perspective of a woman who started with no connections\, be
- at the odds\, and rose to produce international hit films.\n\nhttps://www.
- siff.net/cinema/in-theaters/flying-in
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Top 10 Favorite SIFF Films of All Time
 DTSTART:20250607T010000Z
