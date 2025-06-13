@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250612T132557Z
+LAST-MODIFIED:20250613T154230Z
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Shall We Dance
-DTSTART:20250612T230000Z
-DTEND:20250613T014000Z
-DTSTAMP:20250612T230000Z
-UID:xqrQbRv48N
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nShohei Sugiyama (Koji Yakusho) s
- eems to have it all - a high-paying job as an accountant\, a beautiful hom
- e\, a caring wife and a doting daughter he loves dearly. However\, he feel
- s something is missing in his life. One day while commuting on the train h
- e spots a beautiful woman staring wistfully out a window and eventually de
- cides to find her. His search leads him head-first into the world of compe
- titive ballroom dancing.\n\nhttps://www.siff.net/cinema/in-theaters/shall-
- we-dance
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Materialists
-DTSTART:20250613T020000Z
-DTEND:20250613T041000Z
-DTSTAMP:20250613T020000Z
-UID:9Ox9ce0Lon
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA young\, ambitious New York Cit
- y matchmaker finds herself torn between the perfect match and her imperfec
- t ex.\n\nhttps://www.siff.net/cinema/in-theaters/materialists
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Materialists
 DTSTART:20250613T233000Z
@@ -208,6 +181,21 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nA young\, ambitious New York Cit
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Life of Chuck
+DTSTART:20250623T230000Z
+DTEND:20250624T011000Z
+DTSTAMP:20250623T230000Z
+UID:Z6wNiSkq3a
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nFrom the hearts and minds of Ste
+ phen King and Mike Flanagan comes The Life of Chuck\, the extraordinary st
+ ory of an ordinary man. This unforgettable\, genre-bending tale celebrates
+  the life of Charles 'Chuck' Krantz as he experiences the wonder of love\,
+  the heartbreak of loss\, and the multitudes contained in all of us. Toro
+ nto International Film Festival 2024 People's Choice Award winner.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/life-of-chuck
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brokeback Mountain
 DTSTART:20250624T020000Z
 DTEND:20250624T043500Z
@@ -255,26 +243,28 @@ DTSTART:20250706T193000Z
 DTEND:20250706T211500Z
 DTSTAMP:20250706T193000Z
 UID:fbNNIGdsIM
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nA showcase of films made by filmm
- akers with visible and non-visible disabilities. Programmed exclusively by
-  disabled artists\, Slamdance Unstoppable: On the Road aims to eliminate t
- he prejudices and gate-keeping that have historically kept disabled filmma
- kers from being represented in the entertainment industry.\n\nhttps://www.
- siff.net/cinema/in-theaters/unstoppable
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nSlamdance Unstoppable: On the Roa
+ d A showcase of short films made by filmmakers with visible and non-visibl
+ e disabilities. Programmed exclusively by disabled artists\, Slamdance Uns
+ toppable: On the Road aims to eliminate the prejudices and gate-keeping th
+ at have historically kept disabled filmmakers from being represented in th
+ e entertainment industry. View From the Floor directors Megan Griffiths a
+ nd Mindie Lind scheduled to attend for post-screening Q&A.\n\nhttps://www.
+ siff.net/cinema/in-theaters/slamdance-unstoppable-on-the-road/unstoppable-
+ shorts
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unstoppable
+SUMMARY:Unstoppable Complicated
 DTSTART:20250706T233000Z
 DTEND:20250707T011500Z
 DTSTAMP:20250706T233000Z
-UID:jmhJRUK0Tn
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nA showcase of films made by filmm
- akers with visible and non-visible disabilities. Programmed exclusively by
-  disabled artists\, Slamdance Unstoppable: On the Road aims to eliminate t
- he prejudices and gate-keeping that have historically kept disabled filmma
- kers from being represented in the entertainment industry.\n\nhttps://www.
- siff.net/cinema/in-theaters/unstoppable
+UID:eyLAaUO8Ka
+DESCRIPTION:Duration: 83 mins (1h23m)\n\nSlamdance Unstoppable: On the Roa
+ d In a failing healthcare system\, children with complex\, invisible illne
+ ss and their families are labeled “too complicated” or torn apart by a
+ ccusations of medical child abuse. Documentary feature.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/slamdance-unstoppable-on-the-road/complicated
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
