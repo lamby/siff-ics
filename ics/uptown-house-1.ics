@@ -1,42 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250614T155736Z
+LAST-MODIFIED:20250615T180722Z
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Materialists
-DTSTART:20250614T203000Z
-DTEND:20250614T224000Z
-DTSTAMP:20250614T203000Z
-UID:8tDy3erNLm
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA young\, ambitious New York Cit
- y matchmaker finds herself torn between the perfect match and her imperfec
- t ex.\n\nhttps://www.siff.net/cinema/in-theaters/materialists
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Materialists
-DTSTART:20250614T233000Z
-DTEND:20250615T014000Z
-DTSTAMP:20250614T233000Z
-UID:FMvb8e3OiB
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA young\, ambitious New York Cit
- y matchmaker finds herself torn between the perfect match and her imperfec
- t ex.\n\nhttps://www.siff.net/cinema/in-theaters/materialists
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Materialists
-DTSTART:20250615T023000Z
-DTEND:20250615T044000Z
-DTSTAMP:20250615T023000Z
-UID:ekxlXogLt8
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA young\, ambitious New York Cit
- y matchmaker finds herself torn between the perfect match and her imperfec
- t ex.\n\nhttps://www.siff.net/cinema/in-theaters/materialists
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Materialists
 DTSTART:20250615T203000Z
@@ -427,6 +394,20 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nSeattle’s issues with gentrifi
  ge to a friend. 2022 Seattle International Film Festival Golden Space Need
  le Award - Best Film. Director Zia Mohajerjasbi scheduled to attend for p
  ost-film Q&A.\n\nhttps://www.siff.net/cinema/in-theaters/know-your-place
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:They Live
+DTSTART:20250814T010000Z
+DTEND:20250814T025500Z
+DTSTAMP:20250814T010000Z
+UID:VUDcsmrY4m
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nSIFF Movie Club A rugged loner (R
+ oddy Piper) stumbles upon a terrifying discovery: goulish creatures are ma
+ squerading as humans while they lull the public into submission through su
+ bliminal advertising messages. Introduced by SIFF Cinema Assistant Manage
+ r Tony Ochoa.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/
+ they-live
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
