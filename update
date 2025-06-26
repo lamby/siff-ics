@@ -29,7 +29,7 @@ re_collapse_newlines = re.compile(r"\n+")
 class SiffICS:
     PADDING = 20  # minutes
     START = datetime.date.today()
-    DAYS = 60
+    DAYS = 90
     LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
     BASE_URL = "https://www.siff.net/calendar?view=list&date="
 
