@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250703T153624Z
+LAST-MODIFIED:20250704T153851Z
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:The Phoenician Scheme
-DTSTART:20250703T231500Z
-DTEND:20250704T012000Z
-DTSTAMP:20250703T231500Z
-UID:tF1E8vpB0H
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nThe story of a family and a fami
- ly business. Benicio del Toro plays tycoon Anatole "Zsa-zsa" Korda\, one o
- f the richest men in Europe\; Mia Threapleton is Sister Liesl\, his daught
- er/a nun\; Michael Cera is Bjorn Lund\, an entomologist.\n\nhttps://www.si
- ff.net/cinema/in-theaters/phoenician-scheme
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:40 Acres
-DTSTART:20250704T021500Z
-DTEND:20250704T043000Z
-DTSTAMP:20250704T021500Z
-UID:46LKkjx1de
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nMusic video veteran R.T. Thorne 
- directs SAG nominee Danielle Deadwyler (The Piano Lesson) in this TIFF sen
- sation\, a speculative fiction thriller about a Black family in a starved\
- , post-civil war near future who must defend their farm from invading cann
- ibals.\n\nhttps://www.siff.net/cinema/in-theaters/40-acres
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:40 Acres
 DTSTART:20250704T194500Z
@@ -112,7 +86,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nSeattle’s issues with gentrifi
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unstoppable
+SUMMARY:Unstoppable Shorts
 DTSTART:20250706T193000Z
 DTEND:20250706T211500Z
 DTSTAMP:20250706T193000Z
@@ -494,6 +468,20 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nSIFF Movie Club Warm\, winning\,
   and gloriously alive\, Sean Baker’s The Florida Project is a deeply mov
  ing and unforgettably poignant look at childhood.\n\nhttps://www.siff.net/
  programs-and-events/siff-movie-club/the-florida-project
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Room
+DTSTART:20251002T010000Z
+DTEND:20251002T025500Z
+DTSTAMP:20251002T010000Z
+UID:g1OjoVw2NO
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nSIFF Movie Club Green Room is a b
+ rilliantly crafted and wickedly fun horror-thriller starring Patrick Stewa
+ rt as a diabolical club owner who squares off against an unsuspecting but 
+ resilient young punk band. Introduced by SIFF Cinema Assistant Manager Ton
+ y Ochoa.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/green
+ -room
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
