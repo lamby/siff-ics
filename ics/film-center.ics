@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250708T141221Z
+LAST-MODIFIED:20250709T151243Z
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
 BEGIN:VEVENT
@@ -216,6 +216,22 @@ DTSTART:20251005T200000Z
 DTEND:20251005T232000Z
 DTSTAMP:20251005T200000Z
 UID:1vYRIKx5Wn
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to Screen Oscar-nominated 
+ Rosamund Pike (Gone Girl\, Saltburn) is Jessica in the much-anticipated ne
+ xt play from the team behind Prima Facie. Jessica Parks is a smart Crown C
+ ourt Judge at the top of her career. Behind the robe\, she is a karaoke fi
+ end\, a loving wife and a supportive parent. When an event threatens to th
+ row her life completely off balance\, can she hold her family upright?\n\n
+ https://www.siff.net/programs-and-events/stage-to-screen/nt-live-inter-ali
+ a
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter Alia
+DTSTART:20251007T020000Z
+DTEND:20251007T052000Z
+DTSTAMP:20251007T020000Z
+UID:Z27KpOBjyY
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to Screen Oscar-nominated 
  Rosamund Pike (Gone Girl\, Saltburn) is Jessica in the much-anticipated ne
  xt play from the team behind Prima Facie. Jessica Parks is a smart Crown C
