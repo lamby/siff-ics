@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250709T151243Z
+LAST-MODIFIED:20250710T140952Z
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
 BEGIN:VEVENT
@@ -176,6 +176,19 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nChatila and Reda are Palestinian
   refugees stuck in Athens\, trying to figure out how to get to Germany\, h
  ow to stay alive in the meanwhile\, and how to do it all without losing th
  eir humanity.\n\nhttps://www.siff.net/cinema/in-theaters/to-a-land-unknown
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emerald City Short Film Festival
+DTSTART:20250803T013000Z
+DTEND:20250803T050500Z
+DTSTAMP:20250803T013000Z
+UID:mO2Q2TNsRh
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nThe Emerald City Short Film Fest
+ ival is a new film festival devoted to showcasing filmmakers local to Wash
+ ington and helping foster a diverse and welcoming community of filmmakers 
+ and movie enthusiasts. $10 ($7 SIFF Members and Students)\n\nhttps://www.s
+ iff.net/cinema/in-theaters/emerald-city-short-film-festival
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
