@@ -1,41 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250721T150812Z
+LAST-MODIFIED:20250722T152143Z
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-BEGIN:VEVENT
-SUMMARY:Jurassic World Rebirth
-DTSTART:20250721T224500Z
-DTEND:20250722T012000Z
-DTSTAMP:20250721T224500Z
-UID:1lQlS4VYR7
-DESCRIPTION:Duration: 134 mins (2h14m)\n\nFive years after the events of J
- urassic World Dominion\, the planet’s ecology has proven largely inhospi
- table to dinosaurs. Those remaining exist in isolated equatorial environme
- nts with climates resembling the one in which they once thrived. The three
-  most colossal creatures across land\, sea and air within that tropical bi
- osphere hold\, in their DNA\, the key to a drug that will bring miraculous
-  life-saving benefits to humankind.\n\nhttps://www.siff.net/cinema/in-thea
- ters/jurassic-world-rebirth
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jurassic World Rebirth
-DTSTART:20250722T023000Z
-DTEND:20250722T050500Z
-DTSTAMP:20250722T023000Z
-UID:mQkQFlijXC
-DESCRIPTION:Duration: 134 mins (2h14m)\n\nFive years after the events of J
- urassic World Dominion\, the planet’s ecology has proven largely inhospi
- table to dinosaurs. Those remaining exist in isolated equatorial environme
- nts with climates resembling the one in which they once thrived. The three
-  most colossal creatures across land\, sea and air within that tropical bi
- osphere hold\, in their DNA\, the key to a drug that will bring miraculous
-  life-saving benefits to humankind.\n\nhttps://www.siff.net/cinema/in-thea
- ters/jurassic-world-rebirth
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jurassic World Rebirth
 DTSTART:20250722T224500Z
@@ -386,6 +354,24 @@ DESCRIPTION:Duration: 162 mins (2h42m)\n\nAkira Kurosawa: A Retrospective
  on of “King Lear”—nominated for four Academy Awards including Best D
  irector—returns to the giant screen. New 4K restoration.\n\nhttps://www.
  siff.net/programs-and-events/akira-kurosawa-retrospective/ran
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anchorman
+DTSTART:20250808T023000Z
+DTEND:20250808T042500Z
+DTSTAMP:20250808T023000Z
+UID:rTZwoUUiTv
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nJoin SIFF for Talking Pictures\, 
+ a series of film experiences where local luminaries host a screening of a 
+ film of their choice at SIFF Cinemas and share with audiences how it has i
+ mpacted them. On August 7\, founder and editor of local satirical news out
+ let The Needling\, Lex Vaughn\, will present Anchorman: The Legend of Ron 
+ Burgundy (2004) at SIFF Cinema Downtown. The Talking Pictures series raise
+ s funds to support SIFF and a portion of the ticket price includes a donat
+ ion. TICKETS:$35 Sustainer$25 General | $20 Members$10 Child (under 12) Yo
+ u are encouraged to wear your best '70s news anchor outfit!\n\nhttps://www
+ .siff.net/programs-and-events/talking-pictures/lex-vaughn-anchorman
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -824,6 +810,74 @@ DTSTART:20250903T020000Z
 DTEND:20250903T042500Z
 DTSTAMP:20250903T020000Z
 UID:ghEB3WCvtV
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nOriginally released on June 20\,
+  1975\, Jaws\, based on the best-selling novel by Peter Benchley\, became 
+ the first true summer blockbuster and a cultural tsunami. Celebrate 50 yea
+ rs of Jaws with this new 4K restoration\, with four screenings presented i
+ n 3D. No OCAP for the 6:15pm 3D screening on August 31 3D screenings:Frida
+ y\, August 29 - 3:00pmSaturday\, August 30 - 9:30pmSunday\, August 31 - 6:
+ 15pmMonday\, September 1 - 3:45pm Open Caption screenings:Sunday\, August 
+ 31 - 12:00pm\, 3:00pm\, 9:30pmTuesday\, September 2 - 3:45pm\, 7:00pm\n\nh
+ ttps://www.siff.net/cinema/in-theaters/jaws
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws
+DTSTART:20250903T224500Z
+DTEND:20250904T011000Z
+DTSTAMP:20250903T224500Z
+UID:ZfOclis28N
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nOriginally released on June 20\,
+  1975\, Jaws\, based on the best-selling novel by Peter Benchley\, became 
+ the first true summer blockbuster and a cultural tsunami. Celebrate 50 yea
+ rs of Jaws with this new 4K restoration\, with four screenings presented i
+ n 3D. No OCAP for the 6:15pm 3D screening on August 31 3D screenings:Frida
+ y\, August 29 - 3:00pmSaturday\, August 30 - 9:30pmSunday\, August 31 - 6:
+ 15pmMonday\, September 1 - 3:45pm Open Caption screenings:Sunday\, August 
+ 31 - 12:00pm\, 3:00pm\, 9:30pmTuesday\, September 2 - 3:45pm\, 7:00pm\n\nh
+ ttps://www.siff.net/cinema/in-theaters/jaws
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws
+DTSTART:20250904T020000Z
+DTEND:20250904T042500Z
+DTSTAMP:20250904T020000Z
+UID:dx47QBlFuc
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nOriginally released on June 20\,
+  1975\, Jaws\, based on the best-selling novel by Peter Benchley\, became 
+ the first true summer blockbuster and a cultural tsunami. Celebrate 50 yea
+ rs of Jaws with this new 4K restoration\, with four screenings presented i
+ n 3D. No OCAP for the 6:15pm 3D screening on August 31 3D screenings:Frida
+ y\, August 29 - 3:00pmSaturday\, August 30 - 9:30pmSunday\, August 31 - 6:
+ 15pmMonday\, September 1 - 3:45pm Open Caption screenings:Sunday\, August 
+ 31 - 12:00pm\, 3:00pm\, 9:30pmTuesday\, September 2 - 3:45pm\, 7:00pm\n\nh
+ ttps://www.siff.net/cinema/in-theaters/jaws
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws
+DTSTART:20250904T224500Z
+DTEND:20250905T011000Z
+DTSTAMP:20250904T224500Z
+UID:AGTX1n6dLc
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nOriginally released on June 20\,
+  1975\, Jaws\, based on the best-selling novel by Peter Benchley\, became 
+ the first true summer blockbuster and a cultural tsunami. Celebrate 50 yea
+ rs of Jaws with this new 4K restoration\, with four screenings presented i
+ n 3D. No OCAP for the 6:15pm 3D screening on August 31 3D screenings:Frida
+ y\, August 29 - 3:00pmSaturday\, August 30 - 9:30pmSunday\, August 31 - 6:
+ 15pmMonday\, September 1 - 3:45pm Open Caption screenings:Sunday\, August 
+ 31 - 12:00pm\, 3:00pm\, 9:30pmTuesday\, September 2 - 3:45pm\, 7:00pm\n\nh
+ ttps://www.siff.net/cinema/in-theaters/jaws
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws
+DTSTART:20250905T020000Z
+DTEND:20250905T042500Z
+DTSTAMP:20250905T020000Z
+UID:480eEcQoY0
 DESCRIPTION:Duration: 124 mins (2h04m)\n\nOriginally released on June 20\,
   1975\, Jaws\, based on the best-selling novel by Peter Benchley\, became 
  the first true summer blockbuster and a cultural tsunami. Celebrate 50 yea
