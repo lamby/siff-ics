@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250722T152143Z
+LAST-MODIFIED:20250723T143307Z
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Sorry\, Baby
-DTSTART:20250722T230000Z
-DTEND:20250723T010500Z
-DTSTAMP:20250722T230000Z
-UID:lJQo40097F
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
- es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
- ncholic English professor’s complicated path toward healing in the after
- math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
- creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sorry\, Baby
-DTSTART:20250723T020000Z
-DTEND:20250723T040500Z
-DTSTAMP:20250723T020000Z
-UID:TXbMOw23ta
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
- es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
- ncholic English professor’s complicated path toward healing in the after
- math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
- creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sorry\, Baby
 DTSTART:20250723T230000Z
@@ -230,6 +204,19 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250730T230000Z
+DTEND:20250731T010500Z
+DTSTAMP:20250730T230000Z
+UID:genSuKWiqS
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Caught By the Tides
 DTSTART:20250731T020000Z
 DTEND:20250731T041500Z
@@ -242,6 +229,19 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250731T230000Z
+DTEND:20250801T010500Z
+DTSTAMP:20250731T230000Z
+UID:H9LGCU9Ujt
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Unstreamable Secret 2
 DTSTART:20250801T023000Z
 DTEND:20250801T042000Z
@@ -251,6 +251,90 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nUnstreamable Shhh… It’s a sec
  ret. Members: Make sure to sign in to your SIFF account before selecting a
   showtime.\n\nhttps://www.siff.net/programs-and-events/unstreamable/secret
  -screening-2
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folktales
+DTSTART:20250801T230000Z
+DTEND:20250802T010500Z
+DTSTAMP:20250801T230000Z
+UID:w9yNNUijgU
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
+ ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
+ in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/folktales
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folktales
+DTSTART:20250802T230000Z
+DTEND:20250803T010500Z
+DTSTAMP:20250802T230000Z
+UID:sVQ1sWitYD
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
+ ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
+ in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/folktales
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folktales
+DTSTART:20250803T230000Z
+DTEND:20250804T010500Z
+DTSTAMP:20250803T230000Z
+UID:0KckhUGYom
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
+ ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
+ in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/folktales
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folktales
+DTSTART:20250804T231500Z
+DTEND:20250805T012000Z
+DTSTAMP:20250804T231500Z
+UID:GVuIAMSSRR
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
+ ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
+ in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/folktales
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folktales
+DTSTART:20250805T231500Z
+DTEND:20250806T012000Z
+DTSTAMP:20250805T231500Z
+UID:XnpJi1mqG3
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
+ ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
+ in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/folktales
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folktales
+DTSTART:20250806T231500Z
+DTEND:20250807T012000Z
+DTSTAMP:20250806T231500Z
+UID:WHIAoypQ5H
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
+ ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
+ in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/folktales
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folktales
+DTSTART:20250807T231500Z
+DTEND:20250808T012000Z
+DTSTAMP:20250807T231500Z
+UID:DGFZyjoCn9
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
+ ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
+ in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/folktales
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
