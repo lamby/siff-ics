@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250723T143307Z
+LAST-MODIFIED:20250724T141851Z
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Film Project Premiere Screenings 2025
-DTSTART:20250724T013000Z
-DTEND:20250724T035000Z
-DTSTAMP:20250724T013000Z
-UID:wXYGnt5cJ9
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Create 48 Media Net
- work The Seattle 48 Hour Film Project is an annual competition where filmm
- akers create a short film in just 48 hours. Celebrating it’s 20th year i
- n 2025\, this event fosters creativity and community among Washington’s 
- vibrant filmmaking talent. Participants draw a genre from a hat\, and must
-  incorporate specific elements such as a character\, prop\, and line of di
- alogue into their films. The resulting short films are screened at SIFF Ci
- nema Uptown\, with the top film advancing to Filmapalooza 2026 in Lisbon\,
-  Portugal\, and a chance to be featured at the Cannes Film Festival 2026. 
- Join us for a weekend of creativity\, teamwork\, and cinematic magic! Pass
- es: $77 ($53 Members)Individual Tickets: $20 ($12 Members\, Students\, Se
- niors\, and Veterans)\n\nhttps://www.siff.net/cinema/in-theaters/seattle-4
- 8-hour-film-project-premiere-screenings-2025
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Film Project Premiere Screenings 2025
-DTSTART:20250724T040000Z
-DTEND:20250724T062000Z
-DTSTAMP:20250724T040000Z
-UID:DWpb6uA2O3
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Create 48 Media Net
- work The Seattle 48 Hour Film Project is an annual competition where filmm
- akers create a short film in just 48 hours. Celebrating it’s 20th year i
- n 2025\, this event fosters creativity and community among Washington’s 
- vibrant filmmaking talent. Participants draw a genre from a hat\, and must
-  incorporate specific elements such as a character\, prop\, and line of di
- alogue into their films. The resulting short films are screened at SIFF Ci
- nema Uptown\, with the top film advancing to Filmapalooza 2026 in Lisbon\,
-  Portugal\, and a chance to be featured at the Cannes Film Festival 2026. 
- Join us for a weekend of creativity\, teamwork\, and cinematic magic! Pass
- es: $77 ($53 Members)Individual Tickets: $20 ($12 Members\, Students\, Se
- niors\, and Veterans)\n\nhttps://www.siff.net/cinema/in-theaters/seattle-4
- 8-hour-film-project-premiere-screenings-2025
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomboy
 DTSTART:20250725T003000Z
@@ -282,6 +240,20 @@ DESCRIPTION:Duration: 70 mins (1h10m)\n\nThe world's #1 cat video festival
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It’s Never Over\, Jeff Buckley
+DTSTART:20250809T023000Z
+DTEND:20250809T044000Z
+DTSTAMP:20250809T023000Z
+UID:kjZchP36kO
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe definitive tale of Jeff Buck
+ ley\, the rising young star with an otherworldly voice whose suddan death 
+ at age 30\, after the release of his critically acclaimed debut album "Gra
+ ce\," shocked the world. Told through never-before-seen footage from Buckl
+ ey’s archives and intimate accounts.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/its-never-over-jeff-buckley
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CatVideoFest 2025
 DTSTART:20250809T200000Z
 DTEND:20250809T213000Z
@@ -294,6 +266,34 @@ DESCRIPTION:Duration: 70 mins (1h10m)\n\nThe world's #1 cat video festival
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It’s Never Over\, Jeff Buckley
+DTSTART:20250809T224500Z
+DTEND:20250810T005500Z
+DTSTAMP:20250809T224500Z
+UID:WywTirrV9g
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe definitive tale of Jeff Buck
+ ley\, the rising young star with an otherworldly voice whose suddan death 
+ at age 30\, after the release of his critically acclaimed debut album "Gra
+ ce\," shocked the world. Told through never-before-seen footage from Buckl
+ ey’s archives and intimate accounts.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/its-never-over-jeff-buckley
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It’s Never Over\, Jeff Buckley
+DTSTART:20250810T020000Z
+DTEND:20250810T041000Z
+DTSTAMP:20250810T020000Z
+UID:X5fn91mTUv
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe definitive tale of Jeff Buck
+ ley\, the rising young star with an otherworldly voice whose suddan death 
+ at age 30\, after the release of his critically acclaimed debut album "Gra
+ ce\," shocked the world. Told through never-before-seen footage from Buckl
+ ey’s archives and intimate accounts.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/its-never-over-jeff-buckley
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CatVideoFest 2025
 DTSTART:20250810T200000Z
 DTEND:20250810T213000Z
@@ -303,6 +303,34 @@ DESCRIPTION:Duration: 70 mins (1h10m)\n\nThe world's #1 cat video festival
   is back with screenings in theaters across the USA and around the world s
  tarting August 2025!\n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fe
  st
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It’s Never Over\, Jeff Buckley
+DTSTART:20250810T224500Z
+DTEND:20250811T005500Z
+DTSTAMP:20250810T224500Z
+UID:d9pTMQPIIv
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe definitive tale of Jeff Buck
+ ley\, the rising young star with an otherworldly voice whose suddan death 
+ at age 30\, after the release of his critically acclaimed debut album "Gra
+ ce\," shocked the world. Told through never-before-seen footage from Buckl
+ ey’s archives and intimate accounts.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/its-never-over-jeff-buckley
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It’s Never Over\, Jeff Buckley
+DTSTART:20250811T020000Z
+DTEND:20250811T041000Z
+DTSTAMP:20250811T020000Z
+UID:px6BYTRS8y
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe definitive tale of Jeff Buck
+ ley\, the rising young star with an otherworldly voice whose suddan death 
+ at age 30\, after the release of his critically acclaimed debut album "Gra
+ ce\," shocked the world. Told through never-before-seen footage from Buckl
+ ey’s archives and intimate accounts.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/its-never-over-jeff-buckley
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -323,6 +351,20 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Create 48 Media Net
   shot at the Cannes Film Festival! $20 ($12 Members\, Students\, Seniors\,
   and Veterans)\n\nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-
  film-project-screening-and-awards-2025
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It’s Never Over\, Jeff Buckley
+DTSTART:20250812T233000Z
+DTEND:20250813T014000Z
+DTSTAMP:20250812T233000Z
+UID:HOvYgCdyru
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe definitive tale of Jeff Buck
+ ley\, the rising young star with an otherworldly voice whose suddan death 
+ at age 30\, after the release of his critically acclaimed debut album "Gra
+ ce\," shocked the world. Told through never-before-seen footage from Buckl
+ ey’s archives and intimate accounts.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/its-never-over-jeff-buckley
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -349,6 +391,34 @@ DESCRIPTION:Duration: 128 mins (2h08m)\n\nWhen all but one child from the
  , a community is left questioning who or what is behind their disappearanc
  e. Tickets on sale beginning 9:00am PT on July 23.\n\nhttps://www.siff.net
  /cinema/in-theaters/weapons
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It’s Never Over\, Jeff Buckley
+DTSTART:20250814T224500Z
+DTEND:20250815T005500Z
+DTSTAMP:20250814T224500Z
+UID:lKM7Naobjc
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe definitive tale of Jeff Buck
+ ley\, the rising young star with an otherworldly voice whose suddan death 
+ at age 30\, after the release of his critically acclaimed debut album "Gra
+ ce\," shocked the world. Told through never-before-seen footage from Buckl
+ ey’s archives and intimate accounts.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/its-never-over-jeff-buckley
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It’s Never Over\, Jeff Buckley
+DTSTART:20250815T020000Z
+DTEND:20250815T041000Z
+DTSTAMP:20250815T020000Z
+UID:U7GviQtA4D
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe definitive tale of Jeff Buck
+ ley\, the rising young star with an otherworldly voice whose suddan death 
+ at age 30\, after the release of his critically acclaimed debut album "Gra
+ ce\," shocked the world. Told through never-before-seen footage from Buckl
+ ey’s archives and intimate accounts.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/its-never-over-jeff-buckley
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
