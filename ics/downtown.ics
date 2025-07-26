@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250725T154251Z
+LAST-MODIFIED:20250726T161950Z
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-BEGIN:VEVENT
-SUMMARY:Throne of Blood
-DTSTART:20250725T233000Z
-DTEND:20250726T014000Z
-DTSTAMP:20250725T233000Z
-UID:rk9iLdg6Bo
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nAkira Kurosawa: A Retrospective 
- A vivid\, visceral Macbeth adaptation sets Shakespeare’s definitive tale
-  of ambition and duplicity in a ghostly\, fog-enshrouded landscape in feud
- al Japan. New 4K restoration.\n\nhttps://www.siff.net/programs-and-events/
- akira-kurosawa-retrospective/throne-of-blood
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:High and Low
-DTSTART:20250726T023000Z
-DTEND:20250726T051500Z
-DTSTAMP:20250726T023000Z
-UID:gmv6XU58ey
-DESCRIPTION:Duration: 143 mins (2h23m)\n\nAkira Kurosawa: A Retrospective 
- Toshiro Mifune is unforgettable as Kingo Gondo\, a wealthy industrialist w
- hose family becomes the target of a cold-blooded kidnapper in this highly 
- influential domestic drama and police procedural. New 4K restoration.\n\nh
- ttps://www.siff.net/programs-and-events/akira-kurosawa-retrospective/high-
- and-low
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BFDI & Inanimate Insanity 2025 Tour
 DTSTART:20250726T180000Z
