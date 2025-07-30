@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250729T145100Z
+LAST-MODIFIED:20250730T150414Z
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-BEGIN:VEVENT
-SUMMARY:Seven Samurai
-DTSTART:20250730T020000Z
-DTEND:20250730T055000Z
-DTSTAMP:20250730T020000Z
-UID:xi7Ea8rLiv
-DESCRIPTION:Duration: 207 mins (3h27m)\n\nAkira Kurosawa: A Retrospective 
- A 16th-century farming village requests protection from seven samurai agai
- nst a horde of bandits who have warned they will return when the crops are
-  ripe. A gripping three-hour ride from master filmmaker Akira Kurosawa. 4
- K restoration.\n\nhttps://www.siff.net/programs-and-events/akira-kurosawa-
- retrospective/seven-samurai
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Beard
 DTSTART:20250731T020000Z
@@ -83,6 +69,19 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nAkira Kurosawa: A Retrospective
   of ambition and duplicity in a ghostly\, fog-enshrouded landscape in feud
  al Japan. New 4K restoration.\n\nhttps://www.siff.net/programs-and-events/
  akira-kurosawa-retrospective/throne-of-blood
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ran
+DTSTART:20250802T210000Z
+DTEND:20250803T000500Z
+DTSTAMP:20250802T210000Z
+UID:68cPoUgYyp
+DESCRIPTION:Duration: 162 mins (2h42m)\n\nAkira Kurosawa: A Retrospective 
+ Akira Kurosawa’s favorite of his films\, this innovative\, epic adaptati
+ on of “King Lear”—nominated for four Academy Awards including Best D
+ irector—returns to the giant screen. New 4K restoration.\n\nhttps://www.
+ siff.net/programs-and-events/akira-kurosawa-retrospective/ran
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -755,6 +754,474 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nOriginally released on June 20\,
  15pmMonday\, September 1 - 3:45pm Open Caption screenings:Sunday\, August 
  31 - 12:00pm\, 3:00pm\, 9:30pmTuesday\, September 2 - 3:45pm\, 7:00pm\n\nh
  ttps://www.siff.net/cinema/in-theaters/jaws
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE PHANTOM MENACE
+DTSTART:20250905T182500Z
+DTEND:20250905T210500Z
+DTSTAMP:20250905T182500Z
+UID:uXF9F2L0kp
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Jedi Knights discover Anakin Skywalker\, a boy unusually strong
+  in the Force. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-phantom-menace
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: ATTACK OF THE CLONES
+DTSTART:20250905T214000Z
+DTEND:20250906T002500Z
+DTSTAMP:20250905T214000Z
+UID:QVgj4dmB3j
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Young Anakin and Padmé fall in love as galactic war looms. Spe
+ cial Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $
+ 17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-c
+ inematic-marathon/attack-of-the-clones
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: REVENGE OF THE SITH
+DTSTART:20250906T010000Z
+DTEND:20250906T034000Z
+DTSTAMP:20250906T010000Z
+UID:UwrcvkngAo
+DESCRIPTION:Duration: 140 mins (2h20m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon As the Republic falls\, a new regime lead by an ancient evil ri
+ ses in its place. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 S
+ eniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events
+ /star-wars-ultimate-cinematic-marathon/revenge-of-the-sith
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLO: A STAR WARS STORY
+DTSTART:20250906T043000Z
+DTEND:20250906T070500Z
+DTSTAMP:20250906T043000Z
+UID:8SJdZa27J4
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Witness the beginning of the Star Wars saga’s most unlikely h
+ ero. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/solo-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROGUE ONE: A STAR WARS STORY
+DTSTART:20250906T183500Z
+DTEND:20250906T211000Z
+DTSTAMP:20250906T183500Z
+UID:6jtEGmgW9K
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Unlikely heroes band together to steal the plans to the Death S
+ tar. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/rogue-one-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: A NEW HOPE
+DTSTART:20250906T220000Z
+DTEND:20250907T002500Z
+DTSTAMP:20250906T220000Z
+UID:m2dRoCY5Z3
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A young farm boy intercepts a distress call from Princess Leia 
+ Organa of Alderaan. Special Engagement Pricing:$22 ($19 SIFF Members\; $21
+  Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-even
+ ts/star-wars-ultimate-cinematic-marathon/a-new-hope
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: EMPIRE STRIKES BACK
+DTSTART:20250907T011500Z
+DTEND:20250907T034000Z
+DTSTAMP:20250907T011500Z
+UID:n9mta38Oll
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker trains as a Jedi in order to confront the evil S
+ ith Lord\, Darth Vader. Special Engagement Pricing:$22 ($19 SIFF Members\;
+  $21 Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-
+ events/star-wars-ultimate-cinematic-marathon/the-empire-strikes-back
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: RETURN OF THE JEDI
+DTSTART:20250907T043000Z
+DTEND:20250907T070500Z
+DTSTAMP:20250907T043000Z
+UID:2cMI8NuCG3
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker faces Darth Vader in a final duel. Special Engag
+ ement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)\
+ n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-m
+ arathon/return-of-the-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE FORCE AWAKENS
+DTSTART:20250907T193000Z
+DTEND:20250907T221000Z
+DTSTAMP:20250907T193000Z
+UID:VREIHrRivm
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A lonely scavenger finds herself at the center of a galactic co
+ nflict. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, S
+ tudents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars
+ -ultimate-cinematic-marathon/the-force-awakens
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE LAST JEDI
+DTSTART:20250907T225000Z
+DTEND:20250908T014500Z
+DTSTAMP:20250907T225000Z
+UID:GvJJE2o4b8
+DESCRIPTION:Duration: 152 mins (2h32m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A spark of hope keeps the Resistance alive as they flee from th
+ e First Order. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-last-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE RISE OF SKYWALKER
+DTSTART:20250908T023000Z
+DTEND:20250908T051500Z
+DTSTAMP:20250908T023000Z
+UID:5B64CXb9sE
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon The landmark Skywalker saga comes to a conclusion. Special Enga
+ gement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)
+ \n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-
+ marathon/the-rise-of-skywalker
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLO: A STAR WARS STORY
+DTSTART:20250908T230000Z
+DTEND:20250909T013500Z
+DTSTAMP:20250908T230000Z
+UID:l4DxpNiDPX
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Witness the beginning of the Star Wars saga’s most unlikely h
+ ero. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/solo-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROGUE ONE: A STAR WARS STORY
+DTSTART:20250909T023000Z
+DTEND:20250909T050500Z
+DTSTAMP:20250909T023000Z
+UID:cdBRPfJPjM
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Unlikely heroes band together to steal the plans to the Death S
+ tar. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/rogue-one-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: A NEW HOPE
+DTSTART:20250909T230000Z
+DTEND:20250910T012500Z
+DTSTAMP:20250909T230000Z
+UID:W2T5Z2CaTc
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A young farm boy intercepts a distress call from Princess Leia 
+ Organa of Alderaan. Special Engagement Pricing:$22 ($19 SIFF Members\; $21
+  Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-even
+ ts/star-wars-ultimate-cinematic-marathon/a-new-hope
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE FORCE AWAKENS
+DTSTART:20250910T023000Z
+DTEND:20250910T051000Z
+DTSTAMP:20250910T023000Z
+UID:XHJ5LpF42d
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A lonely scavenger finds herself at the center of a galactic co
+ nflict. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, S
+ tudents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars
+ -ultimate-cinematic-marathon/the-force-awakens
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: EMPIRE STRIKES BACK
+DTSTART:20250910T230000Z
+DTEND:20250911T012500Z
+DTSTAMP:20250910T230000Z
+UID:pLlEtHjIK3
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker trains as a Jedi in order to confront the evil S
+ ith Lord\, Darth Vader. Special Engagement Pricing:$22 ($19 SIFF Members\;
+  $21 Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-
+ events/star-wars-ultimate-cinematic-marathon/the-empire-strikes-back
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE LAST JEDI
+DTSTART:20250911T023000Z
+DTEND:20250911T052500Z
+DTSTAMP:20250911T023000Z
+UID:v99qAur8lC
+DESCRIPTION:Duration: 152 mins (2h32m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A spark of hope keeps the Resistance alive as they flee from th
+ e First Order. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-last-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: RETURN OF THE JEDI
+DTSTART:20250911T230000Z
+DTEND:20250912T013500Z
+DTSTAMP:20250911T230000Z
+UID:8Vj85Vx4eU
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker faces Darth Vader in a final duel. Special Engag
+ ement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)\
+ n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-m
+ arathon/return-of-the-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE RISE OF SKYWALKER
+DTSTART:20250912T023000Z
+DTEND:20250912T051500Z
+DTSTAMP:20250912T023000Z
+UID:qwD83Cu5l7
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon The landmark Skywalker saga comes to a conclusion. Special Enga
+ gement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)
+ \n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-
+ marathon/the-rise-of-skywalker
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: A NEW HOPE
+DTSTART:20250912T200000Z
+DTEND:20250912T222500Z
+DTSTAMP:20250912T200000Z
+UID:iU41VmmZh2
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A young farm boy intercepts a distress call from Princess Leia 
+ Organa of Alderaan. Special Engagement Pricing:$22 ($19 SIFF Members\; $21
+  Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-even
+ ts/star-wars-ultimate-cinematic-marathon/a-new-hope
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: EMPIRE STRIKES BACK
+DTSTART:20250912T231500Z
+DTEND:20250913T014000Z
+DTSTAMP:20250912T231500Z
+UID:g7QbeY8TKN
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker trains as a Jedi in order to confront the evil S
+ ith Lord\, Darth Vader. Special Engagement Pricing:$22 ($19 SIFF Members\;
+  $21 Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-
+ events/star-wars-ultimate-cinematic-marathon/the-empire-strikes-back
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: RETURN OF THE JEDI
+DTSTART:20250913T023000Z
+DTEND:20250913T050500Z
+DTSTAMP:20250913T023000Z
+UID:U2aZJbTgWV
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker faces Darth Vader in a final duel. Special Engag
+ ement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)\
+ n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-m
+ arathon/return-of-the-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE PHANTOM MENACE
+DTSTART:20250913T194500Z
+DTEND:20250913T222500Z
+DTSTAMP:20250913T194500Z
+UID:iaFrfqEOUF
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Jedi Knights discover Anakin Skywalker\, a boy unusually strong
+  in the Force. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-phantom-menace
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: ATTACK OF THE CLONES
+DTSTART:20250913T230000Z
+DTEND:20250914T014500Z
+DTSTAMP:20250913T230000Z
+UID:mC1kapUWwp
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Young Anakin and Padmé fall in love as galactic war looms. Spe
+ cial Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $
+ 17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-c
+ inematic-marathon/attack-of-the-clones
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: REVENGE OF THE SITH
+DTSTART:20250914T023000Z
+DTEND:20250914T051000Z
+DTSTAMP:20250914T023000Z
+UID:WYIGh36dJS
+DESCRIPTION:Duration: 140 mins (2h20m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon As the Republic falls\, a new regime lead by an ancient evil ri
+ ses in its place. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 S
+ eniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events
+ /star-wars-ultimate-cinematic-marathon/revenge-of-the-sith
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE FORCE AWAKENS
+DTSTART:20250914T193000Z
+DTEND:20250914T221000Z
+DTSTAMP:20250914T193000Z
+UID:EdxXmnetik
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A lonely scavenger finds herself at the center of a galactic co
+ nflict. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, S
+ tudents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars
+ -ultimate-cinematic-marathon/the-force-awakens
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE LAST JEDI
+DTSTART:20250914T225000Z
+DTEND:20250915T014500Z
+DTSTAMP:20250914T225000Z
+UID:CpAwDXJgLq
+DESCRIPTION:Duration: 152 mins (2h32m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A spark of hope keeps the Resistance alive as they flee from th
+ e First Order. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-last-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE RISE OF SKYWALKER
+DTSTART:20250915T023000Z
+DTEND:20250915T051500Z
+DTSTAMP:20250915T023000Z
+UID:TSu45Yidqg
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon The landmark Skywalker saga comes to a conclusion. Special Enga
+ gement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)
+ \n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-
+ marathon/the-rise-of-skywalker
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROGUE ONE: A STAR WARS STORY
+DTSTART:20250915T230000Z
+DTEND:20250916T013500Z
+DTSTAMP:20250915T230000Z
+UID:tomFjZ4T7N
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Unlikely heroes band together to steal the plans to the Death S
+ tar. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/rogue-one-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: A NEW HOPE
+DTSTART:20250916T023000Z
+DTEND:20250916T045500Z
+DTSTAMP:20250916T023000Z
+UID:gfTQhGSvrw
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A young farm boy intercepts a distress call from Princess Leia 
+ Organa of Alderaan. Special Engagement Pricing:$22 ($19 SIFF Members\; $21
+  Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-even
+ ts/star-wars-ultimate-cinematic-marathon/a-new-hope
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE PHANTOM MENACE
+DTSTART:20250916T230000Z
+DTEND:20250917T014000Z
+DTSTAMP:20250916T230000Z
+UID:kbnThR0Kdo
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Jedi Knights discover Anakin Skywalker\, a boy unusually strong
+  in the Force. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-phantom-menace
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: EMPIRE STRIKES BACK
+DTSTART:20250917T023000Z
+DTEND:20250917T045500Z
+DTSTAMP:20250917T023000Z
+UID:awDnfSJQj4
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker trains as a Jedi in order to confront the evil S
+ ith Lord\, Darth Vader. Special Engagement Pricing:$22 ($19 SIFF Members\;
+  $21 Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-
+ events/star-wars-ultimate-cinematic-marathon/the-empire-strikes-back
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: ATTACK OF THE CLONES
+DTSTART:20250917T230000Z
+DTEND:20250918T014500Z
+DTSTAMP:20250917T230000Z
+UID:fTpBMKCKub
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Young Anakin and Padmé fall in love as galactic war looms. Spe
+ cial Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $
+ 17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-c
+ inematic-marathon/attack-of-the-clones
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: RETURN OF THE JEDI
+DTSTART:20250918T023000Z
+DTEND:20250918T050500Z
+DTSTAMP:20250918T023000Z
+UID:f8vxHDLYtr
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker faces Darth Vader in a final duel. Special Engag
+ ement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)\
+ n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-m
+ arathon/return-of-the-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: REVENGE OF THE SITH
+DTSTART:20250918T230000Z
+DTEND:20250919T014000Z
+DTSTAMP:20250918T230000Z
+UID:neok9cSfFO
+DESCRIPTION:Duration: 140 mins (2h20m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon As the Republic falls\, a new regime lead by an ancient evil ri
+ ses in its place. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 S
+ eniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events
+ /star-wars-ultimate-cinematic-marathon/revenge-of-the-sith
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLO: A STAR WARS STORY
+DTSTART:20250919T023000Z
+DTEND:20250919T050500Z
+DTSTAMP:20250919T023000Z
+UID:b1DZMC1o4V
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Witness the beginning of the Star Wars saga’s most unlikely h
+ ero. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/solo-a-star-wars-story
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 END:VCALENDAR

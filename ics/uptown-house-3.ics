@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250729T145100Z
+LAST-MODIFIED:20250730T150414Z
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Caught By the Tides
-DTSTART:20250729T230000Z
-DTEND:20250730T011500Z
-DTSTAMP:20250729T230000Z
-UID:LW5ZurYJ8W
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
- a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
- s taken his boldest approach to narrative yet with his marvelous Caught by
-  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caught By the Tides
-DTSTART:20250730T020000Z
-DTEND:20250730T041500Z
-DTSTAMP:20250730T020000Z
-UID:I1WlMKY4Gw
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
- a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
- s taken his boldest approach to narrative yet with his marvelous Caught by
-  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sorry\, Baby
 DTSTART:20250730T230000Z
@@ -91,6 +67,44 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caught By the Tides
+DTSTART:20250802T020000Z
+DTEND:20250802T041500Z
+DTSTAMP:20250802T020000Z
+UID:5EM2JOOfou
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
+ a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
+ s taken his boldest approach to narrative yet with his marvelous Caught by
+  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250802T200000Z
+DTEND:20250802T220500Z
+DTSTAMP:20250802T200000Z
+UID:N6x5wOkmKF
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250803T020000Z
+DTEND:20250803T040500Z
+DTSTAMP:20250803T020000Z
+UID:Mr3716F4RQ
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Folktales
 DTSTART:20250802T230000Z
 DTEND:20250803T010500Z
@@ -100,6 +114,32 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
  ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
  in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
  ma/in-theaters/folktales
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250803T200000Z
+DTEND:20250803T220500Z
+DTSTAMP:20250803T200000Z
+UID:0ZxZNQtt1j
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250804T020000Z
+DTEND:20250804T040500Z
+DTSTAMP:20250804T020000Z
+UID:vv2mfWcROr
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -127,6 +167,18 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250805T020000Z
+DTEND:20250805T045000Z
+DTSTAMP:20250805T020000Z
+UID:eqpsm3eHG4
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Folktales
 DTSTART:20250805T231500Z
 DTEND:20250806T012000Z
@@ -136,6 +188,19 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
  ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
  in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
  ma/in-theaters/folktales
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250806T021500Z
+DTEND:20250806T042000Z
+DTSTAMP:20250806T021500Z
+UID:afE1McFmGY
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -151,6 +216,18 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caught By the Tides
+DTSTART:20250807T021500Z
+DTEND:20250807T043000Z
+DTSTAMP:20250807T021500Z
+UID:jKQjxAEas0
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
+ a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
+ s taken his boldest approach to narrative yet with his marvelous Caught by
+  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Folktales
 DTSTART:20250807T231500Z
 DTEND:20250808T012000Z
@@ -160,6 +237,18 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
  ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
  in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
  ma/in-theaters/folktales
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250808T020000Z
+DTEND:20250808T045000Z
+DTSTAMP:20250808T020000Z
+UID:vRTvmQr7kX
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

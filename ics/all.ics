@@ -1,100 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250729T145100Z
+LAST-MODIFIED:20250730T150414Z
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-BEGIN:VEVENT
-SUMMARY:Eddington
-DTSTART:20250729T224500Z
-DTEND:20250730T013500Z
-DTSTAMP:20250729T224500Z
-UID:bgrKM4XqYG
-DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
- een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
-  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
- xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eddington
-DTSTART:20250730T021500Z
-DTEND:20250730T050500Z
-DTSTAMP:20250730T021500Z
-UID:OPBFdnSlUn
-DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
- een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
-  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
- xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caught By the Tides
-DTSTART:20250729T230000Z
-DTEND:20250730T011500Z
-DTSTAMP:20250729T230000Z
-UID:LW5ZurYJ8W
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
- a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
- s taken his boldest approach to narrative yet with his marvelous Caught by
-  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caught By the Tides
-DTSTART:20250730T020000Z
-DTEND:20250730T041500Z
-DTSTAMP:20250730T020000Z
-UID:I1WlMKY4Gw
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
- a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
- s taken his boldest approach to narrative yet with his marvelous Caught by
-  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sorry\, Baby
-DTSTART:20250729T231500Z
-DTEND:20250730T012000Z
-DTSTAMP:20250729T231500Z
-UID:F08HB7I5GM
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
- es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
- ncholic English professor’s complicated path toward healing in the after
- math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
- creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven Samurai
-DTSTART:20250730T020000Z
-DTEND:20250730T055000Z
-DTSTAMP:20250730T020000Z
-UID:xi7Ea8rLiv
-DESCRIPTION:Duration: 207 mins (3h27m)\n\nAkira Kurosawa: A Retrospective 
- A 16th-century farming village requests protection from seven samurai agai
- nst a horde of bandits who have warned they will return when the crops are
-  ripe. A gripping three-hour ride from master filmmaker Akira Kurosawa. 4
- K restoration.\n\nhttps://www.siff.net/programs-and-events/akira-kurosawa-
- retrospective/seven-samurai
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Together
-DTSTART:20250730T023000Z
-DTEND:20250730T043500Z
-DTSTAMP:20250730T023000Z
-UID:APfLs5ltIC
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nYears into their relationship\, 
- Tim and Millie (Dave Franco and Alison Brie) find themselves at a crossroa
- ds as they move to the country\, abandoning all that is familiar in their 
- lives except each other. With tensions already flaring\, a nightmarish enc
- ounter with a mysterious\, unnatural force threatens to corrupt their live
- s\, their love\, and their flesh. Note: No Open Captions on July 29. "[A] 
- delightfully unhinged spin on the body horror joint."—Kate Erbland\, In
- dieWire\n\nhttps://www.siff.net/cinema/in-theaters/together
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eddington
 DTSTART:20250730T223000Z
@@ -311,6 +220,19 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250801T231500Z
+DTEND:20250802T012000Z
+DTSTAMP:20250801T231500Z
+UID:NJx8aD2R1i
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Together
 DTSTART:20250801T233000Z
 DTEND:20250802T013500Z
@@ -356,6 +278,30 @@ DESCRIPTION:Duration: 143 mins (2h23m)\n\nAkira Kurosawa: A Retrospective
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caught By the Tides
+DTSTART:20250802T020000Z
+DTEND:20250802T041500Z
+DTSTAMP:20250802T020000Z
+UID:5EM2JOOfou
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
+ a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
+ s taken his boldest approach to narrative yet with his marvelous Caught by
+  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250802T021500Z
+DTEND:20250802T050500Z
+DTSTAMP:20250802T021500Z
+UID:n8gAtnf9tt
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Throne of Blood
 DTSTART:20250802T043000Z
 DTEND:20250802T064000Z
@@ -367,6 +313,56 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nAkira Kurosawa: A Retrospective
  al Japan. New 4K restoration.\n\nhttps://www.siff.net/programs-and-events/
  akira-kurosawa-retrospective/throne-of-blood
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250802T194500Z
+DTEND:20250802T223500Z
+DTSTAMP:20250802T194500Z
+UID:Dlrmwnr6ca
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250803T021500Z
+DTEND:20250803T050500Z
+DTSTAMP:20250803T021500Z
+UID:eKc6suKYjs
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250802T200000Z
+DTEND:20250802T220500Z
+DTSTAMP:20250802T200000Z
+UID:N6x5wOkmKF
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250803T020000Z
+DTEND:20250803T040500Z
+DTSTAMP:20250803T020000Z
+UID:Mr3716F4RQ
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Together
@@ -417,6 +413,19 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nYears into their relationship\,
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ran
+DTSTART:20250802T210000Z
+DTEND:20250803T000500Z
+DTSTAMP:20250802T210000Z
+UID:68cPoUgYyp
+DESCRIPTION:Duration: 162 mins (2h42m)\n\nAkira Kurosawa: A Retrospective 
+ Akira Kurosawa’s favorite of his films\, this innovative\, epic adaptati
+ on of “King Lear”—nominated for four Academy Awards including Best D
+ irector—returns to the giant screen. New 4K restoration.\n\nhttps://www.
+ siff.net/programs-and-events/akira-kurosawa-retrospective/ran
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Folktales
 DTSTART:20250802T230000Z
 DTEND:20250803T010500Z
@@ -427,6 +436,18 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
  in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
  ma/in-theaters/folktales
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caught By the Tides
+DTSTART:20250802T231500Z
+DTEND:20250803T013000Z
+DTSTAMP:20250802T231500Z
+UID:jCt1DSeYU8
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
+ a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
+ s taken his boldest approach to narrative yet with his marvelous Caught by
+  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:High and Low
@@ -482,6 +503,56 @@ DESCRIPTION:Duration: 143 mins (2h23m)\n\nAkira Kurosawa: A Retrospective
  ttps://www.siff.net/programs-and-events/akira-kurosawa-retrospective/high-
  and-low
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250803T194500Z
+DTEND:20250803T223500Z
+DTSTAMP:20250803T194500Z
+UID:cFW3iorIhh
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250804T021500Z
+DTEND:20250804T050500Z
+DTSTAMP:20250804T021500Z
+UID:kJB0stlFAT
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250803T200000Z
+DTEND:20250803T220500Z
+DTSTAMP:20250803T200000Z
+UID:0ZxZNQtt1j
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250804T020000Z
+DTEND:20250804T040500Z
+DTSTAMP:20250804T020000Z
+UID:vv2mfWcROr
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Together
@@ -557,6 +628,18 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caught By the Tides
+DTSTART:20250803T231500Z
+DTEND:20250804T013000Z
+DTSTAMP:20250803T231500Z
+UID:WiXq84FD8I
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
+ a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
+ s taken his boldest approach to narrative yet with his marvelous Caught by
+  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Hidden Fortress
 DTSTART:20250804T030000Z
 DTEND:20250804T054000Z
@@ -569,6 +652,19 @@ DESCRIPTION:Duration: 139 mins (2h19m)\n\nAkira Kurosawa: A Retrospective
  . New 4K restoration.\n\nhttps://www.siff.net/programs-and-events/akira-ku
  rosawa-retrospective/the-hidden-fortress
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250804T230000Z
+DTEND:20250805T010500Z
+DTSTAMP:20250804T230000Z
+UID:E8aqjy0sBL
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Folktales
@@ -629,6 +725,42 @@ DESCRIPTION:Duration: 207 mins (3h27m)\n\nAkira Kurosawa: A Retrospective
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250805T020000Z
+DTEND:20250805T045000Z
+DTSTAMP:20250805T020000Z
+UID:eqpsm3eHG4
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caught By the Tides
+DTSTART:20250805T021500Z
+DTEND:20250805T043000Z
+DTSTAMP:20250805T021500Z
+UID:eKZTcMD1n6
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
+ a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
+ s taken his boldest approach to narrative yet with his marvelous Caught by
+  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caught By the Tides
+DTSTART:20250805T230000Z
+DTEND:20250806T011500Z
+DTSTAMP:20250805T230000Z
+UID:0pHUKmrR8O
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
+ a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
+ s taken his boldest approach to narrative yet with his marvelous Caught by
+  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Folktales
 DTSTART:20250805T231500Z
 DTEND:20250806T012000Z
@@ -686,6 +818,31 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nAkira Kurosawa: A Retrospective A
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250806T020000Z
+DTEND:20250806T045000Z
+DTSTAMP:20250806T020000Z
+UID:8aBqCFSZlE
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250806T021500Z
+DTEND:20250806T042000Z
+DTSTAMP:20250806T021500Z
+UID:afE1McFmGY
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stray Dog
 DTSTART:20250806T033000Z
 DTEND:20250806T055500Z
@@ -698,6 +855,19 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nAkira Kurosawa: A Retrospective
  criminal mind. New 4K restoration.\n\nhttps://www.siff.net/programs-and-ev
  ents/akira-kurosawa-retrospective/stray-dog
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry\, Baby
+DTSTART:20250806T230000Z
+DTEND:20250807T010500Z
+DTSTAMP:20250806T230000Z
+UID:StspygnKnU
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
+ es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
+ ncholic English professor’s complicated path toward healing in the after
+ math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
+ creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Folktales
@@ -744,6 +914,18 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nYears into their relationship\,
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250807T020000Z
+DTEND:20250807T045000Z
+DTSTAMP:20250807T020000Z
+UID:PwdXYqhwFR
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ran
 DTSTART:20250807T020000Z
 DTEND:20250807T050500Z
@@ -755,6 +937,30 @@ DESCRIPTION:Duration: 162 mins (2h42m)\n\nAkira Kurosawa: A Retrospective
  irector—returns to the giant screen. New 4K restoration.\n\nhttps://www.
  siff.net/programs-and-events/akira-kurosawa-retrospective/ran
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caught By the Tides
+DTSTART:20250807T021500Z
+DTEND:20250807T043000Z
+DTSTAMP:20250807T021500Z
+UID:jKQjxAEas0
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
+ a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
+ s taken his boldest approach to narrative yet with his marvelous Caught by
+  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caught By the Tides
+DTSTART:20250807T230000Z
+DTEND:20250808T011500Z
+DTSTAMP:20250807T230000Z
+UID:JtwR2RlxaI
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe preeminent dramatist of Chin
+ a’s rapid 21st-century growth and social transformation\, Jia Zhangke ha
+ s taken his boldest approach to narrative yet with his marvelous Caught by
+  the Tides.\n\nhttps://www.siff.net/cinema/in-theaters/caught-by-the-tides
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Folktales
@@ -799,6 +1005,18 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nYears into their relationship\,
  delightfully unhinged spin on the body horror joint."—Kate Erbland\, In
  dieWire\n\nhttps://www.siff.net/cinema/in-theaters/together
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eddington
+DTSTART:20250808T020000Z
+DTEND:20250808T045000Z
+DTSTAMP:20250808T020000Z
+UID:vRTvmQr7kX
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
+ een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
+  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
+ xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weapons
@@ -1544,11 +1762,11 @@ DTEND:20250814T025500Z
 DTSTAMP:20250814T010000Z
 UID:VUDcsmrY4m
 DESCRIPTION:Duration: 94 mins (1h34m)\n\nSIFF Movie Club A rugged loner (R
- oddy Piper) stumbles upon a terrifying discovery: goulish creatures are ma
- squerading as humans while they lull the public into submission through su
- bliminal advertising messages.  Introduced by SIFF Cinema Assistant Manag
- er Tony Ochoa.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club
- /they-live
+ oddy Piper) stumbles upon a terrifying discovery: ghoulish creatures are m
+ asquerading as humans while they lull the public into submission through s
+ ubliminal advertising messages.  Introduced by SIFF Cinema Assistant Mana
+ ger Tony Ochoa.\n\nhttps://www.siff.net/programs-and-events/siff-movie-clu
+ b/they-live
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2018,6 +2236,409 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nOriginally released on June 20\,
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:STAR WARS: THE PHANTOM MENACE
+DTSTART:20250905T182500Z
+DTEND:20250905T210500Z
+DTSTAMP:20250905T182500Z
+UID:uXF9F2L0kp
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Jedi Knights discover Anakin Skywalker\, a boy unusually strong
+  in the Force. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-phantom-menace
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: ATTACK OF THE CLONES
+DTSTART:20250905T214000Z
+DTEND:20250906T002500Z
+DTSTAMP:20250905T214000Z
+UID:QVgj4dmB3j
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Young Anakin and Padmé fall in love as galactic war looms. Spe
+ cial Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $
+ 17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-c
+ inematic-marathon/attack-of-the-clones
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: REVENGE OF THE SITH
+DTSTART:20250906T010000Z
+DTEND:20250906T034000Z
+DTSTAMP:20250906T010000Z
+UID:UwrcvkngAo
+DESCRIPTION:Duration: 140 mins (2h20m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon As the Republic falls\, a new regime lead by an ancient evil ri
+ ses in its place. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 S
+ eniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events
+ /star-wars-ultimate-cinematic-marathon/revenge-of-the-sith
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLO: A STAR WARS STORY
+DTSTART:20250906T043000Z
+DTEND:20250906T070500Z
+DTSTAMP:20250906T043000Z
+UID:8SJdZa27J4
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Witness the beginning of the Star Wars saga’s most unlikely h
+ ero. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/solo-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROGUE ONE: A STAR WARS STORY
+DTSTART:20250906T183500Z
+DTEND:20250906T211000Z
+DTSTAMP:20250906T183500Z
+UID:6jtEGmgW9K
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Unlikely heroes band together to steal the plans to the Death S
+ tar. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/rogue-one-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: A NEW HOPE
+DTSTART:20250906T220000Z
+DTEND:20250907T002500Z
+DTSTAMP:20250906T220000Z
+UID:m2dRoCY5Z3
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A young farm boy intercepts a distress call from Princess Leia 
+ Organa of Alderaan. Special Engagement Pricing:$22 ($19 SIFF Members\; $21
+  Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-even
+ ts/star-wars-ultimate-cinematic-marathon/a-new-hope
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: EMPIRE STRIKES BACK
+DTSTART:20250907T011500Z
+DTEND:20250907T034000Z
+DTSTAMP:20250907T011500Z
+UID:n9mta38Oll
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker trains as a Jedi in order to confront the evil S
+ ith Lord\, Darth Vader. Special Engagement Pricing:$22 ($19 SIFF Members\;
+  $21 Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-
+ events/star-wars-ultimate-cinematic-marathon/the-empire-strikes-back
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: RETURN OF THE JEDI
+DTSTART:20250907T043000Z
+DTEND:20250907T070500Z
+DTSTAMP:20250907T043000Z
+UID:2cMI8NuCG3
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker faces Darth Vader in a final duel. Special Engag
+ ement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)\
+ n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-m
+ arathon/return-of-the-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE FORCE AWAKENS
+DTSTART:20250907T193000Z
+DTEND:20250907T221000Z
+DTSTAMP:20250907T193000Z
+UID:VREIHrRivm
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A lonely scavenger finds herself at the center of a galactic co
+ nflict. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, S
+ tudents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars
+ -ultimate-cinematic-marathon/the-force-awakens
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE LAST JEDI
+DTSTART:20250907T225000Z
+DTEND:20250908T014500Z
+DTSTAMP:20250907T225000Z
+UID:GvJJE2o4b8
+DESCRIPTION:Duration: 152 mins (2h32m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A spark of hope keeps the Resistance alive as they flee from th
+ e First Order. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-last-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE RISE OF SKYWALKER
+DTSTART:20250908T023000Z
+DTEND:20250908T051500Z
+DTSTAMP:20250908T023000Z
+UID:5B64CXb9sE
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon The landmark Skywalker saga comes to a conclusion. Special Enga
+ gement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)
+ \n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-
+ marathon/the-rise-of-skywalker
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLO: A STAR WARS STORY
+DTSTART:20250908T230000Z
+DTEND:20250909T013500Z
+DTSTAMP:20250908T230000Z
+UID:l4DxpNiDPX
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Witness the beginning of the Star Wars saga’s most unlikely h
+ ero. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/solo-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROGUE ONE: A STAR WARS STORY
+DTSTART:20250909T023000Z
+DTEND:20250909T050500Z
+DTSTAMP:20250909T023000Z
+UID:cdBRPfJPjM
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Unlikely heroes band together to steal the plans to the Death S
+ tar. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/rogue-one-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: A NEW HOPE
+DTSTART:20250909T230000Z
+DTEND:20250910T012500Z
+DTSTAMP:20250909T230000Z
+UID:W2T5Z2CaTc
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A young farm boy intercepts a distress call from Princess Leia 
+ Organa of Alderaan. Special Engagement Pricing:$22 ($19 SIFF Members\; $21
+  Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-even
+ ts/star-wars-ultimate-cinematic-marathon/a-new-hope
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE FORCE AWAKENS
+DTSTART:20250910T023000Z
+DTEND:20250910T051000Z
+DTSTAMP:20250910T023000Z
+UID:XHJ5LpF42d
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A lonely scavenger finds herself at the center of a galactic co
+ nflict. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, S
+ tudents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars
+ -ultimate-cinematic-marathon/the-force-awakens
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: EMPIRE STRIKES BACK
+DTSTART:20250910T230000Z
+DTEND:20250911T012500Z
+DTSTAMP:20250910T230000Z
+UID:pLlEtHjIK3
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker trains as a Jedi in order to confront the evil S
+ ith Lord\, Darth Vader. Special Engagement Pricing:$22 ($19 SIFF Members\;
+  $21 Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-
+ events/star-wars-ultimate-cinematic-marathon/the-empire-strikes-back
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE LAST JEDI
+DTSTART:20250911T023000Z
+DTEND:20250911T052500Z
+DTSTAMP:20250911T023000Z
+UID:v99qAur8lC
+DESCRIPTION:Duration: 152 mins (2h32m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A spark of hope keeps the Resistance alive as they flee from th
+ e First Order. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-last-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: RETURN OF THE JEDI
+DTSTART:20250911T230000Z
+DTEND:20250912T013500Z
+DTSTAMP:20250911T230000Z
+UID:8Vj85Vx4eU
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker faces Darth Vader in a final duel. Special Engag
+ ement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)\
+ n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-m
+ arathon/return-of-the-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE RISE OF SKYWALKER
+DTSTART:20250912T023000Z
+DTEND:20250912T051500Z
+DTSTAMP:20250912T023000Z
+UID:qwD83Cu5l7
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon The landmark Skywalker saga comes to a conclusion. Special Enga
+ gement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)
+ \n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-
+ marathon/the-rise-of-skywalker
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: A NEW HOPE
+DTSTART:20250912T200000Z
+DTEND:20250912T222500Z
+DTSTAMP:20250912T200000Z
+UID:iU41VmmZh2
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A young farm boy intercepts a distress call from Princess Leia 
+ Organa of Alderaan. Special Engagement Pricing:$22 ($19 SIFF Members\; $21
+  Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-even
+ ts/star-wars-ultimate-cinematic-marathon/a-new-hope
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: EMPIRE STRIKES BACK
+DTSTART:20250912T231500Z
+DTEND:20250913T014000Z
+DTSTAMP:20250912T231500Z
+UID:g7QbeY8TKN
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker trains as a Jedi in order to confront the evil S
+ ith Lord\, Darth Vader. Special Engagement Pricing:$22 ($19 SIFF Members\;
+  $21 Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-
+ events/star-wars-ultimate-cinematic-marathon/the-empire-strikes-back
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: RETURN OF THE JEDI
+DTSTART:20250913T023000Z
+DTEND:20250913T050500Z
+DTSTAMP:20250913T023000Z
+UID:U2aZJbTgWV
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker faces Darth Vader in a final duel. Special Engag
+ ement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)\
+ n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-m
+ arathon/return-of-the-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE PHANTOM MENACE
+DTSTART:20250913T194500Z
+DTEND:20250913T222500Z
+DTSTAMP:20250913T194500Z
+UID:iaFrfqEOUF
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Jedi Knights discover Anakin Skywalker\, a boy unusually strong
+  in the Force. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-phantom-menace
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: ATTACK OF THE CLONES
+DTSTART:20250913T230000Z
+DTEND:20250914T014500Z
+DTSTAMP:20250913T230000Z
+UID:mC1kapUWwp
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Young Anakin and Padmé fall in love as galactic war looms. Spe
+ cial Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $
+ 17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-c
+ inematic-marathon/attack-of-the-clones
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: REVENGE OF THE SITH
+DTSTART:20250914T023000Z
+DTEND:20250914T051000Z
+DTSTAMP:20250914T023000Z
+UID:WYIGh36dJS
+DESCRIPTION:Duration: 140 mins (2h20m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon As the Republic falls\, a new regime lead by an ancient evil ri
+ ses in its place. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 S
+ eniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events
+ /star-wars-ultimate-cinematic-marathon/revenge-of-the-sith
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE FORCE AWAKENS
+DTSTART:20250914T193000Z
+DTEND:20250914T221000Z
+DTSTAMP:20250914T193000Z
+UID:EdxXmnetik
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A lonely scavenger finds herself at the center of a galactic co
+ nflict. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, S
+ tudents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars
+ -ultimate-cinematic-marathon/the-force-awakens
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE LAST JEDI
+DTSTART:20250914T225000Z
+DTEND:20250915T014500Z
+DTSTAMP:20250914T225000Z
+UID:CpAwDXJgLq
+DESCRIPTION:Duration: 152 mins (2h32m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A spark of hope keeps the Resistance alive as they flee from th
+ e First Order. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-last-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE RISE OF SKYWALKER
+DTSTART:20250915T023000Z
+DTEND:20250915T051500Z
+DTSTAMP:20250915T023000Z
+UID:TSu45Yidqg
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon The landmark Skywalker saga comes to a conclusion. Special Enga
+ gement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)
+ \n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-
+ marathon/the-rise-of-skywalker
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROGUE ONE: A STAR WARS STORY
+DTSTART:20250915T230000Z
+DTEND:20250916T013500Z
+DTSTAMP:20250915T230000Z
+UID:tomFjZ4T7N
+DESCRIPTION:Duration: 133 mins (2h13m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Unlikely heroes band together to steal the plans to the Death S
+ tar. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/rogue-one-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: A NEW HOPE
+DTSTART:20250916T023000Z
+DTEND:20250916T045500Z
+DTSTAMP:20250916T023000Z
+UID:gfTQhGSvrw
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon A young farm boy intercepts a distress call from Princess Leia 
+ Organa of Alderaan. Special Engagement Pricing:$22 ($19 SIFF Members\; $21
+  Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-even
+ ts/star-wars-ultimate-cinematic-marathon/a-new-hope
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: THE PHANTOM MENACE
+DTSTART:20250916T230000Z
+DTEND:20250917T014000Z
+DTSTAMP:20250916T230000Z
+UID:kbnThR0Kdo
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Jedi Knights discover Anakin Skywalker\, a boy unusually strong
+  in the Force. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
+ ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
+ ar-wars-ultimate-cinematic-marathon/the-phantom-menace
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Classified Cinema
 DTSTART:20250917T023000Z
 DTEND:20250917T042000Z
@@ -2027,6 +2648,71 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
  op secret until they hit the screen. Still free\, always fun\, never prete
  ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: EMPIRE STRIKES BACK
+DTSTART:20250917T023000Z
+DTEND:20250917T045500Z
+DTSTAMP:20250917T023000Z
+UID:awDnfSJQj4
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker trains as a Jedi in order to confront the evil S
+ ith Lord\, Darth Vader. Special Engagement Pricing:$22 ($19 SIFF Members\;
+  $21 Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-
+ events/star-wars-ultimate-cinematic-marathon/the-empire-strikes-back
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: ATTACK OF THE CLONES
+DTSTART:20250917T230000Z
+DTEND:20250918T014500Z
+DTSTAMP:20250917T230000Z
+UID:fTpBMKCKub
+DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Young Anakin and Padmé fall in love as galactic war looms. Spe
+ cial Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $
+ 17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-c
+ inematic-marathon/attack-of-the-clones
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: RETURN OF THE JEDI
+DTSTART:20250918T023000Z
+DTEND:20250918T050500Z
+DTSTAMP:20250918T023000Z
+UID:f8vxHDLYtr
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Luke Skywalker faces Darth Vader in a final duel. Special Engag
+ ement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)\
+ n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-m
+ arathon/return-of-the-jedi
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAR WARS: REVENGE OF THE SITH
+DTSTART:20250918T230000Z
+DTEND:20250919T014000Z
+DTSTAMP:20250918T230000Z
+UID:neok9cSfFO
+DESCRIPTION:Duration: 140 mins (2h20m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon As the Republic falls\, a new regime lead by an ancient evil ri
+ ses in its place. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 S
+ eniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events
+ /star-wars-ultimate-cinematic-marathon/revenge-of-the-sith
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLO: A STAR WARS STORY
+DTSTART:20250919T023000Z
+DTEND:20250919T050500Z
+DTSTAMP:20250919T023000Z
+UID:b1DZMC1o4V
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStar Wars: The Ultimate Cinemati
+ c Marathon Witness the beginning of the Star Wars saga’s most unlikely h
+ ero. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
+ ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
+ timate-cinematic-marathon/solo-a-star-wars-story
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Green Room
