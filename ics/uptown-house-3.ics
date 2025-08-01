@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250731T165307Z
+LAST-MODIFIED:20250801T164709Z
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Sorry\, Baby
-DTSTART:20250731T230000Z
-DTEND:20250801T010500Z
-DTSTAMP:20250731T230000Z
-UID:H9LGCU9Ujt
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
- es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
- ncholic English professor’s complicated path toward healing in the after
- math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
- creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unstreamable Secret 2
-DTSTART:20250801T023000Z
-DTEND:20250801T042000Z
-DTSTAMP:20250801T023000Z
-UID:ip53PGqLua
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nUnstreamable Shhh… It’s a sec
- ret. Members: Make sure to sign in to your SIFF account before selecting a
-  showtime.\n\nhttps://www.siff.net/programs-and-events/unstreamable/secret
- -screening-2
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Folktales
 DTSTART:20250801T230000Z
@@ -305,6 +280,21 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe definitive tale of Jeff Buck
  ately following the film\, offering both longtime fans and newcomers a rar
  e opportunity to experience Jeff Buckley’s raw\, unfiltered brilliance.\
  n\nhttps://www.siff.net/cinema/in-theaters/its-never-over-jeff-buckley
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Uncertain Detective Season 4
+DTSTART:20250930T021000Z
+DTEND:20250930T042500Z
+DTSTAMP:20250930T021000Z
+UID:WRqADAcmFa
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nPresented by Uncertain Producti
+ ons. Sneak preview of the new season of this Seattle-produced YouTube favo
+ rite. A film director creates a surreal\, neo-noir tv series featuring a b
+ umbling detective\, casts his wife and kids in it\, and tries to juggle hi
+ s two worlds. Q&A with creator Gregg Lachow. $13 ($10 Students & Seniors)\
+ n\nhttps://www.siff.net/cinema/in-theaters/the-uncertain-detective-season-
+ 4
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
