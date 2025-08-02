@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250801T164709Z
+LAST-MODIFIED:20250802T155427Z
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Sorry\, Baby
-DTSTART:20250801T231500Z
-DTEND:20250802T012000Z
-DTSTAMP:20250801T231500Z
-UID:NJx8aD2R1i
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nEva Victor (“Billions”) writ
- es\, directs\, and stars in this nonlinear\, seriocomic story about a mela
- ncholic English professor’s complicated path toward healing in the after
- math of an all-to-common tragedy. Winner of the Sundance 2025 Waldo Salt S
- creenwriting Award.\n\nhttps://www.siff.net/cinema/in-theaters/sorry-baby
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eddington
-DTSTART:20250802T021500Z
-DTEND:20250802T050500Z
-DTSTAMP:20250802T021500Z
-UID:n8gAtnf9tt
-DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
- een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
-  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
- xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sorry\, Baby
 DTSTART:20250802T200000Z
@@ -480,6 +455,32 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe definitive tale of Jeff Buck
  ately following the film\, offering both longtime fans and newcomers a rar
  e opportunity to experience Jeff Buckley’s raw\, unfiltered brilliance.\
  n\nhttps://www.siff.net/cinema/in-theaters/its-never-over-jeff-buckley
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud
+DTSTART:20250816T191500Z
+DTEND:20250816T214000Z
+DTSTAMP:20250816T191500Z
+UID:UTA1JHTVQ6
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nLegendary filmmaker Kiyoshi Kuro
+ sawa (Pulse\, Cure\, Tokyo Sonata) ramps up the thrills in this genre-bend
+ ing potboiler about a craven opportunist who finds success as an internet 
+ reseller\, only for revenge-seeking vigilantes to come calling.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/cloud
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud
+DTSTART:20250816T221000Z
+DTEND:20250817T003500Z
+DTSTAMP:20250816T221000Z
+UID:B3T25j80fN
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nLegendary filmmaker Kiyoshi Kuro
+ sawa (Pulse\, Cure\, Tokyo Sonata) ramps up the thrills in this genre-bend
+ ing potboiler about a craven opportunist who finds success as an internet 
+ reseller\, only for revenge-seeking vigilantes to come calling.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/cloud
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
