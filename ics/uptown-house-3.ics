@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250807T151755Z
+LAST-MODIFIED:20250808T161841Z
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-BEGIN:VEVENT
-SUMMARY:Folktales
-DTSTART:20250807T231500Z
-DTEND:20250808T012000Z
-DTSTAMP:20250807T231500Z
-UID:DGFZyjoCn9
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nAt a Norwegian Folk School locat
- ed 800 miles north of the Arctic Circle\, teenagers learn survival skills 
- in one of the harshest environments on Earth.\n\nhttps://www.siff.net/cine
- ma/in-theaters/folktales
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eddington
-DTSTART:20250808T020000Z
-DTEND:20250808T045000Z
-DTSTAMP:20250808T020000Z
-UID:vRTvmQr7kX
-DESCRIPTION:Duration: 148 mins (2h28m)\n\nIn May of 2020\, a standoff betw
- een a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks
-  a powder keg as neighbor is pitted against neighbor in Eddington\, New Me
- xico.\n\nhttps://www.siff.net/cinema/in-theaters/eddington
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sorry\, Baby
 DTSTART:20250808T234500Z
