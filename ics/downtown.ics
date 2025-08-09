@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250808T161841Z
+LAST-MODIFIED:20250809T153033Z
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-BEGIN:VEVENT
-SUMMARY:The Hidden Fortress
-DTSTART:20250808T233000Z
-DTEND:20250809T021000Z
-DTSTAMP:20250808T233000Z
-UID:B31ZnDARU7
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nAkira Kurosawa: A Retrospective 
- Kurosawa’s first widescreen film is a delightfully comedic Samurai saga 
- starring Toshiro Mifune as a general charged with guarding his defeated cl
- an’s princess as the two smuggle royal treasure across hostile territory
- . New 4K restoration.\n\nhttps://www.siff.net/programs-and-events/akira-ku
- rosawa-retrospective/the-hidden-fortress
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Throne of Blood
-DTSTART:20250809T024500Z
-DTEND:20250809T045500Z
-DTSTAMP:20250809T024500Z
-UID:JSNESVwtE7
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nAkira Kurosawa: A Retrospective 
- A vivid\, visceral Macbeth adaptation sets Shakespeare’s definitive tale
-  of ambition and duplicity in a ghostly\, fog-enshrouded landscape in feud
- al Japan. New 4K restoration.\n\nhttps://www.siff.net/programs-and-events/
- akira-kurosawa-retrospective/throne-of-blood
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pee-wee’s Big Adventure
 DTSTART:20250809T194500Z
