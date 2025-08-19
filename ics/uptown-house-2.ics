@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250818T151845Z
+LAST-MODIFIED:20250819T160907Z
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Weapons
-DTSTART:20250818T231500Z
-DTEND:20250819T014500Z
-DTSTAMP:20250818T231500Z
-UID:EvQ1pWevhS
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nWhen all but one child from the 
- same class mysteriously vanish on the same night at exactly the same time\
- , a community is left questioning who or what is behind their disappearanc
- e.\n\nhttps://www.siff.net/cinema/in-theaters/weapons
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weapons
-DTSTART:20250819T023000Z
-DTEND:20250819T050000Z
-DTSTAMP:20250819T023000Z
-UID:ScfqgENjqA
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nWhen all but one child from the 
- same class mysteriously vanish on the same night at exactly the same time\
- , a community is left questioning who or what is behind their disappearanc
- e.\n\nhttps://www.siff.net/cinema/in-theaters/weapons
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weapons
 DTSTART:20250819T224500Z
@@ -117,6 +93,30 @@ DTSTART:20250823T231500Z
 DTEND:20250824T010500Z
 DTSTAMP:20250823T231500Z
 UID:Tx4ZdLHVTG
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
+ e of them is justice. Honey O’Donahue\, a small-town private investigato
+ r\, delves into a series of strange deaths tied to a mysterious church in 
+ this comic noir.\n\nhttps://www.siff.net/cinema/in-theaters/honey-dont
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honey Don’t!
+DTSTART:20250824T013500Z
+DTEND:20250824T032500Z
+DTSTAMP:20250824T013500Z
+UID:9ef0pBorAm
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
+ e of them is justice. Honey O’Donahue\, a small-town private investigato
+ r\, delves into a series of strange deaths tied to a mysterious church in 
+ this comic noir.\n\nhttps://www.siff.net/cinema/in-theaters/honey-dont
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honey Don’t!
+DTSTART:20250824T040000Z
+DTEND:20250824T055000Z
+DTSTAMP:20250824T040000Z
+UID:brKqhby2V8
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
  e of them is justice. Honey O’Donahue\, a small-town private investigato
  r\, delves into a series of strange deaths tied to a mysterious church in 
