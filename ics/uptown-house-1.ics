@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250819T160907Z
+LAST-MODIFIED:20250820T151812Z
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-BEGIN:VEVENT
-SUMMARY:Cloud
-DTSTART:20250819T233000Z
-DTEND:20250820T015500Z
-DTSTAMP:20250819T233000Z
-UID:AdwR2aMJRc
-DESCRIPTION:Duration: 124 mins (2h04m)\n\nLegendary filmmaker Kiyoshi Kuro
- sawa (Pulse\, Cure\, Tokyo Sonata) ramps up the thrills in this genre-bend
- ing potboiler about a craven opportunist who finds success as an internet 
- reseller\, only for revenge-seeking vigilantes to come calling.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/cloud
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cloud
-DTSTART:20250820T024500Z
-DTEND:20250820T051000Z
-DTSTAMP:20250820T024500Z
-UID:A1mJFCjtUg
-DESCRIPTION:Duration: 124 mins (2h04m)\n\nLegendary filmmaker Kiyoshi Kuro
- sawa (Pulse\, Cure\, Tokyo Sonata) ramps up the thrills in this genre-bend
- ing potboiler about a craven opportunist who finds success as an internet 
- reseller\, only for revenge-seeking vigilantes to come calling.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/cloud
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud
 DTSTART:20250820T233000Z
@@ -87,7 +61,7 @@ SUMMARY:Honey Don’t!
 DTSTART:20250822T230000Z
 DTEND:20250823T005000Z
 DTSTAMP:20250822T230000Z
-UID:vTbWvGEkT2
+UID:iR1lx5QEQq
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
  e of them is justice. Honey O’Donahue\, a small-town private investigato
  r\, delves into a series of strange deaths tied to a mysterious church in 
@@ -116,6 +90,31 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
  e of them is justice. Honey O’Donahue\, a small-town private investigato
  r\, delves into a series of strange deaths tied to a mysterious church in 
  this comic noir.\n\nhttps://www.siff.net/cinema/in-theaters/honey-dont
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weapons
+DTSTART:20250824T004500Z
+DTEND:20250824T031500Z
+DTSTAMP:20250824T004500Z
+UID:v5GxZavlse
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nWhen all but one child from the 
+ same class mysteriously vanish on the same night at exactly the same time\
+ , a community is left questioning who or what is behind their disappearanc
+ e.\n\nhttps://www.siff.net/cinema/in-theaters/weapons
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud
+DTSTART:20250824T034500Z
+DTEND:20250824T061000Z
+DTSTAMP:20250824T034500Z
+UID:lOMHs31Cxo
+DESCRIPTION:Duration: 124 mins (2h04m)\n\nLegendary filmmaker Kiyoshi Kuro
+ sawa (Pulse\, Cure\, Tokyo Sonata) ramps up the thrills in this genre-bend
+ ing potboiler about a craven opportunist who finds success as an internet 
+ reseller\, only for revenge-seeking vigilantes to come calling.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/cloud
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -543,6 +542,222 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nBenedict Cumberbatch and Olivia
  ins several sequences with flashing lights that may affect those who are s
  usceptible to photosensitive epilepsy or have other photosensitivities.\n\
  nhttps://www.siff.net/cinema/in-theaters/the-roses
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250911T230000Z
+DTEND:20250912T012500Z
+DTSTAMP:20250911T230000Z
+UID:BkmphTnoes
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250912T020000Z
+DTEND:20250912T042500Z
+DTSTAMP:20250912T020000Z
+UID:DtHy7riG61
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250912T230000Z
+DTEND:20250913T012500Z
+DTSTAMP:20250912T230000Z
+UID:C8OZaLpt1c
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250913T020000Z
+DTEND:20250913T042500Z
+DTSTAMP:20250913T020000Z
+UID:yxZVI7PQy2
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250913T200000Z
+DTEND:20250913T222500Z
+DTSTAMP:20250913T200000Z
+UID:9p0PLNErZ9
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250913T230000Z
+DTEND:20250914T012500Z
+DTSTAMP:20250913T230000Z
+UID:KtLiOTUG4J
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250914T020000Z
+DTEND:20250914T042500Z
+DTSTAMP:20250914T020000Z
+UID:7eFC4aLq4o
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250914T200000Z
+DTEND:20250914T222500Z
+DTSTAMP:20250914T200000Z
+UID:ty2DwbAAvC
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250914T230000Z
+DTEND:20250915T012500Z
+DTSTAMP:20250914T230000Z
+UID:9jN8CkgDfk
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250915T020000Z
+DTEND:20250915T042500Z
+DTSTAMP:20250915T020000Z
+UID:nrDBQ9wfXg
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250915T230000Z
+DTEND:20250916T012500Z
+DTSTAMP:20250915T230000Z
+UID:AnLpOlUQVm
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250916T020000Z
+DTEND:20250916T042500Z
+DTSTAMP:20250916T020000Z
+UID:dWYNyRq27S
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250916T230000Z
+DTEND:20250917T012500Z
+DTSTAMP:20250916T230000Z
+UID:c6IGSNAw0v
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250917T020000Z
+DTEND:20250917T042500Z
+DTSTAMP:20250917T020000Z
+UID:B1g8X4HZih
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250917T230000Z
+DTEND:20250918T012500Z
+DTSTAMP:20250917T230000Z
+UID:rtyEnKJI7v
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250918T020000Z
+DTEND:20250918T042500Z
+DTSTAMP:20250918T020000Z
+UID:b598LZZRRT
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250918T230000Z
+DTEND:20250919T012500Z
+DTSTAMP:20250918T230000Z
+UID:8Bpja6qUls
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250919T020000Z
+DTEND:20250919T042500Z
+DTSTAMP:20250919T020000Z
+UID:Pjnc1d18su
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
