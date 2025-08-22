@@ -1,95 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250821T150930Z
+LAST-MODIFIED:20250822T144429Z
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-BEGIN:VEVENT
-SUMMARY:Honey Don’t!
-DTSTART:20250821T224500Z
-DTEND:20250822T003500Z
-DTSTAMP:20250821T224500Z
-UID:KVIZN2Z1UJ
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
- e of them is justice. Honey O’Donahue\, a small-town private investigato
- r\, delves into a series of strange deaths tied to a mysterious church in 
- this comic noir.\n\nhttps://www.siff.net/cinema/in-theaters/honey-dont
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honey Don’t!
-DTSTART:20250822T022000Z
-DTEND:20250822T041000Z
-DTSTAMP:20250822T022000Z
-UID:dZPoc4y5cC
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
- e of them is justice. Honey O’Donahue\, a small-town private investigato
- r\, delves into a series of strange deaths tied to a mysterious church in 
- this comic noir.\n\nhttps://www.siff.net/cinema/in-theaters/honey-dont
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weapons
-DTSTART:20250821T230000Z
-DTEND:20250822T013000Z
-DTSTAMP:20250821T230000Z
-UID:eEa1jaZoDN
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nWhen all but one child from the 
- same class mysteriously vanish on the same night at exactly the same time\
- , a community is left questioning who or what is behind their disappearanc
- e.\n\nhttps://www.siff.net/cinema/in-theaters/weapons
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Highest 2 Lowest
-DTSTART:20250821T231500Z
-DTEND:20250822T015000Z
-DTSTAMP:20250821T231500Z
-UID:9KFG6QUm59
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nIn Spike Lee’s contemporary in
- terpretation of Kurosawa’s High and Low\, music mogul (Denzel Washington
- ) is targeted with a ransom plot and jammed up in a life-or-death moral di
- lemma.\n\nhttps://www.siff.net/cinema/in-theaters/highest-2-lowest
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Highest 2 Lowest
-DTSTART:20250822T023000Z
-DTEND:20250822T050500Z
-DTSTAMP:20250822T023000Z
-UID:JKqbMkOpG3
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nIn Spike Lee’s contemporary in
- terpretation of Kurosawa’s High and Low\, music mogul (Denzel Washington
- ) is targeted with a ransom plot and jammed up in a life-or-death moral di
- lemma.\n\nhttps://www.siff.net/cinema/in-theaters/highest-2-lowest
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cloud
-DTSTART:20250821T233000Z
-DTEND:20250822T015500Z
-DTSTAMP:20250821T233000Z
-UID:DRmrNt6mi9
-DESCRIPTION:Duration: 124 mins (2h04m)\n\nLegendary filmmaker Kiyoshi Kuro
- sawa (Pulse\, Cure\, Tokyo Sonata) ramps up the thrills in this genre-bend
- ing potboiler about a craven opportunist who finds success as an internet 
- reseller\, only for revenge-seeking vigilantes to come calling.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/cloud
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cloud
-DTSTART:20250822T024500Z
-DTEND:20250822T051000Z
-DTSTAMP:20250822T024500Z
-UID:kNj1pOTGPP
-DESCRIPTION:Duration: 124 mins (2h04m)\n\nLegendary filmmaker Kiyoshi Kuro
- sawa (Pulse\, Cure\, Tokyo Sonata) ramps up the thrills in this genre-bend
- ing potboiler about a craven opportunist who finds success as an internet 
- reseller\, only for revenge-seeking vigilantes to come calling.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/cloud
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Highest 2 Lowest
 DTSTART:20250822T220000Z
@@ -2769,6 +2683,28 @@ DESCRIPTION:Duration: 140 mins (2h20m)\n\nStar Wars: The Ultimate Cinemati
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250918T233000Z
+DTEND:20250919T014000Z
+DTSTAMP:20250918T233000Z
+UID:hJrtNbQSdL
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250919T021500Z
+DTEND:20250919T042500Z
+DTSTAMP:20250919T021500Z
+UID:IrBrMm2M87
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SOLO: A STAR WARS STORY
 DTSTART:20250919T023000Z
 DTEND:20250919T050500Z
@@ -2780,6 +2716,138 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nStar Wars: The Ultimate Cinemati
  ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
  timate-cinematic-marathon/solo-a-star-wars-story
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250919T231500Z
+DTEND:20250920T012500Z
+DTSTAMP:20250919T231500Z
+UID:MALaAtx5Hx
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250920T020000Z
+DTEND:20250920T041000Z
+DTSTAMP:20250920T020000Z
+UID:Zms0TOJU22
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250920T201500Z
+DTEND:20250920T222500Z
+DTSTAMP:20250920T201500Z
+UID:DsjC5l919C
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250920T231500Z
+DTEND:20250921T012500Z
+DTSTAMP:20250920T231500Z
+UID:vIc9vOjCGp
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250921T020000Z
+DTEND:20250921T041000Z
+DTSTAMP:20250921T020000Z
+UID:8HfBUvXiD9
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250921T201500Z
+DTEND:20250921T222500Z
+DTSTAMP:20250921T201500Z
+UID:qRXVWPObvM
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250921T231500Z
+DTEND:20250922T012500Z
+DTSTAMP:20250921T231500Z
+UID:nQ1sPVf7W8
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250922T020000Z
+DTEND:20250922T041000Z
+DTSTAMP:20250922T020000Z
+UID:Kp0ypOtYTR
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250922T231500Z
+DTEND:20250923T012500Z
+DTSTAMP:20250922T231500Z
+UID:OdDclOPwhq
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250923T020000Z
+DTEND:20250923T041000Z
+DTSTAMP:20250923T020000Z
+UID:MaIU45kn3V
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250923T231500Z
+DTEND:20250924T012500Z
+DTSTAMP:20250923T231500Z
+UID:ubqLnum1aa
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250924T020000Z
+DTEND:20250924T041000Z
+DTSTAMP:20250924T020000Z
+UID:8qjE3QZgWR
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Wave
@@ -2794,6 +2862,50 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nThe Popcorn List Mile-high hair.
  and unexamined past.\n\nhttps://www.siff.net/programs-and-events/the-popco
  rn-list/new-wave
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250924T231500Z
+DTEND:20250925T012500Z
+DTSTAMP:20250924T231500Z
+UID:IW9FhyUr0A
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250925T020000Z
+DTEND:20250925T041000Z
+DTSTAMP:20250925T020000Z
+UID:3iDAu6cISA
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250925T231500Z
+DTEND:20250926T012500Z
+DTSTAMP:20250925T231500Z
+UID:G0tODhlw3S
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250926T020000Z
+DTEND:20250926T041000Z
+DTSTAMP:20250926T020000Z
+UID:NmMtX2rliQ
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cinema Dissection: Point Blank

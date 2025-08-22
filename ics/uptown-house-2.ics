@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250821T150930Z
+LAST-MODIFIED:20250822T144429Z
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Honey Don’t!
-DTSTART:20250821T224500Z
-DTEND:20250822T003500Z
-DTSTAMP:20250821T224500Z
-UID:KVIZN2Z1UJ
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
- e of them is justice. Honey O’Donahue\, a small-town private investigato
- r\, delves into a series of strange deaths tied to a mysterious church in 
- this comic noir.\n\nhttps://www.siff.net/cinema/in-theaters/honey-dont
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weapons
 DTSTART:20250822T234500Z
@@ -453,6 +441,28 @@ UID:A1no0tw9Lk
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
  op secret until they hit the screen. Still free\, always fun\, never prete
  ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250918T233000Z
+DTEND:20250919T014000Z
+DTSTAMP:20250918T233000Z
+UID:hJrtNbQSdL
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Big Bold Beautiful Journey
+DTSTART:20250919T021500Z
+DTEND:20250919T042500Z
+DTSTAMP:20250919T021500Z
+UID:IrBrMm2M87
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
+ gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
+ net/cinema/in-theaters/a-big-bold-beautiful-journey
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
