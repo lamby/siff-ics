@@ -1,43 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250824T144555Z
+LAST-MODIFIED:20250825T140049Z
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-BEGIN:VEVENT
-SUMMARY:Boys Go to Jupiter
-DTSTART:20250824T230000Z
-DTEND:20250825T005000Z
-DTSTAMP:20250824T230000Z
-UID:ME4VssFJLO
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nSet in the liminal period between
-  Christmas and New Year’s\, Boys Go to Jupiter follows the adventures of
-  Billy 5000\, a teenage gig worker with a rise-and-grind mindset whose que
- st to make $5\,000 is derailed by the appearance of a gelatinous little du
- de from outer space. Dreamy\, surreal\, and filled with visionary animatio
- n and beautiful songs\, Boys Go to Jupiter is the feature-film debut of ac
- claimed 3D animator Julian Glander\, whose work has been featured everywhe
- re from {adult swim} to video games to the pages of the New Yorker.\n\nhtt
- ps://www.siff.net/cinema/in-theaters/boys-go-to-jupiter
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boys Go to Jupiter
-DTSTART:20250825T013000Z
-DTEND:20250825T032000Z
-DTSTAMP:20250825T013000Z
-UID:Y0clpCPr26
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nSet in the liminal period between
-  Christmas and New Year’s\, Boys Go to Jupiter follows the adventures of
-  Billy 5000\, a teenage gig worker with a rise-and-grind mindset whose que
- st to make $5\,000 is derailed by the appearance of a gelatinous little du
- de from outer space. Dreamy\, surreal\, and filled with visionary animatio
- n and beautiful songs\, Boys Go to Jupiter is the feature-film debut of ac
- claimed 3D animator Julian Glander\, whose work has been featured everywhe
- re from {adult swim} to video games to the pages of the New Yorker.\n\nhtt
- ps://www.siff.net/cinema/in-theaters/boys-go-to-jupiter
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:If That Mockingbird Don’t Sing
 DTSTART:20250910T020000Z
@@ -312,6 +278,29 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks In dark uncertain tim
  ed commentary on mythmaking\, propaganda\, and cultural memory.\n\nhttps:/
  /www.siff.net/programs-and-events/education/adult-film-education/film-talk
  s/cinema-dissection-inglourious-basterds
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Dissection: Double Indemnity
+DTSTART:20251122T180000Z
+DTEND:20251123T002000Z
+DTSTAMP:20251122T180000Z
+UID:doF5dPFsPC
+DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks Upon the publication 
+ of James M. Cain’s sensational crime novel “Double Indemnity\,” Jose
+ ph Breen (Hollywood’s chief censor) declared\, “The general low tone a
+ nd sordid flavor of this story makes it\, in our judgment\, thoroughly una
+ cceptable for screen presentation….” Director Billy Wilder respectfull
+ y disagreed. Working with crime novelist Raymond Chandler\, Wilder fashion
+ ed a script that kept the dark\, seediness of the novel while meeting Bree
+ n’s stringent “moralistic guidelines.” Add Fred MacMurray and sultry
+  Barbara Stanwyck as the scheming adulterous lovers along with Edward G. R
+ obinson as the shrewd\, tenacious insurance investigator Barton Keys\, and
+  you have everything you need for an archetypal film noir. Join facilitato
+ r and SIFF Programmer Dan Doody for a shot-by-shot investigation of the fi
+ lm’s ingenious narrative\, its whip-smart dialogue\, and how (not) to co
+ mmit the perfect murder.\n\nhttps://www.siff.net/programs-and-events/educa
+ tion/adult-film-education/film-talks/cinema-dissection-double-indemnity
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
