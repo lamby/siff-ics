@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250825T140049Z
+LAST-MODIFIED:20250826T152720Z
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-BEGIN:VEVENT
-SUMMARY:Weapons
-DTSTART:20250825T230000Z
-DTEND:20250826T013000Z
-DTSTAMP:20250825T230000Z
-UID:ocFVsaRCMP
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nWhen all but one child from the 
- same class mysteriously vanish on the same night at exactly the same time\
- , a community is left questioning who or what is behind their disappearanc
- e.\n\nhttps://www.siff.net/cinema/in-theaters/weapons
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weapons
-DTSTART:20250826T020000Z
-DTEND:20250826T043000Z
-DTSTAMP:20250826T020000Z
-UID:mXsUAD01hN
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nWhen all but one child from the 
- same class mysteriously vanish on the same night at exactly the same time\
- , a community is left questioning who or what is behind their disappearanc
- e.\n\nhttps://www.siff.net/cinema/in-theaters/weapons
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weapons
 DTSTART:20250826T230000Z
@@ -160,6 +136,19 @@ DTSTART:20250831T021500Z
 DTEND:20250831T041500Z
 DTSTAMP:20250831T021500Z
 UID:hrd9uoKOVx
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen his wife asks for a divorce
+ \, a man runs to his friends for support\, only to learn that the secret t
+ o their happiness is an open marriage. Intro and Q&A with filmmakers Micha
+ el Angelo Covino and Kyle Marvin at the 7:00pm screening on August 29.\n\n
+ https://www.siff.net/cinema/in-theaters/splitsville
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Splitsville
+DTSTART:20250831T181500Z
+DTEND:20250831T201500Z
+DTSTAMP:20250831T181500Z
+UID:PQENPLYomt
 DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen his wife asks for a divorce
  \, a man runs to his friends for support\, only to learn that the secret t
  o their happiness is an open marriage. Intro and Q&A with filmmakers Micha
