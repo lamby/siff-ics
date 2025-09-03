@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20250902T151835Z
+LAST-MODIFIED:20250903T141248Z
 BEGIN:VEVENT
 SUMMARY:Love Hotel
 DTSTART:20250906T023000Z
@@ -349,6 +349,19 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks Combining a classic h
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Balconettes
+DTSTART:20251003T232000Z
+DTEND:20251004T012500Z
+DTSTAMP:20251003T232000Z
+UID:4XDlmmBiHn
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nNoémie Merlant (Portrait of a L
+ ady on Fire) co-writes\, directs\, and stars in this genre-bending feminis
+ t comic thriller\, as a trio of Marseille roommates—a camgirl\, a writer
+ \, and an actress—rage against toxic masculinity in the middle of a terr
+ ible heat wave.\n\nhttps://www.siff.net/cinema/in-theaters/the-balconettes
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inter Alia
 DTSTART:20251004T020000Z
 DTEND:20251004T052000Z
@@ -381,6 +394,32 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to Screen Oscar-nominated
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Balconettes
+DTSTART:20251004T232000Z
+DTEND:20251005T012500Z
+DTSTAMP:20251004T232000Z
+UID:Mc6R9bsgKi
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nNoémie Merlant (Portrait of a L
+ ady on Fire) co-writes\, directs\, and stars in this genre-bending feminis
+ t comic thriller\, as a trio of Marseille roommates—a camgirl\, a writer
+ \, and an actress—rage against toxic masculinity in the middle of a terr
+ ible heat wave.\n\nhttps://www.siff.net/cinema/in-theaters/the-balconettes
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Balconettes
+DTSTART:20251005T020000Z
+DTEND:20251005T040500Z
+DTSTAMP:20251005T020000Z
+UID:56g9qxAk7C
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nNoémie Merlant (Portrait of a L
+ ady on Fire) co-writes\, directs\, and stars in this genre-bending feminis
+ t comic thriller\, as a trio of Marseille roommates—a camgirl\, a writer
+ \, and an actress—rage against toxic masculinity in the middle of a terr
+ ible heat wave.\n\nhttps://www.siff.net/cinema/in-theaters/the-balconettes
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inter Alia
 DTSTART:20251005T200000Z
 DTEND:20251005T232000Z
@@ -397,6 +436,32 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to Screen Oscar-nominated
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Balconettes
+DTSTART:20251005T232000Z
+DTEND:20251006T012500Z
+DTSTAMP:20251005T232000Z
+UID:1AbqGfGC3l
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nNoémie Merlant (Portrait of a L
+ ady on Fire) co-writes\, directs\, and stars in this genre-bending feminis
+ t comic thriller\, as a trio of Marseille roommates—a camgirl\, a writer
+ \, and an actress—rage against toxic masculinity in the middle of a terr
+ ible heat wave.\n\nhttps://www.siff.net/cinema/in-theaters/the-balconettes
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Balconettes
+DTSTART:20251006T020000Z
+DTEND:20251006T040500Z
+DTSTAMP:20251006T020000Z
+UID:iNXh388Asp
+DESCRIPTION:Duration: 104 mins (1h44m)\n\nNoémie Merlant (Portrait of a L
+ ady on Fire) co-writes\, directs\, and stars in this genre-bending feminis
+ t comic thriller\, as a trio of Marseille roommates—a camgirl\, a writer
+ \, and an actress—rage against toxic masculinity in the middle of a terr
+ ible heat wave.\n\nhttps://www.siff.net/cinema/in-theaters/the-balconettes
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inter Alia
 DTSTART:20251007T020000Z
 DTEND:20251007T052000Z
@@ -410,6 +475,19 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to Screen Oscar-nominated
  row her life completely off balance\, can she hold her family upright?\n\n
  https://www.siff.net/programs-and-events/stage-to-screen/nt-live-inter-ali
  a
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring Them Home
+DTSTART:20251011T021500Z
+DTEND:20251011T040000Z
+DTSTAMP:20251011T021500Z
+UID:t7UDxB2ROo
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nOscar® nominee and onetime Washi
+ ngton resident Lily Gladstone (Killers of the Flower Moon) narrates this s
+ oul-stirring and tradition-oriented documentary about Montana’s Blackfoo
+ t tribe as they seek to reinstate a wild buffalo herd back to their ancest
+ ral land.\n\nhttps://www.siff.net/cinema/in-theaters/bring-them-home
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -433,6 +511,84 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks You're the programmer
  haunt your nightmares. Vote\n\nhttps://www.siff.net/programs-and-events/ed
  ucation/adult-film-education/film-talks/cinema-dissection-cinephiles-choic
  e-spooky
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring Them Home
+DTSTART:20251011T234500Z
+DTEND:20251012T013000Z
+DTSTAMP:20251011T234500Z
+UID:BsyAtCWMdM
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nOscar® nominee and onetime Washi
+ ngton resident Lily Gladstone (Killers of the Flower Moon) narrates this s
+ oul-stirring and tradition-oriented documentary about Montana’s Blackfoo
+ t tribe as they seek to reinstate a wild buffalo herd back to their ancest
+ ral land.\n\nhttps://www.siff.net/cinema/in-theaters/bring-them-home
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring Them Home
+DTSTART:20251012T021500Z
+DTEND:20251012T040000Z
+DTSTAMP:20251012T021500Z
+UID:jGHsYNoedi
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nOscar® nominee and onetime Washi
+ ngton resident Lily Gladstone (Killers of the Flower Moon) narrates this s
+ oul-stirring and tradition-oriented documentary about Montana’s Blackfoo
+ t tribe as they seek to reinstate a wild buffalo herd back to their ancest
+ ral land.\n\nhttps://www.siff.net/cinema/in-theaters/bring-them-home
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring Them Home
+DTSTART:20251012T220000Z
+DTEND:20251012T234500Z
+DTSTAMP:20251012T220000Z
+UID:WTeLx7SY2g
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nOscar® nominee and onetime Washi
+ ngton resident Lily Gladstone (Killers of the Flower Moon) narrates this s
+ oul-stirring and tradition-oriented documentary about Montana’s Blackfoo
+ t tribe as they seek to reinstate a wild buffalo herd back to their ancest
+ ral land.\n\nhttps://www.siff.net/cinema/in-theaters/bring-them-home
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring Them Home
+DTSTART:20251013T003000Z
+DTEND:20251013T021500Z
+DTSTAMP:20251013T003000Z
+UID:CDsXGmwnCR
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nOscar® nominee and onetime Washi
+ ngton resident Lily Gladstone (Killers of the Flower Moon) narrates this s
+ oul-stirring and tradition-oriented documentary about Montana’s Blackfoo
+ t tribe as they seek to reinstate a wild buffalo herd back to their ancest
+ ral land.\n\nhttps://www.siff.net/cinema/in-theaters/bring-them-home
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring Them Home
+DTSTART:20251013T220000Z
+DTEND:20251013T234500Z
+DTSTAMP:20251013T220000Z
+UID:Evp0xqeSf7
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nOscar® nominee and onetime Washi
+ ngton resident Lily Gladstone (Killers of the Flower Moon) narrates this s
+ oul-stirring and tradition-oriented documentary about Montana’s Blackfoo
+ t tribe as they seek to reinstate a wild buffalo herd back to their ancest
+ ral land.\n\nhttps://www.siff.net/cinema/in-theaters/bring-them-home
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring Them Home
+DTSTART:20251014T003000Z
+DTEND:20251014T021500Z
+DTSTAMP:20251014T003000Z
+UID:65ORe4d1yY
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nOscar® nominee and onetime Washi
+ ngton resident Lily Gladstone (Killers of the Flower Moon) narrates this s
+ oul-stirring and tradition-oriented documentary about Montana’s Blackfoo
+ t tribe as they seek to reinstate a wild buffalo herd back to their ancest
+ ral land.\n\nhttps://www.siff.net/cinema/in-theaters/bring-them-home
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
