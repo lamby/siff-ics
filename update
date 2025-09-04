@@ -96,10 +96,16 @@ class SiffICS:
             body = body.strip()
             body = re_collapse_newlines.sub(" ", body).strip()
 
+            year = None
+            m = re.search(r"<\s*span\s*>([12]\d\d\d)</\s*span\s*>", r.content.decode("utf-8"))
+            if m is not None:
+                year = int(m.group(1))
+
             is_streamed = b"SIFF Streaming" in r.content
 
             for idx, x in enumerate(xs):
                 x["EventBody"] = body
+                x["Year"] = year
 
                 x["EventIndex"] = idx + 1
                 x["EventTotal"] = len(xs)
@@ -171,7 +177,12 @@ class SiffICS:
 
             # Overview
             event.add("uid", x["ShowtimeId"])
-            event.add("summary", x["EventName"])
+
+            summary = x["EventName"]
+            if x["Year"] is not None and x["Year"] < datetime.date.today().year - 2:
+                summary = f"{x['EventName']} ({x['Year']})"
+
+            event.add("summary", summary)
             event.add(
                 "location",
                 f"{x['VenueNameOrig']}, {x['VenueAddress1']}",
