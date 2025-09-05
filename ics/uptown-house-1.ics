@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20250904T220934Z
-BEGIN:VEVENT
-SUMMARY:The Roses
-DTSTART:20250904T235000Z
-DTEND:20250905T015500Z
-DTSTAMP:20250904T235000Z
-UID:YGGOZlnxu7
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nBenedict Cumberbatch and Olivia 
- Colman play a picture-perfect married couple who descend into a bitter cat
- -and-dog divorce battle in this reimagining of The War of the Roses. Conta
- ins several sequences with flashing lights that may affect those who are s
- usceptible to photosensitive epilepsy or have other photosensitivities.\n\
- nhttps://www.siff.net/cinema/in-theaters/the-roses
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Roses
-DTSTART:20250905T023000Z
-DTEND:20250905T043500Z
-DTSTAMP:20250905T023000Z
-UID:0IOxlXgsss
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nBenedict Cumberbatch and Olivia 
- Colman play a picture-perfect married couple who descend into a bitter cat
- -and-dog divorce battle in this reimagining of The War of the Roses. Conta
- ins several sequences with flashing lights that may affect those who are s
- usceptible to photosensitive epilepsy or have other photosensitivities.\n\
- nhttps://www.siff.net/cinema/in-theaters/the-roses
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20250905T151320Z
 BEGIN:VEVENT
 SUMMARY:The Roses
 DTSTART:20250905T235000Z
@@ -663,6 +635,20 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nSIFF Movie Club Shepitko’s emo
  eir harrowing trek leads them on a journey of betrayal\, heroism\, and ult
  imate transcendence.  Introduced by SIFF Cinema Staff Member Adam Plesser
  .\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/the-ascent
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Night of the Hunter (1955)
+DTSTART:20251204T020000Z
+DTEND:20251204T035500Z
+DTSTAMP:20251204T020000Z
+UID:m3c3J36K5J
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nSIFF Movie Club Part fairy tale\,
+  part Southern gothic horror story\, The Night of the Hunter tells the sto
+ ry of a psychopathic preacher who pursues two children who hold the key to
+  hidden loot. 70th anniversary screening.  Introduced by SIFF Education 
+ Manager Megan Garbayo-López.\n\nhttps://www.siff.net/programs-and-events
+ /siff-movie-club/the-night-of-the-hunter
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
