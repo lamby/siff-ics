@@ -3,59 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20250905T151320Z
-BEGIN:VEVENT
-SUMMARY:STAR WARS: THE PHANTOM MENACE (1999)
-DTSTART:20250905T182500Z
-DTEND:20250905T210500Z
-DTSTAMP:20250905T182500Z
-UID:uXF9F2L0kp
-DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Jedi Knights discover Anakin Skywalker\, a boy unusually strong
-  in the Force. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
- ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
- ar-wars-ultimate-cinematic-marathon/the-phantom-menace
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAR WARS: ATTACK OF THE CLONES (2002)
-DTSTART:20250905T214000Z
-DTEND:20250906T002500Z
-DTSTAMP:20250905T214000Z
-UID:QVgj4dmB3j
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Young Anakin and Padmé fall in love as galactic war looms. Spe
- cial Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $
- 17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-c
- inematic-marathon/attack-of-the-clones
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAR WARS: REVENGE OF THE SITH (2005)
-DTSTART:20250906T010000Z
-DTEND:20250906T034000Z
-DTSTAMP:20250906T010000Z
-UID:UwrcvkngAo
-DESCRIPTION:Duration: 140 mins (2h20m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon As the Republic falls\, a new regime lead by an ancient evil ri
- ses in its place. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 S
- eniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events
- /star-wars-ultimate-cinematic-marathon/revenge-of-the-sith
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOLO: A STAR WARS STORY (2018)
-DTSTART:20250906T043000Z
-DTEND:20250906T070500Z
-DTSTAMP:20250906T043000Z
-UID:8SJdZa27J4
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Witness the beginning of the Star Wars saga’s most unlikely h
- ero. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
- ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
- timate-cinematic-marathon/solo-a-star-wars-story
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20250906T143031Z
 BEGIN:VEVENT
 SUMMARY:ROGUE ONE: A STAR WARS STORY (2016)
 DTSTART:20250906T183500Z
