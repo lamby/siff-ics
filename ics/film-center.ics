@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20250909T135954Z
-BEGIN:VEVENT
-SUMMARY:If That Mockingbird Don’t Sing
-DTSTART:20250910T020000Z
-DTEND:20250910T035500Z
-DTSTAMP:20250910T020000Z
-UID:I8dH4wYPtN
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nThe Popcorn List After being brut
- ally dumped\, 17-year-old Sydnie discovers she is pregnant\, and decides t
- o keep the baby as a quick fix to get her ex back and change her life.\n\n
- https://www.siff.net/programs-and-events/the-popcorn-list/if-that-mockingb
- ird-dont-sing
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20250910T142858Z
 BEGIN:VEVENT
 SUMMARY:Democracy Noir
 DTSTART:20250912T230000Z
@@ -134,6 +121,19 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nThis is a story of democracy dyin
  regime\, envied by promoters of a new brand of authoritarianism throughout
   the world. Q&A with Director Connie Field following both screenings on Se
  ptember 12.\n\nhttps://www.siff.net/cinema/in-theaters/democracy-noir
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sans Soleil (1983)
+DTSTART:20250919T020000Z
+DTEND:20250919T040500Z
+DTSTAMP:20250919T020000Z
+UID:GDtOwmFRHJ
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nPresented by Mount Analogue ○ 
+ Art + Cinema Considered one of the best documentaries of all time\, Chris 
+ Marker's 1983 film Sans Soleil (Sunless) is a mind-bending free-form trave
+ logue that journeys from Africa to Japan.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/sans-soleil
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
