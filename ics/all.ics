@@ -3,72 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20250910T142858Z
-BEGIN:VEVENT
-SUMMARY:STAR WARS: EMPIRE STRIKES BACK (1980)
-DTSTART:20250910T230000Z
-DTEND:20250911T012500Z
-DTSTAMP:20250910T230000Z
-UID:pLlEtHjIK3
-DESCRIPTION:Duration: 124 mins (2h04m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Luke Skywalker trains as a Jedi in order to confront the evil S
- ith Lord\, Darth Vader. Special Engagement Pricing:$22 ($19 SIFF Members\;
-  $21 Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-
- events/star-wars-ultimate-cinematic-marathon/the-empire-strikes-back
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honey Don’t!
-DTSTART:20250910T231500Z
-DTEND:20250911T010500Z
-DTSTAMP:20250910T231500Z
-UID:r6B2NLAN8M
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
- e of them is justice. Honey O’Donahue\, a small-town private investigato
- r\, delves into a series of strange deaths tied to a mysterious church in 
- this comic noir.\n\nhttps://www.siff.net/cinema/in-theaters/honey-dont
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Splitsville
-DTSTART:20250910T233000Z
-DTEND:20250911T013000Z
-DTSTAMP:20250910T233000Z
-UID:qkKhrjHdfE
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen his wife asks for a divorce
- \, a man runs to his friends for support\, only to learn that the secret t
- o their happiness is an open marriage. Intro and Q&A with filmmakers Micha
- el Angelo Covino and Kyle Marvin at the 7:00pm screening on August 29.\n\n
- https://www.siff.net/cinema/in-theaters/splitsville
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Roses
-DTSTART:20250911T021500Z
-DTEND:20250911T042000Z
-DTSTAMP:20250911T021500Z
-UID:DuJ1cbT8hD
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nBenedict Cumberbatch and Olivia 
- Colman play a picture-perfect married couple who descend into a bitter cat
- -and-dog divorce battle in this reimagining of The War of the Roses. Conta
- ins several sequences with flashing lights that may affect those who are s
- usceptible to photosensitive epilepsy or have other photosensitivities.\n\
- nhttps://www.siff.net/cinema/in-theaters/the-roses
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAR WARS: THE LAST JEDI (2017)
-DTSTART:20250911T023000Z
-DTEND:20250911T052500Z
-DTSTAMP:20250911T023000Z
-UID:v99qAur8lC
-DESCRIPTION:Duration: 152 mins (2h32m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon A spark of hope keeps the Resistance alive as they flee from th
- e First Order. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
- ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
- ar-wars-ultimate-cinematic-marathon/the-last-jedi
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20250911T155508Z
 BEGIN:VEVENT
 SUMMARY:Downton Abbey: The Grand Finale
 DTSTART:20250911T230000Z
