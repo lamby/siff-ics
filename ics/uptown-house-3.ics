@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20250911T155508Z
-BEGIN:VEVENT
-SUMMARY:Honey Don’t!
-DTSTART:20250911T233000Z
-DTEND:20250912T012000Z
-DTSTAMP:20250911T233000Z
-UID:bXRK2d4C9o
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
- e of them is justice. Honey O’Donahue\, a small-town private investigato
- r\, delves into a series of strange deaths tied to a mysterious church in 
- this comic noir.\n\nhttps://www.siff.net/cinema/in-theaters/honey-dont
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Splitsville
-DTSTART:20250912T021500Z
-DTEND:20250912T041500Z
-DTSTAMP:20250912T021500Z
-UID:jKSIPMt69X
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen his wife asks for a divorce
- \, a man runs to his friends for support\, only to learn that the secret t
- o their happiness is an open marriage. Intro and Q&A with filmmakers Micha
- el Angelo Covino and Kyle Marvin at the 7:00pm screening on August 29.\n\n
- https://www.siff.net/cinema/in-theaters/splitsville
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20250912T151212Z
 BEGIN:VEVENT
 SUMMARY:Honey Don’t!
 DTSTART:20250913T021500Z
@@ -455,6 +430,20 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nPresented by Uncertain Producti
  s two worlds. Q&A with creator Gregg Lachow. $13 ($10 Students & Seniors)\
  n\nhttps://www.siff.net/cinema/in-theaters/the-uncertain-detective-season-
  4
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Forest (2018)
+DTSTART:20251004T020000Z
+DTEND:20251004T040500Z
+DTSTAMP:20251004T020000Z
+UID:SYQ1fEAO2f
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nYim Soon-rye’s gentlest film t
+ ransplants Little Forest\, Daisuke Igarashi’s manga about slow living an
+ d natural cooking\, to the Korean countryside. Introduction and Q&A with D
+ irector Yim Soon-rye moderated by Ungsan Kim\, University of Washington Ce
+ nter for Korea Studies.\n\nhttps://www.siff.net/cinema/in-theaters/little-
+ forest
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

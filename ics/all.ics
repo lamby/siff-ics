@@ -3,110 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20250911T155508Z
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20250911T230000Z
-DTEND:20250912T012500Z
-DTSTAMP:20250911T230000Z
-UID:BkmphTnoes
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20250912T020000Z
-DTEND:20250912T042500Z
-DTSTAMP:20250912T020000Z
-UID:DtHy7riG61
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAR WARS: RETURN OF THE JEDI (1983)
-DTSTART:20250911T230000Z
-DTEND:20250912T013500Z
-DTSTAMP:20250911T230000Z
-UID:8Vj85Vx4eU
-DESCRIPTION:Duration: 132 mins (2h12m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Luke Skywalker faces Darth Vader in a final duel. Special Engag
- ement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)\
- n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-m
- arathon/return-of-the-jedi
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honey Don’t!
-DTSTART:20250911T233000Z
-DTEND:20250912T012000Z
-DTSTAMP:20250911T233000Z
-UID:bXRK2d4C9o
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
- e of them is justice. Honey O’Donahue\, a small-town private investigato
- r\, delves into a series of strange deaths tied to a mysterious church in 
- this comic noir.\n\nhttps://www.siff.net/cinema/in-theaters/honey-dont
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Roses
-DTSTART:20250911T234500Z
-DTEND:20250912T015000Z
-DTSTAMP:20250911T234500Z
-UID:wknSMkEZZS
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nBenedict Cumberbatch and Olivia 
- Colman play a picture-perfect married couple who descend into a bitter cat
- -and-dog divorce battle in this reimagining of The War of the Roses. Conta
- ins several sequences with flashing lights that may affect those who are s
- usceptible to photosensitive epilepsy or have other photosensitivities.\n\
- nhttps://www.siff.net/cinema/in-theaters/the-roses
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Roses
-DTSTART:20250912T023000Z
-DTEND:20250912T043500Z
-DTSTAMP:20250912T023000Z
-UID:rOKpPQIQs2
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nBenedict Cumberbatch and Olivia 
- Colman play a picture-perfect married couple who descend into a bitter cat
- -and-dog divorce battle in this reimagining of The War of the Roses. Conta
- ins several sequences with flashing lights that may affect those who are s
- usceptible to photosensitive epilepsy or have other photosensitivities.\n\
- nhttps://www.siff.net/cinema/in-theaters/the-roses
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Splitsville
-DTSTART:20250912T021500Z
-DTEND:20250912T041500Z
-DTSTAMP:20250912T021500Z
-UID:jKSIPMt69X
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen his wife asks for a divorce
- \, a man runs to his friends for support\, only to learn that the secret t
- o their happiness is an open marriage. Intro and Q&A with filmmakers Micha
- el Angelo Covino and Kyle Marvin at the 7:00pm screening on August 29.\n\n
- https://www.siff.net/cinema/in-theaters/splitsville
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAR WARS: THE RISE OF SKYWALKER (2019)
-DTSTART:20250912T023000Z
-DTEND:20250912T051500Z
-DTSTAMP:20250912T023000Z
-UID:qwD83Cu5l7
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon The landmark Skywalker saga comes to a conclusion. Special Enga
- gement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)
- \n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-
- marathon/the-rise-of-skywalker
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20250912T151212Z
 BEGIN:VEVENT
 SUMMARY:STAR WARS: A NEW HOPE (1977)
 DTSTART:20250912T200000Z
@@ -919,6 +816,34 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nAfter cracking a tooth on Christm
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Point Blank (1967)
+DTSTART:20250918T023000Z
+DTEND:20250918T042500Z
+DTSTAMP:20250918T023000Z
+UID:YcC81LEsWx
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nL.A. Noir: Shadows in Paradise Pr
+ esented by Greg Olson Productions Billy Wilder’s Sunset Boulevard (1950)
+  is an L.A. tale somehow told by a dead man\, and director John Boorman’
+ s Point Blank explores a similar physical/metaphysical neighborhood\, wher
+ e there’s a scent of ultimate mystery in the sultry air. A master thief 
+ (Lee Marvin) is shot by his partner (John Vernon)\, who takes of with “t
+ heir” $93\,000 and Marvin’s wife (Sharon Aker)\, and heads for L.A. Ma
+ rvin pursues them\, his hard leather shoes clacking and echoing in the LAX
+  airport hallway. His name is Walker\, and like a hungry ghost or avenging
+  angel\, so cool he could frost palm trees\, he keeps striding forward\, u
+ nstoppable. He embraces a luscious\, helpful woman (Angie Dickinson)\, and
+  makes a parade of powerful men wish they’d never seen him. He’ll tear
+  apart corporate skyscrapers with his hands if he as to—but answers\, li
+ ke he himself\, remain elusive. Boorman makes stunning use of widescreen c
+ olor\, moving on from the more “square” frame format of classic film n
+ oir and making the expansive frame a signifier of Neo-noir. Individual Tic
+ kets: $15Passes: Prorated\, with discounts for SIFF\, SAM\, Swedish Club\,
+  UW Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, Festa Italiana\, Allianc
+ e Francaise de Seattle\, Scarecrow Video\, & KING FM members\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/la-noir-shadows-in-paradise/point-blank
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:STAR WARS: RETURN OF THE JEDI (1983)
 DTSTART:20250918T023000Z
 DTEND:20250918T050500Z
@@ -1704,6 +1629,34 @@ DESCRIPTION:Duration: 188 mins (3h08m)\n\nThe Modern Mastery of Paul Thoma
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Long Goodbye (1973)
+DTSTART:20250925T023000Z
+DTEND:20250925T044500Z
+DTSTAMP:20250925T023000Z
+UID:3BJQhV7Sq6
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nL.A. Noir: Shadows in Paradise P
+ resented by Greg Olson Productions Master noir novelist Raymond Chandler
+ ’s 1953 "The Long Goodbye" was taut\, crisp\, hard-boiled. Robert Altman
+ ’s film version is meandering and woozy from too much laid back sunshine
+  and hash brownies baked by naked female yoga devotees. Times change. Elli
+ ott Gould’s bedraggled\, bumbling Philip Marlowe is the anti-Bogart vers
+ ion of the character. No questing urban knight off to rendezvous with Laur
+ en Bacall\, Gould is having trouble buying cat food after midnight. Antago
+ nized and victimized by a corrupt and confusing world\, he responds with a
+  who cares\, go with the flow mantra: “It’s okay with me.” When the 
+ film came out Altman was criticized for cynically subverting Chandler’s 
+ art\, but\, at heart\, he and Gould’s Marlowe do care. Appearances can d
+ eceive\, and just as Altman layers his film with glass surfaces that refle
+ ct\, obscure\, and reveal shifting realities\, Gould’s shambling form hi
+ des a classic Marlowe integrity that will spark into action. Individual Ti
+ ckets: $15Passes: Prorated\, with discounts for SIFF\, SAM\, Swedish Club\
+ , UW Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, Festa Italiana\, Allian
+ ce Francaise de Seattle\, Scarecrow Video\, & KING FM members\n\nhttps://w
+ ww.siff.net/cinema/in-theaters/la-noir-shadows-in-paradise/the-long-goodby
+ e
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Big Bold Beautiful Journey
 DTSTART:20250925T231500Z
 DTEND:20250926T012500Z
@@ -2264,6 +2217,35 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nSIFF Movie Club Green Room is a b
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cutter's Way (1981)
+DTSTART:20251002T023000Z
+DTEND:20251002T044000Z
+DTSTAMP:20251002T023000Z
+UID:qtwPkKjkGg
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nL.A. Noir: Shadows in Paradise P
+ resented by Greg Olson Productions This great film of the 1980s features a
+  lazily charming Jeff Bridges as a blue-eyed beach boy who seduces older w
+ omen for money and dabbles in selling yachts. He flows along\, easy going\
+ , but his crippled\, boozy war vet friend (John Heard) burns red-hot with 
+ anger over his own shortcomings and “the sins of the world.” Heard is 
+ an “Ahab” looking for a "Moby-Dick” to pursue\, and his target becom
+ es an oil tycoon (Stephen Elliott) who Bridges thinks he may have seen dis
+ pose of a dead teenage girl in a nocturnal mist. Heard disregards Bridges
+ ’ uncertainty and devises a scheme to expose Elliott as “the killer.
+ ” But Bridges can’t commit to acting out his friend’s “fantasy.”
+  Heard’s long-suffering wife (Lisa Eichorn) sways between the husband sh
+ e loves and Bridges\, who’s touched by her melancholy allure. Bridges' a
+ cting artistry is quietly stunning as\, alone with Eichorn\, he acknowledg
+ es his attraction to her with fond looks and few words. Bridges is the guy
+  “who always walks away.” But when a Zen moment of existential choice 
+ arises\, young blue eyes can handle it. Presented on 35mm. Individual Tic
+ kets: $15Passes: Prorated\, with discounts for SIFF\, SAM\, Swedish Club\,
+  UW Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, Festa Italiana\, Allianc
+ e Francaise de Seattle\, Scarecrow Video\, & KING FM members\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/la-noir-shadows-in-paradise/cutters-way
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Battle After Another
 DTSTART:20251002T230000Z
 DTEND:20251003T020500Z
@@ -2377,6 +2359,20 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to Screen Oscar-nominated
  https://www.siff.net/programs-and-events/stage-to-screen/nt-live-inter-ali
  a
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Forest (2018)
+DTSTART:20251004T020000Z
+DTEND:20251004T040500Z
+DTSTAMP:20251004T020000Z
+UID:SYQ1fEAO2f
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nYim Soon-rye’s gentlest film t
+ ransplants Little Forest\, Daisuke Igarashi’s manga about slow living an
+ d natural cooking\, to the Korean countryside. Introduction and Q&A with D
+ irector Yim Soon-rye moderated by Ungsan Kim\, University of Washington Ce
+ nter for Korea Studies.\n\nhttps://www.siff.net/cinema/in-theaters/little-
+ forest
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Battle After Another
@@ -2672,6 +2668,48 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
  tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
  ters/one-battle-after-another
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Two Jakes (1990)
+DTSTART:20251009T023000Z
+DTEND:20251009T051000Z
+DTSTAMP:20251009T023000Z
+UID:lA2IDOm478
+DESCRIPTION:Duration: 138 mins (2h18m)\n\nL.A. Noir: Shadows in Paradise P
+ resented by Greg Olson Productions In 1978 screenwriter Robert Towne\, dir
+ ector Roman Polanski\, actors Jack Nicholson\, Faye Dunaway\, John Huston 
+ and company gave us Chinatown\, a Watergate/Vietnam War-era statement abou
+ t moral and socio-political corruption in the stylish form of a 1938 film 
+ noir detective story. It’s a knockout\, a favorite film of many\, that s
+ pawned the Neo-noir concept\, since scholars told us the first wave of noi
+ r ended in the late 1950s. Private investigator J.J. Jake Gittes (Jack Nic
+ holson) got paid for spying on people\, but he had a strong moral compass.
+  His mission was to keep those he cared about from being hurt\, but he did
+ n't comprehend the nefarious desires and motives driving certain people\, 
+ and his beloved Evelyn Mulwray was killed\, her daughter Catherine envelop
+ ed in the monstrous clutches of Evelyn’s incestuous father\, water baron
+  Noah Cross. Thus Chinatown concluded\, leaving Gittes a shattered man. Wh
+ at good is a moral compass when the bottom drops out of your world? A deca
+ de later screenwriter Towne and star Nicholson are back in The Two Jakes\,
+  with cinematically savvy Nicholson directing. Chinatown was about owning 
+ and controlling L.A.’s water supply\; in Two Jakes the valued commoditie
+ s are land for housing developments\, and the oil hidden beneath the golde
+ n hills. Gittes has pulled himself together\, and with another Jake (devel
+ oper Berman: Harvey Keitel)\, is involved with a sudden murder\, amorous w
+ idow Madeleine Stowe\, and oil tycoon Richard Farnsworth. Gittes has a lot
+  to occupy him\, but he’s still haunted by his loss of Evelyn Mulwray an
+ d the mystery of what happened to her daughter Catherine. What can he find
+  out that will ease his heart? When Two Jakes came out it was blamed for n
+ ot being a bigger and better Chinatown\, as if such were possible or desir
+ able. Critics Siskel and Ebert loved the film\, seeing it clearly as a sop
+ histicated\, intelligent\, and emotional work of Southern California cinem
+ atic literature\, with the enticing look and feel of 1940s L.A. Individual
+  Tickets: $15Passes: Prorated\, with discounts for SIFF\, SAM\, Swedish Cl
+ ub\, UW Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, Festa Italiana\, All
+ iance Francaise de Seattle\, Scarecrow Video\, & KING FM members\n\nhttps:
+ //www.siff.net/cinema/in-theaters/la-noir-shadows-in-paradise/the-two-jake
+ s
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tron: Ares
@@ -3040,6 +3078,35 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heat (1995)
+DTSTART:20251016T023000Z
+DTEND:20251016T054000Z
+DTSTAMP:20251016T023000Z
+UID:LIJnhMobIw
+DESCRIPTION:Duration: 170 mins (2h50m)\n\nL.A. Noir: Shadows in Paradise P
+ resented by Greg Olson Productions Two men in L.A. A criminal\, a cop. Rob
+ ert De Niro and Al Pacino. Fire and ice\, coming to a boil. Cool and contr
+ olled\, De Niro and his pals (Val Kilmer\, Jon Voight\, Tom Sizemore) pull
+  off big robberies with military precision. Steamed-up\, swaggering Pacino
+  uses intuition and massive manpower to track them\, with limited success.
+  Master stylist Michael Mann (TV’s "Miami Vice") gives this monumental c
+ rime saga irresistible forward momentum\, but everything stops so two grea
+ t American actors\, De Niro and Pacino\, can appear together for the first
+  time and have coffee. The outlaw and the lawman are both doing what they
+ ’re best at\, and it’s their nature to keep on with it. But for a mome
+ nt out of time they talk about the fullness and emptiness of their lives\,
+  what they gain and lose. This isn’t a truce\, there will be machine gun
+  fire on downtown streets\, people lying dead. They’ll meet again at nig
+ ht\, out in a field at the airport. Planes glide overhead like souls\, som
+ e coming in\, some leaving on the soft\, sultry air. 30th Anniversary Scre
+ ening. Individual Tickets: $15Passes: Prorated\, with discounts for SIFF\,
+  SAM\, Swedish Club\, UW Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, Fes
+ ta Italiana\, Alliance Francaise de Seattle\, Scarecrow Video\, & KING FM 
+ members\n\nhttps://www.siff.net/cinema/in-theaters/la-noir-shadows-in-para
+ dise/heat-30th-anniversary
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tron: Ares
 DTSTART:20251016T231500Z
 DTEND:20251017T013500Z
@@ -3232,6 +3299,38 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nSIFF DocFest A shocking medical d
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:L.A. Confidential (1997)
+DTSTART:20251023T023000Z
+DTEND:20251023T051000Z
+DTSTAMP:20251023T023000Z
+UID:Lu1iNkbTV0
+DESCRIPTION:Duration: 138 mins (2h18m)\n\nL.A. Noir: Shadows in Paradise P
+ resented by Greg Olson Productions Writer-director Curtis Hanson had a fri
+ endly working relationship with Robert Towne\, the man who conceived and w
+ rote Chinatown and The Two Jakes\, and he absorbed Towne’s epic vision o
+ f Los Angeles as a place flavorfully layered with corruption. And he had t
+ he lodestar novel "L.A. Confidential" by James Ellroy\, the “demon dog o
+ f Los Angeles” to guide him. Why would honorable men\, sworn to uphold t
+ he law\, tip towards villainy? And who’s to judge them but themselves? T
+ he film delves deep into the passions and hidden secrets that drive an amb
+ itious straight-arrow neophyte cop (Guy Pearce)\, a seasoned tough-guy hot
+  head (Russell Crowe)\, and a showboat (Kevin Spacey) who maintains an unh
+ oly alliance between the LAPD\, gangsters\, movie stars\, and the sleazy t
+ abloid media. Set in the 1950s with flashbacks to the 1930s\, we’re show
+ n a morally tainted historical panorama\, with top cop Dudley Smith (James
+  Cromwell)\, who appears in many Ellroy novels\, pulling behind-the-scenes
+  strings with his own soiled hands. Fragments of meaning\, crimes\, myster
+ ies\, coalesce into story. These men’s jobs are their lives\, but love c
+ an’t be denied. For Pearce and Crowe\, it’s centered on an independent
+ -minded prostitute (Kim Basinger)\, who holds a key to the city. Presented
+  on 35mm. Individual Tickets: $15Passes: Prorated\, with discounts for SIF
+ F\, SAM\, Swedish Club\, UW Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, 
+ Festa Italiana\, Alliance Francaise de Seattle\, Scarecrow Video\, & KING 
+ FM members\n\nhttps://www.siff.net/cinema/in-theaters/la-noir-shadows-in-p
+ aradise/la-confidential
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sun Ra: Do the Impossible
 DTSTART:20251024T000000Z
 DTEND:20251024T014500Z
@@ -3255,6 +3354,34 @@ DESCRIPTION:Duration: 117 mins (1h57m)\n\nSIFF DocFest Urgent and deeply r
  and Mark Obenhaus (“Frontline”) profile renowned investigative reporte
  r Seymour Hersh in this arresting reflection on power and accountability.\
  n\nhttps://www.siff.net/programs-and-events/docfest/cover-up
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Limey (1999)
+DTSTART:20251030T023000Z
+DTEND:20251030T042000Z
+DTSTAMP:20251030T023000Z
+UID:pxSlhr1Oxe
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nL.A. Noir: Shadows in Paradise Pr
+ esented by Greg Olson Productions In the period between director Steven So
+ derbergh’s stunning indy Cannes debut sex\, lies and videotape (1991) an
+ d his mainstream 2000s triumphs like Erin Brockovich\, Traffic\, and Ocean
+ ’s Eleven\, he crafted this lean\, compelling quest film with a counterc
+ ulture vibe. Aging Cockney ex-con Wilson (Swinging Sixties British icon Te
+ rence Stamp) flies into L.A. when he learns his dear daughter Jenny (Melis
+ sa George) died in a car crash. Her death was suspicious\, and Wilson take
+ s it upon himself to get answers. The road leads to Valentine (icon of Hip
+  Peter Fonda) music world mogul and drug trafficker\, who was Jenny’s la
+ st boyfriend. Valentine’s surrounded by protectors (Barry Newman of the 
+ 1971 cult favorite Vanishing Point)\, but Wilson gets help from Jenny’s 
+ friends (Luis Guzman\, cult Cool Girl Leslie Ann Warren). Wilson’s bent 
+ on cold\, icy revenge\, but director Soderbergh calls the tune. With Warho
+ l star Joe Dellesandro\, George Clooney (uncredited archive footage). Indi
+ vidual Tickets: $15Passes: Prorated\, with discounts for SIFF\, SAM\, Swed
+ ish Club\, UW Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, Festa Italiana
+ \, Alliance Francaise de Seattle\, Scarecrow Video\, & KING FM members\n\n
+ https://www.siff.net/cinema/in-theaters/la-noir-shadows-in-paradise/the-li
+ mey
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -3293,6 +3420,69 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nSIFF Movie Club Shepitko’s emo
  imate transcendence.  Introduced by SIFF Cinema Staff Member Adam Plesser
  .\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/the-ascent
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drive (2011)
+DTSTART:20251106T033000Z
+DTEND:20251106T053000Z
+DTSTAMP:20251106T033000Z
+UID:fuHZP1nsDA
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nL.A. Noir: Shadows in Paradise P
+ resented by Greg Olson Productions Driver (Ryan Gosling) travels light. Je
+ ans\, T-shirt\, jacket’s got a scorpion design. He’s an ace at the whe
+ el\, for money he’ll drive for you whether your purpose is light (he’s
+  a Hollywood stunt driver) or dark (criminal activities). Driver’s preci
+ se\, in control\, so when he says he’ll do his job for you\, takes your 
+ payment for working exactly so many minutes and seconds\, that’s all you
+  get. Self-contained\, tiny apartment. When he shares an elevator ride wit
+ h a sweet-looking woman (Carey Mulligan) they just exchange a shy\, split-
+ second glance\, no words. But there’s an unstated hum of connection betw
+ een them that persists after her husband (Oscar Issac) comes home from pri
+ son. Gosling personifies the Romantic Movement\, like a troubadour of old 
+ pledged to his lady in spirit. There are good guys (Breaking Bad’s Bryan
+  Cranston) and bad guys (Albert Brooks\, Ron Perlman\, Mad Men’s Christi
+ na Hendricks) to complicate things\, but Gosling will drive Mulligan in th
+ e golden afternoon and through the night\, have no fear. Individual Ticket
+ s: $15Passes: Prorated\, with discounts for SIFF\, SAM\, Swedish Club\, UW
+  Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, Festa Italiana\, Alliance F
+ rancaise de Seattle\, Scarecrow Video\, & KING FM members\n\nhttps://www.s
+ iff.net/cinema/in-theaters/la-noir-shadows-in-paradise/drive
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inherent Vice (2014)
+DTSTART:20251113T033000Z
+DTEND:20251113T062000Z
+DTSTAMP:20251113T033000Z
+UID:i39x7qBMKk
+DESCRIPTION:Duration: 148 mins (2h28m)\n\nL.A. Noir: Shadows in Paradise P
+ resented by Greg Olson Productions Always in the vanguard\, New/Old Hollyw
+ ood director Paul Thomas Anderson made The Phantom Thread (2017) in Englan
+ d\, but otherwise his personal and cinematic turf has been Los Angeles and
+  its environs in Hard Eight\, Boogie Nights\, Magnolia\, Punch-Drunk Love\
+ , There Will Be Blood\, The Master\, Licorice Pizza. And here we have the 
+ Gordita Beach town of Thomas Pynchon’s delightfully dense Inherent Vice 
+ novel. Pynchon and Anderson waft us back to the late 1960s-early 1970s lik
+ e no one else can: ride the vibes. Smoking a joint helps charmingly semi-f
+ ocused detective Doc Sportello (a transcendent Joaquin Phoenix) see all th
+ e dimensions of a case. Of course Doc’s office is in a medical clinic\; 
+ we’re in Pynchon’s brilliant\, satirical universe here\, where beauty\
+ , menace\, absurdity\, heart and soul mix it up minute to minute. One nigh
+ t Doc’s former girlfriend Shasta (Katherine Waterston) comes to him. Whe
+ re’s she been\, why’s she afraid\, where did she go in that big black 
+ Cadillac? As Doc embarks on a steps-forward/steps-backward quest to solve 
+ her mysteries\, he encounters the sinister Golden Fang organization\, a pr
+ esumed-dead sax player (Owen Wilson)\, a trippy carnival of SoCal human wi
+ ldlife\, and his nemesis/friend/sparring partner policeman Bigfoot (a stel
+ lar James Brolin). Doc’s counterculture values and ways are mocked and a
+ ttacked\, but he rides them like a heartfelt wave. Features a glorious pas
+ sage of Neil Young’s music. With Reese Witherspoon\, Martin Short\, Beni
+ cio del Toro. Individual Tickets: $15Passes: Prorated\, with discounts for
+  SIFF\, SAM\, Swedish Club\, UW Cinema Studies\, NWFF\, SFI\, TheFilmSchoo
+ l\, Festa Italiana\, Alliance Francaise de Seattle\, Scarecrow Video\, & K
+ ING FM members\n\nhttps://www.siff.net/cinema/in-theaters/la-noir-shadows-
+ in-paradise/inherent-vice
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Classified Cinema
@@ -3341,5 +3531,18 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nSIFF Movie Club Part fairy tale\,
  Manager Megan Garbayo-López.\n\nhttps://www.siff.net/programs-and-events
  /siff-movie-club/the-night-of-the-hunter
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mountains on Stage - Winter 2025
+DTSTART:20251211T030000Z
+DTEND:20251211T062000Z
+DTSTAMP:20251211T030000Z
+UID:kfwPZ1m0FN
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nPresented by Mountains on Stage.
+  Mountains on Stage aims to bring the mountains to the city\, to share the
+  beauty of mountain sports! A selection of the best documentaries on mount
+ ain activities are presented. Read more.\n\nhttps://www.siff.net/cinema/in
+ -theaters/mountains-on-stage-winter-2025
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
