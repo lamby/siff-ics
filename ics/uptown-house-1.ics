@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20250916T141148Z
+LAST-MODIFIED:20250916T185531Z
 BEGIN:VEVENT
 SUMMARY:Downton Abbey: The Grand Finale
 DTSTART:20250916T230000Z
@@ -292,6 +292,17 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nL.A. Noir: Shadows in Paradise P
   UW Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, Festa Italiana\, Allianc
  e Francaise de Seattle\, Scarecrow Video\, & KING FM members\n\nhttps://ww
  w.siff.net/cinema/in-theaters/la-noir-shadows-in-paradise/cutters-way
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are We Good?
+DTSTART:20251005T230000Z
+DTEND:20251006T010000Z
+DTSTAMP:20251005T230000Z
+UID:Ate8fhAapk
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nThe life of comic and podcast pio
+ neer Marc Maron\, as he struggles with the loss of his partner\, Seattle i
+ con Lynn Shelton.\n\nhttps://www.siff.net/cinema/in-theaters/are-we-good
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
