@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20250915T142345Z
-BEGIN:VEVENT
-SUMMARY:ROGUE ONE: A STAR WARS STORY (2016)
-DTSTART:20250915T230000Z
-DTEND:20250916T013500Z
-DTSTAMP:20250915T230000Z
-UID:tomFjZ4T7N
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Unlikely heroes band together to steal the plans to the Death S
- tar. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
- ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
- timate-cinematic-marathon/rogue-one-a-star-wars-story
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAR WARS: A NEW HOPE (1977)
-DTSTART:20250916T023000Z
-DTEND:20250916T045500Z
-DTSTAMP:20250916T023000Z
-UID:gfTQhGSvrw
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon A young farm boy intercepts a distress call from Princess Leia 
- Organa of Alderaan. Special Engagement Pricing:$22 ($19 SIFF Members\; $21
-  Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-even
- ts/star-wars-ultimate-cinematic-marathon/a-new-hope
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20250916T141148Z
 BEGIN:VEVENT
 SUMMARY:STAR WARS: THE PHANTOM MENACE (1999)
 DTSTART:20250916T230000Z
