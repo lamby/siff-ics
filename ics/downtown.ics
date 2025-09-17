@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20250916T185531Z
-BEGIN:VEVENT
-SUMMARY:STAR WARS: THE PHANTOM MENACE (1999)
-DTSTART:20250916T230000Z
-DTEND:20250917T014000Z
-DTSTAMP:20250916T230000Z
-UID:kbnThR0Kdo
-DESCRIPTION:Duration: 136 mins (2h16m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Jedi Knights discover Anakin Skywalker\, a boy unusually strong
-  in the Force. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seni
- ors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/st
- ar-wars-ultimate-cinematic-marathon/the-phantom-menace
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAR WARS: EMPIRE STRIKES BACK (1980)
-DTSTART:20250917T023000Z
-DTEND:20250917T045500Z
-DTSTAMP:20250917T023000Z
-UID:awDnfSJQj4
-DESCRIPTION:Duration: 124 mins (2h04m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Luke Skywalker trains as a Jedi in order to confront the evil S
- ith Lord\, Darth Vader. Special Engagement Pricing:$22 ($19 SIFF Members\;
-  $21 Seniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-
- events/star-wars-ultimate-cinematic-marathon/the-empire-strikes-back
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20250917T143917Z
 BEGIN:VEVENT
 SUMMARY:STAR WARS: ATTACK OF THE CLONES (2002)
 DTSTART:20250917T230000Z
