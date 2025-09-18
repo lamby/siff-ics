@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20250917T143917Z
-BEGIN:VEVENT
-SUMMARY:STAR WARS: ATTACK OF THE CLONES (2002)
-DTSTART:20250917T230000Z
-DTEND:20250918T014500Z
-DTSTAMP:20250917T230000Z
-UID:fTpBMKCKub
-DESCRIPTION:Duration: 142 mins (2h22m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Young Anakin and Padmé fall in love as galactic war looms. Spe
- cial Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $
- 17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-c
- inematic-marathon/attack-of-the-clones
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAR WARS: RETURN OF THE JEDI (1983)
-DTSTART:20250918T023000Z
-DTEND:20250918T050500Z
-DTSTAMP:20250918T023000Z
-UID:f8vxHDLYtr
-DESCRIPTION:Duration: 132 mins (2h12m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Luke Skywalker faces Darth Vader in a final duel. Special Engag
- ement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Students\; $17 Child)\
- n\nhttps://www.siff.net/programs-and-events/star-wars-ultimate-cinematic-m
- arathon/return-of-the-jedi
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20250918T151316Z
 BEGIN:VEVENT
 SUMMARY:STAR WARS: REVENGE OF THE SITH (2005)
 DTSTART:20250918T230000Z
@@ -1024,9 +998,9 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nSIFF DocFest Five bold young voi
  ng\, offering a masterclass in courage\, conviction\, and the kind of hope
   that refuses to be silenced. A DocFest Spotlight Screening\, presented wi
  th the Schultz Family Foundation in partnership with the National Speech a
- nd Debate Association. Co-director Guy Mossman\, producer Pamela Griner\, 
- and special guests scheduled to attend.\n\nhttps://www.siff.net/programs-a
- nd-events/docfest/speak
+ nd Debate Association. Director Jennifer Tiexiera\, co-director Guy Mossma
+ n\, producer Pamela Griner\, and special guests scheduled to attend.\n\nht
+ tps://www.siff.net/programs-and-events/docfest/speak
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 END:VCALENDAR

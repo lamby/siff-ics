@@ -3,50 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20250917T143917Z
-BEGIN:VEVENT
-SUMMARY:The Roses
-DTSTART:20250917T224500Z
-DTEND:20250918T005000Z
-DTSTAMP:20250917T224500Z
-UID:N2AAnEVCdY
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nBenedict Cumberbatch and Olivia 
- Colman play a picture-perfect married couple who descend into a bitter cat
- -and-dog divorce battle in this reimagining of The War of the Roses. Conta
- ins several sequences with flashing lights that may affect those who are s
- usceptible to photosensitive epilepsy or have other photosensitivities.\n\
- nhttps://www.siff.net/cinema/in-theaters/the-roses
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Point Blank (1967)
-DTSTART:20250918T023000Z
-DTEND:20250918T042500Z
-DTSTAMP:20250918T023000Z
-UID:YcC81LEsWx
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nL.A. Noir: Shadows in Paradise Pr
- esented by Greg Olson Productions Billy Wilder’s Sunset Boulevard (1950)
-  is an L.A. tale somehow told by a dead man\, and director John Boorman’
- s Point Blank explores a similar physical/metaphysical neighborhood\, wher
- e there’s a scent of ultimate mystery in the sultry air. A master thief 
- (Lee Marvin) is shot by his partner (John Vernon)\, who takes of with “t
- heir” $93\,000 and Marvin’s wife (Sharon Aker)\, and heads for L.A. Ma
- rvin pursues them\, his hard leather shoes clacking and echoing in the LAX
-  airport hallway. His name is Walker\, and like a hungry ghost or avenging
-  angel\, so cool he could frost palm trees\, he keeps striding forward\, u
- nstoppable. He embraces a luscious\, helpful woman (Angie Dickinson)\, and
-  makes a parade of powerful men wish they’d never seen him. He’ll tear
-  apart corporate skyscrapers with his hands if he as to—but answers\, li
- ke he himself\, remain elusive. Boorman makes stunning use of widescreen c
- olor\, moving on from the more “square” frame format of classic film n
- oir and making the expansive frame a signifier of Neo-noir. On the Blog - 
- Film Notes: Point Blank by Tova Gannana Individual Tickets: $15Passes: Pro
- rated\, with discounts for SIFF\, SAM\, Swedish Club\, UW Cinema Studies\,
-  NWFF\, SFI\, TheFilmSchool\, Festa Italiana\, Alliance Francaise de Seatt
- le\, Scarecrow Video\, & KING FM members\n\nhttps://www.siff.net/cinema/in
- -theaters/la-noir-shadows-in-paradise/point-blank
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20250918T151316Z
 BEGIN:VEVENT
 SUMMARY:A Big Bold Beautiful Journey
 DTSTART:20250918T233000Z
@@ -847,6 +804,17 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nPresented by Mountains on Stage.
   beauty of mountain sports! A selection of the best documentaries on mount
  ain activities are presented. Read more.\n\nhttps://www.siff.net/cinema/in
  -theaters/mountains-on-stage-winter-2025
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Classified Cinema
+DTSTART:20251217T033000Z
+DTEND:20251217T052000Z
+DTSTAMP:20251217T033000Z
+UID:qiQXSRZlnD
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
+ op secret until they hit the screen. Still free\, always fun\, never prete
+ ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
