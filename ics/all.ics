@@ -3,118 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20250918T151316Z
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20250918T230000Z
-DTEND:20250919T012500Z
-DTSTAMP:20250918T230000Z
-UID:8Bpja6qUls
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20250919T020000Z
-DTEND:20250919T042500Z
-DTSTAMP:20250919T020000Z
-UID:Pjnc1d18su
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAR WARS: REVENGE OF THE SITH (2005)
-DTSTART:20250918T230000Z
-DTEND:20250919T014000Z
-DTSTAMP:20250918T230000Z
-UID:neok9cSfFO
-DESCRIPTION:Duration: 140 mins (2h20m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon As the Republic falls\, a new regime lead by an ancient evil ri
- ses in its place. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 S
- eniors\, Students\; $17 Child)\n\nhttps://www.siff.net/programs-and-events
- /star-wars-ultimate-cinematic-marathon/revenge-of-the-sith
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Roses
-DTSTART:20250918T231500Z
-DTEND:20250919T012000Z
-DTSTAMP:20250918T231500Z
-UID:4WyXmiOfiW
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nBenedict Cumberbatch and Olivia 
- Colman play a picture-perfect married couple who descend into a bitter cat
- -and-dog divorce battle in this reimagining of The War of the Roses. Conta
- ins several sequences with flashing lights that may affect those who are s
- usceptible to photosensitive epilepsy or have other photosensitivities.\n\
- nhttps://www.siff.net/cinema/in-theaters/the-roses
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Big Bold Beautiful Journey
-DTSTART:20250918T233000Z
-DTEND:20250919T014000Z
-DTSTAMP:20250918T233000Z
-UID:hJrtNbQSdL
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
- gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
- net/cinema/in-theaters/a-big-bold-beautiful-journey
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Big Bold Beautiful Journey
-DTSTART:20250919T021500Z
-DTEND:20250919T042500Z
-DTSTAMP:20250919T021500Z
-UID:IrBrMm2M87
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
- gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
- net/cinema/in-theaters/a-big-bold-beautiful-journey
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sans Soleil (1983)
-DTSTART:20250919T020000Z
-DTEND:20250919T040500Z
-DTSTAMP:20250919T020000Z
-UID:GDtOwmFRHJ
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nPresented by Mount Analogue ○ 
- Art + Cinema Considered one of the best documentaries of all time\, Chris 
- Marker's 1983 film Sans Soleil (Sunless) is a mind-bending free-form trave
- logue that journeys from Africa to Japan.\n\nhttps://www.siff.net/cinema/i
- n-theaters/sans-soleil
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honey Don’t!
-DTSTART:20250919T023000Z
-DTEND:20250919T042000Z
-DTSTAMP:20250919T023000Z
-UID:Xc209Hswcs
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nShe only has two desires\, and on
- e of them is justice. Honey O’Donahue\, a small-town private investigato
- r\, delves into a series of strange deaths tied to a mysterious church in 
- this comic noir.\n\nhttps://www.siff.net/cinema/in-theaters/honey-dont
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOLO: A STAR WARS STORY (2018)
-DTSTART:20250919T023000Z
-DTEND:20250919T050500Z
-DTSTAMP:20250919T023000Z
-UID:b1DZMC1o4V
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStar Wars: The Ultimate Cinemati
- c Marathon Witness the beginning of the Star Wars saga’s most unlikely h
- ero. Special Engagement Pricing:$22 ($19 SIFF Members\; $21 Seniors\, Stud
- ents\; $17 Child)\n\nhttps://www.siff.net/programs-and-events/star-wars-ul
- timate-cinematic-marathon/solo-a-star-wars-story
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20250919T141740Z
 BEGIN:VEVENT
 SUMMARY:A Big Bold Beautiful Journey
 DTSTART:20250919T231500Z
@@ -2055,6 +1944,18 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
   10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
  https://www.siff.net/cinema/in-theaters/tron-ares
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blacula (1972)
+DTSTART:20251010T013000Z
+DTEND:20251010T032500Z
+DTSTAMP:20251010T013000Z
+UID:VABfjVd0dq
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn this Blaxploitation classic\, 
+ African prince Mamuwalde visits Count Dracula to seek help ending the slav
+ e trade but is instead bitten and cursed to live eternally as a vampire—
+ Blacula.\n\nhttps://www.siff.net/cinema/in-theaters/blacula
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tombs of the Blind Dead (1972)

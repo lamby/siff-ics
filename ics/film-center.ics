@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20250918T151316Z
-BEGIN:VEVENT
-SUMMARY:Sans Soleil (1983)
-DTSTART:20250919T020000Z
-DTEND:20250919T040500Z
-DTSTAMP:20250919T020000Z
-UID:GDtOwmFRHJ
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nPresented by Mount Analogue ○ 
- Art + Cinema Considered one of the best documentaries of all time\, Chris 
- Marker's 1983 film Sans Soleil (Sunless) is a mind-bending free-form trave
- logue that journeys from Africa to Japan.\n\nhttps://www.siff.net/cinema/i
- n-theaters/sans-soleil
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20250919T141740Z
 BEGIN:VEVENT
 SUMMARY:Linda Linda Linda (2005)
 DTSTART:20250920T013000Z
@@ -294,6 +281,18 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to Screen Oscar-nominated
  row her life completely off balance\, can she hold her family upright?\n\n
  https://www.siff.net/programs-and-events/stage-to-screen/nt-live-inter-ali
  a
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blacula (1972)
+DTSTART:20251010T013000Z
+DTEND:20251010T032500Z
+DTSTAMP:20251010T013000Z
+UID:VABfjVd0dq
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn this Blaxploitation classic\, 
+ African prince Mamuwalde visits Count Dracula to seek help ending the slav
+ e trade but is instead bitten and cursed to live eternally as a vampire—
+ Blacula.\n\nhttps://www.siff.net/cinema/in-theaters/blacula
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
