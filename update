@@ -27,7 +27,7 @@ re_collapse_newlines = re.compile(r"\n+")
 
 
 class SiffICS:
-    PADDING = 20  # minutes
+    PADDING = 15  # minutes
     START = datetime.date.today()
     DAYS = 90
     LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
@@ -191,6 +191,9 @@ class SiffICS:
             # Calculate times
             start = get_datetime(x["Showtime"])
             runtime = int(x["LengthInMinutes"])
+            estimated_start = start + datetime.timedelta(
+                minutes=self.PADDING,
+            )
             end = start + datetime.timedelta(
                 minutes=self.PADDING + self.round_to_nearest(runtime, 5)
             )
@@ -216,6 +219,10 @@ class SiffICS:
 
             if x["IsStreamed"]:
                 description.append(f"Film is also being streamed.")
+
+            description.append(
+                f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}"
+            )
 
             event.add("description", "\n\n".join(description))
 
