@@ -3,55 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20250922T155222Z
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20250922T224500Z
-DTEND:20250923T010500Z
-DTSTAMP:20250922T224500Z
-UID:TPFEfJCSDc
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale\n\nEstimated start: 23:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20250923T014500Z
-DTEND:20250923T040500Z
-DTSTAMP:20250923T014500Z
-UID:P7rbBwSFmj
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale\n\nEstimated start: 2:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20250923T224500Z
-DTEND:20250924T010500Z
-DTSTAMP:20250923T224500Z
-UID:0qOQpDYCwT
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale\n\nEstimated start: 23:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20250924T014500Z
-DTEND:20250924T040500Z
-DTSTAMP:20250924T014500Z
-UID:tLT8x1x9lK
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale\n\nEstimated start: 2:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20250924T152640Z
 BEGIN:VEVENT
 SUMMARY:Downton Abbey: The Grand Finale
 DTSTART:20250924T224500Z
@@ -93,16 +45,15 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nL.A. Noir: Shadows in Paradise P
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eleanor the Great
-DTSTART:20250925T233000Z
-DTEND:20250926T012500Z
-DTSTAMP:20250925T233000Z
-UID:QNaEMAvhCK
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
- 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
- d very funny feature directorial debut\, about a nonagenarian who passes h
- erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
- ters/eleanor-the-great\n\nEstimated start: 23:45
+SUMMARY:Downton Abbey: The Grand Finale
+DTSTART:20250925T230000Z
+DTEND:20250926T012000Z
+DTSTAMP:20250925T230000Z
+UID:MAxVJ1Mf2X
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
+ st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
+ he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
+ ey-the-grand-finale\n\nEstimated start: 23:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -289,15 +240,28 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eleanor the Great
-DTSTART:20251001T020000Z
-DTEND:20251001T035500Z
-DTSTAMP:20251001T020000Z
+DTSTART:20251001T021500Z
+DTEND:20251001T041000Z
+DTSTAMP:20251001T021500Z
 UID:OJ4BX6ja6a
 DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
  024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
  d very funny feature directorial debut\, about a nonagenarian who passes h
  erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
- ters/eleanor-the-great\n\nEstimated start: 2:15
+ ters/eleanor-the-great\n\nEstimated start: 2:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Baltimorons
+DTSTART:20251001T223000Z
+DTEND:20251002T002500Z
+DTSTAMP:20251001T223000Z
+UID:1EmBZbu9ja
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nAfter cracking a tooth on Christm
+ as Eve\, newly sober Cliff embarks on an unexpected May/December adventure
+  through Baltimore with Didi\, his emergency dentist. Post-film Q&A with d
+ irector Jay Duplass on September 17.\n\nhttps://www.siff.net/cinema/in-the
+ aters/the-baltimorons\n\nEstimated start: 22:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -338,6 +302,71 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
  d very funny feature directorial debut\, about a nonagenarian who passes h
  erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
  ters/eleanor-the-great\n\nEstimated start: 2:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Machine
+DTSTART:20251005T201500Z
+DTEND:20251005T223500Z
+DTSTAMP:20251005T201500Z
+UID:wkhlFwJJYJ
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
+ pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
+  this powerful and gritty account of the career of MMA and UFC pioneer Mar
+ k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
+ nEstimated start: 20:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Machine
+DTSTART:20251005T231500Z
+DTEND:20251006T013500Z
+DTSTAMP:20251005T231500Z
+UID:3pBKYZp945
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
+ pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
+  this powerful and gritty account of the career of MMA and UFC pioneer Mar
+ k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
+ nEstimated start: 23:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Machine
+DTSTART:20251006T021500Z
+DTEND:20251006T043500Z
+DTSTAMP:20251006T021500Z
+UID:68kyLpTTMi
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
+ pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
+  this powerful and gritty account of the career of MMA and UFC pioneer Mar
+ k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
+ nEstimated start: 2:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Machine
+DTSTART:20251006T230000Z
+DTEND:20251007T012000Z
+DTSTAMP:20251006T230000Z
+UID:BrMvmog1kZ
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
+ pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
+  this powerful and gritty account of the career of MMA and UFC pioneer Mar
+ k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
+ nEstimated start: 23:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Machine
+DTSTART:20251007T021500Z
+DTEND:20251007T043500Z
+DTSTAMP:20251007T021500Z
+UID:oJPtvJite8
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
+ pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
+  this powerful and gritty account of the career of MMA and UFC pioneer Mar
+ k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
+ nEstimated start: 2:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -383,32 +412,40 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nL.A. Noir: Shadows in Paradise P
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heat (1995)
-DTSTART:20251016T023000Z
-DTEND:20251016T053500Z
-DTSTAMP:20251016T023000Z
-UID:LIJnhMobIw
-DESCRIPTION:Duration: 170 mins (2h50m)\n\nL.A. Noir: Shadows in Paradise P
- resented by Greg Olson Productions Two men in L.A. A criminal\, a cop. Rob
- ert De Niro and Al Pacino. Fire and ice\, coming to a boil. Cool and contr
- olled\, De Niro and his pals (Val Kilmer\, Jon Voight\, Tom Sizemore) pull
-  off big robberies with military precision. Steamed-up\, swaggering Pacino
-  uses intuition and massive manpower to track them\, with limited success.
-  Master stylist Michael Mann (TV’s "Miami Vice") gives this monumental c
- rime saga irresistible forward momentum\, but everything stops so two grea
- t American actors\, De Niro and Pacino\, can appear together for the first
-  time and have coffee. The outlaw and the lawman are both doing what they
- ’re best at\, and it’s their nature to keep on with it. But for a mome
- nt out of time they talk about the fullness and emptiness of their lives\,
-  what they gain and lose. This isn’t a truce\, there will be machine gun
-  fire on downtown streets\, people lying dead. They’ll meet again at nig
- ht\, out in a field at the airport. Planes glide overhead like souls\, som
- e coming in\, some leaving on the soft\, sultry air. 30th Anniversary Scre
- ening. Individual Tickets: $15Passes: Prorated\, with discounts for SIFF\,
-  SAM\, Swedish Club\, UW Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, Fes
- ta Italiana\, Alliance Francaise de Seattle\, Scarecrow Video\, & KING FM 
- members\n\nhttps://www.siff.net/cinema/in-theaters/la-noir-shadows-in-para
- dise/heat-30th-anniversary\n\nEstimated start: 2:45
+SUMMARY:A House of Dynamite
+DTSTART:20251013T020000Z
+DTEND:20251013T041000Z
+DTSTAMP:20251013T020000Z
+UID:bn5GYUKQUd
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn Kathryn Bigelow’s taut thri
+ ller\, when a single\, unattributed missile is launched at the United Stat
+ es\, a race begins to determine who is responsible and how to respond.\n\n
+ https://www.siff.net/cinema/in-theaters/a-house-of-dynamite\n\nEstimated s
+ tart: 2:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A House of Dynamite
+DTSTART:20251015T230000Z
+DTEND:20251016T011000Z
+DTSTAMP:20251015T230000Z
+UID:eOxBXmlVvP
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn Kathryn Bigelow’s taut thri
+ ller\, when a single\, unattributed missile is launched at the United Stat
+ es\, a race begins to determine who is responsible and how to respond.\n\n
+ https://www.siff.net/cinema/in-theaters/a-house-of-dynamite\n\nEstimated s
+ tart: 23:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251016T020000Z
+DTEND:20251016T043500Z
+DTSTAMP:20251016T020000Z
+UID:ywjBxUoMJM
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 2:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -574,8 +611,9 @@ UID:JoLh7KBExZ
 DESCRIPTION:Duration: 84 mins (1h24m)\n\nSIFF DocFest A kaleidoscopic port
  rait of the visionary jazz musician\, composer\, and poet known as Sun Ra 
  and the musical\, historical\, and philosophical currents that shaped him.
- \n\nhttps://www.siff.net/programs-and-events/docfest/sun-ra-do-the-impossi
- ble\n\nEstimated start: 0:15
+   Associate Producer Talia Moore scheduled to attend\n\nhttps://www.siff.
+ net/programs-and-events/docfest/sun-ra-do-the-impossible\n\nEstimated star
+ t: 0:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
