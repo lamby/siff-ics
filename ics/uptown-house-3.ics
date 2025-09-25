@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20250924T152640Z
-BEGIN:VEVENT
-SUMMARY:The Baltimorons
-DTSTART:20250924T234500Z
-DTEND:20250925T014000Z
-DTSTAMP:20250924T234500Z
-UID:YPGK9XBbko
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nAfter cracking a tooth on Christm
- as Eve\, newly sober Cliff embarks on an unexpected May/December adventure
-  through Baltimore with Didi\, his emergency dentist. Post-film Q&A with d
- irector Jay Duplass on September 17.\n\nhttps://www.siff.net/cinema/in-the
- aters/the-baltimorons\n\nEstimated start: 0:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Baltimorons
-DTSTART:20250925T021500Z
-DTEND:20250925T041000Z
-DTSTAMP:20250925T021500Z
-UID:cUq3sDQcvj
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nAfter cracking a tooth on Christm
- as Eve\, newly sober Cliff embarks on an unexpected May/December adventure
-  through Baltimore with Didi\, his emergency dentist. Post-film Q&A with d
- irector Jay Duplass on September 17.\n\nhttps://www.siff.net/cinema/in-the
- aters/the-baltimorons\n\nEstimated start: 2:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20250925T153520Z
 BEGIN:VEVENT
 SUMMARY:The Baltimorons
 DTSTART:20250925T234500Z
@@ -412,6 +386,31 @@ DESCRIPTION:Duration: 77 mins (1h17m)\n\nScarecrowber We conclude our worl
  atest of all coming-of-age films. Introduced by Scarecrow Video's Meghann 
  Crafton and Jonathan Marlow.\n\nhttps://www.siff.net/programs-and-events/s
  carecrowber-2025/valerie-and-her-week-of-wonders\n\nEstimated start: 2:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tim Burton’s Corpse Bride (2005)
+DTSTART:20251102T200000Z
+DTEND:20251102T213500Z
+DTSTAMP:20251102T200000Z
+UID:Di7ndIHeIC
+DESCRIPTION:Duration: 77 mins (1h17m)\n\nSIFF 'n' Stitch On the eve of his
+  wedding\, nervous groom Victor accidentally marries corpse bride Emily an
+ d descends with her into the underworld.\n\nhttps://www.siff.net/programs-
+ and-events/siff-n-stitch/tim-burtons-corpse-bride\n\nEstimated start: 20:1
+ 5
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART:20251207T200000Z
+DTEND:20251207T215500Z
+DTSTAMP:20251207T200000Z
+UID:ZrnwxwI0fb
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nSIFF 'n' Stitch The holiday class
+ ic starring Will Farrell as Buddy the Elf\, on a mission to find his biolo
+ gical father and spread Christmas cheer to all.\n\nhttps://www.siff.net/pr
+ ograms-and-events/siff-n-stitch/elf\n\nEstimated start: 20:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
