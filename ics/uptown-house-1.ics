@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20250926T145940Z
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20250926T223500Z
-DTEND:20250927T005500Z
-DTSTAMP:20250926T223500Z
-UID:nk7CDrwWNu
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale\n\nEstimated start: 22:50
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20250927T014500Z
-DTEND:20250927T040500Z
-DTSTAMP:20250927T014500Z
-UID:VqsOIREZbl
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale\n\nEstimated start: 2:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20250927T163151Z
 BEGIN:VEVENT
 SUMMARY:Downton Abbey: The Grand Finale
 DTSTART:20250927T193000Z
@@ -752,6 +728,21 @@ UID:OMOSHZrbPc
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
  ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
  r-the-hunt\n\nEstimated start: 2:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collide-O-Scope Halloween
+DTSTART:20251101T030000Z
+DTEND:20251101T052500Z
+DTSTAMP:20251101T030000Z
+UID:t4abtNSlIM
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nPresented by Collide-O-Scope A 
+ deliriously demented cavalcade of expertly crafted montage\, packed with a
+ bsurd pop culture ephemera\, obscure oddities\, and fantastic music — al
+ l remixed and mashed into an evening of eerily epic entertainment. It’ll
+  leave you gasping with laughter and clutching your little melted face! Bu
+ y VIP Tickets\n\nhttps://www.siff.net/cinema/in-theaters/collide-o-scope-h
+ alloween-2025\n\nEstimated start: 3:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
