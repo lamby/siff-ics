@@ -3,100 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20250930T153936Z
-BEGIN:VEVENT
-SUMMARY:The Baltimorons
-DTSTART:20250930T224500Z
-DTEND:20251001T004000Z
-DTSTAMP:20250930T224500Z
-UID:K73kWOfPP1
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nAfter cracking a tooth on Christm
- as Eve\, newly sober Cliff embarks on an unexpected May/December adventure
-  through Baltimore with Didi\, his emergency dentist. Post-film Q&A with d
- irector Jay Duplass on September 17.\n\nhttps://www.siff.net/cinema/in-the
- aters/the-baltimorons\n\nEstimated start: 23:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Big Bold Beautiful Journey
-DTSTART:20250930T230000Z
-DTEND:20251001T010500Z
-DTSTAMP:20250930T230000Z
-UID:bN1kdm7MOK
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
- gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
- net/cinema/in-theaters/a-big-bold-beautiful-journey\n\nEstimated start: 23
- :15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Battle After Another
-DTSTART:20250930T230000Z
-DTEND:20251001T020000Z
-DTSTAMP:20250930T230000Z
-UID:nmYDvE9K35
-DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
- nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
- with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
- is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
- \, the former radical scrambles to find her\, father and daughter both bat
- tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
- ters/one-battle-after-another\n\nEstimated start: 23:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Battle After Another
-DTSTART:20251001T024500Z
-DTEND:20251001T054500Z
-DTSTAMP:20251001T024500Z
-UID:EU8GFYwYt6
-DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
- nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
- with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
- is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
- \, the former radical scrambles to find her\, father and daughter both bat
- tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
- ters/one-battle-after-another\n\nEstimated start: 3:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eleanor the Great
-DTSTART:20250930T232000Z
-DTEND:20251001T011500Z
-DTSTAMP:20250930T232000Z
-UID:B4PtscGf6Q
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
- 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
- d very funny feature directorial debut\, about a nonagenarian who passes h
- erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
- ters/eleanor-the-great\n\nEstimated start: 23:35
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eleanor the Great
-DTSTART:20251001T021500Z
-DTEND:20251001T041000Z
-DTSTAMP:20251001T021500Z
-UID:OJ4BX6ja6a
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
- 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
- d very funny feature directorial debut\, about a nonagenarian who passes h
- erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
- ters/eleanor-the-great\n\nEstimated start: 2:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20251001T014500Z
-DTEND:20251001T040500Z
-DTSTAMP:20251001T014500Z
-UID:GvfSOVJ6vA
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale\n\nEstimated start: 2:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251001T152703Z
 BEGIN:VEVENT
 SUMMARY:The Baltimorons
 DTSTART:20251001T223000Z
@@ -329,6 +236,32 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nAfter cracking a tooth on Christm
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251003T230000Z
+DTEND:20251004T005500Z
+DTSTAMP:20251003T230000Z
+UID:x8SFFkmOtk
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 23:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251004T023000Z
+DTEND:20251004T042500Z
+DTSTAMP:20251004T023000Z
+UID:SQRVkvhfk6
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Battle After Another
 DTSTART:20251003T230000Z
 DTEND:20251004T020000Z
@@ -399,6 +332,24 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nNoémie Merlant (Portrait of a L
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251003T233000Z
+DTEND:20251004T014000Z
+DTSTAMP:20251003T233000Z
+UID:SUuXPIUuXW
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 23:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inter Alia
 DTSTART:20251004T020000Z
 DTEND:20251004T051500Z
@@ -426,6 +377,58 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nYim Soon-rye’s gentlest film t
  irector Yim Soon-rye moderated by Ungsan Kim\, University of Washington Ce
  nter for Korea Studies.\n\nhttps://www.siff.net/cinema/in-theaters/little-
  forest\n\nEstimated start: 2:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251004T183000Z
+DTEND:20251004T202500Z
+DTSTAMP:20251004T183000Z
+UID:6ZFRsmuC6X
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251004T211000Z
+DTEND:20251004T230500Z
+DTSTAMP:20251004T211000Z
+UID:OqkKM0Vr7Z
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 21:25
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251004T235000Z
+DTEND:20251005T014500Z
+DTSTAMP:20251004T235000Z
+UID:Yy9FX8xZeW
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 0:05
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251005T023000Z
+DTEND:20251005T042500Z
+DTSTAMP:20251005T023000Z
+UID:yEGeRgk7Jb
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 2:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -472,6 +475,60 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
  tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
  ters/one-battle-after-another\n\nEstimated start: 3:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251004T194500Z
+DTEND:20251004T215500Z
+DTSTAMP:20251004T194500Z
+UID:fCtkk1HtBm
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251004T230000Z
+DTEND:20251005T011000Z
+DTSTAMP:20251004T230000Z
+UID:xnCFwuoYYG
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 23:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251005T020000Z
+DTEND:20251005T041000Z
+DTSTAMP:20251005T020000Z
+UID:IAWcZFNxoL
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 2:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Alia
@@ -557,6 +614,58 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nNoémie Merlant (Portrait of a L
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251005T183000Z
+DTEND:20251005T202500Z
+DTSTAMP:20251005T183000Z
+UID:gAVtufyiau
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251005T211000Z
+DTEND:20251005T230500Z
+DTSTAMP:20251005T211000Z
+UID:rCfZMsHjZe
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 21:25
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251005T235000Z
+DTEND:20251006T014500Z
+DTSTAMP:20251005T235000Z
+UID:RJNjMtIwb8
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 0:05
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251006T023000Z
+DTEND:20251006T042500Z
+DTSTAMP:20251006T023000Z
+UID:eVoQX39s2t
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Battle After Another
 DTSTART:20251005T191500Z
 DTEND:20251005T221500Z
@@ -600,6 +709,42 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
  tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
  ters/one-battle-after-another\n\nEstimated start: 3:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251005T194500Z
+DTEND:20251005T215500Z
+DTSTAMP:20251005T194500Z
+UID:dOtyXP4l8J
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 20:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251006T020000Z
+DTEND:20251006T041000Z
+DTSTAMP:20251006T020000Z
+UID:E8ivjpOgr2
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 2:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inter Alia
@@ -753,6 +898,32 @@ DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251006T231500Z
+DTEND:20251007T011000Z
+DTSTAMP:20251006T231500Z
+UID:ANOIINw2ul
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 23:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251007T023000Z
+DTEND:20251007T042500Z
+DTSTAMP:20251007T023000Z
+UID:LIRIBPnMXN
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inter Alia
 DTSTART:20251007T020000Z
 DTEND:20251007T051500Z
@@ -840,6 +1011,50 @@ DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251007T231500Z
+DTEND:20251008T011000Z
+DTSTAMP:20251007T231500Z
+UID:TY9Qs9YS1r
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 23:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251008T023000Z
+DTEND:20251008T042500Z
+DTSTAMP:20251008T023000Z
+UID:QxwhZ1JhlE
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251007T233000Z
+DTEND:20251008T014000Z
+DTSTAMP:20251007T233000Z
+UID:4ueWYgHgYl
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 23:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Abominable Dr. Phibes (1971)
 DTSTART:20251008T020000Z
 DTEND:20251008T035000Z
@@ -853,6 +1068,24 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nScarecrowber A proper kick-off\,
  net/programs-and-events/scarecrowber-2025/the-abominable-dr-phibes\n\nEsti
  mated start: 2:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251008T224500Z
+DTEND:20251009T005500Z
+DTSTAMP:20251008T224500Z
+UID:93JqoKHo6U
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 23:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Battle After Another
@@ -909,6 +1142,32 @@ DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
  k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
  nEstimated start: 2:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251008T231500Z
+DTEND:20251009T011000Z
+DTSTAMP:20251008T231500Z
+UID:0kqb4pRvXm
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 23:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251009T020000Z
+DTEND:20251009T035500Z
+DTSTAMP:20251009T020000Z
+UID:WahMvnMf1J
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 2:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Two Jakes (1990)
@@ -979,6 +1238,32 @@ DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251009T231500Z
+DTEND:20251010T011000Z
+DTSTAMP:20251009T231500Z
+UID:YFVDA0qH3j
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 23:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eleanor the Great
+DTSTART:20251010T023000Z
+DTEND:20251010T042500Z
+DTSTAMP:20251010T023000Z
+UID:j1sg3AXqIt
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
+ 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
+ d very funny feature directorial debut\, about a nonagenarian who passes h
+ erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/eleanor-the-great\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tron: Ares
 DTSTART:20251009T231500Z
 DTEND:20251010T013000Z
@@ -1006,6 +1291,24 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
   10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
  https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 2:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251009T233000Z
+DTEND:20251010T014000Z
+DTSTAMP:20251009T233000Z
+UID:cO8ZiYK3JQ
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 23:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blacula (1972)
@@ -1929,8 +2232,12 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nSIFF DocFest An American flight a
  rming new film from director Mye Hoang (Cat Daddies\, SIFF 2022). Director
   Mye Hoang scheduled to attend. Join us in advance of the screening to me
  et NEKO Cat Cafe and learn more about their spaces and adoption programs\,
-  including a program for cats from Qatar.\n\nhttps://www.siff.net/programs
- -and-events/docfest/25-cats-from-qatar\n\nEstimated start: 23:15
+  including a program for cats from Qatar. Post-Film Happy Hour Event Ticke
+ tholders and Passholders - please join us at Woo Bar after the Q&A for a 
+ happy hour from 5:00-7:00pm\, sponsored by Seattle Documentary Association
+ . Light appetizers will be provided\; beverages available for purchase.\n\
+ nhttps://www.siff.net/programs-and-events/docfest/25-cats-from-qatar\n\nEs
+ timated start: 23:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2143,7 +2450,7 @@ UID:VXNVJQFVKt
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
  ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
  r-the-hunt\n\nEstimated start: 2:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tron: Ares
@@ -2188,6 +2495,20 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nSIFF DocFest The Oscar®-winning
  f.net/programs-and-events/docfest/2000-meters-to-andriivka\n\nEstimated st
  art: 2:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLASSIFIED CINEMA 
+DTSTART:20251022T023000Z
+DTEND:20251022T060500Z
+DTSTAMP:20251022T023000Z
+UID:S2FjWLwIEm
+DESCRIPTION:Duration: 200 mins (3h20m)\n\n7:30pm | SIFF Cinema Uptown  Yo
+ ur favorite secret movie purveyors are back\, and this time it’s twice t
+ he fun! A spoopy movie to start and a spooky movie to finish! Come for one
+  or the other but you’d be wise to stay for both - if you dare!\n\nhttps
+ ://www.siff.net/cinema/in-theaters/classified-cinema-secret-movie-double-f
+ eature\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:After the Hunt
@@ -2323,6 +2644,35 @@ DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251023T231500Z
+DTEND:20251024T013000Z
+DTSTAMP:20251023T231500Z
+UID:pvVceHKlwn
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 23:3
+ 0
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251024T023000Z
+DTEND:20251024T044500Z
+DTSTAMP:20251024T023000Z
+UID:YRhWWNi56M
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sun Ra: Do the Impossible
 DTSTART:20251024T000000Z
 DTEND:20251024T014000Z
@@ -2364,6 +2714,107 @@ DESCRIPTION:Duration: 117 mins (1h57m)\n\nSIFF DocFest Urgent and deeply r
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251024T222000Z
+DTEND:20251025T003500Z
+DTSTAMP:20251024T222000Z
+UID:h1mMqiFYVj
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 22:3
+ 5
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251025T013000Z
+DTEND:20251025T034500Z
+DTSTAMP:20251025T013000Z
+UID:N9gvJA2NjK
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 1:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251025T043000Z
+DTEND:20251025T064500Z
+DTSTAMP:20251025T043000Z
+UID:Tg7OB409pv
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 4:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251025T191000Z
+DTEND:20251025T212500Z
+DTSTAMP:20251025T191000Z
+UID:VTMsijrTxL
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 19:2
+ 5
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251025T222000Z
+DTEND:20251026T003500Z
+DTSTAMP:20251025T222000Z
+UID:iISDXjsNvl
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 22:3
+ 5
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251026T013000Z
+DTEND:20251026T034500Z
+DTSTAMP:20251026T013000Z
+UID:Y5CGYSXIkq
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 1:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251026T043000Z
+DTEND:20251026T064500Z
+DTSTAMP:20251026T043000Z
+UID:boUEMBwQGU
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 4:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Rocky Horror Picture Show
 DTSTART:20251026T023000Z
 DTEND:20251026T050500Z
@@ -2383,6 +2834,50 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nStep into the time warp like you
  Of Show - $45 ($35 SIFF Members)\n\nhttps://www.siff.net/cinema/in-theater
  s/rocky-horror-pole-show\n\nEstimated start: 2:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251026T203000Z
+DTEND:20251026T224500Z
+DTSTAMP:20251026T203000Z
+UID:1fFwrUPbCT
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 20:4
+ 5
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251026T233000Z
+DTEND:20251027T014500Z
+DTSTAMP:20251026T233000Z
+UID:IvDq6kHNXe
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 23:4
+ 5
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251027T023000Z
+DTEND:20251027T044500Z
+DTSTAMP:20251027T023000Z
+UID:fKZFT8lIPu
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rocky Horror Picture Show
@@ -2406,6 +2901,64 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nStep into the time warp like you
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251027T233000Z
+DTEND:20251028T014500Z
+DTSTAMP:20251027T233000Z
+UID:tvLcLNdQbx
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 23:4
+ 5
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251028T023000Z
+DTEND:20251028T044500Z
+DTSTAMP:20251028T023000Z
+UID:BDOTWehmvw
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251028T233000Z
+DTEND:20251029T014500Z
+DTSTAMP:20251028T233000Z
+UID:ec4hTp15yY
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 23:4
+ 5
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251029T023000Z
+DTEND:20251029T044500Z
+DTSTAMP:20251029T023000Z
+UID:edhjG5EioW
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Valerie and Her Week of Wonders (1974)
 DTSTART:20251029T020000Z
 DTEND:20251029T033500Z
@@ -2417,6 +2970,21 @@ DESCRIPTION:Duration: 77 mins (1h17m)\n\nScarecrowber We conclude our worl
  Crafton and Jonathan Marlow.\n\nhttps://www.siff.net/programs-and-events/s
  carecrowber-2025/valerie-and-her-week-of-wonders\n\nEstimated start: 2:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART:20251029T233000Z
+DTEND:20251030T014500Z
+DTSTAMP:20251029T233000Z
+UID:kNnk0Abmg4
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
+ isticated Program\, Ares\, who is sent from the digital world into the rea
+ l world on a dangerous mission\, marking humankind’s first encounter wit
+ h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
+  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
+ https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 23:4
+ 5
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Limey (1999)
@@ -2447,6 +3015,66 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nL.A. Noir: Shadows in Paradise Pr
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251030T232000Z
+DTEND:20251031T013500Z
+DTSTAMP:20251030T232000Z
+UID:thow1hZQkD
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 23:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251031T023000Z
+DTEND:20251031T044500Z
+DTSTAMP:20251031T023000Z
+UID:S0OhrGvyUb
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251031T221000Z
+DTEND:20251101T002500Z
+DTSTAMP:20251031T221000Z
+UID:F8nihJVVKV
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 22:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251101T012000Z
+DTEND:20251101T033500Z
+DTSTAMP:20251101T012000Z
+UID:SlbXmeq7Ym
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 1:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251101T043000Z
+DTEND:20251101T064500Z
+DTSTAMP:20251101T043000Z
+UID:rkG91L9kF7
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 4:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Rocky Horror Picture Show
 DTSTART:20251101T023000Z
 DTEND:20251101T050500Z
@@ -2466,21 +3094,6 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nStep into the time warp like you
  Of Show - $45 ($35 SIFF Members)\n\nhttps://www.siff.net/cinema/in-theater
  s/rocky-horror-pole-show\n\nEstimated start: 2:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Collide-O-Scope Halloween
-DTSTART:20251101T030000Z
-DTEND:20251101T052500Z
-DTSTAMP:20251101T030000Z
-UID:t4abtNSlIM
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nPresented by Collide-O-Scope A 
- deliriously demented cavalcade of expertly crafted montage\, packed with a
- bsurd pop culture ephemera\, obscure oddities\, and fantastic music — al
- l remixed and mashed into an evening of eerily epic entertainment. It’ll
-  leave you gasping with laughter and clutching your little melted face! Bu
- y VIP Tickets\n\nhttps://www.siff.net/cinema/in-theaters/collide-o-scope-h
- alloween-2025\n\nEstimated start: 3:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cinema Dissection: Inglourious Basterds
@@ -2503,6 +3116,54 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks In dark uncertain tim
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251101T190000Z
+DTEND:20251101T211500Z
+DTSTAMP:20251101T190000Z
+UID:atgaYxjmHf
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251101T221000Z
+DTEND:20251102T002500Z
+DTSTAMP:20251101T221000Z
+UID:bNNqkkDOKp
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 22:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251102T012000Z
+DTEND:20251102T033500Z
+DTSTAMP:20251102T012000Z
+UID:oRV0ZXfgS0
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 1:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251102T043000Z
+DTEND:20251102T064500Z
+DTSTAMP:20251102T043000Z
+UID:XtOJlS3aH2
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 4:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tim Burton’s Corpse Bride (2005)
 DTSTART:20251102T200000Z
 DTEND:20251102T213500Z
@@ -2514,6 +3175,90 @@ DESCRIPTION:Duration: 77 mins (1h17m)\n\nSIFF 'n' Stitch On the eve of his
  and-events/siff-n-stitch/tim-burtons-corpse-bride\n\nEstimated start: 20:1
  5
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251102T204500Z
+DTEND:20251102T230000Z
+DTSTAMP:20251102T204500Z
+UID:8aOhiT5Dt7
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 21:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251103T000000Z
+DTEND:20251103T021500Z
+DTSTAMP:20251103T000000Z
+UID:J8XfSX4rlR
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251103T031500Z
+DTEND:20251103T053000Z
+DTSTAMP:20251103T031500Z
+UID:ThMVHgegIy
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251104T003000Z
+DTEND:20251104T024500Z
+DTSTAMP:20251104T003000Z
+UID:bE7OovKvL3
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251104T033000Z
+DTEND:20251104T054500Z
+DTSTAMP:20251104T033000Z
+UID:L7Q8ULhIZI
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251105T003000Z
+DTEND:20251105T024500Z
+DTSTAMP:20251105T003000Z
+UID:AtScP3aUEO
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251105T033000Z
+DTEND:20251105T054500Z
+DTSTAMP:20251105T033000Z
+UID:UUGvMBDnnu
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skweezy Jibbs
@@ -2528,6 +3273,30 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nOddball internet legend Skweezy J
  zy himself. One night only!\n\nhttps://www.siff.net/cinema/in-theaters/skw
  eezy-jibbs-makes-a-movie\n\nEstimated start: 3:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251106T003000Z
+DTEND:20251106T024500Z
+DTSTAMP:20251106T003000Z
+UID:t5y0WtMfLb
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251106T033000Z
+DTEND:20251106T054500Z
+DTSTAMP:20251106T033000Z
+UID:EHtmnhDPo4
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ascent (1977)
@@ -2577,6 +3346,174 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nL.A. Noir: Shadows in Paradise P
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251107T003000Z
+DTEND:20251107T024500Z
+DTSTAMP:20251107T003000Z
+UID:9eOL1o5Ibk
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251107T033000Z
+DTEND:20251107T054500Z
+DTSTAMP:20251107T033000Z
+UID:3udyCYs4uE
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251107T231000Z
+DTEND:20251108T012500Z
+DTSTAMP:20251107T231000Z
+UID:K4wWLdo5UR
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 23:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251108T022000Z
+DTEND:20251108T043500Z
+DTSTAMP:20251108T022000Z
+UID:gyDriCaMQW
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 2:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251108T053000Z
+DTEND:20251108T074500Z
+DTSTAMP:20251108T053000Z
+UID:BeRFYi1Qui
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 5:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251108T200000Z
+DTEND:20251108T221500Z
+DTSTAMP:20251108T200000Z
+UID:T2oPrQ2O9B
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 20:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251108T231000Z
+DTEND:20251109T012500Z
+DTSTAMP:20251108T231000Z
+UID:tSHsRreiPo
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 23:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251109T022000Z
+DTEND:20251109T043500Z
+DTSTAMP:20251109T022000Z
+UID:mQZo9I2eLG
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 2:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251109T053000Z
+DTEND:20251109T074500Z
+DTSTAMP:20251109T053000Z
+UID:hh4Sjhylkx
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 5:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251109T204500Z
+DTEND:20251109T230000Z
+DTSTAMP:20251109T204500Z
+UID:kYnj1foy9C
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 21:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251109T235000Z
+DTEND:20251110T020500Z
+DTSTAMP:20251109T235000Z
+UID:KPTjUUWtQG
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:05
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251110T031500Z
+DTEND:20251110T053000Z
+DTSTAMP:20251110T031500Z
+UID:LnnDPcBffV
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251111T003000Z
+DTEND:20251111T024500Z
+DTSTAMP:20251111T003000Z
+UID:8hdQYyBiUr
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251111T033000Z
+DTEND:20251111T054500Z
+DTSTAMP:20251111T033000Z
+UID:yhSdXkKKnq
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quiz Show (1994)
 DTSTART:20251111T020000Z
 DTEND:20251111T043000Z
@@ -2594,6 +3531,54 @@ DESCRIPTION:Duration: 133 mins (2h13m)\n\nTalking Pictures Join SIFF for T
  t/programs-and-events/talking-pictures/ken-jennings-quiz-show\n\nEstimated
   start: 2:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251112T003000Z
+DTEND:20251112T024500Z
+DTSTAMP:20251112T003000Z
+UID:lBcgT5dJi7
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251112T033000Z
+DTEND:20251112T054500Z
+DTSTAMP:20251112T033000Z
+UID:ls8xvZnq0a
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251113T003000Z
+DTEND:20251113T024500Z
+DTSTAMP:20251113T003000Z
+UID:lKglMUNNjb
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251113T033000Z
+DTEND:20251113T054500Z
+DTSTAMP:20251113T033000Z
+UID:ZXu1Phwq7G
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inherent Vice (2014)
@@ -2629,6 +3614,198 @@ DESCRIPTION:Duration: 148 mins (2h28m)\n\nL.A. Noir: Shadows in Paradise P
  ING FM members\n\nhttps://www.siff.net/cinema/in-theaters/la-noir-shadows-
  in-paradise/inherent-vice\n\nEstimated start: 3:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251114T003000Z
+DTEND:20251114T024500Z
+DTSTAMP:20251114T003000Z
+UID:XEHHrcL1VB
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251114T033000Z
+DTEND:20251114T054500Z
+DTSTAMP:20251114T033000Z
+UID:98ywoKOt5s
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251114T231000Z
+DTEND:20251115T012500Z
+DTSTAMP:20251114T231000Z
+UID:LwaYxgEfYY
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 23:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251115T022000Z
+DTEND:20251115T043500Z
+DTSTAMP:20251115T022000Z
+UID:N3IYK1Da0d
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 2:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251115T053000Z
+DTEND:20251115T074500Z
+DTSTAMP:20251115T053000Z
+UID:srUQSXLuaL
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 5:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251115T200000Z
+DTEND:20251115T221500Z
+DTSTAMP:20251115T200000Z
+UID:TSkquRRNyF
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 20:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251115T231000Z
+DTEND:20251116T012500Z
+DTSTAMP:20251115T231000Z
+UID:9cr59yyd4X
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 23:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251116T022000Z
+DTEND:20251116T043500Z
+DTSTAMP:20251116T022000Z
+UID:pvf3sx8dbq
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 2:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251116T053000Z
+DTEND:20251116T074500Z
+DTSTAMP:20251116T053000Z
+UID:bBlJZ2expA
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 5:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251116T204500Z
+DTEND:20251116T230000Z
+DTSTAMP:20251116T204500Z
+UID:mkr4k4Uscx
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 21:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251116T235000Z
+DTEND:20251117T020500Z
+DTSTAMP:20251116T235000Z
+UID:xsGXyvivi7
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:05
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251117T030000Z
+DTEND:20251117T051500Z
+DTSTAMP:20251117T030000Z
+UID:ffpeTp4tLy
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251118T003000Z
+DTEND:20251118T024500Z
+DTSTAMP:20251118T003000Z
+UID:ZG9fgRwk69
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251118T033000Z
+DTEND:20251118T054500Z
+DTSTAMP:20251118T033000Z
+UID:CRNxmGk5OZ
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251119T003000Z
+DTEND:20251119T024500Z
+DTSTAMP:20251119T003000Z
+UID:XA7XFfNd2v
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251119T033000Z
+DTEND:20251119T054500Z
+DTSTAMP:20251119T033000Z
+UID:ReZ68u6pjl
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Classified Cinema

@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20250930T153936Z
-BEGIN:VEVENT
-SUMMARY:A Big Bold Beautiful Journey
-DTSTART:20250930T230000Z
-DTEND:20251001T010500Z
-DTSTAMP:20250930T230000Z
-UID:bN1kdm7MOK
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
- gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
- net/cinema/in-theaters/a-big-bold-beautiful-journey\n\nEstimated start: 23
- :15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20251001T014500Z
-DTEND:20251001T040500Z
-DTSTAMP:20251001T014500Z
-UID:GvfSOVJ6vA
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale\n\nEstimated start: 2:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251001T152703Z
 BEGIN:VEVENT
 SUMMARY:Eleanor the Great
 DTSTART:20251001T230000Z
@@ -160,6 +136,42 @@ DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
   this powerful and gritty account of the career of MMA and UFC pioneer Mar
  k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
  nEstimated start: 2:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251005T194500Z
+DTEND:20251005T215500Z
+DTSTAMP:20251005T194500Z
+UID:dOtyXP4l8J
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 20:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART:20251006T020000Z
+DTEND:20251006T041000Z
+DTSTAMP:20251006T020000Z
+UID:E8ivjpOgr2
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
+ ppearance\, aspiring teenage rock stars Kyoko and Nozomi find themselves w
+ ithout a band when their guitarist injures her finger and their singer qui
+ ts. Now\, their only chance for superstardom lies in a new vocalist who ha
+ s never been in a band and barely speaks Japanese. Linda Linda Linda is a 
+ hidden gem of Japanese cinema that has gained a cult following despite its
+  limited U.S. release. Featuring music by James Iha (The Smashing Pumpkins
+ ). New 4K restoration in celebration of its 20th anniversary.\n\nhttps://
+ www.siff.net/cinema/in-theaters/linda-linda-linda-20th-anniversary\n\nEsti
+ mated start: 2:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -570,14 +582,17 @@ DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:After the Hunt
-DTSTART:20251022T021500Z
-DTEND:20251022T045000Z
-DTSTAMP:20251022T021500Z
-UID:VXNVJQFVKt
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
- ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
- r-the-hunt\n\nEstimated start: 2:30
+SUMMARY:CLASSIFIED CINEMA 
+DTSTART:20251022T023000Z
+DTEND:20251022T060500Z
+DTSTAMP:20251022T023000Z
+UID:S2FjWLwIEm
+DESCRIPTION:Duration: 200 mins (3h20m)\n\n7:30pm | SIFF Cinema Uptown  Yo
+ ur favorite secret movie purveyors are back\, and this time it’s twice t
+ he fun! A spoopy movie to start and a spooky movie to finish! Come for one
+  or the other but you’d be wise to stay for both - if you dare!\n\nhttps
+ ://www.siff.net/cinema/in-theaters/classified-cinema-secret-movie-double-f
+ eature\n\nEstimated start: 2:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -632,21 +647,6 @@ UID:OMOSHZrbPc
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
  ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
  r-the-hunt\n\nEstimated start: 2:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Collide-O-Scope Halloween
-DTSTART:20251101T030000Z
-DTEND:20251101T052500Z
-DTSTAMP:20251101T030000Z
-UID:t4abtNSlIM
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nPresented by Collide-O-Scope A 
- deliriously demented cavalcade of expertly crafted montage\, packed with a
- bsurd pop culture ephemera\, obscure oddities\, and fantastic music — al
- l remixed and mashed into an evening of eerily epic entertainment. It’ll
-  leave you gasping with laughter and clutching your little melted face! Bu
- y VIP Tickets\n\nhttps://www.siff.net/cinema/in-theaters/collide-o-scope-h
- alloween-2025\n\nEstimated start: 3:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
