@@ -3,34 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20251001T152703Z
-BEGIN:VEVENT
-SUMMARY:The Baltimorons
-DTSTART:20251001T223000Z
-DTEND:20251002T002500Z
-DTSTAMP:20251001T223000Z
-UID:1EmBZbu9ja
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nAfter cracking a tooth on Christm
- as Eve\, newly sober Cliff embarks on an unexpected May/December adventure
-  through Baltimore with Didi\, his emergency dentist. Post-film Q&A with d
- irector Jay Duplass on September 17.\n\nhttps://www.siff.net/cinema/in-the
- aters/the-baltimorons\n\nEstimated start: 22:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Green Room (2016)
-DTSTART:20251002T010000Z
-DTEND:20251002T025000Z
-DTSTAMP:20251002T010000Z
-UID:g1OjoVw2NO
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nSIFF Movie Club Green Room is a b
- rilliantly crafted and wickedly fun horror-thriller starring Patrick Stewa
- rt as a diabolical club owner who squares off against an unsuspecting but 
- resilient young punk band. Introduced by SIFF Cinema Assistant Manager Ton
- y Ochoa.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/green
- -room\n\nEstimated start: 1:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251002T142712Z
 BEGIN:VEVENT
 SUMMARY:Eleanor the Great
 DTSTART:20251002T232000Z
@@ -330,6 +303,75 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nDays before a crucial festival a
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251010T223000Z
+DTEND:20251011T013000Z
+DTSTAMP:20251010T223000Z
+UID:GHABX3sAjQ
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 22:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Machine
+DTSTART:20251011T021500Z
+DTEND:20251011T043500Z
+DTSTAMP:20251011T021500Z
+UID:b6iKa6xgTC
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
+ pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
+  this powerful and gritty account of the career of MMA and UFC pioneer Mar
+ k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
+ nEstimated start: 2:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251011T223000Z
+DTEND:20251012T013000Z
+DTSTAMP:20251011T223000Z
+UID:34MnqLF5OA
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 22:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Machine
+DTSTART:20251011T192500Z
+DTEND:20251011T214500Z
+DTSTAMP:20251011T192500Z
+UID:EDyTOj6c1J
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
+ pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
+  this powerful and gritty account of the career of MMA and UFC pioneer Mar
+ k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
+ nEstimated start: 19:40
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Machine
+DTSTART:20251012T021500Z
+DTEND:20251012T043500Z
+DTSTAMP:20251012T021500Z
+UID:NnWXm0Vu86
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
+ pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
+  this powerful and gritty account of the career of MMA and UFC pioneer Mar
+ k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
+ nEstimated start: 2:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A House of Dynamite
 DTSTART:20251013T020000Z
 DTEND:20251013T041000Z
@@ -340,6 +382,92 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn Kathryn Bigelow’s taut thri
  es\, a race begins to determine who is responsible and how to respond.\n\n
  https://www.siff.net/cinema/in-theaters/a-house-of-dynamite\n\nEstimated s
  tart: 2:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Machine
+DTSTART:20251012T192500Z
+DTEND:20251012T214500Z
+DTSTAMP:20251012T192500Z
+UID:ZDuNdf4A79
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
+ pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
+  this powerful and gritty account of the career of MMA and UFC pioneer Mar
+ k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
+ nEstimated start: 19:40
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Machine
+DTSTART:20251012T224500Z
+DTEND:20251013T010500Z
+DTSTAMP:20251012T224500Z
+UID:rssfccQxiG
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
+ pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
+  this powerful and gritty account of the career of MMA and UFC pioneer Mar
+ k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
+ nEstimated start: 23:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251013T223000Z
+DTEND:20251014T013000Z
+DTSTAMP:20251013T223000Z
+UID:GTNwW6IHXC
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 22:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251014T021500Z
+DTEND:20251014T051500Z
+DTSTAMP:20251014T021500Z
+UID:BCIIFiUwJm
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 2:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251014T223000Z
+DTEND:20251015T013000Z
+DTSTAMP:20251014T223000Z
+UID:jlFKO9W4qb
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 22:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251015T021500Z
+DTEND:20251015T051500Z
+DTSTAMP:20251015T021500Z
+UID:h1WSJPV3Hy
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 2:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -668,10 +796,12 @@ DTSTART:20251119T033000Z
 DTEND:20251119T051500Z
 DTSTAMP:20251119T033000Z
 UID:0cVO3AuvUd
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
- op secret until they hit the screen. Still free\, always fun\, never prete
- ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema\n\nEs
- timated start: 3:45
+DESCRIPTION:Duration: 90 mins (1h30m)\n\n7:30pm | SIFF Cinema Uptown  You
+ r favorite secret movie purveyors are back\, and this time it’s twice th
+ e fun! A spoopy movie to start and a spooky movie to finish! Come for one 
+ or the other but you’d be wise to stay for both - if you dare!\n\nhttps:
+ //www.siff.net/cinema/in-theaters/classified-cinema\n\nEstimated start: 3:
+ 45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -693,10 +823,12 @@ DTSTART:20251217T033000Z
 DTEND:20251217T051500Z
 DTSTAMP:20251217T033000Z
 UID:qiQXSRZlnD
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
- op secret until they hit the screen. Still free\, always fun\, never prete
- ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema\n\nEs
- timated start: 3:45
+DESCRIPTION:Duration: 90 mins (1h30m)\n\n7:30pm | SIFF Cinema Uptown  You
+ r favorite secret movie purveyors are back\, and this time it’s twice th
+ e fun! A spoopy movie to start and a spooky movie to finish! Come for one 
+ or the other but you’d be wise to stay for both - if you dare!\n\nhttps:
+ //www.siff.net/cinema/in-theaters/classified-cinema\n\nEstimated start: 3:
+ 45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
