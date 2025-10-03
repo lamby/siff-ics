@@ -3,113 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20251002T142712Z
-BEGIN:VEVENT
-SUMMARY:Downton Abbey: The Grand Finale
-DTSTART:20251002T230000Z
-DTEND:20251003T012000Z
-DTSTAMP:20251002T230000Z
-UID:YEofk1CdHp
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nReturn to Downton Abbey for a la
- st time\, as the Crawleys navigate the turbulent 1930s\, and prepare for t
- he next generation.\n\nhttps://www.siff.net/cinema/in-theaters/downton-abb
- ey-the-grand-finale\n\nEstimated start: 23:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Battle After Another
-DTSTART:20251002T230000Z
-DTEND:20251003T020000Z
-DTSTAMP:20251002T230000Z
-UID:SO3024i6wE
-DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
- nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
- with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
- is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
- \, the former radical scrambles to find her\, father and daughter both bat
- tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
- ters/one-battle-after-another\n\nEstimated start: 23:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Battle After Another
-DTSTART:20251003T024500Z
-DTEND:20251003T054500Z
-DTSTAMP:20251003T024500Z
-UID:QoqYv7COxl
-DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
- nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
- with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
- is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
- \, the former radical scrambles to find her\, father and daughter both bat
- tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
- ters/one-battle-after-another\n\nEstimated start: 3:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eleanor the Great
-DTSTART:20251002T232000Z
-DTEND:20251003T011500Z
-DTSTAMP:20251002T232000Z
-UID:1pLp3MQafm
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
- 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
- d very funny feature directorial debut\, about a nonagenarian who passes h
- erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
- ters/eleanor-the-great\n\nEstimated start: 23:35
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eleanor the Great
-DTSTART:20251003T020000Z
-DTEND:20251003T035500Z
-DTSTAMP:20251003T020000Z
-UID:c1EQMBHpGE
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nOscar nominee June Squibb (SIFF 2
- 024 Honoree) stars in Scarlett Johansson’s thoughtful\, provocative\, an
- d very funny feature directorial debut\, about a nonagenarian who passes h
- erself off as a Holocaust survivor.\n\nhttps://www.siff.net/cinema/in-thea
- ters/eleanor-the-great\n\nEstimated start: 2:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Big Bold Beautiful Journey
-DTSTART:20251002T233000Z
-DTEND:20251003T013500Z
-DTSTAMP:20251002T233000Z
-UID:DgwcD6jtpt
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nAn imaginative tale of two stran
- gers and the unbelievable journey that connects them.\n\nhttps://www.siff.
- net/cinema/in-theaters/a-big-bold-beautiful-journey\n\nEstimated start: 23
- :45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Smashing Machine
-DTSTART:20251003T021500Z
-DTEND:20251003T043500Z
-DTSTAMP:20251003T021500Z
-UID:VrMdtiSZAt
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
- pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
-  this powerful and gritty account of the career of MMA and UFC pioneer Mar
- k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
- nEstimated start: 2:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Baltimorons
-DTSTART:20251003T023000Z
-DTEND:20251003T042500Z
-DTSTAMP:20251003T023000Z
-UID:eMyFS9IHn4
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nAfter cracking a tooth on Christm
- as Eve\, newly sober Cliff embarks on an unexpected May/December adventure
-  through Baltimore with Didi\, his emergency dentist. Post-film Q&A with d
- irector Jay Duplass on September 17.\n\nhttps://www.siff.net/cinema/in-the
- aters/the-baltimorons\n\nEstimated start: 2:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251003T152518Z
 BEGIN:VEVENT
 SUMMARY:Eleanor the Great
 DTSTART:20251003T230000Z
@@ -3226,6 +3120,66 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nL.A. Noir: Shadows in Paradise Pr
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251030T232000Z
+DTEND:20251031T013500Z
+DTSTAMP:20251030T232000Z
+UID:thow1hZQkD
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 23:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251031T023000Z
+DTEND:20251031T044500Z
+DTSTAMP:20251031T023000Z
+UID:S0OhrGvyUb
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 2:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251031T221000Z
+DTEND:20251101T002500Z
+DTSTAMP:20251031T221000Z
+UID:F8nihJVVKV
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 22:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251101T012000Z
+DTEND:20251101T033500Z
+DTSTAMP:20251101T012000Z
+UID:SlbXmeq7Ym
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 1:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251101T043000Z
+DTEND:20251101T064500Z
+DTSTAMP:20251101T043000Z
+UID:rkG91L9kF7
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 4:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Rocky Horror Picture Show
 DTSTART:20251101T023000Z
 DTEND:20251101T050500Z
@@ -3267,6 +3221,54 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks In dark uncertain tim
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251101T190000Z
+DTEND:20251101T211500Z
+DTSTAMP:20251101T190000Z
+UID:atgaYxjmHf
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251101T221000Z
+DTEND:20251102T002500Z
+DTSTAMP:20251101T221000Z
+UID:bNNqkkDOKp
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 22:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251102T012000Z
+DTEND:20251102T033500Z
+DTSTAMP:20251102T012000Z
+UID:oRV0ZXfgS0
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 1:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251102T043000Z
+DTEND:20251102T064500Z
+DTSTAMP:20251102T043000Z
+UID:XtOJlS3aH2
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 4:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tim Burton’s Corpse Bride (2005)
 DTSTART:20251102T200000Z
 DTEND:20251102T213500Z
@@ -3278,6 +3280,90 @@ DESCRIPTION:Duration: 77 mins (1h17m)\n\nSIFF 'n' Stitch On the eve of his
  and-events/siff-n-stitch/tim-burtons-corpse-bride\n\nEstimated start: 20:1
  5
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251102T204500Z
+DTEND:20251102T230000Z
+DTSTAMP:20251102T204500Z
+UID:8aOhiT5Dt7
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 21:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251103T000000Z
+DTEND:20251103T021500Z
+DTSTAMP:20251103T000000Z
+UID:J8XfSX4rlR
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251103T031500Z
+DTEND:20251103T053000Z
+DTSTAMP:20251103T031500Z
+UID:ThMVHgegIy
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251104T003000Z
+DTEND:20251104T024500Z
+DTSTAMP:20251104T003000Z
+UID:bE7OovKvL3
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251104T033000Z
+DTEND:20251104T054500Z
+DTSTAMP:20251104T033000Z
+UID:L7Q8ULhIZI
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251105T003000Z
+DTEND:20251105T024500Z
+DTSTAMP:20251105T003000Z
+UID:AtScP3aUEO
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251105T033000Z
+DTEND:20251105T054500Z
+DTSTAMP:20251105T033000Z
+UID:UUGvMBDnnu
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skweezy Jibbs
@@ -3292,6 +3378,30 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nOddball internet legend Skweezy J
  zy himself. One night only!\n\nhttps://www.siff.net/cinema/in-theaters/skw
  eezy-jibbs-makes-a-movie\n\nEstimated start: 3:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251106T003000Z
+DTEND:20251106T024500Z
+DTSTAMP:20251106T003000Z
+UID:t5y0WtMfLb
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251106T033000Z
+DTEND:20251106T054500Z
+DTSTAMP:20251106T033000Z
+UID:EHtmnhDPo4
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ascent (1977)
@@ -3341,6 +3451,174 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nL.A. Noir: Shadows in Paradise P
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251107T003000Z
+DTEND:20251107T024500Z
+DTSTAMP:20251107T003000Z
+UID:9eOL1o5Ibk
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251107T033000Z
+DTEND:20251107T054500Z
+DTSTAMP:20251107T033000Z
+UID:3udyCYs4uE
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251107T231000Z
+DTEND:20251108T012500Z
+DTSTAMP:20251107T231000Z
+UID:K4wWLdo5UR
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 23:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251108T022000Z
+DTEND:20251108T043500Z
+DTSTAMP:20251108T022000Z
+UID:gyDriCaMQW
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 2:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251108T053000Z
+DTEND:20251108T074500Z
+DTSTAMP:20251108T053000Z
+UID:BeRFYi1Qui
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 5:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251108T200000Z
+DTEND:20251108T221500Z
+DTSTAMP:20251108T200000Z
+UID:T2oPrQ2O9B
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 20:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251108T231000Z
+DTEND:20251109T012500Z
+DTSTAMP:20251108T231000Z
+UID:tSHsRreiPo
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 23:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251109T022000Z
+DTEND:20251109T043500Z
+DTSTAMP:20251109T022000Z
+UID:mQZo9I2eLG
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 2:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251109T053000Z
+DTEND:20251109T074500Z
+DTSTAMP:20251109T053000Z
+UID:hh4Sjhylkx
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 5:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251109T204500Z
+DTEND:20251109T230000Z
+DTSTAMP:20251109T204500Z
+UID:kYnj1foy9C
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 21:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251109T235000Z
+DTEND:20251110T020500Z
+DTSTAMP:20251109T235000Z
+UID:KPTjUUWtQG
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:05
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251110T031500Z
+DTEND:20251110T053000Z
+DTSTAMP:20251110T031500Z
+UID:LnnDPcBffV
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251111T003000Z
+DTEND:20251111T024500Z
+DTSTAMP:20251111T003000Z
+UID:8hdQYyBiUr
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251111T033000Z
+DTEND:20251111T054500Z
+DTSTAMP:20251111T033000Z
+UID:yhSdXkKKnq
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quiz Show (1994)
 DTSTART:20251111T020000Z
 DTEND:20251111T043000Z
@@ -3358,6 +3636,54 @@ DESCRIPTION:Duration: 133 mins (2h13m)\n\nTalking Pictures Join SIFF for T
  t/programs-and-events/talking-pictures/ken-jennings-quiz-show\n\nEstimated
   start: 2:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251112T003000Z
+DTEND:20251112T024500Z
+DTSTAMP:20251112T003000Z
+UID:lBcgT5dJi7
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251112T033000Z
+DTEND:20251112T054500Z
+DTSTAMP:20251112T033000Z
+UID:ls8xvZnq0a
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251113T003000Z
+DTEND:20251113T024500Z
+DTSTAMP:20251113T003000Z
+UID:lKglMUNNjb
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251113T033000Z
+DTEND:20251113T054500Z
+DTSTAMP:20251113T033000Z
+UID:ZXu1Phwq7G
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inherent Vice (2014)
@@ -3393,6 +3719,198 @@ DESCRIPTION:Duration: 148 mins (2h28m)\n\nL.A. Noir: Shadows in Paradise P
  ING FM members\n\nhttps://www.siff.net/cinema/in-theaters/la-noir-shadows-
  in-paradise/inherent-vice\n\nEstimated start: 3:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251114T003000Z
+DTEND:20251114T024500Z
+DTSTAMP:20251114T003000Z
+UID:XEHHrcL1VB
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251114T033000Z
+DTEND:20251114T054500Z
+DTSTAMP:20251114T033000Z
+UID:98ywoKOt5s
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251114T231000Z
+DTEND:20251115T012500Z
+DTSTAMP:20251114T231000Z
+UID:LwaYxgEfYY
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 23:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251115T022000Z
+DTEND:20251115T043500Z
+DTSTAMP:20251115T022000Z
+UID:N3IYK1Da0d
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 2:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251115T053000Z
+DTEND:20251115T074500Z
+DTSTAMP:20251115T053000Z
+UID:srUQSXLuaL
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 5:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251115T200000Z
+DTEND:20251115T221500Z
+DTSTAMP:20251115T200000Z
+UID:TSkquRRNyF
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 20:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251115T231000Z
+DTEND:20251116T012500Z
+DTSTAMP:20251115T231000Z
+UID:9cr59yyd4X
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 23:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251116T022000Z
+DTEND:20251116T043500Z
+DTSTAMP:20251116T022000Z
+UID:pvf3sx8dbq
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 2:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251116T053000Z
+DTEND:20251116T074500Z
+DTSTAMP:20251116T053000Z
+UID:bBlJZ2expA
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 5:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251116T204500Z
+DTEND:20251116T230000Z
+DTSTAMP:20251116T204500Z
+UID:mkr4k4Uscx
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 21:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251116T235000Z
+DTEND:20251117T020500Z
+DTSTAMP:20251116T235000Z
+UID:xsGXyvivi7
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:05
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251117T030000Z
+DTEND:20251117T051500Z
+DTSTAMP:20251117T030000Z
+UID:ffpeTp4tLy
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251118T003000Z
+DTEND:20251118T024500Z
+DTSTAMP:20251118T003000Z
+UID:ZG9fgRwk69
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251118T033000Z
+DTEND:20251118T054500Z
+DTSTAMP:20251118T033000Z
+UID:CRNxmGk5OZ
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251119T003000Z
+DTEND:20251119T024500Z
+DTSTAMP:20251119T003000Z
+UID:XA7XFfNd2v
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 0:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251119T033000Z
+DTEND:20251119T054500Z
+DTSTAMP:20251119T033000Z
+UID:ReZ68u6pjl
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth. Tickets on sale October 6.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/bugonia\n\nEstimated start: 3:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Classified Cinema
@@ -3569,6 +4087,20 @@ DESCRIPTION:Duration: 181 mins (3h01m)\n\nSIFF Holiday Favorites Party wit
  e a Rich Man\," "Sunrise Sunset\," and "To Life". Live klezmer music by Or
  kestyr Farfeleh.\n\nhttps://www.siff.net/programs-and-events/holiday-favor
  ites/fiddler-on-the-roof\n\nEstimated start: 20:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moulin Rouge!  (2001)
+DTSTART:20260101T020000Z
+DTEND:20260101T042500Z
+DTSTAMP:20260101T020000Z
+UID:TpeRBx1Dwl
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nSIFF Holiday Favorites Sing in t
+ he new year with Baz Luhrmann's musical spectacular—complete with free b
+ ling rings. The show ends in time to head over to the Space Needle and ca
+ tch the New Year's fireworks while shouting "Rooooooxannnne!" at the sky.\
+ n\nhttps://www.siff.net/programs-and-events/holiday-favorites/moulin-rouge
+ -new-years-eve-sing-along\n\nEstimated start: 2:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
