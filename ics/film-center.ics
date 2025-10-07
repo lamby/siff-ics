@@ -3,23 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20251006T152813Z
-BEGIN:VEVENT
-SUMMARY:Inter Alia
-DTSTART:20251007T020000Z
-DTEND:20251007T051500Z
-DTSTAMP:20251007T020000Z
-UID:Z27KpOBjyY
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to Screen Oscar-nominated 
- Rosamund Pike (Gone Girl\, Saltburn) is Jessica in the much-anticipated ne
- xt play from the team behind Prima Facie. Jessica Parks is a smart Crown C
- ourt Judge at the top of her career. Behind the robe\, she is a karaoke fi
- end\, a loving wife and a supportive parent. When an event threatens to th
- row her life completely off balance\, can she hold her family upright?\n\n
- https://www.siff.net/programs-and-events/stage-to-screen/nt-live-inter-ali
- a\n\nEstimated start: 2:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20251007T163414Z
 BEGIN:VEVENT
 SUMMARY:Blacula (1972)
 DTSTART:20251010T013000Z
@@ -54,21 +38,21 @@ DTSTART:20251011T170000Z
 DTEND:20251011T231500Z
 DTSTAMP:20251011T170000Z
 UID:GQ7JSWwp2L
-DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks You're the programmer
- ! Help choose the film for our spooky Cinema Dissection. Vote by September
-  15\, and the winning selection will be announced on October 1. This year 
- SIFF celebrates the Halloween spooky season by allowing our audience membe
- rs to determine which horror genre classic will be the subject for our Oct
- ober cinema dissection. Will it be Robert Eggers’s American Gothic debut
-  feature film\, The Witch? Perhaps you prefer David Robert Mitchell’s pa
- ranoid supernatural chiller\, It Follows? Maybe John Landis’s consummate
-  blend of terror\, gore\, and comedy\, An American Werewolf in London? Or 
- The Hunger\, Tony Scott’s erotic revisionist vampire thriller? Whichever
-  film wins the vote\, join facilitator and SIFF Programmer Dan Doody for a
-  scene-by-scene deconstruction of a terrifying classic film guaranteed to 
- haunt your nightmares. Vote\n\nhttps://www.siff.net/programs-and-events/ed
- ucation/adult-film-education/film-talks/cinema-dissection-cinephiles-choic
- e-spooky\n\nEstimated start: 17:15
+DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks The votes are in! The
+  winning film is The Witch. Join us for the scene-by-scene breakdown of Ro
+ bert Egger's American Gothic debut feature film. This year SIFF celebrates
+  the Halloween spooky season by allowing our audience members to determine
+  which horror genre classic will be the subject for our October cinema dis
+ section. Will it be Robert Eggers’s American Gothic debut feature film\,
+  The Witch? Perhaps you prefer David Robert Mitchell’s paranoid supernat
+ ural chiller\, It Follows? Maybe John Landis’s consummate blend of terro
+ r\, gore\, and comedy\, An American Werewolf in London? Or The Hunger\, To
+ ny Scott’s erotic revisionist vampire thriller? Whichever film wins the 
+ vote\, join SIFF Programmer Dan Doody and local filmmaker Jeremy Cropf for
+  a scene-by-scene deconstruction of a terrifying classic film guaranteed t
+ o haunt your nightmares. Vote\n\nhttps://www.siff.net/programs-and-events/
+ education/adult-film-education/film-talks/cinema-dissection-cinephiles-cho
+ ice-spooky\n\nEstimated start: 17:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -245,6 +229,20 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks In dark uncertain tim
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Twinless
+DTSTART:20251122T023000Z
+DTEND:20251122T042500Z
+DTSTAMP:20251122T023000Z
+UID:BoPmX8fp7n
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nSeattle Film Critics Society Pac
+ ific Northwest Awards In this Portland-set dark comedy from James Sweeney 
+ (2019’s crowdpleasing Straight Up)\, two men (Dylan O’Brien and Sweene
+ y) trauma-bond at a support group for people who have lost their twin.\n\n
+ https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-
+ awards-2025/twinless\n\nEstimated start: 2:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cinema Dissection: Double Indemnity
 DTSTART:20251122T180000Z
 DTEND:20251123T001500Z
@@ -266,6 +264,68 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks Upon the publication
  mmit the perfect murder.\n\nhttps://www.siff.net/programs-and-events/educa
  tion/adult-film-education/film-talks/cinema-dissection-double-indemnity\n\
  nEstimated start: 18:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wolf Land
+DTSTART:20251123T010000Z
+DTEND:20251123T023000Z
+DTSTAMP:20251123T010000Z
+UID:rcl3XxjAdx
+DESCRIPTION:Duration: 71 mins (1h11m)\n\nSeattle Film Critics Society Paci
+ fic Northwest Awards Range rider and “wolf-protecting cowboy” Daniel C
+ urry and cattle rancher Jerry Francis try to find common ground between th
+ eir conflicting interests in the forests of northeastern Washington\, just
+  20 miles from the Canadian border. Director Sarah Hoffman\, Editor David 
+ Wulzen\, Director of Photography Bryce Yukio Adolphson\, and Executive Pro
+ ducer Sarah Menzies scheduled to attend for introduction and Q&A.\n\nhttps
+ ://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-award
+ s-2025/wolf-land\n\nEstimated start: 1:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To Kill a Wolf
+DTSTART:20251123T031500Z
+DTEND:20251123T050500Z
+DTSTAMP:20251123T031500Z
+UID:hcsGlkYlRw
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nIn a modern re-imagining of Littl
+ e Red Riding Hood\, a social pariah discovers a teenage runaway in the Ore
+ gon Wilderness and does his best to help her find a way home—a troubling
+  exploration of trauma and redemption. Director Kelsey Taylor and Cinemato
+ grapher Adam Lee scheduled to attend for introduction and Q&A.\n\nhttps://
+ www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2
+ 025/to-kill-a-wolf\n\nEstimated start: 3:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WTO/99
+DTSTART:20251123T230000Z
+DTEND:20251124T005000Z
+DTSTAMP:20251123T230000Z
+UID:eK5yW6F5aN
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nSeattle Film Critics Society Paci
+ fic Northwest Awards An immersive archival documentary that reanimates the
+  clash between the then-emerging World Trade Organization (WTO) and the mo
+ re than 40\,000 people who took to the streets of Seattle to protest the W
+ TO's impact on human rights\, labor\, and the future effects of continued 
+ globalization. Director Ian Bell scheduled to attend for introduction and 
+ Q&A.\n\nhttps://www.siff.net/programs-and-events/seattle-film-critics-soci
+ ety-pnw-awards-2025/wto-99\n\nEstimated start: 23:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Not One Drop of Blood
+DTSTART:20251124T014500Z
+DTEND:20251124T032500Z
+DTSTAMP:20251124T014500Z
+UID:P6cd1d1h5Q
+DESCRIPTION:Duration: 84 mins (1h24m)\n\nSeattle Film Critics Society Paci
+ fic Northwest Awards In the remote expanses of Eastern Oregon\, a rash of 
+ unexplained cattle mutilations reignites a decades-old mystery of the Amer
+ ican West. Film team scheduled to attend for introduction and Q&A.\n\nhttp
+ s://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awar
+ ds-2025/not-one-drop-of-blood\n\nEstimated start: 2:00
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
