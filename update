@@ -194,6 +194,7 @@ class SiffICS:
             estimated_start = start + datetime.timedelta(
                 minutes=self.PADDING,
             )
+            estimated_start = estimated_start.astimezone(self.LOCAL_TIMEZONE)
             end = start + datetime.timedelta(
                 minutes=self.PADDING + self.round_to_nearest(runtime, 5)
             )
