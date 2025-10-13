@@ -3,46 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20251012T155220Z
-BEGIN:VEVENT
-SUMMARY:A House of Dynamite
-DTSTART:20251013T020000Z
-DTEND:20251013T041000Z
-DTSTAMP:20251013T020000Z
-UID:bn5GYUKQUd
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn Kathryn Bigelow’s taut thri
- ller\, when a single\, unattributed missile is launched at the United Stat
- es\, a race begins to determine who is responsible and how to respond.\n\n
- https://www.siff.net/cinema/in-theaters/a-house-of-dynamite\n\nEstimated s
- tart: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Smashing Machine
-DTSTART:20251012T192500Z
-DTEND:20251012T214500Z
-DTSTAMP:20251012T192500Z
-UID:ZDuNdf4A79
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
- pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
-  this powerful and gritty account of the career of MMA and UFC pioneer Mar
- k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
- nEstimated start: 12:40
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Smashing Machine
-DTSTART:20251012T224500Z
-DTEND:20251013T010500Z
-DTSTAMP:20251012T224500Z
-UID:rssfccQxiG
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nIn one of the year’s most unex
- pected team-ups\, indie icon Benny Safdie and star Dwayne Johnson unite in
-  this powerful and gritty account of the career of MMA and UFC pioneer Mar
- k Kerr.\n\nhttps://www.siff.net/cinema/in-theaters/the-smashing-machine\n\
- nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251013T175447Z
 BEGIN:VEVENT
 SUMMARY:One Battle After Another
 DTSTART:20251013T223000Z
