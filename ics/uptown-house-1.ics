@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20251014T160649Z
-BEGIN:VEVENT
-SUMMARY:A House of Dynamite
-DTSTART:20251014T234500Z
-DTEND:20251015T015500Z
-DTSTAMP:20251014T234500Z
-UID:ybKsTLv6SZ
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn Kathryn Bigelow’s taut thri
- ller\, when a single\, unattributed missile is launched at the United Stat
- es\, a race begins to determine who is responsible and how to respond.\n\n
- https://www.siff.net/cinema/in-theaters/a-house-of-dynamite\n\nEstimated s
- tart: 17:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A House of Dynamite
-DTSTART:20251015T023000Z
-DTEND:20251015T044000Z
-DTSTAMP:20251015T023000Z
-UID:ieqg33fqLS
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn Kathryn Bigelow’s taut thri
- ller\, when a single\, unattributed missile is launched at the United Stat
- es\, a race begins to determine who is responsible and how to respond.\n\n
- https://www.siff.net/cinema/in-theaters/a-house-of-dynamite\n\nEstimated s
- tart: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251015T150239Z
 BEGIN:VEVENT
 SUMMARY:The Smashing Machine
 DTSTART:20251015T224500Z
@@ -65,11 +39,12 @@ DESCRIPTION:Duration: 170 mins (2h50m)\n\nL.A. Noir: Shadows in Paradise P
   fire on downtown streets\, people lying dead. They’ll meet again at nig
  ht\, out in a field at the airport. Planes glide overhead like souls\, som
  e coming in\, some leaving on the soft\, sultry air. 30th Anniversary Scre
- ening. Individual Tickets: $15Passes: Prorated\, with discounts for SIFF\,
-  SAM\, Swedish Club\, UW Cinema Studies\, NWFF\, SFI\, TheFilmSchool\, Fes
- ta Italiana\, Alliance Francaise de Seattle\, Scarecrow Video\, & KING FM 
- members\n\nhttps://www.siff.net/cinema/in-theaters/la-noir-shadows-in-para
- dise/heat-30th-anniversary\n\nEstimated start: 19:45
+ ening. On the Blog - Film Notes: Heat by Tova Gannana Individual Tickets: 
+ $15Passes: Prorated\, with discounts for SIFF\, SAM\, Swedish Club\, UW Ci
+ nema Studies\, NWFF\, SFI\, TheFilmSchool\, Festa Italiana\, Alliance Fran
+ caise de Seattle\, Scarecrow Video\, & KING FM members\n\nhttps://www.siff
+ .net/cinema/in-theaters/la-noir-shadows-in-paradise/heat-30th-anniversary\
+ n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -205,6 +180,23 @@ DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251021T221500Z
+DTEND:20251022T011500Z
+DTSTAMP:20251021T221500Z
+UID:Lx5qFA7xWL
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past. Now playing at SIFF Cinema Uptown. Mov
+ ing back to SIFF Cinema Downtown for one week starting October 23.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/one-battle-after-another\n\nEstimated 
+ start: 15:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Classified Cinema
 DTSTART:20251022T023000Z
 DTEND:20251022T060500Z
@@ -216,6 +208,23 @@ DESCRIPTION:Duration: 200 mins (3h20m)\n\n7:30pm | SIFF Cinema Uptown  Yo
   or the other but you’d be wise to stay for both - if you dare!\n\nhttps
  ://www.siff.net/cinema/in-theaters/classified-cinema-secret-movie-double-f
  eature\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251022T221500Z
+DTEND:20251023T011500Z
+DTSTAMP:20251022T221500Z
+UID:hdxZxB2Wg0
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past. Now playing at SIFF Cinema Uptown. Mov
+ ing back to SIFF Cinema Downtown for one week starting October 23.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/one-battle-after-another\n\nEstimated 
+ start: 15:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
