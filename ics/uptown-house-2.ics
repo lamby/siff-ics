@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20251015T150239Z
-BEGIN:VEVENT
-SUMMARY:A House of Dynamite
-DTSTART:20251015T230000Z
-DTEND:20251016T011000Z
-DTSTAMP:20251015T230000Z
-UID:eOxBXmlVvP
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn Kathryn Bigelow’s taut thri
- ller\, when a single\, unattributed missile is launched at the United Stat
- es\, a race begins to determine who is responsible and how to respond.\n\n
- https://www.siff.net/cinema/in-theaters/a-house-of-dynamite\n\nEstimated s
- tart: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:After the Hunt
-DTSTART:20251016T020000Z
-DTEND:20251016T043500Z
-DTSTAMP:20251016T020000Z
-UID:ywjBxUoMJM
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
- ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
- r-the-hunt\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251016T155750Z
 BEGIN:VEVENT
 SUMMARY:Space Cowboy
 DTSTART:20251017T020000Z
