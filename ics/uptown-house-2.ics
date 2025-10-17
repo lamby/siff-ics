@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20251016T155750Z
-BEGIN:VEVENT
-SUMMARY:Space Cowboy
-DTSTART:20251017T020000Z
-DTEND:20251017T035500Z
-DTSTAMP:20251017T020000Z
-UID:joHTEBHrto
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nSIFF DocFest Thrill to the high-f
- lying story of Joe Jennings\, a pioneer of skydiving cinematography and ga
- sp-inducing aerial stunts\, as he attempts the one stunt that has eluded h
- im throughout his death-defying life.\n\nhttps://www.siff.net/programs-and
- -events/docfest/space-cowboy\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251017T153438Z
 BEGIN:VEVENT
 SUMMARY:Runa Simi
 DTSTART:20251017T234500Z
@@ -42,6 +29,17 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nSIFF DocFest Oscar® winners Chai
  he war in Ukraine and reflects on her career spent on the front lines.\n\n
  https://www.siff.net/programs-and-events/docfest/lovewar\n\nEstimated star
  t: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251019T021500Z
+DTEND:20251019T045000Z
+DTSTAMP:20251019T021500Z
+UID:tsdm0Q4aKn
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -76,22 +74,6 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nSIFF DocFest An American flight a
  Documentary Association. Light appetizers will be provided\; beverages ava
  ilable for purchase.\n\nhttps://www.siff.net/programs-and-events/docfest/2
  5-cats-from-qatar\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal this Story\, Please!
-DTSTART:20251019T020000Z
-DTEND:20251019T040000Z
-DTSTAMP:20251019T020000Z
-UID:63UqE4jqij
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nSIFF DocFest This riveting portr
- ait of "Democracy Now!"'s Amy Goodman spotlights journalism's power—and 
- peril—amid rising corporate control and political attacks on the press. 
- Pre-Film Happy Hour Event Ticketholders and Passholders - please join us a
- t Woo Bar beforehand for a happy hour from 5:00-7:00pm\, sponsored by Sea
- ttle Documentary Association. Light appetizers will be provided\; beverage
- s available for purchase.\n\nhttps://www.siff.net/programs-and-events/docf
- est/steal-this-story-please\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
