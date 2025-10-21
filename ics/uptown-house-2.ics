@@ -3,21 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20251020T154009Z
-BEGIN:VEVENT
-SUMMARY:Mugaritz: No Bread No Dessert
-DTSTART:20251021T020000Z
-DTEND:20251021T035000Z
-DTSTAMP:20251021T020000Z
-UID:o4J2kpWV3x
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nSIFF DocFest Director Paco Plaza 
- takes us behind the closed doors of the legendary\, Michelin-starred resta
- urant Mugaritz\, where chef Andoni Luis Aduriz and his inventive team rein
- vent fine dining with a bold\, boundary-pushing new menu each year.\n\nhtt
- ps://www.siff.net/programs-and-events/docfest/mugaritz-no-bread-no-dessert
- \n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251021T153422Z
 BEGIN:VEVENT
 SUMMARY:2000 Meters to Andriivka
 DTSTART:20251022T020000Z
@@ -31,6 +17,17 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nSIFF DocFest The Oscar®-winning
  dance’s Directing Award for World Cinema Documentary.\n\nhttps://www.sif
  f.net/programs-and-events/docfest/2000-meters-to-andriivka\n\nEstimated st
  art: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251023T021500Z
+DTEND:20251023T045000Z
+DTSTAMP:20251023T021500Z
+UID:RQ5aqypEZj
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -49,44 +46,31 @@ DESCRIPTION:Duration: 81 mins (1h21m)\n\nSIFF DocFest A Macedonian folktal
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Secret of Me
-DTSTART:20251023T020000Z
-DTEND:20251023T035500Z
-DTSTAMP:20251023T020000Z
-UID:3suXUn5vPl
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nSIFF DocFest A shocking medical d
- iscovery turns a college student’s life upside-down in this gripping fil
- m from the team behind Three Identical Strangers. Subject Jim Ambrose sche
- duled to attend.\n\nhttps://www.siff.net/programs-and-events/docfest/the-s
- ecret-of-me\n\nEstimated start: 19:15
+SUMMARY:One Battle After Another
+DTSTART:20251023T221500Z
+DTEND:20251024T011500Z
+DTSTAMP:20251023T221500Z
+UID:gLrDK5kjcR
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 15:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sun Ra: Do the Impossible
-DTSTART:20251024T000000Z
-DTEND:20251024T014000Z
-DTSTAMP:20251024T000000Z
-UID:JoLh7KBExZ
-DESCRIPTION:Duration: 84 mins (1h24m)\n\nSIFF DocFest A kaleidoscopic port
- rait of the visionary jazz musician\, composer\, and poet known as Sun Ra 
- and the musical\, historical\, and philosophical currents that shaped him.
-   Associate Producer Talia Moore scheduled to attend.\n\nhttps://www.siff
- .net/programs-and-events/docfest/sun-ra-do-the-impossible\n\nEstimated sta
- rt: 17:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cover-Up
-DTSTART:20251024T023000Z
-DTEND:20251024T044500Z
-DTSTAMP:20251024T023000Z
-UID:PnQ0La2S7C
-DESCRIPTION:Duration: 117 mins (1h57m)\n\nSIFF DocFest Urgent and deeply r
- eported\, Laura Poitras (All The Beauty and the Bloodshed\, DocFest 2022) 
- and Mark Obenhaus (“Frontline”) profile renowned investigative reporte
- r Seymour Hersh in this arresting reflection on power and accountability.\
- n\nhttps://www.siff.net/programs-and-events/docfest/cover-up\n\nEstimated 
- start: 19:45
+SUMMARY:Goke\, Body Snatcher from Hell (1968)
+DTSTART:20251024T020000Z
+DTEND:20251024T034000Z
+DTSTAMP:20251024T020000Z
+UID:sbvJPRAlt1
+DESCRIPTION:Duration: 84 mins (1h24m)\n\nScarecrowber Are Gokemidoro undea
+ d or are extraterrestrial bloodsuckers a different form of life-as-we-know
+ -it? Introduced by Scarecrow Video's Matt Lynch.\n\nhttps://www.siff.net/p
+ rograms-and-events/scarecrowber-2025/goke-body-snatcher-from-hell\n\nEstim
+ ated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -100,10 +84,8 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
  with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
  is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
  \, the former radical scrambles to find her\, father and daughter both bat
- tling the consequences of his past. Now playing at SIFF Cinema Uptown. Mov
- ing back to SIFF Cinema Downtown for one week starting October 23.\n\nhttp
- s://www.siff.net/cinema/in-theaters/one-battle-after-another\n\nEstimated 
- start: 15:45
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
