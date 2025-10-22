@@ -3,103 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20251021T153422Z
-BEGIN:VEVENT
-SUMMARY:One Battle After Another
-DTSTART:20251021T221500Z
-DTEND:20251022T011500Z
-DTSTAMP:20251021T221500Z
-UID:Lx5qFA7xWL
-DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
- nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
- with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
- is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
- \, the former radical scrambles to find her\, father and daughter both bat
- tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
- ters/one-battle-after-another\n\nEstimated start: 15:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:After the Hunt
-DTSTART:20251021T230000Z
-DTEND:20251022T013500Z
-DTSTAMP:20251021T230000Z
-UID:9eSbgxHINH
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
- ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
- r-the-hunt\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:After the Hunt
-DTSTART:20251022T021500Z
-DTEND:20251022T045000Z
-DTSTAMP:20251022T021500Z
-UID:VXNVJQFVKt
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
- ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
- r-the-hunt\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tron: Ares
-DTSTART:20251021T231500Z
-DTEND:20251022T013000Z
-DTSTAMP:20251021T231500Z
-UID:5qDiSGvxWi
-DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
- isticated Program\, Ares\, who is sent from the digital world into the rea
- l world on a dangerous mission\, marking humankind’s first encounter wit
- h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
-  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
- https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 16:3
- 0
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tron: Ares
-DTSTART:20251022T023000Z
-DTEND:20251022T044500Z
-DTSTAMP:20251022T023000Z
-UID:G7ljYTQsDD
-DESCRIPTION:Duration: 119 mins (1h59m)\n\nTron: Ares follows a highly soph
- isticated Program\, Ares\, who is sent from the digital world into the rea
- l world on a dangerous mission\, marking humankind’s first encounter wit
- h A.I. beings. 3D screenings:Thursday\, October 9 - 4:15pmFriday\, October
-  10 - 9:40pmSaturday\, October 11 - 3:20pmMonday\, October 13 - 7:30pm\n\n
- https://www.siff.net/cinema/in-theaters/tron-ares\n\nEstimated start: 19:4
- 5
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2000 Meters to Andriivka
-DTSTART:20251022T020000Z
-DTEND:20251022T040500Z
-DTSTAMP:20251022T020000Z
-UID:vcEN4rTerS
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nSIFF DocFest The Oscar®-winning
-  team behind 20 Days in Mariupol return with a searing\, unvarnished portr
- ait of the toll of the Russia-Ukraine war on Ukrainian soldiers\, told fro
- m a deeply personal and devastatingly graphic vantage point. Winner of Sun
- dance’s Directing Award for World Cinema Documentary.\n\nhttps://www.sif
- f.net/programs-and-events/docfest/2000-meters-to-andriivka\n\nEstimated st
- art: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Classified Cinema
-DTSTART:20251022T023000Z
-DTEND:20251022T060500Z
-DTSTAMP:20251022T023000Z
-UID:S2FjWLwIEm
-DESCRIPTION:Duration: 200 mins (3h20m)\n\n7:30pm | SIFF Cinema Uptown  Yo
- ur favorite secret movie purveyors are back\, and this time it’s twice t
- he fun! A spoopy movie to start and a spooky movie to finish! Come for one
-  or the other but you’d be wise to stay for both - if you dare!\n\nhttps
- ://www.siff.net/cinema/in-theaters/classified-cinema-secret-movie-double-f
- eature\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251022T151818Z
 BEGIN:VEVENT
 SUMMARY:One Battle After Another
 DTSTART:20251022T221500Z
@@ -337,6 +241,39 @@ DESCRIPTION:Duration: 117 mins (1h57m)\n\nSIFF DocFest Urgent and deeply r
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251024T193000Z
+DTEND:20251024T220500Z
+DTSTAMP:20251024T193000Z
+UID:ICY5KIqNXc
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251024T224500Z
+DTEND:20251025T012000Z
+DTSTAMP:20251024T224500Z
+UID:dR4yacwcSW
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251025T020000Z
+DTEND:20251025T043500Z
+DTSTAMP:20251025T020000Z
+UID:QAAagNmfwx
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:If I Had Legs I’d Kick You
 DTSTART:20251024T203000Z
 DTEND:20251024T224000Z
@@ -451,6 +388,39 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251025T193000Z
+DTEND:20251025T220500Z
+DTSTAMP:20251025T193000Z
+UID:EOIGid4cfg
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251025T224500Z
+DTEND:20251026T012000Z
+DTSTAMP:20251025T224500Z
+UID:T6Bf1oDfjb
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251026T020000Z
+DTEND:20251026T043500Z
+DTSTAMP:20251026T020000Z
+UID:lqCS0NMxIV
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:If I Had Legs I’d Kick You
 DTSTART:20251025T203000Z
 DTEND:20251025T224000Z
@@ -556,6 +526,39 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251026T193000Z
+DTEND:20251026T220500Z
+DTSTAMP:20251026T193000Z
+UID:E5QaFupJKs
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251026T224500Z
+DTEND:20251027T012000Z
+DTSTAMP:20251026T224500Z
+UID:va0PbDEGsw
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251027T020000Z
+DTEND:20251027T043500Z
+DTSTAMP:20251027T020000Z
+UID:D079Q9KOuk
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:If I Had Legs I’d Kick You
 DTSTART:20251026T203000Z
 DTEND:20251026T224000Z
@@ -646,6 +649,28 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251027T230000Z
+DTEND:20251028T013500Z
+DTSTAMP:20251027T230000Z
+UID:i8YA0eej0N
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251028T021500Z
+DTEND:20251028T045000Z
+DTSTAMP:20251028T021500Z
+UID:uceUO67cJ3
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Battle After Another
 DTSTART:20251027T230000Z
 DTEND:20251028T020000Z
@@ -715,6 +740,28 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
  tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
  ters/one-battle-after-another\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251028T230000Z
+DTEND:20251029T013500Z
+DTSTAMP:20251028T230000Z
+UID:M41HbFjWHO
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251029T021500Z
+DTEND:20251029T045000Z
+DTSTAMP:20251029T021500Z
+UID:lS38ch485r
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Battle After Another
@@ -799,6 +846,28 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
  tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
  ters/one-battle-after-another\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251029T230000Z
+DTEND:20251030T013500Z
+DTSTAMP:20251029T230000Z
+UID:Y9ZXN9RHm2
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251030T021500Z
+DTEND:20251030T045000Z
+DTSTAMP:20251030T021500Z
+UID:XE5660ACiy
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Battle After Another
@@ -901,6 +970,28 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251030T230000Z
+DTEND:20251031T013500Z
+DTSTAMP:20251030T230000Z
+UID:WnbyeqQTZk
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251031T020000Z
+DTEND:20251031T043500Z
+DTSTAMP:20251031T020000Z
+UID:Ioeuoh4Ta8
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugonia
 DTSTART:20251030T232000Z
 DTEND:20251031T013500Z
@@ -951,6 +1042,20 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nWith her life crashing down arou
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251031T021500Z
+DTEND:20251031T041500Z
+DTSTAMP:20251031T021500Z
+UID:VJtQhTSNBh
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugonia
 DTSTART:20251031T221000Z
 DTEND:20251101T002500Z
@@ -985,6 +1090,34 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
  en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
  bugonia\n\nEstimated start: 21:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251031T233000Z
+DTEND:20251101T013000Z
+DTSTAMP:20251031T233000Z
+UID:SCCQxbyYy5
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251101T021500Z
+DTEND:20251101T041500Z
+DTSTAMP:20251101T021500Z
+UID:k4Y4gU1Atr
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rocky Horror Picture Show
@@ -1026,6 +1159,62 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks In dark uncertain tim
  /www.siff.net/programs-and-events/education/adult-film-education/film-talk
  s/cinema-dissection-inglourious-basterds\n\nEstimated start: 10:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251101T180000Z
+DTEND:20251101T200000Z
+DTSTAMP:20251101T180000Z
+UID:dNg6A1OS61
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 11:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251101T204500Z
+DTEND:20251101T224500Z
+DTSTAMP:20251101T204500Z
+UID:vGXqvdsvF8
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 14:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251101T233000Z
+DTEND:20251102T013000Z
+DTSTAMP:20251101T233000Z
+UID:MtIcsURZLV
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251102T021500Z
+DTEND:20251102T041500Z
+DTSTAMP:20251102T021500Z
+UID:8xuqDZY3u9
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bugonia
@@ -1074,6 +1263,62 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
  en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
  bugonia\n\nEstimated start: 21:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251102T190000Z
+DTEND:20251102T210000Z
+DTSTAMP:20251102T190000Z
+UID:FQCfcIiiFo
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 11:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251102T214500Z
+DTEND:20251102T234500Z
+DTSTAMP:20251102T214500Z
+UID:IiwoaY4WuN
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 14:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251103T003000Z
+DTEND:20251103T023000Z
+DTSTAMP:20251103T003000Z
+UID:omtLXgvnTb
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251103T031500Z
+DTEND:20251103T051500Z
+DTSTAMP:20251103T031500Z
+UID:po3CCOyKjN
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tim Burton’s Corpse Bride (2005)
@@ -1125,6 +1370,34 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251104T001500Z
+DTEND:20251104T021500Z
+DTSTAMP:20251104T001500Z
+UID:R1cTc9aGg9
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251104T030000Z
+DTEND:20251104T050000Z
+DTSTAMP:20251104T030000Z
+UID:MDT69c6mrb
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugonia
 DTSTART:20251104T003000Z
 DTEND:20251104T024500Z
@@ -1147,6 +1420,34 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
  en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
  bugonia\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251105T001500Z
+DTEND:20251105T021500Z
+DTSTAMP:20251105T001500Z
+UID:dE018jI1Bb
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251105T031500Z
+DTEND:20251105T051500Z
+DTSTAMP:20251105T031500Z
+UID:9j1XZhgMbe
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bugonia
@@ -1185,6 +1486,34 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nOddball internet legend Skweezy J
  zy himself. One night only!\n\nhttps://www.siff.net/cinema/in-theaters/skw
  eezy-jibbs-makes-a-movie\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251106T001500Z
+DTEND:20251106T021500Z
+DTSTAMP:20251106T001500Z
+UID:0dBhFR7APM
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251106T030000Z
+DTEND:20251106T050000Z
+DTSTAMP:20251106T030000Z
+UID:OVM3nEVN9f
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bugonia
@@ -1282,6 +1611,34 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251107T003000Z
+DTEND:20251107T023000Z
+DTSTAMP:20251107T003000Z
+UID:Z51yqkhiWI
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251107T031500Z
+DTEND:20251107T051500Z
+DTSTAMP:20251107T031500Z
+UID:WTM2eHZvLf
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugonia
 DTSTART:20251107T231000Z
 DTEND:20251108T012500Z
@@ -1316,6 +1673,30 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
  en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
  bugonia\n\nEstimated start: 21:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251108T001500Z
+DTEND:20251108T023000Z
+DTSTAMP:20251108T001500Z
+UID:L51qMNxso0
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251108T031500Z
+DTEND:20251108T053000Z
+DTSTAMP:20251108T031500Z
+UID:xGpBJjNb6g
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Moromete Family 3
@@ -1395,6 +1776,42 @@ DESCRIPTION:Duration: 75 mins (1h15m)\n\nRomanian Film Festival Seattle In
  A with director Tudor Giurgiu.\n\nhttps://www.siff.net/cinema/in-theaters/
  romanian-film-festival-seattle/the-spruce-forest\n\nEstimated start: 12:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251108T211500Z
+DTEND:20251108T233000Z
+DTSTAMP:20251108T211500Z
+UID:ggrXD3FM32
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 13:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251109T001500Z
+DTEND:20251109T023000Z
+DTSTAMP:20251109T001500Z
+UID:XMPsR1O44Y
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251109T031500Z
+DTEND:20251109T053000Z
+DTSTAMP:20251109T031500Z
+UID:FgB2P4jDTk
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:High School Thieves
@@ -1504,6 +1921,42 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nRomanian Film Festival Seattle S
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251109T211500Z
+DTEND:20251109T233000Z
+DTSTAMP:20251109T211500Z
+UID:iOLGM5d9kU
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 13:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251110T001500Z
+DTEND:20251110T023000Z
+DTSTAMP:20251110T001500Z
+UID:G9hPcCOIMc
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251110T031500Z
+DTEND:20251110T053000Z
+DTSTAMP:20251110T031500Z
+UID:Lp51S3fA9Z
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Moldovan Tales
 DTSTART:20251109T233000Z
 DTEND:20251110T013000Z
@@ -1517,6 +1970,19 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nRomanian Film Festival Seattle A
  /www.siff.net/cinema/in-theaters/romanian-film-festival-seattle/moldovan-t
  ales\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grave of the Fireflies (1988)
+DTSTART:20251110T020000Z
+DTEND:20251110T034500Z
+DTSTAMP:20251110T020000Z
+UID:wepU8UEO2x
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nThis is the story of Seita and hi
+ s younger sister Setsuko\, two children born at the wrong time\, in the wr
+ ong place\, and now cast adrift in a world that lacks not the care to shel
+ ter them\, but simply the resources.\n\nhttps://www.siff.net/cinema/in-the
+ aters/grave-of-the-fireflies\n\nEstimated start: 18:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The New Year That Never Came
@@ -1555,6 +2021,30 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
  en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
  bugonia\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251111T003000Z
+DTEND:20251111T024500Z
+DTSTAMP:20251111T003000Z
+UID:Vud7EK40Fj
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251111T033000Z
+DTEND:20251111T054500Z
+DTSTAMP:20251111T033000Z
+UID:dnOxeWxe6U
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quiz Show (1994)
@@ -1600,6 +2090,30 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251112T003000Z
+DTEND:20251112T024500Z
+DTSTAMP:20251112T003000Z
+UID:NRLRhaQq4A
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251112T033000Z
+DTEND:20251112T054500Z
+DTSTAMP:20251112T033000Z
+UID:CRdp16a62s
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugonia
 DTSTART:20251113T003000Z
 DTEND:20251113T024500Z
@@ -1622,6 +2136,30 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
  en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
  bugonia\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251113T003000Z
+DTEND:20251113T024500Z
+DTSTAMP:20251113T003000Z
+UID:wVmYC9UYRY
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251113T033000Z
+DTEND:20251113T054500Z
+DTSTAMP:20251113T033000Z
+UID:Q7DCPsdgiX
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inherent Vice (2014)
@@ -1683,6 +2221,30 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251114T003000Z
+DTEND:20251114T024500Z
+DTSTAMP:20251114T003000Z
+UID:l9CWtF1bSc
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251114T033000Z
+DTEND:20251114T054500Z
+DTSTAMP:20251114T033000Z
+UID:9EGPwJYpVH
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugonia
 DTSTART:20251114T231000Z
 DTEND:20251115T012500Z
@@ -1717,6 +2279,19 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
  en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
  bugonia\n\nEstimated start: 21:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251115T033000Z
+DTEND:20251115T064000Z
+DTSTAMP:20251115T033000Z
+UID:5ihXIRg6eK
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bugonia
@@ -1767,6 +2342,32 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251115T204500Z
+DTEND:20251115T235500Z
+DTSTAMP:20251115T204500Z
+UID:MfLgi6KJfP
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251116T033000Z
+DTEND:20251116T064000Z
+DTSTAMP:20251116T033000Z
+UID:o4Z7Pk7iJh
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugonia
 DTSTART:20251116T204500Z
 DTEND:20251116T230000Z
@@ -1803,6 +2404,32 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251116T204500Z
+DTEND:20251116T235500Z
+DTSTAMP:20251116T204500Z
+UID:8oNv3CHOmp
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251117T033000Z
+DTEND:20251117T064000Z
+DTSTAMP:20251117T033000Z
+UID:lIrK4llwLr
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugonia
 DTSTART:20251118T003000Z
 DTEND:20251118T024500Z
@@ -1825,6 +2452,32 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
  en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
  bugonia\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251118T033000Z
+DTEND:20251118T064000Z
+DTSTAMP:20251118T033000Z
+UID:vjcP0Nxua4
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251119T000000Z
+DTEND:20251119T031000Z
+DTSTAMP:20251119T000000Z
+UID:gpBSbSL8G7
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bugonia
@@ -1856,13 +2509,24 @@ DTSTART:20251119T033000Z
 DTEND:20251119T051500Z
 DTSTAMP:20251119T033000Z
 UID:0cVO3AuvUd
-DESCRIPTION:Duration: 90 mins (1h30m)\n\n7:30pm | SIFF Cinema Uptown  You
- r favorite secret movie purveyors are back\, and this time it’s twice th
- e fun! A spoopy movie to start and a spooky movie to finish! Come for one 
- or the other but you’d be wise to stay for both - if you dare!\n\nhttps:
- //www.siff.net/cinema/in-theaters/classified-cinema\n\nEstimated start: 19
- :45
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
+ op secret until they hit the screen. Still free\, always fun\, never prete
+ ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema\n\nEs
+ timated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251120T033000Z
+DTEND:20251120T064000Z
+DTSTAMP:20251120T033000Z
+UID:Dgl76iR5Gv
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked: For Good
@@ -1908,6 +2572,32 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
  kets on sale October 8\, 5:00am PT.\n\nhttps://www.siff.net/cinema/in-thea
  ters/wicked-for-good\n\nEstimated start: 21:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251121T001500Z
+DTEND:20251121T032500Z
+DTSTAMP:20251121T001500Z
+UID:mpIYxYIGj1
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel's Egg (1985)
+DTSTART:20251121T033000Z
+DTEND:20251121T050000Z
+DTSTAMP:20251121T033000Z
+UID:JluyTNHslW
+DESCRIPTION:Duration: 73 mins (1h13m)\n\nIn an underwater city\, a young g
+ irl takes care of a large egg she holds carefully in her arms – a treasu
+ re that she believes is an angel’s egg. 4K Restoration.\n\nhttps://www.
+ siff.net/programs-and-events/unstreamable/angels-egg\n\nEstimated start: 1
+ 9:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked: For Good
@@ -2592,12 +3282,10 @@ DTSTART:20251217T033000Z
 DTEND:20251217T051500Z
 DTSTAMP:20251217T033000Z
 UID:qiQXSRZlnD
-DESCRIPTION:Duration: 90 mins (1h30m)\n\n7:30pm | SIFF Cinema Uptown  You
- r favorite secret movie purveyors are back\, and this time it’s twice th
- e fun! A spoopy movie to start and a spooky movie to finish! Come for one 
- or the other but you’d be wise to stay for both - if you dare!\n\nhttps:
- //www.siff.net/cinema/in-theaters/classified-cinema\n\nEstimated start: 19
- :45
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
+ op secret until they hit the screen. Still free\, always fun\, never prete
+ ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema\n\nEs
+ timated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

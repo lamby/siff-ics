@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20251021T153422Z
+LAST-MODIFIED:20251022T151818Z
 BEGIN:VEVENT
 SUMMARY:The Rocky Horror Picture Show
 DTSTART:20251026T023000Z
@@ -85,6 +85,19 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks In dark uncertain tim
  ed commentary on mythmaking\, propaganda\, and cultural memory.\n\nhttps:/
  /www.siff.net/programs-and-events/education/adult-film-education/film-talk
  s/cinema-dissection-inglourious-basterds\n\nEstimated start: 10:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grave of the Fireflies (1988)
+DTSTART:20251110T020000Z
+DTEND:20251110T034500Z
+DTSTAMP:20251110T020000Z
+UID:wepU8UEO2x
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nThis is the story of Seita and hi
+ s younger sister Setsuko\, two children born at the wrong time\, in the wr
+ ong place\, and now cast adrift in a world that lacks not the care to shel
+ ter them\, but simply the resources.\n\nhttps://www.siff.net/cinema/in-the
+ aters/grave-of-the-fireflies\n\nEstimated start: 18:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT

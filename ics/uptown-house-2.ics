@@ -3,22 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20251021T153422Z
-BEGIN:VEVENT
-SUMMARY:2000 Meters to Andriivka
-DTSTART:20251022T020000Z
-DTEND:20251022T040500Z
-DTSTAMP:20251022T020000Z
-UID:vcEN4rTerS
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nSIFF DocFest The Oscar®-winning
-  team behind 20 Days in Mariupol return with a searing\, unvarnished portr
- ait of the toll of the Russia-Ukraine war on Ukrainian soldiers\, told fro
- m a deeply personal and devastatingly graphic vantage point. Winner of Sun
- dance’s Directing Award for World Cinema Documentary.\n\nhttps://www.sif
- f.net/programs-and-events/docfest/2000-meters-to-andriivka\n\nEstimated st
- art: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251022T151818Z
 BEGIN:VEVENT
 SUMMARY:After the Hunt
 DTSTART:20251023T021500Z
@@ -74,6 +59,50 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nScarecrowber Are Gokemidoro undea
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251027T230000Z
+DTEND:20251028T013500Z
+DTSTAMP:20251027T230000Z
+UID:i8YA0eej0N
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251028T021500Z
+DTEND:20251028T045000Z
+DTSTAMP:20251028T021500Z
+UID:uceUO67cJ3
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251028T230000Z
+DTEND:20251029T013500Z
+DTSTAMP:20251028T230000Z
+UID:M41HbFjWHO
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251029T021500Z
+DTEND:20251029T045000Z
+DTSTAMP:20251029T021500Z
+UID:lS38ch485r
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Battle After Another
 DTSTART:20251029T223000Z
 DTEND:20251030T013000Z
@@ -117,6 +146,59 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nL.A. Noir: Shadows in Paradise Pr
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:After the Hunt
+DTSTART:20251030T230000Z
+DTEND:20251031T013500Z
+DTSTAMP:20251030T230000Z
+UID:WnbyeqQTZk
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
+ ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
+ r-the-hunt\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251031T021500Z
+DTEND:20251031T041500Z
+DTSTAMP:20251031T021500Z
+UID:VJtQhTSNBh
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251105T001500Z
+DTEND:20251105T021500Z
+DTSTAMP:20251105T001500Z
+UID:dE018jI1Bb
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251105T031500Z
+DTEND:20251105T051500Z
+DTSTAMP:20251105T031500Z
+UID:9j1XZhgMbe
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
+ tart: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drive (2011)
 DTSTART:20251106T033000Z
 DTEND:20251106T052500Z
@@ -143,6 +225,54 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nL.A. Noir: Shadows in Paradise P
  rancaise de Seattle\, Scarecrow Video\, & KING FM members\n\nhttps://www.s
  iff.net/cinema/in-theaters/la-noir-shadows-in-paradise/drive\n\nEstimated 
  start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251111T003000Z
+DTEND:20251111T024500Z
+DTSTAMP:20251111T003000Z
+UID:Vud7EK40Fj
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251111T033000Z
+DTEND:20251111T054500Z
+DTSTAMP:20251111T033000Z
+UID:dnOxeWxe6U
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251112T003000Z
+DTEND:20251112T024500Z
+DTSTAMP:20251112T003000Z
+UID:NRLRhaQq4A
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die\, My Love
+DTSTART:20251112T033000Z
+DTEND:20251112T054500Z
+DTSTAMP:20251112T033000Z
+UID:CRdp16a62s
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
+ tinson excel in Lynne Ramsay’s bold and brave film about a woman experie
+ ncing postpartum psychosis.\n\nhttps://www.siff.net/cinema/in-theaters/die
+ -my-love\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -186,12 +316,10 @@ DTSTART:20251119T033000Z
 DTEND:20251119T051500Z
 DTSTAMP:20251119T033000Z
 UID:0cVO3AuvUd
-DESCRIPTION:Duration: 90 mins (1h30m)\n\n7:30pm | SIFF Cinema Uptown  You
- r favorite secret movie purveyors are back\, and this time it’s twice th
- e fun! A spoopy movie to start and a spooky movie to finish! Come for one 
- or the other but you’d be wise to stay for both - if you dare!\n\nhttps:
- //www.siff.net/cinema/in-theaters/classified-cinema\n\nEstimated start: 19
- :45
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
+ op secret until they hit the screen. Still free\, always fun\, never prete
+ ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema\n\nEs
+ timated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -213,12 +341,10 @@ DTSTART:20251217T033000Z
 DTEND:20251217T051500Z
 DTSTAMP:20251217T033000Z
 UID:qiQXSRZlnD
-DESCRIPTION:Duration: 90 mins (1h30m)\n\n7:30pm | SIFF Cinema Uptown  You
- r favorite secret movie purveyors are back\, and this time it’s twice th
- e fun! A spoopy movie to start and a spooky movie to finish! Come for one 
- or the other but you’d be wise to stay for both - if you dare!\n\nhttps:
- //www.siff.net/cinema/in-theaters/classified-cinema\n\nEstimated start: 19
- :45
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
+ op secret until they hit the screen. Still free\, always fun\, never prete
+ ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema\n\nEs
+ timated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
