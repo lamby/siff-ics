@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20251029T164453Z
+LAST-MODIFIED:20251030T134409Z
 BEGIN:VEVENT
 SUMMARY:The Rocky Horror Picture Show
 DTSTART:20251101T023000Z
@@ -46,6 +46,104 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks In dark uncertain tim
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251108T004500Z
+DTEND:20251108T023000Z
+DTSTAMP:20251108T004500Z
+UID:C6UHL9DN3Z
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 17:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251108T030000Z
+DTEND:20251108T044500Z
+DTSTAMP:20251108T030000Z
+UID:tJD11kFaEr
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251108T213000Z
+DTEND:20251108T231500Z
+DTSTAMP:20251108T213000Z
+UID:njN2EsgsZU
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 13:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251108T234500Z
+DTEND:20251109T013000Z
+DTSTAMP:20251108T234500Z
+UID:SME3ER1HFb
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 16:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251109T020000Z
+DTEND:20251109T034500Z
+DTSTAMP:20251109T020000Z
+UID:f7ARwNRBmk
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 18:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251109T213000Z
+DTEND:20251109T231500Z
+DTSTAMP:20251109T213000Z
+UID:yQ9OGLQXFi
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 13:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251109T234500Z
+DTEND:20251110T013000Z
+DTSTAMP:20251109T234500Z
+UID:v2PJi8VE6G
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 16:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grave of the Fireflies (1988)
 DTSTART:20251110T020000Z
 DTEND:20251110T034500Z
@@ -56,6 +154,118 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nThis is the story of Seita and hi
  ong place\, and now cast adrift in a world that lacks not the care to shel
  ter them\, but simply the resources.\n\nhttps://www.siff.net/cinema/in-the
  aters/grave-of-the-fireflies\n\nEstimated start: 18:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251111T011500Z
+DTEND:20251111T030000Z
+DTSTAMP:20251111T011500Z
+UID:u9ujV9dAJg
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 17:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251111T033000Z
+DTEND:20251111T051500Z
+DTSTAMP:20251111T033000Z
+UID:7bTsiEaX2S
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251112T011500Z
+DTEND:20251112T030000Z
+DTSTAMP:20251112T011500Z
+UID:5Jm9ii9r79
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 17:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251112T033000Z
+DTEND:20251112T051500Z
+DTSTAMP:20251112T033000Z
+UID:Uxq6tlCxVY
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251113T011500Z
+DTEND:20251113T030000Z
+DTSTAMP:20251113T011500Z
+UID:MJ2K23teEO
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 17:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251113T033000Z
+DTEND:20251113T051500Z
+DTSTAMP:20251113T033000Z
+UID:C9YGQhOL7F
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251114T011500Z
+DTEND:20251114T030000Z
+DTSTAMP:20251114T011500Z
+UID:ww7tKjTHgp
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 17:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Amélie or the Character of Rain
+DTSTART:20251114T033000Z
+DTEND:20251114T051500Z
+DTSTAMP:20251114T033000Z
+UID:UEUVZDn94P
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
+ selling novel The Character of Rain\,” Mäilys Vallade and Liane-cho Han
+ ’s wondrous animated feature looks at the world through the eyes of a Be
+ lgian girl discovering everything around her as she approaches her third b
+ irthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-the-c
+ haracter-of-rain\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT

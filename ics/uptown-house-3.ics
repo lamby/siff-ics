@@ -3,29 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20251029T164453Z
-BEGIN:VEVENT
-SUMMARY:After the Hunt
-DTSTART:20251029T230000Z
-DTEND:20251030T013500Z
-DTSTAMP:20251029T230000Z
-UID:Y9ZXN9RHm2
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
- ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
- r-the-hunt\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:After the Hunt
-DTSTART:20251030T021500Z
-DTEND:20251030T045000Z
-DTSTAMP:20251030T021500Z
-UID:XE5660ACiy
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
- ke you feel comfortable...\n\nhttps://www.siff.net/cinema/in-theaters/afte
- r-the-hunt\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251030T134409Z
 BEGIN:VEVENT
 SUMMARY:One Battle After Another
 DTSTART:20251030T223000Z
@@ -53,6 +31,81 @@ DESCRIPTION:Duration: 139 mins (2h19m)\n\nNot everything is supposed to ma
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251031T221500Z
+DTEND:20251101T011500Z
+DTSTAMP:20251031T221500Z
+UID:iLBnRZ9wB9
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251101T020000Z
+DTEND:20251101T050000Z
+DTSTAMP:20251101T020000Z
+UID:yPMjkUEKeq
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251101T183000Z
+DTEND:20251101T213000Z
+DTSTAMP:20251101T183000Z
+UID:IT02MhFkX2
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 11:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251101T221500Z
+DTEND:20251102T011500Z
+DTSTAMP:20251101T221500Z
+UID:cNkTQkx7LI
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251102T020000Z
+DTEND:20251102T050000Z
+DTSTAMP:20251102T020000Z
+UID:6y3rhsU5jZ
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tim Burton’s Corpse Bride (2005)
 DTSTART:20251102T200000Z
 DTEND:20251102T213500Z
@@ -63,6 +116,81 @@ DESCRIPTION:Duration: 77 mins (1h17m)\n\nSIFF 'n' Stitch On the eve of his
  d descends with her into the underworld.\n\nhttps://www.siff.net/programs-
  and-events/siff-n-stitch/tim-burtons-corpse-bride\n\nEstimated start: 12:1
  5
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251102T231500Z
+DTEND:20251103T021500Z
+DTSTAMP:20251102T231500Z
+UID:ZbJoG4dfbN
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251103T030000Z
+DTEND:20251103T060000Z
+DTSTAMP:20251103T030000Z
+UID:xMI3KIr2NM
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251103T233000Z
+DTEND:20251104T023000Z
+DTSTAMP:20251103T233000Z
+UID:o8uDarlwo8
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251104T031500Z
+DTEND:20251104T061500Z
+DTSTAMP:20251104T031500Z
+UID:gqNFNjZJfY
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART:20251104T233000Z
+DTEND:20251105T023000Z
+DTSTAMP:20251104T233000Z
+UID:eIQPPURQQn
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nWashed-up revolutionary Bob (Leo
+ nardo DiCaprio) exists in a state of stoned paranoia\, surviving off-grid 
+ with his spirited\, self-reliant daughter\, Willa (Chase Infiniti). When h
+ is evil nemesis (Sean Penn) resurfaces after 16 years and she goes missing
+ \, the former radical scrambles to find her\, father and daughter both bat
+ tling the consequences of his past.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/one-battle-after-another\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -104,6 +232,32 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
  s pondering revenge against a man they believe was their torturer.\n\nhttp
  s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
  tart: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:If I Had Legs I’d Kick You
+DTSTART:20251107T001500Z
+DTEND:20251107T022500Z
+DTSTAMP:20251107T001500Z
+UID:eB1fEH9fOA
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nWith her life crashing down arou
+ nd her\, Linda (Rose Byrne) attempts to navigate her child's mysterious il
+ lness\, her absent husband\, a missing person\, and an increasingly hostil
+ e relationship with her therapist.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/if-i-had-legs-id-kick-you\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:If I Had Legs I’d Kick You
+DTSTART:20251107T033000Z
+DTEND:20251107T054000Z
+DTSTAMP:20251107T033000Z
+UID:GHGyyco15I
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nWith her life crashing down arou
+ nd her\, Linda (Rose Byrne) attempts to navigate her child's mysterious il
+ lness\, her absent husband\, a missing person\, and an increasingly hostil
+ e relationship with her therapist.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/if-i-had-legs-id-kick-you\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
