@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20251103T150450Z
-BEGIN:VEVENT
-SUMMARY:It Was Just An Accident
-DTSTART:20251104T001500Z
-DTEND:20251104T021500Z
-DTSTAMP:20251104T001500Z
-UID:R1cTc9aGg9
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
- ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
- t following his most recent prison sentence — follows a group of citizen
- s pondering revenge against a man they believe was their torturer.\n\nhttp
- s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
- tart: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just An Accident
-DTSTART:20251104T030000Z
-DTEND:20251104T050000Z
-DTSTAMP:20251104T030000Z
-UID:MDT69c6mrb
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
- ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
- t following his most recent prison sentence — follows a group of citizen
- s pondering revenge against a man they believe was their torturer.\n\nhttp
- s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
- tart: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251104T172356Z
 BEGIN:VEVENT
 SUMMARY:If I Had Legs I’d Kick You
 DTSTART:20251105T003000Z
@@ -406,6 +378,32 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nPresented by Create 48 Media Ne
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251119T001500Z
+DTEND:20251119T024500Z
+DTSTAMP:20251119T001500Z
+UID:1CymXOun11
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251119T034500Z
+DTEND:20251119T061500Z
+DTSTAMP:20251119T034500Z
+UID:m4jgIoxii9
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 20:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seattle 48 Hour Horror 2025
 DTSTART:20251120T024500Z
 DTEND:20251120T044500Z
@@ -455,6 +453,240 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nUnstreamable In an underwater cit
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251126T235000Z
+DTEND:20251127T021000Z
+DTSTAMP:20251126T235000Z
+UID:JjbFbpfSJ9
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 16:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251127T030000Z
+DTEND:20251127T052000Z
+DTSTAMP:20251127T030000Z
+UID:rgaw4PxmBM
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251127T204500Z
+DTEND:20251127T230500Z
+DTSTAMP:20251127T204500Z
+UID:Hg53wk2tnf
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251127T235000Z
+DTEND:20251128T021000Z
+DTSTAMP:20251127T235000Z
+UID:LnNWQBT99c
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 16:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251128T030000Z
+DTEND:20251128T052000Z
+DTSTAMP:20251128T030000Z
+UID:MSh1gcG1gY
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251128T204500Z
+DTEND:20251128T230500Z
+DTSTAMP:20251128T204500Z
+UID:PwanlT3O7A
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251128T235000Z
+DTEND:20251129T021000Z
+DTSTAMP:20251128T235000Z
+UID:RiaHobVVAl
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 16:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251129T030000Z
+DTEND:20251129T052000Z
+DTSTAMP:20251129T030000Z
+UID:0lW69Qk5mJ
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251129T204500Z
+DTEND:20251129T230500Z
+DTSTAMP:20251129T204500Z
+UID:piIvcFU8Tw
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251129T235000Z
+DTEND:20251130T021000Z
+DTSTAMP:20251129T235000Z
+UID:L9HtKaxJyL
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 16:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251130T030000Z
+DTEND:20251130T052000Z
+DTSTAMP:20251130T030000Z
+UID:hP4TfH7y3g
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251130T204500Z
+DTEND:20251130T230500Z
+DTSTAMP:20251130T204500Z
+UID:utqppYSnry
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251130T235000Z
+DTEND:20251201T021000Z
+DTSTAMP:20251130T235000Z
+UID:e3Ao9HfLvB
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 16:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251201T030000Z
+DTEND:20251201T052000Z
+DTSTAMP:20251201T030000Z
+UID:UEZbi5hhda
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251202T003000Z
+DTEND:20251202T025000Z
+DTSTAMP:20251202T003000Z
+UID:daE8FosUwl
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251202T033000Z
+DTEND:20251202T055000Z
+DTSTAMP:20251202T033000Z
+UID:2TGV1wnwPD
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251203T003000Z
+DTEND:20251203T025000Z
+DTSTAMP:20251203T003000Z
+UID:sa9PdFAdXG
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251203T033000Z
+DTEND:20251203T055000Z
+DTSTAMP:20251203T033000Z
+UID:UXuGTjYP0W
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Night of the Hunter (1955)
 DTSTART:20251204T020000Z
 DTEND:20251204T035000Z
@@ -466,6 +698,19 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nSIFF Movie Club Part fairy tale\,
   hidden loot. 70th anniversary screening.  Introduced by SIFF Education 
  Manager Megan Garbayo-López.\n\nhttps://www.siff.net/programs-and-events
  /siff-movie-club/the-night-of-the-hunter\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251205T003000Z
+DTEND:20251205T025000Z
+DTSTAMP:20251205T003000Z
+UID:QlE8aBqMLR
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 16:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
