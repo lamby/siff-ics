@@ -3,25 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20251105T161608Z
-BEGIN:VEVENT
-SUMMARY:The Ascent (1977)
-DTSTART:20251106T020000Z
-DTEND:20251106T040500Z
-DTSTAMP:20251106T020000Z
-UID:nZf50CJ5pm
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nSIFF Movie Club Shepitko’s emo
- tionally overwhelming final film won the Golden Bear at the 1977 Berlin Fi
- lm Festival and has been hailed around the world as the finest Soviet film
-  of its decade. Set during World War II's darkest days\, The Ascent follow
- s the path of two peasant soldiers\, cut off from their troop\, who trudge
-  through the snowy backwoods of Belarus seeking refuge among villagers. Th
- eir harrowing trek leads them on a journey of betrayal\, heroism\, and ult
- imate transcendence.  Introduced by SIFF Cinema Staff Member Adam Plesser
- .\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/the-ascent\n
- \nEstimated start: 18:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251106T174907Z
 BEGIN:VEVENT
 SUMMARY:It Was Just An Accident
 DTSTART:20251107T003000Z
@@ -166,16 +148,18 @@ DESCRIPTION:Duration: 133 mins (2h13m)\n\nTalking Pictures Join SIFF for T
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CIS: The Tasters
+SUMMARY:CIS: Paternal Leave
 DTSTART:20251113T023000Z
-DTEND:20251113T045000Z
+DTEND:20251113T044000Z
 DTSTAMP:20251113T023000Z
 UID:BbMMoLXNRE
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nCinema Italian Style A gripping 
- historical drama inspired by the incredible true story of Margot Wölk\, a
-  woman who was conscripted to be one of Hitler’s food tasters.Opening Ni
- ght Film + Party Tickets: $25\n\nhttps://www.siff.net/programs-and-events/
- cinema-italian-style-2025/the-tasters\n\nEstimated start: 18:45
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nCinema Italian Style Torn betwee
+ n longing and anger\, 15-year-old Leo travels to the coast of northern Ita
+ ly to meet her biological father. The two are complete strangers to each o
+ ther. They struggle to find truth\, affinity\, love and the courage to fac
+ e themselves. Opening Night Film + Party Tickets: $25\n\nhttps://www.siff.
+ net/programs-and-events/cinema-italian-style-2025/paternal-leave\n\nEstima
+ ted start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -192,17 +176,16 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nCinema Italian Style A harrowing
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CIS: Paternal Leave
+SUMMARY:CIS: The Tasters
 DTSTART:20251114T043000Z
-DTEND:20251114T064000Z
+DTEND:20251114T065000Z
 DTSTAMP:20251114T043000Z
 UID:8oAiYuGRp8
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nCinema Italian Style Torn betwee
- n longing and anger\, 15-year-old Leo travels to the coast of northern Ita
- ly to meet her biological father. The two are complete strangers to each o
- ther. They struggle to find truth\, affinity\, love and the courage to fac
- e themselves.\n\nhttps://www.siff.net/programs-and-events/cinema-italian-s
- tyle-2025/paternal-leave\n\nEstimated start: 20:45
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nCinema Italian Style A gripping 
+ historical drama inspired by the incredible true story of Margot Wölk\, a
+  woman who was conscripted to be one of Hitler’s food tasters.\n\nhttps:
+ //www.siff.net/programs-and-events/cinema-italian-style-2025/the-tasters\n
+ \nEstimated start: 20:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
