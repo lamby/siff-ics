@@ -3,65 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20251109T153943Z
-BEGIN:VEVENT
-SUMMARY:TWST: Things We Said Today
-DTSTART:20251109T192500Z
-DTEND:20251109T210500Z
-DTSTAMP:20251109T192500Z
-UID:irL7SdtqhS
-DESCRIPTION:Duration: 85 mins (1h25m)\n\nRomanian Film Festival Seattle TW
- ST takes as its starting point the arrival of the Beatles in New York for 
- their August 1965 concert at Shea Stadium. But the frame of reference stea
- dily broadens and adjacent realities of 1965 are juxtaposed—the New York
-  World’s Fair and the Watts riots in Los Angeles.\n\nhttps://www.siff.ne
- t/cinema/in-theaters/romanian-film-festival-seattle/twst-things-we-said-to
- day\n\nEstimated start: 11:40
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comatogen
-DTSTART:20251109T210000Z
-DTEND:20251109T230500Z
-DTSTAMP:20251109T210000Z
-UID:9UCM0Y8CxJ
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nRomanian Film Festival Seattle S
- ingle mother and nurse Alina is confronted with an ethical problem when sh
- e tries to find a huge sum of money to prevent her 22-year old son Radu fr
- om going to prison. Will Alina give in and abandon her faith and morality?
- \n\nhttps://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle
- /comatogen\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moldovan Tales
-DTSTART:20251109T233000Z
-DTEND:20251110T013000Z
-DTSTAMP:20251109T233000Z
-UID:pulbZdA0Qq
-DESCRIPTION:Duration: 104 mins (1h44m)\n\nRomanian Film Festival Seattle A
-  diverse and hilarious cast of characters in contemporary Moldova encounte
- rs surprising opportunities and obstacles through a series of unexpected a
- dventures\, all capturing the essence of humor\, struggles\, and spirit of
-  both rural and urban life. Q&A with director Natalia Shaufert.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/romanian-film-festival-seattle/moldovan-t
- ales\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The New Year That Never Came
-DTSTART:20251110T020000Z
-DTEND:20251110T043500Z
-DTSTAMP:20251110T020000Z
-UID:23vjiXD6Xd
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nRomanian Film Festival Seattle I
- n December of 1989 Ceaușescu’s regime is on its last legs and any news 
- that reaches Bucharest is scant and sanitised. Six people find themselves 
- in the eye of the storm without realizing it. Q&A with cinematographer Bor
- oka Biro.\n\nhttps://www.siff.net/cinema/in-theaters/romanian-film-festiva
- l-seattle/the-new-year-that-never-came\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251110T171334Z
 BEGIN:VEVENT
 SUMMARY:It Was Just An Accident
 DTSTART:20251111T001500Z
@@ -284,16 +226,29 @@ DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Yi (2000)
-DTSTART:20251121T001500Z
-DTEND:20251121T032500Z
-DTSTAMP:20251121T001500Z
-UID:mpIYxYIGj1
-DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
-  the lives of the Jian family from the alternating perspectives of the thr
- ee main family members: father N.J.\, teenage daughter Ting-Ting and young
-  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
- ters/yi-yi-25th-anniversary\n\nEstimated start: 16:30
+SUMMARY:Sentimental Value
+DTSTART:20251121T000000Z
+DTEND:20251121T023000Z
+DTSTAMP:20251121T000000Z
+UID:736kWVe5C9
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251121T031500Z
+DTEND:20251121T054500Z
+DTSTAMP:20251121T031500Z
+UID:44gCa2tLwy
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
