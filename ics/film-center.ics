@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20251110T171334Z
-BEGIN:VEVENT
-SUMMARY:Little Amélie or the Character of Rain
-DTSTART:20251111T011500Z
-DTEND:20251111T030000Z
-DTSTAMP:20251111T011500Z
-UID:u9ujV9dAJg
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
- selling novel “The Character of Rain\,” Mäilys Vallade and Liane-cho 
- Han’s wondrous animated feature looks at the world through the eyes of a
-  Belgian girl discovering everything around her as she approaches her thir
- d birthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-th
- e-character-of-rain\n\nEstimated start: 17:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Amélie or the Character of Rain
-DTSTART:20251111T033000Z
-DTEND:20251111T051500Z
-DTSTAMP:20251111T033000Z
-UID:7bTsiEaX2S
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nBased on Amélie Nothomb’s best
- selling novel “The Character of Rain\,” Mäilys Vallade and Liane-cho 
- Han’s wondrous animated feature looks at the world through the eyes of a
-  Belgian girl discovering everything around her as she approaches her thir
- d birthday.\n\nhttps://www.siff.net/cinema/in-theaters/little-amelie-or-th
- e-character-of-rain\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20251111T170756Z
 BEGIN:VEVENT
 SUMMARY:Little Amélie or the Character of Rain
 DTSTART:20251112T011500Z

@@ -3,26 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20251110T171334Z
-BEGIN:VEVENT
-SUMMARY:Quiz Show (1994)
-DTSTART:20251111T020000Z
-DTEND:20251111T043000Z
-DTSTAMP:20251111T020000Z
-UID:HtvILnqUt6
-DESCRIPTION:Duration: 133 mins (2h13m)\n\nTalking Pictures Join SIFF for T
- alking Pictures\, a new series of film experiences where local luminaries 
- host a screening of a film of their choice at SIFF Cinemas and share with 
- audiences how it has impacted them. On November 10\, “Jeopardy!” Host 
- and Seattle native Ken Jennings will present Quiz Show (1994) at SIFF Cine
- ma Uptown.  Phinney Books will be onsite with a selection of Ken's books 
- available for purchase\, with a book signing to follow the screening. The 
- Talking Pictures series raises funds to support SIFF and a portion of the 
- ticket price includes a donation. $35 General | $30 Members\n\nhttps://www
- .siff.net/programs-and-events/talking-pictures/ken-jennings-quiz-show\n\nE
- stimated start: 18:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251111T170756Z
 BEGIN:VEVENT
 SUMMARY:CIS: Paternal Leave
 DTSTART:20251113T023000Z
@@ -223,6 +204,20 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251119T031500Z
+DTEND:20251119T051500Z
+DTSTAMP:20251119T031500Z
+UID:k5MN0UcWb1
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seattle 48 Hour Horror 2025
 DTSTART:20251120T024500Z
 DTEND:20251120T044500Z
@@ -259,16 +254,31 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nPresented by Create 48 Media Ne
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yi Yi (2000)
-DTSTART:20251121T001500Z
-DTEND:20251121T032500Z
-DTSTAMP:20251121T001500Z
-UID:mpIYxYIGj1
-DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
-  the lives of the Jian family from the alternating perspectives of the thr
- ee main family members: father N.J.\, teenage daughter Ting-Ting and young
-  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
- ters/yi-yi-25th-anniversary\n\nEstimated start: 16:30
+SUMMARY:It Was Just An Accident
+DTSTART:20251120T235000Z
+DTEND:20251121T015000Z
+DTSTAMP:20251120T235000Z
+UID:4aY0rY3fwF
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 16:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251121T024500Z
+DTEND:20251121T044500Z
+DTSTAMP:20251121T024500Z
+UID:JyfaGu4T6Q
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 19:00
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -530,21 +540,6 @@ DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
  of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
  rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
  ema/in-theaters/hamnet\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Glamour & The Squalor (2015)
-DTSTART:20251205T033000Z
-DTEND:20251205T050500Z
-DTSTAMP:20251205T033000Z
-UID:Soj9bLVCDR
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nSeattle DJ Marco Collins stars in
-  this unflinching documentary about media fame and addiction\, which track
- s his rise\, fall\, and resurrection as an influential promoter of grunge\
- , alternative rock\, and electronic dance music. One-night-only 10th anni
- versary screening. Filmmakers\, subject Marco Collins\, and very special g
- uests scheduled to attend.\n\nhttps://www.siff.net/cinema/in-theaters/the-
- glamour-and-the-squalor\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

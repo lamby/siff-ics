@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20251110T171334Z
-BEGIN:VEVENT
-SUMMARY:It Was Just An Accident
-DTSTART:20251111T001500Z
-DTEND:20251111T021500Z
-DTSTAMP:20251111T001500Z
-UID:rwgfWQPe6T
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
- ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
- t following his most recent prison sentence — follows a group of citizen
- s pondering revenge against a man they believe was their torturer.\n\nhttp
- s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
- tart: 16:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just An Accident
-DTSTART:20251111T030000Z
-DTEND:20251111T050000Z
-DTSTAMP:20251111T030000Z
-UID:uAK1XjCrWE
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
- ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
- t following his most recent prison sentence — follows a group of citizen
- s pondering revenge against a man they believe was their torturer.\n\nhttp
- s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
- tart: 19:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251111T170756Z
 BEGIN:VEVENT
 SUMMARY:It Was Just An Accident
 DTSTART:20251112T001500Z
@@ -41,9 +13,9 @@ UID:J2xnkq13Fm
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
  ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
  t following his most recent prison sentence — follows a group of citizen
- s pondering revenge against a man they believe was their torturer.\n\nhttp
- s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
- tart: 16:30
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -55,9 +27,9 @@ UID:pCRIPQsF4n
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
  ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
  t following his most recent prison sentence — follows a group of citizen
- s pondering revenge against a man they believe was their torturer.\n\nhttp
- s://www.siff.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated s
- tart: 19:15
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -109,6 +81,20 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nJennifer Lawrence and Robert Pat
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251115T004500Z
+DTEND:20251115T024500Z
+DTSTAMP:20251115T004500Z
+UID:1ujNL42l3x
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yi Yi (2000)
 DTSTART:20251115T033000Z
 DTEND:20251115T064000Z
@@ -148,6 +134,20 @@ DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251116T004500Z
+DTEND:20251116T024500Z
+DTSTAMP:20251116T004500Z
+UID:4w2jQq7gY8
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yi Yi (2000)
 DTSTART:20251116T204500Z
 DTEND:20251116T235500Z
@@ -171,6 +171,34 @@ DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
  ee main family members: father N.J.\, teenage daughter Ting-Ting and young
   son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
  ters/yi-yi-25th-anniversary\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251117T004500Z
+DTEND:20251117T024500Z
+DTSTAMP:20251117T004500Z
+UID:pLgCKOX1wW
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251118T004500Z
+DTEND:20251118T024500Z
+DTSTAMP:20251118T004500Z
+UID:FyRqGnchh6
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 17:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -213,6 +241,20 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251120T004500Z
+DTEND:20251120T024500Z
+DTSTAMP:20251120T004500Z
+UID:WGBFhShFvk
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yi Yi (2000)
 DTSTART:20251120T033000Z
 DTEND:20251120T064000Z
@@ -249,6 +291,19 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
  director’s bid to revive his career and repair his family’s broken bon
  ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
  ted start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eternity
+DTSTART:20251204T031500Z
+DTEND:20251204T052500Z
+DTSTAMP:20251204T031500Z
+UID:8dFFx3HT3P
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
+  one week to decide where to spend eternity\, Joan must choose between the
+  man she spent her life with and her first love. Tickets on sale November 
+ 12.\n\nhttps://www.siff.net/cinema/in-theaters/eternity\n\nEstimated start
+ : 19:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
