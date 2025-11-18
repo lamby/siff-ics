@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20251117T164319Z
-BEGIN:VEVENT
-SUMMARY:Peter Hujar's Day
-DTSTART:20251118T010000Z
-DTEND:20251118T023500Z
-DTSTAMP:20251118T010000Z
-UID:8t9SOaya0B
-DESCRIPTION:Duration: 76 mins (1h16m)\n\nTwenty-four hours in the life of 
- the famously uncompromising Peter Hujar who was regarded as one of the mos
- t important characters in downtown New York's cultural scene.\n\nhttps://w
- ww.siff.net/cinema/in-theaters/peter-hujars-day\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peter Hujar's Day
-DTSTART:20251118T031500Z
-DTEND:20251118T045000Z
-DTSTAMP:20251118T031500Z
-UID:KgVHvWpvSd
-DESCRIPTION:Duration: 76 mins (1h16m)\n\nTwenty-four hours in the life of 
- the famously uncompromising Peter Hujar who was regarded as one of the mos
- t important characters in downtown New York's cultural scene.\n\nhttps://w
- ww.siff.net/cinema/in-theaters/peter-hujars-day\n\nEstimated start: 19:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20251118T161352Z
 BEGIN:VEVENT
 SUMMARY:Peter Hujar's Day
 DTSTART:20251119T010000Z
@@ -319,6 +295,71 @@ DESCRIPTION:Duration: 125 mins (2h05m)\n\nMy Undesirable Friends: Part I -
  ps://www.siff.net/programs-and-events/my-undesirable-friends-part-i-last-a
  ir-in-moscow/my-undesirable-friends-part-i-last-air-in-moscow-chapters-4-5
  \n\nEstimated start: 18:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Put Your Soul on Your Hand and Walk
+DTSTART:20251206T011500Z
+DTEND:20251206T032500Z
+DTSTAMP:20251206T011500Z
+UID:5DH9yxUv4V
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAn intimate\, first-hand perspec
+ tive on life under siege in Gaza\, captured through video calls between di
+ rector Sepideh Farsi and 25-year-old Palestinian photojournalist and poet 
+ Fatma Hassona.\n\nhttps://www.siff.net/cinema/in-theaters/put-your-soul-on
+ -your-hand-and-walk\n\nEstimated start: 17:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Put Your Soul on Your Hand and Walk
+DTSTART:20251206T210000Z
+DTEND:20251206T231000Z
+DTSTAMP:20251206T210000Z
+UID:XBlLQBLHFJ
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAn intimate\, first-hand perspec
+ tive on life under siege in Gaza\, captured through video calls between di
+ rector Sepideh Farsi and 25-year-old Palestinian photojournalist and poet 
+ Fatma Hassona.\n\nhttps://www.siff.net/cinema/in-theaters/put-your-soul-on
+ -your-hand-and-walk\n\nEstimated start: 13:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Put Your Soul on Your Hand and Walk
+DTSTART:20251207T013000Z
+DTEND:20251207T034000Z
+DTSTAMP:20251207T013000Z
+UID:Wepmccjjhg
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAn intimate\, first-hand perspec
+ tive on life under siege in Gaza\, captured through video calls between di
+ rector Sepideh Farsi and 25-year-old Palestinian photojournalist and poet 
+ Fatma Hassona.\n\nhttps://www.siff.net/cinema/in-theaters/put-your-soul-on
+ -your-hand-and-walk\n\nEstimated start: 17:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Put Your Soul on Your Hand and Walk
+DTSTART:20251208T030000Z
+DTEND:20251208T051000Z
+DTSTAMP:20251208T030000Z
+UID:dh6iP2eLJc
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAn intimate\, first-hand perspec
+ tive on life under siege in Gaza\, captured through video calls between di
+ rector Sepideh Farsi and 25-year-old Palestinian photojournalist and poet 
+ Fatma Hassona.\n\nhttps://www.siff.net/cinema/in-theaters/put-your-soul-on
+ -your-hand-and-walk\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Put Your Soul on Your Hand and Walk
+DTSTART:20251209T030000Z
+DTEND:20251209T051000Z
+DTSTAMP:20251209T030000Z
+UID:Cs0EAyylKP
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAn intimate\, first-hand perspec
+ tive on life under siege in Gaza\, captured through video calls between di
+ rector Sepideh Farsi and 25-year-old Palestinian photojournalist and poet 
+ Fatma Hassona.\n\nhttps://www.siff.net/cinema/in-theaters/put-your-soul-on
+ -your-hand-and-walk\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
