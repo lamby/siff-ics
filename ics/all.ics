@@ -3,120 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20251118T161352Z
-BEGIN:VEVENT
-SUMMARY:Yi Yi (2000)
-DTSTART:20251119T000000Z
-DTEND:20251119T031000Z
-DTSTAMP:20251119T000000Z
-UID:gpBSbSL8G7
-DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
-  the lives of the Jian family from the alternating perspectives of the thr
- ee main family members: father N.J.\, teenage daughter Ting-Ting and young
-  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
- ters/yi-yi-25th-anniversary\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251119T001500Z
-DTEND:20251119T024500Z
-DTSTAMP:20251119T001500Z
-UID:1CymXOun11
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251119T034500Z
-DTEND:20251119T061500Z
-DTSTAMP:20251119T034500Z
-UID:m4jgIoxii9
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bugonia
-DTSTART:20251119T003000Z
-DTEND:20251119T024500Z
-DTSTAMP:20251119T003000Z
-UID:XA7XFfNd2v
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
- ap the CEO of a major company when they become convinced that she's an ali
- en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
- bugonia\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bugonia
-DTSTART:20251119T033000Z
-DTEND:20251119T054500Z
-DTSTAMP:20251119T033000Z
-UID:ReZ68u6pjl
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
- ap the CEO of a major company when they become convinced that she's an ali
- en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
- bugonia\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peter Hujar's Day
-DTSTART:20251119T010000Z
-DTEND:20251119T023500Z
-DTSTAMP:20251119T010000Z
-UID:W4D12maTjj
-DESCRIPTION:Duration: 76 mins (1h16m)\n\nTwenty-four hours in the life of 
- the famously uncompromising Peter Hujar who was regarded as one of the mos
- t important characters in downtown New York's cultural scene.\n\nhttps://w
- ww.siff.net/cinema/in-theaters/peter-hujars-day\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peter Hujar's Day
-DTSTART:20251119T031500Z
-DTEND:20251119T045000Z
-DTSTAMP:20251119T031500Z
-UID:922hqoAnge
-DESCRIPTION:Duration: 76 mins (1h16m)\n\nTwenty-four hours in the life of 
- the famously uncompromising Peter Hujar who was regarded as one of the mos
- t important characters in downtown New York's cultural scene.\n\nhttps://w
- ww.siff.net/cinema/in-theaters/peter-hujars-day\n\nEstimated start: 19:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just An Accident
-DTSTART:20251119T031500Z
-DTEND:20251119T051500Z
-DTSTAMP:20251119T031500Z
-UID:k5MN0UcWb1
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
- ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
- t following his most recent prison sentence — follows a group of citizen
- s pondering revenge against a man they believe was their torturer. Jafar P
- anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
- f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Classified Cinema
-DTSTART:20251119T033000Z
-DTEND:20251119T051500Z
-DTSTAMP:20251119T033000Z
-UID:0cVO3AuvUd
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
- op secret until they hit the screen. Still free\, always fun\, never prete
- ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema\n\nEs
- timated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251119T181012Z
 BEGIN:VEVENT
 SUMMARY:Sentimental Value
 DTSTART:20251120T000000Z
@@ -397,6 +284,45 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251122T000000Z
+DTEND:20251122T023000Z
+DTSTAMP:20251122T000000Z
+UID:qc1PBtA9fg
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251122T031500Z
+DTEND:20251122T054500Z
+DTSTAMP:20251122T031500Z
+UID:NRNMAM6XBD
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251122T001500Z
+DTEND:20251122T032500Z
+DTSTAMP:20251122T001500Z
+UID:KAOWMq0f8x
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Twinless
 DTSTART:20251122T023000Z
 DTEND:20251122T042500Z
@@ -410,6 +336,18 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nSeattle Film Critics Society Pac
  tps://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-aw
  ards-2025/twinless\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251122T034500Z
+DTEND:20251122T060000Z
+DTSTAMP:20251122T034500Z
+UID:28GHyjQSm1
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
+ bugonia\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cinema Dissection: Double Indemnity
@@ -496,6 +434,70 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251122T204500Z
+DTEND:20251122T231500Z
+DTSTAMP:20251122T204500Z
+UID:JsrtkH9cu6
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 13:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251123T000000Z
+DTEND:20251123T023000Z
+DTSTAMP:20251123T000000Z
+UID:DUtBiG05pw
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251123T031500Z
+DTEND:20251123T054500Z
+DTSTAMP:20251123T031500Z
+UID:MHDrUj8ma7
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251122T210500Z
+DTEND:20251123T001500Z
+DTSTAMP:20251122T210500Z
+UID:S3WriMpt5g
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 13:20
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251123T010000Z
+DTEND:20251123T031500Z
+DTSTAMP:20251123T010000Z
+UID:lPdJLbqdn6
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
+ bugonia\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wolf Land
 DTSTART:20251123T010000Z
 DTEND:20251123T023000Z
@@ -526,6 +528,20 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nIn a modern re-imagining of Littl
  www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2
  025/to-kill-a-wolf\n\nEstimated start: 19:30
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251123T034500Z
+DTEND:20251123T054500Z
+DTSTAMP:20251123T034500Z
+UID:HA6TraiYrO
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked: For Good
@@ -588,6 +604,59 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251123T204500Z
+DTEND:20251123T231500Z
+DTSTAMP:20251123T204500Z
+UID:uqstkpjEHK
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 13:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251124T000000Z
+DTEND:20251124T023000Z
+DTSTAMP:20251124T000000Z
+UID:vLLDqQWyrD
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251124T031500Z
+DTEND:20251124T054500Z
+DTSTAMP:20251124T031500Z
+UID:IdtlFu1qMo
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251123T210000Z
+DTEND:20251123T230000Z
+DTSTAMP:20251123T210000Z
+UID:rpjYBqvp40
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WTO/99
 DTSTART:20251123T230000Z
 DTEND:20251124T005000Z
@@ -604,6 +673,19 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nSeattle Film Critics Society Paci
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251123T234500Z
+DTEND:20251124T025500Z
+DTSTAMP:20251123T234500Z
+UID:gkU4rkStyR
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Not One Drop of Blood
 DTSTART:20251124T014500Z
 DTEND:20251124T032500Z
@@ -616,6 +698,18 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nSeattle Film Critics Society Paci
  s://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awar
  ds-2025/not-one-drop-of-blood\n\nEstimated start: 18:00
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251124T033000Z
+DTEND:20251124T054500Z
+DTSTAMP:20251124T033000Z
+UID:E7SyhSmdGa
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
+ bugonia\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked: For Good
@@ -648,6 +742,59 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251124T234500Z
+DTEND:20251125T014500Z
+DTSTAMP:20251124T234500Z
+UID:vv4W2mxfcw
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251125T000000Z
+DTEND:20251125T023000Z
+DTSTAMP:20251125T000000Z
+UID:6sSauBorXx
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251125T031500Z
+DTEND:20251125T054500Z
+DTSTAMP:20251125T031500Z
+UID:e8I9G6imBN
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251125T001000Z
+DTEND:20251125T032000Z
+DTSTAMP:20251125T001000Z
+UID:wy8xOlBvP5
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 16:25
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seattle 48 Hour Film Project Horror Awards 2025
 DTSTART:20251125T030000Z
 DTEND:20251125T054500Z
@@ -663,6 +810,69 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Create 48 Media Ne
  r-film-project-horror-screening-and-awards-ceremony-2025\n\nEstimated star
  t: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251125T034500Z
+DTEND:20251125T060000Z
+DTSTAMP:20251125T034500Z
+UID:sy6p9eVDUT
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
+ bugonia\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yi Yi (2000)
+DTSTART:20251125T234500Z
+DTEND:20251126T025500Z
+DTSTAMP:20251125T234500Z
+UID:hLiPjFGSVu
+DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
+  the lives of the Jian family from the alternating perspectives of the thr
+ ee main family members: father N.J.\, teenage daughter Ting-Ting and young
+  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/yi-yi-25th-anniversary\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART:20251125T235000Z
+DTEND:20251126T020500Z
+DTSTAMP:20251125T235000Z
+UID:L51wpWFD5d
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo conspiracy-obsessed men kidn
+ ap the CEO of a major company when they become convinced that she's an ali
+ en who wants to destroy Earth.\n\nhttps://www.siff.net/cinema/in-theaters/
+ bugonia\n\nEstimated start: 16:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251126T000000Z
+DTEND:20251126T023000Z
+DTSTAMP:20251126T000000Z
+UID:1TBFGkwUTw
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251126T031500Z
+DTEND:20251126T054500Z
+DTSTAMP:20251126T031500Z
+UID:QAbie3eaSW
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked: For Good
@@ -693,6 +903,20 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
  https://www.siff.net/cinema/in-theaters/wicked-for-good\n\nEstimated start
  : 20:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just An Accident
+DTSTART:20251126T033000Z
+DTEND:20251126T053000Z
+DTSTAMP:20251126T033000Z
+UID:FiCDfdaipT
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
+ ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
+ t following his most recent prison sentence — follows a group of citizen
+ s pondering revenge against a man they believe was their torturer. Jafar P
+ anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked: For Good
@@ -738,6 +962,32 @@ DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
  https://www.siff.net/cinema/in-theaters/wicked-for-good\n\nEstimated start
  : 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251126T233000Z
+DTEND:20251127T020000Z
+DTSTAMP:20251126T233000Z
+UID:6Q1AKMWuIh
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 15:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251127T024500Z
+DTEND:20251127T051500Z
+DTSTAMP:20251127T024500Z
+UID:iwkHtt5X8b
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamnet
@@ -790,6 +1040,45 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
  12.\n\nhttps://www.siff.net/cinema/in-theaters/eternity\n\nEstimated start
  : 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251127T201500Z
+DTEND:20251127T224500Z
+DTSTAMP:20251127T201500Z
+UID:GDXu3T6OWM
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 12:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251127T233000Z
+DTEND:20251128T020000Z
+DTSTAMP:20251127T233000Z
+UID:w6EXma80PX
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 15:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251128T024500Z
+DTEND:20251128T051500Z
+DTSTAMP:20251128T024500Z
+UID:dJ8agAq7M4
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked: For Good
@@ -2461,8 +2750,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2477,8 +2767,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2493,8 +2784,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2509,8 +2801,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2525,8 +2818,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 11:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 11:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2541,8 +2835,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2557,8 +2852,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2573,8 +2869,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 11:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 11:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2589,8 +2886,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2605,8 +2903,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2621,8 +2920,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2637,8 +2937,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2653,8 +2954,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2669,8 +2971,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2685,8 +2988,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 12:15
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 12:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2701,8 +3005,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 16:45
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 16:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2733,8 +3038,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 14:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 14:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2749,8 +3055,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 19:15
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2765,8 +3072,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 11:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 11:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2781,8 +3089,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2797,8 +3106,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2813,8 +3123,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 11:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 11:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2829,8 +3140,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2845,8 +3157,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2861,8 +3174,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 11:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 11:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2877,8 +3191,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2893,8 +3208,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2909,8 +3225,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2925,8 +3242,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2941,8 +3259,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2957,8 +3276,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2973,8 +3293,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 13:45
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 13:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2989,8 +3310,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 18:15
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 18:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -3019,8 +3341,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 11:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 11:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -3035,8 +3358,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 15:30
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 15:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -3051,8 +3375,9 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
  ct on Pandora escalates and a new moral focus emerges. James Cameron takes
   audiences back to Pandora in an immersive new adventure with Marine turne
  d Na’vi leader Jake Sully (Sam Worthington)\, Na’vi warrior Neytiri (Z
- oe Saldaña)\, and the Sully family.\n\nhttps://www.siff.net/cinema/in-the
- aters/avatar-fire-and-ash-3d\n\nEstimated start: 20:00
+ oe Saldaña)\, and the Sully family. All screenings presented in HFR (48fp
+ s) 3D.\n\nhttps://www.siff.net/cinema/in-theaters/avatar-fire-and-ash-3d\n
+ \nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 END:VCALENDAR
