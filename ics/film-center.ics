@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20251119T181012Z
-BEGIN:VEVENT
-SUMMARY:Peter Hujar's Day
-DTSTART:20251120T010000Z
-DTEND:20251120T023500Z
-DTSTAMP:20251120T010000Z
-UID:ZBkfy6T0WU
-DESCRIPTION:Duration: 76 mins (1h16m)\n\nTwenty-four hours in the life of 
- the famously uncompromising Peter Hujar who was regarded as one of the mos
- t important characters in downtown New York's cultural scene.\n\nhttps://w
- ww.siff.net/cinema/in-theaters/peter-hujars-day\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peter Hujar's Day
-DTSTART:20251120T031500Z
-DTEND:20251120T045000Z
-DTSTAMP:20251120T031500Z
-UID:eaomjSYAkR
-DESCRIPTION:Duration: 76 mins (1h16m)\n\nTwenty-four hours in the life of 
- the famously uncompromising Peter Hujar who was regarded as one of the mos
- t important characters in downtown New York's cultural scene.\n\nhttps://w
- ww.siff.net/cinema/in-theaters/peter-hujars-day\n\nEstimated start: 19:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20251120T130755Z
 BEGIN:VEVENT
 SUMMARY:Peter Hujar's Day
 DTSTART:20251121T010000Z
