@@ -3,34 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20251125T163154Z
-BEGIN:VEVENT
-SUMMARY:Yi Yi (2000)
-DTSTART:20251125T234500Z
-DTEND:20251126T025500Z
-DTSTAMP:20251125T234500Z
-UID:hLiPjFGSVu
-DESCRIPTION:Duration: 173 mins (2h53m)\n\nSet in Taiwan\, the film follows
-  the lives of the Jian family from the alternating perspectives of the thr
- ee main family members: father N.J.\, teenage daughter Ting-Ting and young
-  son Yang-Yang. New 4K restoration.\n\nhttps://www.siff.net/cinema/in-thea
- ters/yi-yi-25th-anniversary\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just An Accident
-DTSTART:20251126T033000Z
-DTEND:20251126T053000Z
-DTSTAMP:20251126T033000Z
-UID:FiCDfdaipT
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nWinner of this year’s Palme d
- ’Or at Cannes\, the latest from Iranian auteur Jafar Panahi — his firs
- t following his most recent prison sentence — follows a group of citizen
- s pondering revenge against a man they believe was their torturer. Jafar P
- anahi scheduled to attend November 20 6:45pm screening.\n\nhttps://www.sif
- f.net/cinema/in-theaters/it-was-just-an-accident\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251126T164143Z
 BEGIN:VEVENT
 SUMMARY:Sentimental Value
 DTSTART:20251126T233000Z
@@ -97,6 +70,188 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251128T201500Z
+DTEND:20251128T224500Z
+DTSTAMP:20251128T201500Z
+UID:w1pIQi6wUD
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 12:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251128T233000Z
+DTEND:20251129T020000Z
+DTSTAMP:20251128T233000Z
+UID:OFhPZDxqqm
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 15:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251129T024500Z
+DTEND:20251129T051500Z
+DTSTAMP:20251129T024500Z
+UID:ShOJewCS4g
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251129T201500Z
+DTEND:20251129T224500Z
+DTSTAMP:20251129T201500Z
+UID:IlRdDJmk4N
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 12:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251129T233000Z
+DTEND:20251130T020000Z
+DTSTAMP:20251129T233000Z
+UID:pE5euTabPA
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 15:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251130T024500Z
+DTEND:20251130T051500Z
+DTSTAMP:20251130T024500Z
+UID:6m4aTdausJ
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251130T201500Z
+DTEND:20251130T224500Z
+DTSTAMP:20251130T201500Z
+UID:FyWgTPw6bp
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 12:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251130T233000Z
+DTEND:20251201T020000Z
+DTSTAMP:20251130T233000Z
+UID:ZMVG2mcVBY
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 15:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251201T024500Z
+DTEND:20251201T051500Z
+DTSTAMP:20251201T024500Z
+UID:YSKGrWCvea
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251202T000000Z
+DTEND:20251202T023000Z
+DTSTAMP:20251202T000000Z
+UID:erCwKSSET8
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251202T031500Z
+DTEND:20251202T054500Z
+DTSTAMP:20251202T031500Z
+UID:VroGoSxWJY
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251203T000000Z
+DTEND:20251203T023000Z
+DTSTAMP:20251203T000000Z
+UID:qRlGBQFqu2
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251203T031500Z
+DTEND:20251203T054500Z
+DTSTAMP:20251203T031500Z
+UID:LNjCwi7UqI
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251204T000000Z
+DTEND:20251204T023000Z
+DTSTAMP:20251204T000000Z
+UID:Fn7EQI22JZ
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eternity
 DTSTART:20251204T031500Z
 DTEND:20251204T052500Z
@@ -107,6 +262,32 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
   man she spent her life with and her first love. Tickets on sale November 
  12.\n\nhttps://www.siff.net/cinema/in-theaters/eternity\n\nEstimated start
  : 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251205T000000Z
+DTEND:20251205T023000Z
+DTSTAMP:20251205T000000Z
+UID:ETLxky4FBk
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value
+DTSTART:20251205T031500Z
+DTEND:20251205T054500Z
+DTSTAMP:20251205T031500Z
+UID:IARNOU1y3D
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
+ insve lead an incomparable cast in Joachim Trier’s moving drama about a 
+ director’s bid to revive his career and repair his family’s broken bon
+ ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
+ ted start: 19:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
