@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20251126T164143Z
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251126T235000Z
-DTEND:20251127T021000Z
-DTSTAMP:20251126T235000Z
-UID:JjbFbpfSJ9
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 16:05
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251127T030000Z
-DTEND:20251127T052000Z
-DTSTAMP:20251127T030000Z
-UID:rgaw4PxmBM
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251127T170014Z
 BEGIN:VEVENT
 SUMMARY:Hamnet
 DTSTART:20251127T204500Z
@@ -263,6 +237,19 @@ DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
  of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
  rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
  ema/in-theaters/hamnet\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251205T033000Z
+DTEND:20251205T055000Z
+DTSTAMP:20251205T033000Z
+UID:MwIe9bHA9K
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20251126T164143Z
-BEGIN:VEVENT
-SUMMARY:Eternity
-DTSTART:20251127T001000Z
-DTEND:20251127T022000Z
-DTSTAMP:20251127T001000Z
-UID:9kvCr3XscP
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
-  one week to decide where to spend eternity\, Joan must choose between the
-  man she spent her life with and her first love. Tickets on sale November 
- 12.\n\nhttps://www.siff.net/cinema/in-theaters/eternity\n\nEstimated start
- : 16:25
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eternity
-DTSTART:20251127T031500Z
-DTEND:20251127T052500Z
-DTSTAMP:20251127T031500Z
-UID:8bbOh5xKJC
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
-  one week to decide where to spend eternity\, Joan must choose between the
-  man she spent her life with and her first love. Tickets on sale November 
- 12.\n\nhttps://www.siff.net/cinema/in-theaters/eternity\n\nEstimated start
- : 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251127T170014Z
 BEGIN:VEVENT
 SUMMARY:Eternity
 DTSTART:20251127T211500Z
@@ -278,16 +252,16 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamnet
+SUMMARY:Eternity
 DTSTART:20251205T030000Z
-DTEND:20251205T052000Z
+DTEND:20251205T051000Z
 DTSTAMP:20251205T030000Z
-UID:MwIe9bHA9K
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 19:15
+UID:Th28Zj9lyC
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
+  one week to decide where to spend eternity\, Joan must choose between the
+  man she spent her life with and her first love. Tickets on sale November 
+ 12.\n\nhttps://www.siff.net/cinema/in-theaters/eternity\n\nEstimated start
+ : 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
