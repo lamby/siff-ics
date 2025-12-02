@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20251201T154655Z
-BEGIN:VEVENT
-SUMMARY:Eternity
-DTSTART:20251202T001000Z
-DTEND:20251202T022000Z
-DTSTAMP:20251202T001000Z
-UID:mDM2Wi7WaU
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
-  one week to decide where to spend eternity\, Joan must choose between the
-  man she spent her life with and her first love. Tickets on sale November 
- 12.\n\nhttps://www.siff.net/cinema/in-theaters/eternity\n\nEstimated start
- : 16:25
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eternity
-DTSTART:20251202T030000Z
-DTEND:20251202T051000Z
-DTSTAMP:20251202T030000Z
-UID:jvQkjtnOim
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
-  one week to decide where to spend eternity\, Joan must choose between the
-  man she spent her life with and her first love. Tickets on sale November 
- 12.\n\nhttps://www.siff.net/cinema/in-theaters/eternity\n\nEstimated start
- : 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251202T185732Z
 BEGIN:VEVENT
 SUMMARY:Eternity
 DTSTART:20251203T001000Z
@@ -131,6 +105,90 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nImmaculately curated films kept t
  op secret until they hit the screen. Still free\, always fun\, never prete
  ntious.\n\nhttps://www.siff.net/cinema/in-theaters/classified-cinema\n\nEs
  timated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART:20251225T201500Z
+DTEND:20251225T230000Z
+DTSTAMP:20251225T201500Z
+UID:iEA27dqT9W
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness.\n
+ \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
+ : 12:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART:20251225T234500Z
+DTEND:20251226T023000Z
+DTSTAMP:20251225T234500Z
+UID:Z1HniPmV3N
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness.\n
+ \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
+ : 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART:20251226T031500Z
+DTEND:20251226T060000Z
+DTSTAMP:20251226T031500Z
+UID:6wVxYOTtOQ
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness.\n
+ \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
+ : 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART:20251231T213000Z
+DTEND:20260101T001500Z
+DTSTAMP:20251231T213000Z
+UID:YupnTZxhku
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness.\n
+ \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
+ : 13:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART:20260101T010500Z
+DTEND:20260101T035000Z
+DTSTAMP:20260101T010500Z
+UID:TTl3OjdogC
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness.\n
+ \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
+ : 17:20
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART:20260107T233000Z
+DTEND:20260108T021500Z
+DTSTAMP:20260107T233000Z
+UID:GQtg98G9CQ
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness.\n
+ \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
+ : 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART:20260108T031500Z
+DTEND:20260108T060000Z
+DTSTAMP:20260108T031500Z
+UID:XREGo0rgaf
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness.\n
+ \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
+ : 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
