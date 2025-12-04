@@ -3,103 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20251203T162917Z
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251204T000000Z
-DTEND:20251204T023000Z
-DTSTAMP:20251204T000000Z
-UID:Fn7EQI22JZ
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked: For Good
-DTSTART:20251204T000000Z
-DTEND:20251204T023500Z
-DTSTAMP:20251204T000000Z
-UID:HyLcWTteri
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
- h of the West\, Elphaba lives in exile in the Ozian forest\, while Glinda 
- resides at the palace in Emerald City\, reveling in the perks of fame and 
- popularity. As an angry mob rises against the Wicked Witch\, she'll need t
- o reunite with Glinda to transform herself\, and all of Oz\, for good.\n\n
- https://www.siff.net/cinema/in-theaters/wicked-for-good\n\nEstimated start
- : 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked: For Good
-DTSTART:20251204T033000Z
-DTEND:20251204T060500Z
-DTSTAMP:20251204T033000Z
-UID:3Q249E77uY
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
- h of the West\, Elphaba lives in exile in the Ozian forest\, while Glinda 
- resides at the palace in Emerald City\, reveling in the perks of fame and 
- popularity. As an angry mob rises against the Wicked Witch\, she'll need t
- o reunite with Glinda to transform herself\, and all of Oz\, for good.\n\n
- https://www.siff.net/cinema/in-theaters/wicked-for-good\n\nEstimated start
- : 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251204T003000Z
-DTEND:20251204T025000Z
-DTSTAMP:20251204T003000Z
-UID:gt2po9j7TA
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251204T033000Z
-DTEND:20251204T055000Z
-DTSTAMP:20251204T033000Z
-UID:8TGftXiwe5
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Night of the Hunter (1955)
-DTSTART:20251204T020000Z
-DTEND:20251204T035000Z
-DTSTAMP:20251204T020000Z
-UID:m3c3J36K5J
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nSIFF Movie Club Part fairy tale\,
-  part Southern gothic horror story\, The Night of the Hunter tells the sto
- ry of a psychopathic preacher who pursues two children who hold the key to
-  hidden loot. 70th anniversary screening.  Introduced by SIFF Education 
- Manager Megan Garbayo-López.\n\nhttps://www.siff.net/programs-and-events
- /siff-movie-club/the-night-of-the-hunter\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eternity
-DTSTART:20251204T031500Z
-DTEND:20251204T052500Z
-DTSTAMP:20251204T031500Z
-UID:8dFFx3HT3P
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
-  one week to decide where to spend eternity\, Joan must choose between the
-  man she spent her life with and her first love. Tickets on sale November 
- 12.\n\nhttps://www.siff.net/cinema/in-theaters/eternity\n\nEstimated start
- : 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251204T205053Z
 BEGIN:VEVENT
 SUMMARY:Sentimental Value
 DTSTART:20251205T000000Z
@@ -2583,6 +2487,20 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
  \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
  : 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ikaria Xb 1 (1963)
+DTSTART:20260108T020000Z
+DTEND:20260108T034500Z
+DTSTAMP:20260108T020000Z
+UID:AOLK9AObLM
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nSIFF Movie Club A visionary work 
+ of Eastern Bloc science fiction\, this mesmerizing Czechoslovak adaptation
+  of a novel by Stanisław Lem melds Cold War ideology and utopian futurism
+  into a tour de force of space-age modernism. 4K restoration.\n\nhttps://
+ www.siff.net/programs-and-events/siff-movie-club/ikarie-xb-1\n\nEstimated 
+ start: 18:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marty Supreme
