@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20251208T153207Z
-BEGIN:VEVENT
-SUMMARY:Put Your Soul on Your Hand and Walk
-DTSTART:20251209T030000Z
-DTEND:20251209T051000Z
-DTSTAMP:20251209T030000Z
-UID:Cs0EAyylKP
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAn intimate\, first-hand perspec
- tive on life under siege in Gaza\, captured through video calls between di
- rector Sepideh Farsi and 25-year-old Palestinian photojournalist and poet 
- Fatma Hassona.\n\nhttps://www.siff.net/cinema/in-theaters/put-your-soul-on
- -your-hand-and-walk\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20251209T171511Z
 BEGIN:VEVENT
 SUMMARY:Cinema Dissection: Pan's Labyrinth
 DTSTART:20251213T180000Z
@@ -40,6 +27,30 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks Guillermo del Toro’
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Young Mothers
+DTSTART:20260117T005000Z
+DTEND:20260117T025000Z
+DTSTAMP:20260117T005000Z
+UID:Z8wRYdh5je
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nJessica\, Perla\, Julie\, Ariane
+  and Naïma are housed in a shelter for young mothers. Five teenagers hopi
+ ng for a better life for themselves and their babies.\n\nhttps://www.siff.
+ net/cinema/in-theaters/young-mothers\n\nEstimated start: 17:05
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Mothers
+DTSTART:20260117T033000Z
+DTEND:20260117T053000Z
+DTSTAMP:20260117T033000Z
+UID:yMsQ6is7ft
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nJessica\, Perla\, Julie\, Ariane
+  and Naïma are housed in a shelter for young mothers. Five teenagers hopi
+ ng for a better life for themselves and their babies.\n\nhttps://www.siff.
+ net/cinema/in-theaters/young-mothers\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: Mrs. Warren’s Profession
 DTSTART:20260117T220000Z
 DTEND:20260118T001500Z
@@ -54,6 +65,30 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nStage to Screen Five-time Olivie
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Young Mothers
+DTSTART:20260118T005000Z
+DTEND:20260118T025000Z
+DTSTAMP:20260118T005000Z
+UID:vJP8ou484H
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nJessica\, Perla\, Julie\, Ariane
+  and Naïma are housed in a shelter for young mothers. Five teenagers hopi
+ ng for a better life for themselves and their babies.\n\nhttps://www.siff.
+ net/cinema/in-theaters/young-mothers\n\nEstimated start: 17:05
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Mothers
+DTSTART:20260118T033000Z
+DTEND:20260118T053000Z
+DTSTAMP:20260118T033000Z
+UID:1YImwuVclN
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nJessica\, Perla\, Julie\, Ariane
+  and Naïma are housed in a shelter for young mothers. Five teenagers hopi
+ ng for a better life for themselves and their babies.\n\nhttps://www.siff.
+ net/cinema/in-theaters/young-mothers\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: Mrs. Warren’s Profession
 DTSTART:20260118T220000Z
 DTEND:20260119T001500Z
@@ -65,6 +100,30 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nStage to Screen Five-time Olivie
   mother and daughter in Bernard Shaw’s incendiary moral classic.\n\nhttp
  s://www.siff.net/programs-and-events/stage-to-screen/nt-live-mrs-warrens-p
  rofession\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Mothers
+DTSTART:20260119T005000Z
+DTEND:20260119T025000Z
+DTSTAMP:20260119T005000Z
+UID:erNyX7eHq4
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nJessica\, Perla\, Julie\, Ariane
+  and Naïma are housed in a shelter for young mothers. Five teenagers hopi
+ ng for a better life for themselves and their babies.\n\nhttps://www.siff.
+ net/cinema/in-theaters/young-mothers\n\nEstimated start: 17:05
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Mothers
+DTSTART:20260119T033000Z
+DTEND:20260119T053000Z
+DTSTAMP:20260119T033000Z
+UID:USJbce1l8L
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nJessica\, Perla\, Julie\, Ariane
+  and Naïma are housed in a shelter for young mothers. Five teenagers hopi
+ ng for a better life for themselves and their babies.\n\nhttps://www.siff.
+ net/cinema/in-theaters/young-mothers\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT

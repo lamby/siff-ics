@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20251208T153207Z
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251208T235000Z
-DTEND:20251209T021000Z
-DTSTAMP:20251208T235000Z
-UID:wfppvtgEqr
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 16:05
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251209T030000Z
-DTEND:20251209T052000Z
-DTSTAMP:20251209T030000Z
-UID:EaqER3g9jT
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251209T171511Z
 BEGIN:VEVENT
 SUMMARY:Hamnet
 DTSTART:20251209T235000Z
@@ -71,15 +45,15 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamnet
-DTSTART:20251211T030000Z
-DTEND:20251211T052000Z
-DTSTAMP:20251211T030000Z
+DTSTART:20251211T031500Z
+DTEND:20251211T053500Z
+DTSTAMP:20251211T031500Z
 UID:SrGxd493mZ
 DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
  lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
  of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
  rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 19:15
+ ema/in-theaters/hamnet\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -90,9 +64,8 @@ DTSTAMP:20251211T234000Z
 UID:J6OBwmNRv8
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
   one week to decide where to spend eternity\, Joan must choose between the
-  man she spent her life with and her first love. Tickets on sale November 
- 12.\n\nhttps://www.siff.net/cinema/in-theaters/eternity\n\nEstimated start
- : 15:55
+  man she spent her life with and her first love.\n\nhttps://www.siff.net/c
+ inema/in-theaters/eternity\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -113,6 +86,58 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nSIFF Holiday Favorites Charles Di
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251212T234000Z
+DTEND:20251213T023500Z
+DTSTAMP:20251212T234000Z
+UID:jPLWYM5edO
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 15:55
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251213T031500Z
+DTEND:20251213T061000Z
+DTSTAMP:20251213T031500Z
+UID:eor9y42X0x
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251214T001000Z
+DTEND:20251214T023000Z
+DTSTAMP:20251214T001000Z
+UID:DaGfqeBTGd
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 16:25
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251214T031500Z
+DTEND:20251214T053500Z
+DTSTAMP:20251214T031500Z
+UID:wCv2fo36Kt
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Muppet Christmas Carol (1992)
 DTSTART:20251213T213000Z
 DTEND:20251213T231500Z
@@ -130,6 +155,32 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nSIFF Holiday Favorites Charles Di
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251215T001000Z
+DTEND:20251215T023000Z
+DTSTAMP:20251215T001000Z
+UID:EeSHQ4Komx
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 16:25
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamnet
+DTSTART:20251215T031500Z
+DTEND:20251215T053500Z
+DTSTAMP:20251215T031500Z
+UID:TgVEqERGSu
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
+ lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
+ of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
+ rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
+ ema/in-theaters/hamnet\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Muppet Christmas Carol (1992)
 DTSTART:20251214T213000Z
 DTEND:20251214T231500Z
@@ -144,6 +195,110 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nSIFF Holiday Favorites Charles Di
  ! All ages welcome ($5 tickets for children aged 2-12 years old\, free for
   under 2).\n\nhttps://www.siff.net/programs-and-events/holiday-favorites/t
  he-muppet-christmas-carol\n\nEstimated start: 13:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251215T234000Z
+DTEND:20251216T023500Z
+DTSTAMP:20251215T234000Z
+UID:yctseD1S0c
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 15:55
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251216T033000Z
+DTEND:20251216T062500Z
+DTSTAMP:20251216T033000Z
+UID:bUefRpW0wr
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251216T234000Z
+DTEND:20251217T023500Z
+DTSTAMP:20251216T234000Z
+UID:gAQbEVOxxS
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 15:55
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251217T031500Z
+DTEND:20251217T061000Z
+DTSTAMP:20251217T031500Z
+UID:4YGYMBUTNk
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251217T234000Z
+DTEND:20251218T023500Z
+DTSTAMP:20251217T234000Z
+UID:xMRlNKL2li
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 15:55
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251218T033000Z
+DTEND:20251218T062500Z
+DTSTAMP:20251218T033000Z
+UID:umWyuOrGLQ
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251218T234000Z
+DTEND:20251219T023500Z
+DTSTAMP:20251218T234000Z
+UID:kCRLwVWoY9
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 15:55
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251219T033000Z
+DTEND:20251219T062500Z
+DTSTAMP:20251219T033000Z
+UID:CcqWnpOf87
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
