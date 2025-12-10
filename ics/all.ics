@@ -3,113 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20251209T171511Z
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251209T234500Z
-DTEND:20251210T021500Z
-DTSTAMP:20251209T234500Z
-UID:qvnH3PmVvN
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 16:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251210T024500Z
-DTEND:20251210T051500Z
-DTSTAMP:20251210T024500Z
-UID:EeZggFkWN4
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251209T235000Z
-DTEND:20251210T021000Z
-DTSTAMP:20251209T235000Z
-UID:HSZMkeIct7
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 16:05
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251210T030000Z
-DTEND:20251210T052000Z
-DTSTAMP:20251210T030000Z
-UID:BiBdP81uW4
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked: For Good
-DTSTART:20251210T000000Z
-DTEND:20251210T023500Z
-DTSTAMP:20251210T000000Z
-UID:CP3ssluZy3
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
- h of the West\, Elphaba lives in exile in the Ozian forest\, while Glinda 
- resides at the palace in Emerald City\, reveling in the perks of fame and 
- popularity. As an angry mob rises against the Wicked Witch\, she'll need t
- o reunite with Glinda to transform herself\, and all of Oz\, for good.\n\n
- https://www.siff.net/cinema/in-theaters/wicked-for-good\n\nEstimated start
- : 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked: For Good
-DTSTART:20251210T033000Z
-DTEND:20251210T060500Z
-DTSTAMP:20251210T033000Z
-UID:gVON1H4kqf
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
- h of the West\, Elphaba lives in exile in the Ozian forest\, while Glinda 
- resides at the palace in Emerald City\, reveling in the perks of fame and 
- popularity. As an angry mob rises against the Wicked Witch\, she'll need t
- o reunite with Glinda to transform herself\, and all of Oz\, for good.\n\n
- https://www.siff.net/cinema/in-theaters/wicked-for-good\n\nEstimated start
- : 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eternity
-DTSTART:20251210T001500Z
-DTEND:20251210T022500Z
-DTSTAMP:20251210T001500Z
-UID:YvddvyHS5t
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
-  one week to decide where to spend eternity\, Joan must choose between the
-  man she spent her life with and her first love.\n\nhttps://www.siff.net/c
- inema/in-theaters/eternity\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eternity
-DTSTART:20251210T031500Z
-DTEND:20251210T052500Z
-DTSTAMP:20251210T031500Z
-UID:wj0glS5ci1
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
-  one week to decide where to spend eternity\, Joan must choose between the
-  man she spent her life with and her first love.\n\nhttps://www.siff.net/c
- inema/in-theaters/eternity\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251210T160214Z
 BEGIN:VEVENT
 SUMMARY:Sentimental Value
 DTSTART:20251210T234500Z
@@ -2129,6 +2023,34 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260101T234000Z
+DTEND:20260102T021500Z
+DTSTAMP:20260101T234000Z
+UID:F7cNbLhD13
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 15:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260102T030000Z
+DTEND:20260102T053500Z
+DTSTAMP:20260102T030000Z
+UID:wMVZX88rhB
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marty Supreme
 DTSTART:20260102T195000Z
 DTEND:20260102T223500Z
@@ -2163,6 +2085,48 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
  \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
  : 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260102T201500Z
+DTEND:20260102T225000Z
+DTSTAMP:20260102T201500Z
+UID:3YCbHwWYvJ
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 12:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260102T234000Z
+DTEND:20260103T021500Z
+DTSTAMP:20260102T234000Z
+UID:5dcCavBIos
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 15:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260103T030000Z
+DTEND:20260103T053500Z
+DTSTAMP:20260103T030000Z
+UID:kjXKwWlqq2
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marty Supreme
@@ -2201,6 +2165,48 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260103T201500Z
+DTEND:20260103T225000Z
+DTSTAMP:20260103T201500Z
+UID:cIeUCs3Nv0
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 12:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260103T234000Z
+DTEND:20260104T021500Z
+DTSTAMP:20260103T234000Z
+UID:Wpass3QEZO
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 15:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260104T030000Z
+DTEND:20260104T053500Z
+DTSTAMP:20260104T030000Z
+UID:jnFMVm4Sm4
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marty Supreme
 DTSTART:20260104T195000Z
 DTEND:20260104T223500Z
@@ -2237,6 +2243,48 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260104T201500Z
+DTEND:20260104T225000Z
+DTSTAMP:20260104T201500Z
+UID:Sel8rPJuqE
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 12:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260104T234000Z
+DTEND:20260105T021500Z
+DTSTAMP:20260104T234000Z
+UID:BGURfEHlYt
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 15:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260105T030000Z
+DTEND:20260105T053500Z
+DTSTAMP:20260105T030000Z
+UID:4JDsWGEbQy
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marty Supreme
 DTSTART:20260105T233000Z
 DTEND:20260106T021500Z
@@ -2259,6 +2307,34 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
  \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
  : 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260105T234000Z
+DTEND:20260106T021500Z
+DTSTAMP:20260105T234000Z
+UID:keingv3unu
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 15:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260106T030000Z
+DTEND:20260106T053500Z
+DTSTAMP:20260106T030000Z
+UID:mv5hOmpVYc
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marty Supreme
@@ -2285,6 +2361,34 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260106T234000Z
+DTEND:20260107T021500Z
+DTSTAMP:20260106T234000Z
+UID:n5fC9PHoN9
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 15:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260107T030000Z
+DTEND:20260107T053500Z
+DTSTAMP:20260107T030000Z
+UID:c7OeZfQd92
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marty Supreme
 DTSTART:20260107T233000Z
 DTEND:20260108T021500Z
@@ -2307,6 +2411,34 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
  \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
  : 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260107T234000Z
+DTEND:20260108T021500Z
+DTSTAMP:20260107T234000Z
+UID:oitPYZRUPf
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 15:55
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260108T030000Z
+DTEND:20260108T053500Z
+DTSTAMP:20260108T030000Z
+UID:QRsVNrPh2Y
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ikaria Xb 1 (1963)
@@ -2345,6 +2477,34 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
  \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
  : 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260108T234000Z
+DTEND:20260109T021500Z
+DTSTAMP:20260108T234000Z
+UID:7TpJkqq5sx
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 15:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260109T030000Z
+DTEND:20260109T053500Z
+DTSTAMP:20260109T030000Z
+UID:Qm8LNh65PA
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Tickets on sale December 10.\n\nht
+ tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
+ 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Mothers
@@ -2495,5 +2655,35 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Puppetry\, magic
  tion of the best-selling novel.\n\nhttps://www.siff.net/programs-and-event
  s/stage-to-screen/nt-live-life-of-pi\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Streets (1973)
+DTSTART:20260226T033000Z
+DTEND:20260226T054000Z
+DTSTAMP:20260226T033000Z
+UID:in1G3CkEeC
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nMartin Scorsese: Maestro of Cine
+ ma Feel a dazzling rush of cinematic vitality and dark humor as a young ma
+ n (Harvey Keitel)\, split between the rough world around him and his spiri
+ tual nature\, tries to keep his loose cannon friend (Robert De Niro) and h
+ is girlfriend (Amy Robinson) safe from street toughs and Mob bosses. Inspi
+ red by Scorsese’s Little Italy background.\n\nhttps://www.siff.net/progr
+ ams-and-events/martin-scorsese/mean-streets\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taxi Driver (1976)
+DTSTART:20260305T033000Z
+DTEND:20260305T054000Z
+DTSTAMP:20260305T033000Z
+UID:l4bNIDFSpW
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nMartin Scorsese: Maestro of Cine
+ ma He’s (Robert De Niro) an alienated\, lonely man in an urban snake pit
+ \, who sees himself as “an avenging angel” capable of heroic action\, 
+ like saving a teen prostitute (Jodie Foster) from her sleazy pimp (Harvey 
+ Keitel). People with“bad ideas” in the city of night. 50th anniversar
+ y screening.\n\nhttps://www.siff.net/programs-and-events/martin-scorsese/t
+ axi-driver\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
