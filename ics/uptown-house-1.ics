@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20251210T160214Z
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251210T235000Z
-DTEND:20251211T021000Z
-DTSTAMP:20251210T235000Z
-UID:jylNfoeRbY
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 16:05
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251211T031500Z
-DTEND:20251211T053500Z
-DTSTAMP:20251211T031500Z
-UID:SrGxd493mZ
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251211T161413Z
 BEGIN:VEVENT
 SUMMARY:Eternity
 DTSTART:20251211T234000Z
@@ -282,9 +256,12 @@ DTEND:20251225T030000Z
 DTSTAMP:20251225T001500Z
 UID:fHlIcpvLr6
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 16:30
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -304,15 +281,44 @@ DESCRIPTION:Duration: 181 mins (3h01m)\n\nSIFF Holiday Favorites Party wit
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Song Sung Blue
+DTSTART:20251226T001000Z
+DTEND:20251226T024000Z
+DTSTAMP:20251226T001000Z
+UID:WW8UIPly1I
+DESCRIPTION:Duration: 131 mins (2h11m)\n\nBased on a true story\, two down
+ -on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil
+  Diamond tribute band\, proving it's never too late to find love and follo
+ w your dreams.\n\nhttps://www.siff.net/cinema/in-theaters/song-sung-blue\n
+ \nEstimated start: 16:25
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Song Sung Blue
+DTSTART:20251226T033000Z
+DTEND:20251226T060000Z
+DTSTAMP:20251226T033000Z
+UID:4hcheqNGpj
+DESCRIPTION:Duration: 131 mins (2h11m)\n\nBased on a true story\, two down
+ -on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil
+  Diamond tribute band\, proving it's never too late to find love and follo
+ w your dreams.\n\nhttps://www.siff.net/cinema/in-theaters/song-sung-blue\n
+ \nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marty Supreme
 DTSTART:20251226T195000Z
 DTEND:20251226T223500Z
 DTSTAMP:20251226T195000Z
 UID:ECsI1I9JQp
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 12:05
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 12:05
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -322,9 +328,12 @@ DTEND:20251227T021500Z
 DTSTAMP:20251226T233000Z
 UID:i354IPBD78
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -334,9 +343,12 @@ DTEND:20251227T055500Z
 DTSTAMP:20251227T031000Z
 UID:qUqhDvmiFm
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:25
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:25
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -346,9 +358,12 @@ DTEND:20251227T223500Z
 DTSTAMP:20251227T195000Z
 UID:gJe4GS4JxQ
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 12:05
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 12:05
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -358,9 +373,12 @@ DTEND:20251228T021500Z
 DTSTAMP:20251227T233000Z
 UID:ErnO9w7m2M
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -370,9 +388,12 @@ DTEND:20251228T055500Z
 DTSTAMP:20251228T031000Z
 UID:eyFAguDn06
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:25
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:25
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -382,9 +403,12 @@ DTEND:20251228T223500Z
 DTSTAMP:20251228T195000Z
 UID:4cpSRIHEyh
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 12:05
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 12:05
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -394,9 +418,12 @@ DTEND:20251229T021500Z
 DTSTAMP:20251228T233000Z
 UID:dFi1iQXapa
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -406,9 +433,12 @@ DTEND:20251229T055500Z
 DTSTAMP:20251229T031000Z
 UID:ad1OXNieL1
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:25
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:25
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -418,9 +448,12 @@ DTEND:20251230T021500Z
 DTSTAMP:20251229T233000Z
 UID:SmJV1Bx5Nk
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -430,9 +463,12 @@ DTEND:20251230T055500Z
 DTSTAMP:20251230T031000Z
 UID:sg3aFLB1br
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:25
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:25
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -442,9 +478,12 @@ DTEND:20251231T021500Z
 DTSTAMP:20251230T233000Z
 UID:4QxX9FBaN0
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -454,9 +493,25 @@ DTEND:20251231T055500Z
 DTSTAMP:20251231T031000Z
 UID:ZW45tqeo01
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:25
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:25
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Song Sung Blue
+DTSTART:20251231T215000Z
+DTEND:20260101T002000Z
+DTSTAMP:20251231T215000Z
+UID:hNQt8IU3Fi
+DESCRIPTION:Duration: 131 mins (2h11m)\n\nBased on a true story\, two down
+ -on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil
+  Diamond tribute band\, proving it's never too late to find love and follo
+ w your dreams.\n\nhttps://www.siff.net/cinema/in-theaters/song-sung-blue\n
+ \nEstimated start: 14:05
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -480,9 +535,12 @@ DTEND:20260101T223500Z
 DTSTAMP:20260101T195000Z
 UID:r6dYjAKP7q
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 12:05
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 12:05
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -492,9 +550,12 @@ DTEND:20260102T021500Z
 DTSTAMP:20260101T233000Z
 UID:xuBxg4ZrDo
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -504,9 +565,12 @@ DTEND:20260102T060000Z
 DTSTAMP:20260102T031500Z
 UID:KgWqSahVxy
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:30
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -516,9 +580,12 @@ DTEND:20260102T223500Z
 DTSTAMP:20260102T195000Z
 UID:xobNN5bkp8
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 12:05
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 12:05
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -528,9 +595,12 @@ DTEND:20260103T021500Z
 DTSTAMP:20260102T233000Z
 UID:5CbCe1KQBc
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -540,9 +610,12 @@ DTEND:20260103T060000Z
 DTSTAMP:20260103T031500Z
 UID:8cgpmpHlt2
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:30
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -552,9 +625,12 @@ DTEND:20260103T223500Z
 DTSTAMP:20260103T195000Z
 UID:OwcJl2HJlA
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 12:05
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 12:05
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -564,9 +640,12 @@ DTEND:20260104T021500Z
 DTSTAMP:20260103T233000Z
 UID:0GWowrKCPj
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -576,9 +655,12 @@ DTEND:20260104T060000Z
 DTSTAMP:20260104T031500Z
 UID:prxRjGOA3P
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:30
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -588,9 +670,12 @@ DTEND:20260104T223500Z
 DTSTAMP:20260104T195000Z
 UID:Q0EX7KZaXI
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 12:05
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 12:05
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -600,9 +685,12 @@ DTEND:20260105T021500Z
 DTSTAMP:20260104T233000Z
 UID:qc0CrcuB7H
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -612,9 +700,12 @@ DTEND:20260105T060000Z
 DTSTAMP:20260105T031500Z
 UID:ekj9PcHxtS
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:30
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -624,9 +715,12 @@ DTEND:20260106T021500Z
 DTSTAMP:20260105T233000Z
 UID:aesHARMD0U
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -636,9 +730,12 @@ DTEND:20260106T060000Z
 DTSTAMP:20260106T031500Z
 UID:uZUQkEPrD6
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:30
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -648,9 +745,12 @@ DTEND:20260107T021500Z
 DTSTAMP:20260106T233000Z
 UID:CA9qiIP51p
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -660,9 +760,12 @@ DTEND:20260107T060000Z
 DTSTAMP:20260107T031500Z
 UID:TGxq7v4lWl
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:30
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -686,9 +789,12 @@ DTEND:20260109T021500Z
 DTSTAMP:20260108T233000Z
 UID:6K40WLnjJm
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 15:45
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -698,9 +804,12 @@ DTEND:20260109T060000Z
 DTSTAMP:20260109T031500Z
 UID:anv8xZFDCJ
 DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness.\n
- \nhttps://www.siff.net/cinema/in-theaters/marty-supreme\n\nEstimated start
- : 19:30
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

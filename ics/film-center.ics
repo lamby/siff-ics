@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20251210T160214Z
+LAST-MODIFIED:20251211T161413Z
 BEGIN:VEVENT
 SUMMARY:Cinema Dissection: Pan's Labyrinth
 DTSTART:20251213T180000Z
@@ -24,6 +24,20 @@ DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks Guillermo del Toro’
  especially in the lives of women and children trapped within them.\n\nhttp
  s://www.siff.net/programs-and-events/education/adult-film-education/film-t
  alks/cinema-dissection-pans-labyrinth\n\nEstimated start: 10:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead Man (1995)
+DTSTART:20260114T023000Z
+DTEND:20260114T045000Z
+DTSTAMP:20260114T023000Z
+UID:ggGdvANc6M
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nThe Pacific Northwestern Circums
+ tances transform a mild mannered accountant into a notorious gunslinger in
+  Jim Jarmusch’s quintessential psychedelic western\, an odyssey from the
+  arid desert of the Southwest to the rugged coast of the Pacific Northwest
+ .\n\nhttps://www.siff.net/programs-and-events/the-pacific-northwestern/dea
+ d-man\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -141,6 +155,76 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nStage to Screen Five-time Olivie
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Canyon Passage (1946)
+DTSTART:20260121T023000Z
+DTEND:20260121T042000Z
+DTSTAMP:20260121T023000Z
+UID:TTKq6PEggF
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nThe Pacific Northwestern In an 18
+ 56 Oregon ablaze in iridescent technicolor\, a businessman (Dana Andrews) 
+ is torn between his love of two very different women and his loyalty to a 
+ compulsive gambler friend who goes over the line. 4K restoration.\n\nhttp
+ s://www.siff.net/programs-and-events/the-pacific-northwestern/canyon-passa
+ ge\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pale Rider (1985)
+DTSTART:20260128T023000Z
+DTEND:20260128T044000Z
+DTSTAMP:20260128T023000Z
+UID:gG8H7dYqLa
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nThe Pacific Northwestern A myste
+ rious preacher defends the hapless prospectors of a mining town against a 
+ villainous land tycoon in Eastwood's autumnal vision of the Idaho Sawtooth
+ s. Presented on 35mm.\n\nhttps://www.siff.net/programs-and-events/the-paci
+ fic-northwestern/pale-rider\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bend of the River (1952)
+DTSTART:20260204T023000Z
+DTEND:20260204T042000Z
+DTSTAMP:20260204T023000Z
+UID:cDVMv3ghcy
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nReformed border raider Glyn McLyn
+ tock (James Stewart) guides a wagon train to Oregon\, but risks it all whe
+ n their winter provisions are confiscated by the Portland town boss in Ant
+ hony Mann’s stunningly photographed exploration of the greatness\, glory
+ \, and fury of the northwest frontier.  Experience the natural grandeur o
+ f the Pacific Northwest in this brand new 4K restoration based on the orig
+ inal three-strip Technicolor separations.\n\nhttps://www.siff.net/programs
+ -and-events/the-pacific-northwestern/bend-of-the-river\n\nEstimated start:
+  18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hanging Tree (1959)
+DTSTART:20260211T023000Z
+DTEND:20260211T043500Z
+DTSTAMP:20260211T023000Z
+UID:ie8barMuxg
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nThe Pacific Northwestern In his 
+ final western (set in a Montana gold rush town but filmed entirely in the 
+ wilderness near Yakima)\, Gary Cooper stars as Joseph Frail\, a doctor who
+  finds his life complicated while nursing a Swiss immigrant back to health
+ .\n\nhttps://www.siff.net/programs-and-events/the-pacific-northwestern/the
+ -hanging-tree\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Cow (2019)
+DTSTART:20260218T023000Z
+DTEND:20260218T045000Z
+DTSTAMP:20260218T023000Z
+UID:l7xCQW1XtZ
+DESCRIPTION:Duration: 122 mins (2h02m)\n\nThe Pacific Northwestern In 1820
+ \, a cook and a Chinese immigrant team up to steal milk from a prized cow\
+ , the first and only in the Oregon Country.\n\nhttps://www.siff.net/progra
+ ms-and-events/the-pacific-northwestern/first-cow\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: Life of Pi
 DTSTART:20260221T220000Z
 DTEND:20260222T004500Z
@@ -174,6 +258,21 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Puppetry\, magic
   and storytelling combine in a unique\, Olivier Award-winning stage adapta
  tion of the best-selling novel.\n\nhttps://www.siff.net/programs-and-event
  s/stage-to-screen/nt-live-life-of-pi\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McCabe and Mrs. Miller (1971)
+DTSTART:20260225T023000Z
+DTEND:20260225T044500Z
+DTSTAMP:20260225T023000Z
+UID:UCIWuLGssT
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Pacific Northwestern A feckl
+ ess gambler and cockney madame become successful business partners in the 
+ burgeoning town of Presbyterian Church\, WA\, but trouble arrives in the f
+ orm of a monopolizing corporation in Robert Altman’s quintessential drea
+ m western. Presented on 35mm courtesy of the Chicago Film Society.\n\nhttp
+ s://www.siff.net/programs-and-events/the-pacific-northwestern/mccabe-and-m
+ rs-miller\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR

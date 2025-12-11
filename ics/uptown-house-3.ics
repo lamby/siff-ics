@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20251210T160214Z
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251210T234500Z
-DTEND:20251211T021500Z
-DTSTAMP:20251210T234500Z
-UID:bn5ZUFboir
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 16:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eternity
-DTSTART:20251211T024500Z
-DTEND:20251211T045500Z
-DTSTAMP:20251211T024500Z
-UID:s49MSaaSfb
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nIn an afterlife where souls have
-  one week to decide where to spend eternity\, Joan must choose between the
-  man she spent her life with and her first love.\n\nhttps://www.siff.net/c
- inema/in-theaters/eternity\n\nEstimated start: 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251211T161413Z
 BEGIN:VEVENT
 SUMMARY:Hamnet
 DTSTART:20251212T001500Z
@@ -264,6 +239,45 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Song Sung Blue
+DTSTART:20260101T203000Z
+DTEND:20260101T230000Z
+DTSTAMP:20260101T203000Z
+UID:qn0LDyBBO8
+DESCRIPTION:Duration: 131 mins (2h11m)\n\nBased on a true story\, two down
+ -on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil
+  Diamond tribute band\, proving it's never too late to find love and follo
+ w your dreams.\n\nhttps://www.siff.net/cinema/in-theaters/song-sung-blue\n
+ \nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Song Sung Blue
+DTSTART:20260102T000000Z
+DTEND:20260102T023000Z
+DTSTAMP:20260102T000000Z
+UID:H3Sta0kmnl
+DESCRIPTION:Duration: 131 mins (2h11m)\n\nBased on a true story\, two down
+ -on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil
+  Diamond tribute band\, proving it's never too late to find love and follo
+ w your dreams.\n\nhttps://www.siff.net/cinema/in-theaters/song-sung-blue\n
+ \nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Song Sung Blue
+DTSTART:20260102T033000Z
+DTEND:20260102T060000Z
+DTSTAMP:20260102T033000Z
+UID:a0mGmlSfoh
+DESCRIPTION:Duration: 131 mins (2h11m)\n\nBased on a true story\, two down
+ -on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil
+  Diamond tribute band\, proving it's never too late to find love and follo
+ w your dreams.\n\nhttps://www.siff.net/cinema/in-theaters/song-sung-blue\n
+ \nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:No Other Choice
 DTSTART:20260107T234000Z
 DTEND:20260108T021500Z
@@ -272,9 +286,8 @@ UID:oitPYZRUPf
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off. Tickets on sale December 10.\n\nht
- tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
- 15:55
+ es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
+ theaters/no-other-choice\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -286,9 +299,8 @@ UID:QRsVNrPh2Y
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off. Tickets on sale December 10.\n\nht
- tps://www.siff.net/cinema/in-theaters/no-other-choice\n\nEstimated start: 
- 19:15
+ es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
+ theaters/no-other-choice\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
