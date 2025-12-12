@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20251211T161413Z
+LAST-MODIFIED:20251212T163054Z
 BEGIN:VEVENT
 SUMMARY:Cinema Dissection: Pan's Labyrinth
 DTSTART:20251213T180000Z
@@ -196,6 +196,38 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nReformed border raider Glyn McLyn
  inal three-strip Technicolor separations.\n\nhttps://www.siff.net/programs
  -and-events/the-pacific-northwestern/bend-of-the-river\n\nEstimated start:
   18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fools’ Paradise (Lost?)
+DTSTART:20260207T030000Z
+DTEND:20260207T053500Z
+DTSTAMP:20260207T030000Z
+UID:pyRk1WDqqd
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nFebruary 6\, 2026 | 7:00pm | SIF
+ F Film CenterFebruary 7\, 2026 | 7:00pm | SIFF Film Center - Presented by 
+ Whitman College  Fools’ Paradise (lost?) is a love letter to our wild
+ —our own inner wild\, and the outer wild. It’s about how we heal ourse
+ lves through reconnection to the natural world\, and the symbiotic necessi
+ ty to heal what is left of our planet. Screening begins with a brief\, gro
+ unding meditation and ends with a director Q&A.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/fools-paradise\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fools’ Paradise (Lost?)
+DTSTART:20260208T030000Z
+DTEND:20260208T053500Z
+DTSTAMP:20260208T030000Z
+UID:WQHhmRo2Uh
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nFebruary 6\, 2026 | 7:00pm | SIF
+ F Film CenterFebruary 7\, 2026 | 7:00pm | SIFF Film Center - Presented by 
+ Whitman College  Fools’ Paradise (lost?) is a love letter to our wild
+ —our own inner wild\, and the outer wild. It’s about how we heal ourse
+ lves through reconnection to the natural world\, and the symbiotic necessi
+ ty to heal what is left of our planet. Screening begins with a brief\, gro
+ unding meditation and ends with a director Q&A.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/fools-paradise\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
