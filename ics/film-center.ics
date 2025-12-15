@@ -3,29 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20251213T162250Z
-BEGIN:VEVENT
-SUMMARY:Cinema Dissection: Pan's Labyrinth
-DTSTART:20251213T180000Z
-DTEND:20251214T001500Z
-DTSTAMP:20251213T180000Z
-UID:axXdOJbGVI
-DESCRIPTION:Duration: 360 mins (6h00m)\n\nFilm Talks Guillermo del Toro’
- s Pan’s Labyrinth is a hauntingly beautiful portrait of resistance—aga
- inst fascism\, patriarchy\, and the loss of innocence. In this Cinema Diss
- ection\, local filmmaker and PBS producer Jeremy Cropf guides viewers thro
- ugh an in-depth\, shot-by-shot examination of how del Toro blends fantasy 
- and historical realism to illuminate the far-reaching impact of authoritar
- ian power and the defiant strength of those who stand against it. Through 
- mythic allegory and striking technical craft—from rich art direction to 
- stunning cinematography—Pan’s Labyrinth becomes both a fairytale and a
-  cry of protest. Explore its layered symbolism\, its look at the emotional
-  toll of obedience\, and how fascist and patriarchal systems intertwine\, 
- especially in the lives of women and children trapped within them.\n\nhttp
- s://www.siff.net/programs-and-events/education/adult-film-education/film-t
- alks/cinema-dissection-pans-labyrinth\n\nEstimated start: 10:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20251215T160122Z
 BEGIN:VEVENT
 SUMMARY:Dead Man (1995)
 DTSTART:20260114T023000Z
@@ -305,6 +283,20 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Pacific Northwestern A feckl
  m western. Presented on 35mm courtesy of the Chicago Film Society.\n\nhttp
  s://www.siff.net/programs-and-events/the-pacific-northwestern/mccabe-and-m
  rs-miller\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Fifth Step
+DTSTART:20260314T210000Z
+DTEND:20260314T225500Z
+DTSTAMP:20260314T210000Z
+UID:Mb2mR6hphr
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nStage to Screen Olivier Award-wi
+ nner Jack Lowden ("Slow Horses\," Dunkirk) is joined by Emmy and BAFTA-win
+ ner Martin Freeman (The Hobbit\, "The Responder") in the critically acclai
+ med and subversively funny new play by David Ireland.\n\nhttps://www.siff.
+ net/programs-and-events/stage-to-screen/nt-live-the-fifth-step\n\nEstimate
+ d start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
