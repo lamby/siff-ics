@@ -3,115 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20251217T190135Z
-BEGIN:VEVENT
-SUMMARY:The Secret Agent
-DTSTART:20251217T234000Z
-DTEND:20251218T023500Z
-DTSTAMP:20251217T234000Z
-UID:xMRlNKL2li
-DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
-  returns with a thrillingly unpredictable\, shape-shifting epic set in his
-  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
- ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
- eaters/the-secret-agent\n\nEstimated start: 15:55
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Secret Agent
-DTSTART:20251218T033000Z
-DTEND:20251218T062500Z
-DTSTAMP:20251218T033000Z
-UID:umWyuOrGLQ
-DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
-  returns with a thrillingly unpredictable\, shape-shifting epic set in his
-  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
- ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
- eaters/the-secret-agent\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251217T235000Z
-DTEND:20251218T022000Z
-DTSTAMP:20251217T235000Z
-UID:r62HLYRWuQ
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 16:05
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251218T030000Z
-DTEND:20251218T053000Z
-DTSTAMP:20251218T030000Z
-UID:kOJ9fiyLWo
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 19:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked: For Good
-DTSTART:20251218T000000Z
-DTEND:20251218T023500Z
-DTSTAMP:20251218T000000Z
-UID:yoKvxfHt6F
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
- h of the West\, Elphaba lives in exile in the Ozian forest\, while Glinda 
- resides at the palace in Emerald City\, reveling in the perks of fame and 
- popularity. As an angry mob rises against the Wicked Witch\, she'll need t
- o reunite with Glinda to transform herself\, and all of Oz\, for good.\n\n
- https://www.siff.net/cinema/in-theaters/wicked-for-good\n\nEstimated start
- : 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked: For Good
-DTSTART:20251218T033000Z
-DTEND:20251218T060500Z
-DTSTAMP:20251218T033000Z
-UID:vi5EHDHWiW
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nNow demonized as the Wicked Witc
- h of the West\, Elphaba lives in exile in the Ozian forest\, while Glinda 
- resides at the palace in Emerald City\, reveling in the perks of fame and 
- popularity. As an angry mob rises against the Wicked Witch\, she'll need t
- o reunite with Glinda to transform herself\, and all of Oz\, for good.\n\n
- https://www.siff.net/cinema/in-theaters/wicked-for-good\n\nEstimated start
- : 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251218T001500Z
-DTEND:20251218T023500Z
-DTSTAMP:20251218T001500Z
-UID:4eorhpV9jq
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251218T031500Z
-DTEND:20251218T053500Z
-DTSTAMP:20251218T031500Z
-UID:6D5oB4sgJX
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251218T162011Z
 BEGIN:VEVENT
 SUMMARY:Avatar: Fire and Ash
 DTSTART:20251218T231500Z
@@ -931,94 +823,44 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nJake and Neytiri's family grappl
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251224T200000Z
-DTEND:20251224T222000Z
-DTSTAMP:20251224T200000Z
-UID:7JceN2jFdw
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251224T230000Z
-DTEND:20251225T012000Z
-DTSTAMP:20251224T230000Z
-UID:0VPNA7FVsS
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 15:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251225T020000Z
-DTEND:20251225T042000Z
-DTSTAMP:20251225T020000Z
-UID:FhqagR9HDT
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251224T201500Z
-DTEND:20251224T224500Z
-DTSTAMP:20251224T201500Z
-UID:5NHpTpbiEO
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 12:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251224T233000Z
-DTEND:20251225T020000Z
-DTSTAMP:20251224T233000Z
-UID:OaIUDcaaxF
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 15:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sentimental Value
-DTSTART:20251225T024500Z
-DTEND:20251225T051500Z
-DTSTAMP:20251225T024500Z
-UID:AXfoCSMYlg
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nStellan Skarsgård and Renate Re
- insve lead an incomparable cast in Joachim Trier’s moving drama about a 
- director’s bid to revive his career and repair his family’s broken bon
- ds.\n\nhttps://www.siff.net/cinema/in-theaters/sentimental-value\n\nEstima
- ted start: 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Secret Agent
-DTSTART:20251224T203000Z
-DTEND:20251224T232500Z
-DTSTAMP:20251224T203000Z
+DTSTART:20251224T201500Z
+DTEND:20251224T231000Z
+DTSTAMP:20251224T201500Z
 UID:Ub8mFkQ6uU
 DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
   returns with a thrillingly unpredictable\, shape-shifting epic set in his
   hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
  ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
- eaters/the-secret-agent\n\nEstimated start: 12:45
+ eaters/the-secret-agent\n\nEstimated start: 12:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20251225T000000Z
+DTEND:20251225T025500Z
+DTSTAMP:20251225T000000Z
+UID:S4bAIoiofv
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART:20251224T204500Z
+DTEND:20251224T233000Z
+DTSTAMP:20251224T204500Z
+UID:4LyVBM37jH
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 13:00
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1035,6 +877,32 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
  cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
  y-supreme\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Song Sung Blue
+DTSTART:20251224T220000Z
+DTEND:20251225T003000Z
+DTSTAMP:20251224T220000Z
+UID:IuYAiXHysW
+DESCRIPTION:Duration: 131 mins (2h11m)\n\nBased on a true story\, two down
+ -on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil
+  Diamond tribute band\, proving it's never too late to find love and follo
+ w your dreams.\n\nhttps://www.siff.net/cinema/in-theaters/song-sung-blue\n
+ \nEstimated start: 14:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Song Sung Blue
+DTSTART:20251225T011500Z
+DTEND:20251225T034500Z
+DTSTAMP:20251225T011500Z
+UID:ooNYXvqqR8
+DESCRIPTION:Duration: 131 mins (2h11m)\n\nBased on a true story\, two down
+ -on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil
+  Diamond tribute band\, proving it's never too late to find love and follo
+ w your dreams.\n\nhttps://www.siff.net/cinema/in-theaters/song-sung-blue\n
+ \nEstimated start: 17:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fiddler on the Roof (1971)
@@ -2003,8 +1871,10 @@ UID:F7cNbLhD13
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 15:55
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2016,8 +1886,10 @@ UID:wMVZX88rhB
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 19:15
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2074,8 +1946,10 @@ UID:3YCbHwWYvJ
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 12:30
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 12:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2087,8 +1961,10 @@ UID:5dcCavBIos
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 15:55
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2100,8 +1976,10 @@ UID:kjXKwWlqq2
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 19:15
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2158,8 +2036,10 @@ UID:cIeUCs3Nv0
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 12:30
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 12:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2171,8 +2051,10 @@ UID:Wpass3QEZO
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 15:55
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2184,8 +2066,10 @@ UID:jnFMVm4Sm4
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 19:15
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2242,8 +2126,10 @@ UID:Sel8rPJuqE
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 12:30
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 12:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2255,8 +2141,10 @@ UID:BGURfEHlYt
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 15:55
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2268,8 +2156,10 @@ UID:4JDsWGEbQy
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 19:15
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2311,8 +2201,10 @@ UID:keingv3unu
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 15:55
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2324,8 +2216,10 @@ UID:mv5hOmpVYc
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 19:15
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2367,8 +2261,10 @@ UID:n5fC9PHoN9
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 15:55
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2380,8 +2276,10 @@ UID:c7OeZfQd92
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 19:15
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2423,8 +2321,10 @@ UID:oitPYZRUPf
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 15:55
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2436,8 +2336,10 @@ UID:QRsVNrPh2Y
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 19:15
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2493,8 +2395,10 @@ UID:7TpJkqq5sx
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 15:55
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2506,8 +2410,10 @@ UID:Qm8LNh65PA
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.\n\nhttps://www.siff.net/cinema/in-
- theaters/no-other-choice\n\nEstimated start: 19:15
+ es violent action after being laid off.  From January 1 to 4\, all 7pm sh
+ owtimes will be presented in 35mm. Free exclusive translucent mini posters
+  available at these screenings while supplies last.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
