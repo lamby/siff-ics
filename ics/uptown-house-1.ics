@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20251218T162011Z
-BEGIN:VEVENT
-SUMMARY:The Secret Agent
-DTSTART:20251218T234000Z
-DTEND:20251219T023500Z
-DTSTAMP:20251218T234000Z
-UID:kCRLwVWoY9
-DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
-  returns with a thrillingly unpredictable\, shape-shifting epic set in his
-  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
- ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
- eaters/the-secret-agent\n\nEstimated start: 15:55
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Secret Agent
-DTSTART:20251219T033000Z
-DTEND:20251219T062500Z
-DTSTAMP:20251219T033000Z
-UID:CcqWnpOf87
-DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
-  returns with a thrillingly unpredictable\, shape-shifting epic set in his
-  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
- ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
- eaters/the-secret-agent\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251219T135515Z
 BEGIN:VEVENT
 SUMMARY:The Secret Agent
 DTSTART:20251219T231500Z
@@ -1027,6 +1001,20 @@ DESCRIPTION:Duration: 129 mins (2h09m)\n\nMartin Scorsese: Maestro of Cine
  fe (Cathy Moriarty) and the Mafia\, which wants to control his career. Fig
  ht sequences as poetic ecstasy.\n\nhttps://www.siff.net/programs-and-event
  s/martin-scorsese/raging-bull\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The King of Comedy (1982)
+DTSTART:20260319T023000Z
+DTEND:20260319T043500Z
+DTSTAMP:20260319T023000Z
+UID:nkvxlDMMbx
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nMartin Scorsese: Maestro of Cine
+ ma Mediocre comedian (Robert De Niro) dreams of being on the Comedy King
+ ’s (Jerry Lewis) TV show. Maybe his chances would improve if he and his 
+ friend (Sandra Bernhard) kidnapped his idol. Delightfully cringey.\n\nhttp
+ s://www.siff.net/programs-and-events/martin-scorsese/the-king-of-comedy\n\
+ nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
