@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20251222T163648Z
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251223T000000Z
-DTEND:20251223T022000Z
-DTSTAMP:20251223T000000Z
-UID:4h4J3wrLkM
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hamnet
-DTSTART:20251223T031500Z
-DTEND:20251223T053500Z
-DTSTAMP:20251223T031500Z
-UID:XoBsUgpZNF
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nA lush and tender drama about Wi
- lliam Shakespeare (Paul Mescal) and his family\, as seen through the eyes 
- of his thoughtful wife Agnes (a luminous Jessie Buckley). From Academy Awa
- rd–winning director Chloé Zhao (Nomadland).\n\nhttps://www.siff.net/cin
- ema/in-theaters/hamnet\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251223T153543Z
 BEGIN:VEVENT
 SUMMARY:Hamnet
 DTSTART:20251224T000000Z
@@ -324,6 +298,19 @@ DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with
  nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
  cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
  y-supreme\n\nEstimated start: 17:20
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent
+DTSTART:20260101T200000Z
+DTEND:20260101T225500Z
+DTSTAMP:20260101T200000Z
+UID:KmZZeYauF9
+DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
+  returns with a thrillingly unpredictable\, shape-shifting epic set in his
+  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
+ ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-secret-agent\n\nEstimated start: 12:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
