@@ -3,78 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20251224T170959Z
-BEGIN:VEVENT
-SUMMARY:Song Sung Blue
-DTSTART:20251224T220000Z
-DTEND:20251225T003000Z
-DTSTAMP:20251224T220000Z
-UID:IuYAiXHysW
-DESCRIPTION:Duration: 131 mins (2h11m)\n\nBased on a true story\, two down
- -on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil
-  Diamond tribute band\, proving it's never too late to find love and follo
- w your dreams.\n\nhttps://www.siff.net/cinema/in-theaters/song-sung-blue\n
- \nEstimated start: 14:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Song Sung Blue
-DTSTART:20251225T011500Z
-DTEND:20251225T034500Z
-DTSTAMP:20251225T011500Z
-UID:ooNYXvqqR8
-DESCRIPTION:Duration: 131 mins (2h11m)\n\nBased on a true story\, two down
- -on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil
-  Diamond tribute band\, proving it's never too late to find love and follo
- w your dreams.\n\nhttps://www.siff.net/cinema/in-theaters/song-sung-blue\n
- \nEstimated start: 17:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marty Supreme
-DTSTART:20251225T201500Z
-DTEND:20251225T230000Z
-DTSTAMP:20251225T201500Z
-UID:iEA27dqT9W
-DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness. 
- From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
-  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
- nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
- cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
- y-supreme\n\nEstimated start: 12:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marty Supreme
-DTSTART:20251225T234500Z
-DTEND:20251226T023000Z
-DTSTAMP:20251225T234500Z
-UID:Z1HniPmV3N
-DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness. 
- From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
-  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
- nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
- cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
- y-supreme\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marty Supreme
-DTSTART:20251226T031500Z
-DTEND:20251226T060000Z
-DTSTAMP:20251226T031500Z
-UID:6wVxYOTtOQ
-DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness. 
- From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
-  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
- nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
- cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
- y-supreme\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20251226T191940Z
 BEGIN:VEVENT
 SUMMARY:Song Sung Blue
 DTSTART:20251226T203000Z
@@ -318,6 +247,21 @@ DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART:20260103T031500Z
+DTEND:20260103T060000Z
+DTSTAMP:20260103T031500Z
+UID:8cgpmpHlt2
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:No Other Choice
 DTSTART:20260102T201500Z
 DTEND:20260102T225000Z
@@ -348,18 +292,18 @@ DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No Other Choice
-DTSTART:20260103T030000Z
-DTEND:20260103T053500Z
-DTSTAMP:20260103T030000Z
-UID:kjXKwWlqq2
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
-  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
- rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.  From January 1 to 4\, all 7pm sh
- owtimes will be presented in 35mm. Free exclusive translucent mini posters
-  available at these screenings while supplies last.\n\nhttps://www.siff.ne
- t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
+SUMMARY:Marty Supreme
+DTSTART:20260104T031500Z
+DTEND:20260104T060000Z
+DTSTAMP:20260104T031500Z
+UID:prxRjGOA3P
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -393,18 +337,18 @@ DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No Other Choice
-DTSTART:20260104T030000Z
-DTEND:20260104T053500Z
-DTSTAMP:20260104T030000Z
-UID:jnFMVm4Sm4
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
-  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
- rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.  From January 1 to 4\, all 7pm sh
- owtimes will be presented in 35mm. Free exclusive translucent mini posters
-  available at these screenings while supplies last.\n\nhttps://www.siff.ne
- t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
+SUMMARY:Marty Supreme
+DTSTART:20260105T031500Z
+DTEND:20260105T060000Z
+DTSTAMP:20260105T031500Z
+UID:ekj9PcHxtS
+DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
+ a dream no one respects\, goes to hell and back in pursuit of greatness. 
+ From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
+  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
+ nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
+ cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
+ y-supreme\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -435,21 +379,6 @@ DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
  owtimes will be presented in 35mm. Free exclusive translucent mini posters
   available at these screenings while supplies last.\n\nhttps://www.siff.ne
  t/cinema/in-theaters/no-other-choice\n\nEstimated start: 15:55
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Other Choice
-DTSTART:20260105T030000Z
-DTEND:20260105T053500Z
-DTSTAMP:20260105T030000Z
-UID:4JDsWGEbQy
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
-  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
- rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off.  From January 1 to 4\, all 7pm sh
- owtimes will be presented in 35mm. Free exclusive translucent mini posters
-  available at these screenings while supplies last.\n\nhttps://www.siff.ne
- t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
