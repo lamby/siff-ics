@@ -3,37 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260108T165126Z
-BEGIN:VEVENT
-SUMMARY:Marty Supreme
-DTSTART:20260108T233000Z
-DTEND:20260109T021500Z
-DTSTAMP:20260108T233000Z
-UID:6K40WLnjJm
-DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness. 
- From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
-  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
- nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
- cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
- y-supreme\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marty Supreme
-DTSTART:20260109T031500Z
-DTEND:20260109T060000Z
-DTSTAMP:20260109T031500Z
-UID:anv8xZFDCJ
-DESCRIPTION:Duration: 149 mins (2h29m)\n\nMarty Mauser\, a young man with 
- a dream no one respects\, goes to hell and back in pursuit of greatness. 
- From writer/director Josh Safdie and starring Timothée Chalamet\, Gwyneth
-  Paltrow\, Odessa A'zion\, Kevin O'Leary\, Tyler Okonma\, Abel Ferrara\, a
- nd Fran Drescher. Three Golden Globe nominations including Best Motion Pi
- cture - Musical or Comedy.\n\nhttps://www.siff.net/cinema/in-theaters/mart
- y-supreme\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260109T165108Z
 BEGIN:VEVENT
 SUMMARY:Marty Supreme
 DTSTART:20260109T234000Z
@@ -479,6 +449,18 @@ DESCRIPTION:Duration: 137 mins (2h17m)\n\nA bold colonial-era musical from
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mandabi
+DTSTART:20260203T023000Z
+DTEND:20260203T042000Z
+DTSTAMP:20260203T023000Z
+UID:Lpdm3yX6FG
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nSIFF Movie Club In a new 4K resto
+ ration\, Ousmane Sembène’s simple story of a man wrestling with a money
+  order emerges as a magnificent parable.\n\nhttps://www.siff.net/programs-
+ and-events/siff-movie-club/mandabi\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mean Streets (1973)
 DTSTART:20260226T033000Z
 DTEND:20260226T054000Z
@@ -491,6 +473,19 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nMartin Scorsese: Maestro of Cine
  is girlfriend (Amy Robinson) safe from street toughs and Mob bosses. Inspi
  red by Scorsese’s Little Italy background.\n\nhttps://www.siff.net/progr
  ams-and-events/martin-scorsese/mean-streets\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SLC Punk (1998)
+DTSTART:20260303T023000Z
+DTEND:20260303T042500Z
+DTSTAMP:20260303T023000Z
+UID:FJyS0Y1ua9
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nSIFF Movie Club In this lively co
+ medy\, a blue-haired punker and his best pal find their anarchist ideals a
+ t odds with life in their starched hometown: Salt Lake City.\n\nhttps://ww
+ w.siff.net/programs-and-events/siff-movie-club/slc-punk\n\nEstimated start
+ : 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -563,6 +558,35 @@ DESCRIPTION:Duration: 139 mins (2h19m)\n\nMartin Scorsese: Maestro of Cine
  Michelle Pfeiffer). Secret love expressed with flowers\, and a glove eroti
  cally removed. Scorsese the romantic.\n\nhttps://www.siff.net/programs-and
  -events/martin-scorsese/the-age-of-innocence\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleo From 5 to 7 (1962)
+DTSTART:20260407T013000Z
+DTEND:20260407T031500Z
+DTSTAMP:20260407T013000Z
+UID:B8hVdQ4Xa9
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nSIFF Movie Club Agnès Varda eloq
+ uently captures Paris in the sixties with this real-time portrait of a sin
+ ger (Corinne Marchand) set adrift in the city as she awaits test results o
+ f a biopsy.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/cl
+ eo-from-5-to-7\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casino (1995)
+DTSTART:20260409T023000Z
+DTEND:20260409T054500Z
+DTSTAMP:20260409T023000Z
+UID:QM66mHHrNl
+DESCRIPTION:Duration: 179 mins (2h59m)\n\nMartin Scorsese: Maestro of Cine
+ ma Juicy\, over the top\, deliciously gaudy 1970s excess\, as Robert De Ni
+ ro tries to keep his casino free of Mob interference\, while his enforcer 
+ (Joe Pesci)\, his wife (Sharon Stone)\, and her ex (James Woods) pursue th
+ eir often conflicting agendas. With Don Rickles\, Frankie Avalon\, and Sco
+ rsese’s mother Catherine. 30th anniversary screening.\n\nhttps://www.si
+ ff.net/programs-and-events/martin-scorsese/casino\n\nEstimated start: 19:4
+ 5
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
