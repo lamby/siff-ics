@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260115T162139Z
-BEGIN:VEVENT
-SUMMARY:The Secret Agent
-DTSTART:20260115T234500Z
-DTEND:20260116T024000Z
-DTSTAMP:20260115T234500Z
-UID:b9rS4jth6K
-DESCRIPTION:Duration: 159 mins (2h39m)\n\nKleber Mendonça Filho (Bacurau)
-  returns with a thrillingly unpredictable\, shape-shifting epic set in his
-  hometown of Recife during the late 1970s\, starring a magnetic Wagner Mou
- ra as a man on the run from his past.\n\nhttps://www.siff.net/cinema/in-th
- eaters/the-secret-agent\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee
-DTSTART:20260116T033000Z
-DTEND:20260116T060500Z
-DTSTAMP:20260116T033000Z
-UID:POJAonUvgR
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nA bold colonial-era musical from
-  the co-writer of The Brutalist\, Amanda Seyfried stars as visionary Shake
- r leader Ann Lee who builds a radical utopian faith in 18th century Americ
- a.\n\nhttps://www.siff.net/cinema/in-theaters/the-testament-of-ann-lee\n\n
- Estimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260116T171030Z
 BEGIN:VEVENT
 SUMMARY:The Testament of Ann Lee
 DTSTART:20260117T000000Z
@@ -647,6 +621,21 @@ DESCRIPTION:Duration: 179 mins (2h59m)\n\nMartin Scorsese: Maestro of Cine
  rsese’s mother Catherine. 30th anniversary screening.\n\nhttps://www.si
  ff.net/programs-and-events/martin-scorsese/casino\n\nEstimated start: 19:4
  5
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wolf of Wall Street (2013)
+DTSTART:20260416T023000Z
+DTEND:20260416T053000Z
+DTSTAMP:20260416T023000Z
+UID:5tw3PHk5fa
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nMartin Scorsese: Maestro of Cine
+ ma In Leonardo DiCaprio’s pet project he’s a Wall Street player who\, 
+ with his partner (Jonah Hill)\, scams millions from vulnerable investors. 
+ It’s a euphoric ride through the most depraved aspects of our human natu
+ re. With the late\, great\, much-loved Rob Reiner.\n\nhttps://www.siff.ne
+ t/programs-and-events/martin-scorsese/the-wolf-of-wall-street\n\nEstimated
+  start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
