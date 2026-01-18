@@ -3,45 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260117T183427Z
-BEGIN:VEVENT
-SUMMARY:NT Live: Mrs. Warren’s Profession
-DTSTART:20260117T220000Z
-DTEND:20260118T001500Z
-DTSTAMP:20260117T220000Z
-UID:3EA8yiaD1r
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nStage to Screen Five-time Olivie
- r Award winner Imelda Staunton ("The Crown") joins forces with her real-li
- fe daughter Bessie Carter ("Bridgerton") for the very first time\, playing
-  mother and daughter in Bernard Shaw’s incendiary moral classic.\n\nhttp
- s://www.siff.net/programs-and-events/stage-to-screen/nt-live-mrs-warrens-p
- rofession\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Young Mothers
-DTSTART:20260118T005000Z
-DTEND:20260118T025000Z
-DTSTAMP:20260118T005000Z
-UID:vJP8ou484H
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nJessica\, Perla\, Julie\, Ariane
-  and Naïma are housed in a shelter for young mothers. Five teenagers hopi
- ng for a better life for themselves and their babies.\n\nhttps://www.siff.
- net/cinema/in-theaters/young-mothers\n\nEstimated start: 17:05
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Young Mothers
-DTSTART:20260118T033000Z
-DTEND:20260118T053000Z
-DTSTAMP:20260118T033000Z
-UID:1YImwuVclN
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nJessica\, Perla\, Julie\, Ariane
-  and Naïma are housed in a shelter for young mothers. Five teenagers hopi
- ng for a better life for themselves and their babies.\n\nhttps://www.siff.
- net/cinema/in-theaters/young-mothers\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260118T175858Z
 BEGIN:VEVENT
 SUMMARY:NT Live: Mrs. Warren’s Profession
 DTSTART:20260118T220000Z
