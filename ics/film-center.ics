@@ -3,22 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260121T153320Z
-BEGIN:VEVENT
-SUMMARY:Mysterious Object at Noon (2000)
-DTSTART:20260122T030000Z
-DTEND:20260122T045000Z
-DTSTAMP:20260122T030000Z
-UID:xt2P7Mhy7f
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nPresented by Mount Analogue ◦ 
- Art + Cinema Apichatpong Weerasethakul (Uncle Boonmee Who Can Recall His P
- ast Lives\, Tropical Malady\, Memoria) brought an appetite for experimen­
- tation to Thai cinema with his debut feature\, an uncategorizable work tha
- t refracts documentary impressions of his homeland through the surrealist 
- concept of the exquisite corpse game.\n\nhttps://www.siff.net/cinema/in-th
- eaters/mysterious-object-at-noon\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260122T155921Z
 BEGIN:VEVENT
 SUMMARY:Gaza is Our Home
 DTSTART:20260123T023000Z
@@ -290,6 +275,26 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nThe Pacific Northwestern In 1820
  \, a cook and a Chinese immigrant team up to steal milk from a prized cow\
  , the first and only in the Oregon Country.\n\nhttps://www.siff.net/progra
  ms-and-events/the-pacific-northwestern/first-cow\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D'Est (From the East) (1993)
+DTSTART:20260220T030000Z
+DTEND:20260220T052000Z
+DTSTAMP:20260220T030000Z
+UID:ta5TfLRH0B
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nPresented by Mount Analogue ◦
+  Art + Cinema with Seattle Documentary Association From director Chantal 
+ Akerman (Jeanne Dielman)\, D’Est (From the East) retraces a journey from
+  the end of summer to deepest winter\, from East Germany\, across Poland a
+ nd Ukraine\, to Moscow. It is a voyage Akerman wanted to make shortly afte
+ r the collapse of the Soviet bloc "before it was too late\," reconstructin
+ g her impressions in the manner of a documentary on the border of fiction.
+ By filming "everything that touched me\," Akerman sifts through and fixes 
+ upon sounds and images as she follows the thread of this subjective crossi
+ ng. Without dialogue or commentary\, From the East is a cinematographic el
+ egy.\n\nhttps://www.siff.net/cinema/in-theaters/dest-(from-the-east)\n\nEs
+ timated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
