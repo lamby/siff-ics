@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260122T155921Z
-BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee
-DTSTART:20260123T000000Z
-DTEND:20260123T023500Z
-DTSTAMP:20260123T000000Z
-UID:yMqaratCZT
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nA bold colonial-era musical from
-  the co-writer of The Brutalist\, Amanda Seyfried stars as visionary Shake
- r leader Ann Lee who builds a radical utopian faith in 18th century Americ
- a.\n\nhttps://www.siff.net/cinema/in-theaters/the-testament-of-ann-lee\n\n
- Estimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Testament of Ann Lee
-DTSTART:20260123T033000Z
-DTEND:20260123T060500Z
-DTSTAMP:20260123T033000Z
-UID:c6EulAxt6t
-DESCRIPTION:Duration: 137 mins (2h17m)\n\nA bold colonial-era musical from
-  the co-writer of The Brutalist\, Amanda Seyfried stars as visionary Shake
- r leader Ann Lee who builds a radical utopian faith in 18th century Americ
- a.\n\nhttps://www.siff.net/cinema/in-theaters/the-testament-of-ann-lee\n\n
- Estimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260123T153452Z
 BEGIN:VEVENT
 SUMMARY:The Testament of Ann Lee
 DTSTART:20260124T000000Z
@@ -636,6 +610,22 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nMartin Scorsese: Maestro of Cine
  re. With the late\, great\, much-loved Rob Reiner.\n\nhttps://www.siff.ne
  t/programs-and-events/martin-scorsese/the-wolf-of-wall-street\n\nEstimated
   start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silence (2016)
+DTSTART:20260423T023000Z
+DTEND:20260423T053000Z
+DTSTAMP:20260423T023000Z
+UID:HZNAKflpsp
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nMartin Scorsese: Maestro of Cine
+ ma Scorsese chose to show this spiritual thriller\, in which 17th-century 
+ priests (Andrew Garfield\, Adam Driver) seek their missing mentor (Liam Ne
+ eson) in Japan\, where Christianity is outlawed\, but a visionary voice st
+ ill speaks. A meditation on Christian and Buddhist thought\, an illuminati
+ on of physical and metaphysical faith. Scorsese as landscape painter.\n\nh
+ ttps://www.siff.net/programs-and-events/martin-scorsese/silence\n\nEstimat
+ ed start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
