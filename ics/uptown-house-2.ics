@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260126T160839Z
-BEGIN:VEVENT
-SUMMARY:No Other Choice
-DTSTART:20260126T234500Z
-DTEND:20260127T022000Z
-DTSTAMP:20260126T234500Z
-UID:oMfsjFvNXw
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
-  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
- rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off. Nominated for three Golden Globes
-  including Best Motion Picture - Musical or Comedy.\n\nhttps://www.siff.ne
- t/cinema/in-theaters/no-other-choice\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Other Choice
-DTSTART:20260127T031500Z
-DTEND:20260127T055000Z
-DTSTAMP:20260127T031500Z
-UID:vCOB2ur1rA
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
-  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
- rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off. Nominated for three Golden Globes
-  including Best Motion Picture - Musical or Comedy.\n\nhttps://www.siff.ne
- t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260127T161054Z
 BEGIN:VEVENT
 SUMMARY:No Other Choice
 DTSTART:20260127T234500Z
@@ -80,6 +52,34 @@ DTSTART:20260129T031500Z
 DTEND:20260129T055000Z
 DTSTAMP:20260129T031500Z
 UID:9WwXZWIeFX
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Nominated for three Golden Globes
+  including Best Motion Picture - Musical or Comedy.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260129T234500Z
+DTEND:20260130T022000Z
+DTSTAMP:20260129T234500Z
+UID:OksgoUbNvI
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Nominated for three Golden Globes
+  including Best Motion Picture - Musical or Comedy.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260130T031500Z
+DTEND:20260130T055000Z
+DTSTAMP:20260130T031500Z
+UID:VXU15NVf0E
 DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
   Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
  rary work culture\, starring Lee Byung Hun as a husband and father who tak
@@ -245,6 +245,19 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nGathering audio from actual phone
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Testament of Ann Lee
+DTSTART:20260204T000000Z
+DTEND:20260204T023500Z
+DTSTAMP:20260204T000000Z
+UID:RDYnuRDUKR
+DESCRIPTION:Duration: 137 mins (2h17m)\n\nA bold colonial-era musical from
+  the co-writer of The Brutalist\, Amanda Seyfried stars as visionary Shake
+ r leader Ann Lee who builds a radical utopian faith in 18th century Americ
+ a.\n\nhttps://www.siff.net/cinema/in-theaters/the-testament-of-ann-lee\n\n
+ Estimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Voice of Hind Rajab
 DTSTART:20260204T032000Z
 DTEND:20260204T051500Z
@@ -267,6 +280,19 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the
  complexities of fame and industry pressure while preparing for her arena t
  our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
  ted start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cook\, The Thief\, His Wife and Her Lover (1989)
+DTSTART:20260212T030000Z
+DTEND:20260212T053000Z
+DTSTAMP:20260212T030000Z
+UID:ZOCuWLM3yi
+DESCRIPTION:Duration: 134 mins (2h14m)\n\nNot for everyone\, this sumptuou
+ sly filmed amoral tale of food\, sex\, and revenge remains an almost repel
+ lant sensorial binge more than 35 years later.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/the-cook-the-thief-his-wife-and-her-lover\n\nEstimated sta
+ rt: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
