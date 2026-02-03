@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260202T154108Z
+LAST-MODIFIED:20260203T162908Z
 BEGIN:VEVENT
 SUMMARY:Bend of the River (1952)
 DTSTART:20260204T023000Z
@@ -67,6 +67,104 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nThe Pacific Northwestern In his
   finds his life complicated while nursing a Swiss immigrant back to health
  .\n\nhttps://www.siff.net/programs-and-events/the-pacific-northwestern/the
  -hanging-tree\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starman
+DTSTART:20260214T010000Z
+DTEND:20260214T025000Z
+DTSTAMP:20260214T010000Z
+UID:RLmI6g4prc
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nJet Propulsion Laboratory scienti
+ st\, robotics engineer\, and best-selling science fiction author Gentry Le
+ e\, who was on NASA’s Viking and Voyager teams\, discusses his experienc
+ es and views on the possibility of extraterrestrial life.  Q&A with Gentr
+ y Lee and Director Robert Stone after the February 15 matinee screening\n\
+ nhttps://www.siff.net/cinema/in-theaters/starman\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starman
+DTSTART:20260214T033000Z
+DTEND:20260214T052000Z
+DTSTAMP:20260214T033000Z
+UID:HYOKJ7Xs7c
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nJet Propulsion Laboratory scienti
+ st\, robotics engineer\, and best-selling science fiction author Gentry Le
+ e\, who was on NASA’s Viking and Voyager teams\, discusses his experienc
+ es and views on the possibility of extraterrestrial life.  Q&A with Gentr
+ y Lee and Director Robert Stone after the February 15 matinee screening\n\
+ nhttps://www.siff.net/cinema/in-theaters/starman\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starman
+DTSTART:20260214T200000Z
+DTEND:20260214T215000Z
+DTSTAMP:20260214T200000Z
+UID:Hwk2x7RnDT
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nJet Propulsion Laboratory scienti
+ st\, robotics engineer\, and best-selling science fiction author Gentry Le
+ e\, who was on NASA’s Viking and Voyager teams\, discusses his experienc
+ es and views on the possibility of extraterrestrial life.  Q&A with Gentr
+ y Lee and Director Robert Stone after the February 15 matinee screening\n\
+ nhttps://www.siff.net/cinema/in-theaters/starman\n\nEstimated start: 12:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starman
+DTSTART:20260214T223000Z
+DTEND:20260215T002000Z
+DTSTAMP:20260214T223000Z
+UID:ggre7272Ai
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nJet Propulsion Laboratory scienti
+ st\, robotics engineer\, and best-selling science fiction author Gentry Le
+ e\, who was on NASA’s Viking and Voyager teams\, discusses his experienc
+ es and views on the possibility of extraterrestrial life.  Q&A with Gentr
+ y Lee and Director Robert Stone after the February 15 matinee screening\n\
+ nhttps://www.siff.net/cinema/in-theaters/starman\n\nEstimated start: 14:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starman
+DTSTART:20260215T010000Z
+DTEND:20260215T025000Z
+DTSTAMP:20260215T010000Z
+UID:pEXa3p9lL9
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nJet Propulsion Laboratory scienti
+ st\, robotics engineer\, and best-selling science fiction author Gentry Le
+ e\, who was on NASA’s Viking and Voyager teams\, discusses his experienc
+ es and views on the possibility of extraterrestrial life.  Q&A with Gentr
+ y Lee and Director Robert Stone after the February 15 matinee screening\n\
+ nhttps://www.siff.net/cinema/in-theaters/starman\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starman
+DTSTART:20260215T033000Z
+DTEND:20260215T052000Z
+DTSTAMP:20260215T033000Z
+UID:VflEJgmLk6
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nJet Propulsion Laboratory scienti
+ st\, robotics engineer\, and best-selling science fiction author Gentry Le
+ e\, who was on NASA’s Viking and Voyager teams\, discusses his experienc
+ es and views on the possibility of extraterrestrial life.  Q&A with Gentr
+ y Lee and Director Robert Stone after the February 15 matinee screening\n\
+ nhttps://www.siff.net/cinema/in-theaters/starman\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starman
+DTSTART:20260216T030000Z
+DTEND:20260216T045000Z
+DTSTAMP:20260216T030000Z
+UID:BGo3HbUtCD
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nJet Propulsion Laboratory scienti
+ st\, robotics engineer\, and best-selling science fiction author Gentry Le
+ e\, who was on NASA’s Viking and Voyager teams\, discusses his experienc
+ es and views on the possibility of extraterrestrial life.  Q&A with Gentr
+ y Lee and Director Robert Stone after the February 15 matinee screening\n\
+ nhttps://www.siff.net/cinema/in-theaters/starman\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -167,6 +265,36 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Pacific Northwestern A feckl
  m western. Presented on 35mm courtesy of the Chicago Film Society.\n\nhttp
  s://www.siff.net/programs-and-events/the-pacific-northwestern/mccabe-and-m
  rs-miller\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McCabe and Mrs. Miller (1971)
+DTSTART:20260226T023000Z
+DTEND:20260226T044500Z
+DTSTAMP:20260226T023000Z
+UID:g3kXRX8kbN
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Pacific Northwestern A feckl
+ ess gambler and cockney madame become successful business partners in the 
+ burgeoning town of Presbyterian Church\, WA\, but trouble arrives in the f
+ orm of a monopolizing corporation in Robert Altman’s quintessential drea
+ m western. Presented on 35mm courtesy of the Chicago Film Society.\n\nhttp
+ s://www.siff.net/programs-and-events/the-pacific-northwestern/mccabe-and-m
+ rs-miller\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McCabe and Mrs. Miller (1971)
+DTSTART:20260228T211500Z
+DTEND:20260228T233000Z
+DTSTAMP:20260228T211500Z
+UID:bhIaG8N1kf
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Pacific Northwestern A feckl
+ ess gambler and cockney madame become successful business partners in the 
+ burgeoning town of Presbyterian Church\, WA\, but trouble arrives in the f
+ orm of a monopolizing corporation in Robert Altman’s quintessential drea
+ m western. Presented on 35mm courtesy of the Chicago Film Society.\n\nhttp
+ s://www.siff.net/programs-and-events/the-pacific-northwestern/mccabe-and-m
+ rs-miller\n\nEstimated start: 13:30
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
