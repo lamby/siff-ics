@@ -3,21 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260203T162908Z
-BEGIN:VEVENT
-SUMMARY:No Other Choice
-DTSTART:20260203T234500Z
-DTEND:20260204T022000Z
-DTSTAMP:20260203T234500Z
-UID:Td4exAgSmn
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
-  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
- rary work culture\, starring Lee Byung Hun as a husband and father who tak
- es violent action after being laid off. Nominated for three Golden Globes
-  including Best Motion Picture - Musical or Comedy.\n\nhttps://www.siff.ne
- t/cinema/in-theaters/no-other-choice\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260204T144627Z
 BEGIN:VEVENT
 SUMMARY:No Other Choice
 DTSTART:20260205T000000Z
@@ -223,9 +209,19 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\n2029: A female cybernetic governm
  ent agent\, Major Motoko Kusanagi\, and the Internal Bureau of Investigati
  ons are hot on the trail of “The Puppet Master\,” a mysterious and thr
  eatening computer virus capable of infiltrating human hosts. A co-presenta
- tion with Brain Dead and Glasswing. A panel discussion to follow the scree
- ning.\n\nhttps://www.siff.net/cinema/in-theaters/ghost-in-the-shell\n\nEst
- imated start: 19:45
+ tion with Brain Dead and Glasswing. Exclusive Brain Dead x Ghost in the Sh
+ ell merch will be sold in the lobby. A panel discussion to follow the scre
+ ening\, organized by Glasswing and led by Tim Keck (co-founder of "The Oni
+ on\," "The Stranger\," "The Portland Mercury\," and currently working on a
+  book called "Balance Rock"). Panelists include: Dr. Kristy Jost - Smart 
+ Textile Researcher\, holds degrees in both Fashion Design and Materials Sc
+ ience\, and uses this to merge design and technology on the body. Amir Ami
+ ni - Research scientist at Reality Labs working on touch\, sensing\, and h
+ aptics\, a writer\, and co-founder of ANTiPODE Art Gallery in Seattle.  B
+ ertrand Vacherot - founder of B612\, a research and design-led company de
+ veloping mynd\, a tool that helps lifelong learners see their patterns to 
+ cultivate personal clarity.\n\nhttps://www.siff.net/cinema/in-theaters/gho
+ st-in-the-shell\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -696,6 +692,21 @@ DESCRIPTION:Duration: 209 mins (3h29m)\n\nMartin Scorsese: Maestro of Cine
  timate drama center’s on Sheeran's family\, and the consequences of the 
  way he's spent his time.\n\nhttps://www.siff.net/programs-and-events/marti
  n-scorsese/the-irishman\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sansho the Bailiff (1954)
+DTSTART:20260505T013000Z
+DTEND:20260505T035500Z
+DTSTAMP:20260505T013000Z
+UID:Fyht286mNG
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nSIFF Movie Club One of cinema's 
+ greatest masterpieces\, Japanese master Kenji Mizoguchi's empathetic exami
+ nation of human resilience in the face of evil takes place in medieval Jap
+ an\, where the family of an exiled nobleman are left to fend for themselve
+ s and become wrenched apart by vicious slave traders.\n\nhttps://www.siff.
+ net/programs-and-events/siff-movie-club/sansho-the-bailiff\n\nEstimated st
+ art: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
