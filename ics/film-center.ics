@@ -3,24 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260205T163229Z
-BEGIN:VEVENT
-SUMMARY:Fools’ Paradise (Lost?)
-DTSTART:20260207T030000Z
-DTEND:20260207T053500Z
-DTSTAMP:20260207T030000Z
-UID:pyRk1WDqqd
-DESCRIPTION:Duration: 139 mins (2h19m)\n\nFebruary 6\, 2026 | 7:00pm | SIF
- F Film CenterFebruary 7\, 2026 | 7:00pm | SIFF Film Center - Presented by 
- Whitman College  Fools’ Paradise (lost?) is a love letter to our wild
- —our own inner wild\, and the outer wild. It’s about how we heal ourse
- lves through reconnection to the natural world\, and the symbiotic necessi
- ty to heal what is left of our planet. Screening begins with a brief\, gro
- unding meditation and ends with a director Q&A with Alexandra Lexton  Dir
- ector Link Tree\n\nhttps://www.siff.net/cinema/in-theaters/fools-paradise\
- n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260207T163812Z
 BEGIN:VEVENT
 SUMMARY:Fools’ Paradise (Lost?)
 DTSTART:20260208T030000Z
@@ -148,6 +131,19 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nJet Propulsion Laboratory scienti
  es and views on the possibility of extraterrestrial life.  Q&A with Gentr
  y Lee and Director Robert Stone after the February 15 matinee screening\n\
  nhttps://www.siff.net/cinema/in-theaters/starman\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donn of Tiki
+DTSTART:20260217T030000Z
+DTEND:20260217T050500Z
+DTSTAMP:20260217T030000Z
+UID:47g97jSYqB
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe life of Donn Beach\, creator
+  of the Tiki Bar\, has been frequently embellished\, and at times flat-out
+  fabricated. The Donn of Tiki attempts to separate fact from fiction as it
+  explores his incredulous story and the legacy he left behind.\n\nhttps://
+ www.siff.net/cinema/in-theaters/the-donn-of-tiki\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
