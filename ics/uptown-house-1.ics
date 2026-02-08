@@ -3,55 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260207T163812Z
-BEGIN:VEVENT
-SUMMARY:The Moment
-DTSTART:20260207T193000Z
-DTEND:20260207T214000Z
-DTSTAMP:20260207T193000Z
-UID:bUXVKegKS1
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the 
- complexities of fame and industry pressure while preparing for her arena t
- our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
- ted start: 11:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Moment
-DTSTART:20260207T221500Z
-DTEND:20260208T002500Z
-DTSTAMP:20260207T221500Z
-UID:rHGFO8G3t7
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the 
- complexities of fame and industry pressure while preparing for her arena t
- our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
- ted start: 14:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Moment
-DTSTART:20260208T010000Z
-DTEND:20260208T031000Z
-DTSTAMP:20260208T010000Z
-UID:n3884TitvO
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the 
- complexities of fame and industry pressure while preparing for her arena t
- our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
- ted start: 17:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Moment
-DTSTART:20260208T034500Z
-DTEND:20260208T055500Z
-DTSTAMP:20260208T034500Z
-UID:ZHvRHaDodU
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the 
- complexities of fame and industry pressure while preparing for her arena t
- our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
- ted start: 20:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260208T155016Z
 BEGIN:VEVENT
 SUMMARY:The Moment
 DTSTART:20260208T193000Z
@@ -62,6 +14,18 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the
  complexities of fame and industry pressure while preparing for her arena t
  our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
  ted start: 11:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Moment
+DTSTART:20260208T221500Z
+DTEND:20260209T002500Z
+DTSTAMP:20260208T221500Z
+UID:VNwtHNBnhZ
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the 
+ complexities of fame and industry pressure while preparing for her arena t
+ our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
+ ted start: 14:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
