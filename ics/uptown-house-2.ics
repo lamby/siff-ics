@@ -3,60 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260216T165454Z
-BEGIN:VEVENT
-SUMMARY:The Moment
-DTSTART:20260217T001500Z
-DTEND:20260217T022500Z
-DTSTAMP:20260217T001500Z
-UID:jcv8LrIVSB
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the 
- complexities of fame and industry pressure while preparing for her arena t
- our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
- ted start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Safe (1995)
-DTSTART:20260217T030000Z
-DTEND:20260217T052000Z
-DTSTAMP:20260217T030000Z
-UID:pNHaU63YYO
-DESCRIPTION:Duration: 123 mins (2h03m)\n\nJulianne Moore gives an astonish
- ing performance as Carol White\, a suburban housewife whose affluent envir
- onment suddenly turns against her.  A bold\, darkly comic\, completely or
- iginal drama\, depicting Carol's descent into the horrors of modern-day li
- ving from acclaimed filmmaker Todd Haynes (Poison\, Superstar). New 4K re
- storation.\n\nhttps://www.siff.net/cinema/in-theaters/safe\n\nEstimated st
- art: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magellan
-DTSTART:20260217T234500Z
-DTEND:20260218T025500Z
-DTSTAMP:20260217T234500Z
-UID:PV5YGlReql
-DESCRIPTION:Duration: 173 mins (2h53m)\n\nEvery astonishing visual composi
- tion carries historical and political weight in the monumental new film fr
- om singular Filipino filmmaker Lav Diaz\, who mounts an absorbing story of
-  colonial conquest and obsession\, starring Gael García Bernal as Ferdina
- nd Magellan.\n\nhttps://www.siff.net/cinema/in-theaters/magellan\n\nEstima
- ted start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Moment
-DTSTART:20260218T034500Z
-DTEND:20260218T055500Z
-DTSTAMP:20260218T034500Z
-UID:SbCRsB15QX
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the 
- complexities of fame and industry pressure while preparing for her arena t
- our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
- ted start: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260218T161431Z
 BEGIN:VEVENT
 SUMMARY:No Other Choice
 DTSTART:20260219T001500Z
@@ -107,6 +54,72 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the
  complexities of fame and industry pressure while preparing for her arena t
  our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
  ted start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART:20260221T001500Z
+DTEND:20260221T030000Z
+DTSTAMP:20260221T001500Z
+UID:LYDEl9jLn9
+DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
+  story set against the backdrop of the Yorkshire moors\, exploring the int
+ ense and destructive relationship between Heathcliff and Catherine Earnsha
+ w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
+ omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Moment
+DTSTART:20260222T201500Z
+DTEND:20260222T222500Z
+DTSTAMP:20260222T201500Z
+UID:iVGvMcqcGw
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the 
+ complexities of fame and industry pressure while preparing for her arena t
+ our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
+ ted start: 12:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice
+DTSTART:20260222T231500Z
+DTEND:20260223T015000Z
+DTSTAMP:20260222T231500Z
+UID:wVm6eFLXvG
+DESCRIPTION:Duration: 139 mins (2h19m)\n\nIn his diabolical new thriller\,
+  Park Chan-wook crafts a dark fable about the cutthroat nature of contempo
+ rary work culture\, starring Lee Byung Hun as a husband and father who tak
+ es violent action after being laid off. Nominated for three Golden Globes
+  including Best Motion Picture - Musical or Comedy.\n\nhttps://www.siff.ne
+ t/cinema/in-theaters/no-other-choice\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Moment
+DTSTART:20260224T034500Z
+DTEND:20260224T055500Z
+DTSTAMP:20260224T034500Z
+UID:bmlEnlGvZd
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the 
+ complexities of fame and industry pressure while preparing for her arena t
+ our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
+ ted start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART:20260226T031500Z
+DTEND:20260226T060000Z
+DTSTAMP:20260226T031500Z
+UID:DyKXDj5xte
+DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
+  story set against the backdrop of the Yorkshire moors\, exploring the int
+ ense and destructive relationship between Heathcliff and Catherine Earnsha
+ w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
+ omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

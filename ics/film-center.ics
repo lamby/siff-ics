@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260216T165454Z
-BEGIN:VEVENT
-SUMMARY:Donn of Tiki
-DTSTART:20260217T030000Z
-DTEND:20260217T050500Z
-DTSTAMP:20260217T030000Z
-UID:47g97jSYqB
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe life of Donn Beach\, creator
-  of the Tiki Bar\, has been frequently embellished\, and at times flat-out
-  fabricated. The Donn of Tiki attempts to separate fact from fiction as it
-  explores his incredulous story and the legacy he left behind.\n\nhttps://
- www.siff.net/cinema/in-theaters/the-donn-of-tiki\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:First Cow (2019)
-DTSTART:20260218T023000Z
-DTEND:20260218T045000Z
-DTSTAMP:20260218T023000Z
-UID:l7xCQW1XtZ
-DESCRIPTION:Duration: 122 mins (2h02m)\n\nThe Pacific Northwestern In 1820
- \, a cook and a Chinese immigrant team up to steal milk from a prized cow\
- , the first and only in the Oregon Country.\n\nhttps://www.siff.net/progra
- ms-and-events/the-pacific-northwestern/first-cow\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260218T161431Z
 BEGIN:VEVENT
 SUMMARY:D'Est (From the East) (1993)
 DTSTART:20260220T030000Z
@@ -47,6 +22,42 @@ DESCRIPTION:Duration: 125 mins (2h05m)\n\nPresented by Mount Analogue ◦
  ng. Without dialogue or commentary\, From the East is a cinematographic el
  egy.\n\nhttps://www.siff.net/cinema/in-theaters/dest-from-the-east\n\nEsti
  mated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natchez
+DTSTART:20260221T004500Z
+DTEND:20260221T024000Z
+DTSTAMP:20260221T004500Z
+UID:hjbgidZKMe
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA sharp look at the American Sout
+ h's unreconciled history through a Mississippi town that mixes antebellum 
+ tourism with a community deeply divided over its past.\n\nhttps://www.siff
+ .net/cinema/in-theaters/natchez\n\nEstimated start: 17:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natchez
+DTSTART:20260221T030000Z
+DTEND:20260221T045500Z
+DTSTAMP:20260221T030000Z
+UID:42huhvqjq9
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA sharp look at the American Sout
+ h's unreconciled history through a Mississippi town that mixes antebellum 
+ tourism with a community deeply divided over its past.\n\nhttps://www.siff
+ .net/cinema/in-theaters/natchez\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natchez
+DTSTART:20260221T193000Z
+DTEND:20260221T212500Z
+DTSTAMP:20260221T193000Z
+UID:ZQOEHSqOdp
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA sharp look at the American Sout
+ h's unreconciled history through a Mississippi town that mixes antebellum 
+ tourism with a community deeply divided over its past.\n\nhttps://www.siff
+ .net/cinema/in-theaters/natchez\n\nEstimated start: 11:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -76,6 +87,30 @@ DESCRIPTION:Duration: 70 mins (1h10m)\n\nPresented by Cascade Bicycle Clu
  bring\, but also the hope that can be found in the relationships that are 
  born out of trauma.\n\nhttps://www.siff.net/cinema/in-theaters/we-ride-why
  -x40948\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natchez
+DTSTART:20260222T193000Z
+DTEND:20260222T212500Z
+DTSTAMP:20260222T193000Z
+UID:yx9sJaKTpX
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA sharp look at the American Sout
+ h's unreconciled history through a Mississippi town that mixes antebellum 
+ tourism with a community deeply divided over its past.\n\nhttps://www.siff
+ .net/cinema/in-theaters/natchez\n\nEstimated start: 11:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natchez
+DTSTART:20260223T013000Z
+DTEND:20260223T032500Z
+DTSTAMP:20260223T013000Z
+UID:1iPctHLm3a
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA sharp look at the American Sout
+ h's unreconciled history through a Mississippi town that mixes antebellum 
+ tourism with a community deeply divided over its past.\n\nhttps://www.siff
+ .net/cinema/in-theaters/natchez\n\nEstimated start: 17:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -133,6 +168,36 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Pacific Northwestern A feckl
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260228T003000Z
+DTEND:20260228T025500Z
+DTSTAMP:20260228T003000Z
+UID:G4sfRKIYcH
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260228T033000Z
+DTEND:20260228T055500Z
+DTSTAMP:20260228T033000Z
+UID:qv0fbnCGy3
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:McCabe and Mrs. Miller (1971)
 DTSTART:20260228T211500Z
 DTEND:20260228T233000Z
@@ -145,6 +210,186 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Pacific Northwestern A feckl
  m western. Presented on 35mm courtesy of the Chicago Film Society.\n\nhttp
  s://www.siff.net/programs-and-events/the-pacific-northwestern/mccabe-and-m
  rs-miller\n\nEstimated start: 13:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260301T003000Z
+DTEND:20260301T025500Z
+DTSTAMP:20260301T003000Z
+UID:3K3gVUuiQX
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260301T033000Z
+DTEND:20260301T055500Z
+DTSTAMP:20260301T033000Z
+UID:QMET8AONAd
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260302T003000Z
+DTEND:20260302T025500Z
+DTSTAMP:20260302T003000Z
+UID:C8V5JRb8bR
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260302T033000Z
+DTEND:20260302T055500Z
+DTSTAMP:20260302T033000Z
+UID:IiDsGdOjLH
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260303T003000Z
+DTEND:20260303T025500Z
+DTSTAMP:20260303T003000Z
+UID:HhGE3aGkqe
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260303T033000Z
+DTEND:20260303T055500Z
+DTSTAMP:20260303T033000Z
+UID:NmE3HHjaDo
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260304T003000Z
+DTEND:20260304T025500Z
+DTSTAMP:20260304T003000Z
+UID:VFDIPIYLeV
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260304T033000Z
+DTEND:20260304T055500Z
+DTSTAMP:20260304T033000Z
+UID:c9l65dhkUx
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260305T003000Z
+DTEND:20260305T025500Z
+DTSTAMP:20260305T003000Z
+UID:lbYW0h3qxC
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260305T033000Z
+DTEND:20260305T055500Z
+DTSTAMP:20260305T033000Z
+UID:eCyXahFYH9
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260306T003000Z
+DTEND:20260306T025500Z
+DTSTAMP:20260306T003000Z
+UID:Vp0UDPt5wJ
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suburban Fury
+DTSTART:20260306T033000Z
+DTEND:20260306T055500Z
+DTSTAMP:20260306T033000Z
+UID:NnE2eqwUlS
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
+ or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
+ of Sara Jane Moore\, the FBI informant and single mother who tried to assa
+ ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
+ m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
+ ruary 27.\n\nhttps://www.siff.net/cinema/in-theaters/suburban-fury\n\nEsti
+ mated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
