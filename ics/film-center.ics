@@ -3,48 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260221T161931Z
-BEGIN:VEVENT
-SUMMARY:Natchez
-DTSTART:20260221T193000Z
-DTEND:20260221T212500Z
-DTSTAMP:20260221T193000Z
-UID:ZQOEHSqOdp
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA sharp look at the American Sout
- h's unreconciled history through a Mississippi town that mixes antebellum 
- tourism with a community deeply divided over its past.\n\nhttps://www.siff
- .net/cinema/in-theaters/natchez\n\nEstimated start: 11:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Life of Pi
-DTSTART:20260221T220000Z
-DTEND:20260222T004500Z
-DTSTAMP:20260221T220000Z
-UID:AHr0uuCqNg
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Puppetry\, magic
-  and storytelling combine in a unique\, Olivier Award-winning stage adapta
- tion of the best-selling novel.\n\nhttps://www.siff.net/programs-and-event
- s/stage-to-screen/nt-live-life-of-pi\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Ride Why
-DTSTART:20260222T030000Z
-DTEND:20260222T042500Z
-DTSTAMP:20260222T030000Z
-UID:8twWRN9ttr
-DESCRIPTION:Duration: 70 mins (1h10m)\n\nPresented by Cascade Bicycle Clu
- b\, Cascade Bicycle Studio\,and Noir Rouge Productions We Ride Why is a d
- ocumentary film about the power of love\, community\, and hope in the face
-  of cancer. The film follows the stories of several women who have been im
- pacted by cancer\, as well as the friends and family who support them. Thr
- ough their stories\, we learn about the collateral damage that cancer can 
- bring\, but also the hope that can be found in the relationships that are 
- born out of trauma.\n\nhttps://www.siff.net/cinema/in-theaters/we-ride-why
- -x40948\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260222T164030Z
 BEGIN:VEVENT
 SUMMARY:Natchez
 DTSTART:20260222T193000Z
