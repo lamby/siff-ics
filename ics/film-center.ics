@@ -3,43 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260222T164030Z
-BEGIN:VEVENT
-SUMMARY:Natchez
-DTSTART:20260222T193000Z
-DTEND:20260222T212500Z
-DTSTAMP:20260222T193000Z
-UID:yx9sJaKTpX
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA sharp look at the American Sout
- h's unreconciled history through a Mississippi town that mixes antebellum 
- tourism with a community deeply divided over its past.\n\nhttps://www.siff
- .net/cinema/in-theaters/natchez\n\nEstimated start: 11:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez
-DTSTART:20260223T013000Z
-DTEND:20260223T032500Z
-DTSTAMP:20260223T013000Z
-UID:1iPctHLm3a
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA sharp look at the American Sout
- h's unreconciled history through a Mississippi town that mixes antebellum 
- tourism with a community deeply divided over its past.\n\nhttps://www.siff
- .net/cinema/in-theaters/natchez\n\nEstimated start: 17:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Life of Pi
-DTSTART:20260222T220000Z
-DTEND:20260223T004500Z
-DTSTAMP:20260222T220000Z
-UID:K4rMe7Wpdl
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Puppetry\, magic
-  and storytelling combine in a unique\, Olivier Award-winning stage adapta
- tion of the best-selling novel.\n\nhttps://www.siff.net/programs-and-event
- s/stage-to-screen/nt-live-life-of-pi\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260223T162656Z
 BEGIN:VEVENT
 SUMMARY:NT Live: Life of Pi
 DTSTART:20260224T023000Z
@@ -155,6 +119,20 @@ DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
  m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
  ruary 27 7:30pm screening.\n\nhttps://www.siff.net/cinema/in-theaters/subu
  rban-fury\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead Man (1995)
+DTSTART:20260301T211500Z
+DTEND:20260301T233500Z
+DTSTAMP:20260301T211500Z
+UID:A7kK2af4rJ
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nThe Pacific Northwestern Circums
+ tances transform a mild mannered accountant into a notorious gunslinger in
+  Jim Jarmusch’s quintessential psychedelic western\, an odyssey from the
+  arid desert of the Southwest to the rugged coast of the Pacific Northwest
+ .\n\nhttps://www.siff.net/programs-and-events/the-pacific-northwestern/dea
+ d-man\n\nEstimated start: 13:30
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -347,6 +325,27 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nStage to Screen Olivier Award-wi
  med and subversively funny new play by David Ireland.\n\nhttps://www.siff.
  net/programs-and-events/stage-to-screen/nt-live-the-fifth-step\n\nEstimate
  d start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post Alley Film Festival
+DTSTART:20260321T180000Z
+DTEND:20260322T014500Z
+DTSTAMP:20260321T180000Z
+UID:86ZtSkIpXx
+DESCRIPTION:Duration: 448 mins (7h28m)\n\nPresented by Women in Film Seatt
+ le A day of woman-centric & eccentric short films from around the block an
+ d around the world. Twenty-five creatively diverse short film stories in 6
+  thematic groups: Oh Mother\, Fantasy\, Family Matters\, Choices\, Docs Ro
+ ck\, and A Lighter Side.  There’s a break for lunch\, stretch time\, Q&A
+ ’s\, a reception after the screenings\, a silent auction and raffle duri
+ ng the fest. Your ticket helps secure the future of Post Alley Film Festiv
+ al and provide a venue for women’s filmwork.  SCHEDULE10:30am - Doors 
+ open11:00am - Seating & welcome by Virginia Bogert\, PAFF Founder/Directo
+ r11:10am - Oh Mother12:30pm - Lunch Break1:35pm - Fantasy2:00pm - Choices
+ 3:10pm - Family Matters4:40pm - Docs Rock5:25pm - The Lighter Side6:45pm -
+  End of Festival6:45pm - 8:45pm Reception\n\nhttps://www.siff.net/cinema/i
+ n-theaters/post-alley-film-festival\n\nEstimated start: 11:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
