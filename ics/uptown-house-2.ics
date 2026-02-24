@@ -3,36 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260223T162656Z
-BEGIN:VEVENT
-SUMMARY:The Moment
-DTSTART:20260224T034500Z
-DTEND:20260224T055500Z
-DTSTAMP:20260224T034500Z
-UID:bmlEnlGvZd
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nA rising pop star navigates the 
- complexities of fame and industry pressure while preparing for her arena t
- our debut.\n\nhttps://www.siff.net/cinema/in-theaters/the-moment\n\nEstima
- ted start: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Oscar Shorts: Animated
-DTSTART:20260224T003500Z
-DTEND:20260224T030000Z
-DTSTAMP:20260224T003500Z
-UID:kWkXp2blWN
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\, 
- ShortsTV presents the Oscar-Nominated Short Films\, opening on February 20
- . With all three categories offered – Animated\, Live Action\, and Docum
- entary – this is your annual chance to predict the winners (and have the
-  edge in your Oscar pool)! A perennial hit with audiences around the count
- ry and the world\, don’t miss this year’s selection of shorts. The Aca
- demy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/i
- n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animati
- on\n\nEstimated start: 16:50
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260224T161745Z
 BEGIN:VEVENT
 SUMMARY:2026 Oscar Shorts: Live Action
 DTSTART:20260224T234500Z
@@ -130,6 +101,206 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nFor the 21st consecutive year\, S
  emy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/in
  -theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-live-act
  ion\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening Night: Rita & Endless Cookie
+DTSTART:20260228T030000Z
+DTEND:20260228T050000Z
+DTSTAMP:20260228T030000Z
+UID:k9k6vDBogJ
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nPresented by Sea Slug Animation 
+ Festival Kick off the festival with RITA\, an ode to a beloved snail of a 
+ grandmother\, and the Seattle premiere of ENDLESS COOKIE\, a vibey and psy
+ chedelic memoir/conversation/brotherly hangout from Canadian filmmakers Se
+ th and Peter Scriver.\n\nhttps://www.siff.net/cinema/in-theaters/sea-slug-
+ animation/opening-night-rita-and-endless-cookie\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shorts I: Emotional Support Buddies
+DTSTART:20260228T200000Z
+DTEND:20260228T213500Z
+DTSTAMP:20260228T200000Z
+UID:KO83Qqqg09
+DESCRIPTION:Duration: 77 mins (1h17m)\n\nPresented by Sea Slug Animation F
+ estival Stay silly\, charming\, and relatable in the face of this harsh li
+ fe. Filmmakers scheduled to attend a post-screening Q&A. Browse all shorts
+  in this package at seasluganimation.com.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/sea-slug-animation/shorts-i-emotional-support-buddies\n\nEstima
+ ted start: 12:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shorts II: Big Bizarro
+DTSTART:20260301T000000Z
+DTEND:20260301T013000Z
+DTSTAMP:20260301T000000Z
+UID:AJaYGAxgld
+DESCRIPTION:Duration: 74 mins (1h14m)\n\nPresented by Sea Slug Animation F
+ estival  Give in to these dark\, wild\, and supremely kooky fantasies. Br
+ owse all shorts in this package at seasluganimation.com.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/sea-slug-animation/shorts-ii-big-bizarro\n\nEsti
+ mated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Retrospective Spotlight: Dédé (Ancestor) & Son of the White Mare
+DTSTART:20260301T030000Z
+DTEND:20260301T045000Z
+DTSTAMP:20260301T030000Z
+UID:nGhvaFfNiq
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nPresented by Sea Slug Animation F
+ estival  Delve into the Ivory Coast’s feminine cosmology through DÉDÉ
+  (ANCESTOR) before flying off into the psychedelic folklore of SON OF THE 
+ WHITE MARE—one of the greatest animated films of all time\, now restored
+  in 4K from the original 35mm camera negative and sound elements.\n\nhttps
+ ://www.siff.net/cinema/in-theaters/sea-slug-animation/retrospective-spotli
+ ght-dede-(ancestor)-and-son-of-the-white-mare\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shorts III: Animation Altar
+DTSTART:20260301T200000Z
+DTEND:20260301T214000Z
+DTSTAMP:20260301T200000Z
+UID:cJUSnl9o2D
+DESCRIPTION:Duration: 81 mins (1h21m)\n\nPresented by Sea Slug Animation F
+ estival Be transformed. Be transfixed. Behold the power of animation. Brow
+ se all shorts in this package at seasluganimation.com.\n\nhttps://www.siff
+ .net/cinema/in-theaters/sea-slug-animation/shorts-iii-animation-altar\n\nE
+ stimated start: 12:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Furious Finale: No Room + ????
+DTSTART:20260302T000000Z
+DTEND:20260302T020500Z
+DTSTAMP:20260302T000000Z
+UID:x7frMiiLtq
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nPresented by Sea Slug Animation 
+ Festival An epic showdown to end it all: one short\, one secret feature. S
+ end off the Furious Edition at this high-energy finale where juried award 
+ winners will also be revealed!\n\nhttps://www.siff.net/cinema/in-theaters/
+ sea-slug-animation/furious-finale-no-room\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Oscar Shorts: Animated
+DTSTART:20260302T034500Z
+DTEND:20260302T061000Z
+DTSTAMP:20260302T034500Z
+UID:KMhNVZMJYp
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\, 
+ ShortsTV presents the Oscar-Nominated Short Films\, opening on February 20
+ . With all three categories offered – Animated\, Live Action\, and Docum
+ entary – this is your annual chance to predict the winners (and have the
+  edge in your Oscar pool)! A perennial hit with audiences around the count
+ ry and the world\, don’t miss this year’s selection of shorts. The Aca
+ demy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animati
+ on\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART:20260303T000000Z
+DTEND:20260303T024500Z
+DTSTAMP:20260303T000000Z
+UID:4sfirvqKMx
+DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
+  story set against the backdrop of the Yorkshire moors\, exploring the int
+ ense and destructive relationship between Heathcliff and Catherine Earnsha
+ w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
+ omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART:20260303T031500Z
+DTEND:20260303T060000Z
+DTSTAMP:20260303T031500Z
+UID:HV7WETd8ys
+DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
+  story set against the backdrop of the Yorkshire moors\, exploring the int
+ ense and destructive relationship between Heathcliff and Catherine Earnsha
+ w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
+ omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Oscar Shorts: Animated
+DTSTART:20260304T001500Z
+DTEND:20260304T024000Z
+DTSTAMP:20260304T001500Z
+UID:pZl4kRUb4U
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\, 
+ ShortsTV presents the Oscar-Nominated Short Films\, opening on February 20
+ . With all three categories offered – Animated\, Live Action\, and Docum
+ entary – this is your annual chance to predict the winners (and have the
+  edge in your Oscar pool)! A perennial hit with audiences around the count
+ ry and the world\, don’t miss this year’s selection of shorts. The Aca
+ demy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animati
+ on\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART:20260305T000000Z
+DTEND:20260305T024500Z
+DTSTAMP:20260305T000000Z
+UID:70TrpIyNVr
+DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
+  story set against the backdrop of the Yorkshire moors\, exploring the int
+ ense and destructive relationship between Heathcliff and Catherine Earnsha
+ w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
+ omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART:20260305T031500Z
+DTEND:20260305T060000Z
+DTSTAMP:20260305T031500Z
+UID:yVA1ULBAK5
+DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
+  story set against the backdrop of the Yorkshire moors\, exploring the int
+ ense and destructive relationship between Heathcliff and Catherine Earnsha
+ w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
+ omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART:20260306T000000Z
+DTEND:20260306T024500Z
+DTSTAMP:20260306T000000Z
+UID:Q3RZhfevF4
+DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
+  story set against the backdrop of the Yorkshire moors\, exploring the int
+ ense and destructive relationship between Heathcliff and Catherine Earnsha
+ w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
+ omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART:20260306T031500Z
+DTEND:20260306T060000Z
+DTSTAMP:20260306T031500Z
+UID:DZLgp4JgWq
+DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
+  story set against the backdrop of the Yorkshire moors\, exploring the int
+ ense and destructive relationship between Heathcliff and Catherine Earnsha
+ w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
+ omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
