@@ -3,22 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260225T162103Z
-BEGIN:VEVENT
-SUMMARY:McCabe and Mrs. Miller (1971)
-DTSTART:20260226T023000Z
-DTEND:20260226T044500Z
-DTSTAMP:20260226T023000Z
-UID:g3kXRX8kbN
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nThe Pacific Northwestern A feckl
- ess gambler and cockney madame become successful business partners in the 
- burgeoning town of Presbyterian Church\, WA\, but trouble arrives in the f
- orm of a monopolizing corporation in Robert Altman’s quintessential drea
- m western. Presented on 35mm courtesy of the Chicago Film Society.\n\nhttp
- s://www.siff.net/programs-and-events/the-pacific-northwestern/mccabe-and-m
- rs-miller\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260226T153756Z
 BEGIN:VEVENT
 SUMMARY:Suburban Fury
 DTSTART:20260228T003000Z
@@ -317,8 +302,9 @@ DESCRIPTION:Duration: 448 mins (7h28m)\n\nPresented by Women in Film Seatt
  open11:00am - Seating & welcome by Virginia Bogert\, PAFF Founder/Directo
  r11:10am - Oh Mother12:30pm - Lunch Break1:35pm - Fantasy2:00pm - Choices
  3:10pm - Family Matters4:40pm - Docs Rock5:25pm - The Lighter Side6:45pm -
-  End of Festival6:45pm - 8:45pm Reception\n\nhttps://www.siff.net/cinema/i
- n-theaters/post-alley-film-festival\n\nEstimated start: 11:15
+  End of Festival6:45pm - 8:45pm Reception Info on each film here\n\nhttps
+ ://www.siff.net/cinema/in-theaters/post-alley-film-festival\n\nEstimated s
+ tart: 11:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
