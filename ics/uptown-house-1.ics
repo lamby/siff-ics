@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260227T160021Z
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART:20260228T000000Z
-DTEND:20260228T024500Z
-DTSTAMP:20260228T000000Z
-UID:VsBPPByQbi
-DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
-  story set against the backdrop of the Yorkshire moors\, exploring the int
- ense and destructive relationship between Heathcliff and Catherine Earnsha
- w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
- omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
- f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART:20260228T032000Z
-DTEND:20260228T060500Z
-DTSTAMP:20260228T032000Z
-UID:SNFp8Fr5uv
-DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
-  story set against the backdrop of the Yorkshire moors\, exploring the int
- ense and destructive relationship between Heathcliff and Catherine Earnsha
- w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
- omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
- f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 19:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260228T162721Z
 BEGIN:VEVENT
 SUMMARY:Wuthering Heights
 DTSTART:20260228T201500Z
@@ -187,6 +159,32 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nMartin Scorsese: Maestro of Cine
  Keitel). People with“bad ideas” in the city of night. 50th anniversar
  y screening.\n\nhttps://www.siff.net/programs-and-events/martin-scorsese/t
  axi-driver\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirat
+DTSTART:20260306T003000Z
+DTEND:20260306T025000Z
+DTSTAMP:20260306T003000Z
+UID:XPYIRUR62s
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA winner of this year’s Cannes
+  Competition Jury Prize\, Sirât is at once a visceral and metaphysical ex
+ cursion\, in which a man desperately searches for his missing daughter ami
+ d a roving raver.\n\nhttps://www.siff.net/cinema/in-theaters/sirat\n\nEsti
+ mated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirat
+DTSTART:20260306T033000Z
+DTEND:20260306T055000Z
+DTSTAMP:20260306T033000Z
+UID:ZgwTwwThKR
+DESCRIPTION:Duration: 125 mins (2h05m)\n\nA winner of this year’s Cannes
+  Competition Jury Prize\, Sirât is at once a visceral and metaphysical ex
+ cursion\, in which a man desperately searches for his missing daughter ami
+ d a roving raver.\n\nhttps://www.siff.net/cinema/in-theaters/sirat\n\nEsti
+ mated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
