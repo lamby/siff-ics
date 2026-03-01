@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260228T162721Z
+LAST-MODIFIED:20260301T163756Z
 BEGIN:VEVENT
-SUMMARY:2026 Oscar Shorts: Animated
-DTSTART:20260228T210000Z
-DTEND:20260228T232500Z
-DTSTAMP:20260228T210000Z
-UID:Do7Viuep8h
+SUMMARY:2026 Oscar Shorts: Live Action
+DTSTART:20260301T204500Z
+DTEND:20260301T231000Z
+DTSTAMP:20260301T204500Z
+UID:w4yfavoaD8
 DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\, 
  ShortsTV presents the Oscar-Nominated Short Films\, opening on February 20
  . With all three categories offered – Animated\, Live Action\, and Docum
@@ -17,76 +17,25 @@ DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\,
   edge in your Oscar pool)! A perennial hit with audiences around the count
  ry and the world\, don’t miss this year’s selection of shorts. The Aca
  demy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/i
- n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animati
- on\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Oscar Shorts: Documentary
-DTSTART:20260228T233000Z
-DTEND:20260301T023500Z
-DTSTAMP:20260228T233000Z
-UID:LFykIZEPOo
-DESCRIPTION:Duration: 167 mins (2h47m)\n\nFor the 21st consecutive year\, 
- ShortsTV presents the Oscar-Nominated Short Films\, opening on February 20
- . With all three categories offered – Animated\, Live Action\, and Docum
- entary – this is your annual chance to predict the winners (and have the
-  edge in your Oscar pool)! A perennial hit with audiences around the count
- ry and the world\, don’t miss this year’s selection of shorts. The Aca
- demy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/i
- n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-documen
- tary\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Oscar Shorts: Live Action
-DTSTART:20260301T033000Z
-DTEND:20260301T052000Z
-DTSTAMP:20260301T033000Z
-UID:Oljc3FFJGH
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFor the 21st consecutive year\, S
- hortsTV presents the Oscar-Nominated Short Films\, opening on February 20.
-  With all three categories offered – Animated\, Live Action\, and Docume
- ntary – this is your annual chance to predict the winners (and have the 
- edge in your Oscar pool)! A perennial hit with audiences around the countr
- y and the world\, don’t miss this year’s selection of shorts. The Acad
- emy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/in
- -theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-live-act
- ion\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Oscar Shorts: Live Action
-DTSTART:20260301T204500Z
-DTEND:20260301T223500Z
-DTSTAMP:20260301T204500Z
-UID:w4yfavoaD8
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFor the 21st consecutive year\, S
- hortsTV presents the Oscar-Nominated Short Films\, opening on February 20.
-  With all three categories offered – Animated\, Live Action\, and Docume
- ntary – this is your annual chance to predict the winners (and have the 
- edge in your Oscar pool)! A perennial hit with audiences around the countr
- y and the world\, don’t miss this year’s selection of shorts. The Acad
- emy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/in
- -theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-live-act
- ion\n\nEstimated start: 13:00
+ n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-live-ac
+ tion\n\nEstimated start: 13:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Oscar Shorts: Animated
 DTSTART:20260302T001500Z
-DTEND:20260302T024000Z
+DTEND:20260302T020500Z
 DTSTAMP:20260302T001500Z
 UID:NONWwV8XqB
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\, 
- ShortsTV presents the Oscar-Nominated Short Films\, opening on February 20
- . With all three categories offered – Animated\, Live Action\, and Docum
- entary – this is your annual chance to predict the winners (and have the
-  edge in your Oscar pool)! A perennial hit with audiences around the count
- ry and the world\, don’t miss this year’s selection of shorts. The Aca
- demy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/i
- n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animati
- on\n\nEstimated start: 16:30
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFor the 21st consecutive year\, S
+ hortsTV presents the Oscar-Nominated Short Films\, opening on February 20.
+  With all three categories offered – Animated\, Live Action\, and Docume
+ ntary – this is your annual chance to predict the winners (and have the 
+ edge in your Oscar pool)! A perennial hit with audiences around the countr
+ y and the world\, don’t miss this year’s selection of shorts. The Acad
+ emy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/in
+ -theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animatio
+ n\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -109,26 +58,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Oscar Shorts: Live Action
 DTSTART:20260303T003000Z
-DTEND:20260303T022000Z
+DTEND:20260303T025500Z
 DTSTAMP:20260303T003000Z
 UID:fn86QLAYqQ
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFor the 21st consecutive year\, S
- hortsTV presents the Oscar-Nominated Short Films\, opening on February 20.
-  With all three categories offered – Animated\, Live Action\, and Docume
- ntary – this is your annual chance to predict the winners (and have the 
- edge in your Oscar pool)! A perennial hit with audiences around the countr
- y and the world\, don’t miss this year’s selection of shorts. The Acad
- emy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/in
- -theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-live-act
- ion\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Oscar Shorts: Animated
-DTSTART:20260303T034500Z
-DTEND:20260303T061000Z
-DTSTAMP:20260303T034500Z
-UID:EQGwYm17oZ
 DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\, 
  ShortsTV presents the Oscar-Nominated Short Films\, opening on February 20
  . With all three categories offered – Animated\, Live Action\, and Docum
@@ -136,8 +68,25 @@ DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\,
   edge in your Oscar pool)! A perennial hit with audiences around the count
  ry and the world\, don’t miss this year’s selection of shorts. The Aca
  demy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/i
- n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animati
- on\n\nEstimated start: 20:00
+ n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-live-ac
+ tion\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Oscar Shorts: Animated
+DTSTART:20260303T034500Z
+DTEND:20260303T053500Z
+DTSTAMP:20260303T034500Z
+UID:EQGwYm17oZ
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFor the 21st consecutive year\, S
+ hortsTV presents the Oscar-Nominated Short Films\, opening on February 20.
+  With all three categories offered – Animated\, Live Action\, and Docume
+ ntary – this is your annual chance to predict the winners (and have the 
+ edge in your Oscar pool)! A perennial hit with audiences around the countr
+ y and the world\, don’t miss this year’s selection of shorts. The Acad
+ emy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/in
+ -theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animatio
+ n\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -160,26 +109,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Oscar Shorts: Live Action
 DTSTART:20260304T033000Z
-DTEND:20260304T052000Z
+DTEND:20260304T055500Z
 DTSTAMP:20260304T033000Z
 UID:sL9Jn1Ku4A
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nFor the 21st consecutive year\, S
- hortsTV presents the Oscar-Nominated Short Films\, opening on February 20.
-  With all three categories offered – Animated\, Live Action\, and Docume
- ntary – this is your annual chance to predict the winners (and have the 
- edge in your Oscar pool)! A perennial hit with audiences around the countr
- y and the world\, don’t miss this year’s selection of shorts. The Acad
- emy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/in
- -theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-live-act
- ion\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Oscar Shorts: Animated
-DTSTART:20260305T003000Z
-DTEND:20260305T025500Z
-DTSTAMP:20260305T003000Z
-UID:w0r4lyDLIf
 DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\, 
  ShortsTV presents the Oscar-Nominated Short Films\, opening on February 20
  . With all three categories offered – Animated\, Live Action\, and Docum
@@ -187,8 +119,25 @@ DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\,
   edge in your Oscar pool)! A perennial hit with audiences around the count
  ry and the world\, don’t miss this year’s selection of shorts. The Aca
  demy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/i
- n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animati
- on\n\nEstimated start: 16:45
+ n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-live-ac
+ tion\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Oscar Shorts: Animated
+DTSTART:20260305T003000Z
+DTEND:20260305T022000Z
+DTSTAMP:20260305T003000Z
+UID:w0r4lyDLIf
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFor the 21st consecutive year\, S
+ hortsTV presents the Oscar-Nominated Short Films\, opening on February 20.
+  With all three categories offered – Animated\, Live Action\, and Docume
+ ntary – this is your annual chance to predict the winners (and have the 
+ edge in your Oscar pool)! A perennial hit with audiences around the countr
+ y and the world\, don’t miss this year’s selection of shorts. The Acad
+ emy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/in
+ -theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animatio
+ n\n\nEstimated start: 16:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -228,18 +177,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Oscar Shorts: Animated
 DTSTART:20260306T034500Z
-DTEND:20260306T061000Z
+DTEND:20260306T053500Z
 DTSTAMP:20260306T034500Z
 UID:xRYOj9Wsph
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nFor the 21st consecutive year\, 
- ShortsTV presents the Oscar-Nominated Short Films\, opening on February 20
- . With all three categories offered – Animated\, Live Action\, and Docum
- entary – this is your annual chance to predict the winners (and have the
-  edge in your Oscar pool)! A perennial hit with audiences around the count
- ry and the world\, don’t miss this year’s selection of shorts. The Aca
- demy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/i
- n-theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animati
- on\n\nEstimated start: 20:00
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nFor the 21st consecutive year\, S
+ hortsTV presents the Oscar-Nominated Short Films\, opening on February 20.
+  With all three categories offered – Animated\, Live Action\, and Docume
+ ntary – this is your annual chance to predict the winners (and have the 
+ edge in your Oscar pool)! A perennial hit with audiences around the countr
+ y and the world\, don’t miss this year’s selection of shorts. The Acad
+ emy Awards take place Sunday\, March 15.\n\nhttps://www.siff.net/cinema/in
+ -theaters/2026-oscar-nominated-shorts/2026-oscar-nominated-shorts-animatio
+ n\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
