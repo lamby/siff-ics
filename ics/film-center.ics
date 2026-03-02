@@ -3,51 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260301T163756Z
-BEGIN:VEVENT
-SUMMARY:Dead Man (1995)
-DTSTART:20260301T211500Z
-DTEND:20260301T233500Z
-DTSTAMP:20260301T211500Z
-UID:A7kK2af4rJ
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nThe Pacific Northwestern Circums
- tances transform a mild mannered accountant into a notorious gunslinger in
-  Jim Jarmusch’s quintessential psychedelic western\, an odyssey from the
-  arid desert of the Southwest to the rugged coast of the Pacific Northwest
- .\n\nhttps://www.siff.net/programs-and-events/the-pacific-northwestern/dea
- d-man\n\nEstimated start: 13:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suburban Fury
-DTSTART:20260302T003000Z
-DTEND:20260302T025500Z
-DTSTAMP:20260302T003000Z
-UID:C8V5JRb8bR
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
- or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
- of Sara Jane Moore\, the FBI informant and single mother who tried to assa
- ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
- m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
- ruary 27 7:30pm screening.\n\nhttps://www.siff.net/cinema/in-theaters/subu
- rban-fury\n\nEstimated start: 16:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suburban Fury
-DTSTART:20260302T033000Z
-DTEND:20260302T055500Z
-DTSTAMP:20260302T033000Z
-UID:IiDsGdOjLH
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
- or (Zoo\, Pow Wow) returns to SIFF with this outré and probing biography 
- of Sara Jane Moore\, the FBI informant and single mother who tried to assa
- ssinate President Gerald Ford in 1975\, as told in her own words. Post-fil
- m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
- ruary 27 7:30pm screening.\n\nhttps://www.siff.net/cinema/in-theaters/subu
- rban-fury\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260302T160630Z
 BEGIN:VEVENT
 SUMMARY:Suburban Fury
 DTSTART:20260303T003000Z
@@ -166,6 +122,123 @@ DESCRIPTION:Duration: 128 mins (2h08m)\n\nLocal documentarian Robinson Dev
  m Q&A with director Robinson Devor and producer Jason Reid on Friday\, Feb
  ruary 27 7:30pm screening.\n\nhttps://www.siff.net/cinema/in-theaters/subu
  rban-fury\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Poet
+DTSTART:20260307T003000Z
+DTEND:20260307T025500Z
+DTSTAMP:20260307T003000Z
+UID:4QhUX7j9v8
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
+ s a talented teen\, hoping to give her what he never had. But their bond 
+ — rooted in good intentions — spirals into a web of poor decisions and
+  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
+ /a-poet\n\nEstimated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Poet
+DTSTART:20260307T033000Z
+DTEND:20260307T055500Z
+DTSTAMP:20260307T033000Z
+UID:e4n0EJg4N7
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
+ s a talented teen\, hoping to give her what he never had. But their bond 
+ — rooted in good intentions — spirals into a web of poor decisions and
+  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
+ /a-poet\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Poet
+DTSTART:20260307T213000Z
+DTEND:20260307T235500Z
+DTSTAMP:20260307T213000Z
+UID:yLJlau65N6
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
+ s a talented teen\, hoping to give her what he never had. But their bond 
+ — rooted in good intentions — spirals into a web of poor decisions and
+  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
+ /a-poet\n\nEstimated start: 13:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Poet
+DTSTART:20260308T003000Z
+DTEND:20260308T025500Z
+DTSTAMP:20260308T003000Z
+UID:I3Vkn6IMG0
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
+ s a talented teen\, hoping to give her what he never had. But their bond 
+ — rooted in good intentions — spirals into a web of poor decisions and
+  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
+ /a-poet\n\nEstimated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Poet
+DTSTART:20260308T033000Z
+DTEND:20260308T055500Z
+DTSTAMP:20260308T033000Z
+UID:GLWAo3iUVu
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
+ s a talented teen\, hoping to give her what he never had. But their bond 
+ — rooted in good intentions — spirals into a web of poor decisions and
+  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
+ /a-poet\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Poet
+DTSTART:20260308T193000Z
+DTEND:20260308T215500Z
+DTSTAMP:20260308T193000Z
+UID:23auS4RLrn
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
+ s a talented teen\, hoping to give her what he never had. But their bond 
+ — rooted in good intentions — spirals into a web of poor decisions and
+  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
+ /a-poet\n\nEstimated start: 12:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Poet
+DTSTART:20260308T223000Z
+DTEND:20260309T005500Z
+DTSTAMP:20260308T223000Z
+UID:SDuApYhJyj
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
+ s a talented teen\, hoping to give her what he never had. But their bond 
+ — rooted in good intentions — spirals into a web of poor decisions and
+  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
+ /a-poet\n\nEstimated start: 15:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Poet
+DTSTART:20260309T233000Z
+DTEND:20260310T015500Z
+DTSTAMP:20260309T233000Z
+UID:qjrsJghQis
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
+ s a talented teen\, hoping to give her what he never had. But their bond 
+ — rooted in good intentions — spirals into a web of poor decisions and
+  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
+ /a-poet\n\nEstimated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Poet
+DTSTART:20260310T023000Z
+DTEND:20260310T045500Z
+DTSTAMP:20260310T023000Z
+UID:kbE2B5xwXO
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
+ s a talented teen\, hoping to give her what he never had. But their bond 
+ — rooted in good intentions — spirals into a web of poor decisions and
+  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
+ /a-poet\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
