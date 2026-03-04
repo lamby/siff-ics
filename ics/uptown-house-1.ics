@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260303T163300Z
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART:20260304T000000Z
-DTEND:20260304T024500Z
-DTSTAMP:20260304T000000Z
-UID:ohxoY0qhLA
-DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
-  story set against the backdrop of the Yorkshire moors\, exploring the int
- ense and destructive relationship between Heathcliff and Catherine Earnsha
- w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
- omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
- f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART:20260304T031500Z
-DTEND:20260304T060000Z
-DTSTAMP:20260304T031500Z
-UID:C4YLIDKKti
-DESCRIPTION:Duration: 146 mins (2h26m)\n\nA passionate and tumultuous love
-  story set against the backdrop of the Yorkshire moors\, exploring the int
- ense and destructive relationship between Heathcliff and Catherine Earnsha
- w. Writer-director Emerald Fennell’s take on Emily Brontë‘s gothic r
- omance novel\, starring Margot Robbie and Jacob Elordi.\n\nhttps://www.sif
- f.net/cinema/in-theaters/wuthering-heights\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260304T164733Z
 BEGIN:VEVENT
 SUMMARY:2026 Oscar Shorts: Live Action
 DTSTART:20260305T001500Z
@@ -645,6 +617,21 @@ DESCRIPTION:Duration: 126 mins (2h06m)\n\nSIFF Movie Club One of cinema's
  s and become wrenched apart by vicious slave traders.\n\nhttps://www.siff.
  net/programs-and-events/siff-movie-club/sansho-the-bailiff\n\nEstimated st
  art: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velvet Goldmine (1998)
+DTSTART:20260602T013000Z
+DTEND:20260602T031500Z
+DTSTAMP:20260602T013000Z
+UID:BYmIDtKVIl
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nSIFF Movie Club It’s been 10 ye
+ ars since glam-rock superstar Brian Slade (Jonathan Rhys Myers) faked his 
+ own death and vanished from the spotlight. Now\, it’s the job of investi
+ gative reporter Arthur Stuart (Christian Bale) to locate this living legen
+ d and uncover the truth behind his disappearance.\n\nhttps://www.siff.net/
+ programs-and-events/siff-movie-club/velvet-goldmine\n\nEstimated start: 18
+ :45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
