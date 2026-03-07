@@ -3,46 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20260306T165037Z
-BEGIN:VEVENT
-SUMMARY:The Bride!
-DTSTART:20260306T231000Z
-DTEND:20260307T014500Z
-DTSTAMP:20260306T231000Z
-UID:qG4lirZHm0
-DESCRIPTION:Duration: 136 mins (2h16m)\n\nIn 1930s Chicago\, groundbreakin
- g scientist Dr. Euphronious brings a murdered young woman back to life to 
- be a companion for Frankenstein's monster. What happens next is beyond wha
- t either of them could ever have imagined.\n\nhttps://www.siff.net/cinema/
- in-theaters/the-bride\n\nEstimated start: 15:25
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bride!
-DTSTART:20260307T022500Z
-DTEND:20260307T050000Z
-DTSTAMP:20260307T022500Z
-UID:bUiT2j976B
-DESCRIPTION:Duration: 136 mins (2h16m)\n\nIn 1930s Chicago\, groundbreakin
- g scientist Dr. Euphronious brings a murdered young woman back to life to 
- be a companion for Frankenstein's monster. What happens next is beyond wha
- t either of them could ever have imagined.\n\nhttps://www.siff.net/cinema/
- in-theaters/the-bride\n\nEstimated start: 18:40
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bride!
-DTSTART:20260307T054000Z
-DTEND:20260307T081500Z
-DTSTAMP:20260307T054000Z
-UID:UmcgBFlreW
-DESCRIPTION:Duration: 136 mins (2h16m)\n\nIn 1930s Chicago\, groundbreakin
- g scientist Dr. Euphronious brings a murdered young woman back to life to 
- be a companion for Frankenstein's monster. What happens next is beyond wha
- t either of them could ever have imagined.\n\nhttps://www.siff.net/cinema/
- in-theaters/the-bride\n\nEstimated start: 21:55
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20260307T165850Z
 BEGIN:VEVENT
 SUMMARY:The Bride!
 DTSTART:20260307T200000Z
@@ -528,8 +489,8 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nCommunity Screenings Screwball s
  parks fly when Cary Grant and Katharine Hepburn let loose in one of the fa
  stest and funniest films ever made—a high-wire act of invention that too
  k American screen comedy to new heights of absurdity.\n\nhttps://www.siff.
- net/programs-and-events/sliding-scale-community-screenings/bringing-up-bab
- y\n\nEstimated start: 12:00
+ net/programs-and-events/community-screenings/bringing-up-baby\n\nEstimated
+  start: 12:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -656,6 +617,21 @@ DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
  o uncover his mission: solve the riddle of the mysterious substance causin
  g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
  ail-mary\n\nEstimated start: 21:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meet Me in St. Louis (1944)
+DTSTART:20260426T180000Z
+DTEND:20260426T202000Z
+DTSTAMP:20260426T180000Z
+UID:kZbEf0IxSn
+DESCRIPTION:Duration: 123 mins (2h03m)\n\nCommunity ScreeningsIn turn of t
+ he century St. Louis\, Judy Garland sings about trollies and pines for “
+ Boy Next Door” Tom Drake\, Margaret O’Brien braves the terrors of Hall
+ oween\, Mom Mary Astor looks lovely in Technicolored middle-age\, and Dad 
+ Leon Ames debates taking that Gotham job as the 1903 World’s Fair beckon
+ s.\n\nhttps://www.siff.net/programs-and-events/community-screenings/meet-m
+ e-in-st-louis\n\nEstimated start: 11:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 END:VCALENDAR

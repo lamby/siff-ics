@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260306T165037Z
-BEGIN:VEVENT
-SUMMARY:A Poet
-DTSTART:20260307T003000Z
-DTEND:20260307T025500Z
-DTSTAMP:20260307T003000Z
-UID:4QhUX7j9v8
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
- s a talented teen\, hoping to give her what he never had. But their bond 
- — rooted in good intentions — spirals into a web of poor decisions and
-  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
- /a-poet\n\nEstimated start: 16:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Poet
-DTSTART:20260307T033000Z
-DTEND:20260307T055500Z
-DTSTAMP:20260307T033000Z
-UID:e4n0EJg4N7
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
- s a talented teen\, hoping to give her what he never had. But their bond 
- — rooted in good intentions — spirals into a web of poor decisions and
-  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
- /a-poet\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260307T165850Z
 BEGIN:VEVENT
 SUMMARY:A Poet
 DTSTART:20260307T213000Z
@@ -161,6 +135,25 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nStage to Screen Olivier Award-wi
  med and subversively funny new play by David Ireland.\n\nhttps://www.siff.
  net/programs-and-events/stage-to-screen/nt-live-the-fifth-step\n\nEstimate
  d start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Generations (2020)
+DTSTART:20260320T020000Z
+DTEND:20260320T033500Z
+DTSTAMP:20260320T020000Z
+UID:jfYEq3gFQE
+DESCRIPTION:Duration: 77 mins (1h17m)\n\nPresented by Mount Analogue • 
+ Art + Cinema with Tacoma Art Museum and Seattle Documentary AssociationCom
+ posed of scenes of coal power plants and their surrounding environments\, 
+ Generations was filmed throughout the United States between 2017 to 2019. 
+ The film consists of twelve static single-shot tableaus depicting people d
+ oing everyday activities while living in the shadow of massive power-gener
+ ating stations.Post-film Q&A with director Lynne Siefert and Tacoma Art Mu
+ seum curator Ellen Ito.World Premiere at the 70th Berlin International Fil
+ m Festival"a rigorous wonder of sound design and interpretative possibilit
+ y" — MUBI\n\nhttps://www.siff.net/cinema/in-theaters/generations\n\nEsti
+ mated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
