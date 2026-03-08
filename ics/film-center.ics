@@ -3,46 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260307T165850Z
-BEGIN:VEVENT
-SUMMARY:A Poet
-DTSTART:20260307T213000Z
-DTEND:20260307T235500Z
-DTSTAMP:20260307T213000Z
-UID:yLJlau65N6
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
- s a talented teen\, hoping to give her what he never had. But their bond 
- — rooted in good intentions — spirals into a web of poor decisions and
-  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
- /a-poet\n\nEstimated start: 13:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Poet
-DTSTART:20260308T003000Z
-DTEND:20260308T025500Z
-DTSTAMP:20260308T003000Z
-UID:I3Vkn6IMG0
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
- s a talented teen\, hoping to give her what he never had. But their bond 
- — rooted in good intentions — spirals into a web of poor decisions and
-  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
- /a-poet\n\nEstimated start: 16:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Poet
-DTSTART:20260308T033000Z
-DTEND:20260308T055500Z
-DTSTAMP:20260308T033000Z
-UID:GLWAo3iUVu
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
- s a talented teen\, hoping to give her what he never had. But their bond 
- — rooted in good intentions — spirals into a web of poor decisions and
-  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
- /a-poet\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260308T154645Z
 BEGIN:VEVENT
 SUMMARY:A Poet
 DTSTART:20260308T193000Z
