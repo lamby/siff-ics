@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260309T160823Z
-BEGIN:VEVENT
-SUMMARY:A Poet
-DTSTART:20260309T233000Z
-DTEND:20260310T015500Z
-DTSTAMP:20260309T233000Z
-UID:qjrsJghQis
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
- s a talented teen\, hoping to give her what he never had. But their bond 
- — rooted in good intentions — spirals into a web of poor decisions and
-  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
- /a-poet\n\nEstimated start: 16:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Poet
-DTSTART:20260310T023000Z
-DTEND:20260310T045500Z
-DTSTAMP:20260310T023000Z
-UID:kbE2B5xwXO
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nAn aging\, obscure writer mentor
- s a talented teen\, hoping to give her what he never had. But their bond 
- — rooted in good intentions — spirals into a web of poor decisions and
-  the weight of unmet ambitions.\n\nhttps://www.siff.net/cinema/in-theaters
- /a-poet\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260310T133827Z
 BEGIN:VEVENT
 SUMMARY:NT Live: The Fifth Step
 DTSTART:20260314T210000Z
