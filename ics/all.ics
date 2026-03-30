@@ -3,73 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20260329T161822Z
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260329T191500Z
-DTEND:20260329T222000Z
-DTSTAMP:20260329T191500Z
-UID:ob2QKHJBLq
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 12:30
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260329T230000Z
-DTEND:20260330T020500Z
-DTSTAMP:20260329T230000Z
-UID:YEPxhr3iyH
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260330T024500Z
-DTEND:20260330T055000Z
-DTSTAMP:20260330T024500Z
-UID:bdPg5rV0SN
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha
-DTSTART:20260330T003000Z
-DTEND:20260330T030500Z
-DTSTAMP:20260330T003000Z
-UID:pbU5WltCWN
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nLife swiftly starts to unravel f
- or Alpha and her single mom after the rebellious 13-year-old comes home wi
- th a stick-and-poke tattoo made with a used needle…\n\nhttps://www.siff.
- net/cinema/in-theaters/alpha\n\nEstimated start: 17:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha
-DTSTART:20260330T020000Z
-DTEND:20260330T043500Z
-DTSTAMP:20260330T020000Z
-UID:MPx1xLyLtw
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nLife swiftly starts to unravel f
- or Alpha and her single mom after the rebellious 13-year-old comes home wi
- th a stick-and-poke tattoo made with a used needle…\n\nhttps://www.siff.
- net/cinema/in-theaters/alpha\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260330T161925Z
 BEGIN:VEVENT
 SUMMARY:Bushido
 DTSTART:20260330T230000Z
