@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260330T161925Z
-BEGIN:VEVENT
-SUMMARY:Alpha
-DTSTART:20260330T231500Z
-DTEND:20260331T015000Z
-DTSTAMP:20260330T231500Z
-UID:Sr1yJ1kn8f
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nLife swiftly starts to unravel f
- or Alpha and her single mom after the rebellious 13-year-old comes home wi
- th a stick-and-poke tattoo made with a used needle…\n\nhttps://www.siff.
- net/cinema/in-theaters/alpha\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha
-DTSTART:20260331T023000Z
-DTEND:20260331T050500Z
-DTSTAMP:20260331T023000Z
-UID:wG6hAnt6Z0
-DESCRIPTION:Duration: 138 mins (2h18m)\n\nLife swiftly starts to unravel f
- or Alpha and her single mom after the rebellious 13-year-old comes home wi
- th a stick-and-poke tattoo made with a used needle…\n\nhttps://www.siff.
- net/cinema/in-theaters/alpha\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260331T153503Z
 BEGIN:VEVENT
 SUMMARY:Alpha
 DTSTART:20260331T231500Z
@@ -200,6 +176,19 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Miroirs No. 3
+DTSTART:20260406T230000Z
+DTEND:20260407T005500Z
+DTSTAMP:20260406T230000Z
+UID:OdF4J4ekpo
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
+ beautifully crafted new film stars Paula Beer as a pianist from Berlin who
+ ’s taken in by a mysterious woman in an isolated country house after sur
+ viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
+ oirs-no-3\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cleo From 5 to 7 (1962)
 DTSTART:20260407T013000Z
 DTEND:20260407T031500Z
@@ -234,6 +223,19 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put
  to the test when an unexpected turn sends their wedding week off the rails
  .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
   19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miroirs No. 3
+DTSTART:20260408T234500Z
+DTEND:20260409T014000Z
+DTSTAMP:20260408T234500Z
+UID:6SGYv36qJR
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
+ beautifully crafted new film stars Paula Beer as a pianist from Berlin who
+ ’s taken in by a mysterious woman in an isolated country house after sur
+ viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
+ oirs-no-3\n\nEstimated start: 17:00
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

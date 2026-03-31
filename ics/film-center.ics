@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260330T161925Z
+LAST-MODIFIED:20260331T153503Z
 BEGIN:VEVENT
 SUMMARY:Palestine 36
 DTSTART:20260403T231500Z
@@ -58,6 +58,19 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palestine 36
+DTSTART:20260405T011500Z
+DTEND:20260405T034000Z
+DTSTAMP:20260405T011500Z
+UID:OE4h1MvAtH
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nFilmmaker Annemarie Jacir takes 
+ us back to Palestine in the 1930s\, charting the lives and ambitions of th
+ ose living under British rule. Jeremy Irons and Hiam Abbass round out a tr
+ emendously strong international cast.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/palestine-36\n\nEstimated start: 18:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Palestine 36
 DTSTART:20260405T191500Z
 DTEND:20260405T214000Z
 DTSTAMP:20260405T191500Z
@@ -105,8 +118,9 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
  ing because he didn’t get a colonoscopy. His sobering diagnosis\, comple
  te irreverence\, and insatiable curiosity\, send him on an unexpected jour
  ney learning how to die happily and ridiculously without losing his sense 
- of humor.\n\nhttps://www.siff.net/cinema/in-theaters/andre-is-an-idiot\n\n
- Estimated start: 17:15
+ of humor. Q&A following the 7:30pm screening on April 10 with Lee Einhorn
+  (Executive Producer and Co-subject)\n\nhttps://www.siff.net/cinema/in-the
+ aters/andre-is-an-idiot\n\nEstimated start: 17:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -119,8 +133,9 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
  ing because he didn’t get a colonoscopy. His sobering diagnosis\, comple
  te irreverence\, and insatiable curiosity\, send him on an unexpected jour
  ney learning how to die happily and ridiculously without losing his sense 
- of humor.\n\nhttps://www.siff.net/cinema/in-theaters/andre-is-an-idiot\n\n
- Estimated start: 19:45
+ of humor. Q&A following the 7:30pm screening on April 10 with Lee Einhorn
+  (Executive Producer and Co-subject)\n\nhttps://www.siff.net/cinema/in-the
+ aters/andre-is-an-idiot\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -133,8 +148,9 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
  ing because he didn’t get a colonoscopy. His sobering diagnosis\, comple
  te irreverence\, and insatiable curiosity\, send him on an unexpected jour
  ney learning how to die happily and ridiculously without losing his sense 
- of humor.\n\nhttps://www.siff.net/cinema/in-theaters/andre-is-an-idiot\n\n
- Estimated start: 12:15
+ of humor. Q&A following the 7:30pm screening on April 10 with Lee Einhorn
+  (Executive Producer and Co-subject)\n\nhttps://www.siff.net/cinema/in-the
+ aters/andre-is-an-idiot\n\nEstimated start: 12:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -147,8 +163,9 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
  ing because he didn’t get a colonoscopy. His sobering diagnosis\, comple
  te irreverence\, and insatiable curiosity\, send him on an unexpected jour
  ney learning how to die happily and ridiculously without losing his sense 
- of humor.\n\nhttps://www.siff.net/cinema/in-theaters/andre-is-an-idiot\n\n
- Estimated start: 14:45
+ of humor. Q&A following the 7:30pm screening on April 10 with Lee Einhorn
+  (Executive Producer and Co-subject)\n\nhttps://www.siff.net/cinema/in-the
+ aters/andre-is-an-idiot\n\nEstimated start: 14:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -161,8 +178,9 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
  ing because he didn’t get a colonoscopy. His sobering diagnosis\, comple
  te irreverence\, and insatiable curiosity\, send him on an unexpected jour
  ney learning how to die happily and ridiculously without losing his sense 
- of humor.\n\nhttps://www.siff.net/cinema/in-theaters/andre-is-an-idiot\n\n
- Estimated start: 17:15
+ of humor. Q&A following the 7:30pm screening on April 10 with Lee Einhorn
+  (Executive Producer and Co-subject)\n\nhttps://www.siff.net/cinema/in-the
+ aters/andre-is-an-idiot\n\nEstimated start: 17:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -175,8 +193,9 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
  ing because he didn’t get a colonoscopy. His sobering diagnosis\, comple
  te irreverence\, and insatiable curiosity\, send him on an unexpected jour
  ney learning how to die happily and ridiculously without losing his sense 
- of humor.\n\nhttps://www.siff.net/cinema/in-theaters/andre-is-an-idiot\n\n
- Estimated start: 19:45
+ of humor. Q&A following the 7:30pm screening on April 10 with Lee Einhorn
+  (Executive Producer and Co-subject)\n\nhttps://www.siff.net/cinema/in-the
+ aters/andre-is-an-idiot\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -189,8 +208,9 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
  ing because he didn’t get a colonoscopy. His sobering diagnosis\, comple
  te irreverence\, and insatiable curiosity\, send him on an unexpected jour
  ney learning how to die happily and ridiculously without losing his sense 
- of humor.\n\nhttps://www.siff.net/cinema/in-theaters/andre-is-an-idiot\n\n
- Estimated start: 17:15
+ of humor. Q&A following the 7:30pm screening on April 10 with Lee Einhorn
+  (Executive Producer and Co-subject)\n\nhttps://www.siff.net/cinema/in-the
+ aters/andre-is-an-idiot\n\nEstimated start: 17:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -203,8 +223,9 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
  ing because he didn’t get a colonoscopy. His sobering diagnosis\, comple
  te irreverence\, and insatiable curiosity\, send him on an unexpected jour
  ney learning how to die happily and ridiculously without losing his sense 
- of humor.\n\nhttps://www.siff.net/cinema/in-theaters/andre-is-an-idiot\n\n
- Estimated start: 19:45
+ of humor. Q&A following the 7:30pm screening on April 10 with Lee Einhorn
+  (Executive Producer and Co-subject)\n\nhttps://www.siff.net/cinema/in-the
+ aters/andre-is-an-idiot\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
