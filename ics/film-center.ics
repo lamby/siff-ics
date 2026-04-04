@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260402T161723Z
-BEGIN:VEVENT
-SUMMARY:Palestine 36
-DTSTART:20260403T231500Z
-DTEND:20260404T014000Z
-DTSTAMP:20260403T231500Z
-UID:QnQ9j4g6EG
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nFilmmaker Annemarie Jacir takes 
- us back to Palestine in the 1930s\, charting the lives and ambitions of th
- ose living under British rule. Jeremy Irons and Hiam Abbass round out a tr
- emendously strong international cast.\n\nhttps://www.siff.net/cinema/in-th
- eaters/palestine-36\n\nEstimated start: 16:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Palestine 36
-DTSTART:20260404T021500Z
-DTEND:20260404T044000Z
-DTSTAMP:20260404T021500Z
-UID:sMMlKa52Hq
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nFilmmaker Annemarie Jacir takes 
- us back to Palestine in the 1930s\, charting the lives and ambitions of th
- ose living under British rule. Jeremy Irons and Hiam Abbass round out a tr
- emendously strong international cast.\n\nhttps://www.siff.net/cinema/in-th
- eaters/palestine-36\n\nEstimated start: 19:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260404T142838Z
 BEGIN:VEVENT
 SUMMARY:Palestine 36
 DTSTART:20260404T191500Z
@@ -196,6 +170,21 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
  of humor. Q&A following the 7:30pm screening on April 10 with Lee Einhorn
   (Executive Producer and Co-subject)\n\nhttps://www.siff.net/cinema/in-the
  aters/andre-is-an-idiot\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Films of Joost Rekveld
+DTSTART:20260412T210000Z
+DTEND:20260412T224000Z
+DTSTAMP:20260412T210000Z
+UID:WmD86PmLGG
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nPresented by Mount Analogue • A
+ rt + Cinema with the On Site Moving Image Series at Mini Mart City Park an
+ d the Interbay Cinema SocietySix films by visionary Dutch artist Joost Rek
+ veld\, who has been exploring the inner depths and outer reaches of optica
+ l expression at the nexus of technology and natural phenomena\, producing 
+ a body of astonishing works of mesmerizing abstraction.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/films-of-joost-rekveld\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
