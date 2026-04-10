@@ -3,39 +3,73 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260406T170611Z
+LAST-MODIFIED:20260410T122133Z
 BEGIN:VEVENT
-SUMMARY:Miroirs No. 3
-DTSTART:20260406T230000Z
-DTEND:20260407T005500Z
-DTSTAMP:20260406T230000Z
-UID:OdF4J4ekpo
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
- beautifully crafted new film stars Paula Beer as a pianist from Berlin who
- ’s taken in by a mysterious woman in an isolated country house after sur
- viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
- oirs-no-3\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cleo From 5 to 7 (1962)
-DTSTART:20260407T013000Z
-DTEND:20260407T031500Z
-DTSTAMP:20260407T013000Z
-UID:B8hVdQ4Xa9
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nSIFF Movie Club Agnès Varda eloq
- uently captures Paris in the sixties with this real-time portrait of a sin
- ger (Corinne Marchand) set adrift in the city as she awaits test results o
- f a biopsy.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/cl
- eo-from-5-to-7\n\nEstimated start: 18:45
+SUMMARY:The Drama
+DTSTART:20260410T234000Z
+DTEND:20260411T015500Z
+DTSTAMP:20260410T234000Z
+UID:yvjVNXLo4t
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  16:55
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Drama
-DTSTART:20260407T231000Z
-DTEND:20260408T012500Z
-DTSTAMP:20260407T231000Z
-UID:WDCo0bYyr5
+DTSTART:20260411T023000Z
+DTEND:20260411T044500Z
+DTSTAMP:20260411T023000Z
+UID:W2Rv3Rwilv
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260412T204500Z
+DTEND:20260412T230000Z
+DTSTAMP:20260412T204500Z
+UID:iv5ZTR47aK
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  14:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260412T234000Z
+DTEND:20260413T015500Z
+DTSTAMP:20260412T234000Z
+UID:gyk3TJhY0F
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  16:55
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260413T023000Z
+DTEND:20260413T044500Z
+DTSTAMP:20260413T023000Z
+UID:QD8HprUbV4
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260413T231000Z
+DTEND:20260414T012500Z
+DTSTAMP:20260413T231000Z
+UID:8pjW4hLwbQ
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
  to the test when an unexpected turn sends their wedding week off the rails
  .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
@@ -44,10 +78,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Drama
-DTSTART:20260408T020000Z
-DTEND:20260408T041500Z
-DTSTAMP:20260408T020000Z
-UID:X4QFGZSaXD
+DTSTART:20260414T020000Z
+DTEND:20260414T041500Z
+DTSTAMP:20260414T020000Z
+UID:hxuu9lCO8T
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
  to the test when an unexpected turn sends their wedding week off the rails
  .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
@@ -55,56 +89,15 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miroirs No. 3
-DTSTART:20260408T234500Z
-DTEND:20260409T014000Z
-DTSTAMP:20260408T234500Z
-UID:6SGYv36qJR
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
- beautifully crafted new film stars Paula Beer as a pianist from Berlin who
- ’s taken in by a mysterious woman in an isolated country house after sur
- viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
- oirs-no-3\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Casino (1995)
-DTSTART:20260409T023000Z
-DTEND:20260409T054500Z
-DTSTAMP:20260409T023000Z
-UID:QM66mHHrNl
-DESCRIPTION:Duration: 179 mins (2h59m)\n\nMartin Scorsese: Maestro of Cine
- ma Juicy\, over the top\, deliciously gaudy 1970s excess\, as Robert De Ni
- ro tries to keep his casino free of Mob interference\, while his enforcer 
- (Joe Pesci)\, his wife (Sharon Stone)\, and her ex (James Woods) pursue th
- eir often conflicting agendas. With Don Rickles\, Frankie Avalon\, and Sco
- rsese’s mother Catherine. 30th anniversary screening.\n\nhttps://www.si
- ff.net/programs-and-events/martin-scorsese/casino\n\nEstimated start: 19:4
- 5
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Drama
-DTSTART:20260409T231000Z
-DTEND:20260410T012500Z
-DTSTAMP:20260409T231000Z
-UID:4gNDH7jdy3
+DTSTART:20260415T231000Z
+DTEND:20260416T012500Z
+DTSTAMP:20260415T231000Z
+UID:j3hOY5USSh
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
  to the test when an unexpected turn sends their wedding week off the rails
  .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
   16:25
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260410T020000Z
-DTEND:20260410T041500Z
-DTSTAMP:20260410T020000Z
-UID:ckmotn4QC3
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -120,6 +113,148 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nMartin Scorsese: Maestro of Cine
  re. With the late\, great\, much-loved Rob Reiner.\n\nhttps://www.siff.ne
  t/programs-and-events/martin-scorsese/the-wolf-of-wall-street\n\nEstimated
   start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260416T231000Z
+DTEND:20260417T012500Z
+DTSTAMP:20260416T231000Z
+UID:n9FkrpU2r5
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  16:25
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260417T020000Z
+DTEND:20260417T040500Z
+DTSTAMP:20260417T020000Z
+UID:FMXEfosYce
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260417T234500Z
+DTEND:20260418T015000Z
+DTSTAMP:20260417T234500Z
+UID:RZIRbeASYU
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260418T023000Z
+DTEND:20260418T043500Z
+DTSTAMP:20260418T023000Z
+UID:KE8uajDvne
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260419T203000Z
+DTEND:20260419T223500Z
+DTSTAMP:20260419T203000Z
+UID:LXMilMCGPO
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 13:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260419T231500Z
+DTEND:20260420T012000Z
+DTSTAMP:20260419T231500Z
+UID:DbsImueGkA
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260420T020000Z
+DTEND:20260420T040500Z
+DTSTAMP:20260420T020000Z
+UID:QcOWrZBR1e
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260420T233000Z
+DTEND:20260421T013500Z
+DTSTAMP:20260420T233000Z
+UID:kN4Ns96XU8
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260421T021500Z
+DTEND:20260421T042000Z
+DTSTAMP:20260421T021500Z
+UID:oMkt6Eqo6g
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260421T233000Z
+DTEND:20260422T013500Z
+DTSTAMP:20260421T233000Z
+UID:9dsyKgmTgr
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260422T021500Z
+DTEND:20260422T042000Z
+DTSTAMP:20260422T021500Z
+UID:8lBTiSk9bt
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -224,6 +359,20 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nSIFF Movie Club It’s been 10 ye
  d and uncover the truth behind his disappearance.\n\nhttps://www.siff.net/
  programs-and-events/siff-movie-club/velvet-goldmine\n\nEstimated start: 18
  :45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fried Green Tomatoes (1991)
+DTSTART:20260707T013000Z
+DTEND:20260707T035500Z
+DTSTAMP:20260707T013000Z
+UID:B1RIeZowj3
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nSIFF Movie Club Towanda! Amidst 
+ her own personality crisis\, a southern housewife meets an outgoing old wo
+ man who tells her the story of Idgie Threadgoode and Ruth Jamison\, two yo
+ ung women who experienced hardships and love in 1920s Whistle Stop\, Alaba
+ ma.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/fried-gree
+ n-tomatoes\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

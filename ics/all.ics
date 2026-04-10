@@ -3,39 +3,13 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20260406T170611Z
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3
-DTSTART:20260406T230000Z
-DTEND:20260407T005500Z
-DTSTAMP:20260406T230000Z
-UID:OdF4J4ekpo
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
- beautifully crafted new film stars Paula Beer as a pianist from Berlin who
- ’s taken in by a mysterious woman in an isolated country house after sur
- viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
- oirs-no-3\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3
-DTSTART:20260407T024500Z
-DTEND:20260407T044000Z
-DTSTAMP:20260407T024500Z
-UID:nG5iYmk9kl
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
- beautifully crafted new film stars Paula Beer as a pianist from Berlin who
- ’s taken in by a mysterious woman in an isolated country house after sur
- viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
- oirs-no-3\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260410T122133Z
 BEGIN:VEVENT
 SUMMARY:Project Hail Mary
-DTSTART:20260406T230000Z
-DTEND:20260407T020500Z
-DTSTAMP:20260406T230000Z
-UID:MXP99YyIfC
+DTSTART:20260410T230000Z
+DTEND:20260411T020500Z
+DTSTAMP:20260410T230000Z
+UID:sW3hQR6wQe
 DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
  an Gosling) wakes up on a spaceship light years from home with no recollec
  tion of who he is or how he got there. As his memory returns\, he begins t
@@ -46,10 +20,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project Hail Mary
-DTSTART:20260407T024500Z
-DTEND:20260407T055000Z
-DTSTAMP:20260407T024500Z
-UID:MI06Fcw9P1
+DTSTART:20260411T024500Z
+DTEND:20260411T055000Z
+DTSTAMP:20260411T024500Z
+UID:lXbj6lF3gP
 DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
  an Gosling) wakes up on a spaceship light years from home with no recollec
  tion of who he is or how he got there. As his memory returns\, he begins t
@@ -57,377 +31,6 @@ DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
  g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
  ail-mary\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260406T231000Z
-DTEND:20260407T012500Z
-DTSTAMP:20260406T231000Z
-UID:IQIBktTKZS
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  16:25
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260407T020000Z
-DTEND:20260407T041500Z
-DTSTAMP:20260407T020000Z
-UID:0OFYjH4Cs8
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors
-DTSTART:20260406T233000Z
-DTEND:20260407T015500Z
-DTSTAMP:20260406T233000Z
-UID:Cvin5W2uD5
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nSet at the height of the great p
- urge and drenched in the paranoia of Stalin’s police state\, Ukranian fi
- lmmaker Sergei Loznitsa’s latest triumph is a chilling\, Kafkaesque thri
- ller about the impunity of power and matter-of-fact horrors of fascism.\n\
- nhttps://www.siff.net/cinema/in-theaters/two-prosecutors\n\nEstimated star
- t: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cleo From 5 to 7 (1962)
-DTSTART:20260407T013000Z
-DTEND:20260407T031500Z
-DTSTAMP:20260407T013000Z
-UID:B8hVdQ4Xa9
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nSIFF Movie Club Agnès Varda eloq
- uently captures Paris in the sixties with this real-time portrait of a sin
- ger (Corinne Marchand) set adrift in the city as she awaits test results o
- f a biopsy.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/cl
- eo-from-5-to-7\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260407T230000Z
-DTEND:20260408T020500Z
-DTSTAMP:20260407T230000Z
-UID:aVMCGSZv50
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260408T024500Z
-DTEND:20260408T055000Z
-DTSTAMP:20260408T024500Z
-UID:kCVHmvrjvf
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260407T231000Z
-DTEND:20260408T012500Z
-DTSTAMP:20260407T231000Z
-UID:WDCo0bYyr5
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  16:25
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260408T020000Z
-DTEND:20260408T041500Z
-DTSTAMP:20260408T020000Z
-UID:X4QFGZSaXD
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors
-DTSTART:20260407T232000Z
-DTEND:20260408T014500Z
-DTSTAMP:20260407T232000Z
-UID:yVOsRunICs
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nSet at the height of the great p
- urge and drenched in the paranoia of Stalin’s police state\, Ukranian fi
- lmmaker Sergei Loznitsa’s latest triumph is a chilling\, Kafkaesque thri
- ller about the impunity of power and matter-of-fact horrors of fascism.\n\
- nhttps://www.siff.net/cinema/in-theaters/two-prosecutors\n\nEstimated star
- t: 16:35
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors
-DTSTART:20260408T021500Z
-DTEND:20260408T044000Z
-DTSTAMP:20260408T021500Z
-UID:qPVHelJyE8
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nSet at the height of the great p
- urge and drenched in the paranoia of Stalin’s police state\, Ukranian fi
- lmmaker Sergei Loznitsa’s latest triumph is a chilling\, Kafkaesque thri
- ller about the impunity of power and matter-of-fact horrors of fascism.\n\
- nhttps://www.siff.net/cinema/in-theaters/two-prosecutors\n\nEstimated star
- t: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3
-DTSTART:20260408T000000Z
-DTEND:20260408T015500Z
-DTSTAMP:20260408T000000Z
-UID:gFXmnci2tL
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
- beautifully crafted new film stars Paula Beer as a pianist from Berlin who
- ’s taken in by a mysterious woman in an isolated country house after sur
- viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
- oirs-no-3\n\nEstimated start: 17:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3
-DTSTART:20260408T024500Z
-DTEND:20260408T044000Z
-DTSTAMP:20260408T024500Z
-UID:FgqR52tIxi
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
- beautifully crafted new film stars Paula Beer as a pianist from Berlin who
- ’s taken in by a mysterious woman in an isolated country house after sur
- viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
- oirs-no-3\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260408T230000Z
-DTEND:20260409T020500Z
-DTSTAMP:20260408T230000Z
-UID:yVZgoWknjs
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260409T024500Z
-DTEND:20260409T055000Z
-DTSTAMP:20260409T024500Z
-UID:eEE7ZGMnrl
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260408T231000Z
-DTEND:20260409T012500Z
-DTSTAMP:20260408T231000Z
-UID:xGFg1NvbFq
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  16:25
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260409T020000Z
-DTEND:20260409T041500Z
-DTSTAMP:20260409T020000Z
-UID:V4W3u6vlrJ
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors
-DTSTART:20260408T233000Z
-DTEND:20260409T015500Z
-DTSTAMP:20260408T233000Z
-UID:G7FBDZ7cns
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nSet at the height of the great p
- urge and drenched in the paranoia of Stalin’s police state\, Ukranian fi
- lmmaker Sergei Loznitsa’s latest triumph is a chilling\, Kafkaesque thri
- ller about the impunity of power and matter-of-fact horrors of fascism.\n\
- nhttps://www.siff.net/cinema/in-theaters/two-prosecutors\n\nEstimated star
- t: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3
-DTSTART:20260408T234500Z
-DTEND:20260409T014000Z
-DTSTAMP:20260408T234500Z
-UID:6SGYv36qJR
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
- beautifully crafted new film stars Paula Beer as a pianist from Berlin who
- ’s taken in by a mysterious woman in an isolated country house after sur
- viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
- oirs-no-3\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3
-DTSTART:20260409T024500Z
-DTEND:20260409T044000Z
-DTSTAMP:20260409T024500Z
-UID:Gb21AF96MF
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
- beautifully crafted new film stars Paula Beer as a pianist from Berlin who
- ’s taken in by a mysterious woman in an isolated country house after sur
- viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
- oirs-no-3\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Casino (1995)
-DTSTART:20260409T023000Z
-DTEND:20260409T054500Z
-DTSTAMP:20260409T023000Z
-UID:QM66mHHrNl
-DESCRIPTION:Duration: 179 mins (2h59m)\n\nMartin Scorsese: Maestro of Cine
- ma Juicy\, over the top\, deliciously gaudy 1970s excess\, as Robert De Ni
- ro tries to keep his casino free of Mob interference\, while his enforcer 
- (Joe Pesci)\, his wife (Sharon Stone)\, and her ex (James Woods) pursue th
- eir often conflicting agendas. With Don Rickles\, Frankie Avalon\, and Sco
- rsese’s mother Catherine. 30th anniversary screening.\n\nhttps://www.si
- ff.net/programs-and-events/martin-scorsese/casino\n\nEstimated start: 19:4
- 5
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260409T230000Z
-DTEND:20260410T020500Z
-DTSTAMP:20260409T230000Z
-UID:vY96DeZdb9
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260410T024500Z
-DTEND:20260410T055000Z
-DTSTAMP:20260410T024500Z
-UID:G8oVuXwV6P
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260409T231000Z
-DTEND:20260410T012500Z
-DTSTAMP:20260409T231000Z
-UID:4gNDH7jdy3
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  16:25
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260410T020000Z
-DTEND:20260410T041500Z
-DTSTAMP:20260410T020000Z
-UID:ckmotn4QC3
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors
-DTSTART:20260409T232000Z
-DTEND:20260410T014500Z
-DTSTAMP:20260409T232000Z
-UID:AyKArB63LP
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nSet at the height of the great p
- urge and drenched in the paranoia of Stalin’s police state\, Ukranian fi
- lmmaker Sergei Loznitsa’s latest triumph is a chilling\, Kafkaesque thri
- ller about the impunity of power and matter-of-fact horrors of fascism.\n\
- nhttps://www.siff.net/cinema/in-theaters/two-prosecutors\n\nEstimated star
- t: 16:35
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors
-DTSTART:20260410T021500Z
-DTEND:20260410T044000Z
-DTSTAMP:20260410T021500Z
-UID:chkFk9Kvqr
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nSet at the height of the great p
- urge and drenched in the paranoia of Stalin’s police state\, Ukranian fi
- lmmaker Sergei Loznitsa’s latest triumph is a chilling\, Kafkaesque thri
- ller about the impunity of power and matter-of-fact horrors of fascism.\n\
- nhttps://www.siff.net/cinema/in-theaters/two-prosecutors\n\nEstimated star
- t: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3
-DTSTART:20260410T000000Z
-DTEND:20260410T015500Z
-DTSTAMP:20260410T000000Z
-UID:FDjBQGXWlo
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
- beautifully crafted new film stars Paula Beer as a pianist from Berlin who
- ’s taken in by a mysterious woman in an isolated country house after sur
- viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
- oirs-no-3\n\nEstimated start: 17:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3
-DTSTART:20260410T024500Z
-DTEND:20260410T044000Z
-DTSTAMP:20260410T024500Z
-UID:bLqbLuSWrX
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nChristian Petzold’s haunting\, 
- beautifully crafted new film stars Paula Beer as a pianist from Berlin who
- ’s taken in by a mysterious woman in an isolated country house after sur
- viving a violent car crash.\n\nhttps://www.siff.net/cinema/in-theaters/mir
- oirs-no-3\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DJ Ahmet
@@ -454,6 +57,30 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nFifteen-year-old shepherd Ahmet
  r of the World Cinema – Audience Award Prize at Sundance 2025.\n\nhttps:
  //www.siff.net/cinema/in-theaters/dj-ahmet\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260410T234000Z
+DTEND:20260411T015500Z
+DTSTAMP:20260410T234000Z
+UID:yvjVNXLo4t
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  16:55
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260411T023000Z
+DTEND:20260411T044500Z
+DTSTAMP:20260411T023000Z
+UID:W2Rv3Rwilv
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andre is an Idiot
@@ -484,6 +111,34 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
   (Executive Producer and Co-subject)\n\nhttps://www.siff.net/cinema/in-the
  aters/andre-is-an-idiot\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260411T000000Z
+DTEND:20260411T020000Z
+DTSTAMP:20260411T000000Z
+UID:V91qV093iH
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260411T024500Z
+DTEND:20260411T044500Z
+DTSTAMP:20260411T024500Z
+UID:GI3VPN2pmq
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andre is an Idiot
@@ -546,6 +201,84 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260411T191500Z
+DTEND:20260411T222000Z
+DTSTAMP:20260411T191500Z
+UID:jdAibxpx1s
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 12:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260411T230000Z
+DTEND:20260412T020500Z
+DTSTAMP:20260411T230000Z
+UID:ggYg3QpNy6
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260412T024500Z
+DTEND:20260412T055000Z
+DTSTAMP:20260412T024500Z
+UID:UQ0LaEau1p
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260411T204500Z
+DTEND:20260411T230000Z
+DTSTAMP:20260411T204500Z
+UID:AV1WCWRcxA
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  14:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260411T234000Z
+DTEND:20260412T015500Z
+DTSTAMP:20260411T234000Z
+UID:U6DG03CsUZ
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  16:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260412T023000Z
+DTEND:20260412T044500Z
+DTSTAMP:20260412T023000Z
+UID:pmiqpc51dJ
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DJ Ahmet
 DTSTART:20260411T211500Z
 DTEND:20260411T232000Z
@@ -556,6 +289,34 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nFifteen-year-old shepherd Ahmet
  ets a taste of electronic dance music in this heartwarming dramedy\, winne
  r of the World Cinema – Audience Award Prize at Sundance 2025.\n\nhttps:
  //www.siff.net/cinema/in-theaters/dj-ahmet\n\nEstimated start: 14:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260412T000000Z
+DTEND:20260412T020000Z
+DTSTAMP:20260412T000000Z
+UID:GbQo0SdYh6
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260412T024500Z
+DTEND:20260412T044500Z
+DTSTAMP:20260412T024500Z
+UID:bs31erx7vd
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -598,6 +359,42 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nFifteen-year-old shepherd Ahmet
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260412T204500Z
+DTEND:20260412T230000Z
+DTSTAMP:20260412T204500Z
+UID:iv5ZTR47aK
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  14:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260412T234000Z
+DTEND:20260413T015500Z
+DTSTAMP:20260412T234000Z
+UID:gyk3TJhY0F
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  16:55
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260413T023000Z
+DTEND:20260413T044500Z
+DTSTAMP:20260413T023000Z
+UID:QD8HprUbV4
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Films of Joost Rekveld
 DTSTART:20260412T210000Z
 DTEND:20260412T224000Z
@@ -611,6 +408,76 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nPresented by Mount Analogue • A
  a body of astonishing works of mesmerizing abstraction.\n\nhttps://www.sif
  f.net/cinema/in-theaters/films-of-joost-rekveld\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260412T210000Z
+DTEND:20260413T000500Z
+DTSTAMP:20260412T210000Z
+UID:RGa1YanrIk
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260413T010000Z
+DTEND:20260413T040500Z
+DTSTAMP:20260413T010000Z
+UID:1UG0EC1TcB
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260412T211500Z
+DTEND:20260412T231500Z
+DTSTAMP:20260412T211500Z
+UID:bVlnUHpcwS
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 14:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260413T000000Z
+DTEND:20260413T020000Z
+DTSTAMP:20260413T000000Z
+UID:FKbUoFjT3p
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260413T024500Z
+DTEND:20260413T044500Z
+DTSTAMP:20260413T024500Z
+UID:tSmBR17bLe
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andre is an Idiot
@@ -643,6 +510,58 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAndre\, a brilliant idiot\, is dy
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260413T224500Z
+DTEND:20260414T015000Z
+DTSTAMP:20260413T224500Z
+UID:oxXYyevNKW
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260414T023000Z
+DTEND:20260414T053500Z
+DTSTAMP:20260414T023000Z
+UID:MTZd3VRDma
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260413T231000Z
+DTEND:20260414T012500Z
+DTSTAMP:20260413T231000Z
+UID:8pjW4hLwbQ
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  16:25
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260414T020000Z
+DTEND:20260414T041500Z
+DTSTAMP:20260414T020000Z
+UID:hxuu9lCO8T
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DJ Ahmet
 DTSTART:20260413T233000Z
 DTEND:20260414T013500Z
@@ -669,6 +588,191 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nFifteen-year-old shepherd Ahmet
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260413T234500Z
+DTEND:20260414T014500Z
+DTSTAMP:20260413T234500Z
+UID:qfXJk7PZjr
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260414T023000Z
+DTEND:20260414T043000Z
+DTSTAMP:20260414T023000Z
+UID:09sj0inJ5y
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260414T224500Z
+DTEND:20260415T015000Z
+DTSTAMP:20260414T224500Z
+UID:j2XJdj3IRh
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260415T023000Z
+DTEND:20260415T053500Z
+DTSTAMP:20260415T023000Z
+UID:NaIu4hq7QB
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260414T231000Z
+DTEND:20260415T012500Z
+DTSTAMP:20260414T231000Z
+UID:5WfKbgpXMu
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  16:25
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260415T020000Z
+DTEND:20260415T041500Z
+DTSTAMP:20260415T020000Z
+UID:7ji6gAim11
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Ahmet
+DTSTART:20260415T000000Z
+DTEND:20260415T020500Z
+DTSTAMP:20260415T000000Z
+UID:6oWXBN79J7
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nFifteen-year-old shepherd Ahmet 
+ rebels against his conservative North Macedonian farming village when he g
+ ets a taste of electronic dance music in this heartwarming dramedy\, winne
+ r of the World Cinema – Audience Award Prize at Sundance 2025.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/dj-ahmet\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260415T023000Z
+DTEND:20260415T043000Z
+DTSTAMP:20260415T023000Z
+UID:uesKwxXdNm
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260415T220000Z
+DTEND:20260416T010500Z
+DTSTAMP:20260415T220000Z
+UID:om69AVCIjM
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 15:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260415T231000Z
+DTEND:20260416T012500Z
+DTSTAMP:20260415T231000Z
+UID:j3hOY5USSh
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  16:25
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260416T020000Z
+DTEND:20260416T041500Z
+DTSTAMP:20260416T020000Z
+UID:kmmE6nuqVP
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260415T233000Z
+DTEND:20260416T013000Z
+DTSTAMP:20260415T233000Z
+UID:1hryrQEqBN
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Ahmet
+DTSTART:20260416T000000Z
+DTEND:20260416T020500Z
+DTSTAMP:20260416T000000Z
+UID:oyDJE4YMlS
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nFifteen-year-old shepherd Ahmet 
+ rebels against his conservative North Macedonian farming village when he g
+ ets a taste of electronic dance music in this heartwarming dramedy\, winne
+ r of the World Cinema – Audience Award Prize at Sundance 2025.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/dj-ahmet\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Ahmet
+DTSTART:20260416T024500Z
+DTEND:20260416T045000Z
+DTSTAMP:20260416T024500Z
+UID:kmPCvcTdTD
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nFifteen-year-old shepherd Ahmet 
+ rebels against his conservative North Macedonian farming village when he g
+ ets a taste of electronic dance music in this heartwarming dramedy\, winne
+ r of the World Cinema – Audience Award Prize at Sundance 2025.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/dj-ahmet\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Wolf of Wall Street (2013)
 DTSTART:20260416T023000Z
 DTEND:20260416T053000Z
@@ -681,6 +785,113 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nMartin Scorsese: Maestro of Cine
  re. With the late\, great\, much-loved Rob Reiner.\n\nhttps://www.siff.ne
  t/programs-and-events/martin-scorsese/the-wolf-of-wall-street\n\nEstimated
   start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260416T224500Z
+DTEND:20260417T015000Z
+DTSTAMP:20260416T224500Z
+UID:KMxoXNFMK1
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART:20260417T023000Z
+DTEND:20260417T053500Z
+DTSTAMP:20260417T023000Z
+UID:QWW1YavPPf
+DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
+ an Gosling) wakes up on a spaceship light years from home with no recollec
+ tion of who he is or how he got there. As his memory returns\, he begins t
+ o uncover his mission: solve the riddle of the mysterious substance causin
+ g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
+ ail-mary\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Drama
+DTSTART:20260416T231000Z
+DTEND:20260417T012500Z
+DTSTAMP:20260416T231000Z
+UID:n9FkrpU2r5
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
+ to the test when an unexpected turn sends their wedding week off the rails
+ .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
+  16:25
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Ahmet
+DTSTART:20260416T233000Z
+DTEND:20260417T013500Z
+DTSTAMP:20260416T233000Z
+UID:6lOgZTqJ2j
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nFifteen-year-old shepherd Ahmet 
+ rebels against his conservative North Macedonian farming village when he g
+ ets a taste of electronic dance music in this heartwarming dramedy\, winne
+ r of the World Cinema – Audience Award Prize at Sundance 2025.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/dj-ahmet\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Ahmet
+DTSTART:20260417T021500Z
+DTEND:20260417T042000Z
+DTSTAMP:20260417T021500Z
+UID:98jokfui9n
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nFifteen-year-old shepherd Ahmet 
+ rebels against his conservative North Macedonian farming village when he g
+ ets a taste of electronic dance music in this heartwarming dramedy\, winne
+ r of the World Cinema – Audience Award Prize at Sundance 2025.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/dj-ahmet\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260416T234500Z
+DTEND:20260417T014500Z
+DTSTAMP:20260416T234500Z
+UID:MOmCKNG2uH
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exit 8
+DTSTART:20260417T023000Z
+DTEND:20260417T043000Z
+DTSTAMP:20260417T023000Z
+UID:N7ZfmiC9be
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
+ d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
+ in a looping\, sterile subway where one mistake resets everything. A purga
+ torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
+ ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
+ cinema/in-theaters/exit-8\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260417T020000Z
+DTEND:20260417T040500Z
+DTSTAMP:20260417T020000Z
+UID:FMXEfosYce
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -700,6 +911,32 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nWhen the legendary Ginei Studios
  nhttps://www.siff.net/programs-and-events/ani-marathon/millennium-actress\
  n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260417T234500Z
+DTEND:20260418T015000Z
+DTSTAMP:20260417T234500Z
+UID:RZIRbeASYU
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260418T023000Z
+DTEND:20260418T043500Z
+DTSTAMP:20260418T023000Z
+UID:KE8uajDvne
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paprika (2006)
@@ -763,6 +1000,45 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nPresented by GreenShower Collect
  s://www.siff.net/cinema/in-theaters/1st-seattle-taiwanese-eco-film-festiva
  l-birds-and-us\n\nEstimated start: 13:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260418T203000Z
+DTEND:20260418T223500Z
+DTSTAMP:20260418T203000Z
+UID:PAnhhZlRnC
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 13:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260418T231500Z
+DTEND:20260419T012000Z
+DTSTAMP:20260418T231500Z
+UID:6prxL4FDwN
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260419T020000Z
+DTEND:20260419T040500Z
+DTSTAMP:20260419T020000Z
+UID:2c63MfLJQU
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:STEFF: Island of People (Pongso no Tao)
@@ -837,6 +1113,45 @@ DESCRIPTION:Duration: 140 mins (2h20m)\n\nShoya Ishida\, haunted by his pa
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260419T203000Z
+DTEND:20260419T223500Z
+DTSTAMP:20260419T203000Z
+UID:LXMilMCGPO
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 13:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260419T231500Z
+DTEND:20260420T012000Z
+DTSTAMP:20260419T231500Z
+UID:DbsImueGkA
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260420T020000Z
+DTEND:20260420T040500Z
+DTSTAMP:20260420T020000Z
+UID:QcOWrZBR1e
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wolf Children (2012)
 DTSTART:20260419T234500Z
 DTEND:20260420T021000Z
@@ -876,6 +1191,32 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nMamoru Hosoda exhibits his maste
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260420T233000Z
+DTEND:20260421T013500Z
+DTSTAMP:20260420T233000Z
+UID:kN4Ns96XU8
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260421T021500Z
+DTEND:20260421T042000Z
+DTSTAMP:20260421T021500Z
+UID:oMkt6Eqo6g
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Silent Voice (2016)
 DTSTART:20260421T023000Z
 DTEND:20260421T050500Z
@@ -886,6 +1227,32 @@ DESCRIPTION:Duration: 140 mins (2h20m)\n\nShoya Ishida\, haunted by his pa
   redemption. Is it too late to make amends?\n\nhttps://www.siff.net/progra
  ms-and-events/ani-marathon/a-silent-voice\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260421T233000Z
+DTEND:20260422T013500Z
+DTSTAMP:20260421T233000Z
+UID:9dsyKgmTgr
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260422T021500Z
+DTEND:20260422T042000Z
+DTSTAMP:20260422T021500Z
+UID:8lBTiSk9bt
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angel's Egg (1985)
@@ -913,6 +1280,32 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\n2029: A female cybernetic governm
  w.siff.net/programs-and-events/ani-marathon/ghost-in-the-shell\n\nEstimate
  d start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260422T233000Z
+DTEND:20260423T013500Z
+DTSTAMP:20260422T233000Z
+UID:8CGQ9eWIXC
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260423T021500Z
+DTEND:20260423T042000Z
+DTSTAMP:20260423T021500Z
+UID:XWUeZGB4At
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Redline (2010)
@@ -983,6 +1376,32 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
   and 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-pleas
  e\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260423T233000Z
+DTEND:20260424T013500Z
+DTSTAMP:20260423T233000Z
+UID:6UHAkSsd9n
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers
+DTSTART:20260424T021500Z
+DTEND:20260424T042000Z
+DTSTAMP:20260424T021500Z
+UID:LY9MnRco2y
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
+ y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
+ even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
+ and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
+ \nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paprika (2006)
@@ -1378,6 +1797,29 @@ DESCRIPTION:Duration: 126 mins (2h06m)\n\nSIFF Movie Club One of cinema's
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260518T020000Z
+DTEND:20260518T040500Z
+DTSTAMP:20260518T020000Z
+UID:g2wD31Ftqe
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nThe 52nd annual Seattle Internat
+ ional Film Festival will reach its conclusion with A24’s The Invite on M
+ ay 17\, 2026\, with director & star Olivia Wilde scheduled to attend. This
+  sendoff of the SIFF Effect will take place at SIFF Cinema Downtown at 7pm
+ . After ten days of pure cinelation\, the Festival will have highlighted i
+ ndependent artists and underrepresented voices from over 70 countries. Our
+  audiences have been brought together by the collective laughter\, gasps\,
+  and awe inspired by unforgettable filmmaking.  Secure your Closing Night
+  Film tickets today for one final evening before the curtain closes the 20
+ 26 Festival.   Please note that the Closing Night feature will not be fo
+ llowed by a party\; you’ll find your community seated next to you in the
+  cinema!  Members: Make sure to sign in to your SIFF account before selec
+ ting tickets. Closing Night Tickets: $40 ($35 SIFF Member)Film at SIFF Ci
+ nema Downtown Browse all Festival passes and ticket packs.\n\nhttps://www.
+ siff.net/festival/closing-night-2026\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Velvet Goldmine (1998)
 DTSTART:20260602T013000Z
 DTEND:20260602T031500Z
@@ -1390,6 +1832,20 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nSIFF Movie Club It’s been 10 ye
  d and uncover the truth behind his disappearance.\n\nhttps://www.siff.net/
  programs-and-events/siff-movie-club/velvet-goldmine\n\nEstimated start: 18
  :45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fried Green Tomatoes (1991)
+DTSTART:20260707T013000Z
+DTEND:20260707T035500Z
+DTSTAMP:20260707T013000Z
+UID:B1RIeZowj3
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nSIFF Movie Club Towanda! Amidst 
+ her own personality crisis\, a southern housewife meets an outgoing old wo
+ man who tells her the story of Idgie Threadgoode and Ruth Jamison\, two yo
+ ung women who experienced hardships and love in 1920s Whistle Stop\, Alaba
+ ma.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/fried-gree
+ n-tomatoes\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
