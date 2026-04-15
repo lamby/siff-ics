@@ -20,6 +20,28 @@
   VenueSlug: film-center
   VenueState: WA
   VenueZipCode: '98109'
+- VenueAddress1: null
+  VenueAddress2: null
+  VenueCapacity: 325
+  VenueCity: null
+  VenueCountry: null
+  VenueName: PACCAR IMAX Theater at Pacific Science Center
+  VenueNameOrig: PACCAR IMAX Theater at Pacific Science Center
+  VenuePhoneNumber: null
+  VenueSlug: paccar-imax-theater-at-pacific-science-center
+  VenueState: null
+  VenueZipCode: null
+- VenueAddress1: 911 Pine Street
+  VenueAddress2: null
+  VenueCapacity: 2000
+  VenueCity: Seattle
+  VenueCountry: United States
+  VenueName: Paramount Theatre
+  VenueNameOrig: Paramount Theatre
+  VenuePhoneNumber: null
+  VenueSlug: paramount-theatre
+  VenueState: WA
+  VenueZipCode: '98101'
 - VenueAddress1: 511 Queen Anne Avenue North
   VenueAddress2: null
   VenueCapacity: 479
