@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260416T163807Z
-BEGIN:VEVENT
-SUMMARY:Exit 8
-DTSTART:20260416T234500Z
-DTEND:20260417T014500Z
-DTSTAMP:20260416T234500Z
-UID:MOmCKNG2uH
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
- d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
- in a looping\, sterile subway where one mistake resets everything. A purga
- torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
- ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
- cinema/in-theaters/exit-8\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exit 8
-DTSTART:20260417T023000Z
-DTEND:20260417T043000Z
-DTSTAMP:20260417T023000Z
-UID:N7ZfmiC9be
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nGenki Kawamura’s Dante-inspire
- d spin on Kotake Create’s cult game traps Arashi star Kazunari Ninomiya 
- in a looping\, sterile subway where one mistake resets everything. A purga
- torial thriller born from on-set collaboration\, Exit 8 fuses gameplay log
- ic with razor-sharp\, emotionally charged cinema.\n\nhttps://www.siff.net/
- cinema/in-theaters/exit-8\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260417T142929Z
 BEGIN:VEVENT
 SUMMARY:The Drama
 DTSTART:20260417T233000Z
@@ -229,6 +201,21 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
  even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
  and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
  \nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine (1993) (1993)
+DTSTART:20260426T223000Z
+DTEND:20260427T014000Z
+DTSTAMP:20260426T223000Z
+UID:9305QgN0rb
+DESCRIPTION:Duration: 171 mins (2h51m)\n\nPresented by AMOMENT BOOKS. Far
+ ewell My Concubine is a 1993 Chinese epic historical drama film\, directed
+  by Chen Kaige. Cannes Film Festival Palme d'Or and FIPRESCI Prize Winner.
+  This film is the latest restored uncut 4K version (20 minutes longer tha
+ n its original Miramax theatrical release).\n\nhttps://www.siff.net/cinema
+ /in-theaters/farewell-my-concubine-uncut-4k-restoration-霸王别姬\n\nEs
+ timated start: 15:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

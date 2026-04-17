@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20260416T163807Z
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260416T224500Z
-DTEND:20260417T015000Z
-DTSTAMP:20260416T224500Z
-UID:KMxoXNFMK1
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART:20260417T023000Z
-DTEND:20260417T053500Z
-DTSTAMP:20260417T023000Z
-UID:QWW1YavPPf
-DESCRIPTION:Duration: 166 mins (2h46m)\n\nScience teacher Ryland Grace (Ry
- an Gosling) wakes up on a spaceship light years from home with no recollec
- tion of who he is or how he got there. As his memory returns\, he begins t
- o uncover his mission: solve the riddle of the mysterious substance causin
- g the sun to die out.\n\nhttps://www.siff.net/cinema/in-theaters/project-h
- ail-mary\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20260417T142929Z
 BEGIN:VEVENT
 SUMMARY:Millennium Actress (2001)
 DTSTART:20260417T230000Z
@@ -553,9 +525,9 @@ DESCRIPTION:Duration: 228 mins (3h48m)\n\nThe future of civilization rests
  the hands of a young Hobbit named Frodo Baggins (Elijah Wood)\, who inheri
  ts the Ring and steps into legend. A daunting task lies ahead for Frodo wh
  en he becomes the Ringbearer - to destroy the One Ring in the fires of Mou
- nt Doom where it was forged. New 4K remaster.\n\nhttps://www.siff.net/cin
- ema/in-theaters/the-lord-of-the-rings-the-fellowship-of-the-ring-extended\
- n\nEstimated start: 14:45
+ nt Doom where it was forged. 4K remaster.\n\nhttps://www.siff.net/cinema/
+ in-theaters/the-lord-of-the-rings-the-fellowship-of-the-ring-extended\n\nE
+ stimated start: 14:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -586,9 +558,9 @@ DESCRIPTION:Duration: 228 mins (3h48m)\n\nThe future of civilization rests
  the hands of a young Hobbit named Frodo Baggins (Elijah Wood)\, who inheri
  ts the Ring and steps into legend. A daunting task lies ahead for Frodo wh
  en he becomes the Ringbearer - to destroy the One Ring in the fires of Mou
- nt Doom where it was forged. New 4K remaster.\n\nhttps://www.siff.net/cin
- ema/in-theaters/the-lord-of-the-rings-the-fellowship-of-the-ring-extended\
- n\nEstimated start: 9:15
+ nt Doom where it was forged. 4K remaster.\n\nhttps://www.siff.net/cinema/
+ in-theaters/the-lord-of-the-rings-the-fellowship-of-the-ring-extended\n\nE
+ stimated start: 9:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -608,6 +580,20 @@ DESCRIPTION:Duration: 235 mins (3h55m)\n\nThe Two Towers follows the conti
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Return of the King (2004)
+DTSTART:20260503T023000Z
+DTEND:20260503T070000Z
+DTSTAMP:20260503T023000Z
+UID:W5kg5wc2Oq
+DESCRIPTION:Duration: 252 mins (4h12m)\n\nPeter Jackson's landmark Lord of
+  the Rings trilogy comes to a rousing conclusion\, as the remaining member
+ s of the Fellowship converge upon Minas Tirith and Mount Doom for the fina
+ l battle to destroy the One Ring. Winner of 11 Academy Awards®. 4K remas
+ ter.\n\nhttps://www.siff.net/cinema/in-theaters/the-lord-of-the-rings-the-
+ return-of-the-king-extended\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Fellowship of the Ring (2001)
 DTSTART:20260503T190000Z
 DTEND:20260503T230500Z
@@ -619,9 +605,9 @@ DESCRIPTION:Duration: 228 mins (3h48m)\n\nThe future of civilization rests
  the hands of a young Hobbit named Frodo Baggins (Elijah Wood)\, who inheri
  ts the Ring and steps into legend. A daunting task lies ahead for Frodo wh
  en he becomes the Ringbearer - to destroy the One Ring in the fires of Mou
- nt Doom where it was forged. New 4K remaster.\n\nhttps://www.siff.net/cin
- ema/in-theaters/the-lord-of-the-rings-the-fellowship-of-the-ring-extended\
- n\nEstimated start: 12:15
+ nt Doom where it was forged. 4K remaster.\n\nhttps://www.siff.net/cinema/
+ in-theaters/the-lord-of-the-rings-the-fellowship-of-the-ring-extended\n\nE
+ stimated start: 12:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -638,6 +624,20 @@ DESCRIPTION:Duration: 235 mins (3h55m)\n\nThe Two Towers follows the conti
   Theoden has fallen under Saruman's deadly spell. New 4K remaster.\n\nhtt
  ps://www.siff.net/cinema/in-theaters/the-lord-of-the-rings-the-two-towers-
  extended\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Return of the King (2004)
+DTSTART:20260505T013000Z
+DTEND:20260505T060000Z
+DTSTAMP:20260505T013000Z
+UID:ALwstDuaM4
+DESCRIPTION:Duration: 252 mins (4h12m)\n\nPeter Jackson's landmark Lord of
+  the Rings trilogy comes to a rousing conclusion\, as the remaining member
+ s of the Fellowship converge upon Minas Tirith and Mount Doom for the fina
+ l battle to destroy the One Ring. Winner of 11 Academy Awards®. 4K remas
+ ter.\n\nhttps://www.siff.net/cinema/in-theaters/the-lord-of-the-rings-the-
+ return-of-the-king-extended\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1202,6 +1202,346 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  he spark or lit the match that burns it all down? Director & star Olivia 
  Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
  Estimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260521T223000Z
+DTEND:20260522T010000Z
+DTSTAMP:20260521T223000Z
+UID:aWjSA4iUxJ
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 15:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260522T020000Z
+DTEND:20260522T043000Z
+DTSTAMP:20260522T020000Z
+UID:ZulkqOovgf
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260522T213000Z
+DTEND:20260523T000000Z
+DTSTAMP:20260522T213000Z
+UID:4GDZ1mqwNl
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 14:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260523T010000Z
+DTEND:20260523T033000Z
+DTSTAMP:20260523T010000Z
+UID:Oqs9bj0Tlc
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260523T043000Z
+DTEND:20260523T070000Z
+DTSTAMP:20260523T043000Z
+UID:y67P5vTrR1
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 21:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260523T180000Z
+DTEND:20260523T203000Z
+DTSTAMP:20260523T180000Z
+UID:JUFfb55339
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 11:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260523T213000Z
+DTEND:20260524T000000Z
+DTSTAMP:20260523T213000Z
+UID:ejnb2pVCUv
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 14:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260524T010000Z
+DTEND:20260524T033000Z
+DTSTAMP:20260524T010000Z
+UID:Tr3SCojnHj
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260524T043000Z
+DTEND:20260524T070000Z
+DTSTAMP:20260524T043000Z
+UID:h6pmj4Om5r
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 21:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260524T190000Z
+DTEND:20260524T213000Z
+DTSTAMP:20260524T190000Z
+UID:W2pZyOACSl
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 12:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260524T223000Z
+DTEND:20260525T010000Z
+DTSTAMP:20260524T223000Z
+UID:DUeQI0v0UI
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 15:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260525T020000Z
+DTEND:20260525T043000Z
+DTSTAMP:20260525T020000Z
+UID:sbLv0rS4ks
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260525T230000Z
+DTEND:20260526T013000Z
+DTSTAMP:20260525T230000Z
+UID:fxuZDohYl9
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260526T023000Z
+DTEND:20260526T050000Z
+DTSTAMP:20260526T023000Z
+UID:kHoOBRQNIK
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260526T230000Z
+DTEND:20260527T013000Z
+DTSTAMP:20260526T230000Z
+UID:pyBnQeK0k6
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260527T023000Z
+DTEND:20260527T050000Z
+DTSTAMP:20260527T023000Z
+UID:yVwaoqTDu4
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260527T230000Z
+DTEND:20260528T013000Z
+DTSTAMP:20260527T230000Z
+UID:4d9gdlYMHy
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260528T023000Z
+DTEND:20260528T050000Z
+DTSTAMP:20260528T023000Z
+UID:hda33DjptX
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260528T230000Z
+DTEND:20260529T013000Z
+DTSTAMP:20260528T230000Z
+UID:wCrRLLuedI
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandalorian & Grogu
+DTSTART:20260529T023000Z
+DTEND:20260529T050000Z
+DTSTAMP:20260529T023000Z
+UID:UvHcRmoy8H
+DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
+  on their most thrilling mission yet in Lucasfilm’s Star Wars: The Manda
+ lorian and Grogu. The evil Empire has fallen\, and Imperial warlords rema
+ in scattered throughout the galaxy. As the fledgling New Republic works to
+  protect everything the Rebellion fought for\, they have enlisted the help
+  of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his 
+ young apprentice Grogu. Select Shows Presented in 3D.\n\nhttps://www.siff
+ .net/cinema/in-theaters/star-wars-the-mandalorian-and-grogu\n\nEstimated s
+ tart: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 END:VCALENDAR
