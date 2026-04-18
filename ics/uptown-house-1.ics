@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260417T142929Z
-BEGIN:VEVENT
-SUMMARY:The Christophers
-DTSTART:20260417T234500Z
-DTEND:20260418T015000Z
-DTSTAMP:20260417T234500Z
-UID:RZIRbeASYU
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
- y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
- even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
- and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
- \nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers
-DTSTART:20260418T023000Z
-DTEND:20260418T043500Z
-DTSTAMP:20260418T023000Z
-UID:KE8uajDvne
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
- y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
- even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
- and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
- \nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260418T160948Z
 BEGIN:VEVENT
 SUMMARY:2026 SFF SFF
 DTSTART:20260418T220000Z
@@ -254,7 +228,7 @@ DTSTART:20260508T230000Z
 DTEND:20260509T011500Z
 DTSTAMP:20260508T230000Z
 UID:CGngD1ZH9f
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nIn Kiwi Chao’s drama-thriller\
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nIn Kiwi Chow’s drama-thriller\
  , an elite academy drives students to pills\, rebellion\, and a suicide ul
  timatum—exposing an authority-soaked system through stunning visuals and
   standout young performances. Producer Peiyi Lin scheduled to attend.\n\nh
@@ -386,7 +360,7 @@ DTSTART:20260511T031500Z
 DTEND:20260511T053000Z
 DTSTAMP:20260511T031500Z
 UID:RyorU4XQbD
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nIn Kiwi Chao’s drama-thriller\
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nIn Kiwi Chow’s drama-thriller\
  , an elite academy drives students to pills\, rebellion\, and a suicide ul
  timatum—exposing an authority-soaked system through stunning visuals and
   standout young performances. Producer Peiyi Lin scheduled to attend.\n\nh
@@ -471,9 +445,9 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nIn his 25-year tenure at KEXP\, D
  sten\, fostering delight and curiosity with every recommendation. RADIOHEA
  RT\, a bio-doc about Cole’s remarkable life\, boasts a killer soundtrack
  \, a wealth of nostalgic archival footage\, and cameos from Seattle musica
- l legends.Director Peter Hilgendorf scheduled to attend.\n\nhttps://www.si
- ff.net/festival/radioheart-the-drive-and-times-of-dj-kevin-cole\n\nEstimat
- ed start: 18:45
+ l legends.Director Peter Hilgendorf scheduled to attend.This film is gener
+ ously sponsored by David Prokopy.\n\nhttps://www.siff.net/festival/radiohe
+ art-the-drive-and-times-of-dj-kevin-cole\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -576,8 +550,10 @@ UID:N56IhfPRM1
 DESCRIPTION:Duration: 87 mins (1h27m)\n\nAn ambitious entrepreneur and two
   funeral directors pioneer a groundbreaking eco-friendly deathcare facilit
  y in Washington state\, challenging traditional burial practices and trans
- forming end-of-life rituals. Director JJ Gerber scheduled to attend.\n\nht
- tps://www.siff.net/festival/the-life-we-leave\n\nEstimated start: 18:15
+ forming end-of-life rituals.Recipient of a 2024 SIFF Grant for Courageous 
+ Documentary Filmmaking. The 2026 Grant Cycle opens May 15 on the SIFF webs
+ ite. Director JJ Gerber scheduled to attend.\n\nhttps://www.siff.net/festi
+ val/the-life-we-leave\n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -588,8 +564,9 @@ DTSTAMP:20260515T033000Z
 UID:JorO9Zm7Oj
 DESCRIPTION:Duration: 146 mins (2h26m)\n\nAward-winning director Ildikó E
  nyedi delivers another mesmerizing visual tale\, set across three time per
- iods at a historic German university\, united by a gingko tree.\n\nhttps:/
- /www.siff.net/festival/silent-friend\n\nEstimated start: 20:45
+ iods at a historic German university\, united by a gingko tree. This film 
+ is generously sponsored by Dale Pratt.\n\nhttps://www.siff.net/festival/si
+ lent-friend\n\nEstimated start: 20:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -616,9 +593,9 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nIn his 25-year tenure at KEXP\, D
  sten\, fostering delight and curiosity with every recommendation. RADIOHEA
  RT\, a bio-doc about Cole’s remarkable life\, boasts a killer soundtrack
  \, a wealth of nostalgic archival footage\, and cameos from Seattle musica
- l legends.Director Peter Hilgendorf scheduled to attend.\n\nhttps://www.si
- ff.net/festival/radioheart-the-drive-and-times-of-dj-kevin-cole\n\nEstimat
- ed start: 15:45
+ l legends.Director Peter Hilgendorf scheduled to attend.This film is gener
+ ously sponsored by David Prokopy.\n\nhttps://www.siff.net/festival/radiohe
+ art-the-drive-and-times-of-dj-kevin-cole\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
