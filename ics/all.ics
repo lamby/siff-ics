@@ -3,99 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20260422T160850Z
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260422T231500Z
-DTEND:20260423T013000Z
-DTSTAMP:20260422T231500Z
-UID:JT2Mnx66aM
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  16:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260423T020000Z
-DTEND:20260423T041500Z
-DTSTAMP:20260423T020000Z
-UID:nvbtOHXKjO
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  19:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers
-DTSTART:20260422T233000Z
-DTEND:20260423T013500Z
-DTSTAMP:20260422T233000Z
-UID:8CGQ9eWIXC
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
- y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
- even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
- and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
- \nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers
-DTSTART:20260423T021500Z
-DTEND:20260423T042000Z
-DTSTAMP:20260423T021500Z
-UID:XWUeZGB4At
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe great Ian Mckellen and "I Ma
- y Destroy You's" Michaela Coel make a brilliant pairing in Oscar winner St
- even Soderbergh's incisively witty chamber comedy about art\, commerce\, 
- and avarice.\n\nhttps://www.siff.net/cinema/in-theaters/the-christophers\n
- \nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Redline (2010)
-DTSTART:20260422T234500Z
-DTEND:20260423T015000Z
-DTSTAMP:20260422T234500Z
-UID:q3aewYfLK0
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nThe most dangerous underground c
- ar race sets the stage for this visually explosive anime\, where a daredev
- il battles fierce opponents willing to unleash all-out destruction to secu
- re the winning title.\n\nhttps://www.siff.net/programs-and-events/ani-mara
- thon/redline\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cowboy Bebop: The Movie (2001)
-DTSTART:20260423T023000Z
-DTEND:20260423T045000Z
-DTSTAMP:20260423T023000Z
-UID:6ZHsn1RCy6
-DESCRIPTION:Duration: 125 mins (2h05m)\n\nSet in the year 2071\, this enga
- ging animated tale follows an eclectic crew of space bounty hunters as the
- y hunt down a biochemical terrorist on Mars.\n\nhttps://www.siff.net/progr
- ams-and-events/ani-marathon/cowboy-bebop-the-movie\n\nEstimated start: 19:
- 45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silence (2016)
-DTSTART:20260423T023000Z
-DTEND:20260423T053000Z
-DTSTAMP:20260423T023000Z
-UID:HZNAKflpsp
-DESCRIPTION:Duration: 161 mins (2h41m)\n\nMartin Scorsese: Maestro of Cine
- ma Scorsese chose to show this spiritual thriller\, in which 17th-century 
- priests (Andrew Garfield\, Adam Driver) seek their missing mentor (Liam Ne
- eson) in Japan\, where Christianity is outlawed\, but a visionary voice st
- ill speaks. A meditation on Christian and Buddhist thought\, an illuminati
- on of physical and metaphysical faith. Scorsese as landscape painter.\n\nh
- ttps://www.siff.net/programs-and-events/martin-scorsese/silence\n\nEstimat
- ed start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260423T160138Z
 BEGIN:VEVENT
 SUMMARY:Steal this Story\, Please
 DTSTART:20260423T231500Z
@@ -105,10 +13,11 @@ UID:0K0wUQWjPp
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 16:30
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -120,10 +29,11 @@ UID:B9PnKZYieb
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 19:15
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -304,10 +214,11 @@ UID:kqCNGxZ5KV
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 19:15
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -526,10 +437,11 @@ UID:A9vncNACDW
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 16:30
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -541,10 +453,11 @@ UID:8IxI2X0qS9
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 19:15
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -626,10 +539,11 @@ UID:X7YokKVQ9c
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 13:45
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 13:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -641,10 +555,11 @@ UID:4red9ZIw1Y
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 16:30
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -784,10 +699,11 @@ UID:2AMnSyFpSH
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 16:30
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1163,10 +1079,11 @@ UID:GI5iafom5O
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 19:15
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1210,10 +1127,11 @@ UID:OnouhKB3IE
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 16:15
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1308,10 +1226,11 @@ UID:9ogHtCZmHP
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 13:30
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 13:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1323,10 +1242,11 @@ UID:hYrFTiKKRO
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 19:30
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1574,10 +1494,11 @@ UID:pjLsvTZWn6
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 16:30
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1605,10 +1526,11 @@ UID:0GHlTn2w03
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 16:45
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 16:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1766,10 +1688,11 @@ UID:ueeObqS6J2
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThis riveting portrait of "Democ
  racy Now!"'s Amy Goodman spotlights journalism's power—and peril—amid 
  rising corporate control and political attacks on the press. Q&A with sub
- ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal\, moderat
- ed by editorial cartoonist Ann Telnaes at the 7pm screenings on April 23 a
- nd 24.\n\nhttps://www.siff.net/cinema/in-theaters/steal-this-story-please\
- n\nEstimated start: 19:30
+ ject Amy Goodman and Academy-Award nominated filmmaker Carl Deal at 7pm sc
+ reenings April 23 and 24. - Q&A in conversation with editorial cartoonist 
+ Ann Telnaes on April 23. - Q&A moderated by KBCS Interim General Manager B
+ en Brandow on April  24.\n\nhttps://www.siff.net/cinema/in-theaters/steal
+ -this-story-please\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2186,9 +2109,9 @@ UID:56D9W9AQf5
 DESCRIPTION:Duration: 102 mins (1h42m)\n\nMandy Horvath\, a bilateral ampu
  tee battling her past\, embarks on a gripping journey to summit Mount Kili
  manjaro in her quest to become the first legless woman to conquer it witho
- ut prosthetics.Directors Edward Drake and Scott Veltri\, plus Subject Mand
- y Horvath\, scheduled to attend.\n\nhttps://www.siff.net/festival/the-asce
- nt\n\nEstimated start: 14:45
+ ut prosthetics. Directors Edward Drake and Scott Veltri\, plus Subject Man
+ dy Horvath\, scheduled to attend.\n\nhttps://www.siff.net/festival/the-asc
+ ent\n\nEstimated start: 14:45
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
@@ -2643,9 +2566,9 @@ UID:xVYQ3JDZe6
 DESCRIPTION:Duration: 102 mins (1h42m)\n\nMandy Horvath\, a bilateral ampu
  tee battling her past\, embarks on a gripping journey to summit Mount Kili
  manjaro in her quest to become the first legless woman to conquer it witho
- ut prosthetics.Directors Edward Drake and Scott Veltri\, plus Subject Mand
- y Horvath\, scheduled to attend.\n\nhttps://www.siff.net/festival/the-asce
- nt\n\nEstimated start: 18:15
+ ut prosthetics. Directors Edward Drake and Scott Veltri\, plus Subject Man
+ dy Horvath\, scheduled to attend.\n\nhttps://www.siff.net/festival/the-asc
+ ent\n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -3455,9 +3378,9 @@ UID:maZY9n0IYU
 DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen a human finger is accidenta
  lly served in a cup of fast-food chili\, the restaurant\, its horrified cu
  stomers\, and the digitless victim all scramble over who gets blamed\, and
-  who gets paid\, in this queasy black comedy.Directors Edd Benda and Steph
- en Helstad scheduled to attend.\n\nhttps://www.siff.net/festival/chili-fin
- ger\n\nEstimated start: 21:45
+  who gets paid\, in this queasy black comedy. Directors Edd Benda and Step
+ hen Helstad scheduled to attend.\n\nhttps://www.siff.net/festival/chili-fi
+ nger\n\nEstimated start: 21:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -4212,9 +4135,9 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nReal-life superhero\, or untrain
  ed vigilante? A new documentary revisits the Phoenix Jones saga\, a fascin
  ating chapter in recent Seattle history\, with never-before-seen footage a
  nd illuminating interviews with Phoenix’s family\, co-superheroes\, and 
- enemies.Director Bayan Joonam scheduled to attend.\n\nhttps://www.siff.net
- /festival/phoenix-jones-the-rise-and-fall-of-a-real-life-superhero\n\nEsti
- mated start: 17:45
+ enemies. Director Bayan Joonam scheduled to attend.\n\nhttps://www.siff.ne
+ t/festival/phoenix-jones-the-rise-and-fall-of-a-real-life-superhero\n\nEst
+ imated start: 17:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -4320,9 +4243,9 @@ UID:k6alrciddk
 DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen a human finger is accidenta
  lly served in a cup of fast-food chili\, the restaurant\, its horrified cu
  stomers\, and the digitless victim all scramble over who gets blamed\, and
-  who gets paid\, in this queasy black comedy.Directors Edd Benda and Steph
- en Helstad scheduled to attend.\n\nhttps://www.siff.net/festival/chili-fin
- ger\n\nEstimated start: 21:30
+  who gets paid\, in this queasy black comedy. Directors Edd Benda and Step
+ hen Helstad scheduled to attend.\n\nhttps://www.siff.net/festival/chili-fi
+ nger\n\nEstimated start: 21:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -4448,9 +4371,9 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nReal-life superhero\, or untrain
  ed vigilante? A new documentary revisits the Phoenix Jones saga\, a fascin
  ating chapter in recent Seattle history\, with never-before-seen footage a
  nd illuminating interviews with Phoenix’s family\, co-superheroes\, and 
- enemies.Director Bayan Joonam scheduled to attend.\n\nhttps://www.siff.net
- /festival/phoenix-jones-the-rise-and-fall-of-a-real-life-superhero\n\nEsti
- mated start: 14:15
+ enemies. Director Bayan Joonam scheduled to attend.\n\nhttps://www.siff.ne
+ t/festival/phoenix-jones-the-rise-and-fall-of-a-real-life-superhero\n\nEst
+ imated start: 14:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
