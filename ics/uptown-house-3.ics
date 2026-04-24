@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260423T160138Z
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260423T234500Z
-DTEND:20260424T020000Z
-DTSTAMP:20260423T234500Z
-UID:eG85iiJELb
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  17:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Drama
-DTSTART:20260424T023000Z
-DTEND:20260424T044500Z
-DTSTAMP:20260424T023000Z
-UID:nL9pZSXXBV
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nA happily engaged couple is put 
- to the test when an unexpected turn sends their wedding week off the rails
- .\n\nhttps://www.siff.net/cinema/in-theaters/the-drama\n\nEstimated start:
-  19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260424T140135Z
 BEGIN:VEVENT
 SUMMARY:The Drama
 DTSTART:20260424T233000Z
