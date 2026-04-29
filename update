@@ -210,7 +210,7 @@ class SiffICS:
             description.append(x["EventBody"])
             description.append(x["Url"])
 
-            if False and x["EventsOther"]:
+            if True and x["EventsOther"]:
                 val = "Also playing at:\n"
                 for other in x["EventsOther"]:
                     dt = get_datetime(other["Showtime"]).astimezone(self.LOCAL_TIMEZONE)
