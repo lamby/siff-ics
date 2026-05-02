@@ -3,43 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20260501T162404Z
-BEGIN:VEVENT
-SUMMARY:The Fellowship of the Ring (2001)
-DTSTART:20260501T213000Z
-DTEND:20260502T013500Z
-DTSTAMP:20260501T213000Z
-UID:0iE5mWphDT
-DESCRIPTION:Duration: 228 mins (3h48m)\n\nThe future of civilization rests
-  in the fate of the One Ring\, which has been lost for centuries. Powerful
-  forces are unrelenting in their search for it. But fate has placed it in 
- the hands of a young Hobbit named Frodo Baggins (Elijah Wood)\, who inheri
- ts the Ring and steps into legend. A daunting task lies ahead for Frodo wh
- en he becomes the Ringbearer - to destroy the One Ring in the fires of Mou
- nt Doom where it was forged. 4K remaster.\n\nhttps://www.siff.net/cinema/
- in-theaters/the-lord-of-the-rings-the-fellowship-of-the-ring-extended\n\nA
- lso playing at:\n  • Downtown (Sat 2 May\, 9:00 AM)\n  • Downtown (Sun
-  3 May\, 12:00 PM)\n\nEstimated start: 14:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Two Towers (2003)
-DTSTART:20260502T023000Z
-DTEND:20260502T064000Z
-DTSTAMP:20260502T023000Z
-UID:y5IIltieGr
-DESCRIPTION:Duration: 235 mins (3h55m)\n\nThe Two Towers follows the conti
- nuing quest of Frodo (Elijah Wood) and the Fellowship to destroy the One R
- ing. Frodo and Sam (Sean Astin) discover they are being followed by the my
- sterious Gollum. Aragorn (Viggo Mortensen)\, the Elf archer Legolas and Gi
- mli the Dwarf encounter the besieged Rohan kingdom\, whose once great King
-  Theoden has fallen under Saruman's deadly spell. 4K remaster.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/the-lord-of-the-rings-the-two-towers-exte
- nded\n\nAlso playing at:\n  • Downtown (Sat 2 May\, 2:15 PM)\n  • Down
- town (Sun 3 May\, 5:00 PM)\n  • Downtown (Tue 5 May\, 6:30 PM)\n\nEstima
- ted start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20260502T154319Z
 BEGIN:VEVENT
 SUMMARY:The Fellowship of the Ring (2001)
 DTSTART:20260502T160000Z
@@ -54,8 +18,8 @@ DESCRIPTION:Duration: 228 mins (3h48m)\n\nThe future of civilization rests
  en he becomes the Ringbearer - to destroy the One Ring in the fires of Mou
  nt Doom where it was forged. 4K remaster.\n\nhttps://www.siff.net/cinema/
  in-theaters/the-lord-of-the-rings-the-fellowship-of-the-ring-extended\n\nA
- lso playing at:\n  • Downtown (Fri 1 May\, 2:30 PM)\n  • Downtown (Sun
-  3 May\, 12:00 PM)\n\nEstimated start: 9:15
+ lso playing at:\n  • Downtown (Sun 3 May\, 12:00 PM)\n\nEstimated start:
+  9:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -71,9 +35,8 @@ DESCRIPTION:Duration: 235 mins (3h55m)\n\nThe Two Towers follows the conti
  mli the Dwarf encounter the besieged Rohan kingdom\, whose once great King
   Theoden has fallen under Saruman's deadly spell. 4K remaster.\n\nhttps:/
  /www.siff.net/cinema/in-theaters/the-lord-of-the-rings-the-two-towers-exte
- nded\n\nAlso playing at:\n  • Downtown (Fri 1 May\, 7:30 PM)\n  • Down
- town (Sun 3 May\, 5:00 PM)\n  • Downtown (Tue 5 May\, 6:30 PM)\n\nEstima
- ted start: 14:30
+ nded\n\nAlso playing at:\n  • Downtown (Sun 3 May\, 5:00 PM)\n  • Down
+ town (Tue 5 May\, 6:30 PM)\n\nEstimated start: 14:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -105,8 +68,8 @@ DESCRIPTION:Duration: 228 mins (3h48m)\n\nThe future of civilization rests
  en he becomes the Ringbearer - to destroy the One Ring in the fires of Mou
  nt Doom where it was forged. 4K remaster.\n\nhttps://www.siff.net/cinema/
  in-theaters/the-lord-of-the-rings-the-fellowship-of-the-ring-extended\n\nA
- lso playing at:\n  • Downtown (Fri 1 May\, 2:30 PM)\n  • Downtown (Sat
-  2 May\, 9:00 AM)\n\nEstimated start: 12:15
+ lso playing at:\n  • Downtown (Sat 2 May\, 9:00 AM)\n\nEstimated start: 
+ 12:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -122,9 +85,8 @@ DESCRIPTION:Duration: 235 mins (3h55m)\n\nThe Two Towers follows the conti
  mli the Dwarf encounter the besieged Rohan kingdom\, whose once great King
   Theoden has fallen under Saruman's deadly spell. 4K remaster.\n\nhttps:/
  /www.siff.net/cinema/in-theaters/the-lord-of-the-rings-the-two-towers-exte
- nded\n\nAlso playing at:\n  • Downtown (Fri 1 May\, 7:30 PM)\n  • Down
- town (Sat 2 May\, 2:15 PM)\n  • Downtown (Tue 5 May\, 6:30 PM)\n\nEstima
- ted start: 17:15
+ nded\n\nAlso playing at:\n  • Downtown (Sat 2 May\, 2:15 PM)\n  • Down
+ town (Tue 5 May\, 6:30 PM)\n\nEstimated start: 17:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -155,9 +117,8 @@ DESCRIPTION:Duration: 235 mins (3h55m)\n\nThe Two Towers follows the conti
  mli the Dwarf encounter the besieged Rohan kingdom\, whose once great King
   Theoden has fallen under Saruman's deadly spell. 4K remaster.\n\nhttps:/
  /www.siff.net/cinema/in-theaters/the-lord-of-the-rings-the-two-towers-exte
- nded\n\nAlso playing at:\n  • Downtown (Fri 1 May\, 7:30 PM)\n  • Down
- town (Sat 2 May\, 2:15 PM)\n  • Downtown (Sun 3 May\, 5:00 PM)\n\nEstima
- ted start: 18:45
+ nded\n\nAlso playing at:\n  • Downtown (Sat 2 May\, 2:15 PM)\n  • Down
+ town (Sun 3 May\, 5:00 PM)\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -243,10 +204,11 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nA polar bear is forced to navigat
  e a human world of tourists\, wildlife officers\, and hunters as its ancie
  nt migration collides with modern life. When a sacred predator is branded 
  a nuisance\, it becomes unclear who truly belongs in this shared landscape
- . Editor Jocelyne Chaput scheduled to attend. This film is generously spon
- sored by Michael Weidemann.\n\nhttps://www.siff.net/festival/nuisance-bear
- \n\nAlso playing at:\n  • PACCAR IMAX Theater at Pacific Science Center 
- (Fri 8 May\, 6:00 PM)\n\nEstimated start: 12:45
+ . Editor Jocelyne Chaput and Cinematographer Ian Kerr scheduled to attend.
+  This film is generously sponsored by Michael Weidemann.\n\nhttps://www.si
+ ff.net/festival/nuisance-bear\n\nAlso playing at:\n  • PACCAR IMAX Theat
+ er at Pacific Science Center (Fri 8 May\, 6:00 PM)\n\nEstimated start: 12:
+ 45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -276,10 +238,10 @@ UID:uvFONdLRSQ
 DESCRIPTION:Duration: 101 mins (1h41m)\n\nA comedy writer struggles to pro
  cess the grief over his younger sister’s suicide in this Jay Duplass ens
  emble “traumedy\,” based on the real-life experiences of screenwriter 
- Adam Clayton-Holland’s emotionally raw memoir.Director Jay Duplass sched
- uled to attend.\n\nhttps://www.siff.net/festival/see-you-when-i-see-you\n\
- nAlso playing at:\n  • Uptown House 1 (Sun 10 May\, 2:30 PM)\n\nEstimate
- d start: 18:30
+ Adam Clayton-Holland’s emotionally raw memoir.Director Jay Duplass and E
+ xecutive Producer Mel Esyln scheduled to attend.\n\nhttps://www.siff.net/f
+ estival/see-you-when-i-see-you\n\nAlso playing at:\n  • Uptown House 1 (
+ Sun 10 May\, 2:30 PM)\n\nEstimated start: 18:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -651,9 +613,10 @@ UID:ZfGbQv2R8o
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nPowwow People immerses us in a s
  ingle day at a powwow\, guided by Reuben Little Head’s humor and heart\,
   culminating in a long take honoring community as privilege. Director Sky 
- Hopinka (Ho-Chunk Nation/Pechanga Band of Luiseño Indians) scheduled to a
- ttend.\n\nhttps://www.siff.net/festival/powwow-people\n\nAlso playing at:\
- n  • Uptown House 2 (Sun 17 May\, 4:30 PM)\n\nEstimated start: 14:45
+ Hopinka (Ho-Chunk Nation/Pechanga Band of Luiseño Indians) and Impact Pro
+ ducer Amber Morning Star Byars scheduled to attend.\n\nhttps://www.siff.ne
+ t/festival/powwow-people\n\nAlso playing at:\n  • Uptown House 2 (Sun 17
+  May\, 4:30 PM)\n\nEstimated start: 14:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
