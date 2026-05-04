@@ -29,9 +29,12 @@ re_collapse_newlines = re.compile(r"\n+")
 class SiffICS:
     PADDING = 15  # minutes
     START = datetime.date.today()
-    DAYS = 90
+    DAYS = 30
     LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
     BASE_URL = "https://www.siff.net/calendar?view=list&date="
+
+    FESTIVAL = (datetime.date(2026, 5, 8), datetime.date(2026, 5, 17))
+    FESTIVAL_PADDING = 10
 
     def __init__(self):
         self.session = requests.Session()
@@ -178,29 +181,35 @@ class SiffICS:
             # Overview
             event.add("uid", x["ShowtimeId"])
 
+            # Calculate times
+            start = get_datetime(x["Showtime"])
+            in_festival = self.FESTIVAL[0] <= start.date() <= self.FESTIVAL[1]
+            padding = self.FESTIVAL_PADDING if in_festival else self.PADDING
+            runtime = int(x["LengthInMinutes"])
+            estimated_start = start + datetime.timedelta(
+                minutes=padding,
+            )
+            estimated_start = estimated_start.astimezone(self.LOCAL_TIMEZONE)
+            end = start + datetime.timedelta(
+                minutes=padding + self.round_to_nearest(runtime, 5)
+            )
+            event.add("dtstamp", start)
+            event.add("dtstart", start)
+            event.add("dtend", end)
+
+            # Summary
             summary = x["EventName"]
             if x["Year"] is not None and x["Year"] < datetime.date.today().year - 2:
                 summary = f"{x['EventName']} ({x['Year']})"
+
+            if in_festival and x["EventIndex"] > 1:
+                summary = f"{summary} ({x['EventIndex']}/{x['EventTotal']})"
 
             event.add("summary", summary)
             event.add(
                 "location",
                 f"{x['VenueNameOrig']}, {x['VenueAddress1']}",
             )
-
-            # Calculate times
-            start = get_datetime(x["Showtime"])
-            runtime = int(x["LengthInMinutes"])
-            estimated_start = start + datetime.timedelta(
-                minutes=self.PADDING,
-            )
-            estimated_start = estimated_start.astimezone(self.LOCAL_TIMEZONE)
-            end = start + datetime.timedelta(
-                minutes=self.PADDING + self.round_to_nearest(runtime, 5)
-            )
-            event.add("dtstamp", start)
-            event.add("dtstart", start)
-            event.add("dtend", end)
 
             # Description
             description = []
@@ -210,7 +219,7 @@ class SiffICS:
             description.append(x["EventBody"])
             description.append(x["Url"])
 
-            if True and x["EventsOther"]:
+            if in_festival and x["EventsOther"]:
                 val = "Also playing at:\n"
                 for other in x["EventsOther"]:
                     dt = get_datetime(other["Showtime"]).astimezone(self.LOCAL_TIMEZONE)
@@ -218,7 +227,7 @@ class SiffICS:
                     val += f"  • {other['VenueName']} ({fmt})\n"
                 description.append(val.strip())
 
-            if x["IsStreamed"]:
+            if in_festival and x["IsStreamed"]:
                 description.append(f"Film is also being streamed.")
 
             description.append(

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20260504T143838Z
+LAST-MODIFIED:20260504T223745Z
 BEGIN:VEVENT
 SUMMARY:The Return of the King (2004)
 DTSTART:20260505T013000Z
@@ -37,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Case 137
 DTSTART:20260508T193000Z
-DTEND:20260508T214500Z
+DTEND:20260508T214000Z
 DTSTAMP:20260508T193000Z
 UID:38jSgRffAV
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nWhen a 20-year-old protester is 
@@ -45,13 +45,13 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nWhen a 20-year-old protester is
   in Paris\, it’s up to Stéphanie\, a dedicated officer in the internal 
  affairs unit\, to deliver justice.\n\nhttps://www.siff.net/festival/case-1
  37\n\nAlso playing at:\n  • Uptown House 1 (Mon 11 May\, 8:45 PM)\n\nEst
- imated start: 12:45
+ imated start: 12:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Franz
 DTSTART:20260508T223000Z
-DTEND:20260509T005500Z
+DTEND:20260509T005000Z
 DTSTAMP:20260508T223000Z
 UID:bCDEYHqguG
 DESCRIPTION:Duration: 127 mins (2h07m)\n\nHow do you make sense of Franz K
@@ -59,13 +59,13 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nHow do you make sense of Franz K
  lling plunges into his fiction\, Franz does not explain\, but playfully an
  d inventively explores the man and his work.\n\nhttps://www.siff.net/festi
  val/franz\n\nAlso playing at:\n  • Downtown (Sun 10 May\, 5:00 PM)\n\nEs
- timated start: 15:45
+ timated start: 15:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Power Ballad
 DTSTART:20260509T014500Z
-DTEND:20260509T034000Z
+DTEND:20260509T033500Z
 DTSTAMP:20260509T014500Z
 UID:SiuutVN2BL
 DESCRIPTION:Duration: 98 mins (1h38m)\n\nWhen Rick (Paul Rudd)\, a past-hi
@@ -77,26 +77,26 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nWhen Rick (Paul Rudd)\, a past-hi
  ney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\,
   self-respect\, friendship\, and the price of ambition.\n\nhttps://www.sif
  f.net/festival/power-ballad\n\nAlso playing at:\n  • Downtown (Sat 9 May
- \, 3:30 PM)\n\nEstimated start: 19:00
+ \, 3:30 PM)\n\nEstimated start: 18:55
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mārama
 DTSTART:20260509T041500Z
-DTEND:20260509T061000Z
+DTEND:20260509T060500Z
 DTSTAMP:20260509T041500Z
 UID:OUjxN37Zw4
 DESCRIPTION:Duration: 97 mins (1h37m)\n\nMārama\, Taratoa Stappard’s fe
  ature debut\, is an anti-colonial horror story confronting oppression whil
  e honoring the strength and resilience of Māori women.\n\nhttps://www.sif
  f.net/festival/marama\n\nAlso playing at:\n  • Uptown House 1 (Sat 9 May
- \, 3:15 PM)\n\nEstimated start: 21:30
+ \, 3:15 PM)\n\nEstimated start: 21:25
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Obsession
 DTSTART:20260509T065900Z
-DTEND:20260509T090400Z
+DTEND:20260509T085900Z
 DTSTAMP:20260509T065900Z
 UID:fMBCMwsfjd
 DESCRIPTION:Duration: 109 mins (1h49m)\n\nWhen Bear wishes upon a One Wish
@@ -104,13 +104,13 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nWhen Bear wishes upon a One Wish
  f a horrific and bloody chain of events in this darkly comic\, twisted hor
  ror fable from writer/director Curry Barker.Actor Cooper Tomlinson schedul
  ed to attend.\n\nhttps://www.siff.net/festival/obsession\n\nEstimated star
- t: 0:14
+ t: 0:09
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nuisance Bear
+SUMMARY:Nuisance Bear (2/2)
 DTSTART:20260509T193000Z
-DTEND:20260509T211500Z
+DTEND:20260509T211000Z
 DTSTAMP:20260509T193000Z
 UID:gTWAxRDvo8
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nA polar bear is forced to navigat
@@ -121,13 +121,13 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nA polar bear is forced to navigat
   This film is generously sponsored by Michael Weidemann.\n\nhttps://www.si
  ff.net/festival/nuisance-bear\n\nAlso playing at:\n  • PACCAR IMAX Theat
  er at Pacific Science Center (Fri 8 May\, 6:00 PM)\n\nEstimated start: 12:
- 45
+ 40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Power Ballad
+SUMMARY:Power Ballad (2/2)
 DTSTART:20260509T223000Z
-DTEND:20260510T002500Z
+DTEND:20260510T002000Z
 DTSTAMP:20260509T223000Z
 UID:2juyCOo6gZ
 DESCRIPTION:Duration: 98 mins (1h38m)\n\nWhen Rick (Paul Rudd)\, a past-hi
@@ -139,13 +139,13 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nWhen Rick (Paul Rudd)\, a past-hi
  ney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\,
   self-respect\, friendship\, and the price of ambition.\n\nhttps://www.sif
  f.net/festival/power-ballad\n\nAlso playing at:\n  • Downtown (Fri 8 May
- \, 6:45 PM)\n\nEstimated start: 15:45
+ \, 6:45 PM)\n\nEstimated start: 15:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:See You When I See You
 DTSTART:20260510T011500Z
-DTEND:20260510T031500Z
+DTEND:20260510T031000Z
 DTSTAMP:20260510T011500Z
 UID:uvFONdLRSQ
 DESCRIPTION:Duration: 101 mins (1h41m)\n\nA comedy writer struggles to pro
@@ -154,13 +154,13 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nA comedy writer struggles to pro
  Adam Clayton-Holland’s emotionally raw memoir.Director Jay Duplass and E
  xecutive Producer Mel Esyln scheduled to attend.\n\nhttps://www.siff.net/f
  estival/see-you-when-i-see-you\n\nAlso playing at:\n  • Uptown House 1 (
- Sun 10 May\, 2:30 PM)\n\nEstimated start: 18:30
+ Sun 10 May\, 2:30 PM)\n\nEstimated start: 18:25
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Best Summer
 DTSTART:20260510T041500Z
-DTEND:20260510T055500Z
+DTEND:20260510T055000Z
 DTSTAMP:20260510T041500Z
 UID:goirSKxF13
 DESCRIPTION:Duration: 84 mins (1h24m)\n\nA found footage documentary from 
@@ -169,26 +169,26 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nA found footage documentary from
  oys\, Sonic Youth\, Foo Fighters\, Beck\, Pavement\, Rancid\, The Amps\, a
  nd Bikini Kill. Director Tamra Davis scheduled to attend.\n\nhttps://www.s
  iff.net/festival/the-best-summer\n\nAlso playing at:\n  • Uptown House 2
-  (Sun 10 May\, 2:00 PM)\n\nEstimated start: 21:30
+  (Sun 10 May\, 2:00 PM)\n\nEstimated start: 21:25
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Restoration at Grayson Manor
 DTSTART:20260510T065900Z
-DTEND:20260510T084400Z
+DTEND:20260510T083900Z
 DTSTAMP:20260510T065900Z
 UID:4rVvOJe1O6
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nWhen a spoiled Irish playboy lose
  s his hands\, his controlling mother replaces them with mechanical ones 
  — operated entirely by his murderous subconscious.\n\nhttps://www.siff.n
  et/festival/the-restoration-at-grayson-manor\n\nAlso playing at:\n  • Up
- town House 2 (Mon 11 May\, 3:00 PM)\n\nEstimated start: 0:14
+ town House 2 (Mon 11 May\, 3:00 PM)\n\nEstimated start: 0:09
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queen Kelly (1929)
 DTSTART:20260510T211500Z
-DTEND:20260510T231500Z
+DTEND:20260510T231000Z
 DTSTAMP:20260510T211500Z
 UID:gp34uXSa0W
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn this glorious new restoration
@@ -197,13 +197,13 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn this glorious new restoration
  Stroheim’s shooting script\, this version ingeniously incorporates previ
  ously unseen material to recreate the film’s original dénouement. New 
  4K restoration.\n\nhttps://www.siff.net/festival/queen-kelly\n\nEstimated 
- start: 14:30
+ start: 14:25
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Franz
+SUMMARY:Franz (2/2)
 DTSTART:20260511T000000Z
-DTEND:20260511T022500Z
+DTEND:20260511T022000Z
 DTSTAMP:20260511T000000Z
 UID:p1Q0cNHWgl
 DESCRIPTION:Duration: 127 mins (2h07m)\n\nHow do you make sense of Franz K
@@ -211,13 +211,13 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nHow do you make sense of Franz K
  lling plunges into his fiction\, Franz does not explain\, but playfully an
  d inventively explores the man and his work.\n\nhttps://www.siff.net/festi
  val/franz\n\nAlso playing at:\n  • Downtown (Fri 8 May\, 3:30 PM)\n\nEst
- imated start: 17:15
+ imated start: 17:10
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boorman and the Devil
 DTSTART:20260511T033000Z
-DTEND:20260511T054000Z
+DTEND:20260511T053500Z
 DTSTAMP:20260511T033000Z
 UID:4pGmiopNAQ
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter the success of The Exorcis
@@ -226,13 +226,13 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter the success of The Exorcis
  all Hell broke loose…Director David Kittredge and Co-Producer Craig Smit
  h scheduled to attend.\n\nhttps://www.siff.net/festival/boorman-and-the-de
  vil\n\nAlso playing at:\n  • Downtown (Wed 13 May\, 12:30 PM)\n\nEstimat
- ed start: 20:45
+ ed start: 20:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Primavera
 DTSTART:20260511T220000Z
-DTEND:20260512T000500Z
+DTEND:20260512T000000Z
 DTSTAMP:20260511T220000Z
 UID:C0EhKfFM4G
 DESCRIPTION:Duration: 110 mins (1h50m)\n\nInspired by Antonio Vivaldi’s 
@@ -243,13 +243,13 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nInspired by Antonio Vivaldi’s
  aroque music performance courtesy of the Seattle Bach Festival. This film 
  is generously sponsored by Peggy & Dennis Willingham.\n\nhttps://www.siff.
  net/festival/primavera\n\nAlso playing at:\n  • Uptown House 1 (Fri 15 M
- ay\, 6:00 PM)\n\nEstimated start: 15:15
+ ay\, 6:00 PM)\n\nEstimated start: 15:10
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hen
 DTSTART:20260512T010000Z
-DTEND:20260512T025500Z
+DTEND:20260512T025000Z
 DTSTAMP:20260512T010000Z
 UID:QymoN5Yt5P
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
@@ -257,26 +257,26 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  en proves motherhood looks the same across species. If you think this is a
   goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
  w.siff.net/festival/hen\n\nAlso playing at:\n  • Uptown House 1 (Tue 12 
- May\, 4:00 PM)\n\nEstimated start: 18:15
+ May\, 4:00 PM)\n\nEstimated start: 18:10
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Camp
 DTSTART:20260512T033000Z
-DTEND:20260512T054000Z
+DTEND:20260512T053500Z
 DTSTAMP:20260512T033000Z
 UID:xAwAeEQ7ea
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nHaunted by tragedy\, a young wom
  an finds unlikely refuge at a Christian summer camp…until her new friend
  s and their dangerous magic change everything.\n\nhttps://www.siff.net/fes
  tival/camp\n\nAlso playing at:\n  • PACCAR IMAX Theater at Pacific Scien
- ce Center (Tue 12 May\, 8:30 PM)\n\nEstimated start: 20:45
+ ce Center (Tue 12 May\, 8:30 PM)\n\nEstimated start: 20:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Friend
 DTSTART:20260512T213000Z
-DTEND:20260513T001500Z
+DTEND:20260513T001000Z
 DTSTAMP:20260512T213000Z
 UID:kjxmWFWYNd
 DESCRIPTION:Duration: 146 mins (2h26m)\n\nAward-winning director Ildikó E
@@ -284,13 +284,13 @@ DESCRIPTION:Duration: 146 mins (2h26m)\n\nAward-winning director Ildikó E
  iods at a historic German university\, united by a gingko tree. This film 
  is generously sponsored by Dale Pratt.\n\nhttps://www.siff.net/festival/si
  lent-friend\n\nAlso playing at:\n  • Uptown House 1 (Thu 14 May\, 8:30 P
- M)\n\nEstimated start: 14:45
+ M)\n\nEstimated start: 14:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Murder in the Building
 DTSTART:20260513T010000Z
-DTEND:20260513T030000Z
+DTEND:20260513T025500Z
 DTSTAMP:20260513T010000Z
 UID:TYa3NTowU5
 DESCRIPTION:Duration: 104 mins (1h44m)\n\nA crime writer and his film prof
@@ -298,13 +298,13 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nA crime writer and his film prof
  ey witness a crime in the apartment across the courtyard of their Paris ap
  artment building.\n\nhttps://www.siff.net/festival/murder-in-the-building\
  n\nAlso playing at:\n  • Downtown (Fri 15 May\, 3:00 PM)\n\nEstimated st
- art: 18:15
+ art: 18:10
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIFF & CFC Present A Nightmare on Elm Street with DJ NicFit (1984)
 DTSTART:20260513T040000Z
-DTEND:20260513T055000Z
+DTEND:20260513T054500Z
 DTSTAMP:20260513T040000Z
 UID:CbmCGQOB5Y
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nA group of suburban teenagers lea
@@ -313,13 +313,13 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nA group of suburban teenagers lea
  ttle’s own DJ NicFit will create a live soundtrack to accompany Wes Crav
  en’s original\, paradigm-shifting supernatural chiller.\n\nhttps://www.s
  iff.net/festival/siff-and-cfc-present-a-nightmare-on-elm-street-with-dj-ni
- cfit\n\nEstimated start: 21:15
+ cfit\n\nEstimated start: 21:10
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boorman and the Devil
+SUMMARY:Boorman and the Devil (2/2)
 DTSTART:20260513T193000Z
-DTEND:20260513T214000Z
+DTEND:20260513T213500Z
 DTSTAMP:20260513T193000Z
 UID:POFYtscQnJ
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter the success of The Exorcis
@@ -328,13 +328,13 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter the success of The Exorcis
  all Hell broke loose…Director David Kittredge and Co-Producer Craig Smit
  h scheduled to attend.\n\nhttps://www.siff.net/festival/boorman-and-the-de
  vil\n\nAlso playing at:\n  • Downtown (Sun 10 May\, 8:30 PM)\n\nEstimate
- d start: 12:45
+ d start: 12:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trial of Hein
+SUMMARY:Trial of Hein (2/2)
 DTSTART:20260513T224500Z
-DTEND:20260514T010500Z
+DTEND:20260514T010000Z
 DTSTAMP:20260513T224500Z
 UID:FgsbP362Fg
 DESCRIPTION:Duration: 122 mins (2h02m)\n\nWhen a man comes ashore on a rem
@@ -342,13 +342,13 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nWhen a man comes ashore on a rem
  ul inhabitants of the fishing village hold a formal\, three-day trial to d
  etermine his identity.\n\nhttps://www.siff.net/festival/trial-of-hein\n\nA
  lso playing at:\n  • PACCAR IMAX Theater at Pacific Science Center (Mon 
- 11 May\, 8:30 PM)\n\nEstimated start: 16:00
+ 11 May\, 8:30 PM)\n\nEstimated start: 15:55
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Red Hangar
 DTSTART:20260514T020000Z
-DTEND:20260514T034000Z
+DTEND:20260514T033500Z
 DTSTAMP:20260514T020000Z
 UID:jKD2iUodyB
 DESCRIPTION:Duration: 81 mins (1h21m)\n\nIn the aftermath of the 1973 Chil
@@ -357,13 +357,13 @@ DESCRIPTION:Duration: 81 mins (1h21m)\n\nIn the aftermath of the 1973 Chil
   forced to confront obedience\, loyalty\, and the moral cost of a nation d
  escending into dictatorship.\n\nhttps://www.siff.net/festival/the-red-hang
  ar\n\nAlso playing at:\n  • Uptown House 2 (Fri 15 May\, 1:30 PM)\n\nEst
- imated start: 19:15
+ imated start: 19:10
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chili Finger
 DTSTART:20260514T043000Z
-DTEND:20260514T062500Z
+DTEND:20260514T062000Z
 DTSTAMP:20260514T043000Z
 UID:maZY9n0IYU
 DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen a human finger is accidenta
@@ -372,13 +372,13 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen a human finger is accidenta
   who gets paid\, in this queasy black comedy. Directors Edd Benda and Step
  hen Helstad scheduled to attend.\n\nhttps://www.siff.net/festival/chili-fi
  nger\n\nAlso playing at:\n  • Downtown (Sat 16 May\, 9:15 PM)\n\nEstimat
- ed start: 21:45
+ ed start: 21:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amrum
+SUMMARY:Amrum (2/2)
 DTSTART:20260514T200000Z
-DTEND:20260514T215000Z
+DTEND:20260514T214500Z
 DTSTAMP:20260514T200000Z
 UID:Nol7aCYItS
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nTwelve-year-old Nanning learns of
@@ -386,13 +386,13 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nTwelve-year-old Nanning learns of
   boy’s-eye view of the upheaval on a North Sea island in the last days o
  f World War II.\n\nhttps://www.siff.net/festival/amrum\n\nAlso playing at:
  \n  • PACCAR IMAX Theater at Pacific Science Center (Sun 10 May\, 8:00 P
- M)\n\nEstimated start: 13:15
+ M)\n\nEstimated start: 13:10
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sundays
 DTSTART:20260514T223000Z
-DTEND:20260515T004500Z
+DTEND:20260515T004000Z
 DTSTAMP:20260514T223000Z
 UID:CYhUkgopfj
 DESCRIPTION:Duration: 117 mins (1h57m)\n\nAt 17\, Ainara faces a life-chan
@@ -401,13 +401,13 @@ DESCRIPTION:Duration: 117 mins (1h57m)\n\nAt 17\, Ainara faces a life-chan
  osing freedom. The year's Goya Award standout offers a stirring tale about
   the fragile balance between faith and skepticism.\n\nhttps://www.siff.net
  /festival/sundays\n\nAlso playing at:\n  • Downtown (Sun 17 May\, 4:00 P
- M)\n\nEstimated start: 15:45
+ M)\n\nEstimated start: 15:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sons of the Neon Night
 DTSTART:20260515T013000Z
-DTEND:20260515T035000Z
+DTEND:20260515T034500Z
 DTSTAMP:20260515T013000Z
 UID:HlrKLposBv
 DESCRIPTION:Duration: 124 mins (2h04m)\n\nAn elite cast of Hong Kong actio
@@ -415,13 +415,13 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nAn elite cast of Hong Kong actio
   back to the wildly ambitious\, hyper-stylized crime cinema that put Hong 
  Kong filmmaking on the international map.\n\nhttps://www.siff.net/festival
  /sons-of-the-neon-night\n\nAlso playing at:\n  • Downtown (Sat 16 May\, 
- 11:30 AM)\n\nEstimated start: 18:45
+ 11:30 AM)\n\nEstimated start: 18:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Body Blow
 DTSTART:20260515T043000Z
-DTEND:20260515T062500Z
+DTEND:20260515T062000Z
 DTSTAMP:20260515T043000Z
 UID:TddWxmobPv
 DESCRIPTION:Duration: 99 mins (1h39m)\n\nDanger and desire go hand-in-hand
@@ -429,13 +429,13 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nDanger and desire go hand-in-hand
   to fall for an alluring twink fatale\, in Dean Francis’ explicit and ca
  mpy neo-noir that refracts the erotic thriller through an unapologetically
   queer lens.\n\nhttps://www.siff.net/festival/body-blow\n\nAlso playing at
- :\n  • Uptown House 2 (Sun 17 May\, 2:15 PM)\n\nEstimated start: 21:45
+ :\n  • Uptown House 2 (Sun 17 May\, 2:15 PM)\n\nEstimated start: 21:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It Would Be Night in Caracas
 DTSTART:20260515T193000Z
-DTEND:20260515T212500Z
+DTEND:20260515T212000Z
 DTSTAMP:20260515T193000Z
 UID:xRnsDXofH3
 DESCRIPTION:Duration: 97 mins (1h37m)\n\nSet in Caracas during the 2017 pr
@@ -444,13 +444,13 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nSet in Caracas during the 2017 pr
  \, she is forced into hiding and begins to hatch a desperate plan in a per
  ilous bid to escape the country.\n\nhttps://www.siff.net/festival/it-would
  -be-night-in-caracas\n\nAlso playing at:\n  • Downtown (Sat 16 May\, 6:3
- 0 PM)\n\nEstimated start: 12:45
+ 0 PM)\n\nEstimated start: 12:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Murder in the Building
+SUMMARY:Murder in the Building (2/2)
 DTSTART:20260515T220000Z
-DTEND:20260516T000000Z
+DTEND:20260515T235500Z
 DTSTAMP:20260515T220000Z
 UID:vjYHBdkBfT
 DESCRIPTION:Duration: 104 mins (1h44m)\n\nA crime writer and his film prof
@@ -458,13 +458,13 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nA crime writer and his film prof
  ey witness a crime in the apartment across the courtyard of their Paris ap
  artment building.\n\nhttps://www.siff.net/festival/murder-in-the-building\
  n\nAlso playing at:\n  • Downtown (Tue 12 May\, 6:00 PM)\n\nEstimated st
- art: 15:15
+ art: 15:10
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Balandrau\, Where the Fierce Wind Blew
 DTSTART:20260516T010000Z
-DTEND:20260516T031500Z
+DTEND:20260516T031000Z
 DTSTAMP:20260516T010000Z
 UID:MBY4JaBQkT
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nOn December 30\, 2000\, friends 
@@ -473,13 +473,13 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nOn December 30\, 2000\, friends
   desperate fight against one of the mountain’s deadliest storms. Produce
  r Guille Cascante scheduled to attend.\n\nhttps://www.siff.net/festival/ba
  landrau-where-the-fierce-wind-blew\n\nAlso playing at:\n  • Uptown House
-  1 (Sun 17 May\, 5:00 PM)\n\nEstimated start: 18:15
+  1 (Sun 17 May\, 5:00 PM)\n\nEstimated start: 18:10
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Want Your Sex
 DTSTART:20260516T041500Z
-DTEND:20260516T060000Z
+DTEND:20260516T055500Z
 DTSTAMP:20260516T041500Z
 UID:CJfSfHXHkJ
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nWhen fresh-faced Elliot (Cooper H
@@ -487,26 +487,26 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nWhen fresh-faced Elliot (Cooper H
   Erika Tracy (Olivia Wilde)\, his fantasies come true as Erika taps him to
   become her sexual muse.\n\nhttps://www.siff.net/festival/i-want-your-sex\
  n\nAlso playing at:\n  • Uptown House 1 (Sat 16 May\, 2:45 PM)\n\nEstima
- ted start: 21:30
+ ted start: 21:25
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fifteen
 DTSTART:20260516T065900Z
-DTEND:20260516T085400Z
+DTEND:20260516T084900Z
 DTSTAMP:20260516T065900Z
 UID:CLxaoLtyqy
 DESCRIPTION:Duration: 99 mins (1h39m)\n\nGrowing up is terrifying enough\,
   but for two best friends planning the ultimate quinceañera\, the real ho
  rror is what's growing inside one of them. Director Yossy Zagha scheduled 
  to attend.\n\nhttps://www.siff.net/festival/fifteen\n\nAlso playing at:\n 
-  • Uptown House 2 (Sat 16 May\, 9:00 PM)\n\nEstimated start: 0:14
+  • Uptown House 2 (Sat 16 May\, 9:00 PM)\n\nEstimated start: 0:09
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sons of the Neon Night
+SUMMARY:Sons of the Neon Night (2/2)
 DTSTART:20260516T183000Z
-DTEND:20260516T205000Z
+DTEND:20260516T204500Z
 DTSTAMP:20260516T183000Z
 UID:DQcmX4IuqF
 DESCRIPTION:Duration: 124 mins (2h04m)\n\nAn elite cast of Hong Kong actio
@@ -514,13 +514,13 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nAn elite cast of Hong Kong actio
   back to the wildly ambitious\, hyper-stylized crime cinema that put Hong 
  Kong filmmaking on the international map.\n\nhttps://www.siff.net/festival
  /sons-of-the-neon-night\n\nAlso playing at:\n  • Downtown (Thu 14 May\, 
- 6:30 PM)\n\nEstimated start: 11:45
+ 6:30 PM)\n\nEstimated start: 11:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Powwow People
 DTSTART:20260516T213000Z
-DTEND:20260516T233500Z
+DTEND:20260516T233000Z
 DTSTAMP:20260516T213000Z
 UID:ZfGbQv2R8o
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nPowwow People immerses us in a s
@@ -529,13 +529,13 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nPowwow People immerses us in a s
  Hopinka (Ho-Chunk Nation/Pechanga Band of Luiseño Indians) and Impact Pro
  ducer Amber Morning Star Byars scheduled to attend.\n\nhttps://www.siff.ne
  t/festival/powwow-people\n\nAlso playing at:\n  • Uptown House 2 (Sun 17
-  May\, 4:30 PM)\n\nEstimated start: 14:45
+  May\, 4:30 PM)\n\nEstimated start: 14:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:It Would Be Night in Caracas
+SUMMARY:It Would Be Night in Caracas (2/2)
 DTSTART:20260517T013000Z
-DTEND:20260517T032500Z
+DTEND:20260517T032000Z
 DTSTAMP:20260517T013000Z
 UID:0BMEoi7BQ8
 DESCRIPTION:Duration: 97 mins (1h37m)\n\nSet in Caracas during the 2017 pr
@@ -544,13 +544,13 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nSet in Caracas during the 2017 pr
  \, she is forced into hiding and begins to hatch a desperate plan in a per
  ilous bid to escape the country.\n\nhttps://www.siff.net/festival/it-would
  -be-night-in-caracas\n\nAlso playing at:\n  • Downtown (Fri 15 May\, 12:
- 30 PM)\n\nEstimated start: 18:45
+ 30 PM)\n\nEstimated start: 18:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chili Finger
+SUMMARY:Chili Finger (2/2)
 DTSTART:20260517T041500Z
-DTEND:20260517T061000Z
+DTEND:20260517T060500Z
 DTSTAMP:20260517T041500Z
 UID:k6alrciddk
 DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen a human finger is accidenta
@@ -559,13 +559,13 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen a human finger is accidenta
   who gets paid\, in this queasy black comedy. Directors Edd Benda and Step
  hen Helstad scheduled to attend.\n\nhttps://www.siff.net/festival/chili-fi
  nger\n\nAlso playing at:\n  • Downtown (Wed 13 May\, 9:30 PM)\n\nEstimat
- ed start: 21:30
+ ed start: 21:25
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Furious
 DTSTART:20260517T065900Z
-DTEND:20260517T090900Z
+DTEND:20260517T090400Z
 DTSTAMP:20260517T065900Z
 UID:wehJX6Q0ql
 DESCRIPTION:Duration: 113 mins (1h53m)\n\nAfter the daughter of Wang Wei (
@@ -575,13 +575,13 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nAfter the daughter of Wang Wei (
  ysteriously disappeared. Fueled by a furious vengeance\, the unlikely duo 
  ruthlessly fights against the kidnappers in this explosive martial arts sh
  owdown.\n\nhttps://www.siff.net/festival/the-furious\n\nAlso playing at:\n
-   • Uptown House 2 (Sun 17 May\, 7:45 PM)\n\nEstimated start: 0:14
+   • Uptown House 2 (Sun 17 May\, 7:45 PM)\n\nEstimated start: 0:09
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prisoners of the Earth (1939)
 DTSTART:20260517T203000Z
-DTEND:20260517T221500Z
+DTEND:20260517T221000Z
 DTSTAMP:20260517T203000Z
 UID:34eG8ty9KR
 DESCRIPTION:Duration: 86 mins (1h26m)\n\nThe most acclaimed film by one of
@@ -589,13 +589,13 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nThe most acclaimed film by one of
   social realism: a group of desperate men are conscripted to labor on a tr
  eacherous plantation—a situation that boils over in an explosive act of 
  rebellion.\n\nhttps://www.siff.net/festival/prisoners-of-the-earth\n\nEsti
- mated start: 13:45
+ mated start: 13:40
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sundays
+SUMMARY:Sundays (2/2)
 DTSTART:20260517T230000Z
-DTEND:20260518T011500Z
+DTEND:20260518T011000Z
 DTSTAMP:20260517T230000Z
 UID:9gKSXh34CY
 DESCRIPTION:Duration: 117 mins (1h57m)\n\nAt 17\, Ainara faces a life-chan
@@ -604,7 +604,7 @@ DESCRIPTION:Duration: 117 mins (1h57m)\n\nAt 17\, Ainara faces a life-chan
  osing freedom. The year's Goya Award standout offers a stirring tale about
   the fragile balance between faith and skepticism.\n\nhttps://www.siff.net
  /festival/sundays\n\nAlso playing at:\n  • Downtown (Thu 14 May\, 3:30 P
- M)\n\nEstimated start: 16:15
+ M)\n\nEstimated start: 16:10
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -636,18 +636,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 7:00 PM)\n  • Downtown (Fri 22 May\, 2:30 PM)\n  • Downtown (Fr
- i 22 May\, 6:00 PM)\n  • Downtown (Fri 22 May\, 9:30 PM)\n  • Downtown
-  (Sat 23 May\, 11:00 AM)\n  • Downtown (Sat 23 May\, 2:30 PM)\n  • Dow
- ntown (Sat 23 May\, 6:00 PM)\n  • Downtown (Sat 23 May\, 9:30 PM)\n  •
-  Downtown (Sun 24 May\, 12:00 PM)\n  • Downtown (Sun 24 May\, 3:30 PM)\n
-   • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 15:45
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -665,18 +654,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Fri 22 May\, 2:30 PM)\n  • Downtown (Fr
- i 22 May\, 6:00 PM)\n  • Downtown (Fri 22 May\, 9:30 PM)\n  • Downtown
-  (Sat 23 May\, 11:00 AM)\n  • Downtown (Sat 23 May\, 2:30 PM)\n  • Dow
- ntown (Sat 23 May\, 6:00 PM)\n  • Downtown (Sat 23 May\, 9:30 PM)\n  •
-  Downtown (Sun 24 May\, 12:00 PM)\n  • Downtown (Sun 24 May\, 3:30 PM)\n
-   • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 19:15
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -694,18 +672,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 6:00 PM)\n  • Downtown (Fri 22 May\, 9:30 PM)\n  • Downtown
-  (Sat 23 May\, 11:00 AM)\n  • Downtown (Sat 23 May\, 2:30 PM)\n  • Dow
- ntown (Sat 23 May\, 6:00 PM)\n  • Downtown (Sat 23 May\, 9:30 PM)\n  •
-  Downtown (Sun 24 May\, 12:00 PM)\n  • Downtown (Sun 24 May\, 3:30 PM)\n
-   • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 14:45
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 14:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -723,18 +690,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 9:30 PM)\n  • Downtown
-  (Sat 23 May\, 11:00 AM)\n  • Downtown (Sat 23 May\, 2:30 PM)\n  • Dow
- ntown (Sat 23 May\, 6:00 PM)\n  • Downtown (Sat 23 May\, 9:30 PM)\n  •
-  Downtown (Sun 24 May\, 12:00 PM)\n  • Downtown (Sun 24 May\, 3:30 PM)\n
-   • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 18:15
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -752,18 +708,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Sat 23 May\, 11:00 AM)\n  • Downtown (Sat 23 May\, 2:30 PM)\n  • Dow
- ntown (Sat 23 May\, 6:00 PM)\n  • Downtown (Sat 23 May\, 9:30 PM)\n  •
-  Downtown (Sun 24 May\, 12:00 PM)\n  • Downtown (Sun 24 May\, 3:30 PM)\n
-   • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 21:45
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 21:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -781,18 +726,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 2:30 PM)\n  • Down
- town (Sat 23 May\, 6:00 PM)\n  • Downtown (Sat 23 May\, 9:30 PM)\n  • 
- Downtown (Sun 24 May\, 12:00 PM)\n  • Downtown (Sun 24 May\, 3:30 PM)\n 
-  • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 PM
- )\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:0
- 0 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\,
-  4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 M
- ay\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 1
- 1:15
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 11:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -810,18 +744,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 6:00 PM)\n  • Downtown (Sat 23 May\, 9:30 PM)\n  •
-  Downtown (Sun 24 May\, 12:00 PM)\n  • Downtown (Sun 24 May\, 3:30 PM)\n
-   • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 14:45
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 14:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -839,18 +762,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 9:30 PM)\n  •
-  Downtown (Sun 24 May\, 12:00 PM)\n  • Downtown (Sun 24 May\, 3:30 PM)\n
-   • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 18:15
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -868,18 +780,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sun 24 May\, 12:00 PM)\n  • Downtown (Sun 24 May\, 3:30 PM)\n
-   • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 21:45
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 21:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -897,18 +798,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 3:30 PM)\n 
-  • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 PM
- )\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:0
- 0 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\,
-  4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 M
- ay\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 1
- 2:15
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 12:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -926,18 +816,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 12:00 PM)\n
-   • Downtown (Sun 24 May\, 7:00 PM)\n  • Downtown (Mon 25 May\, 4:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 15:45
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -955,18 +834,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 12:00 PM)\n
-   • Downtown (Sun 24 May\, 3:30 PM)\n  • Downtown (Mon 25 May\, 4:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 19:15
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -984,18 +852,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 12:00 PM)\n
-   • Downtown (Sun 24 May\, 3:30 PM)\n  • Downtown (Sun 24 May\, 7:00 P
- M)\n  • Downtown (Mon 25 May\, 7:30 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 16:15
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1013,18 +870,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 12:00 PM)\n
-   • Downtown (Sun 24 May\, 3:30 PM)\n  • Downtown (Sun 24 May\, 7:00 P
- M)\n  • Downtown (Mon 25 May\, 4:00 PM)\n  • Downtown (Tue 26 May\, 4:
- 00 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 19:45
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1042,18 +888,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 12:00 PM)\n
-   • Downtown (Sun 24 May\, 3:30 PM)\n  • Downtown (Sun 24 May\, 7:00 P
- M)\n  • Downtown (Mon 25 May\, 4:00 PM)\n  • Downtown (Mon 25 May\, 7:
- 30 PM)\n  • Downtown (Tue 26 May\, 7:30 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 16:15
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1071,18 +906,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 12:00 PM)\n
-   • Downtown (Sun 24 May\, 3:30 PM)\n  • Downtown (Sun 24 May\, 7:00 P
- M)\n  • Downtown (Mon 25 May\, 4:00 PM)\n  • Downtown (Mon 25 May\, 7:
- 30 PM)\n  • Downtown (Tue 26 May\, 4:00 PM)\n  • Downtown (Wed 27 May\
- , 4:00 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 19:45
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1100,18 +924,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 12:00 PM)\n
-   • Downtown (Sun 24 May\, 3:30 PM)\n  • Downtown (Sun 24 May\, 7:00 P
- M)\n  • Downtown (Mon 25 May\, 4:00 PM)\n  • Downtown (Mon 25 May\, 7:
- 30 PM)\n  • Downtown (Tue 26 May\, 4:00 PM)\n  • Downtown (Tue 26 May\
- , 7:30 PM)\n  • Downtown (Wed 27 May\, 7:30 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 16:15
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1129,18 +942,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 12:00 PM)\n
-   • Downtown (Sun 24 May\, 3:30 PM)\n  • Downtown (Sun 24 May\, 7:00 P
- M)\n  • Downtown (Mon 25 May\, 4:00 PM)\n  • Downtown (Mon 25 May\, 7:
- 30 PM)\n  • Downtown (Tue 26 May\, 4:00 PM)\n  • Downtown (Tue 26 May\
- , 7:30 PM)\n  • Downtown (Wed 27 May\, 4:00 PM)\n  • Downtown (Thu 28 
- May\, 4:00 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 19:45
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1158,18 +960,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 12:00 PM)\n
-   • Downtown (Sun 24 May\, 3:30 PM)\n  • Downtown (Sun 24 May\, 7:00 P
- M)\n  • Downtown (Mon 25 May\, 4:00 PM)\n  • Downtown (Mon 25 May\, 7:
- 30 PM)\n  • Downtown (Tue 26 May\, 4:00 PM)\n  • Downtown (Tue 26 May\
- , 7:30 PM)\n  • Downtown (Wed 27 May\, 4:00 PM)\n  • Downtown (Wed 27 
- May\, 7:30 PM)\n  • Downtown (Thu 28 May\, 7:30 PM)\n\nEstimated start: 
- 16:15
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1187,18 +978,7 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\nThe Mandalorian and Grogu embark
  young apprentice Grogu.   Opening week 3D showtimes:May 21 - 3:30pmMay 22
   - 6:00pmMay 23 - 2:30pmMay 24 - 3:30pmMay 25 - 7:30pmMay 26 - 4:00pmMay 2
  7 - 7:30pmMay 28 - 4:00pm\n\nhttps://www.siff.net/cinema/in-theaters/star-
- wars-the-mandalorian-and-grogu\n\nAlso playing at:\n  • Downtown (Thu 21
-  May\, 3:30 PM)\n  • Downtown (Thu 21 May\, 7:00 PM)\n  • Downtown (Fr
- i 22 May\, 2:30 PM)\n  • Downtown (Fri 22 May\, 6:00 PM)\n  • Downtown
-  (Fri 22 May\, 9:30 PM)\n  • Downtown (Sat 23 May\, 11:00 AM)\n  • Dow
- ntown (Sat 23 May\, 2:30 PM)\n  • Downtown (Sat 23 May\, 6:00 PM)\n  •
-  Downtown (Sat 23 May\, 9:30 PM)\n  • Downtown (Sun 24 May\, 12:00 PM)\n
-   • Downtown (Sun 24 May\, 3:30 PM)\n  • Downtown (Sun 24 May\, 7:00 P
- M)\n  • Downtown (Mon 25 May\, 4:00 PM)\n  • Downtown (Mon 25 May\, 7:
- 30 PM)\n  • Downtown (Tue 26 May\, 4:00 PM)\n  • Downtown (Tue 26 May\
- , 7:30 PM)\n  • Downtown (Wed 27 May\, 4:00 PM)\n  • Downtown (Wed 27 
- May\, 7:30 PM)\n  • Downtown (Thu 28 May\, 4:00 PM)\n\nEstimated start: 
- 19:45
+ wars-the-mandalorian-and-grogu\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1213,30 +993,6 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nCommunity Screenings A young boy
  s the power of friendship\, love\, and the boundless wonders of the univer
  se. 4K restoration\n\nhttps://www.siff.net/programs-and-events/community-s
  creenings/et-the-extra-terrestrial\n\nEstimated start: 11:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sleepaway Camp: The Midnight Mass Experience (1983)
-DTSTART:20260625T020000Z
-DTEND:20260625T041500Z
-DTSTAMP:20260625T020000Z
-UID:LCJ0bNw1Nl
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPeaches Christ Productions\, AGF
- A\, & Fangoria present: Sleepaway Camp: The Midnight Mass Experience Abo
- ut the Event: Join Peaches Christ\, original star\, "Angela" herself Felis
- sa Rose\, and Midnight Mass co-host Michael Varrati for a one-night-only c
- elebration of the cult horror classic Sleepaway Camp. The evening begins w
- ith a wildly entertaining live show featuring an opening drag performance\
- , a live onstage conversation with Felissa\, Michael\, and Peaches\, follo
- wed by an ’80s Camp Costume Contest with audience participation. After t
- he live show\, settle in for a screening of Sleepaway Camp on the big scre
- en!VIP ticket holders will be invited to a special meet-and-greet with Fel
- issa Rose\, Peaches Christ\, and Michael Varrati at the start of the film 
- screening\, including a photo opportunity and autographs (up to two items 
- per guest). Whether you’re a longtime fan or a first-time camper\, this 
- is a unique chance to experience Sleepaway Camp like never before.\n\nhttp
- s://www.siff.net/cinema/in-theaters/sleepaway-camp\n\nEstimated start: 19:
- 15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 END:VCALENDAR
