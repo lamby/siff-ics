@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20260504T223745Z
+LAST-MODIFIED:20260504T224158Z
 BEGIN:VEVENT
 SUMMARY:The Return of the King (2004)
 DTSTART:20260505T013000Z
@@ -35,7 +35,7 @@ DESCRIPTION:Duration: 235 mins (3h55m)\n\nThe Two Towers follows the conti
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Case 137
+SUMMARY:Case 137 (1/2)
 DTSTART:20260508T193000Z
 DTEND:20260508T214000Z
 DTSTAMP:20260508T193000Z
@@ -49,7 +49,7 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nWhen a 20-year-old protester is
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Franz
+SUMMARY:Franz (1/2)
 DTSTART:20260508T223000Z
 DTEND:20260509T005000Z
 DTSTAMP:20260508T223000Z
@@ -63,7 +63,7 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nHow do you make sense of Franz K
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Power Ballad
+SUMMARY:Power Ballad (1/2)
 DTSTART:20260509T014500Z
 DTEND:20260509T033500Z
 DTSTAMP:20260509T014500Z
@@ -81,7 +81,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nWhen Rick (Paul Rudd)\, a past-hi
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mārama
+SUMMARY:Mārama (1/2)
 DTSTART:20260509T041500Z
 DTEND:20260509T060500Z
 DTSTAMP:20260509T041500Z
@@ -143,7 +143,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nWhen Rick (Paul Rudd)\, a past-hi
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:See You When I See You
+SUMMARY:See You When I See You (1/2)
 DTSTART:20260510T011500Z
 DTEND:20260510T031000Z
 DTSTAMP:20260510T011500Z
@@ -158,7 +158,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nA comedy writer struggles to pro
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Best Summer
+SUMMARY:The Best Summer (1/2)
 DTSTART:20260510T041500Z
 DTEND:20260510T055000Z
 DTSTAMP:20260510T041500Z
@@ -173,7 +173,7 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nA found footage documentary from
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Restoration at Grayson Manor
+SUMMARY:The Restoration at Grayson Manor (1/2)
 DTSTART:20260510T065900Z
 DTEND:20260510T083900Z
 DTSTAMP:20260510T065900Z
@@ -215,7 +215,7 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nHow do you make sense of Franz K
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boorman and the Devil
+SUMMARY:Boorman and the Devil (1/2)
 DTSTART:20260511T033000Z
 DTEND:20260511T053500Z
 DTSTAMP:20260511T033000Z
@@ -230,7 +230,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter the success of The Exorcis
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Primavera
+SUMMARY:Primavera (1/2)
 DTSTART:20260511T220000Z
 DTEND:20260512T000000Z
 DTSTAMP:20260511T220000Z
@@ -247,7 +247,7 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nInspired by Antonio Vivaldi’s
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hen
+SUMMARY:Hen (1/2)
 DTSTART:20260512T010000Z
 DTEND:20260512T025000Z
 DTSTAMP:20260512T010000Z
@@ -261,7 +261,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Camp
+SUMMARY:Camp (1/2)
 DTSTART:20260512T033000Z
 DTEND:20260512T053500Z
 DTSTAMP:20260512T033000Z
@@ -274,7 +274,7 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nHaunted by tragedy\, a young wom
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Silent Friend
+SUMMARY:Silent Friend (1/2)
 DTSTART:20260512T213000Z
 DTEND:20260513T001000Z
 DTSTAMP:20260512T213000Z
@@ -288,7 +288,7 @@ DESCRIPTION:Duration: 146 mins (2h26m)\n\nAward-winning director Ildikó E
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Murder in the Building
+SUMMARY:Murder in the Building (1/2)
 DTSTART:20260513T010000Z
 DTEND:20260513T025500Z
 DTSTAMP:20260513T010000Z
@@ -346,7 +346,7 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nWhen a man comes ashore on a rem
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Red Hangar
+SUMMARY:The Red Hangar (1/2)
 DTSTART:20260514T020000Z
 DTEND:20260514T033500Z
 DTSTAMP:20260514T020000Z
@@ -361,7 +361,7 @@ DESCRIPTION:Duration: 81 mins (1h21m)\n\nIn the aftermath of the 1973 Chil
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chili Finger
+SUMMARY:Chili Finger (1/2)
 DTSTART:20260514T043000Z
 DTEND:20260514T062000Z
 DTSTAMP:20260514T043000Z
@@ -390,7 +390,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nTwelve-year-old Nanning learns of
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sundays
+SUMMARY:Sundays (1/2)
 DTSTART:20260514T223000Z
 DTEND:20260515T004000Z
 DTSTAMP:20260514T223000Z
@@ -405,7 +405,7 @@ DESCRIPTION:Duration: 117 mins (1h57m)\n\nAt 17\, Ainara faces a life-chan
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sons of the Neon Night
+SUMMARY:Sons of the Neon Night (1/2)
 DTSTART:20260515T013000Z
 DTEND:20260515T034500Z
 DTSTAMP:20260515T013000Z
@@ -419,7 +419,7 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nAn elite cast of Hong Kong actio
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Body Blow
+SUMMARY:Body Blow (1/2)
 DTSTART:20260515T043000Z
 DTEND:20260515T062000Z
 DTSTAMP:20260515T043000Z
@@ -433,7 +433,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nDanger and desire go hand-in-hand
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:It Would Be Night in Caracas
+SUMMARY:It Would Be Night in Caracas (1/2)
 DTSTART:20260515T193000Z
 DTEND:20260515T212000Z
 DTSTAMP:20260515T193000Z
@@ -462,7 +462,7 @@ DESCRIPTION:Duration: 104 mins (1h44m)\n\nA crime writer and his film prof
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Balandrau\, Where the Fierce Wind Blew
+SUMMARY:Balandrau\, Where the Fierce Wind Blew (1/2)
 DTSTART:20260516T010000Z
 DTEND:20260516T031000Z
 DTSTAMP:20260516T010000Z
@@ -477,7 +477,7 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nOn December 30\, 2000\, friends
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I Want Your Sex
+SUMMARY:I Want Your Sex (1/2)
 DTSTART:20260516T041500Z
 DTEND:20260516T055500Z
 DTSTAMP:20260516T041500Z
@@ -491,7 +491,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nWhen fresh-faced Elliot (Cooper H
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fifteen
+SUMMARY:Fifteen (1/2)
 DTSTART:20260516T065900Z
 DTEND:20260516T084900Z
 DTSTAMP:20260516T065900Z
@@ -518,7 +518,7 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nAn elite cast of Hong Kong actio
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Powwow People
+SUMMARY:Powwow People (1/2)
 DTSTART:20260516T213000Z
 DTEND:20260516T233000Z
 DTSTAMP:20260516T213000Z
@@ -563,7 +563,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nWhen a human finger is accidenta
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Furious
+SUMMARY:The Furious (1/2)
 DTSTART:20260517T065900Z
 DTEND:20260517T090400Z
 DTSTAMP:20260517T065900Z
@@ -993,6 +993,30 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nCommunity Screenings A young boy
  s the power of friendship\, love\, and the boundless wonders of the univer
  se. 4K restoration\n\nhttps://www.siff.net/programs-and-events/community-s
  creenings/et-the-extra-terrestrial\n\nEstimated start: 11:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sleepaway Camp: The Midnight Mass Experience (1983)
+DTSTART:20260625T020000Z
+DTEND:20260625T041500Z
+DTSTAMP:20260625T020000Z
+UID:LCJ0bNw1Nl
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nPeaches Christ Productions\, AGF
+ A\, & Fangoria present: Sleepaway Camp: The Midnight Mass Experience Abo
+ ut the Event: Join Peaches Christ\, original star\, "Angela" herself Felis
+ sa Rose\, and Midnight Mass co-host Michael Varrati for a one-night-only c
+ elebration of the cult horror classic Sleepaway Camp. The evening begins w
+ ith a wildly entertaining live show featuring an opening drag performance\
+ , a live onstage conversation with Felissa\, Michael\, and Peaches\, follo
+ wed by an ’80s Camp Costume Contest with audience participation. After t
+ he live show\, settle in for a screening of Sleepaway Camp on the big scre
+ en!VIP ticket holders will be invited to a special meet-and-greet with Fel
+ issa Rose\, Peaches Christ\, and Michael Varrati at the start of the film 
+ screening\, including a photo opportunity and autographs (up to two items 
+ per guest). Whether you’re a longtime fan or a first-time camper\, this 
+ is a unique chance to experience Sleepaway Camp like never before.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/sleepaway-camp\n\nEstimated start: 19:
+ 15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 END:VCALENDAR
