@@ -32,13 +32,15 @@ layout: default
     The end times of the movies are automatically calculated based on the
     duration of the movie, but padding is added as well to accommodate
     trailers. Each entry's 'Description' field contains the synopsis of the
-    film.
+    film, and the 'Location' field is set as well — especially useful during
+    the SIFF Film Festival.
 </p>
 
 <p>
-    In addition, during the SIFF festival, this description field also includes
-    the other times and locations a movie might be playing. The padding is
-    adjusted as well.
+    Indeed, during the SIFF festival, this description field also includes
+    the other times and locations each movie is playing. The padding to the
+    end of each festival movie is adjusted as well, as it is typically
+    shorter.
 </p>
 
 
