@@ -202,8 +202,8 @@ class SiffICS:
             if x["Year"] is not None and x["Year"] < datetime.date.today().year - 2:
                 summary = f"{x['EventName']} ({x['Year']})"
 
-            if in_festival and x["EventsOther"]:
-                summary = f"{summary} ({x['EventIndex']}/{x['EventTotal']})"
+            #if in_festival and x["EventsOther"]:
+            #    summary = f"{summary} ({x['EventIndex']}/{x['EventTotal']})"
 
             event.add("summary", summary)
             event.add(
