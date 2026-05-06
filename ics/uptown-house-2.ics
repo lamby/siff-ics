@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260506T144058Z
+LAST-MODIFIED:20260506T192322Z
 BEGIN:VEVENT
-SUMMARY:To Hold a Mountain (1/2)
+SUMMARY:To Hold a Mountain
 DTSTART:20260508T193000Z
 DTEND:20260508T212500Z
 DTSTAMP:20260508T193000Z
@@ -20,7 +20,7 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nSemi-nomadic shepherd and cheese
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Renoir (1/2)
+SUMMARY:Renoir
 DTSTART:20260508T220000Z
 DTEND:20260509T001000Z
 DTSTAMP:20260508T220000Z
@@ -34,7 +34,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nA coming-of-age story following
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Birds of War (1/2)
+SUMMARY:Birds of War
 DTSTART:20260509T010000Z
 DTEND:20260509T023500Z
 DTSTAMP:20260509T010000Z
@@ -49,7 +49,7 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nLebanese journalist Janay Boulos
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Friend’s House is Here (1/2)
+SUMMARY:The Friend’s House is Here
 DTSTART:20260509T033000Z
 DTEND:20260509T051500Z
 DTSTAMP:20260509T033000Z
@@ -64,7 +64,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nPari and Hanna are best friends a
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Edie Arnold is a Loser (2/2)
+SUMMARY:Edie Arnold is a Loser
 DTSTART:20260509T194500Z
 DTEND:20260509T212500Z
 DTSTAMP:20260509T194500Z
@@ -79,7 +79,7 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nLace up your combat boots and whi
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:April X (2/2)
+SUMMARY:April X
 DTSTART:20260509T223000Z
 DTEND:20260510T001500Z
 DTSTAMP:20260509T223000Z
@@ -94,7 +94,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nA black-market body-parts hustler
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Under a Million Stars (1/2)
+SUMMARY:Under a Million Stars
 DTSTART:20260510T011500Z
 DTEND:20260510T025500Z
 DTSTAMP:20260510T011500Z
@@ -134,7 +134,7 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nExplore the stories and fables th
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Best Summer (2/2)
+SUMMARY:The Best Summer
 DTSTART:20260510T210000Z
 DTEND:20260510T223500Z
 DTSTAMP:20260510T210000Z
@@ -149,7 +149,7 @@ DESCRIPTION:Duration: 84 mins (1h24m)\n\nA found footage documentary from
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soul Patrol (1/2)
+SUMMARY:Soul Patrol
 DTSTART:20260511T000000Z
 DTEND:20260511T015000Z
 DTSTAMP:20260511T000000Z
@@ -162,7 +162,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nThe Vietnam War's first all-Black
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salvation (1/2)
+SUMMARY:Salvation
 DTSTART:20260511T023000Z
 DTEND:20260511T044000Z
 DTSTAMP:20260511T023000Z
@@ -176,7 +176,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a historical moment when an
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Restoration at Grayson Manor (2/2)
+SUMMARY:The Restoration at Grayson Manor
 DTSTART:20260511T220000Z
 DTEND:20260511T234000Z
 DTSTAMP:20260511T220000Z
@@ -189,7 +189,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nWhen a spoiled Irish playboy lose
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American Doctor (1/2)
+SUMMARY:American Doctor
 DTSTART:20260512T003000Z
 DTEND:20260512T021500Z
 DTSTAMP:20260512T003000Z
@@ -204,7 +204,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iván & Hadoum (1/2)
+SUMMARY:Iván & Hadoum
 DTSTART:20260512T030000Z
 DTEND:20260512T045500Z
 DTSTAMP:20260512T030000Z
@@ -219,7 +219,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nAmid the sprawling greenhouses o
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cuba & Alaska (1/2)
+SUMMARY:Cuba & Alaska
 DTSTART:20260512T200000Z
 DTEND:20260512T214500Z
 DTSTAMP:20260512T200000Z
@@ -234,7 +234,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nAmid the carnage of war in Ukrain
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American Doctor (2/2)
+SUMMARY:American Doctor
 DTSTART:20260512T223000Z
 DTEND:20260513T001500Z
 DTSTAMP:20260512T223000Z
@@ -249,7 +249,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One of Our Own: A Tribute to Joan Roca (1/2)
+SUMMARY:One of Our Own: A Tribute to Joan Roca
 DTSTART:20260513T010000Z
 DTEND:20260513T022000Z
 DTSTAMP:20260513T010000Z
@@ -264,7 +264,7 @@ DESCRIPTION:Duration: 70 mins (1h10m)\n\nCatalan chef Joan Roca\, hailed a
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tell Everyone (2/2)
+SUMMARY:Tell Everyone
 DTSTART:20260513T033000Z
 DTEND:20260513T053500Z
 DTSTAMP:20260513T033000Z
@@ -277,7 +277,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nOn a remote island where trouble
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One of Our Own: A Tribute to Joan Roca (2/2)
+SUMMARY:One of Our Own: A Tribute to Joan Roca
 DTSTART:20260513T203000Z
 DTEND:20260513T215000Z
 DTSTAMP:20260513T203000Z
@@ -292,7 +292,7 @@ DESCRIPTION:Duration: 70 mins (1h10m)\n\nCatalan chef Joan Roca\, hailed a
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bucks Harbor (2/2)
+SUMMARY:Bucks Harbor
 DTSTART:20260513T224500Z
 DTEND:20260514T003500Z
 DTSTAMP:20260513T224500Z
@@ -307,7 +307,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nIn the small port of Bucks Harbor
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Three of a Kind (1/2)
+SUMMARY:Three of a Kind
 DTSTART:20260514T013000Z
 DTEND:20260514T032000Z
 DTSTAMP:20260514T013000Z
@@ -322,7 +322,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nIn Charlotte Brodthagen’s tende
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hijra (1/2)
+SUMMARY:Hijra
 DTSTART:20260514T040000Z
 DTEND:20260514T060500Z
 DTSTAMP:20260514T040000Z
@@ -335,7 +335,7 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nSitti is on a pilgrimage to Mecc
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Burn (2/2)
+SUMMARY:Burn
 DTSTART:20260514T191500Z
 DTEND:20260514T211000Z
 DTSTAMP:20260514T191500Z
@@ -349,7 +349,7 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nWhen runaway teen Ju-Ju is embra
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Three of a Kind (2/2)
+SUMMARY:Three of a Kind
 DTSTART:20260514T223000Z
 DTEND:20260515T002000Z
 DTSTAMP:20260514T223000Z
@@ -364,7 +364,7 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nIn Charlotte Brodthagen’s tende
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kikuyu Land (1/2)
+SUMMARY:Kikuyu Land
 DTSTART:20260515T013000Z
 DTEND:20260515T031500Z
 DTSTAMP:20260515T013000Z
@@ -380,7 +380,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nWhat begins as a seemingly straig
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gaua (1/2)
+SUMMARY:Gaua
 DTSTART:20260515T040000Z
 DTEND:20260515T055000Z
 DTSTAMP:20260515T040000Z
@@ -394,7 +394,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nFleeing her husband\, Kattalin en
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Red Hangar (2/2)
+SUMMARY:The Red Hangar
 DTSTART:20260515T203000Z
 DTEND:20260515T220500Z
 DTSTAMP:20260515T203000Z
@@ -409,7 +409,7 @@ DESCRIPTION:Duration: 81 mins (1h21m)\n\nIn the aftermath of the 1973 Chil
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kikuyu Land (2/2)
+SUMMARY:Kikuyu Land
 DTSTART:20260515T230000Z
 DTEND:20260516T004500Z
 DTSTAMP:20260515T230000Z
@@ -451,7 +451,7 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nSome films deserve to be animated
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Life We Leave (2/2)
+SUMMARY:The Life We Leave
 DTSTART:20260516T200000Z
 DTEND:20260516T214000Z
 DTSTAMP:20260516T200000Z
@@ -468,7 +468,7 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nAn ambitious entrepreneur and two
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lady (1/2)
+SUMMARY:Lady
 DTSTART:20260516T223000Z
 DTEND:20260517T001500Z
 DTSTAMP:20260516T223000Z
@@ -483,7 +483,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Big Cheese (1/2)
+SUMMARY:The Big Cheese
 DTSTART:20260517T011500Z
 DTEND:20260517T031000Z
 DTSTAMP:20260517T011500Z
@@ -502,7 +502,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nAdam “Mr. Moo” Moskowitz is
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fifteen (2/2)
+SUMMARY:Fifteen
 DTSTART:20260517T040000Z
 DTEND:20260517T055000Z
 DTSTAMP:20260517T040000Z
@@ -515,7 +515,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nGrowing up is terrifying enough\,
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Strange River (2/2)
+SUMMARY:Strange River
 DTSTART:20260517T184500Z
 DTEND:20260517T204500Z
 DTSTAMP:20260517T184500Z
@@ -531,7 +531,7 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nSixteen-year-old Dídac spends a
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Body Blow (2/2)
+SUMMARY:Body Blow
 DTSTART:20260517T211500Z
 DTEND:20260517T230500Z
 DTSTAMP:20260517T211500Z
@@ -545,7 +545,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nDanger and desire go hand-in-hand
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Powwow People (2/2)
+SUMMARY:Powwow People
 DTSTART:20260517T233000Z
 DTEND:20260518T013000Z
 DTSTAMP:20260517T233000Z

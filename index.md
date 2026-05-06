@@ -8,6 +8,24 @@ layout: default
 </head>
 <body>
 
+<p>
+    This website provides `.ics` files for upcoming <a href="https://www.siff.net/">SIFF</a>
+    movies, so that you can see the schedule in your regular calendar along with your other
+    events. This makes it easier to see whether you are free and/or can arrange
+    double bills etc.
+</p>
+
+<p>
+    The end times of the movies are automatically calculated based on the duration of the
+    movie, but some padding is added as well to accommodate trailers etc.
+    The calendar "Description" field contains the synopsis of the film.
+</p>
+
+<p>
+    In addition, during the SIFF festival, this description field also includes the other
+    times and locations a movie might be playing. (The padding is adjusted as well.)
+</p>
+
 <a href="{{ site.github.repository_url }}"><img decoding="async" loading="lazy" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_darkblue_121621.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1" style="position: absolute; top: 0; right: 0; border: 0;"></a>
 
 <a href="https://www.siff.net/">

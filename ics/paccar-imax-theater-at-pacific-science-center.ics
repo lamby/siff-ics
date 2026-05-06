@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (PACCAR IMAX Theater at Pacific Science Center)
 X-WR-CALNAME:🎬 SIFF (PACCAR IMAX Theater at Pacific Science Center)
-LAST-MODIFIED:20260506T144058Z
+LAST-MODIFIED:20260506T192322Z
 BEGIN:VEVENT
-SUMMARY:Nuisance Bear (1/2)
+SUMMARY:Nuisance Bear
 DTSTART:20260509T010000Z
 DTEND:20260509T024000Z
 DTSTAMP:20260509T010000Z
@@ -21,7 +21,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nA polar bear is forced to navigat
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:April X (1/2)
+SUMMARY:April X
 DTSTART:20260509T033000Z
 DTEND:20260509T051500Z
 DTSTAMP:20260509T033000Z
@@ -36,7 +36,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nA black-market body-parts hustler
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Songbirds’ Secret (1/2)
+SUMMARY:The Songbirds’ Secret
 DTSTART:20260509T190000Z
 DTEND:20260509T203500Z
 DTSTAMP:20260509T190000Z
@@ -50,7 +50,7 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nEmbark on a rollicking adventure
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Ascent (1/2)
+SUMMARY:The Ascent
 DTSTART:20260509T213000Z
 DTEND:20260509T232500Z
 DTSTAMP:20260509T213000Z
@@ -65,7 +65,7 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nMandy Horvath\, a bilateral ampu
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maintenance Artist (1/2)
+SUMMARY:Maintenance Artist
 DTSTART:20260510T003000Z
 DTEND:20260510T021500Z
 DTSTAMP:20260510T003000Z
@@ -80,7 +80,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nOverlooked acts like maintaining
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Another World (1/2)
+SUMMARY:Another World
 DTSTART:20260510T030000Z
 DTEND:20260510T050500Z
 DTSTAMP:20260510T030000Z
@@ -94,7 +94,7 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nA harrowing\, arrestingly render
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yo (Love is a Rebellious Bird) (2/2)
+SUMMARY:Yo (Love is a Rebellious Bird)
 DTSTART:20260510T190000Z
 DTEND:20260510T203000Z
 DTSTAMP:20260510T190000Z
@@ -109,7 +109,7 @@ DESCRIPTION:Duration: 78 mins (1h18m)\n\nA vibrant intergenerational frien
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Late Fame (2/2)
+SUMMARY:Late Fame
 DTSTART:20260510T213000Z
 DTEND:20260510T232000Z
 DTSTAMP:20260510T213000Z
@@ -124,7 +124,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghost in the Machine (1/2)
+SUMMARY:Ghost in the Machine
 DTSTART:20260511T000000Z
 DTEND:20260511T020000Z
 DTSTAMP:20260511T000000Z
@@ -140,7 +140,7 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nIs AI racist? This documentary s
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amrum (1/2)
+SUMMARY:Amrum
 DTSTART:20260511T030000Z
 DTEND:20260511T044500Z
 DTSTAMP:20260511T030000Z
@@ -153,7 +153,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nTwelve-year-old Nanning learns of
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Songbirds’ Secret (2/2)
+SUMMARY:The Songbirds’ Secret
 DTSTART:20260512T010000Z
 DTEND:20260512T023500Z
 DTSTAMP:20260512T010000Z
@@ -167,7 +167,7 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nEmbark on a rollicking adventure
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trial of Hein (1/2)
+SUMMARY:Trial of Hein
 DTSTART:20260512T033000Z
 DTEND:20260512T054500Z
 DTSTAMP:20260512T033000Z
@@ -181,7 +181,7 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nWhen a man comes ashore on a rem
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Three Goodbyes (1/2)
+SUMMARY:Three Goodbyes
 DTSTART:20260513T004500Z
 DTEND:20260513T030000Z
 DTSTAMP:20260513T004500Z
@@ -195,7 +195,7 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nAfter years together\, Marta and
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Camp (2/2)
+SUMMARY:Camp
 DTSTART:20260513T033000Z
 DTEND:20260513T053500Z
 DTSTAMP:20260513T033000Z
@@ -208,7 +208,7 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nHaunted by tragedy\, a young wom
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Strange River (1/2)
+SUMMARY:Strange River
 DTSTART:20260514T010000Z
 DTEND:20260514T030000Z
 DTSTAMP:20260514T010000Z
@@ -223,7 +223,7 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nSixteen-year-old Dídac spends a
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Becoming Human (1/2)
+SUMMARY:Becoming Human
 DTSTART:20260514T033000Z
 DTEND:20260514T052000Z
 DTSTAMP:20260514T033000Z
@@ -237,7 +237,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nIn this award-winning debut\, Pol
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:En Route To (1/2)
+SUMMARY:En Route To
 DTSTART:20260515T010000Z
 DTEND:20260515T025500Z
 DTSTAMP:20260515T010000Z
@@ -251,7 +251,7 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nA boarding student with a secret
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hanging by a Wire (1/2)
+SUMMARY:Hanging by a Wire
 DTSTART:20260515T033000Z
 DTEND:20260515T050000Z
 DTSTAMP:20260515T033000Z
@@ -266,7 +266,7 @@ DESCRIPTION:Duration: 77 mins (1h17m)\n\nIn remote northern Pakistan\, sch
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:To Hold a Mountain (2/2)
+SUMMARY:To Hold a Mountain
 DTSTART:20260516T010000Z
 DTEND:20260516T025500Z
 DTSTAMP:20260516T010000Z
@@ -280,7 +280,7 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nSemi-nomadic shepherd and cheese
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meadowlarks (1/2)
+SUMMARY:Meadowlarks
 DTSTART:20260516T033000Z
 DTEND:20260516T052500Z
 DTSTAMP:20260516T033000Z
@@ -294,7 +294,7 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nIn Meadowlarks\, Tasha Hubbard e
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cookie Queens (1/2)
+SUMMARY:Cookie Queens
 DTSTART:20260516T203000Z
 DTEND:20260516T221500Z
 DTSTAMP:20260516T203000Z
@@ -309,7 +309,7 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nThis charming SXSW Film & TV Fest
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aanikoobijigan [ancestor/great-grandparent/great-grandchild] (1/2)
+SUMMARY:Aanikoobijigan [ancestor/great-grandparent/great-grandchild]
 DTSTART:20260516T230000Z
 DTEND:20260517T004500Z
 DTSTAMP:20260516T230000Z
@@ -324,7 +324,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nIndigenous elders and activists f
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gaua (2/2)
+SUMMARY:Gaua
 DTSTART:20260517T020000Z
 DTEND:20260517T035000Z
 DTSTAMP:20260517T020000Z
@@ -338,7 +338,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nFleeing her husband\, Kattalin en
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rising Through the Fray (2/2)
+SUMMARY:Rising Through the Fray
 DTSTART:20260517T203000Z
 DTEND:20260517T221000Z
 DTSTAMP:20260517T203000Z
@@ -353,7 +353,7 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nRoller derby built its identity o
 LOCATION:PACCAR IMAX Theater at Pacific Science Center\, None
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beat the Lotto (2/2)
+SUMMARY:Beat the Lotto
 DTSTART:20260517T230000Z
 DTEND:20260518T004000Z
 DTSTAMP:20260517T230000Z

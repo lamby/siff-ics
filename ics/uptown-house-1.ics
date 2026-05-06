@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260506T144058Z
+LAST-MODIFIED:20260506T192322Z
 BEGIN:VEVENT
-SUMMARY:Tell Everyone (1/2)
+SUMMARY:Tell Everyone
 DTSTART:20260508T201500Z
 DTEND:20260508T222000Z
 DTSTAMP:20260508T201500Z
@@ -18,7 +18,7 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nOn a remote island where trouble
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deadline (1/2)
+SUMMARY:Deadline
 DTSTART:20260508T230000Z
 DTEND:20260509T011000Z
 DTSTAMP:20260508T230000Z
@@ -46,7 +46,7 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nIt is our great pleasure to open
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Broken English (1/2)
+SUMMARY:Broken English
 DTSTART:20260509T043000Z
 DTEND:20260509T062000Z
 DTSTAMP:20260509T043000Z
@@ -61,7 +61,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nSinger-songwriter and actress Mar
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Birds of War (2/2)
+SUMMARY:Birds of War
 DTSTART:20260509T191500Z
 DTEND:20260509T205000Z
 DTSTAMP:20260509T191500Z
@@ -76,7 +76,7 @@ DESCRIPTION:Duration: 85 mins (1h25m)\n\nLebanese journalist Janay Boulos
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mārama (2/2)
+SUMMARY:Mārama
 DTSTART:20260509T221500Z
 DTEND:20260510T000500Z
 DTSTAMP:20260509T221500Z
@@ -89,7 +89,7 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nMārama\, Taratoa Stappard’s fe
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Seoul Guardians (1/2)
+SUMMARY:The Seoul Guardians
 DTSTART:20260510T010000Z
 DTEND:20260510T023500Z
 DTSTAMP:20260510T010000Z
@@ -103,7 +103,7 @@ DESCRIPTION:Duration: 81 mins (1h21m)\n\nOn the night of December 3\, 2024
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Late Fame (1/2)
+SUMMARY:Late Fame
 DTSTART:20260510T033000Z
 DTEND:20260510T052000Z
 DTSTAMP:20260510T033000Z
@@ -118,7 +118,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Seoul Guardians (2/2)
+SUMMARY:The Seoul Guardians
 DTSTART:20260510T190000Z
 DTEND:20260510T203500Z
 DTSTAMP:20260510T190000Z
@@ -132,7 +132,7 @@ DESCRIPTION:Duration: 81 mins (1h21m)\n\nOn the night of December 3\, 2024
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:See You When I See You (2/2)
+SUMMARY:See You When I See You
 DTSTART:20260510T213000Z
 DTEND:20260510T232500Z
 DTSTAMP:20260510T213000Z
@@ -147,7 +147,7 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nA comedy writer struggles to pro
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maspalomas (1/2)
+SUMMARY:Maspalomas
 DTSTART:20260511T003000Z
 DTEND:20260511T023500Z
 DTSTAMP:20260511T003000Z
@@ -162,7 +162,7 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nAfter a stroke while vacationing
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deadline (2/2)
+SUMMARY:Deadline
 DTSTART:20260511T031500Z
 DTEND:20260511T052500Z
 DTSTAMP:20260511T031500Z
@@ -176,7 +176,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nIn Kiwi Chow’s drama-thriller\
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghost in the Machine (2/2)
+SUMMARY:Ghost in the Machine
 DTSTART:20260511T221500Z
 DTEND:20260512T001500Z
 DTSTAMP:20260511T221500Z
@@ -192,7 +192,7 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nIs AI racist? This documentary s
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:When a Witness Recants (1/2)
+SUMMARY:When a Witness Recants
 DTSTART:20260512T010000Z
 DTEND:20260512T031000Z
 DTSTAMP:20260512T010000Z
@@ -207,7 +207,7 @@ DESCRIPTION:Duration: 117 mins (1h57m)\n\nThe story of the three Black Bal
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Case 137 (2/2)
+SUMMARY:Case 137
 DTSTART:20260512T034500Z
 DTEND:20260512T055500Z
 DTSTAMP:20260512T034500Z
@@ -221,7 +221,7 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nWhen a 20-year-old protester is
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salvation (2/2)
+SUMMARY:Salvation
 DTSTART:20260512T201500Z
 DTEND:20260512T222500Z
 DTSTAMP:20260512T201500Z
@@ -235,7 +235,7 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a historical moment when an
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hen (2/2)
+SUMMARY:Hen
 DTSTART:20260512T230000Z
 DTEND:20260513T005000Z
 DTSTAMP:20260512T230000Z
@@ -249,7 +249,7 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RADIOHEART: The Drive and Times of DJ Kevin Cole (1/3)
+SUMMARY:RADIOHEART: The Drive and Times of DJ Kevin Cole
 DTSTART:20260513T013000Z
 DTEND:20260513T030500Z
 DTSTAMP:20260513T013000Z
@@ -268,7 +268,7 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nIn his 25-year tenure at KEXP\, D
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Renoir (2/2)
+SUMMARY:Renoir
 DTSTART:20260513T040000Z
 DTEND:20260513T061000Z
 DTSTAMP:20260513T040000Z
@@ -282,7 +282,7 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nA coming-of-age story following
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beat the Lotto (1/2)
+SUMMARY:Beat the Lotto
 DTSTART:20260513T194500Z
 DTEND:20260513T212500Z
 DTSTAMP:20260513T194500Z
@@ -297,7 +297,7 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nWhen Ireland inaugurated its Nati
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maspalomas (2/2)
+SUMMARY:Maspalomas
 DTSTART:20260513T220000Z
 DTEND:20260514T000500Z
 DTSTAMP:20260513T220000Z
@@ -329,7 +329,7 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nA cast of quirky characters\, in
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Promised Sky (2/2)
+SUMMARY:Promised Sky
 DTSTART:20260514T041500Z
 DTEND:20260514T060000Z
 DTSTAMP:20260514T041500Z
@@ -342,7 +342,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nA community of Ivorian women navi
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hijra (2/2)
+SUMMARY:Hijra
 DTSTART:20260514T193000Z
 DTEND:20260514T213500Z
 DTSTAMP:20260514T193000Z
@@ -355,7 +355,7 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nSitti is on a pilgrimage to Mecc
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:When a Witness Recants (2/2)
+SUMMARY:When a Witness Recants
 DTSTART:20260514T220000Z
 DTEND:20260515T001000Z
 DTSTAMP:20260514T220000Z
@@ -370,7 +370,7 @@ DESCRIPTION:Duration: 117 mins (1h57m)\n\nThe story of the three Black Bal
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Life We Leave (1/2)
+SUMMARY:The Life We Leave
 DTSTART:20260515T010000Z
 DTEND:20260515T024000Z
 DTSTAMP:20260515T010000Z
@@ -387,7 +387,7 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nAn ambitious entrepreneur and two
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Silent Friend (2/2)
+SUMMARY:Silent Friend
 DTSTART:20260515T033000Z
 DTEND:20260515T061000Z
 DTSTAMP:20260515T033000Z
@@ -401,7 +401,7 @@ DESCRIPTION:Duration: 146 mins (2h26m)\n\nAward-winning director Ildikó E
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hanging by a Wire (2/2)
+SUMMARY:Hanging by a Wire
 DTSTART:20260515T200000Z
 DTEND:20260515T213000Z
 DTSTAMP:20260515T200000Z
@@ -417,7 +417,7 @@ DESCRIPTION:Duration: 77 mins (1h17m)\n\nIn remote northern Pakistan\, sch
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RADIOHEART: The Drive and Times of DJ Kevin Cole (2/3)
+SUMMARY:RADIOHEART: The Drive and Times of DJ Kevin Cole
 DTSTART:20260515T223000Z
 DTEND:20260516T000500Z
 DTSTAMP:20260515T223000Z
@@ -436,7 +436,7 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nIn his 25-year tenure at KEXP\, D
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Primavera (2/2)
+SUMMARY:Primavera
 DTSTART:20260516T010000Z
 DTEND:20260516T030000Z
 DTSTAMP:20260516T010000Z
@@ -453,7 +453,7 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nInspired by Antonio Vivaldi’s
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Another World (2/2)
+SUMMARY:Another World
 DTSTART:20260516T190000Z
 DTEND:20260516T210500Z
 DTSTAMP:20260516T190000Z
@@ -468,7 +468,7 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nA harrowing\, arrestingly render
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I Want Your Sex (2/2)
+SUMMARY:I Want Your Sex
 DTSTART:20260516T214500Z
 DTEND:20260516T232500Z
 DTSTAMP:20260516T214500Z
@@ -482,7 +482,7 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nWhen fresh-faced Elliot (Cooper H
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Phoenix Jones: The Rise and Fall of a Real Life Superhero (1/2)
+SUMMARY:Phoenix Jones: The Rise and Fall of a Real Life Superhero
 DTSTART:20260517T003000Z
 DTEND:20260517T024000Z
 DTSTAMP:20260517T003000Z
@@ -498,7 +498,7 @@ DESCRIPTION:Duration: 116 mins (1h56m)\n\nReal-life superhero\, or untrain
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Three Goodbyes (2/2)
+SUMMARY:Three Goodbyes
 DTSTART:20260517T033000Z
 DTEND:20260517T054500Z
 DTSTAMP:20260517T033000Z
@@ -513,7 +513,7 @@ DESCRIPTION:Duration: 124 mins (2h04m)\n\nAfter years together\, Marta and
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lady (2/2)
+SUMMARY:Lady
 DTSTART:20260517T183000Z
 DTEND:20260517T201500Z
 DTSTAMP:20260517T183000Z
@@ -528,7 +528,7 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Phoenix Jones: The Rise and Fall of a Real Life Superhero (2/2)
+SUMMARY:Phoenix Jones: The Rise and Fall of a Real Life Superhero
 DTSTART:20260517T210000Z
 DTEND:20260517T231000Z
 DTSTAMP:20260517T210000Z
