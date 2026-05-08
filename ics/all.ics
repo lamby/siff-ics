@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20260507T152648Z
-BEGIN:VEVENT
-SUMMARY:2026 FEST Opening Night
-DTSTART:20260508T020000Z
-DTEND:20260508T051000Z
-DTSTAMP:20260508T020000Z
-UID:OwPKkAVnua
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.Di
- rector Boots Riley scheduled to attend. Film + Party Tickets: $75 ($55 SI
- FF Members)Film Only Tickets: $40 ($35 SIFF Members)\n\nhttps://www.siff.
- net/festival/i-love-boosters\n\nEstimated start: 19:10
-LOCATION:Paramount Theatre\, 911 Pine Street
-END:VEVENT
+LAST-MODIFIED:20260508T152112Z
 BEGIN:VEVENT
 SUMMARY:Case 137
 DTSTART:20260508T193000Z
@@ -2391,6 +2378,19 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nThere is something hypnotically a
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260516T033000Z
+DTEND:20260516T053000Z
+DTSTAMP:20260516T033000Z
+UID:DA292ZuD3i
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 20:40
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meadowlarks
 DTSTART:20260516T033000Z
 DTEND:20260516T052500Z
@@ -3510,5 +3510,19 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPeaches Christ Productions\, AGF
  s://www.siff.net/cinema/in-theaters/sleepaway-camp\n\nEstimated start: 19:
  15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fried Green Tomatoes (1991)
+DTSTART:20260707T013000Z
+DTEND:20260707T035500Z
+DTSTAMP:20260707T013000Z
+UID:B1RIeZowj3
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nSIFF Movie Club Towanda! Amidst 
+ her own personality crisis\, a southern housewife meets an outgoing old wo
+ man who tells her the story of Idgie Threadgoode and Ruth Jamison\, two yo
+ ung women who experienced hardships and love in 1920s Whistle Stop\, Alaba
+ ma.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/fried-gree
+ n-tomatoes\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

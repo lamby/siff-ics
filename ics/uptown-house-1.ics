@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260507T152648Z
+LAST-MODIFIED:20260508T152112Z
 BEGIN:VEVENT
 SUMMARY:Tell Everyone
 DTSTART:20260508T201500Z
@@ -453,6 +453,19 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nInspired by Antonio Vivaldi’s
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260516T033000Z
+DTEND:20260516T053000Z
+DTSTAMP:20260516T033000Z
+UID:DA292ZuD3i
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 20:40
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Another World
 DTSTART:20260516T190000Z
 DTEND:20260516T210500Z
@@ -602,6 +615,20 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nSIFF Movie Club It’s been 10 ye
  d and uncover the truth behind his disappearance.\n\nhttps://www.siff.net/
  programs-and-events/siff-movie-club/velvet-goldmine\n\nEstimated start: 18
  :45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fried Green Tomatoes (1991)
+DTSTART:20260707T013000Z
+DTEND:20260707T035500Z
+DTSTAMP:20260707T013000Z
+UID:B1RIeZowj3
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nSIFF Movie Club Towanda! Amidst 
+ her own personality crisis\, a southern housewife meets an outgoing old wo
+ man who tells her the story of Idgie Threadgoode and Ruth Jamison\, two yo
+ ung women who experienced hardships and love in 1920s Whistle Stop\, Alaba
+ ma.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/fried-gree
+ n-tomatoes\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
