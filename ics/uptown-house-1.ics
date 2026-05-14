@@ -3,65 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260513T144536Z
-BEGIN:VEVENT
-SUMMARY:Beat the Lotto
-DTSTART:20260513T194500Z
-DTEND:20260513T212500Z
-DTSTAMP:20260513T194500Z
-UID:EU7amx5YJW
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nWhen Ireland inaugurated its Nati
- onal Lottery\, it became a national obsession. One man soon discovered a f
- law in the system\, gaming the odds to win it all and dividing the nation 
- in the process.Director Ross Whitaker scheduled to attend May 17 screening
- .\n\nhttps://www.siff.net/festival/beat-the-lotto\n\nAlso playing at:\n  
- • PACCAR IMAX Theater at Pacific Science Center (Sun 17 May\, 4:00 PM)\n
- \nEstimated start: 12:55
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maspalomas
-DTSTART:20260513T220000Z
-DTEND:20260514T000500Z
-DTSTAMP:20260513T220000Z
-UID:HeImw5ccUL
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nAfter a stroke while vacationing
-  in the gay haven of Maspalomas\, Vicente—played by José Ramón Soroiz\
- , winner of the 2026 Goya Award for Best Lead Actor—is placed in a nursi
- ng home where he’s forced back into the closet\, confronting a fight for
-  freedom he thought he’d already won.\n\nhttps://www.siff.net/festival/m
- aspalomas\n\nEstimated start: 15:10
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sound Visions
-DTSTART:20260514T010000Z
-DTEND:20260514T025000Z
-DTSTAMP:20260514T010000Z
-UID:b23c4XqNkZ
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nA cast of quirky characters\, in
- cluding an animatronic cowboy and a marathoner with a soft spot for Dick
- ’s burgers\, star in these Washington-made shorts that showcase the vita
- lity of our local filmmaking community. Filmmakers scheduled to attend. S
- tudy your local film trivia before attending the screening because the Sea
- ttle Film Society will be giving away tickets to one of their upcoming ev
- ents! After the screening\, join them and Seattle Documentary Association
-  for their Spring Mixer at Queen Anne Beer Hall.\n\nhttps://www.siff.net
- /festival/sound-visions-x41556\n\nEstimated start: 18:10
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky
-DTSTART:20260514T041500Z
-DTEND:20260514T060000Z
-DTSTAMP:20260514T041500Z
-UID:bS08RaJ5Bf
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nA community of Ivorian women navi
- gating the complexities of migrant life in Tunisia are forced to make diff
- icult decisions when they rescue an orphaned girl from a shipwreck.\n\nhtt
- ps://www.siff.net/festival/promised-sky\n\nEstimated start: 21:25
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260514T144933Z
 BEGIN:VEVENT
 SUMMARY:Hijra
 DTSTART:20260514T193000Z
@@ -71,8 +13,7 @@ UID:K16D0MybVR
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nSitti is on a pilgrimage to Mecc
  a with her two rebellious granddaughters\, Sarah and Janna. But everything
   changes when one of the granddaughters goes missing.\n\nhttps://www.siff.
- net/festival/hijra\n\nAlso playing at:\n  • Uptown House 2 (Wed 13 May\,
-  9:00 PM)\n\nEstimated start: 12:40
+ net/festival/hijra\n\nEstimated start: 12:40
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -116,7 +57,18 @@ DESCRIPTION:Duration: 146 mins (2h26m)\n\nAward-winning director Ildikó E
  nyedi delivers another mesmerizing visual tale\, set across three time per
  iods at a historic German university\, united by a gingko tree. This film 
  is generously sponsored by Dale Pratt.\n\nhttps://www.siff.net/festival/si
- lent-friend\n\nEstimated start: 20:40
+ lent-friend\n\nAlso playing at:\n  • Uptown House 3 (Fri 22 May\, 3:30 P
+ M)\n  • Uptown House 3 (Fri 22 May\, 7:00 PM)\n  • Uptown House 3 (Sat
+  23 May\, 12:00 PM)\n  • Uptown House 3 (Sat 23 May\, 3:30 PM)\n  • Up
+ town House 3 (Sat 23 May\, 7:00 PM)\n  • Uptown House 3 (Sun 24 May\, 12
+ :00 PM)\n  • Uptown House 3 (Sun 24 May\, 3:30 PM)\n  • Uptown House 3
+  (Sun 24 May\, 7:00 PM)\n  • Uptown House 3 (Mon 25 May\, 3:30 PM)\n  
+ • Uptown House 3 (Mon 25 May\, 7:00 PM)\n  • Uptown House 3 (Tue 26 Ma
+ y\, 3:30 PM)\n  • Uptown House 3 (Tue 26 May\, 7:00 PM)\n  • Uptown Ho
+ use 3 (Wed 27 May\, 3:30 PM)\n  • Uptown House 3 (Wed 27 May\, 7:00 PM)\
+ n  • Uptown House 3 (Thu 28 May\, 3:30 PM)\n  • Uptown House 3 (Thu 28
+  May\, 7:00 PM)\n  • Uptown House 3 (Fri 29 May\, 3:30 PM)\n  • Uptown
+  House 3 (Fri 29 May\, 7:00 PM)\n\nEstimated start: 20:40
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

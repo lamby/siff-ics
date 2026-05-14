@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260513T144536Z
-BEGIN:VEVENT
-SUMMARY:If I Go Will They Miss Me
-DTSTART:20260514T010000Z
-DTEND:20260514T024500Z
-DTSTAMP:20260514T010000Z
-UID:dCBICZt05Y
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nExpanded from an award-winning Su
- ndance short\, Walter Thompson-Hernández infuses empathy in this lyrical 
- feature about a sensitive boy in Watts who constructs a mythological imagi
- nation for his family\, contrasting sharply with their complicated reality
- .\n\nhttps://www.siff.net/festival/if-i-go-will-they-miss-me\n\nEstimated 
- start: 18:10
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EIGHT BRIDGES
-DTSTART:20260514T033000Z
-DTEND:20260514T050500Z
-DTSTAMP:20260514T033000Z
-UID:ab0k5uktXm
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nThere is something hypnotically a
- lluring about James Benning’s work. With only eight shots\, each of a di
- fferent bridge\, it’s like taking more than a cursory look at a gallery 
- painting: the longer you look\, the deeper you see.\n\nhttps://www.siff.ne
- t/festival/eight-bridges\n\nAlso playing at:\n  • Film Center (Fri 15 Ma
- y\, 8:30 PM)\n\nEstimated start: 20:40
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260514T144933Z
 BEGIN:VEVENT
 SUMMARY:Becoming Human
 DTSTART:20260515T010000Z
@@ -42,8 +14,7 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nIn this award-winning debut\, Pol
  en Ly presents a meditative story about a guardian spirit of an abandoned 
  Battambang cinema who must decide whether to become a homeless spirit afte
  r the building’s demolition or become human again.\n\nhttps://www.siff.n
- et/festival/becoming-human\n\nAlso playing at:\n  • PACCAR IMAX Theater 
- at Pacific Science Center (Wed 13 May\, 8:30 PM)\n\nEstimated start: 18:10
+ et/festival/becoming-human\n\nEstimated start: 18:10
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -110,8 +81,7 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nThere is something hypnotically a
  lluring about James Benning’s work. With only eight shots\, each of a di
  fferent bridge\, it’s like taking more than a cursory look at a gallery 
  painting: the longer you look\, the deeper you see.\n\nhttps://www.siff.ne
- t/festival/eight-bridges\n\nAlso playing at:\n  • Film Center (Wed 13 Ma
- y\, 8:30 PM)\n\nEstimated start: 20:40
+ t/festival/eight-bridges\n\nEstimated start: 20:40
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -193,6 +163,34 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nAt an elite South African boardin
  ty until the arrival of free-spirited Ayanda upends her straight-laced exi
  stence.\n\nhttps://www.siff.net/festival/black-burns-fast\n\nAlso playing 
  at:\n  • Film Center (Sat 16 May\, 8:00 PM)\n\nEstimated start: 14:40
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birds of War
+DTSTART:20260518T000000Z
+DTEND:20260518T014000Z
+DTSTAMP:20260518T000000Z
+UID:n7br5DOGYw
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nLebanese journalist Janay Boulos 
+ and Syrian activist and cameraman Abd Alkader Habak share their extraordin
+ ary love story\, told through 13 years of personal archives spanning revol
+ utions\, war\, and exile. Director Janay Boulos scheduled to attend. This 
+ film is generously sponsored by Katherine & David De Bruyn.\n\nhttps://www
+ .siff.net/festival/birds-of-war\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Friend’s House is Here
+DTSTART:20260518T030000Z
+DTEND:20260518T045000Z
+DTSTAMP:20260518T030000Z
+UID:XqO45sEkBn
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nPari and Hanna are best friends a
+ nd active participants in Tehran’s vibrant underground arts scene. But t
+ he risk of running afoul of the government is omnipresent\, forcing diffic
+ ult decisions.Director Hossein Keshavarz and Maryam Ataei scheduled to att
+ end.  This film is generously sponsored by Lynn Dissinger.\n\nhttps://www.
+ siff.net/festival/the-friends-house-is-here\n\nEstimated start: 20:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
