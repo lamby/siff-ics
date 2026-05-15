@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260514T144933Z
-BEGIN:VEVENT
-SUMMARY:Becoming Human
-DTSTART:20260515T010000Z
-DTEND:20260515T025000Z
-DTSTAMP:20260515T010000Z
-UID:c4oENs119w
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nIn this award-winning debut\, Pol
- en Ly presents a meditative story about a guardian spirit of an abandoned 
- Battambang cinema who must decide whether to become a homeless spirit afte
- r the building’s demolition or become human again.\n\nhttps://www.siff.n
- et/festival/becoming-human\n\nEstimated start: 18:10
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alt Shorts
-DTSTART:20260515T033000Z
-DTEND:20260515T050500Z
-DTSTAMP:20260515T033000Z
-UID:JhrpuP8CWa
-DESCRIPTION:Duration: 81 mins (1h21m)\n\nFrom visually poetic mood pieces 
- to found-footage mash-ups\, this year’s collection ranges from somber to
-  surreal to hilarious.Filmmakers scheduled to attend.\n\nhttps://www.siff.
- net/festival/alt-shorts\n\nEstimated start: 20:40
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260515T151446Z
 BEGIN:VEVENT
 SUMMARY:Crystal Cross
 DTSTART:20260515T193000Z
@@ -40,8 +15,7 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nA quirky Christian singer and a s
   Cross is a tender\, offbeat meditation on faith\, fracture\, and unexpect
  ed connection\, enveloped in an excellent soundtrack.Director Richie Jame
  s Follin (Cherokee) scheduled to attend.\n\nhttps://www.siff.net/festival/
- crystal-cross\n\nAlso playing at:\n  • Uptown House 3 (Thu 14 May\, 8:00
-  PM)\n\nEstimated start: 12:40
+ crystal-cross\n\nEstimated start: 12:40
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -54,8 +28,7 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nIn this humorous docu-comedy\, Ke
  yla Monterrose Mejia shines as the titular character Valentina\, a beleagu
  ered El Paso resident confronting city council in her campaign for local e
  conomic justice. Director Tatti Ribeiro scheduled to attend.\n\nhttps://ww
- w.siff.net/festival/valentina\n\nAlso playing at:\n  • Uptown House 3 (T
- hu 14 May\, 5:30 PM)\n\nEstimated start: 15:10
+ w.siff.net/festival/valentina\n\nEstimated start: 15:10
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -191,6 +164,23 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nPari and Hanna are best friends a
  ult decisions.Director Hossein Keshavarz and Maryam Ataei scheduled to att
  end.  This film is generously sponsored by Lynn Dissinger.\n\nhttps://www.
  siff.net/festival/the-friends-house-is-here\n\nEstimated start: 20:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow - Premiere
+DTSTART:20260606T020000Z
+DTEND:20260606T034000Z
+DTSTAMP:20260606T020000Z
+UID:feOLpdEusj
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nPresented by Flow Producers Ale
+ na Rainsberry\, Denisa Krásná\, and Grace Gorman Explore the journeys o
+ f women in adventure sports as they move through the world on water\, rock
+ \, and in the sky\, at the world premiere of the inspiring new documentary
+ \, Flow. To celebrate the premiere\, creators and co-producers Alena Rai
+ nsberry and Denisa Krásná will present the film in person! Their book "
+ Flow: Women’s Counternarratives from Rivers\, Rock\, and Sky" will be av
+ ailable for purchase.\n\nhttps://www.siff.net/cinema/in-theaters/flow-prem
+ iere\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
