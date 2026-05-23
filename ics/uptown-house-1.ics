@@ -3,29 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260522T134551Z
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260522T235000Z
-DTEND:20260523T015000Z
-DTSTAMP:20260522T235000Z
-UID:PYGbHFdRW1
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:05
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260523T023000Z
-DTEND:20260523T043000Z
-DTSTAMP:20260523T023000Z
-UID:fAh6ZNhuBN
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260523T153948Z
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
 DTSTART:20260523T181000Z
@@ -218,18 +196,45 @@ DESCRIPTION:Duration: 171 mins (2h51m)\n\nPresented by AMOMENT BOOKS. Far
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Velvet Goldmine (1998)
-DTSTART:20260602T013000Z
-DTEND:20260602T031500Z
-DTSTAMP:20260602T013000Z
-UID:BYmIDtKVIl
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nSIFF Movie Club It’s been 10 ye
- ars since glam-rock superstar Brian Slade (Jonathan Rhys Myers) faked his 
- own death and vanished from the spotlight. Now\, it’s the job of investi
- gative reporter Arthur Stuart (Christian Bale) to locate this living legen
- d and uncover the truth behind his disappearance.\n\nhttps://www.siff.net/
- programs-and-events/siff-movie-club/velvet-goldmine\n\nEstimated start: 18
- :45
+SUMMARY:Tekkonkinkreet (2006)
+DTSTART:20260531T230000Z
+DTEND:20260601T012000Z
+DTSTAMP:20260531T230000Z
+UID:K7VaQD4hJR
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nTwo kids must save the futuristi
+ c Treasure City from the schemes of a sinister YAKUZA\, who wants to demol
+ ish the degenerate city and replace it with a gargantuan amusement park. A
+  modern cult classic – a sensitive story of brotherhood and connection i
+ n a decaying world\, now beautifully remastered in 4K.\n\nhttps://www.siff
+ .net/cinema/in-theaters/tekkonkinkreet\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tekkonkinkreet (2006)
+DTSTART:20260601T020000Z
+DTEND:20260601T042000Z
+DTSTAMP:20260601T020000Z
+UID:tsoGmRNu6H
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nTwo kids must save the futuristi
+ c Treasure City from the schemes of a sinister YAKUZA\, who wants to demol
+ ish the degenerate city and replace it with a gargantuan amusement park. A
+  modern cult classic – a sensitive story of brotherhood and connection i
+ n a decaying world\, now beautifully remastered in 4K.\n\nhttps://www.siff
+ .net/cinema/in-theaters/tekkonkinkreet\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tekkonkinkreet (2006)
+DTSTART:20260602T020000Z
+DTEND:20260602T042000Z
+DTSTAMP:20260602T020000Z
+UID:UeLPXWBRlV
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nTwo kids must save the futuristi
+ c Treasure City from the schemes of a sinister YAKUZA\, who wants to demol
+ ish the degenerate city and replace it with a gargantuan amusement park. A
+  modern cult classic – a sensitive story of brotherhood and connection i
+ n a decaying world\, now beautifully remastered in 4K.\n\nhttps://www.siff
+ .net/cinema/in-theaters/tekkonkinkreet\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
