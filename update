@@ -19,6 +19,8 @@ from bs4 import BeautifulSoup
 from rich.logging import RichHandler
 from rich.progress import track
 
+from concurrent.futures import ThreadPoolExecutor
+
 logging.basicConfig(
     level=logging.INFO, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
 )
@@ -29,7 +31,7 @@ re_collapse_newlines = re.compile(r"\n+")
 class SiffICS:
     PADDING = 15  # minutes
     START = datetime.date.today()
-    DAYS = 60
+    DAYS = 90
     LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
     BASE_URL = "https://www.siff.net/calendar?view=list&date="
 
@@ -38,13 +40,16 @@ class SiffICS:
 
     def __init__(self):
         self.session = requests.Session()
+        self.executor = ThreadPoolExecutor(max_workers=10)
 
     def main(self):
         # Parse events
         self.events = []
-        for x in track(range(self.DAYS)):
-            date = self.START + datetime.timedelta(days=x)
-            self.populate_events_for_date(date)
+
+        dates = [self.START + datetime.timedelta(days=x) for x in range(self.DAYS)]
+
+        list(self.executor.map(self.populate_events_for_date, dates))
+
         logging.info(f"Found {len(self.events)} total events")
 
         self.post_process_events()
@@ -79,14 +84,11 @@ class SiffICS:
             f.write(yaml.dump(list(venues)))
 
     def post_process_events(self):
-        logging.info(f"Calculating further film metadata")
-
         by_title = {}  # str -> [dict]
         for x in self.events:
             by_title.setdefault(x["EventName"], []).append(x)
 
-        # Add film counts
-        for xs in track(sorted(by_title.values(), key=lambda x: x[0]["EventName"])):
+        def get_data(xs):
             logging.info(f"Downloading data for '{xs[0]['EventName']}'")
 
             r = self.session.get(xs[0]["Url"])
@@ -100,7 +102,9 @@ class SiffICS:
             body = re_collapse_newlines.sub(" ", body).strip()
 
             year = None
-            m = re.search(r"<\s*span\s*>([12]\d\d\d)</\s*span\s*>", r.content.decode("utf-8"))
+            m = re.search(
+                r"<\s*span\s*>([12]\d\d\d)</\s*span\s*>", r.content.decode("utf-8")
+            )
             if m is not None:
                 year = int(m.group(1))
 
@@ -115,6 +119,10 @@ class SiffICS:
                 x["EventsOther"] = [y for idx_, y in enumerate(xs) if idx_ != idx]
 
                 x["IsStreamed"] = is_streamed
+
+        titles = list(sorted(by_title.values(), key=lambda x: x[0]["EventName"]))
+
+        list(self.executor.map(get_data, titles))
 
     def populate_events_for_date(self, date):
         date_fmt = date.strftime("%Y-%m-%d")
@@ -202,7 +210,7 @@ class SiffICS:
             if x["Year"] is not None and x["Year"] < datetime.date.today().year - 2:
                 summary = f"{x['EventName']} ({x['Year']})"
 
-            #if in_festival and x["EventsOther"]:
+            # if in_festival and x["EventsOther"]:
             #    summary = f"{summary} ({x['EventIndex']}/{x['EventTotal']})"
 
             event.add("summary", summary)

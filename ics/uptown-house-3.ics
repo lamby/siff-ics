@@ -3,26 +3,13 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260523T153948Z
+LAST-MODIFIED:20260525T172131Z
 BEGIN:VEVENT
 SUMMARY:Silent Friend
-DTSTART:20260523T190000Z
-DTEND:20260523T215500Z
-DTSTAMP:20260523T190000Z
-UID:SIaT508o2t
-DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
- nyedi delivers another mesmerizing visual tale\, set across three time per
- iods at a historic German university\, united by a gingko tree.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/silent-friend-yr\n\nEstimated start: 12:1
- 5
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend
-DTSTART:20260523T223000Z
-DTEND:20260524T012500Z
-DTSTAMP:20260523T223000Z
-UID:WLrRuepylj
+DTSTART:20260528T223000Z
+DTEND:20260529T012500Z
+DTSTAMP:20260528T223000Z
+UID:RyPs4vVs5w
 DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
  nyedi delivers another mesmerizing visual tale\, set across three time per
  iods at a historic German university\, united by a gingko tree.\n\nhttps:/
@@ -32,10 +19,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Friend
-DTSTART:20260524T020000Z
-DTEND:20260524T045500Z
-DTSTAMP:20260524T020000Z
-UID:4C5FXUvJDL
+DTSTART:20260529T020000Z
+DTEND:20260529T045500Z
+DTSTAMP:20260529T020000Z
+UID:NRbcLNiXbU
 DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
  nyedi delivers another mesmerizing visual tale\, set across three time per
  iods at a historic German university\, united by a gingko tree.\n\nhttps:/
@@ -45,23 +32,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Friend
-DTSTART:20260524T190000Z
-DTEND:20260524T215500Z
-DTSTAMP:20260524T190000Z
-UID:kCyK6LXM1d
-DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
- nyedi delivers another mesmerizing visual tale\, set across three time per
- iods at a historic German university\, united by a gingko tree.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/silent-friend-yr\n\nEstimated start: 12:1
- 5
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend
-DTSTART:20260524T223000Z
-DTEND:20260525T012500Z
-DTSTAMP:20260524T223000Z
-UID:PTW5grPFsv
+DTSTART:20260529T223000Z
+DTEND:20260530T012500Z
+DTSTAMP:20260529T223000Z
+UID:seMhhvu1eP
 DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
  nyedi delivers another mesmerizing visual tale\, set across three time per
  iods at a historic German university\, united by a gingko tree.\n\nhttps:/
@@ -71,10 +45,36 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Friend
-DTSTART:20260525T020000Z
-DTEND:20260525T045500Z
-DTSTAMP:20260525T020000Z
-UID:0EVB0Kbfm1
+DTSTART:20260530T020000Z
+DTEND:20260530T045500Z
+DTSTAMP:20260530T020000Z
+UID:RBGwPim95u
+DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
+ nyedi delivers another mesmerizing visual tale\, set across three time per
+ iods at a historic German university\, united by a gingko tree.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/silent-friend-yr\n\nEstimated start: 19:1
+ 5
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Friend
+DTSTART:20260527T223000Z
+DTEND:20260528T012500Z
+DTSTAMP:20260527T223000Z
+UID:g6xFCk2YAh
+DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
+ nyedi delivers another mesmerizing visual tale\, set across three time per
+ iods at a historic German university\, united by a gingko tree.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/silent-friend-yr\n\nEstimated start: 15:4
+ 5
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Friend
+DTSTART:20260528T020000Z
+DTEND:20260528T045500Z
+DTSTAMP:20260528T020000Z
+UID:wmdYmkcN0R
 DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
  nyedi delivers another mesmerizing visual tale\, set across three time per
  iods at a historic German university\, united by a gingko tree.\n\nhttps:/
@@ -127,84 +127,6 @@ DTSTART:20260527T020000Z
 DTEND:20260527T045500Z
 DTSTAMP:20260527T020000Z
 UID:emrcnde30x
-DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
- nyedi delivers another mesmerizing visual tale\, set across three time per
- iods at a historic German university\, united by a gingko tree.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/silent-friend-yr\n\nEstimated start: 19:1
- 5
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend
-DTSTART:20260527T223000Z
-DTEND:20260528T012500Z
-DTSTAMP:20260527T223000Z
-UID:g6xFCk2YAh
-DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
- nyedi delivers another mesmerizing visual tale\, set across three time per
- iods at a historic German university\, united by a gingko tree.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/silent-friend-yr\n\nEstimated start: 15:4
- 5
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend
-DTSTART:20260528T020000Z
-DTEND:20260528T045500Z
-DTSTAMP:20260528T020000Z
-UID:wmdYmkcN0R
-DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
- nyedi delivers another mesmerizing visual tale\, set across three time per
- iods at a historic German university\, united by a gingko tree.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/silent-friend-yr\n\nEstimated start: 19:1
- 5
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend
-DTSTART:20260528T223000Z
-DTEND:20260529T012500Z
-DTSTAMP:20260528T223000Z
-UID:RyPs4vVs5w
-DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
- nyedi delivers another mesmerizing visual tale\, set across three time per
- iods at a historic German university\, united by a gingko tree.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/silent-friend-yr\n\nEstimated start: 15:4
- 5
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend
-DTSTART:20260529T020000Z
-DTEND:20260529T045500Z
-DTSTAMP:20260529T020000Z
-UID:NRbcLNiXbU
-DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
- nyedi delivers another mesmerizing visual tale\, set across three time per
- iods at a historic German university\, united by a gingko tree.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/silent-friend-yr\n\nEstimated start: 19:1
- 5
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend
-DTSTART:20260529T223000Z
-DTEND:20260530T012500Z
-DTSTAMP:20260529T223000Z
-UID:seMhhvu1eP
-DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
- nyedi delivers another mesmerizing visual tale\, set across three time per
- iods at a historic German university\, united by a gingko tree.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/silent-friend-yr\n\nEstimated start: 15:4
- 5
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend
-DTSTART:20260530T020000Z
-DTEND:20260530T045500Z
-DTSTAMP:20260530T020000Z
-UID:RBGwPim95u
 DESCRIPTION:Duration: 156 mins (2h36m)\n\nAward-winning director Ildikó E
  nyedi delivers another mesmerizing visual tale\, set across three time per
  iods at a historic German university\, united by a gingko tree.\n\nhttps:/

@@ -3,83 +3,22 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260523T153948Z
+LAST-MODIFIED:20260525T172131Z
 BEGIN:VEVENT
-SUMMARY:Space Cowboy
-DTSTART:20260523T210000Z
-DTEND:20260523T230500Z
-DTSTAMP:20260523T210000Z
-UID:didTHOKdkC
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nThrill to the high-flying story 
- of Joe Jennings\, a pioneer of skydiving cinematography and gasp-inducing 
- aerial stunts\, as he attempts the one stunt that has eluded him throughou
- t his death-defying life.\n\nhttps://www.siff.net/cinema/in-theaters/space
- -cowboy-yr\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space Cowboy
-DTSTART:20260523T234500Z
-DTEND:20260524T015000Z
-DTSTAMP:20260523T234500Z
-UID:H1BuG65H1A
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nThrill to the high-flying story 
- of Joe Jennings\, a pioneer of skydiving cinematography and gasp-inducing 
- aerial stunts\, as he attempts the one stunt that has eluded him throughou
- t his death-defying life.\n\nhttps://www.siff.net/cinema/in-theaters/space
- -cowboy-yr\n\nEstimated start: 17:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space Cowboy
-DTSTART:20260524T023000Z
-DTEND:20260524T043500Z
-DTSTAMP:20260524T023000Z
-UID:3j8CVIpKQJ
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nThrill to the high-flying story 
- of Joe Jennings\, a pioneer of skydiving cinematography and gasp-inducing 
- aerial stunts\, as he attempts the one stunt that has eluded him throughou
- t his death-defying life.\n\nhttps://www.siff.net/cinema/in-theaters/space
- -cowboy-yr\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space Cowboy
-DTSTART:20260524T210000Z
-DTEND:20260524T230500Z
-DTSTAMP:20260524T210000Z
-UID:cI6IsTSgqj
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nThrill to the high-flying story 
- of Joe Jennings\, a pioneer of skydiving cinematography and gasp-inducing 
- aerial stunts\, as he attempts the one stunt that has eluded him throughou
- t his death-defying life.\n\nhttps://www.siff.net/cinema/in-theaters/space
- -cowboy-yr\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space Cowboy
-DTSTART:20260524T234500Z
-DTEND:20260525T015000Z
-DTSTAMP:20260524T234500Z
-UID:ct017WuKcK
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nThrill to the high-flying story 
- of Joe Jennings\, a pioneer of skydiving cinematography and gasp-inducing 
- aerial stunts\, as he attempts the one stunt that has eluded him throughou
- t his death-defying life.\n\nhttps://www.siff.net/cinema/in-theaters/space
- -cowboy-yr\n\nEstimated start: 17:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space Cowboy
-DTSTART:20260525T023000Z
-DTEND:20260525T043500Z
-DTSTAMP:20260525T023000Z
-UID:1jviOQnMdV
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nThrill to the high-flying story 
- of Joe Jennings\, a pioneer of skydiving cinematography and gasp-inducing 
- aerial stunts\, as he attempts the one stunt that has eluded him throughou
- t his death-defying life.\n\nhttps://www.siff.net/cinema/in-theaters/space
- -cowboy-yr\n\nEstimated start: 19:45
+SUMMARY:Flow - Premiere
+DTSTART:20260606T020000Z
+DTEND:20260606T034000Z
+DTSTAMP:20260606T020000Z
+UID:feOLpdEusj
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nPresented by Flow Producers Ale
+ na Rainsberry\, Denisa Krásná\, and Grace Gorman Explore the journeys o
+ f women in adventure sports as they move through the world on water\, rock
+ \, and in the sky\, at the world premiere of the inspiring new documentary
+ \, Flow. To celebrate the premiere\, creators and co-producers Alena Rai
+ nsberry and Denisa Krásná will present the film in person! Their book "
+ Flow: Women’s Counternarratives from Rivers\, Rock\, and Sky" will be av
+ ailable for purchase.\n\nhttps://www.siff.net/cinema/in-theaters/flow-prem
+ iere\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -106,23 +45,6 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nThrill to the high-flying story
  aerial stunts\, as he attempts the one stunt that has eluded him throughou
  t his death-defying life.\n\nhttps://www.siff.net/cinema/in-theaters/space
  -cowboy-yr\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flow - Premiere
-DTSTART:20260606T020000Z
-DTEND:20260606T034000Z
-DTSTAMP:20260606T020000Z
-UID:feOLpdEusj
-DESCRIPTION:Duration: 85 mins (1h25m)\n\nPresented by Flow Producers Ale
- na Rainsberry\, Denisa Krásná\, and Grace Gorman Explore the journeys o
- f women in adventure sports as they move through the world on water\, rock
- \, and in the sky\, at the world premiere of the inspiring new documentary
- \, Flow. To celebrate the premiere\, creators and co-producers Alena Rai
- nsberry and Denisa Krásná will present the film in person! Their book "
- Flow: Women’s Counternarratives from Rivers\, Rock\, and Sky" will be av
- ailable for purchase.\n\nhttps://www.siff.net/cinema/in-theaters/flow-prem
- iere\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
