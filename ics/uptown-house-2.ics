@@ -3,7 +3,29 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260525T172131Z
+LAST-MODIFIED:20260526T170000Z
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260530T000000Z
+DTEND:20260530T021000Z
+DTSTAMP:20260530T000000Z
+UID:VDfZuC2IVO
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260530T024500Z
+DTEND:20260530T045500Z
+DTSTAMP:20260530T024500Z
+UID:LOIT8DxscX
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Backrooms
 DTSTART:20260603T234500Z
@@ -21,6 +43,113 @@ DTSTART:20260604T024500Z
 DTEND:20260604T045500Z
 DTSTAMP:20260604T024500Z
 UID:RKxZpgmaD5
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260601T234500Z
+DTEND:20260602T015500Z
+DTSTAMP:20260601T234500Z
+UID:J7YUJx9woU
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260602T024500Z
+DTEND:20260602T045500Z
+DTSTAMP:20260602T024500Z
+UID:f4BdM1Eksp
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Velvet Goldmine (1998)
+DTSTART:20260602T013000Z
+DTEND:20260602T031500Z
+DTSTAMP:20260602T013000Z
+UID:BYmIDtKVIl
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nSIFF Movie Club It’s been 10 ye
+ ars since glam-rock superstar Brian Slade (Jonathan Rhys Myers) faked his 
+ own death and vanished from the spotlight. Now\, it’s the job of investi
+ gative reporter Arthur Stuart (Christian Bale) to locate this living legen
+ d and uncover the truth behind his disappearance.\n\nhttps://www.siff.net/
+ programs-and-events/siff-movie-club/velvet-goldmine\n\nEstimated start: 18
+ :45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marama
+DTSTART:20260527T234500Z
+DTEND:20260528T015500Z
+DTSTAMP:20260527T234500Z
+UID:ZGu8168T53
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nMārama\, Taratoa Stappard’s f
+ eature debut\, is an anti-colonial horror story confronting oppression whi
+ le honoring the strength and resilience of Māori women.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/marama-yr\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marama
+DTSTART:20260528T024500Z
+DTEND:20260528T045500Z
+DTSTAMP:20260528T024500Z
+UID:0ZlO8QbMkm
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nMārama\, Taratoa Stappard’s f
+ eature debut\, is an anti-colonial horror story confronting oppression whi
+ le honoring the strength and resilience of Māori women.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/marama-yr\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marama
+DTSTART:20260526T234500Z
+DTEND:20260527T015500Z
+DTSTAMP:20260526T234500Z
+UID:E80IlZCxCr
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nMārama\, Taratoa Stappard’s f
+ eature debut\, is an anti-colonial horror story confronting oppression whi
+ le honoring the strength and resilience of Māori women.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/marama-yr\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marama
+DTSTART:20260527T024500Z
+DTEND:20260527T045500Z
+DTSTAMP:20260527T024500Z
+UID:5D8th2PyCv
+DESCRIPTION:Duration: 113 mins (1h53m)\n\nMārama\, Taratoa Stappard’s f
+ eature debut\, is an anti-colonial horror story confronting oppression whi
+ le honoring the strength and resilience of Māori women.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/marama-yr\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260602T234500Z
+DTEND:20260603T015500Z
+DTSTAMP:20260602T234500Z
+UID:cPPYxv8vFI
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260603T024500Z
+DTEND:20260603T045500Z
+DTSTAMP:20260603T024500Z
+UID:RNddD35MqV
 DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
   basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
  ers/backrooms\n\nEstimated start: 20:00
@@ -71,43 +200,6 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260601T234500Z
-DTEND:20260602T015500Z
-DTSTAMP:20260601T234500Z
-UID:J7YUJx9woU
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260602T024500Z
-DTEND:20260602T045500Z
-DTSTAMP:20260602T024500Z
-UID:f4BdM1Eksp
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Velvet Goldmine (1998)
-DTSTART:20260602T013000Z
-DTEND:20260602T031500Z
-DTSTAMP:20260602T013000Z
-UID:BYmIDtKVIl
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nSIFF Movie Club It’s been 10 ye
- ars since glam-rock superstar Brian Slade (Jonathan Rhys Myers) faked his 
- own death and vanished from the spotlight. Now\, it’s the job of investi
- gative reporter Arthur Stuart (Christian Bale) to locate this living legen
- d and uncover the truth behind his disappearance.\n\nhttps://www.siff.net/
- programs-and-events/siff-movie-club/velvet-goldmine\n\nEstimated start: 18
- :45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Marama
 DTSTART:20260528T234500Z
 DTEND:20260529T015500Z
@@ -125,28 +217,6 @@ DTSTART:20260529T024500Z
 DTEND:20260529T045500Z
 DTSTAMP:20260529T024500Z
 UID:r0E9vsTYck
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260530T000000Z
-DTEND:20260530T021000Z
-DTSTAMP:20260530T000000Z
-UID:VDfZuC2IVO
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260530T024500Z
-DTEND:20260530T045500Z
-DTSTAMP:20260530T024500Z
-UID:LOIT8DxscX
 DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
   basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
  ers/backrooms\n\nEstimated start: 20:00
@@ -175,27 +245,20 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marama
-DTSTART:20260527T234500Z
-DTEND:20260528T015500Z
-DTSTAMP:20260527T234500Z
-UID:ZGu8168T53
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nMārama\, Taratoa Stappard’s f
- eature debut\, is an anti-colonial horror story confronting oppression whi
- le honoring the strength and resilience of Māori women.\n\nhttps://www.si
- ff.net/cinema/in-theaters/marama-yr\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marama
-DTSTART:20260528T024500Z
-DTEND:20260528T045500Z
-DTSTAMP:20260528T024500Z
-UID:0ZlO8QbMkm
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nMārama\, Taratoa Stappard’s f
- eature debut\, is an anti-colonial horror story confronting oppression whi
- le honoring the strength and resilience of Māori women.\n\nhttps://www.si
- ff.net/cinema/in-theaters/marama-yr\n\nEstimated start: 20:00
+SUMMARY:Power Ballad
+DTSTART:20260608T023000Z
+DTEND:20260608T043500Z
+DTSTAMP:20260608T023000Z
+UID:35X6eh5gPK
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen Rick (Paul Rudd)\, a past-h
+ is-prime wedding singer\, meets fading boy-band star Danny (Nick Jonas) du
+ ring a gig\, the two bond over music and a late-night jam session. But whe
+ n Danny turns one of Rick's songs into the hit that reignites his career\,
+  Rick sets out to reclaim the recognition he believes he deserves—even i
+ f it means risking everything he cares about. From writer-director John Ca
+ rney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\
+ , self-respect\, friendship\, and the price of ambition.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/power-ballad-yr\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -240,76 +303,6 @@ UID:d089Xixdg3
 DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
   basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
  ers/backrooms\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marama
-DTSTART:20260525T234500Z
-DTEND:20260526T015500Z
-DTSTAMP:20260525T234500Z
-UID:CphfIqBwDR
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nMārama\, Taratoa Stappard’s f
- eature debut\, is an anti-colonial horror story confronting oppression whi
- le honoring the strength and resilience of Māori women.\n\nhttps://www.si
- ff.net/cinema/in-theaters/marama-yr\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marama
-DTSTART:20260526T024500Z
-DTEND:20260526T045500Z
-DTSTAMP:20260526T024500Z
-UID:IT0mvUq1KD
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nMārama\, Taratoa Stappard’s f
- eature debut\, is an anti-colonial horror story confronting oppression whi
- le honoring the strength and resilience of Māori women.\n\nhttps://www.si
- ff.net/cinema/in-theaters/marama-yr\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260602T234500Z
-DTEND:20260603T015500Z
-DTSTAMP:20260602T234500Z
-UID:cPPYxv8vFI
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260603T024500Z
-DTEND:20260603T045500Z
-DTSTAMP:20260603T024500Z
-UID:RNddD35MqV
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marama
-DTSTART:20260526T234500Z
-DTEND:20260527T015500Z
-DTSTAMP:20260526T234500Z
-UID:E80IlZCxCr
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nMārama\, Taratoa Stappard’s f
- eature debut\, is an anti-colonial horror story confronting oppression whi
- le honoring the strength and resilience of Māori women.\n\nhttps://www.si
- ff.net/cinema/in-theaters/marama-yr\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marama
-DTSTART:20260527T024500Z
-DTEND:20260527T045500Z
-DTSTAMP:20260527T024500Z
-UID:5D8th2PyCv
-DESCRIPTION:Duration: 113 mins (1h53m)\n\nMārama\, Taratoa Stappard’s f
- eature debut\, is an anti-colonial horror story confronting oppression whi
- le honoring the strength and resilience of Māori women.\n\nhttps://www.si
- ff.net/cinema/in-theaters/marama-yr\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
