@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260528T153949Z
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay
-DTSTART:20260529T234000Z
-DTEND:20260530T015000Z
-DTSTAMP:20260529T234000Z
-UID:XrCAvmt5a7
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nRico’s summer is a wild mix of
-  chasing girls and hustling homemade cocktails out of a cooler on Orchard 
- Beach\, the Bronx. But when Destiny\, his teenage girlfriend\, crashes at 
- his place with his family\, it’s only a matter of time before his rowdy\
- , carefree days come spiraling down.\n\nhttps://www.siff.net/cinema/in-the
- aters/mad-bills-to-pay\n\nEstimated start: 16:55
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay
-DTSTART:20260530T023000Z
-DTEND:20260530T044000Z
-DTSTAMP:20260530T023000Z
-UID:V4JoJLci7I
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nRico’s summer is a wild mix of
-  chasing girls and hustling homemade cocktails out of a cooler on Orchard 
- Beach\, the Bronx. But when Destiny\, his teenage girlfriend\, crashes at 
- his place with his family\, it’s only a matter of time before his rowdy\
- , carefree days come spiraling down.\n\nhttps://www.siff.net/cinema/in-the
- aters/mad-bills-to-pay\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260529T154245Z
 BEGIN:VEVENT
 SUMMARY:Mad Bills to Pay
 DTSTART:20260531T204500Z
@@ -80,6 +52,34 @@ DTSTART:20260531T023000Z
 DTEND:20260531T044000Z
 DTSTAMP:20260531T023000Z
 UID:hPo4nk3SlR
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nRico’s summer is a wild mix of
+  chasing girls and hustling homemade cocktails out of a cooler on Orchard 
+ Beach\, the Bronx. But when Destiny\, his teenage girlfriend\, crashes at 
+ his place with his family\, it’s only a matter of time before his rowdy\
+ , carefree days come spiraling down.\n\nhttps://www.siff.net/cinema/in-the
+ aters/mad-bills-to-pay\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad Bills to Pay
+DTSTART:20260529T234000Z
+DTEND:20260530T015000Z
+DTSTAMP:20260529T234000Z
+UID:XrCAvmt5a7
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nRico’s summer is a wild mix of
+  chasing girls and hustling homemade cocktails out of a cooler on Orchard 
+ Beach\, the Bronx. But when Destiny\, his teenage girlfriend\, crashes at 
+ his place with his family\, it’s only a matter of time before his rowdy\
+ , carefree days come spiraling down.\n\nhttps://www.siff.net/cinema/in-the
+ aters/mad-bills-to-pay\n\nEstimated start: 16:55
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad Bills to Pay
+DTSTART:20260530T023000Z
+DTEND:20260530T044000Z
+DTSTAMP:20260530T023000Z
+UID:V4JoJLci7I
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nRico’s summer is a wild mix of
   chasing girls and hustling homemade cocktails out of a cooler on Orchard 
  Beach\, the Bronx. But when Destiny\, his teenage girlfriend\, crashes at 

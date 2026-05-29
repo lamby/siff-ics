@@ -22,7 +22,7 @@ from rich.progress import track
 from concurrent.futures import ThreadPoolExecutor
 
 logging.basicConfig(
-    level=logging.INFO, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+    level=logging.DEBUG, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
 )
 
 re_collapse_newlines = re.compile(r"\n+")
@@ -208,7 +208,10 @@ class SiffICS:
             # Summary
             summary = x["EventName"]
             if x["Year"] is not None and x["Year"] < datetime.date.today().year - 2:
-                summary = f"{x['EventName']} ({x['Year']})"
+                year_suffix = f" ({x['Year']})"
+
+                if not summary.endswith(year_suffix):
+                    summary = f"{summary}{year_suffix}"
 
             # if in_festival and x["EventsOther"]:
             #    summary = f"{summary} ({x['EventIndex']}/{x['EventTotal']})"
