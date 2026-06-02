@@ -3,36 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260601T144319Z
-BEGIN:VEVENT
-SUMMARY:Exhibition on Screen: Frida Kahlo (2020)
-DTSTART:20260605T230000Z
-DTEND:20260606T005500Z
-DTSTAMP:20260605T230000Z
-UID:3XmorMoWM4
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nWho was Frida Kahlo? Everyone kn
- ows her\, but who was the woman behind the bright colours\, the big brows\
- , and the floral crowns?\n\nhttps://www.siff.net/cinema/in-theaters/exhibi
- tion-on-screen-frida-kahlo\n\nEstimated start: 16:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flow - Premiere
-DTSTART:20260606T020000Z
-DTEND:20260606T034000Z
-DTSTAMP:20260606T020000Z
-UID:feOLpdEusj
-DESCRIPTION:Duration: 85 mins (1h25m)\n\nPresented by Flow Producers Ale
- na Rainsberry\, Denisa Krásná\, and Grace Gorman Explore the journeys o
- f women in adventure sports as they move through the world on water\, rock
- \, and in the sky\, at the world premiere of the inspiring new documentary
- \, Flow. To celebrate the premiere\, creators and co-producers Alena Rai
- nsberry and Denisa Krásná will present the film in person! Their book "
- Flow: Women’s Counternarratives from Rivers\, Rock\, and Sky" will be av
- ailable for purchase.\n\nhttps://www.siff.net/cinema/in-theaters/flow-prem
- iere\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260602T142305Z
 BEGIN:VEVENT
 SUMMARY:Exhibition on Screen: Frida Kahlo (2020)
 DTSTART:20260606T213000Z
@@ -67,34 +38,6 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nWho was Frida Kahlo? Everyone kn
  ows her\, but who was the woman behind the bright colours\, the big brows\
  , and the floral crowns?\n\nhttps://www.siff.net/cinema/in-theaters/exhibi
  tion-on-screen-frida-kahlo\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay
-DTSTART:20260601T234000Z
-DTEND:20260602T015000Z
-DTSTAMP:20260601T234000Z
-UID:PS0MN41Vgl
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nRico’s summer is a wild mix of
-  chasing girls and hustling homemade cocktails out of a cooler on Orchard 
- Beach\, the Bronx. But when Destiny\, his teenage girlfriend\, crashes at 
- his place with his family\, it’s only a matter of time before his rowdy\
- , carefree days come spiraling down.\n\nhttps://www.siff.net/cinema/in-the
- aters/mad-bills-to-pay\n\nEstimated start: 16:55
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay
-DTSTART:20260602T023000Z
-DTEND:20260602T044000Z
-DTSTAMP:20260602T023000Z
-UID:6sLXj6v6hg
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nRico’s summer is a wild mix of
-  chasing girls and hustling homemade cocktails out of a cooler on Orchard 
- Beach\, the Bronx. But when Destiny\, his teenage girlfriend\, crashes at 
- his place with his family\, it’s only a matter of time before his rowdy\
- , carefree days come spiraling down.\n\nhttps://www.siff.net/cinema/in-the
- aters/mad-bills-to-pay\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -135,6 +78,65 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:She's the He
+DTSTART:20260612T233000Z
+DTEND:20260613T012000Z
+DTSTAMP:20260612T233000Z
+UID:fahbZU6tBE
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
+ thy put together a cast and crew of almost entirely trans\, nonbinary\, an
+ d queer people to make this Bottoms-esque teen satire about two seniors wh
+ o pretend to be trans during their last week of high school\, only for one
+  of them to find it suits them just fine. Featured in 2025 Seattle Intern
+ ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
+ -he\n\nEstimated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:She's the He
+DTSTART:20260613T020000Z
+DTEND:20260613T035000Z
+DTSTAMP:20260613T020000Z
+UID:leZIX5FW4w
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
+ thy put together a cast and crew of almost entirely trans\, nonbinary\, an
+ d queer people to make this Bottoms-esque teen satire about two seniors wh
+ o pretend to be trans during their last week of high school\, only for one
+  of them to find it suits them just fine. Featured in 2025 Seattle Intern
+ ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
+ -he\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibition on Screen: Frida Kahlo (2020)
+DTSTART:20260605T230000Z
+DTEND:20260606T005500Z
+DTSTAMP:20260605T230000Z
+UID:3XmorMoWM4
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nWho was Frida Kahlo? Everyone kn
+ ows her\, but who was the woman behind the bright colours\, the big brows\
+ , and the floral crowns?\n\nhttps://www.siff.net/cinema/in-theaters/exhibi
+ tion-on-screen-frida-kahlo\n\nEstimated start: 16:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow - Premiere
+DTSTART:20260606T020000Z
+DTEND:20260606T034000Z
+DTSTAMP:20260606T020000Z
+UID:feOLpdEusj
+DESCRIPTION:Duration: 85 mins (1h25m)\n\nPresented by Flow Producers Ale
+ na Rainsberry\, Denisa Krásná\, and Grace Gorman Explore the journeys o
+ f women in adventure sports as they move through the world on water\, rock
+ \, and in the sky\, at the world premiere of the inspiring new documentary
+ \, Flow. To celebrate the premiere\, creators and co-producers Alena Rai
+ nsberry and Denisa Krásná will present the film in person! Their book "
+ Flow: Women’s Counternarratives from Rivers\, Rock\, and Sky" will be av
+ ailable for purchase.\n\nhttps://www.siff.net/cinema/in-theaters/flow-prem
+ iere\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:She's the He
 DTSTART:20260613T210000Z
 DTEND:20260613T225000Z
 DTSTAMP:20260613T210000Z
@@ -164,33 +166,19 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:She's the He
-DTSTART:20260612T233000Z
-DTEND:20260613T012000Z
-DTSTAMP:20260612T233000Z
-UID:fahbZU6tBE
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Featured in 2025 Seattle Intern
- ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 16:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She's the He
-DTSTART:20260613T020000Z
-DTEND:20260613T035000Z
-DTSTAMP:20260613T020000Z
-UID:leZIX5FW4w
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Featured in 2025 Seattle Intern
- ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 19:15
+SUMMARY:Czech that Film - Caravan
+DTSTART:20260614T003000Z
+DTEND:20260614T024000Z
+DTSTAMP:20260614T003000Z
+UID:uPv902j7FV
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nPresented by Honorary Consulate
+  of the Czech Republic in Seattle and Center for Czech Education and Cultu
+ re  Czech That Film returns after five years with Caravan — a tender Cz
+ ech road movie about Ester\, a devoted mother to David\, her son with Down
+  syndrome. When she flees a tense Italian visit\, their old camper becomes
+  a journey toward freedom\, connection\, and unexpected joy.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/czech-that-film-caravan\n\nEstimated start: 
+ 17:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
