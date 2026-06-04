@@ -3,7 +3,29 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260603T143130Z
+LAST-MODIFIED:20260604T143429Z
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260604T234500Z
+DTEND:20260605T015500Z
+DTSTAMP:20260604T234500Z
+UID:KKNdfVKXdT
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260605T024500Z
+DTEND:20260605T045500Z
+DTSTAMP:20260605T024500Z
+UID:92jpjZmnxA
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
 DTSTART:20260610T234500Z
@@ -21,6 +43,50 @@ DTSTART:20260611T023000Z
 DTEND:20260611T043000Z
 DTSTAMP:20260611T023000Z
 UID:JXiULb0HVC
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260605T234500Z
+DTEND:20260606T014500Z
+DTSTAMP:20260605T234500Z
+UID:TVItgiFtWL
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260606T023000Z
+DTEND:20260606T043000Z
+DTSTAMP:20260606T023000Z
+UID:ovURcgJNto
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260608T234500Z
+DTEND:20260609T014500Z
+DTSTAMP:20260608T234500Z
+UID:FnwFLOEaPy
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260609T023000Z
+DTEND:20260609T043000Z
+DTSTAMP:20260609T023000Z
+UID:UDMnvrPE01
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
  \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
@@ -72,10 +138,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
-DTSTART:20260605T234500Z
-DTEND:20260606T014500Z
-DTSTAMP:20260605T234500Z
-UID:TVItgiFtWL
+DTSTART:20260609T234500Z
+DTEND:20260610T014500Z
+DTSTAMP:20260609T234500Z
+UID:nKtU3NGjqF
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
  \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
@@ -83,108 +149,13 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
-DTSTART:20260606T023000Z
-DTEND:20260606T043000Z
-DTSTAMP:20260606T023000Z
-UID:ovURcgJNto
+DTSTART:20260610T023000Z
+DTEND:20260610T043000Z
+DTSTAMP:20260610T023000Z
+UID:rt5RpNiALE
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
  \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260611T234500Z
-DTEND:20260612T014500Z
-DTSTAMP:20260611T234500Z
-UID:bHXcUdBAka
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260612T023000Z
-DTEND:20260612T043000Z
-DTSTAMP:20260612T023000Z
-UID:JWAyLvVPpR
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260612T224500Z
-DTEND:20260613T014500Z
-DTSTAMP:20260612T224500Z
-UID:cnjX4Abbsd
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260613T023000Z
-DTEND:20260613T043000Z
-DTSTAMP:20260613T023000Z
-UID:4clCLrmAbA
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260614T191000Z
-DTEND:20260614T211000Z
-DTSTAMP:20260614T191000Z
-UID:frBkKdwYBZ
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 12:25
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260615T013000Z
-DTEND:20260615T033000Z
-DTSTAMP:20260615T013000Z
-UID:5di0SBVydy
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260614T215000Z
-DTEND:20260615T005000Z
-DTSTAMP:20260614T215000Z
-UID:LhgBd7lDGK
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 15:05
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -239,6 +210,58 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amores Perros (2000)
+DTSTART:20260612T224500Z
+DTEND:20260613T014500Z
+DTSTAMP:20260612T224500Z
+UID:cnjX4Abbsd
+DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
+ Three lives collide.  A teenager risks it all to run away with his brothe
+ r’s wife. A model loses everything after moving in with her lover. A hom
+ eless man unearths the ghosts of his past. As their stories unfold\, human
+  chaos\, cruelty\, and tenderness come to light – revealing they are mor
+ e connected than they seem. After 25 years\, Alejandro González Iñárrit
+ u’s legendary debut returns to the big screen in a stunning 4K restorati
+ on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
+ start: 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time and Water
+DTSTART:20260613T023000Z
+DTEND:20260613T043000Z
+DTSTAMP:20260613T023000Z
+UID:4clCLrmAbA
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
+ ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
+ Andri Snær Magnason turns his archives into a time capsule to hold what i
+ s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260611T234500Z
+DTEND:20260612T014500Z
+DTSTAMP:20260611T234500Z
+UID:bHXcUdBAka
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260612T023000Z
+DTEND:20260612T043000Z
+DTSTAMP:20260612T023000Z
+UID:JWAyLvVPpR
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amores Perros (2000)
 DTSTART:20260613T190000Z
 DTEND:20260613T220000Z
 DTSTAMP:20260613T190000Z
@@ -285,25 +308,46 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260603T234500Z
-DTEND:20260604T015500Z
-DTSTAMP:20260603T234500Z
-UID:VOTMhqcDjv
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:00
+SUMMARY:Time and Water
+DTSTART:20260614T191000Z
+DTEND:20260614T211000Z
+DTSTAMP:20260614T191000Z
+UID:frBkKdwYBZ
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
+ ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
+ Andri Snær Magnason turns his archives into a time capsule to hold what i
+ s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 12:25
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260604T024500Z
-DTEND:20260604T045500Z
-DTSTAMP:20260604T024500Z
-UID:RKxZpgmaD5
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 20:00
+SUMMARY:Time and Water
+DTSTART:20260615T013000Z
+DTEND:20260615T033000Z
+DTSTAMP:20260615T013000Z
+UID:5di0SBVydy
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
+ ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
+ Andri Snær Magnason turns his archives into a time capsule to hold what i
+ s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amores Perros (2000)
+DTSTART:20260614T215000Z
+DTEND:20260615T005000Z
+DTSTAMP:20260614T215000Z
+UID:LhgBd7lDGK
+DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
+ Three lives collide.  A teenager risks it all to run away with his brothe
+ r’s wife. A model loses everything after moving in with her lover. A hom
+ eless man unearths the ghosts of his past. As their stories unfold\, human
+  chaos\, cruelty\, and tenderness come to light – revealing they are mor
+ e connected than they seem. After 25 years\, Alejandro González Iñárrit
+ u’s legendary debut returns to the big screen in a stunning 4K restorati
+ on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
+ start: 15:05
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -334,50 +378,6 @@ DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash.
  u’s legendary debut returns to the big screen in a stunning 4K restorati
  on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
  start: 19:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260609T234500Z
-DTEND:20260610T014500Z
-DTSTAMP:20260609T234500Z
-UID:nKtU3NGjqF
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260610T023000Z
-DTEND:20260610T043000Z
-DTSTAMP:20260610T023000Z
-UID:rt5RpNiALE
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260608T234500Z
-DTEND:20260609T014500Z
-DTSTAMP:20260608T234500Z
-UID:FnwFLOEaPy
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260609T023000Z
-DTEND:20260609T043000Z
-DTSTAMP:20260609T023000Z
-UID:UDMnvrPE01
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -438,28 +438,6 @@ DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash.
  u’s legendary debut returns to the big screen in a stunning 4K restorati
  on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
  start: 19:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260604T234500Z
-DTEND:20260605T015500Z
-DTSTAMP:20260604T234500Z
-UID:KKNdfVKXdT
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260605T024500Z
-DTEND:20260605T045500Z
-DTSTAMP:20260605T024500Z
-UID:92jpjZmnxA
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
