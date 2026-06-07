@@ -3,43 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260606T155135Z
-BEGIN:VEVENT
-SUMMARY:Exhibition on Screen: Frida Kahlo (2020)
-DTSTART:20260606T213000Z
-DTEND:20260606T232500Z
-DTSTAMP:20260606T213000Z
-UID:bH0MPIHkpf
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nWho was Frida Kahlo? Everyone kn
- ows her\, but who was the woman behind the bright colours\, the big brows\
- , and the floral crowns?\n\nhttps://www.siff.net/cinema/in-theaters/exhibi
- tion-on-screen-frida-kahlo\n\nEstimated start: 14:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibition on Screen: Frida Kahlo (2020)
-DTSTART:20260607T000000Z
-DTEND:20260607T015500Z
-DTSTAMP:20260607T000000Z
-UID:A4bScf9nwa
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nWho was Frida Kahlo? Everyone kn
- ows her\, but who was the woman behind the bright colours\, the big brows\
- , and the floral crowns?\n\nhttps://www.siff.net/cinema/in-theaters/exhibi
- tion-on-screen-frida-kahlo\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibition on Screen: Frida Kahlo (2020)
-DTSTART:20260607T023000Z
-DTEND:20260607T042500Z
-DTSTAMP:20260607T023000Z
-UID:WoEYOJXN6p
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nWho was Frida Kahlo? Everyone kn
- ows her\, but who was the woman behind the bright colours\, the big brows\
- , and the floral crowns?\n\nhttps://www.siff.net/cinema/in-theaters/exhibi
- tion-on-screen-frida-kahlo\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260607T162815Z
 BEGIN:VEVENT
 SUMMARY:She's the He
 DTSTART:20260613T210000Z
@@ -237,6 +201,21 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Popcorn ListTrash Baby is a c
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Remaining Native
+DTSTART:20260721T013000Z
+DTEND:20260721T031500Z
+DTSTAMP:20260721T013000Z
+UID:Ck1XfRWrty
+DESCRIPTION:Duration: 87 mins (1h27m)\n\nThe Popcorn ListRemaining Native 
+ is a coming-of-age documentary told from the perspective of Kutoven (Ku) S
+ tevens\, a 17-year-old Native American runner\, struggling to navigate his
+  dream of becoming a collegiate athlete as the memory of his great-grandfa
+ ther's escape from an Indian boarding school begins to connect past\, pres
+ ent\, and future.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-
+ list/remaining-native\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Fisherman
 DTSTART:20260723T000000Z
 DTEND:20260723T020500Z
@@ -264,34 +243,6 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nThe Popcorn ListA cursed young w
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Remaining Native
-DTSTART:20260721T013000Z
-DTEND:20260721T031500Z
-DTSTAMP:20260721T013000Z
-UID:Ck1XfRWrty
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nThe Popcorn ListRemaining Native 
- is a coming-of-age documentary told from the perspective of Kutoven (Ku) S
- tevens\, a 17-year-old Native American runner\, struggling to navigate his
-  dream of becoming a collegiate athlete as the memory of his great-grandfa
- ther's escape from an Indian boarding school begins to connect past\, pres
- ent\, and future.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-
- list/remaining-native\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260823T210000Z
-DTEND:20260824T001500Z
-DTSTAMP:20260823T210000Z
-UID:thZVVpuFXw
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NT Live: Les Liaisons Dangereuses
 DTSTART:20260825T013000Z
 DTEND:20260825T044500Z
@@ -315,6 +266,19 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
  ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
  nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
  sons-dangereuses\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260823T210000Z
+DTEND:20260824T001500Z
+DTSTAMP:20260823T210000Z
+UID:thZVVpuFXw
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
