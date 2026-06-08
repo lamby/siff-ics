@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260607T162815Z
+LAST-MODIFIED:20260608T142315Z
 BEGIN:VEVENT
 SUMMARY:Power Ballad
 DTSTART:20260610T233000Z
@@ -108,70 +108,6 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Power Ballad
-DTSTART:20260607T180000Z
-DTEND:20260607T200500Z
-DTSTAMP:20260607T180000Z
-UID:HcBlptdUNB
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen Rick (Paul Rudd)\, a past-h
- is-prime wedding singer\, meets fading boy-band star Danny (Nick Jonas) du
- ring a gig\, the two bond over music and a late-night jam session. But whe
- n Danny turns one of Rick's songs into the hit that reignites his career\,
-  Rick sets out to reclaim the recognition he believes he deserves—even i
- f it means risking everything he cares about. From writer-director John Ca
- rney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\
- , self-respect\, friendship\, and the price of ambition.\n\nhttps://www.si
- ff.net/cinema/in-theaters/power-ballad-yr\n\nEstimated start: 11:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Power Ballad
-DTSTART:20260607T204000Z
-DTEND:20260607T224500Z
-DTSTAMP:20260607T204000Z
-UID:3JCBkBGDqh
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen Rick (Paul Rudd)\, a past-h
- is-prime wedding singer\, meets fading boy-band star Danny (Nick Jonas) du
- ring a gig\, the two bond over music and a late-night jam session. But whe
- n Danny turns one of Rick's songs into the hit that reignites his career\,
-  Rick sets out to reclaim the recognition he believes he deserves—even i
- f it means risking everything he cares about. From writer-director John Ca
- rney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\
- , self-respect\, friendship\, and the price of ambition.\n\nhttps://www.si
- ff.net/cinema/in-theaters/power-ballad-yr\n\nEstimated start: 13:55
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Power Ballad
-DTSTART:20260607T232000Z
-DTEND:20260608T012500Z
-DTSTAMP:20260607T232000Z
-UID:V7sPOvoEMG
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen Rick (Paul Rudd)\, a past-h
- is-prime wedding singer\, meets fading boy-band star Danny (Nick Jonas) du
- ring a gig\, the two bond over music and a late-night jam session. But whe
- n Danny turns one of Rick's songs into the hit that reignites his career\,
-  Rick sets out to reclaim the recognition he believes he deserves—even i
- f it means risking everything he cares about. From writer-director John Ca
- rney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\
- , self-respect\, friendship\, and the price of ambition.\n\nhttps://www.si
- ff.net/cinema/in-theaters/power-ballad-yr\n\nEstimated start: 16:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trainspotting (1996)
-DTSTART:20260608T020000Z
-DTEND:20260608T040000Z
-DTSTAMP:20260608T020000Z
-UID:7ZjoFCK5w3
-DESCRIPTION:Duration: 103 mins (1h43m)\n\n30th Anniversary screening. Rent
- on (Ewan McGregor)\, deeply immersed in the Edinburgh drug scene\, tries t
- o clean up and get out\, despite the allure of the drugs and influence of 
- friends. 4K restoration.\n\nhttps://www.siff.net/cinema/in-theaters/trains
- potting\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Power Ballad
 DTSTART:20260611T233000Z
 DTEND:20260612T013500Z
 DTSTAMP:20260611T233000Z
@@ -220,18 +156,6 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2026
-DTSTART:20260808T200000Z
-DTEND:20260808T214500Z
-DTSTAMP:20260808T200000Z
-UID:xidrhTpoad
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
-  is back with screenings in theaters across the USA and around the world.\
- n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
- art: 13:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2026
 DTSTART:20260808T020000Z
 DTEND:20260808T034500Z
 DTSTAMP:20260808T020000Z
@@ -248,6 +172,18 @@ DTSTART:20260809T200000Z
 DTEND:20260809T214500Z
 DTSTAMP:20260809T200000Z
 UID:fbbGneZCm1
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
+  is back with screenings in theaters across the USA and around the world.\
+ n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
+ art: 13:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest 2026
+DTSTART:20260808T200000Z
+DTEND:20260808T214500Z
+DTSTAMP:20260808T200000Z
+UID:xidrhTpoad
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
   is back with screenings in theaters across the USA and around the world.\
  n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
