@@ -3,27 +3,49 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260609T141027Z
+LAST-MODIFIED:20260610T142236Z
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
-DTSTART:20260617T232000Z
-DTEND:20260618T012000Z
-DTSTAMP:20260617T232000Z
-UID:lxBW07lTEG
+DTSTART:20260613T181500Z
+DTEND:20260613T201500Z
+DTSTAMP:20260613T181500Z
+UID:cwcSS8xHts
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
-DTSTART:20260618T021500Z
-DTEND:20260618T041500Z
-DTSTAMP:20260618T021500Z
-UID:ZJh4WkMlig
+DTSTART:20260613T205000Z
+DTEND:20260613T225000Z
+DTSTAMP:20260613T205000Z
+UID:Noht0v3ogv
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260613T233500Z
+DTEND:20260614T013500Z
+DTSTAMP:20260613T233500Z
+UID:pS1uVi6S3c
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:50
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260614T022000Z
+DTEND:20260614T042000Z
+DTSTAMP:20260614T022000Z
+UID:oMdmqBGyTV
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:35
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -46,6 +68,30 @@ UID:Q2HZyxsAf4
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
  \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260620T003000Z
+DTEND:20260620T021500Z
+DTSTAMP:20260620T003000Z
+UID:Myt4TBTSJw
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 17:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260620T030000Z
+DTEND:20260620T044500Z
+DTSTAMP:20260620T030000Z
+UID:XKiSXlEqPW
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 20:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -84,10 +130,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
-DTSTART:20260616T232000Z
-DTEND:20260617T012000Z
-DTSTAMP:20260616T232000Z
-UID:HNmLuTYmOA
+DTSTART:20260618T232000Z
+DTEND:20260619T012000Z
+DTSTAMP:20260618T232000Z
+UID:iEnUEiVi3B
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
  \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
@@ -95,99 +141,45 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
-DTSTART:20260617T021500Z
-DTEND:20260617T041500Z
-DTSTAMP:20260617T021500Z
-UID:5cr0G1bpXY
+DTSTART:20260619T021500Z
+DTEND:20260619T041500Z
+DTSTAMP:20260619T021500Z
+UID:3CCq4y88tb
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
  \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Power Ballad
-DTSTART:20260611T233000Z
-DTEND:20260612T013500Z
-DTSTAMP:20260611T233000Z
-UID:e1TFpGrx0B
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen Rick (Paul Rudd)\, a past-h
- is-prime wedding singer\, meets fading boy-band star Danny (Nick Jonas) du
- ring a gig\, the two bond over music and a late-night jam session. But whe
- n Danny turns one of Rick's songs into the hit that reignites his career\,
-  Rick sets out to reclaim the recognition he believes he deserves—even i
- f it means risking everything he cares about. From writer-director John Ca
- rney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\
- , self-respect\, friendship\, and the price of ambition.\n\nhttps://www.si
- ff.net/cinema/in-theaters/power-ballad-yr\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Power Ballad
-DTSTART:20260612T021500Z
-DTEND:20260612T042000Z
-DTSTAMP:20260612T021500Z
-UID:qjA2gNp0p4
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen Rick (Paul Rudd)\, a past-h
- is-prime wedding singer\, meets fading boy-band star Danny (Nick Jonas) du
- ring a gig\, the two bond over music and a late-night jam session. But whe
- n Danny turns one of Rick's songs into the hit that reignites his career\,
-  Rick sets out to reclaim the recognition he believes he deserves—even i
- f it means risking everything he cares about. From writer-director John Ca
- rney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\
- , self-respect\, friendship\, and the price of ambition.\n\nhttps://www.si
- ff.net/cinema/in-theaters/power-ballad-yr\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260614T181500Z
-DTEND:20260614T201500Z
-DTSTAMP:20260614T181500Z
-UID:hm8sImrRnj
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260614T205000Z
-DTEND:20260614T225000Z
-DTSTAMP:20260614T205000Z
-UID:u8T8qbbAML
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:05
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260614T233500Z
-DTEND:20260615T013500Z
-DTSTAMP:20260614T233500Z
-UID:f9JGwX2Fjc
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:50
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260615T022000Z
-DTEND:20260615T042000Z
-DTSTAMP:20260615T022000Z
-UID:cf4DCNvE1p
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:35
+SUMMARY:Leviticus
+DTSTART:20260620T193000Z
+DTEND:20260620T211500Z
+DTSTAMP:20260620T193000Z
+UID:a8fC2d7ZcT
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 12:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leviticus
-DTSTART:20260620T003000Z
-DTEND:20260620T021500Z
-DTSTAMP:20260620T003000Z
-UID:Myt4TBTSJw
+DTSTART:20260620T220000Z
+DTEND:20260620T234500Z
+DTSTAMP:20260620T220000Z
+UID:AYEbh9lsJn
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 15:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260621T003000Z
+DTEND:20260621T021500Z
+DTSTAMP:20260621T003000Z
+UID:TLkgsSvgkf
 DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
  t escape a violent entity that takes the form of the person they desire mo
  st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
@@ -196,10 +188,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leviticus
-DTSTART:20260620T030000Z
-DTEND:20260620T044500Z
-DTSTAMP:20260620T030000Z
-UID:XKiSXlEqPW
+DTSTART:20260621T030000Z
+DTEND:20260621T044500Z
+DTSTAMP:20260621T030000Z
+UID:kiWFkaKNZ0
 DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
  t escape a violent entity that takes the form of the person they desire mo
  st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
@@ -207,27 +199,25 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260623T000000Z
-DTEND:20260623T014500Z
-DTSTAMP:20260623T000000Z
-UID:LjGtaiVHEH
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 17:15
+SUMMARY:I Love Boosters
+DTSTART:20260617T232000Z
+DTEND:20260618T012000Z
+DTSTAMP:20260617T232000Z
+UID:lxBW07lTEG
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260623T023000Z
-DTEND:20260623T041500Z
-DTSTAMP:20260623T023000Z
-UID:ktyClB1qtW
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 19:45
+SUMMARY:I Love Boosters
+DTSTART:20260618T021500Z
+DTEND:20260618T041500Z
+DTSTAMP:20260618T021500Z
+UID:ZJh4WkMlig
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -280,58 +270,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leviticus
-DTSTART:20260620T193000Z
-DTEND:20260620T211500Z
-DTSTAMP:20260620T193000Z
-UID:a8fC2d7ZcT
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 12:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260620T220000Z
-DTEND:20260620T234500Z
-DTSTAMP:20260620T220000Z
-UID:AYEbh9lsJn
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 15:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260621T003000Z
-DTEND:20260621T021500Z
-DTSTAMP:20260621T003000Z
-UID:TLkgsSvgkf
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 17:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260621T030000Z
-DTEND:20260621T044500Z
-DTSTAMP:20260621T030000Z
-UID:kiWFkaKNZ0
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 20:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260625T000000Z
-DTEND:20260625T014500Z
-DTSTAMP:20260625T000000Z
-UID:Z1PY2wO07e
+DTSTART:20260623T000000Z
+DTEND:20260623T014500Z
+DTSTAMP:20260623T000000Z
+UID:LjGtaiVHEH
 DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
  t escape a violent entity that takes the form of the person they desire mo
  st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
@@ -340,10 +282,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leviticus
-DTSTART:20260625T023000Z
-DTEND:20260625T041500Z
-DTSTAMP:20260625T023000Z
-UID:uZvoDb8WbC
+DTSTART:20260623T023000Z
+DTEND:20260623T041500Z
+DTSTAMP:20260623T023000Z
+UID:ktyClB1qtW
 DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
  t escape a violent entity that takes the form of the person they desire mo
  st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
@@ -351,27 +293,69 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260626T000000Z
-DTEND:20260626T014500Z
-DTSTAMP:20260626T000000Z
-UID:BqLgkYGgXR
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 17:15
+SUMMARY:I Love Boosters
+DTSTART:20260616T232000Z
+DTEND:20260617T012000Z
+DTSTAMP:20260616T232000Z
+UID:HNmLuTYmOA
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260626T023000Z
-DTEND:20260626T041500Z
-DTSTAMP:20260626T023000Z
-UID:6pMODE86Ov
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 19:45
+SUMMARY:I Love Boosters
+DTSTART:20260617T021500Z
+DTEND:20260617T041500Z
+DTSTAMP:20260617T021500Z
+UID:5cr0G1bpXY
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260614T181500Z
+DTEND:20260614T201500Z
+DTSTAMP:20260614T181500Z
+UID:hm8sImrRnj
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260614T205000Z
+DTEND:20260614T225000Z
+DTSTAMP:20260614T205000Z
+UID:u8T8qbbAML
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260614T233500Z
+DTEND:20260615T013500Z
+DTSTAMP:20260614T233500Z
+UID:f9JGwX2Fjc
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:50
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260615T022000Z
+DTEND:20260615T042000Z
+DTSTAMP:20260615T022000Z
+UID:cf4DCNvE1p
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:35
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -399,17 +383,107 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260710T023000Z
-DTEND:20260710T043500Z
-DTSTAMP:20260710T023000Z
-UID:dB9O9Iofhs
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down? Director & star Olivia 
- Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
- Estimated start: 19:45
+SUMMARY:Leviticus
+DTSTART:20260625T000000Z
+DTEND:20260625T014500Z
+DTSTAMP:20260625T000000Z
+UID:Z1PY2wO07e
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260625T023000Z
+DTEND:20260625T041500Z
+DTSTAMP:20260625T023000Z
+UID:uZvoDb8WbC
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Power Ballad
+DTSTART:20260611T233000Z
+DTEND:20260612T013500Z
+DTSTAMP:20260611T233000Z
+UID:e1TFpGrx0B
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen Rick (Paul Rudd)\, a past-h
+ is-prime wedding singer\, meets fading boy-band star Danny (Nick Jonas) du
+ ring a gig\, the two bond over music and a late-night jam session. But whe
+ n Danny turns one of Rick's songs into the hit that reignites his career\,
+  Rick sets out to reclaim the recognition he believes he deserves—even i
+ f it means risking everything he cares about. From writer-director John Ca
+ rney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\
+ , self-respect\, friendship\, and the price of ambition.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/power-ballad-yr\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Power Ballad
+DTSTART:20260612T021500Z
+DTEND:20260612T042000Z
+DTSTAMP:20260612T021500Z
+UID:qjA2gNp0p4
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen Rick (Paul Rudd)\, a past-h
+ is-prime wedding singer\, meets fading boy-band star Danny (Nick Jonas) du
+ ring a gig\, the two bond over music and a late-night jam session. But whe
+ n Danny turns one of Rick's songs into the hit that reignites his career\,
+  Rick sets out to reclaim the recognition he believes he deserves—even i
+ f it means risking everything he cares about. From writer-director John Ca
+ rney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\
+ , self-respect\, friendship\, and the price of ambition.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/power-ballad-yr\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260626T000000Z
+DTEND:20260626T014500Z
+DTSTAMP:20260626T000000Z
+UID:BqLgkYGgXR
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260626T023000Z
+DTEND:20260626T041500Z
+DTSTAMP:20260626T023000Z
+UID:6pMODE86Ov
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260612T231500Z
+DTEND:20260613T011500Z
+DTSTAMP:20260612T231500Z
+UID:a8ss5JIZq4
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260613T020000Z
+DTEND:20260613T040000Z
+DTSTAMP:20260613T020000Z
+UID:ITwuRZHVoo
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -424,6 +498,20 @@ DESCRIPTION:Duration: 130 mins (2h10m)\n\nSIFF Movie Club Towanda! Amidst
  ung women who experienced hardships and love in 1920s Whistle Stop\, Alaba
  ma.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/fried-gree
  n-tomatoes\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260710T023000Z
+DTEND:20260710T043500Z
+DTSTAMP:20260710T023000Z
+UID:dB9O9Iofhs
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down? Director & star Olivia 
+ Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
+ Estimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -450,118 +538,6 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  , who plays the titular role\, alongside a troupe of comedians including K
  ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
  et/festival/maddies-secret\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260711T180000Z
-DTEND:20260711T200500Z
-DTSTAMP:20260711T180000Z
-UID:hDo3pquC5A
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down? Director & star Olivia 
- Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
- Estimated start: 11:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260711T204500Z
-DTEND:20260711T225000Z
-DTSTAMP:20260711T204500Z
-UID:urrbY9JeLB
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down? Director & star Olivia 
- Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
- Estimated start: 14:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260711T233500Z
-DTEND:20260712T014000Z
-DTSTAMP:20260711T233500Z
-UID:4p5xq2hY8V
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down? Director & star Olivia 
- Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
- Estimated start: 16:50
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260712T023000Z
-DTEND:20260712T043500Z
-DTSTAMP:20260712T023000Z
-UID:pN3fMgvTCo
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down? Director & star Olivia 
- Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
- Estimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Power Ballad
-DTSTART:20260609T233000Z
-DTEND:20260610T013500Z
-DTSTAMP:20260609T233000Z
-UID:Us7pv85C8U
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen Rick (Paul Rudd)\, a past-h
- is-prime wedding singer\, meets fading boy-band star Danny (Nick Jonas) du
- ring a gig\, the two bond over music and a late-night jam session. But whe
- n Danny turns one of Rick's songs into the hit that reignites his career\,
-  Rick sets out to reclaim the recognition he believes he deserves—even i
- f it means risking everything he cares about. From writer-director John Ca
- rney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\
- , self-respect\, friendship\, and the price of ambition.\n\nhttps://www.si
- ff.net/cinema/in-theaters/power-ballad-yr\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Power Ballad
-DTSTART:20260610T021500Z
-DTEND:20260610T042000Z
-DTSTAMP:20260610T021500Z
-UID:hsAJJ8AYD8
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nWhen Rick (Paul Rudd)\, a past-h
- is-prime wedding singer\, meets fading boy-band star Danny (Nick Jonas) du
- ring a gig\, the two bond over music and a late-night jam session. But whe
- n Danny turns one of Rick's songs into the hit that reignites his career\,
-  Rick sets out to reclaim the recognition he believes he deserves—even i
- f it means risking everything he cares about. From writer-director John Ca
- rney (Sing Street\, Once)\, Power Ballad is a feel-good story about music\
- , self-respect\, friendship\, and the price of ambition.\n\nhttps://www.si
- ff.net/cinema/in-theaters/power-ballad-yr\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260618T232000Z
-DTEND:20260619T012000Z
-DTSTAMP:20260618T232000Z
-UID:iEnUEiVi3B
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260619T021500Z
-DTEND:20260619T041500Z
-DTSTAMP:20260619T021500Z
-UID:3CCq4y88tb
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -622,30 +598,58 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
-DTSTART:20260713T230000Z
-DTEND:20260714T010500Z
-DTSTAMP:20260713T230000Z
-UID:A8ZtU6g0SX
+DTSTART:20260711T180000Z
+DTEND:20260711T200500Z
+DTSTAMP:20260711T180000Z
+UID:hDo3pquC5A
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
  he spark or lit the match that burns it all down? Director & star Olivia 
  Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
- Estimated start: 16:15
+ Estimated start: 11:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
-DTSTART:20260714T020000Z
-DTEND:20260714T040500Z
-DTSTAMP:20260714T020000Z
-UID:2ipIheop9w
+DTSTART:20260711T204500Z
+DTEND:20260711T225000Z
+DTSTAMP:20260711T204500Z
+UID:urrbY9JeLB
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
  he spark or lit the match that burns it all down? Director & star Olivia 
  Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
- Estimated start: 19:15
+ Estimated start: 14:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260711T233500Z
+DTEND:20260712T014000Z
+DTSTAMP:20260711T233500Z
+UID:4p5xq2hY8V
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down? Director & star Olivia 
+ Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
+ Estimated start: 16:50
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260712T023000Z
+DTEND:20260712T043500Z
+DTSTAMP:20260712T023000Z
+UID:pN3fMgvTCo
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down? Director & star Olivia 
+ Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
+ Estimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -668,6 +672,34 @@ DTSTART:20260715T020000Z
 DTEND:20260715T040500Z
 DTSTAMP:20260715T020000Z
 UID:odjTC3Wnhs
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down? Director & star Olivia 
+ Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
+ Estimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260713T230000Z
+DTEND:20260714T010500Z
+DTSTAMP:20260713T230000Z
+UID:A8ZtU6g0SX
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down? Director & star Olivia 
+ Wilde scheduled to attend.\n\nhttps://www.siff.net/festival/the-invite\n\n
+ Estimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260714T020000Z
+DTEND:20260714T040500Z
+DTSTAMP:20260714T020000Z
+UID:2ipIheop9w
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
@@ -705,50 +737,6 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260613T181500Z
-DTEND:20260613T201500Z
-DTSTAMP:20260613T181500Z
-UID:cwcSS8xHts
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260613T205000Z
-DTEND:20260613T225000Z
-DTSTAMP:20260613T205000Z
-UID:Noht0v3ogv
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:05
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260613T233500Z
-DTEND:20260614T013500Z
-DTSTAMP:20260613T233500Z
-UID:pS1uVi6S3c
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:50
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260614T022000Z
-DTEND:20260614T042000Z
-DTSTAMP:20260614T022000Z
-UID:oMdmqBGyTV
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Invite
 DTSTART:20260715T230000Z
 DTEND:20260716T010500Z
@@ -777,25 +765,55 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260612T231500Z
-DTEND:20260613T011500Z
-DTSTAMP:20260612T231500Z
-UID:a8ss5JIZq4
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:30
+SUMMARY:Network (1976)
+DTSTART:20260801T230000Z
+DTEND:20260802T012000Z
+DTSTAMP:20260801T230000Z
+UID:qPcxpRcy4H
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nThis media satire\, directed by 
+ Sidney Lumet from a brilliantly incisive script by Paddy Chayefsky\, is an
+  X-ray of the corrupted soul of a corporate-dominated America\, startlingl
+ y prescient in its anticipation of today’s outrage-driven news cycle. 50
+ th anniversary screening.\n\nhttps://www.siff.net/cinema/in-theaters/netwo
+ rk\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260613T020000Z
-DTEND:20260613T040000Z
-DTSTAMP:20260613T020000Z
-UID:ITwuRZHVoo
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
+SUMMARY:Once Upon a Time in a Cinema
+DTSTART:20260730T230000Z
+DTEND:20260731T011000Z
+DTSTAMP:20260730T230000Z
+UID:8tBwyrIEXN
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nBurst pipes\, rats and financial
+  pressure torment a Limerick theatre owner in 1984 in David Gleeson's hear
+ twarming love letter to cinemas.\n\nhttps://www.siff.net/cinema/in-theater
+ s/once-upon-a-time-in-a-cinema\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry to Bother You (2018)
+DTSTART:20260731T020000Z
+DTEND:20260731T041000Z
+DTSTAMP:20260731T020000Z
+UID:Q331Q5w5Kq
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nLakeith Stanfield\, Tessa Thomps
+ on\, and Steven Yuen star in the exhilarating directorial debut of musicia
+ n Boots Riley\, a biting and bonkers satire that follows a black telemarke
+ ter who discovers an unknown skill which gives him magical selling powers 
+ that shoot him up the corporate ladder.\n\nhttps://www.siff.net/cinema/in-
+ theaters/sorry-to-bother-you\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Car Wash (1976)
+DTSTART:20260802T230000Z
+DTEND:20260803T005500Z
+DTSTAMP:20260802T230000Z
+UID:3Bk4ht5sqS
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nAt Sully Boyar's car wash\, every
+ body is cleaning up and getting down in this classic comedy with a killer 
+ soundtrack. 50th anniversary screening.\n\nhttps://www.siff.net/cinema/in-
+ theaters/car-wash\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -812,10 +830,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2026
-DTSTART:20260808T200000Z
-DTEND:20260808T214500Z
-DTSTAMP:20260808T200000Z
-UID:xidrhTpoad
+DTSTART:20260809T200000Z
+DTEND:20260809T214500Z
+DTSTAMP:20260809T200000Z
+UID:fbbGneZCm1
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
   is back with screenings in theaters across the USA and around the world.\
  n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
@@ -824,10 +842,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2026
-DTSTART:20260809T200000Z
-DTEND:20260809T214500Z
-DTSTAMP:20260809T200000Z
-UID:fbbGneZCm1
+DTSTART:20260808T200000Z
+DTEND:20260808T214500Z
+DTSTAMP:20260808T200000Z
+UID:xidrhTpoad
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
   is back with screenings in theaters across the USA and around the world.\
  n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
