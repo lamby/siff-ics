@@ -3,121 +3,67 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260610T142236Z
+LAST-MODIFIED:20260611T141643Z
+BEGIN:VEVENT
+SUMMARY:NT Live: All My Sons
+DTSTART:20260623T013000Z
+DTEND:20260623T043000Z
+DTSTAMP:20260623T013000Z
+UID:MabXc3OX5p
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
+ and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
+ r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
+ forever and their contented lives\, already shadowed by the loss of their 
+ eldest boy to war\, are about to shatter. With the return of a figure from
+  the past\, long buried truths are forced to the surface and the price of 
+ their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
+ ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: All My Sons
+DTSTART:20260624T013000Z
+DTEND:20260624T043000Z
+DTSTAMP:20260624T013000Z
+UID:ncZ6meJc3g
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
+ and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
+ r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
+ forever and their contented lives\, already shadowed by the loss of their 
+ eldest boy to war\, are about to shatter. With the return of a figure from
+  the past\, long buried truths are forced to the surface and the price of 
+ their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
+ ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:She's the He
-DTSTART:20260613T210000Z
-DTEND:20260613T225000Z
-DTSTAMP:20260613T210000Z
-UID:r7EN2dXm6K
+DTSTART:20260612T233000Z
+DTEND:20260613T012000Z
+DTSTAMP:20260612T233000Z
+UID:fahbZU6tBE
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
  thy put together a cast and crew of almost entirely trans\, nonbinary\, an
  d queer people to make this Bottoms-esque teen satire about two seniors wh
  o pretend to be trans during their last week of high school\, only for one
   of them to find it suits them just fine. Featured in 2025 Seattle Intern
  ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 14:15
+ -he\n\nEstimated start: 16:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:She's the He
-DTSTART:20260614T033000Z
-DTEND:20260614T052000Z
-DTSTAMP:20260614T033000Z
-UID:7qmyBCMtmP
+DTSTART:20260613T020000Z
+DTEND:20260613T035000Z
+DTSTAMP:20260613T020000Z
+UID:leZIX5FW4w
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
  thy put together a cast and crew of almost entirely trans\, nonbinary\, an
  d queer people to make this Bottoms-esque teen satire about two seniors wh
  o pretend to be trans during their last week of high school\, only for one
   of them to find it suits them just fine. Featured in 2025 Seattle Intern
  ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 20:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Czech that Film - Caravan
-DTSTART:20260614T003000Z
-DTEND:20260614T024000Z
-DTSTAMP:20260614T003000Z
-UID:uPv902j7FV
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nPresented by Honorary Consulate
-  of the Czech Republic in Seattle and Center for Czech Education and Cultu
- re  Czech That Film returns after five years with Caravan — a tender Cz
- ech road movie about Ester\, a devoted mother to David\, her son with Down
-  syndrome. When she flees a tense Italian visit\, their old camper becomes
-  a journey toward freedom\, connection\, and unexpected joy.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/czech-that-film-caravan\n\nEstimated start: 
- 17:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260620T000000Z
-DTEND:20260620T020500Z
-DTSTAMP:20260620T000000Z
-UID:ssJenqx6jm
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260620T023000Z
-DTEND:20260620T043500Z
-DTSTAMP:20260620T023000Z
-UID:9CTa7QmOnk
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260620T213000Z
-DTEND:20260620T233500Z
-DTSTAMP:20260620T213000Z
-UID:MStUG9jmlP
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 14:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260621T000000Z
-DTEND:20260621T020500Z
-DTSTAMP:20260621T000000Z
-UID:91oy3WpsoA
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260621T023000Z
-DTEND:20260621T043500Z
-DTSTAMP:20260621T023000Z
-UID:GpnOcmJxir
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 19:45
+ -he\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -165,27 +111,63 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live: All My Sons
-DTSTART:20260623T013000Z
-DTEND:20260623T043000Z
-DTSTAMP:20260623T013000Z
-UID:MabXc3OX5p
-DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
- and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
- r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
- forever and their contented lives\, already shadowed by the loss of their 
- eldest boy to war\, are about to shatter. With the return of a figure from
-  the past\, long buried truths are forced to the surface and the price of 
- their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
- ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 18:45
+SUMMARY:Everybody to Kenmure Street
+DTSTART:20260620T000000Z
+DTEND:20260620T020500Z
+DTSTAMP:20260620T000000Z
+UID:ssJenqx6jm
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
+  dawn raid triggers one of the most spontaneous and successful acts of civ
+ il resistance in recent memory. In Scotland’s most diverse neighborhood\
+ , hundreds of residents rush to the streets to stop the deportation of the
+ ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
+ ure-street\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everybody to Kenmure Street
+DTSTART:20260620T023000Z
+DTEND:20260620T043500Z
+DTSTAMP:20260620T023000Z
+UID:9CTa7QmOnk
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
+  dawn raid triggers one of the most spontaneous and successful acts of civ
+ il resistance in recent memory. In Scotland’s most diverse neighborhood\
+ , hundreds of residents rush to the streets to stop the deportation of the
+ ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
+ ure-street\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Sister
+DTSTART:20260626T230000Z
+DTEND:20260627T010500Z
+DTSTAMP:20260626T230000Z
+UID:b3AbkU4xkv
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant\n\nhttps://www.siff.net/cinema/in-theaters/th
+ e-little-sister\n\nEstimated start: 16:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Sister
+DTSTART:20260627T014500Z
+DTEND:20260627T035000Z
+DTSTAMP:20260627T014500Z
+UID:TS2LtH7nK1
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant\n\nhttps://www.siff.net/cinema/in-theaters/th
+ e-little-sister\n\nEstimated start: 19:00
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:She's the He
-DTSTART:20260614T210000Z
-DTEND:20260614T225000Z
-DTSTAMP:20260614T210000Z
-UID:haGm120KNu
+DTSTART:20260613T210000Z
+DTEND:20260613T225000Z
+DTSTAMP:20260613T210000Z
+UID:r7EN2dXm6K
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
  thy put together a cast and crew of almost entirely trans\, nonbinary\, an
  d queer people to make this Bottoms-esque teen satire about two seniors wh
@@ -197,78 +179,101 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:She's the He
-DTSTART:20260614T233000Z
-DTEND:20260615T012000Z
-DTSTAMP:20260614T233000Z
-UID:1HctbnLuDI
+DTSTART:20260614T033000Z
+DTEND:20260614T052000Z
+DTSTAMP:20260614T033000Z
+UID:7qmyBCMtmP
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
  thy put together a cast and crew of almost entirely trans\, nonbinary\, an
  d queer people to make this Bottoms-esque teen satire about two seniors wh
  o pretend to be trans during their last week of high school\, only for one
   of them to find it suits them just fine. Featured in 2025 Seattle Intern
  ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 16:45
+ -he\n\nEstimated start: 20:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:She's the He
-DTSTART:20260615T020000Z
-DTEND:20260615T035000Z
-DTSTAMP:20260615T020000Z
-UID:hqRbnI5ZTc
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Featured in 2025 Seattle Intern
- ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 19:15
+SUMMARY:Czech that Film - Caravan
+DTSTART:20260614T003000Z
+DTEND:20260614T024000Z
+DTSTAMP:20260614T003000Z
+UID:uPv902j7FV
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nPresented by Honorary Consulate
+  of the Czech Republic in Seattle and Center for Czech Education and Cultu
+ re  Czech That Film returns after five years with Caravan — a tender Cz
+ ech road movie about Ester\, a devoted mother to David\, her son with Down
+  syndrome. When she flees a tense Italian visit\, their old camper becomes
+  a journey toward freedom\, connection\, and unexpected joy.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/czech-that-film-caravan\n\nEstimated start: 
+ 17:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live: All My Sons
-DTSTART:20260624T013000Z
-DTEND:20260624T043000Z
-DTSTAMP:20260624T013000Z
-UID:ncZ6meJc3g
-DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
- and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
- r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
- forever and their contented lives\, already shadowed by the loss of their 
- eldest boy to war\, are about to shatter. With the return of a figure from
-  the past\, long buried truths are forced to the surface and the price of 
- their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
- ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 18:45
+SUMMARY:The Little Sister
+DTSTART:20260627T230000Z
+DTEND:20260628T010500Z
+DTSTAMP:20260627T230000Z
+UID:XvEwlhvL6j
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant\n\nhttps://www.siff.net/cinema/in-theaters/th
+ e-little-sister\n\nEstimated start: 16:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:She's the He
-DTSTART:20260612T233000Z
-DTEND:20260613T012000Z
-DTSTAMP:20260612T233000Z
-UID:fahbZU6tBE
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Featured in 2025 Seattle Intern
- ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 16:45
+SUMMARY:The Little Sister
+DTSTART:20260628T014500Z
+DTEND:20260628T035000Z
+DTSTAMP:20260628T014500Z
+UID:9bYa7BA4Pt
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant\n\nhttps://www.siff.net/cinema/in-theaters/th
+ e-little-sister\n\nEstimated start: 19:00
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:She's the He
-DTSTART:20260613T020000Z
-DTEND:20260613T035000Z
-DTSTAMP:20260613T020000Z
-UID:leZIX5FW4w
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Featured in 2025 Seattle Intern
- ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 19:15
+SUMMARY:The Little Sister
+DTSTART:20260628T210000Z
+DTEND:20260628T230500Z
+DTSTAMP:20260628T210000Z
+UID:wN2jwLVnst
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant\n\nhttps://www.siff.net/cinema/in-theaters/th
+ e-little-sister\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Oliver: Saved by the Beauty of the World
+DTSTART:20260711T203000Z
+DTEND:20260711T222000Z
+DTSTAMP:20260711T203000Z
+UID:b2RMTJbv7U
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
+  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
+ ueer and out\, but intensely private. Her poems inspire liberals and conse
+ rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
+ ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
+ nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
+ , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
+ r-saved-by-the-beauty-of-the-world\n\nEstimated start: 13:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Oliver: Saved by the Beauty of the World
+DTSTART:20260712T023000Z
+DTEND:20260712T042000Z
+DTSTAMP:20260712T023000Z
+UID:jtXwkx78ui
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
+  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
+ ueer and out\, but intensely private. Her poems inspire liberals and conse
+ rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
+ ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
+ nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
+ , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
+ r-saved-by-the-beauty-of-the-world\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -352,50 +357,48 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-DTSTART:20260711T203000Z
-DTEND:20260711T222000Z
-DTSTAMP:20260711T203000Z
-UID:b2RMTJbv7U
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
-  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
- ueer and out\, but intensely private. Her poems inspire liberals and conse
- rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
- ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
- nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
- , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
- r-saved-by-the-beauty-of-the-world\n\nEstimated start: 13:45
+SUMMARY:She's the He
+DTSTART:20260614T210000Z
+DTEND:20260614T225000Z
+DTSTAMP:20260614T210000Z
+UID:haGm120KNu
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
+ thy put together a cast and crew of almost entirely trans\, nonbinary\, an
+ d queer people to make this Bottoms-esque teen satire about two seniors wh
+ o pretend to be trans during their last week of high school\, only for one
+  of them to find it suits them just fine. Featured in 2025 Seattle Intern
+ ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
+ -he\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-DTSTART:20260712T023000Z
-DTEND:20260712T042000Z
-DTSTAMP:20260712T023000Z
-UID:jtXwkx78ui
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
-  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
- ueer and out\, but intensely private. Her poems inspire liberals and conse
- rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
- ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
- nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
- , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
- r-saved-by-the-beauty-of-the-world\n\nEstimated start: 19:45
+SUMMARY:She's the He
+DTSTART:20260614T233000Z
+DTEND:20260615T012000Z
+DTSTAMP:20260614T233000Z
+UID:1HctbnLuDI
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
+ thy put together a cast and crew of almost entirely trans\, nonbinary\, an
+ d queer people to make this Bottoms-esque teen satire about two seniors wh
+ o pretend to be trans during their last week of high school\, only for one
+  of them to find it suits them just fine. Featured in 2025 Seattle Intern
+ ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
+ -he\n\nEstimated start: 16:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Remaining Native
-DTSTART:20260721T013000Z
-DTEND:20260721T031500Z
-DTSTAMP:20260721T013000Z
-UID:Ck1XfRWrty
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nThe Popcorn ListRemaining Native 
- is a coming-of-age documentary told from the perspective of Kutoven (Ku) S
- tevens\, a 17-year-old Native American runner\, struggling to navigate his
-  dream of becoming a collegiate athlete as the memory of his great-grandfa
- ther's escape from an Indian boarding school begins to connect past\, pres
- ent\, and future.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-
- list/remaining-native\n\nEstimated start: 18:45
+SUMMARY:She's the He
+DTSTART:20260615T020000Z
+DTEND:20260615T035000Z
+DTSTAMP:20260615T020000Z
+UID:hqRbnI5ZTc
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
+ thy put together a cast and crew of almost entirely trans\, nonbinary\, an
+ d queer people to make this Bottoms-esque teen satire about two seniors wh
+ o pretend to be trans during their last week of high school\, only for one
+  of them to find it suits them just fine. Featured in 2025 Seattle Intern
+ ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
+ -he\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -438,6 +441,63 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Popcorn ListTrash Baby is a c
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Everybody to Kenmure Street
+DTSTART:20260620T213000Z
+DTEND:20260620T233500Z
+DTSTAMP:20260620T213000Z
+UID:MStUG9jmlP
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
+  dawn raid triggers one of the most spontaneous and successful acts of civ
+ il resistance in recent memory. In Scotland’s most diverse neighborhood\
+ , hundreds of residents rush to the streets to stop the deportation of the
+ ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
+ ure-street\n\nEstimated start: 14:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everybody to Kenmure Street
+DTSTART:20260621T000000Z
+DTEND:20260621T020500Z
+DTSTAMP:20260621T000000Z
+UID:91oy3WpsoA
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
+  dawn raid triggers one of the most spontaneous and successful acts of civ
+ il resistance in recent memory. In Scotland’s most diverse neighborhood\
+ , hundreds of residents rush to the streets to stop the deportation of the
+ ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
+ ure-street\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everybody to Kenmure Street
+DTSTART:20260621T023000Z
+DTEND:20260621T043500Z
+DTSTAMP:20260621T023000Z
+UID:GpnOcmJxir
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
+  dawn raid triggers one of the most spontaneous and successful acts of civ
+ il resistance in recent memory. In Scotland’s most diverse neighborhood\
+ , hundreds of residents rush to the streets to stop the deportation of the
+ ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
+ ure-street\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remaining Native
+DTSTART:20260721T013000Z
+DTEND:20260721T031500Z
+DTSTAMP:20260721T013000Z
+UID:Ck1XfRWrty
+DESCRIPTION:Duration: 87 mins (1h27m)\n\nThe Popcorn ListRemaining Native 
+ is a coming-of-age documentary told from the perspective of Kutoven (Ku) S
+ tevens\, a 17-year-old Native American runner\, struggling to navigate his
+  dream of becoming a collegiate athlete as the memory of his great-grandfa
+ ther's escape from an Indian boarding school begins to connect past\, pres
+ ent\, and future.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-
+ list/remaining-native\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Fisherman
 DTSTART:20260723T000000Z
 DTEND:20260723T020500Z
@@ -466,6 +526,19 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260825T013000Z
+DTEND:20260825T044500Z
+DTSTAMP:20260825T013000Z
+UID:ZHDUm2mEvV
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Les Liaisons Dangereuses
 DTSTART:20260823T210000Z
 DTEND:20260824T001500Z
 DTSTAMP:20260823T210000Z
@@ -483,19 +556,6 @@ DTSTART:20260826T013000Z
 DTEND:20260826T044500Z
 DTSTAMP:20260826T013000Z
 UID:gytRmk1kdR
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260825T013000Z
-DTEND:20260825T044500Z
-DTSTAMP:20260825T013000Z
-UID:ZHDUm2mEvV
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
  oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
  ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
