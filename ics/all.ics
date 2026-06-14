@@ -3,114 +3,13 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20260613T154512Z
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260620T181500Z
-DTEND:20260620T201500Z
-DTSTAMP:20260620T181500Z
-UID:pNIB7qvUJn
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260620T210000Z
-DTEND:20260620T230000Z
-DTSTAMP:20260620T210000Z
-UID:9JIjx4qf7b
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260620T234500Z
-DTEND:20260621T014500Z
-DTSTAMP:20260620T234500Z
-UID:llo1OLTucV
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260621T023000Z
-DTEND:20260621T043000Z
-DTSTAMP:20260621T023000Z
-UID:0gKHKgNOos
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260620T183000Z
-DTEND:20260620T204000Z
-DTSTAMP:20260620T183000Z
-UID:oHFoqEQMgg
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 11:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260620T211500Z
-DTEND:20260620T232500Z
-DTSTAMP:20260620T211500Z
-UID:Of7ChRVxf2
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 14:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260621T000000Z
-DTEND:20260621T021000Z
-DTSTAMP:20260621T000000Z
-UID:2otaLdMq3d
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260621T024500Z
-DTEND:20260621T045500Z
-DTSTAMP:20260621T024500Z
-UID:glXg36xtgT
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260614T153556Z
 BEGIN:VEVENT
 SUMMARY:Disclosure Day
-DTSTART:20260620T191500Z
-DTEND:20260620T220500Z
-DTSTAMP:20260620T191500Z
-UID:dllEGl2Jgt
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 12:30
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260620T230000Z
-DTEND:20260621T015000Z
-DTSTAMP:20260620T230000Z
-UID:0G35LmEspN
+DTSTART:20260619T230000Z
+DTEND:20260620T015000Z
+DTSTAMP:20260619T230000Z
+UID:Pwt2AkWUag
 DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
  one\, if someone showed you\, proved it to you\, would that frighten you? 
  This summer\, the truth belongs to eight billion people. We are coming clo
@@ -120,10 +19,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day
-DTSTART:20260621T024500Z
-DTEND:20260621T053500Z
-DTSTAMP:20260621T024500Z
-UID:cDcbpbBJyY
+DTSTART:20260620T024500Z
+DTEND:20260620T053500Z
+DTSTAMP:20260620T024500Z
+UID:RSxIuLuDV1
 DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
  one\, if someone showed you\, proved it to you\, would that frighten you? 
  This summer\, the truth belongs to eight billion people. We are coming clo
@@ -132,73 +31,55 @@ DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260620T193000Z
-DTEND:20260620T211500Z
-DTSTAMP:20260620T193000Z
-UID:a8fC2d7ZcT
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 12:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+SUMMARY:I Love Boosters
+DTSTART:20260619T233000Z
+DTEND:20260620T013000Z
+DTSTAMP:20260619T233000Z
+UID:AVBG5sIjEn
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260620T220000Z
-DTEND:20260620T234500Z
-DTSTAMP:20260620T220000Z
-UID:AYEbh9lsJn
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 15:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+SUMMARY:I Love Boosters
+DTSTART:20260620T021500Z
+DTEND:20260620T041500Z
+DTSTAMP:20260620T021500Z
+UID:hbxUh6Hs2p
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260621T003000Z
-DTEND:20260621T021500Z
-DTSTAMP:20260621T003000Z
-UID:TLkgsSvgkf
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 17:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+SUMMARY:Backrooms
+DTSTART:20260620T000000Z
+DTEND:20260620T021000Z
+DTSTAMP:20260620T000000Z
+UID:jkOnUwFG8F
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260621T030000Z
-DTEND:20260621T044500Z
-DTSTAMP:20260621T030000Z
-UID:kiWFkaKNZ0
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 20:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+SUMMARY:Backrooms
+DTSTART:20260620T024500Z
+DTEND:20260620T045500Z
+DTSTAMP:20260620T024500Z
+UID:28lIYDahDe
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everybody to Kenmure Street
-DTSTART:20260620T213000Z
-DTEND:20260620T233500Z
-DTSTAMP:20260620T213000Z
-UID:MStUG9jmlP
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 14:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260621T000000Z
-DTEND:20260621T020500Z
-DTSTAMP:20260621T000000Z
-UID:91oy3WpsoA
+DTSTART:20260620T000000Z
+DTEND:20260620T020500Z
+DTSTAMP:20260620T000000Z
+UID:ssJenqx6jm
 DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
   dawn raid triggers one of the most spontaneous and successful acts of civ
  il resistance in recent memory. In Scotland’s most diverse neighborhood\
@@ -209,10 +90,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everybody to Kenmure Street
-DTSTART:20260621T023000Z
-DTEND:20260621T043500Z
-DTSTAMP:20260621T023000Z
-UID:GpnOcmJxir
+DTSTART:20260620T023000Z
+DTEND:20260620T043500Z
+DTSTAMP:20260620T023000Z
+UID:9CTa7QmOnk
 DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
   dawn raid triggers one of the most spontaneous and successful acts of civ
  il resistance in recent memory. In Scotland’s most diverse neighborhood\
@@ -220,6 +101,440 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
  ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
  ure-street\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260620T003000Z
+DTEND:20260620T021500Z
+DTSTAMP:20260620T003000Z
+UID:Myt4TBTSJw
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 17:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260620T030000Z
+DTEND:20260620T044500Z
+DTSTAMP:20260620T030000Z
+UID:XKiSXlEqPW
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 20:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amores Perros (2000)
+DTSTART:20260618T223000Z
+DTEND:20260619T013000Z
+DTSTAMP:20260618T223000Z
+UID:hT7xkXX06g
+DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
+ Three lives collide.  A teenager risks it all to run away with his brothe
+ r’s wife. A model loses everything after moving in with her lover. A hom
+ eless man unearths the ghosts of his past. As their stories unfold\, human
+  chaos\, cruelty\, and tenderness come to light – revealing they are mor
+ e connected than they seem. After 25 years\, Alejandro González Iñárrit
+ u’s legendary debut returns to the big screen in a stunning 4K restorati
+ on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
+ start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260618T230000Z
+DTEND:20260619T015000Z
+DTSTAMP:20260618T230000Z
+UID:dZ2Kg0G1Yl
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260619T023000Z
+DTEND:20260619T052000Z
+DTSTAMP:20260619T023000Z
+UID:3N5PwUi0Fk
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260618T232000Z
+DTEND:20260619T012000Z
+DTSTAMP:20260618T232000Z
+UID:iEnUEiVi3B
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260619T021500Z
+DTEND:20260619T041500Z
+DTSTAMP:20260619T021500Z
+UID:3CCq4y88tb
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260618T234500Z
+DTEND:20260619T015500Z
+DTSTAMP:20260618T234500Z
+UID:bDdsV981la
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260619T023000Z
+DTEND:20260619T044000Z
+DTSTAMP:20260619T023000Z
+UID:tAM6gd8sUg
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time and Water
+DTSTART:20260619T020000Z
+DTEND:20260619T040000Z
+DTSTAMP:20260619T020000Z
+UID:lAcNvWt5WN
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
+ ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
+ Andri Snær Magnason turns his archives into a time capsule to hold what i
+ s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260623T230000Z
+DTEND:20260624T015000Z
+DTSTAMP:20260623T230000Z
+UID:yydpTxLvql
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260624T023000Z
+DTEND:20260624T052000Z
+DTSTAMP:20260624T023000Z
+UID:6NQq6no7KO
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260623T231500Z
+DTEND:20260624T011500Z
+DTSTAMP:20260623T231500Z
+UID:EtwJ9pkgw2
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+DTSTAMP:20260624T020000Z
+UID:UQKfSokYcE
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260623T233000Z
+DTEND:20260624T014000Z
+DTSTAMP:20260623T233000Z
+UID:O6GnGmd1kO
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260624T021500Z
+DTEND:20260624T042500Z
+DTSTAMP:20260624T021500Z
+UID:M0dlOZBRos
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260624T000000Z
+DTEND:20260624T014500Z
+DTSTAMP:20260624T000000Z
+UID:g4ATxetPy6
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260624T023000Z
+DTEND:20260624T041500Z
+DTSTAMP:20260624T023000Z
+UID:HiAXoH32dZ
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: All My Sons
+DTSTART:20260624T013000Z
+DTEND:20260624T043000Z
+DTSTAMP:20260624T013000Z
+UID:ncZ6meJc3g
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
+ and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
+ r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
+ forever and their contented lives\, already shadowed by the loss of their 
+ eldest boy to war\, are about to shatter. With the return of a figure from
+  the past\, long buried truths are forced to the surface and the price of 
+ their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
+ ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260617T230000Z
+DTEND:20260618T015000Z
+DTSTAMP:20260617T230000Z
+UID:IxVK8eWof3
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260618T023000Z
+DTEND:20260618T052000Z
+DTSTAMP:20260618T023000Z
+UID:twoLjHkiOg
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time and Water
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+DTSTAMP:20260617T230000Z
+UID:F5G8SePngH
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
+ ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
+ Andri Snær Magnason turns his archives into a time capsule to hold what i
+ s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260617T232000Z
+DTEND:20260618T012000Z
+DTSTAMP:20260617T232000Z
+UID:lxBW07lTEG
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260618T021500Z
+DTEND:20260618T041500Z
+DTSTAMP:20260618T021500Z
+UID:ZJh4WkMlig
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260617T234500Z
+DTEND:20260618T015500Z
+DTSTAMP:20260617T234500Z
+UID:f0hebMQIQ9
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260618T023000Z
+DTEND:20260618T044000Z
+DTSTAMP:20260618T023000Z
+UID:nHe7t6WIO2
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amores Perros (2000)
+DTSTART:20260618T014500Z
+DTEND:20260618T044500Z
+DTSTAMP:20260618T014500Z
+UID:9vgSfcce26
+DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
+ Three lives collide.  A teenager risks it all to run away with his brothe
+ r’s wife. A model loses everything after moving in with her lover. A hom
+ eless man unearths the ghosts of his past. As their stories unfold\, human
+  chaos\, cruelty\, and tenderness come to light – revealing they are mor
+ e connected than they seem. After 25 years\, Alejandro González Iñárrit
+ u’s legendary debut returns to the big screen in a stunning 4K restorati
+ on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
+ start: 19:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amores Perros (2000)
+DTSTART:20260616T223000Z
+DTEND:20260617T013000Z
+DTSTAMP:20260616T223000Z
+UID:BymcLIP8Lw
+DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
+ Three lives collide.  A teenager risks it all to run away with his brothe
+ r’s wife. A model loses everything after moving in with her lover. A hom
+ eless man unearths the ghosts of his past. As their stories unfold\, human
+  chaos\, cruelty\, and tenderness come to light – revealing they are mor
+ e connected than they seem. After 25 years\, Alejandro González Iñárrit
+ u’s legendary debut returns to the big screen in a stunning 4K restorati
+ on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
+ start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260616T230000Z
+DTEND:20260617T015000Z
+DTSTAMP:20260616T230000Z
+UID:koqZ9nCH0A
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260617T023000Z
+DTEND:20260617T052000Z
+DTSTAMP:20260617T023000Z
+UID:CVkaefW8FE
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260616T232000Z
+DTEND:20260617T012000Z
+DTSTAMP:20260616T232000Z
+UID:HNmLuTYmOA
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260617T021500Z
+DTEND:20260617T041500Z
+DTSTAMP:20260617T021500Z
+UID:5cr0G1bpXY
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260616T234500Z
+DTEND:20260617T015500Z
+DTSTAMP:20260616T234500Z
+UID:MNS6cXdJqm
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260617T023000Z
+DTEND:20260617T044000Z
+DTSTAMP:20260617T023000Z
+UID:QgsxlWgBKF
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time and Water
+DTSTART:20260617T020000Z
+DTEND:20260617T040000Z
+DTSTAMP:20260617T020000Z
+UID:aSRdqo3inq
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
+ ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
+ Andri Snær Magnason turns his archives into a time capsule to hold what i
+ s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day
@@ -330,6 +645,221 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston
  their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
  ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260614T181500Z
+DTEND:20260614T201500Z
+DTSTAMP:20260614T181500Z
+UID:hm8sImrRnj
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260614T205000Z
+DTEND:20260614T225000Z
+DTSTAMP:20260614T205000Z
+UID:u8T8qbbAML
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260614T233500Z
+DTEND:20260615T013500Z
+DTSTAMP:20260614T233500Z
+UID:f9JGwX2Fjc
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:50
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260615T022000Z
+DTEND:20260615T042000Z
+DTSTAMP:20260615T022000Z
+UID:cf4DCNvE1p
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:35
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260614T183000Z
+DTEND:20260614T204000Z
+DTSTAMP:20260614T183000Z
+UID:LoLTQfIIwA
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 11:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260614T211500Z
+DTEND:20260614T232500Z
+DTSTAMP:20260614T211500Z
+UID:lnlCJI2BPW
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 14:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260615T000000Z
+DTEND:20260615T021000Z
+DTSTAMP:20260615T000000Z
+UID:A5PoCRQfKQ
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260615T024500Z
+DTEND:20260615T045500Z
+DTSTAMP:20260615T024500Z
+UID:iCUZxTVtl7
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260614T190000Z
+DTEND:20260614T215000Z
+DTSTAMP:20260614T190000Z
+UID:jUtlwRW4gi
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 12:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260614T223000Z
+DTEND:20260615T012000Z
+DTSTAMP:20260614T223000Z
+UID:8rqAEOiL4W
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260615T020000Z
+DTEND:20260615T045000Z
+DTSTAMP:20260615T020000Z
+UID:MG0v6D0rhA
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time and Water
+DTSTART:20260614T191000Z
+DTEND:20260614T211000Z
+DTSTAMP:20260614T191000Z
+UID:frBkKdwYBZ
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
+ ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
+ Andri Snær Magnason turns his archives into a time capsule to hold what i
+ s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 12:25
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time and Water
+DTSTART:20260615T013000Z
+DTEND:20260615T033000Z
+DTSTAMP:20260615T013000Z
+UID:5di0SBVydy
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
+ ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
+ Andri Snær Magnason turns his archives into a time capsule to hold what i
+ s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:She's the He
+DTSTART:20260614T210000Z
+DTEND:20260614T225000Z
+DTSTAMP:20260614T210000Z
+UID:haGm120KNu
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
+ thy put together a cast and crew of almost entirely trans\, nonbinary\, an
+ d queer people to make this Bottoms-esque teen satire about two seniors wh
+ o pretend to be trans during their last week of high school\, only for one
+  of them to find it suits them just fine. Featured in 2025 Seattle Intern
+ ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
+ -he\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:She's the He
+DTSTART:20260614T233000Z
+DTEND:20260615T012000Z
+DTSTAMP:20260614T233000Z
+UID:1HctbnLuDI
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
+ thy put together a cast and crew of almost entirely trans\, nonbinary\, an
+ d queer people to make this Bottoms-esque teen satire about two seniors wh
+ o pretend to be trans during their last week of high school\, only for one
+  of them to find it suits them just fine. Featured in 2025 Seattle Intern
+ ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
+ -he\n\nEstimated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:She's the He
+DTSTART:20260615T020000Z
+DTEND:20260615T035000Z
+DTSTAMP:20260615T020000Z
+UID:hqRbnI5ZTc
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
+ thy put together a cast and crew of almost entirely trans\, nonbinary\, an
+ d queer people to make this Bottoms-esque teen satire about two seniors wh
+ o pretend to be trans during their last week of high school\, only for one
+  of them to find it suits them just fine. Featured in 2025 Seattle Intern
+ ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
+ -he\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amores Perros (2000)
+DTSTART:20260614T215000Z
+DTEND:20260615T005000Z
+DTSTAMP:20260614T215000Z
+UID:LhgBd7lDGK
+DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
+ Three lives collide.  A teenager risks it all to run away with his brothe
+ r’s wife. A model loses everything after moving in with her lover. A hom
+ eless man unearths the ghosts of his past. As their stories unfold\, human
+  chaos\, cruelty\, and tenderness come to light – revealing they are mor
+ e connected than they seem. After 25 years\, Alejandro González Iñárrit
+ u’s legendary debut returns to the big screen in a stunning 4K restorati
+ on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
+ start: 15:05
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
@@ -551,539 +1081,6 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260616T223000Z
-DTEND:20260617T013000Z
-DTSTAMP:20260616T223000Z
-UID:BymcLIP8Lw
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 15:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260616T230000Z
-DTEND:20260617T015000Z
-DTSTAMP:20260616T230000Z
-UID:koqZ9nCH0A
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260617T023000Z
-DTEND:20260617T052000Z
-DTSTAMP:20260617T023000Z
-UID:CVkaefW8FE
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260616T232000Z
-DTEND:20260617T012000Z
-DTSTAMP:20260616T232000Z
-UID:HNmLuTYmOA
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260617T021500Z
-DTEND:20260617T041500Z
-DTSTAMP:20260617T021500Z
-UID:5cr0G1bpXY
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260616T234500Z
-DTEND:20260617T015500Z
-DTSTAMP:20260616T234500Z
-UID:MNS6cXdJqm
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260617T023000Z
-DTEND:20260617T044000Z
-DTSTAMP:20260617T023000Z
-UID:QgsxlWgBKF
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260617T020000Z
-DTEND:20260617T040000Z
-DTSTAMP:20260617T020000Z
-UID:aSRdqo3inq
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260613T180000Z
-DTEND:20260613T205000Z
-DTSTAMP:20260613T180000Z
-UID:n0TSB2Wa9v
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 11:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260613T213000Z
-DTEND:20260614T002000Z
-DTSTAMP:20260613T213000Z
-UID:nvfKw1EkHO
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 14:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260614T010000Z
-DTEND:20260614T035000Z
-DTSTAMP:20260614T010000Z
-UID:NB6jjeTWjW
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260614T043000Z
-DTEND:20260614T072000Z
-DTSTAMP:20260614T043000Z
-UID:E67xD932kA
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 21:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260613T181500Z
-DTEND:20260613T201500Z
-DTSTAMP:20260613T181500Z
-UID:cwcSS8xHts
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260613T205000Z
-DTEND:20260613T225000Z
-DTSTAMP:20260613T205000Z
-UID:Noht0v3ogv
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:05
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260613T233500Z
-DTEND:20260614T013500Z
-DTSTAMP:20260613T233500Z
-UID:pS1uVi6S3c
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:50
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260614T022000Z
-DTEND:20260614T042000Z
-DTSTAMP:20260614T022000Z
-UID:oMdmqBGyTV
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260613T183000Z
-DTEND:20260613T204000Z
-DTSTAMP:20260613T183000Z
-UID:7HfZFTtrnY
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 11:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260613T211500Z
-DTEND:20260613T232500Z
-DTSTAMP:20260613T211500Z
-UID:n1IOB5UHbk
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 14:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260614T000000Z
-DTEND:20260614T021000Z
-DTSTAMP:20260614T000000Z
-UID:MbIKBp1QOl
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260614T024500Z
-DTEND:20260614T045500Z
-DTSTAMP:20260614T024500Z
-UID:pXpI5Lwm8u
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260613T190000Z
-DTEND:20260613T220000Z
-DTSTAMP:20260613T190000Z
-UID:RtNvX2llYf
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 12:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260614T013000Z
-DTEND:20260614T043000Z
-DTSTAMP:20260614T013000Z
-UID:RBKLvjy43X
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 18:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She's the He
-DTSTART:20260613T210000Z
-DTEND:20260613T225000Z
-DTSTAMP:20260613T210000Z
-UID:r7EN2dXm6K
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Featured in 2025 Seattle Intern
- ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She's the He
-DTSTART:20260614T033000Z
-DTEND:20260614T052000Z
-DTSTAMP:20260614T033000Z
-UID:7qmyBCMtmP
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Featured in 2025 Seattle Intern
- ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 20:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260613T224500Z
-DTEND:20260614T004500Z
-DTSTAMP:20260613T224500Z
-UID:2sImyHP0RC
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Czech that Film - Caravan
-DTSTART:20260614T003000Z
-DTEND:20260614T024000Z
-DTSTAMP:20260614T003000Z
-UID:uPv902j7FV
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nPresented by Honorary Consulate
-  of the Czech Republic in Seattle and Center for Czech Education and Cultu
- re  Czech That Film returns after five years with Caravan — a tender Cz
- ech road movie about Ester\, a devoted mother to David\, her son with Down
-  syndrome. When she flees a tense Italian visit\, their old camper becomes
-  a journey toward freedom\, connection\, and unexpected joy.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/czech-that-film-caravan\n\nEstimated start: 
- 17:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260617T230000Z
-DTEND:20260618T015000Z
-DTSTAMP:20260617T230000Z
-UID:IxVK8eWof3
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260618T023000Z
-DTEND:20260618T052000Z
-DTSTAMP:20260618T023000Z
-UID:twoLjHkiOg
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260617T230000Z
-DTEND:20260618T010000Z
-DTSTAMP:20260617T230000Z
-UID:F5G8SePngH
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260617T232000Z
-DTEND:20260618T012000Z
-DTSTAMP:20260617T232000Z
-UID:lxBW07lTEG
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260618T021500Z
-DTEND:20260618T041500Z
-DTSTAMP:20260618T021500Z
-UID:ZJh4WkMlig
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260617T234500Z
-DTEND:20260618T015500Z
-DTSTAMP:20260617T234500Z
-UID:f0hebMQIQ9
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260618T023000Z
-DTEND:20260618T044000Z
-DTSTAMP:20260618T023000Z
-UID:nHe7t6WIO2
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260618T014500Z
-DTEND:20260618T044500Z
-DTSTAMP:20260618T014500Z
-UID:9vgSfcce26
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 19:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260618T223000Z
-DTEND:20260619T013000Z
-DTSTAMP:20260618T223000Z
-UID:hT7xkXX06g
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 15:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260618T230000Z
-DTEND:20260619T015000Z
-DTSTAMP:20260618T230000Z
-UID:dZ2Kg0G1Yl
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260619T023000Z
-DTEND:20260619T052000Z
-DTSTAMP:20260619T023000Z
-UID:3N5PwUi0Fk
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260618T232000Z
-DTEND:20260619T012000Z
-DTSTAMP:20260618T232000Z
-UID:iEnUEiVi3B
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260619T021500Z
-DTEND:20260619T041500Z
-DTSTAMP:20260619T021500Z
-UID:3CCq4y88tb
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260618T234500Z
-DTEND:20260619T015500Z
-DTSTAMP:20260618T234500Z
-UID:bDdsV981la
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260619T023000Z
-DTEND:20260619T044000Z
-DTSTAMP:20260619T023000Z
-UID:tAM6gd8sUg
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260619T020000Z
-DTEND:20260619T040000Z
-DTSTAMP:20260619T020000Z
-UID:lAcNvWt5WN
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Disclosure Day
 DTSTART:20260615T230000Z
 DTEND:20260616T015000Z
@@ -1184,505 +1181,6 @@ DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash.
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260614T181500Z
-DTEND:20260614T201500Z
-DTSTAMP:20260614T181500Z
-UID:hm8sImrRnj
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260614T205000Z
-DTEND:20260614T225000Z
-DTSTAMP:20260614T205000Z
-UID:u8T8qbbAML
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:05
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260614T233500Z
-DTEND:20260615T013500Z
-DTSTAMP:20260614T233500Z
-UID:f9JGwX2Fjc
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:50
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260615T022000Z
-DTEND:20260615T042000Z
-DTSTAMP:20260615T022000Z
-UID:cf4DCNvE1p
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260614T183000Z
-DTEND:20260614T204000Z
-DTSTAMP:20260614T183000Z
-UID:LoLTQfIIwA
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 11:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260614T211500Z
-DTEND:20260614T232500Z
-DTSTAMP:20260614T211500Z
-UID:lnlCJI2BPW
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 14:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260615T000000Z
-DTEND:20260615T021000Z
-DTSTAMP:20260615T000000Z
-UID:A5PoCRQfKQ
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260615T024500Z
-DTEND:20260615T045500Z
-DTSTAMP:20260615T024500Z
-UID:iCUZxTVtl7
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260614T190000Z
-DTEND:20260614T215000Z
-DTSTAMP:20260614T190000Z
-UID:jUtlwRW4gi
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260614T223000Z
-DTEND:20260615T012000Z
-DTSTAMP:20260614T223000Z
-UID:8rqAEOiL4W
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260615T020000Z
-DTEND:20260615T045000Z
-DTSTAMP:20260615T020000Z
-UID:MG0v6D0rhA
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260614T191000Z
-DTEND:20260614T211000Z
-DTSTAMP:20260614T191000Z
-UID:frBkKdwYBZ
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 12:25
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260615T013000Z
-DTEND:20260615T033000Z
-DTSTAMP:20260615T013000Z
-UID:5di0SBVydy
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She's the He
-DTSTART:20260614T210000Z
-DTEND:20260614T225000Z
-DTSTAMP:20260614T210000Z
-UID:haGm120KNu
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Featured in 2025 Seattle Intern
- ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She's the He
-DTSTART:20260614T233000Z
-DTEND:20260615T012000Z
-DTSTAMP:20260614T233000Z
-UID:1HctbnLuDI
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Featured in 2025 Seattle Intern
- ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 16:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She's the He
-DTSTART:20260615T020000Z
-DTEND:20260615T035000Z
-DTSTAMP:20260615T020000Z
-UID:hqRbnI5ZTc
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nFirst-time director Siobhan McCar
- thy put together a cast and crew of almost entirely trans\, nonbinary\, an
- d queer people to make this Bottoms-esque teen satire about two seniors wh
- o pretend to be trans during their last week of high school\, only for one
-  of them to find it suits them just fine. Featured in 2025 Seattle Intern
- ational Film Festival.\n\nhttps://www.siff.net/cinema/in-theaters/shes-the
- -he\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260614T215000Z
-DTEND:20260615T005000Z
-DTSTAMP:20260614T215000Z
-UID:LhgBd7lDGK
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 15:05
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260626T230000Z
-DTEND:20260627T015000Z
-DTSTAMP:20260626T230000Z
-UID:g4hV3KexqQ
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260627T023000Z
-DTEND:20260627T052000Z
-DTSTAMP:20260627T023000Z
-UID:wOdmdspGlg
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister
-DTSTART:20260626T230000Z
-DTEND:20260627T010500Z
-DTSTAMP:20260626T230000Z
-UID:b3AbkU4xkv
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
- annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
-  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
- ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
- ister\n\nEstimated start: 16:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister
-DTSTART:20260627T014500Z
-DTEND:20260627T035000Z
-DTSTAMP:20260627T014500Z
-UID:TS2LtH7nK1
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
- annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
-  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
- ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
- ister\n\nEstimated start: 19:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260623T230000Z
-DTEND:20260624T015000Z
-DTSTAMP:20260623T230000Z
-UID:yydpTxLvql
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260624T023000Z
-DTEND:20260624T052000Z
-DTSTAMP:20260624T023000Z
-UID:6NQq6no7KO
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260623T231500Z
-DTEND:20260624T011500Z
-DTSTAMP:20260623T231500Z
-UID:EtwJ9pkgw2
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260624T020000Z
-DTEND:20260624T040000Z
-DTSTAMP:20260624T020000Z
-UID:UQKfSokYcE
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260623T233000Z
-DTEND:20260624T014000Z
-DTSTAMP:20260623T233000Z
-UID:O6GnGmd1kO
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260624T021500Z
-DTEND:20260624T042500Z
-DTSTAMP:20260624T021500Z
-UID:M0dlOZBRos
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260624T000000Z
-DTEND:20260624T014500Z
-DTSTAMP:20260624T000000Z
-UID:g4ATxetPy6
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 17:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260624T023000Z
-DTEND:20260624T041500Z
-DTSTAMP:20260624T023000Z
-UID:HiAXoH32dZ
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: All My Sons
-DTSTART:20260624T013000Z
-DTEND:20260624T043000Z
-DTSTAMP:20260624T013000Z
-UID:ncZ6meJc3g
-DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
- and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
- r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
- forever and their contented lives\, already shadowed by the loss of their 
- eldest boy to war\, are about to shatter. With the return of a figure from
-  the past\, long buried truths are forced to the surface and the price of 
- their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
- ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260619T230000Z
-DTEND:20260620T015000Z
-DTSTAMP:20260619T230000Z
-UID:Pwt2AkWUag
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260620T024500Z
-DTEND:20260620T053500Z
-DTSTAMP:20260620T024500Z
-UID:RSxIuLuDV1
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260619T233000Z
-DTEND:20260620T013000Z
-DTSTAMP:20260619T233000Z
-UID:AVBG5sIjEn
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260620T021500Z
-DTEND:20260620T041500Z
-DTSTAMP:20260620T021500Z
-UID:hbxUh6Hs2p
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260620T000000Z
-DTEND:20260620T021000Z
-DTSTAMP:20260620T000000Z
-UID:jkOnUwFG8F
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 17:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260620T024500Z
-DTEND:20260620T045500Z
-DTSTAMP:20260620T024500Z
-UID:28lIYDahDe
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260620T000000Z
-DTEND:20260620T020500Z
-DTSTAMP:20260620T000000Z
-UID:ssJenqx6jm
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260620T023000Z
-DTEND:20260620T043500Z
-DTSTAMP:20260620T023000Z
-UID:9CTa7QmOnk
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260620T003000Z
-DTEND:20260620T021500Z
-DTSTAMP:20260620T003000Z
-UID:Myt4TBTSJw
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 17:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260620T030000Z
-DTEND:20260620T044500Z
-DTSTAMP:20260620T030000Z
-UID:XKiSXlEqPW
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 20:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Disclosure Day
 DTSTART:20260625T230000Z
 DTEND:20260626T015000Z
@@ -1775,6 +1273,97 @@ DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
  st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
  nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260629T230000Z
+DTEND:20260630T015000Z
+DTSTAMP:20260629T230000Z
+UID:HUF4gXsa3o
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260630T023000Z
+DTEND:20260630T052000Z
+DTSTAMP:20260630T023000Z
+UID:JTP18qelkT
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260627T193000Z
+DTEND:20260627T222000Z
+DTSTAMP:20260627T193000Z
+UID:Yj5F8RQP5F
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260627T230000Z
+DTEND:20260628T015000Z
+DTSTAMP:20260627T230000Z
+UID:9SNNvggCHd
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260628T023000Z
+DTEND:20260628T052000Z
+DTSTAMP:20260628T023000Z
+UID:CqpPbboTTr
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Sister
+DTSTART:20260627T230000Z
+DTEND:20260628T010500Z
+DTSTAMP:20260627T230000Z
+UID:XvEwlhvL6j
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
+ ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
+ ister\n\nEstimated start: 16:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Sister
+DTSTART:20260628T014500Z
+DTEND:20260628T035000Z
+DTSTAMP:20260628T014500Z
+UID:9bYa7BA4Pt
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
+ ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
+ ister\n\nEstimated start: 19:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
@@ -1870,23 +1459,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day
-DTSTART:20260627T193000Z
-DTEND:20260627T222000Z
-DTSTAMP:20260627T193000Z
-UID:Yj5F8RQP5F
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 12:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260627T230000Z
-DTEND:20260628T015000Z
-DTSTAMP:20260627T230000Z
-UID:9SNNvggCHd
+DTSTART:20260626T230000Z
+DTEND:20260627T015000Z
+DTSTAMP:20260626T230000Z
+UID:g4hV3KexqQ
 DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
  one\, if someone showed you\, proved it to you\, would that frighten you? 
  This summer\, the truth belongs to eight billion people. We are coming clo
@@ -1896,42 +1472,16 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day
-DTSTART:20260628T023000Z
-DTEND:20260628T052000Z
-DTSTAMP:20260628T023000Z
-UID:CqpPbboTTr
+DTSTART:20260627T023000Z
+DTEND:20260627T052000Z
+DTSTAMP:20260627T023000Z
+UID:wOdmdspGlg
 DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
  one\, if someone showed you\, proved it to you\, would that frighten you? 
  This summer\, the truth belongs to eight billion people. We are coming clo
  se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
  ure-day\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister
-DTSTART:20260627T230000Z
-DTEND:20260628T010500Z
-DTSTAMP:20260627T230000Z
-UID:XvEwlhvL6j
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
- annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
-  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
- ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
- ister\n\nEstimated start: 16:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister
-DTSTART:20260628T014500Z
-DTEND:20260628T035000Z
-DTSTAMP:20260628T014500Z
-UID:9bYa7BA4Pt
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
- annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
-  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
- ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
- ister\n\nEstimated start: 19:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disclosure Day
@@ -1990,98 +1540,30 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nJoin SIFF for Talking Pictures\,
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260630T230000Z
-DTEND:20260701T015000Z
-DTSTAMP:20260630T230000Z
-UID:7LfRa0BVIm
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+SUMMARY:The Little Sister
+DTSTART:20260626T230000Z
+DTEND:20260627T010500Z
+DTSTAMP:20260626T230000Z
+UID:b3AbkU4xkv
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
+ ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
+ ister\n\nEstimated start: 16:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260701T023000Z
-DTEND:20260701T052000Z
-DTSTAMP:20260701T023000Z
-UID:FFn5EBZPg1
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260629T230000Z
-DTEND:20260630T015000Z
-DTSTAMP:20260629T230000Z
-UID:HUF4gXsa3o
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260630T023000Z
-DTEND:20260630T052000Z
-DTSTAMP:20260630T023000Z
-UID:JTP18qelkT
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260702T210000Z
-DTEND:20260702T224500Z
-DTSTAMP:20260702T210000Z
-UID:BtkQtalyap
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260702T233500Z
-DTEND:20260703T012000Z
-DTSTAMP:20260702T233500Z
-UID:ucGDJou7vj
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 16:50
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260703T021500Z
-DTEND:20260703T040000Z
-DTSTAMP:20260703T021500Z
-UID:sjSUgRA5tP
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+SUMMARY:The Little Sister
+DTSTART:20260627T014500Z
+DTEND:20260627T035000Z
+DTSTAMP:20260627T014500Z
+UID:TS2LtH7nK1
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
+ ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
+ ister\n\nEstimated start: 19:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
@@ -2124,6 +1606,249 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
  \n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260630T230000Z
+DTEND:20260701T015000Z
+DTSTAMP:20260630T230000Z
+UID:7LfRa0BVIm
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260701T023000Z
+DTEND:20260701T052000Z
+DTSTAMP:20260701T023000Z
+UID:FFn5EBZPg1
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260620T181500Z
+DTEND:20260620T201500Z
+DTSTAMP:20260620T181500Z
+UID:pNIB7qvUJn
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260620T210000Z
+DTEND:20260620T230000Z
+DTSTAMP:20260620T210000Z
+UID:9JIjx4qf7b
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260620T234500Z
+DTEND:20260621T014500Z
+DTSTAMP:20260620T234500Z
+UID:llo1OLTucV
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260621T023000Z
+DTEND:20260621T043000Z
+DTSTAMP:20260621T023000Z
+UID:0gKHKgNOos
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260620T183000Z
+DTEND:20260620T204000Z
+DTSTAMP:20260620T183000Z
+UID:oHFoqEQMgg
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 11:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260620T211500Z
+DTEND:20260620T232500Z
+DTSTAMP:20260620T211500Z
+UID:Of7ChRVxf2
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 14:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260621T000000Z
+DTEND:20260621T021000Z
+DTSTAMP:20260621T000000Z
+UID:2otaLdMq3d
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260621T024500Z
+DTEND:20260621T045500Z
+DTSTAMP:20260621T024500Z
+UID:glXg36xtgT
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260620T191500Z
+DTEND:20260620T220500Z
+DTSTAMP:20260620T191500Z
+UID:dllEGl2Jgt
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 12:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260620T230000Z
+DTEND:20260621T015000Z
+DTSTAMP:20260620T230000Z
+UID:0G35LmEspN
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disclosure Day
+DTSTART:20260621T024500Z
+DTEND:20260621T053500Z
+DTSTAMP:20260621T024500Z
+UID:cDcbpbBJyY
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260620T193000Z
+DTEND:20260620T211500Z
+DTSTAMP:20260620T193000Z
+UID:a8fC2d7ZcT
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260620T220000Z
+DTEND:20260620T234500Z
+DTSTAMP:20260620T220000Z
+UID:AYEbh9lsJn
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 15:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260621T003000Z
+DTEND:20260621T021500Z
+DTSTAMP:20260621T003000Z
+UID:TLkgsSvgkf
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 17:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260621T030000Z
+DTEND:20260621T044500Z
+DTSTAMP:20260621T030000Z
+UID:kiWFkaKNZ0
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 20:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everybody to Kenmure Street
+DTSTART:20260620T213000Z
+DTEND:20260620T233500Z
+DTSTAMP:20260620T213000Z
+UID:MStUG9jmlP
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
+  dawn raid triggers one of the most spontaneous and successful acts of civ
+ il resistance in recent memory. In Scotland’s most diverse neighborhood\
+ , hundreds of residents rush to the streets to stop the deportation of the
+ ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
+ ure-street\n\nEstimated start: 14:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everybody to Kenmure Street
+DTSTART:20260621T000000Z
+DTEND:20260621T020500Z
+DTSTAMP:20260621T000000Z
+UID:91oy3WpsoA
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
+  dawn raid triggers one of the most spontaneous and successful acts of civ
+ il resistance in recent memory. In Scotland’s most diverse neighborhood\
+ , hundreds of residents rush to the streets to stop the deportation of the
+ ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
+ ure-street\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everybody to Kenmure Street
+DTSTART:20260621T023000Z
+DTEND:20260621T043500Z
+DTSTAMP:20260621T023000Z
+UID:GpnOcmJxir
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
+  dawn raid triggers one of the most spontaneous and successful acts of civ
+ il resistance in recent memory. In Scotland’s most diverse neighborhood\
+ , hundreds of residents rush to the streets to stop the deportation of the
+ ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
+ ure-street\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
@@ -2179,6 +1904,48 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  en banded together to try and save the planet from the mayhem they had jus
  t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
  \n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260702T210000Z
+DTEND:20260702T224500Z
+DTSTAMP:20260702T210000Z
+UID:BtkQtalyap
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260702T233500Z
+DTEND:20260703T012000Z
+DTSTAMP:20260702T233500Z
+UID:ucGDJou7vj
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 16:50
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260703T021500Z
+DTEND:20260703T040000Z
+DTSTAMP:20260703T021500Z
+UID:sjSUgRA5tP
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2239,48 +2006,6 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260706T233000Z
-DTEND:20260707T011500Z
-DTSTAMP:20260706T233000Z
-UID:PThxa1nT2e
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260707T020000Z
-DTEND:20260707T034500Z
-DTSTAMP:20260707T020000Z
-UID:OkCvdyEIGR
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fried Green Tomatoes (1991)
-DTSTART:20260707T013000Z
-DTEND:20260707T035500Z
-DTSTAMP:20260707T013000Z
-UID:B1RIeZowj3
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nSIFF Movie Club Towanda! Amidst 
- her own personality crisis\, a southern housewife meets an outgoing old wo
- man who tells her the story of Idgie Threadgoode and Ruth Jamison\, two yo
- ung women who experienced hardships and love in 1920s Whistle Stop\, Alaba
- ma.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/fried-gree
- n-tomatoes\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
 DTSTART:20260705T194500Z
 DTEND:20260705T213000Z
 DTSTAMP:20260705T194500Z
@@ -2323,10 +2048,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260707T233000Z
-DTEND:20260708T011500Z
-DTSTAMP:20260707T233000Z
-UID:HnccS1kqBQ
+DTSTART:20260706T233000Z
+DTEND:20260707T011500Z
+DTSTAMP:20260706T233000Z
+UID:PThxa1nT2e
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  lous and totally true story of how the Minions conquered Hollywood\, becam
  e movie stars\, lost everything\, unleashed monsters onto the world and th
@@ -2337,10 +2062,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260708T020000Z
-DTEND:20260708T034500Z
-DTSTAMP:20260708T020000Z
-UID:Ktavcda6i6
+DTSTART:20260707T020000Z
+DTEND:20260707T034500Z
+DTSTAMP:20260707T020000Z
+UID:OkCvdyEIGR
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  lous and totally true story of how the Minions conquered Hollywood\, becam
  e movie stars\, lost everything\, unleashed monsters onto the world and th
@@ -2348,6 +2073,20 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
  \n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fried Green Tomatoes (1991)
+DTSTART:20260707T013000Z
+DTEND:20260707T035500Z
+DTSTAMP:20260707T013000Z
+UID:B1RIeZowj3
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nSIFF Movie Club Towanda! Amidst 
+ her own personality crisis\, a southern housewife meets an outgoing old wo
+ man who tells her the story of Idgie Threadgoode and Ruth Jamison\, two yo
+ ung women who experienced hardships and love in 1920s Whistle Stop\, Alaba
+ ma.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/fried-gree
+ n-tomatoes\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
@@ -2379,10 +2118,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260709T233000Z
-DTEND:20260710T011500Z
-DTSTAMP:20260709T233000Z
-UID:PsYCcAs5gv
+DTSTART:20260707T233000Z
+DTEND:20260708T011500Z
+DTSTAMP:20260707T233000Z
+UID:HnccS1kqBQ
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  lous and totally true story of how the Minions conquered Hollywood\, becam
  e movie stars\, lost everything\, unleashed monsters onto the world and th
@@ -2393,10 +2132,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260710T020000Z
-DTEND:20260710T034500Z
-DTSTAMP:20260710T020000Z
-UID:WdHhmywmt2
+DTSTART:20260708T020000Z
+DTEND:20260708T034500Z
+DTSTAMP:20260708T020000Z
+UID:Ktavcda6i6
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  lous and totally true story of how the Minions conquered Hollywood\, becam
  e movie stars\, lost everything\, unleashed monsters onto the world and th
@@ -2404,145 +2143,6 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
  \n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260710T023000Z
-DTEND:20260710T043500Z
-DTSTAMP:20260710T023000Z
-UID:dB9O9Iofhs
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260710T210000Z
-DTEND:20260710T224500Z
-DTSTAMP:20260710T210000Z
-UID:FwXafCaE2s
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260710T233000Z
-DTEND:20260711T011500Z
-DTSTAMP:20260710T233000Z
-UID:UP5TZG1D80
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260711T020000Z
-DTEND:20260711T034500Z
-DTSTAMP:20260711T020000Z
-UID:iJ78cjo9SQ
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260710T230000Z
-DTEND:20260711T010500Z
-DTSTAMP:20260710T230000Z
-UID:VF3xhp3uQO
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260711T020000Z
-DTEND:20260711T040500Z
-DTSTAMP:20260711T020000Z
-UID:OsNZFDgn33
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260710T232000Z
-DTEND:20260711T012500Z
-DTSTAMP:20260710T232000Z
-UID:9ZsFuJkTNv
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
- et/festival/maddies-secret\n\nEstimated start: 16:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260711T023000Z
-DTEND:20260711T043500Z
-DTSTAMP:20260711T023000Z
-UID:dcBSpx5K2x
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
- et/festival/maddies-secret\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-DTSTART:20260710T233000Z
-DTEND:20260711T012000Z
-DTSTAMP:20260710T233000Z
-UID:4ys3yOerhq
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
-  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
- ueer and out\, but intensely private. Her poems inspire liberals and conse
- rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
- ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
- nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
- , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
- r-saved-by-the-beauty-of-the-world\n\nEstimated start: 16:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-DTSTART:20260711T020000Z
-DTEND:20260711T035000Z
-DTSTAMP:20260711T020000Z
-UID:xHqxRsR5Wc
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
-  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
- ueer and out\, but intensely private. Her poems inspire liberals and conse
- rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
- ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
- nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
- , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
- r-saved-by-the-beauty-of-the-world\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
@@ -2737,103 +2337,11 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260716T230000Z
-DTEND:20260717T010500Z
-DTSTAMP:20260716T230000Z
-UID:cdniqWds8d
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260717T020000Z
-DTEND:20260717T040500Z
-DTSTAMP:20260717T020000Z
-UID:Zn09iaZdGo
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260716T234500Z
-DTEND:20260717T015000Z
-DTSTAMP:20260716T234500Z
-UID:0s0A2G5s5T
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
- et/festival/maddies-secret\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260717T023000Z
-DTEND:20260717T043500Z
-DTSTAMP:20260717T023000Z
-UID:VHMdkKQZf6
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
- et/festival/maddies-secret\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260717T020000Z
-DTEND:20260717T051000Z
-DTSTAMP:20260717T020000Z
-UID:85CJP06mEV
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260714T230000Z
-DTEND:20260715T010500Z
-DTSTAMP:20260714T230000Z
-UID:w9JHXhfVdN
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260715T020000Z
-DTEND:20260715T040500Z
-DTSTAMP:20260715T020000Z
-UID:odjTC3Wnhs
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260714T233000Z
-DTEND:20260715T011500Z
-DTSTAMP:20260714T233000Z
-UID:NaK8WcBs0J
+DTSTART:20260709T233000Z
+DTEND:20260710T011500Z
+DTSTAMP:20260709T233000Z
+UID:PsYCcAs5gv
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  lous and totally true story of how the Minions conquered Hollywood\, becam
  e movie stars\, lost everything\, unleashed monsters onto the world and th
@@ -2844,10 +2352,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260715T020000Z
-DTEND:20260715T034500Z
-DTSTAMP:20260715T020000Z
-UID:frQ7GM2MQc
+DTSTART:20260710T020000Z
+DTEND:20260710T034500Z
+DTSTAMP:20260710T020000Z
+UID:WdHhmywmt2
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  lous and totally true story of how the Minions conquered Hollywood\, becam
  e movie stars\, lost everything\, unleashed monsters onto the world and th
@@ -2857,30 +2365,143 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260714T234500Z
-DTEND:20260715T015000Z
-DTSTAMP:20260714T234500Z
-UID:hv0ADHaR3r
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
- et/festival/maddies-secret\n\nEstimated start: 17:00
+SUMMARY:The Invite
+DTSTART:20260710T023000Z
+DTEND:20260710T043500Z
+DTSTAMP:20260710T023000Z
+UID:dB9O9Iofhs
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260710T210000Z
+DTEND:20260710T224500Z
+DTSTAMP:20260710T210000Z
+UID:FwXafCaE2s
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260710T233000Z
+DTEND:20260711T011500Z
+DTSTAMP:20260710T233000Z
+UID:UP5TZG1D80
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260711T020000Z
+DTEND:20260711T034500Z
+DTSTAMP:20260711T020000Z
+UID:iJ78cjo9SQ
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260710T230000Z
+DTEND:20260711T010500Z
+DTSTAMP:20260710T230000Z
+UID:VF3xhp3uQO
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260711T020000Z
+DTEND:20260711T040500Z
+DTSTAMP:20260711T020000Z
+UID:OsNZFDgn33
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260715T023000Z
-DTEND:20260715T043500Z
-DTSTAMP:20260715T023000Z
-UID:dxIG94OJlN
+DTSTART:20260710T232000Z
+DTEND:20260711T012500Z
+DTSTAMP:20260710T232000Z
+UID:9ZsFuJkTNv
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 16:35
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260711T023000Z
+DTEND:20260711T043500Z
+DTSTAMP:20260711T023000Z
+UID:dcBSpx5K2x
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
  ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
  et/festival/maddies-secret\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Oliver: Saved by the Beauty of the World
+DTSTART:20260710T233000Z
+DTEND:20260711T012000Z
+DTSTAMP:20260710T233000Z
+UID:4ys3yOerhq
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
+  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
+ ueer and out\, but intensely private. Her poems inspire liberals and conse
+ rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
+ ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
+ nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
+ , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
+ r-saved-by-the-beauty-of-the-world\n\nEstimated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Oliver: Saved by the Beauty of the World
+DTSTART:20260711T020000Z
+DTEND:20260711T035000Z
+DTSTAMP:20260711T020000Z
+UID:xHqxRsR5Wc
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
+  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
+ ueer and out\, but intensely private. Her poems inspire liberals and conse
+ rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
+ ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
+ nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
+ , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
+ r-saved-by-the-beauty-of-the-world\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
@@ -2977,10 +2598,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
-DTSTART:20260715T230000Z
-DTEND:20260716T010500Z
-DTSTAMP:20260715T230000Z
-UID:SqwkD1XcGO
+DTSTART:20260716T230000Z
+DTEND:20260717T010500Z
+DTSTAMP:20260716T230000Z
+UID:cdniqWds8d
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
@@ -2990,10 +2611,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
-DTSTART:20260716T020000Z
-DTEND:20260716T040500Z
-DTSTAMP:20260716T020000Z
-UID:Xnyx4ckuDq
+DTSTART:20260717T020000Z
+DTEND:20260717T040500Z
+DTSTAMP:20260717T020000Z
+UID:Zn09iaZdGo
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
@@ -3002,39 +2623,11 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260715T233000Z
-DTEND:20260716T011500Z
-DTSTAMP:20260715T233000Z
-UID:WamkNL9bIy
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260716T020000Z
-DTEND:20260716T034500Z
-DTSTAMP:20260716T020000Z
-UID:cWLrkXTY4P
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260715T234500Z
-DTEND:20260716T015000Z
-DTSTAMP:20260715T234500Z
-UID:7ABSKQTuIj
+DTSTART:20260716T234500Z
+DTEND:20260717T015000Z
+DTSTAMP:20260716T234500Z
+UID:0s0A2G5s5T
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
@@ -3044,10 +2637,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260716T023000Z
-DTEND:20260716T043500Z
-DTSTAMP:20260716T023000Z
-UID:tGREQEJrFZ
+DTSTART:20260717T023000Z
+DTEND:20260717T043500Z
+DTSTAMP:20260717T023000Z
+UID:VHMdkKQZf6
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
@@ -3056,30 +2649,18 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer's Camera
-DTSTART:20260716T003000Z
-DTEND:20260716T021000Z
-DTSTAMP:20260716T003000Z
-UID:IPSfP3t4LS
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nThe Popcorn ListSummer captures h
- er first crush through her late father’s camera—only to uncover photog
- raphs that reveal his hidden past\, sending Summer on a journey that trans
- forms her understanding of love and family.\n\nhttps://www.siff.net/progra
- ms-and-events/the-popcorn-list/summers-camera\n\nEstimated start: 17:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trash Baby
-DTSTART:20260716T023000Z
-DTEND:20260716T042500Z
-DTSTAMP:20260716T023000Z
-UID:y2KejjvfeA
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Popcorn ListTrash Baby is a c
- oming-of-age drama that follows 12-year-old Stevie as she navigates growin
- g up\, getting out\, and the art of finding beauty in the ugliest of place
- s.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-list/trash-baby
- \n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
+SUMMARY:The Odyssey
+DTSTART:20260717T020000Z
+DTEND:20260717T051000Z
+DTSTAMP:20260717T020000Z
+UID:85CJP06mEV
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Raiders of the Lost Ark (1981)
@@ -3319,6 +2900,220 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260714T230000Z
+DTEND:20260715T010500Z
+DTSTAMP:20260714T230000Z
+UID:w9JHXhfVdN
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260715T020000Z
+DTEND:20260715T040500Z
+DTSTAMP:20260715T020000Z
+UID:odjTC3Wnhs
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260714T233000Z
+DTEND:20260715T011500Z
+DTSTAMP:20260714T233000Z
+UID:NaK8WcBs0J
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260715T020000Z
+DTEND:20260715T034500Z
+DTSTAMP:20260715T020000Z
+UID:frQ7GM2MQc
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260714T234500Z
+DTEND:20260715T015000Z
+DTSTAMP:20260714T234500Z
+UID:hv0ADHaR3r
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260715T023000Z
+DTEND:20260715T043500Z
+DTSTAMP:20260715T023000Z
+UID:dxIG94OJlN
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260715T230000Z
+DTEND:20260716T010500Z
+DTSTAMP:20260715T230000Z
+UID:SqwkD1XcGO
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260716T020000Z
+DTEND:20260716T040500Z
+DTSTAMP:20260716T020000Z
+UID:Xnyx4ckuDq
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260715T233000Z
+DTEND:20260716T011500Z
+DTSTAMP:20260715T233000Z
+UID:WamkNL9bIy
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260716T020000Z
+DTEND:20260716T034500Z
+DTSTAMP:20260716T020000Z
+UID:cWLrkXTY4P
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260715T234500Z
+DTEND:20260716T015000Z
+DTSTAMP:20260715T234500Z
+UID:7ABSKQTuIj
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260716T023000Z
+DTEND:20260716T043500Z
+DTSTAMP:20260716T023000Z
+UID:tGREQEJrFZ
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer's Camera
+DTSTART:20260716T003000Z
+DTEND:20260716T021000Z
+DTSTAMP:20260716T003000Z
+UID:IPSfP3t4LS
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nThe Popcorn ListSummer captures h
+ er first crush through her late father’s camera—only to uncover photog
+ raphs that reveal his hidden past\, sending Summer on a journey that trans
+ forms her understanding of love and family.\n\nhttps://www.siff.net/progra
+ ms-and-events/the-popcorn-list/summers-camera\n\nEstimated start: 17:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trash Baby
+DTSTART:20260716T023000Z
+DTEND:20260716T042500Z
+DTSTAMP:20260716T023000Z
+UID:y2KejjvfeA
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Popcorn ListTrash Baby is a c
+ oming-of-age drama that follows 12-year-old Stevie as she navigates growin
+ g up\, getting out\, and the art of finding beauty in the ugliest of place
+ s.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-list/trash-baby
+ \n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260719T210000Z
+DTEND:20260720T001000Z
+DTSTAMP:20260719T210000Z
+UID:Y1Mr4I0vBU
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260720T010000Z
+DTEND:20260720T041000Z
+DTSTAMP:20260720T010000Z
+UID:DJkm7h3aHj
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Odyssey
 DTSTART:20260718T190000Z
 DTEND:20260718T221000Z
@@ -3358,34 +3153,6 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
  ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
  uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
  ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 20:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260719T210000Z
-DTEND:20260720T001000Z
-DTSTAMP:20260719T210000Z
-UID:Y1Mr4I0vBU
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260720T010000Z
-DTEND:20260720T041000Z
-DTSTAMP:20260720T010000Z
-UID:DJkm7h3aHj
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -3474,10 +3241,108 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
+DTSTART:20260725T190000Z
+DTEND:20260725T221000Z
+DTSTAMP:20260725T190000Z
+UID:7WblAhjopA
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 12:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260725T230000Z
+DTEND:20260726T021000Z
+DTSTAMP:20260725T230000Z
+UID:Q5u4Didmwk
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260726T030000Z
+DTEND:20260726T061000Z
+DTSTAMP:20260726T030000Z
+UID:pZCQSfnp9T
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 20:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
 DTSTART:20260724T020000Z
 DTEND:20260724T051000Z
 DTSTAMP:20260724T020000Z
 UID:ThRh0svgN6
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260727T223000Z
+DTEND:20260728T014000Z
+DTSTAMP:20260727T223000Z
+UID:mPnufMC2U5
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260728T023000Z
+DTEND:20260728T054000Z
+DTSTAMP:20260728T023000Z
+UID:QTqCclSsUM
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260724T220000Z
+DTEND:20260725T011000Z
+DTSTAMP:20260724T220000Z
+UID:paP8RmfY8M
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260725T020000Z
+DTEND:20260725T051000Z
+DTSTAMP:20260725T020000Z
+UID:afvlrvr4cX
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
@@ -3512,34 +3377,6 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
  ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
  uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
  ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260727T223000Z
-DTEND:20260728T014000Z
-DTSTAMP:20260727T223000Z
-UID:mPnufMC2U5
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260728T023000Z
-DTEND:20260728T054000Z
-DTSTAMP:20260728T023000Z
-UID:QTqCclSsUM
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -3600,102 +3437,6 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260730T223000Z
-DTEND:20260731T014000Z
-DTSTAMP:20260730T223000Z
-UID:Um6Sl1gftC
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260731T023000Z
-DTEND:20260731T054000Z
-DTSTAMP:20260731T023000Z
-UID:LYr46hhtcl
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Upon a Time in a Cinema
-DTSTART:20260730T230000Z
-DTEND:20260731T011000Z
-DTSTAMP:20260730T230000Z
-UID:8tBwyrIEXN
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nBurst pipes\, rats and financial
-  pressure torment a Limerick theatre owner in 1984 in David Gleeson's hear
- twarming love letter to cinemas.\n\nhttps://www.siff.net/cinema/in-theater
- s/once-upon-a-time-in-a-cinema\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sorry to Bother You (2018)
-DTSTART:20260731T020000Z
-DTEND:20260731T041000Z
-DTSTAMP:20260731T020000Z
-UID:Q331Q5w5Kq
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nLakeith Stanfield\, Tessa Thomps
- on\, and Steven Yuen star in the exhilarating directorial debut of musicia
- n Boots Riley\, a biting and bonkers satire that follows a black telemarke
- ter who discovers an unknown skill which gives him magical selling powers 
- that shoot him up the corporate ladder.\n\nhttps://www.siff.net/cinema/in-
- theaters/sorry-to-bother-you\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260725T190000Z
-DTEND:20260725T221000Z
-DTSTAMP:20260725T190000Z
-UID:7WblAhjopA
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260725T230000Z
-DTEND:20260726T021000Z
-DTSTAMP:20260725T230000Z
-UID:Q5u4Didmwk
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260726T030000Z
-DTEND:20260726T061000Z
-DTSTAMP:20260726T030000Z
-UID:pZCQSfnp9T
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 20:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
 DTSTART:20260801T190000Z
 DTEND:20260801T221000Z
 DTSTAMP:20260801T190000Z
@@ -3752,24 +3493,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260724T220000Z
-DTEND:20260725T011000Z
-DTSTAMP:20260724T220000Z
-UID:paP8RmfY8M
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260725T020000Z
-DTEND:20260725T051000Z
-DTSTAMP:20260725T020000Z
-UID:afvlrvr4cX
+DTSTART:20260801T020000Z
+DTEND:20260801T051000Z
+DTSTAMP:20260801T020000Z
+UID:VTcvth5MkG
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
@@ -3777,6 +3504,100 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
  uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
  ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260730T223000Z
+DTEND:20260731T014000Z
+DTSTAMP:20260730T223000Z
+UID:Um6Sl1gftC
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260731T023000Z
+DTEND:20260731T054000Z
+DTSTAMP:20260731T023000Z
+UID:LYr46hhtcl
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Upon a Time in a Cinema
+DTSTART:20260730T230000Z
+DTEND:20260731T011000Z
+DTSTAMP:20260730T230000Z
+UID:8tBwyrIEXN
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nBurst pipes\, rats and financial
+  pressure torment a Limerick theatre owner in 1984 in David Gleeson's hear
+ twarming love letter to cinemas.\n\nhttps://www.siff.net/cinema/in-theater
+ s/once-upon-a-time-in-a-cinema\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorry to Bother You (2018)
+DTSTART:20260731T020000Z
+DTEND:20260731T041000Z
+DTSTAMP:20260731T020000Z
+UID:Q331Q5w5Kq
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nLakeith Stanfield\, Tessa Thomps
+ on\, and Steven Yuen star in the exhilarating directorial debut of musicia
+ n Boots Riley\, a biting and bonkers satire that follows a black telemarke
+ ter who discovers an unknown skill which gives him magical selling powers 
+ that shoot him up the corporate ladder.\n\nhttps://www.siff.net/cinema/in-
+ theaters/sorry-to-bother-you\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260802T210000Z
+DTEND:20260803T001000Z
+DTSTAMP:20260802T210000Z
+UID:a3KWxMs1Kq
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260803T010000Z
+DTEND:20260803T041000Z
+DTSTAMP:20260803T010000Z
+UID:Ilvel2phOE
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Car Wash (1976)
+DTSTART:20260802T230000Z
+DTEND:20260803T005500Z
+DTSTAMP:20260802T230000Z
+UID:3Bk4ht5sqS
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nAt Sully Boyar's car wash\, every
+ body is cleaning up and getting down in this classic comedy with a killer 
+ soundtrack. 50th anniversary screening.\n\nhttps://www.siff.net/cinema/in-
+ theaters/car-wash\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
@@ -3836,20 +3657,6 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260801T020000Z
-DTEND:20260801T051000Z
-DTSTAMP:20260801T020000Z
-UID:VTcvth5MkG
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
 DTSTART:20260805T223000Z
 DTEND:20260806T014000Z
 DTSTAMP:20260805T223000Z
@@ -3877,43 +3684,27 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260802T210000Z
-DTEND:20260803T001000Z
-DTSTAMP:20260802T210000Z
-UID:a3KWxMs1Kq
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+SUMMARY:CatVideoFest 2026
+DTSTART:20260808T200000Z
+DTEND:20260808T214500Z
+DTSTAMP:20260808T200000Z
+UID:xidrhTpoad
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
+  is back with screenings in theaters across the USA and around the world.\
+ n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
+ art: 13:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260803T010000Z
-DTEND:20260803T041000Z
-DTSTAMP:20260803T010000Z
-UID:Ilvel2phOE
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Car Wash (1976)
-DTSTART:20260802T230000Z
-DTEND:20260803T005500Z
-DTSTAMP:20260802T230000Z
-UID:3Bk4ht5sqS
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nAt Sully Boyar's car wash\, every
- body is cleaning up and getting down in this classic comedy with a killer 
- soundtrack. 50th anniversary screening.\n\nhttps://www.siff.net/cinema/in-
- theaters/car-wash\n\nEstimated start: 16:15
+SUMMARY:CatVideoFest 2026
+DTSTART:20260808T020000Z
+DTEND:20260808T034500Z
+DTSTAMP:20260808T020000Z
+UID:JnEA4Ljvu2
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
+  is back with screenings in theaters across the USA and around the world.\
+ n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
+ art: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -3946,34 +3737,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2026
-DTSTART:20260808T020000Z
-DTEND:20260808T034500Z
-DTSTAMP:20260808T020000Z
-UID:JnEA4Ljvu2
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
-  is back with screenings in theaters across the USA and around the world.\
- n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
- art: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2026
 DTSTART:20260809T200000Z
 DTEND:20260809T214500Z
 DTSTAMP:20260809T200000Z
 UID:fbbGneZCm1
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
-  is back with screenings in theaters across the USA and around the world.\
- n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
- art: 13:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2026
-DTSTART:20260808T200000Z
-DTEND:20260808T214500Z
-DTSTAMP:20260808T200000Z
-UID:xidrhTpoad
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
   is back with screenings in theaters across the USA and around the world.\
  n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
@@ -3992,45 +3759,6 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nCommunity ScreeningsA peculiar pl
   on a wild and hilariously horrifying journey of love\, success\, and mora
  l dilemmas.\n\nhttps://www.siff.net/programs-and-events/community-screenin
  gs/little-shop-of-horrors\n\nEstimated start: 11:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260825T013000Z
-DTEND:20260825T044500Z
-DTSTAMP:20260825T013000Z
-UID:ZHDUm2mEvV
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Astronaut (35mm) (2001)
-DTSTART:20260822T010000Z
-DTEND:20260822T025000Z
-DTSTAMP:20260822T010000Z
-UID:o9nyTSdErB
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
- ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
-  through a rustic and remote solar system\, unaware that his old friend Pr
- ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
- ters/american-astronaut\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Astronaut (35mm) (2001)
-DTSTART:20260822T033000Z
-DTEND:20260822T052000Z
-DTSTAMP:20260822T033000Z
-UID:PXybDQcj35
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
- ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
-  through a rustic and remote solar system\, unaware that his old friend Pr
- ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
- ters/american-astronaut\n\nEstimated start: 20:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -4082,11 +3810,37 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Jacknjellify LLC &
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:American Astronaut (35mm) (2001)
+DTSTART:20260822T010000Z
+DTEND:20260822T025000Z
+DTSTAMP:20260822T010000Z
+UID:o9nyTSdErB
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
+ ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
+  through a rustic and remote solar system\, unaware that his old friend Pr
+ ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/american-astronaut\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Astronaut (35mm) (2001)
+DTSTART:20260822T033000Z
+DTEND:20260822T052000Z
+DTSTAMP:20260822T033000Z
+UID:PXybDQcj35
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
+ ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
+  through a rustic and remote solar system\, unaware that his old friend Pr
+ ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/american-astronaut\n\nEstimated start: 20:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260826T013000Z
-DTEND:20260826T044500Z
-DTSTAMP:20260826T013000Z
-UID:gytRmk1kdR
+DTSTART:20260825T013000Z
+DTEND:20260825T044500Z
+DTSTAMP:20260825T013000Z
+UID:ZHDUm2mEvV
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
  oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
  ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
@@ -4153,6 +3907,19 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
  ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
  nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
  sons-dangereuses\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260826T013000Z
+DTEND:20260826T044500Z
+DTSTAMP:20260826T013000Z
+UID:gytRmk1kdR
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
