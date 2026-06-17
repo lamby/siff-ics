@@ -3,65 +3,27 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260616T152101Z
+LAST-MODIFIED:20260617T134641Z
 BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260618T223000Z
-DTEND:20260619T013000Z
-DTSTAMP:20260618T223000Z
-UID:hT7xkXX06g
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 15:45
+SUMMARY:I Love Boosters
+DTSTART:20260622T231500Z
+DTEND:20260623T011500Z
+DTSTAMP:20260622T231500Z
+UID:rptLq4BcC9
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260619T020000Z
-DTEND:20260619T040000Z
-DTSTAMP:20260619T020000Z
-UID:lAcNvWt5WN
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260616T223000Z
-DTEND:20260617T013000Z
-DTSTAMP:20260616T223000Z
-UID:BymcLIP8Lw
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 15:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260617T020000Z
-DTEND:20260617T040000Z
-DTSTAMP:20260617T020000Z
-UID:aSRdqo3inq
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 19:15
+SUMMARY:I Love Boosters
+DTSTART:20260623T020000Z
+DTEND:20260623T040000Z
+DTSTAMP:20260623T020000Z
+UID:udWpmF8c6O
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -88,190 +50,6 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
-DTSTART:20260622T231500Z
-DTEND:20260623T011500Z
-DTSTAMP:20260622T231500Z
-UID:rptLq4BcC9
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260623T020000Z
-DTEND:20260623T040000Z
-DTSTAMP:20260623T020000Z
-UID:udWpmF8c6O
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260620T181500Z
-DTEND:20260620T201500Z
-DTSTAMP:20260620T181500Z
-UID:pNIB7qvUJn
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260620T210000Z
-DTEND:20260620T230000Z
-DTSTAMP:20260620T210000Z
-UID:9JIjx4qf7b
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260620T234500Z
-DTEND:20260621T014500Z
-DTSTAMP:20260620T234500Z
-UID:llo1OLTucV
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260621T023000Z
-DTEND:20260621T043000Z
-DTSTAMP:20260621T023000Z
-UID:0gKHKgNOos
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260623T231500Z
-DTEND:20260624T011500Z
-DTSTAMP:20260623T231500Z
-UID:EtwJ9pkgw2
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260624T020000Z
-DTEND:20260624T040000Z
-DTSTAMP:20260624T020000Z
-UID:UQKfSokYcE
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260624T231500Z
-DTEND:20260625T011500Z
-DTSTAMP:20260624T231500Z
-UID:CHhalQc7fV
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260625T020000Z
-DTEND:20260625T040000Z
-DTSTAMP:20260625T020000Z
-UID:7rLPJRJTBg
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water
-DTSTART:20260617T230000Z
-DTEND:20260618T010000Z
-DTSTAMP:20260617T230000Z
-UID:F5G8SePngH
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
- ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
- Andri Snær Magnason turns his archives into a time capsule to hold what i
- s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
- f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amores Perros (2000)
-DTSTART:20260618T014500Z
-DTEND:20260618T044500Z
-DTSTAMP:20260618T014500Z
-UID:9vgSfcce26
-DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
- Three lives collide.  A teenager risks it all to run away with his brothe
- r’s wife. A model loses everything after moving in with her lover. A hom
- eless man unearths the ghosts of his past. As their stories unfold\, human
-  chaos\, cruelty\, and tenderness come to light – revealing they are mor
- e connected than they seem. After 25 years\, Alejandro González Iñárrit
- u’s legendary debut returns to the big screen in a stunning 4K restorati
- on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
- start: 19:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260621T181500Z
-DTEND:20260621T201500Z
-DTSTAMP:20260621T181500Z
-UID:o3sMV1Hjaw
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260621T210000Z
-DTEND:20260621T230000Z
-DTSTAMP:20260621T210000Z
-UID:UbWMt2wy2e
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260621T234500Z
-DTEND:20260622T014500Z
-DTSTAMP:20260621T234500Z
-UID:XNs0Xcq3NV
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260622T023000Z
-DTEND:20260622T043000Z
-DTSTAMP:20260622T023000Z
-UID:drN1bGa5Ug
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
 DTSTART:20260625T231500Z
 DTEND:20260626T011500Z
 DTSTAMP:20260625T231500Z
@@ -290,32 +68,6 @@ UID:j9Q6Z2norg
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
  \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260713T234500Z
-DTEND:20260714T015000Z
-DTSTAMP:20260713T234500Z
-UID:Nv3BGU8OqQ
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
- et/festival/maddies-secret\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260714T023000Z
-DTEND:20260714T043500Z
-DTSTAMP:20260714T023000Z
-UID:mtUMQnKkxd
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
- et/festival/maddies-secret\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -449,6 +201,184 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Amores Perros (2000)
+DTSTART:20260618T223000Z
+DTEND:20260619T013000Z
+DTSTAMP:20260618T223000Z
+UID:hT7xkXX06g
+DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
+ Three lives collide.  A teenager risks it all to run away with his brothe
+ r’s wife. A model loses everything after moving in with her lover. A hom
+ eless man unearths the ghosts of his past. As their stories unfold\, human
+  chaos\, cruelty\, and tenderness come to light – revealing they are mor
+ e connected than they seem. After 25 years\, Alejandro González Iñárrit
+ u’s legendary debut returns to the big screen in a stunning 4K restorati
+ on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
+ start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time and Water
+DTSTART:20260619T020000Z
+DTEND:20260619T040000Z
+DTSTAMP:20260619T020000Z
+UID:lAcNvWt5WN
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
+ ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
+ Andri Snær Magnason turns his archives into a time capsule to hold what i
+ s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260624T231500Z
+DTEND:20260625T011500Z
+DTSTAMP:20260624T231500Z
+UID:CHhalQc7fV
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260625T020000Z
+DTEND:20260625T040000Z
+DTSTAMP:20260625T020000Z
+UID:7rLPJRJTBg
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260620T181500Z
+DTEND:20260620T201500Z
+DTSTAMP:20260620T181500Z
+UID:pNIB7qvUJn
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260620T210000Z
+DTEND:20260620T230000Z
+DTSTAMP:20260620T210000Z
+UID:9JIjx4qf7b
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260620T234500Z
+DTEND:20260621T014500Z
+DTSTAMP:20260620T234500Z
+UID:llo1OLTucV
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260621T023000Z
+DTEND:20260621T043000Z
+DTSTAMP:20260621T023000Z
+UID:0gKHKgNOos
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260713T234500Z
+DTEND:20260714T015000Z
+DTSTAMP:20260713T234500Z
+UID:Nv3BGU8OqQ
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260714T023000Z
+DTEND:20260714T043500Z
+DTSTAMP:20260714T023000Z
+UID:mtUMQnKkxd
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260714T234500Z
+DTEND:20260715T015000Z
+DTSTAMP:20260714T234500Z
+UID:hv0ADHaR3r
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260715T023000Z
+DTEND:20260715T043500Z
+DTSTAMP:20260715T023000Z
+UID:dxIG94OJlN
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
+ et/festival/maddies-secret\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time and Water
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+DTSTAMP:20260617T230000Z
+UID:F5G8SePngH
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nFacing the death of his country
+ ’s glaciers and the loss of his beloved grandparents\, Icelandic writer 
+ Andri Snær Magnason turns his archives into a time capsule to hold what i
+ s slipping away — family\, memory\, time\, and water.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/time-and-water\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amores Perros (2000)
+DTSTART:20260618T014500Z
+DTEND:20260618T044500Z
+DTSTAMP:20260618T014500Z
+UID:9vgSfcce26
+DESCRIPTION:Duration: 164 mins (2h44m)\n\nMexico City. A fatal car crash. 
+ Three lives collide.  A teenager risks it all to run away with his brothe
+ r’s wife. A model loses everything after moving in with her lover. A hom
+ eless man unearths the ghosts of his past. As their stories unfold\, human
+  chaos\, cruelty\, and tenderness come to light – revealing they are mor
+ e connected than they seem. After 25 years\, Alejandro González Iñárrit
+ u’s legendary debut returns to the big screen in a stunning 4K restorati
+ on.\n\nhttps://www.siff.net/cinema/in-theaters/amores-perros\n\nEstimated 
+ start: 19:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Maddie's Secret
 DTSTART:20260716T234500Z
 DTEND:20260717T015000Z
@@ -501,29 +431,69 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260714T234500Z
-DTEND:20260715T015000Z
-DTSTAMP:20260714T234500Z
-UID:hv0ADHaR3r
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
- et/festival/maddies-secret\n\nEstimated start: 17:00
+SUMMARY:I Love Boosters
+DTSTART:20260623T231500Z
+DTEND:20260624T011500Z
+DTSTAMP:20260623T231500Z
+UID:EtwJ9pkgw2
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260715T023000Z
-DTEND:20260715T043500Z
-DTSTAMP:20260715T023000Z
-UID:dxIG94OJlN
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.\n\nhttps://www.siff.n
- et/festival/maddies-secret\n\nEstimated start: 19:45
+SUMMARY:I Love Boosters
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+DTSTAMP:20260624T020000Z
+UID:UQKfSokYcE
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260621T181500Z
+DTEND:20260621T201500Z
+DTSTAMP:20260621T181500Z
+UID:o3sMV1Hjaw
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 11:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260621T210000Z
+DTEND:20260621T230000Z
+DTSTAMP:20260621T210000Z
+UID:UbWMt2wy2e
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260621T234500Z
+DTEND:20260622T014500Z
+DTSTAMP:20260621T234500Z
+UID:XNs0Xcq3NV
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260622T023000Z
+DTEND:20260622T043000Z
+DTSTAMP:20260622T023000Z
+UID:drN1bGa5Ug
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
