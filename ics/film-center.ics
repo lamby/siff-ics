@@ -3,7 +3,59 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260618T144438Z
+LAST-MODIFIED:20260619T150948Z
+BEGIN:VEVENT
+SUMMARY:The Little Sister
+DTSTART:20260626T230000Z
+DTEND:20260627T010500Z
+DTSTAMP:20260626T230000Z
+UID:b3AbkU4xkv
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
+ ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
+ ister\n\nEstimated start: 16:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Sister
+DTSTART:20260627T014500Z
+DTEND:20260627T035000Z
+DTSTAMP:20260627T014500Z
+UID:TS2LtH7nK1
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
+ ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
+ ister\n\nEstimated start: 19:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Sister
+DTSTART:20260627T230000Z
+DTEND:20260628T010500Z
+DTSTAMP:20260627T230000Z
+UID:XvEwlhvL6j
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
+ ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
+ ister\n\nEstimated start: 16:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Sister
+DTSTART:20260628T014500Z
+DTEND:20260628T035000Z
+DTSTAMP:20260628T014500Z
+UID:9bYa7BA4Pt
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
+ ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
+ ister\n\nEstimated start: 19:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everybody to Kenmure Street
 DTSTART:20260620T213000Z
@@ -47,6 +99,19 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Little Sister
+DTSTART:20260628T210000Z
+DTEND:20260628T230500Z
+DTSTAMP:20260628T210000Z
+UID:wN2jwLVnst
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
+ ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
+ ister\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: All My Sons
 DTSTART:20260623T013000Z
 DTEND:20260623T043000Z
@@ -60,19 +125,6 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston
   the past\, long buried truths are forced to the surface and the price of 
  their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
  ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister
-DTSTART:20260628T210000Z
-DTEND:20260628T230500Z
-DTSTAMP:20260628T210000Z
-UID:wN2jwLVnst
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
- annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
-  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
- ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
- ister\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -101,34 +153,6 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
  that begin influencing the project. From the visual artists behind the 202
  0 web series 2 Lizards.\n\nhttps://www.siff.net/cinema/in-theaters/bouchra
  \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bouchra
-DTSTART:20260704T210000Z
-DTEND:20260704T224000Z
-DTSTAMP:20260704T210000Z
-UID:5GuWKY6BB2
-DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
- or her first film\, Bouchra\, a queer Moroccan jackal living in NYC\, star
- ts having difficult yet overdue phone calls with her mother in Casablanca 
- that begin influencing the project. From the visual artists behind the 202
- 0 web series 2 Lizards.\n\nhttps://www.siff.net/cinema/in-theaters/bouchra
- \n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bouchra
-DTSTART:20260704T233000Z
-DTEND:20260705T011000Z
-DTSTAMP:20260704T233000Z
-UID:KHck72alQT
-DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
- or her first film\, Bouchra\, a queer Moroccan jackal living in NYC\, star
- ts having difficult yet overdue phone calls with her mother in Casablanca 
- that begin influencing the project. From the visual artists behind the 202
- 0 web series 2 Lizards.\n\nhttps://www.siff.net/cinema/in-theaters/bouchra
- \n\nEstimated start: 16:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -174,31 +198,31 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260620T000000Z
-DTEND:20260620T020500Z
-DTSTAMP:20260620T000000Z
-UID:ssJenqx6jm
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 17:15
+SUMMARY:Bouchra
+DTSTART:20260704T210000Z
+DTEND:20260704T224000Z
+DTSTAMP:20260704T210000Z
+UID:5GuWKY6BB2
+DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
+ or her first film\, Bouchra\, a queer Moroccan jackal living in NYC\, star
+ ts having difficult yet overdue phone calls with her mother in Casablanca 
+ that begin influencing the project. From the visual artists behind the 202
+ 0 web series 2 Lizards.\n\nhttps://www.siff.net/cinema/in-theaters/bouchra
+ \n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260620T023000Z
-DTEND:20260620T043500Z
-DTSTAMP:20260620T023000Z
-UID:9CTa7QmOnk
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 19:45
+SUMMARY:Bouchra
+DTSTART:20260704T233000Z
+DTEND:20260705T011000Z
+DTSTAMP:20260704T233000Z
+UID:KHck72alQT
+DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
+ or her first film\, Bouchra\, a queer Moroccan jackal living in NYC\, star
+ ts having difficult yet overdue phone calls with her mother in Casablanca 
+ that begin influencing the project. From the visual artists behind the 202
+ 0 web series 2 Lizards.\n\nhttps://www.siff.net/cinema/in-theaters/bouchra
+ \n\nEstimated start: 16:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -327,22 +351,6 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nThe Popcorn ListSeeds is a port
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live: All My Sons
-DTSTART:20260624T013000Z
-DTEND:20260624T043000Z
-DTSTAMP:20260624T013000Z
-UID:ncZ6meJc3g
-DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
- and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
- r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
- forever and their contented lives\, already shadowed by the loss of their 
- eldest boy to war\, are about to shatter. With the return of a figure from
-  the past\, long buried truths are forced to the surface and the price of 
- their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
- ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer's Camera
 DTSTART:20260716T003000Z
 DTEND:20260716T021000Z
@@ -366,102 +374,6 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Popcorn ListTrash Baby is a c
  g up\, getting out\, and the art of finding beauty in the ugliest of place
  s.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-list/trash-baby
  \n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister
-DTSTART:20260627T230000Z
-DTEND:20260628T010500Z
-DTSTAMP:20260627T230000Z
-UID:XvEwlhvL6j
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
- annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
-  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
- ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
- ister\n\nEstimated start: 16:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister
-DTSTART:20260628T014500Z
-DTEND:20260628T035000Z
-DTSTAMP:20260628T014500Z
-UID:9bYa7BA4Pt
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
- annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
-  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
- ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
- ister\n\nEstimated start: 19:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon
-DTSTART:20260719T000000Z
-DTEND:20260719T013000Z
-DTSTAMP:20260719T000000Z
-UID:8tofRHboUa
-DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
- une and her Persian mom Lela travel to the Azores islands for a grief anni
- versary\, with contrasting ways of coping. A charming surfer brings balanc
- e as they (and we) surf the waves of life\, loss\, flirting… an unforget
- table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
- ted start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon
-DTSTART:20260719T020000Z
-DTEND:20260719T033000Z
-DTSTAMP:20260719T020000Z
-UID:6RHdHrswDj
-DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
- une and her Persian mom Lela travel to the Azores islands for a grief anni
- versary\, with contrasting ways of coping. A charming surfer brings balanc
- e as they (and we) surf the waves of life\, loss\, flirting… an unforget
- table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
- ted start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon
-DTSTART:20260718T013000Z
-DTEND:20260718T030000Z
-DTSTAMP:20260718T013000Z
-UID:hAc1wcx3x8
-DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
- une and her Persian mom Lela travel to the Azores islands for a grief anni
- versary\, with contrasting ways of coping. A charming surfer brings balanc
- e as they (and we) surf the waves of life\, loss\, flirting… an unforget
- table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
- ted start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon
-DTSTART:20260720T000000Z
-DTEND:20260720T013000Z
-DTSTAMP:20260720T000000Z
-UID:N2MvIMFILX
-DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
- une and her Persian mom Lela travel to the Azores islands for a grief anni
- versary\, with contrasting ways of coping. A charming surfer brings balanc
- e as they (and we) surf the waves of life\, loss\, flirting… an unforget
- table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
- ted start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon
-DTSTART:20260720T020000Z
-DTEND:20260720T033000Z
-DTSTAMP:20260720T020000Z
-UID:KNtyl7271M
-DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
- une and her Persian mom Lela travel to the Azores islands for a grief anni
- versary\, with contrasting ways of coping. A charming surfer brings balanc
- e as they (and we) surf the waves of life\, loss\, flirting… an unforget
- table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
- ted start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -500,6 +412,120 @@ DTSTART:20260622T023000Z
 DTEND:20260622T043500Z
 DTSTAMP:20260622T023000Z
 UID:1I1V5KoZUF
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
+  dawn raid triggers one of the most spontaneous and successful acts of civ
+ il resistance in recent memory. In Scotland’s most diverse neighborhood\
+ , hundreds of residents rush to the streets to stop the deportation of the
+ ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
+ ure-street\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: All My Sons
+DTSTART:20260624T013000Z
+DTEND:20260624T043000Z
+DTSTAMP:20260624T013000Z
+UID:ncZ6meJc3g
+DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
+ and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
+ r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
+ forever and their contented lives\, already shadowed by the loss of their 
+ eldest boy to war\, are about to shatter. With the return of a figure from
+  the past\, long buried truths are forced to the surface and the price of 
+ their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
+ ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honeyjoon
+DTSTART:20260719T000000Z
+DTEND:20260719T013000Z
+DTSTAMP:20260719T000000Z
+UID:8tofRHboUa
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
+ une and her Persian mom Lela travel to the Azores islands for a grief anni
+ versary\, with contrasting ways of coping. A charming surfer brings balanc
+ e as they (and we) surf the waves of life\, loss\, flirting… an unforget
+ table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
+ ted start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honeyjoon
+DTSTART:20260719T020000Z
+DTEND:20260719T033000Z
+DTSTAMP:20260719T020000Z
+UID:6RHdHrswDj
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
+ une and her Persian mom Lela travel to the Azores islands for a grief anni
+ versary\, with contrasting ways of coping. A charming surfer brings balanc
+ e as they (and we) surf the waves of life\, loss\, flirting… an unforget
+ table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
+ ted start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honeyjoon
+DTSTART:20260720T000000Z
+DTEND:20260720T013000Z
+DTSTAMP:20260720T000000Z
+UID:N2MvIMFILX
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
+ une and her Persian mom Lela travel to the Azores islands for a grief anni
+ versary\, with contrasting ways of coping. A charming surfer brings balanc
+ e as they (and we) surf the waves of life\, loss\, flirting… an unforget
+ table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
+ ted start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honeyjoon
+DTSTART:20260720T020000Z
+DTEND:20260720T033000Z
+DTSTAMP:20260720T020000Z
+UID:KNtyl7271M
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
+ une and her Persian mom Lela travel to the Azores islands for a grief anni
+ versary\, with contrasting ways of coping. A charming surfer brings balanc
+ e as they (and we) surf the waves of life\, loss\, flirting… an unforget
+ table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
+ ted start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honeyjoon
+DTSTART:20260718T013000Z
+DTEND:20260718T030000Z
+DTSTAMP:20260718T013000Z
+UID:hAc1wcx3x8
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
+ une and her Persian mom Lela travel to the Azores islands for a grief anni
+ versary\, with contrasting ways of coping. A charming surfer brings balanc
+ e as they (and we) surf the waves of life\, loss\, flirting… an unforget
+ table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
+ ted start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everybody to Kenmure Street
+DTSTART:20260620T000000Z
+DTEND:20260620T020500Z
+DTSTAMP:20260620T000000Z
+UID:ssJenqx6jm
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
+  dawn raid triggers one of the most spontaneous and successful acts of civ
+ il resistance in recent memory. In Scotland’s most diverse neighborhood\
+ , hundreds of residents rush to the streets to stop the deportation of the
+ ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
+ ure-street\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everybody to Kenmure Street
+DTSTART:20260620T023000Z
+DTEND:20260620T043500Z
+DTSTAMP:20260620T023000Z
+UID:9CTa7QmOnk
 DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
   dawn raid triggers one of the most spontaneous and successful acts of civ
  il resistance in recent memory. In Scotland’s most diverse neighborhood\
@@ -551,32 +577,6 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nThe Popcorn ListA cursed young w
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Little Sister
-DTSTART:20260626T230000Z
-DTEND:20260627T010500Z
-DTSTAMP:20260626T230000Z
-UID:b3AbkU4xkv
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
- annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
-  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
- ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
- ister\n\nEstimated start: 16:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister
-DTSTART:20260627T014500Z
-DTEND:20260627T035000Z
-DTSTAMP:20260627T014500Z
-UID:TS2LtH7nK1
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
- annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
-  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
- ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
- ister\n\nEstimated start: 19:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NT Live: The Playboy of the Western World
 DTSTART:20260726T210000Z
 DTEND:20260726T234500Z
@@ -617,19 +617,6 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260823T210000Z
-DTEND:20260824T001500Z
-DTSTAMP:20260823T210000Z
-UID:thZVVpuFXw
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
 DTSTART:20260825T013000Z
 DTEND:20260825T044500Z
 DTSTAMP:20260825T013000Z
@@ -652,6 +639,19 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
  ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
  nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
  sons-dangereuses\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260823T210000Z
+DTEND:20260824T001500Z
+DTSTAMP:20260823T210000Z
+UID:thZVVpuFXw
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
