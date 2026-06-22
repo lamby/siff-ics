@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260621T161249Z
+LAST-MODIFIED:20260622T160501Z
 BEGIN:VEVENT
 SUMMARY:The Little Sister
 DTSTART:20260626T230000Z
@@ -58,10 +58,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: All My Sons
-DTSTART:20260624T013000Z
-DTEND:20260624T043000Z
-DTSTAMP:20260624T013000Z
-UID:ncZ6meJc3g
+DTSTART:20260623T013000Z
+DTEND:20260623T043000Z
+DTSTAMP:20260623T013000Z
+UID:MabXc3OX5p
 DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
  and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
  r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
@@ -73,11 +73,38 @@ DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Little Sister
+DTSTART:20260628T210000Z
+DTEND:20260628T230500Z
+DTSTAMP:20260628T210000Z
+UID:wN2jwLVnst
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
+ annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
+  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
+ ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
+ ister\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bouchra
-DTSTART:20260703T233000Z
-DTEND:20260704T011000Z
-DTSTAMP:20260703T233000Z
-UID:4P79QfbdCS
+DTSTART:20260704T210000Z
+DTEND:20260704T224000Z
+DTSTAMP:20260704T210000Z
+UID:5GuWKY6BB2
+DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
+ or her first film\, Bouchra\, a queer Moroccan jackal living in NYC\, star
+ ts having difficult yet overdue phone calls with her mother in Casablanca 
+ that begin influencing the project. From the visual artists behind the 202
+ 0 web series 2 Lizards.\n\nhttps://www.siff.net/cinema/in-theaters/bouchra
+ \n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bouchra
+DTSTART:20260704T233000Z
+DTEND:20260705T011000Z
+DTSTAMP:20260704T233000Z
+UID:KHck72alQT
 DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
  or her first film\, Bouchra\, a queer Moroccan jackal living in NYC\, star
  ts having difficult yet overdue phone calls with her mother in Casablanca 
@@ -87,69 +114,11 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bouchra
-DTSTART:20260704T020000Z
-DTEND:20260704T034000Z
-DTSTAMP:20260704T020000Z
-UID:3pRsO0yIVl
-DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
- or her first film\, Bouchra\, a queer Moroccan jackal living in NYC\, star
- ts having difficult yet overdue phone calls with her mother in Casablanca 
- that begin influencing the project. From the visual artists behind the 202
- 0 web series 2 Lizards.\n\nhttps://www.siff.net/cinema/in-theaters/bouchra
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NT Live: All My Sons
-DTSTART:20260621T204500Z
-DTEND:20260621T234500Z
-DTSTAMP:20260621T204500Z
-UID:hYSe1EtIa2
-DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
- and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
- r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
- forever and their contented lives\, already shadowed by the loss of their 
- eldest boy to war\, are about to shatter. With the return of a figure from
-  the past\, long buried truths are forced to the surface and the price of 
- their American dream is laid bare.\n\nhttps://www.siff.net/programs-and-ev
- ents/stage-to-screen/nt-live-all-my-sons\n\nEstimated start: 14:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260622T000000Z
-DTEND:20260622T020500Z
-DTSTAMP:20260622T000000Z
-UID:76i6CXq2xh
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street
-DTSTART:20260622T023000Z
-DTEND:20260622T043500Z
-DTSTAMP:20260622T023000Z
-UID:1I1V5KoZUF
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nIn May 2021\, a U.K. Home Office
-  dawn raid triggers one of the most spontaneous and successful acts of civ
- il resistance in recent memory. In Scotland’s most diverse neighborhood\
- , hundreds of residents rush to the streets to stop the deportation of the
- ir neighbors.\n\nhttps://www.siff.net/cinema/in-theaters/everybody-to-kenm
- ure-street\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: All My Sons
-DTSTART:20260623T013000Z
-DTEND:20260623T043000Z
-DTSTAMP:20260623T013000Z
-UID:MabXc3OX5p
+DTSTART:20260624T013000Z
+DTEND:20260624T043000Z
+DTSTAMP:20260624T013000Z
+UID:ncZ6meJc3g
 DESCRIPTION:Duration: 165 mins (2h45m)\n\nStage to Screen Bryan Cranston 
  and Marianne Jean-Baptiste feature in a hit new production of Arthur Mille
  r's classic play\, from visionary director Ivo Van Hove.But nothing lasts 
@@ -204,24 +173,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bouchra
-DTSTART:20260704T210000Z
-DTEND:20260704T224000Z
-DTSTAMP:20260704T210000Z
-UID:5GuWKY6BB2
-DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
- or her first film\, Bouchra\, a queer Moroccan jackal living in NYC\, star
- ts having difficult yet overdue phone calls with her mother in Casablanca 
- that begin influencing the project. From the visual artists behind the 202
- 0 web series 2 Lizards.\n\nhttps://www.siff.net/cinema/in-theaters/bouchra
- \n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bouchra
-DTSTART:20260704T233000Z
-DTEND:20260705T011000Z
-DTSTAMP:20260704T233000Z
-UID:KHck72alQT
+DTSTART:20260703T233000Z
+DTEND:20260704T011000Z
+DTSTAMP:20260703T233000Z
+UID:4P79QfbdCS
 DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
  or her first film\, Bouchra\, a queer Moroccan jackal living in NYC\, star
  ts having difficult yet overdue phone calls with her mother in Casablanca 
@@ -231,11 +186,38 @@ DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bouchra
+DTSTART:20260704T020000Z
+DTEND:20260704T034000Z
+DTSTAMP:20260704T020000Z
+UID:3pRsO0yIVl
+DESCRIPTION:Duration: 83 mins (1h23m)\n\nWrestling with writer’s block f
+ or her first film\, Bouchra\, a queer Moroccan jackal living in NYC\, star
+ ts having difficult yet overdue phone calls with her mother in Casablanca 
+ that begin influencing the project. From the visual artists behind the 202
+ 0 web series 2 Lizards.\n\nhttps://www.siff.net/cinema/in-theaters/bouchra
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seeds
+DTSTART:20260714T013000Z
+DTEND:20260714T035000Z
+DTSTAMP:20260714T013000Z
+UID:5NBCoNvtr6
+DESCRIPTION:Duration: 122 mins (2h02m)\n\nThe Popcorn ListSeeds is a port
+ rait of centennial farmers in the American South. Using lyrical black and 
+ white imagery\, this meditative film examines the decline of generational 
+ Black farmers and the significance of owning land.\n\nhttps://www.siff.net
+ /programs-and-events/the-popcorn-list/seeds\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mary Oliver: Saved by the Beauty of the World
-DTSTART:20260712T203000Z
-DTEND:20260712T222000Z
-DTSTAMP:20260712T203000Z
-UID:v9Lboffhxt
+DTSTART:20260711T203000Z
+DTEND:20260711T222000Z
+DTSTAMP:20260711T203000Z
+UID:b2RMTJbv7U
 DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
   and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
  ueer and out\, but intensely private. Her poems inspire liberals and conse
@@ -244,6 +226,64 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
  nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
  , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
  r-saved-by-the-beauty-of-the-world\n\nEstimated start: 13:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Oliver: Saved by the Beauty of the World
+DTSTART:20260712T024000Z
+DTEND:20260712T043000Z
+DTSTAMP:20260712T024000Z
+UID:jtXwkx78ui
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
+  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
+ ueer and out\, but intensely private. Her poems inspire liberals and conse
+ rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
+ ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
+ nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
+ , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
+ r-saved-by-the-beauty-of-the-world\n\nEstimated start: 19:55
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer's Camera
+DTSTART:20260716T003000Z
+DTEND:20260716T021000Z
+DTSTAMP:20260716T003000Z
+UID:IPSfP3t4LS
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nThe Popcorn ListSummer captures h
+ er first crush through her late father’s camera—only to uncover photog
+ raphs that reveal his hidden past\, sending Summer on a journey that trans
+ forms her understanding of love and family.\n\nhttps://www.siff.net/progra
+ ms-and-events/the-popcorn-list/summers-camera\n\nEstimated start: 17:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trash Baby
+DTSTART:20260716T023000Z
+DTEND:20260716T042500Z
+DTSTAMP:20260716T023000Z
+UID:y2KejjvfeA
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Popcorn ListTrash Baby is a c
+ oming-of-age drama that follows 12-year-old Stevie as she navigates growin
+ g up\, getting out\, and the art of finding beauty in the ugliest of place
+ s.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-list/trash-baby
+ \n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Oliver: Saved by the Beauty of the World
+DTSTART:20260712T204000Z
+DTEND:20260712T223000Z
+DTSTAMP:20260712T204000Z
+UID:v9Lboffhxt
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
+  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
+ ueer and out\, but intensely private. Her poems inspire liberals and conse
+ rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
+ ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
+ nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
+ , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
+ r-saved-by-the-beauty-of-the-world\n\nEstimated start: 13:55
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -311,77 +351,6 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-DTSTART:20260711T203000Z
-DTEND:20260711T222000Z
-DTSTAMP:20260711T203000Z
-UID:b2RMTJbv7U
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
-  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
- ueer and out\, but intensely private. Her poems inspire liberals and conse
- rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
- ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
- nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
- , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
- r-saved-by-the-beauty-of-the-world\n\nEstimated start: 13:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-DTSTART:20260712T023000Z
-DTEND:20260712T042000Z
-DTSTAMP:20260712T023000Z
-UID:jtXwkx78ui
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
-  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
- ueer and out\, but intensely private. Her poems inspire liberals and conse
- rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
- ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
- nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
- , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
- r-saved-by-the-beauty-of-the-world\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seeds
-DTSTART:20260714T013000Z
-DTEND:20260714T035000Z
-DTSTAMP:20260714T013000Z
-UID:5NBCoNvtr6
-DESCRIPTION:Duration: 122 mins (2h02m)\n\nThe Popcorn ListSeeds is a port
- rait of centennial farmers in the American South. Using lyrical black and 
- white imagery\, this meditative film examines the decline of generational 
- Black farmers and the significance of owning land.\n\nhttps://www.siff.net
- /programs-and-events/the-popcorn-list/seeds\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer's Camera
-DTSTART:20260716T003000Z
-DTEND:20260716T021000Z
-DTSTAMP:20260716T003000Z
-UID:IPSfP3t4LS
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nThe Popcorn ListSummer captures h
- er first crush through her late father’s camera—only to uncover photog
- raphs that reveal his hidden past\, sending Summer on a journey that trans
- forms her understanding of love and family.\n\nhttps://www.siff.net/progra
- ms-and-events/the-popcorn-list/summers-camera\n\nEstimated start: 17:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trash Baby
-DTSTART:20260716T023000Z
-DTEND:20260716T042500Z
-DTSTAMP:20260716T023000Z
-UID:y2KejjvfeA
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nThe Popcorn ListTrash Baby is a c
- oming-of-age drama that follows 12-year-old Stevie as she navigates growin
- g up\, getting out\, and the art of finding beauty in the ugliest of place
- s.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-list/trash-baby
- \n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Honeyjoon
 DTSTART:20260718T013000Z
 DTEND:20260718T030000Z
@@ -411,16 +380,16 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Honeyjoon
-DTSTART:20260719T020000Z
-DTEND:20260719T033000Z
-DTSTAMP:20260719T020000Z
+DTSTART:20260719T021500Z
+DTEND:20260719T034500Z
+DTSTAMP:20260719T021500Z
 UID:6RHdHrswDj
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
  une and her Persian mom Lela travel to the Azores islands for a grief anni
  versary\, with contrasting ways of coping. A charming surfer brings balanc
  e as they (and we) surf the waves of life\, loss\, flirting… an unforget
  table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
- ted start: 19:15
+ ted start: 19:30
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -454,29 +423,16 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Honeyjoon
-DTSTART:20260720T020000Z
-DTEND:20260720T033000Z
-DTSTAMP:20260720T020000Z
+DTSTART:20260720T021500Z
+DTEND:20260720T034500Z
+DTSTAMP:20260720T021500Z
 UID:KNtyl7271M
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
  une and her Persian mom Lela travel to the Azores islands for a grief anni
  versary\, with contrasting ways of coping. A charming surfer brings balanc
  e as they (and we) surf the waves of life\, loss\, flirting… an unforget
  table ride.\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEstima
- ted start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: The Playboy of the Western World
-DTSTART:20260726T210000Z
-DTEND:20260726T234500Z
-DTSTAMP:20260726T210000Z
-UID:78uHfrUEoT
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
-  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
- s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
- ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
- nEstimated start: 14:15
+ ted start: 19:30
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -521,6 +477,19 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: The Playboy of the Western World
+DTSTART:20260726T210000Z
+DTEND:20260726T234500Z
+DTSTAMP:20260726T210000Z
+UID:78uHfrUEoT
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
+  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
+ s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
+ ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
+ nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Playboy of the Western World
 DTSTART:20260729T013000Z
 DTEND:20260729T041500Z
 DTSTAMP:20260729T013000Z
@@ -530,32 +499,6 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
  s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
  ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
  nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister
-DTSTART:20260628T210000Z
-DTEND:20260628T230500Z
-DTSTAMP:20260628T210000Z
-UID:wN2jwLVnst
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nDevout Muslim teenager Fatima (C
- annes Best Actress winner Nadia Melliti) takes a journey of self-discovery
-  amid her Algerian immigrant family in Paris in Hafsia Herzi’s queer co
- ming-of-age story.\n\nhttps://www.siff.net/cinema/in-theaters/the-little-s
- ister\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260825T013000Z
-DTEND:20260825T044500Z
-DTSTAMP:20260825T013000Z
-UID:ZHDUm2mEvV
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -569,6 +512,19 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
  ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
  nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
  sons-dangereuses\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260825T013000Z
+DTEND:20260825T044500Z
+DTSTAMP:20260825T013000Z
+UID:ZHDUm2mEvV
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
