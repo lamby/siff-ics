@@ -3,27 +3,50 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260622T160501Z
+LAST-MODIFIED:20260623T130935Z
 BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260622T233000Z
-DTEND:20260623T014000Z
-DTSTAMP:20260622T233000Z
-UID:k2b2V5PxmF
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 16:45
+SUMMARY:I Love Boosters
+DTSTART:20260626T234500Z
+DTEND:20260627T014500Z
+DTSTAMP:20260626T234500Z
+UID:YEGnGqV5gc
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260627T024500Z
+DTEND:20260627T043000Z
+DTSTAMP:20260627T024500Z
+UID:L7xgf5DLgc
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Backrooms
-DTSTART:20260623T021500Z
-DTEND:20260623T042500Z
-DTSTAMP:20260623T021500Z
-UID:7hfpkVGNWE
+DTSTART:20260703T021500Z
+DTEND:20260703T042500Z
+DTSTAMP:20260703T021500Z
+UID:oe1QAwGmCL
 DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
   basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
  ers/backrooms\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260702T234500Z
+DTEND:20260703T014500Z
+DTSTAMP:20260702T234500Z
+UID:OEHPdlsAYs
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -49,6 +72,17 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260702T021500Z
+DTEND:20260702T041500Z
+DTSTAMP:20260702T021500Z
+UID:T9vyKnP39y
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Backrooms
 DTSTART:20260623T233000Z
 DTEND:20260624T014000Z
@@ -71,6 +105,41 @@ DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260627T204500Z
+DTEND:20260627T223000Z
+DTSTAMP:20260627T204500Z
+UID:gGybcBhOLj
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 14:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260628T024500Z
+DTEND:20260628T043000Z
+DTSTAMP:20260628T024500Z
+UID:O0qJ4CTyFr
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260627T234500Z
+DTEND:20260628T014500Z
+DTSTAMP:20260627T234500Z
+UID:yP2PuODnOQ
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Backrooms
 DTSTART:20260624T233000Z
 DTEND:20260625T014000Z
@@ -90,6 +159,83 @@ UID:7MrJ7x5XYv
 DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
   basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
  ers/backrooms\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260629T234500Z
+DTEND:20260630T014500Z
+DTSTAMP:20260629T234500Z
+UID:2i62NRPfRG
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260630T021500Z
+DTEND:20260630T041500Z
+DTSTAMP:20260630T021500Z
+UID:tEQ0FYJUaF
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260630T234500Z
+DTEND:20260701T014500Z
+DTSTAMP:20260630T234500Z
+UID:u1UPO0S46w
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260701T021500Z
+DTEND:20260701T042500Z
+DTSTAMP:20260701T021500Z
+UID:8DwF0YvdS9
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260628T234500Z
+DTEND:20260629T015500Z
+DTSTAMP:20260628T234500Z
+UID:ZWJAXATVs8
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260628T204500Z
+DTEND:20260628T224500Z
+DTSTAMP:20260628T204500Z
+UID:BXkwaFb6Pr
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 14:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260629T024500Z
+DTEND:20260629T044500Z
+DTSTAMP:20260629T024500Z
+UID:6vY4fJiZT1
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
