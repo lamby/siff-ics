@@ -3,27 +3,50 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260624T142733Z
+LAST-MODIFIED:20260625T123210Z
 BEGIN:VEVENT
 SUMMARY:Backrooms
-DTSTART:20260624T233000Z
-DTEND:20260625T014000Z
-DTSTAMP:20260624T233000Z
-UID:cUKaoOgulT
+DTSTART:20260627T201000Z
+DTEND:20260627T222000Z
+DTSTAMP:20260627T201000Z
+UID:W6w4kYpnVN
 DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
   basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 16:45
+ ers/backrooms\n\nEstimated start: 13:25
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuner
+DTSTART:20260627T230000Z
+DTEND:20260628T010500Z
+DTSTAMP:20260627T230000Z
+UID:WMwYBWoMO0
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
+ s skills for tuning pianos lead him to discover an unexpected aptitude for
+  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/tuner\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Backrooms
-DTSTART:20260625T021500Z
-DTEND:20260625T042500Z
-DTSTAMP:20260625T021500Z
-UID:7MrJ7x5XYv
+DTSTART:20260703T021500Z
+DTEND:20260703T042500Z
+DTSTAMP:20260703T021500Z
+UID:oe1QAwGmCL
 DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
   basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
  ers/backrooms\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260702T234500Z
+DTEND:20260703T014500Z
+DTSTAMP:20260702T234500Z
+UID:OEHPdlsAYs
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -46,6 +69,62 @@ UID:tEQ0FYJUaF
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
  \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260625T233000Z
+DTEND:20260626T014000Z
+DTSTAMP:20260625T233000Z
+UID:0Zry41WYZK
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260626T021500Z
+DTEND:20260626T042500Z
+DTSTAMP:20260626T021500Z
+UID:AvYaTvHqOq
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260702T021500Z
+DTEND:20260702T041500Z
+DTSTAMP:20260702T021500Z
+UID:T9vyKnP39y
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love Boosters
+DTSTART:20260626T234500Z
+DTEND:20260627T014500Z
+DTSTAMP:20260626T234500Z
+UID:YEGnGqV5gc
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
+ rs take aim at a cutthroat fashion maven. It’s like community service.\n
+ \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviticus
+DTSTART:20260627T024500Z
+DTEND:20260627T043000Z
+DTSTAMP:20260627T024500Z
+UID:L7xgf5DLgc
+DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
+ t escape a violent entity that takes the form of the person they desire mo
+ st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
+ nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -83,75 +162,6 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Love Boosters
-DTSTART:20260702T021500Z
-DTEND:20260702T041500Z
-DTSTAMP:20260702T021500Z
-UID:T9vyKnP39y
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260627T204500Z
-DTEND:20260627T223000Z
-DTSTAMP:20260627T204500Z
-UID:gGybcBhOLj
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 14:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260628T024500Z
-DTEND:20260628T043000Z
-DTSTAMP:20260628T024500Z
-UID:O0qJ4CTyFr
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260627T234500Z
-DTEND:20260628T014500Z
-DTSTAMP:20260627T234500Z
-UID:yP2PuODnOQ
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260626T234500Z
-DTEND:20260627T014500Z
-DTSTAMP:20260626T234500Z
-UID:YEGnGqV5gc
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus
-DTSTART:20260627T024500Z
-DTEND:20260627T043000Z
-DTSTAMP:20260627T024500Z
-UID:L7xgf5DLgc
-DESCRIPTION:Duration: 88 mins (1h28m)\n\nTwo star-crossed teenage boys mus
- t escape a violent entity that takes the form of the person they desire mo
- st — each other.\n\nhttps://www.siff.net/cinema/in-theaters/leviticus\n\
- nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
 DTSTART:20260630T234500Z
 DTEND:20260701T014500Z
 DTSTAMP:20260630T234500Z
@@ -170,50 +180,6 @@ UID:8DwF0YvdS9
 DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
   basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
  ers/backrooms\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260625T233000Z
-DTEND:20260626T014000Z
-DTSTAMP:20260625T233000Z
-UID:0Zry41WYZK
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260626T021500Z
-DTEND:20260626T042500Z
-DTSTAMP:20260626T021500Z
-UID:AvYaTvHqOq
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260703T021500Z
-DTEND:20260703T042500Z
-DTSTAMP:20260703T021500Z
-UID:oe1QAwGmCL
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Love Boosters
-DTSTART:20260702T234500Z
-DTEND:20260703T014500Z
-DTSTAMP:20260702T234500Z
-UID:OEHPdlsAYs
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
- rs take aim at a cutthroat fashion maven. It’s like community service.\n
- \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 17:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -240,110 +206,6 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
  s it. With her relationship in crisis\, Gail sets out on an epic journey t
  hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
  aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260714T233000Z
-DTEND:20260715T012000Z
-DTSTAMP:20260714T233000Z
-UID:hemTW85YKh
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260715T021500Z
-DTEND:20260715T040500Z
-DTSTAMP:20260715T021500Z
-UID:C8Jb9Gf7EB
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260712T184500Z
-DTEND:20260712T203500Z
-DTSTAMP:20260712T184500Z
-UID:dsHVB6Xvij
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 12:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260712T213000Z
-DTEND:20260712T232000Z
-DTSTAMP:20260712T213000Z
-UID:HZ88WT5tYl
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 14:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260713T001500Z
-DTEND:20260713T020500Z
-DTSTAMP:20260713T001500Z
-UID:DHnw2G5mC4
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 17:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260713T030000Z
-DTEND:20260713T045000Z
-DTSTAMP:20260713T030000Z
-UID:5lrMxueTlF
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 20:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260716T233000Z
-DTEND:20260717T012000Z
-DTSTAMP:20260716T233000Z
-UID:lGif1a8uEV
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260717T021500Z
-DTEND:20260717T040500Z
-DTSTAMP:20260717T021500Z
-UID:Msa2qd21j9
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -426,6 +288,71 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260714T233000Z
+DTEND:20260715T012000Z
+DTSTAMP:20260714T233000Z
+UID:hemTW85YKh
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260715T021500Z
+DTEND:20260715T040500Z
+DTSTAMP:20260715T021500Z
+UID:C8Jb9Gf7EB
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260712T184500Z
+DTEND:20260712T203500Z
+DTSTAMP:20260712T184500Z
+UID:dsHVB6Xvij
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 12:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260712T213000Z
+DTEND:20260712T232000Z
+DTSTAMP:20260712T213000Z
+UID:HZ88WT5tYl
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 14:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260713T001500Z
+DTEND:20260713T020500Z
+DTSTAMP:20260713T001500Z
+UID:DHnw2G5mC4
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 17:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
 DTSTART:20260715T233000Z
 DTEND:20260716T012000Z
 DTSTAMP:20260715T233000Z
@@ -443,6 +370,45 @@ DTSTART:20260716T021500Z
 DTEND:20260716T040500Z
 DTSTAMP:20260716T021500Z
 UID:FMdZE5RvjC
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260713T030000Z
+DTEND:20260713T045000Z
+DTSTAMP:20260713T030000Z
+UID:5lrMxueTlF
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 20:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260716T233000Z
+DTEND:20260717T012000Z
+DTSTAMP:20260716T233000Z
+UID:lGif1a8uEV
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260717T021500Z
+DTEND:20260717T040500Z
+DTSTAMP:20260717T021500Z
+UID:Msa2qd21j9
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
  try has a “free celebrity pass” agreement with her fiancé — who use
  s it. With her relationship in crisis\, Gail sets out on an epic journey t
