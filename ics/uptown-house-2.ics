@@ -3,42 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260626T141340Z
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260628T201000Z
-DTEND:20260628T222000Z
-DTSTAMP:20260628T201000Z
-UID:SGkFKBJUEU
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 13:25
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260628T230000Z
-DTEND:20260629T010500Z
-DTSTAMP:20260628T230000Z
-UID:Z6DMqXWJb2
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260629T020000Z
-DTEND:20260629T040500Z
-DTSTAMP:20260629T020000Z
-UID:1krOdvHoXp
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260627T151710Z
 BEGIN:VEVENT
 SUMMARY:Backrooms
 DTSTART:20260629T231000Z
@@ -86,11 +51,22 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260628T201000Z
+DTEND:20260628T222000Z
+DTSTAMP:20260628T201000Z
+UID:SGkFKBJUEU
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 13:25
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tuner
-DTSTART:20260630T230000Z
-DTEND:20260701T010500Z
-DTSTAMP:20260630T230000Z
-UID:BrFy8vVivl
+DTSTART:20260628T230000Z
+DTEND:20260629T010500Z
+DTSTAMP:20260628T230000Z
+UID:Z6DMqXWJb2
 DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
  s skills for tuning pianos lead him to discover an unexpected aptitude for
   cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
@@ -99,33 +75,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuner
-DTSTART:20260701T020000Z
-DTEND:20260701T040500Z
-DTSTAMP:20260701T020000Z
-UID:eucbG9IO1M
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260626T231000Z
-DTEND:20260627T012000Z
-DTSTAMP:20260626T231000Z
-UID:GE6LtTSW0Z
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 16:25
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260627T020000Z
-DTEND:20260627T040500Z
-DTSTAMP:20260627T020000Z
-UID:bQ9BenD4CL
+DTSTART:20260629T020000Z
+DTEND:20260629T040500Z
+DTSTAMP:20260629T020000Z
+UID:1krOdvHoXp
 DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
  s skills for tuning pianos lead him to discover an unexpected aptitude for
   cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
@@ -181,15 +134,31 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260702T020000Z
-DTEND:20260702T040500Z
-DTSTAMP:20260702T020000Z
-UID:GmEso99wZ6
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 19:15
+SUMMARY:The Invite
+DTSTART:20260710T230000Z
+DTEND:20260711T010500Z
+DTSTAMP:20260710T230000Z
+UID:VF3xhp3uQO
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?   ** Select Screenings 
+ in 35mm! **\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstim
+ ated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260711T020000Z
+DTEND:20260711T040500Z
+DTSTAMP:20260711T020000Z
+UID:OsNZFDgn33
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?   ** Select Screenings 
+ in 35mm! **\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstim
+ ated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -250,34 +219,6 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
  \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
  tart: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260710T230000Z
-DTEND:20260711T010500Z
-DTSTAMP:20260710T230000Z
-UID:VF3xhp3uQO
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstim
- ated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260711T020000Z
-DTEND:20260711T040500Z
-DTSTAMP:20260711T020000Z
-UID:OsNZFDgn33
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstim
- ated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -372,10 +313,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260714T234500Z
-DTEND:20260715T015000Z
-DTSTAMP:20260714T234500Z
-UID:hv0ADHaR3r
+DTSTART:20260716T234500Z
+DTEND:20260717T015000Z
+DTSTAMP:20260716T234500Z
+UID:0s0A2G5s5T
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
@@ -387,10 +328,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260715T023000Z
-DTEND:20260715T043500Z
-DTSTAMP:20260715T023000Z
-UID:dxIG94OJlN
+DTSTART:20260717T023000Z
+DTEND:20260717T043500Z
+DTSTAMP:20260717T023000Z
+UID:VHMdkKQZf6
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
@@ -432,10 +373,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260716T234500Z
-DTEND:20260717T015000Z
-DTSTAMP:20260716T234500Z
-UID:0s0A2G5s5T
+DTSTART:20260714T234500Z
+DTEND:20260715T015000Z
+DTSTAMP:20260714T234500Z
+UID:hv0ADHaR3r
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
@@ -447,10 +388,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260717T023000Z
-DTEND:20260717T043500Z
-DTSTAMP:20260717T023000Z
-UID:VHMdkKQZf6
+DTSTART:20260715T023000Z
+DTEND:20260715T043500Z
+DTSTAMP:20260715T023000Z
+UID:dxIG94OJlN
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
@@ -458,6 +399,42 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
  \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
  tart: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuner
+DTSTART:20260630T230000Z
+DTEND:20260701T010500Z
+DTSTAMP:20260630T230000Z
+UID:BrFy8vVivl
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
+ s skills for tuning pianos lead him to discover an unexpected aptitude for
+  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/tuner\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuner
+DTSTART:20260701T020000Z
+DTEND:20260701T040500Z
+DTSTAMP:20260701T020000Z
+UID:eucbG9IO1M
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
+ s skills for tuning pianos lead him to discover an unexpected aptitude for
+  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/tuner\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuner
+DTSTART:20260702T020000Z
+DTEND:20260702T040500Z
+DTSTAMP:20260702T020000Z
+UID:GmEso99wZ6
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
+ s skills for tuning pianos lead him to discover an unexpected aptitude for
+  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/tuner\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
