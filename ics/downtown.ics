@@ -3,13 +3,55 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20260629T125410Z
+LAST-MODIFIED:20260630T143251Z
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260706T233000Z
-DTEND:20260707T011500Z
-DTSTAMP:20260706T233000Z
-UID:PThxa1nT2e
+DTSTART:20260701T210000Z
+DTEND:20260701T224500Z
+DTSTAMP:20260701T210000Z
+UID:y5vtopDOLk
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260701T233500Z
+DTEND:20260702T012000Z
+DTSTAMP:20260701T233500Z
+UID:Gdlq93Rsmh
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 16:50
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260702T021500Z
+DTEND:20260702T040000Z
+DTSTAMP:20260702T021500Z
+UID:gN6xTj7fUX
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260707T233000Z
+DTEND:20260708T011500Z
+DTSTAMP:20260707T233000Z
+UID:HnccS1kqBQ
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  lous and totally true story of how the Minions conquered Hollywood\, becam
  e movie stars\, lost everything\, unleashed monsters onto the world and th
@@ -20,10 +62,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260707T020000Z
-DTEND:20260707T034500Z
-DTSTAMP:20260707T020000Z
-UID:OkCvdyEIGR
+DTSTART:20260708T020000Z
+DTEND:20260708T034500Z
+DTSTAMP:20260708T020000Z
+UID:Ktavcda6i6
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  lous and totally true story of how the Minions conquered Hollywood\, becam
  e movie stars\, lost everything\, unleashed monsters onto the world and th
@@ -114,254 +156,6 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  en banded together to try and save the planet from the mayhem they had jus
  t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
  \n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260707T233000Z
-DTEND:20260708T011500Z
-DTSTAMP:20260707T233000Z
-UID:HnccS1kqBQ
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260708T020000Z
-DTEND:20260708T034500Z
-DTSTAMP:20260708T020000Z
-UID:Ktavcda6i6
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260708T233000Z
-DTEND:20260709T011500Z
-DTSTAMP:20260708T233000Z
-UID:5W3H9tJ6ag
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260709T020000Z
-DTEND:20260709T034500Z
-DTSTAMP:20260709T020000Z
-UID:OwTTYvtfUw
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260705T194500Z
-DTEND:20260705T213000Z
-DTSTAMP:20260705T194500Z
-UID:SHQNX2WXeM
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 13:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260705T222000Z
-DTEND:20260706T000500Z
-DTSTAMP:20260705T222000Z
-UID:VGlQBvE6j8
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 15:35
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260706T010000Z
-DTEND:20260706T024500Z
-DTSTAMP:20260706T010000Z
-UID:GxoVa39Omm
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260629T230000Z
-DTEND:20260630T015000Z
-DTSTAMP:20260629T230000Z
-UID:HUF4gXsa3o
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260630T023000Z
-DTEND:20260630T052000Z
-DTSTAMP:20260630T023000Z
-UID:JTP18qelkT
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260703T190000Z
-DTEND:20260703T204500Z
-DTSTAMP:20260703T190000Z
-UID:ScXbID7sDT
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260703T213500Z
-DTEND:20260703T232000Z
-DTSTAMP:20260703T213500Z
-UID:EDUghGRfK0
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 14:50
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260704T001000Z
-DTEND:20260704T015500Z
-DTSTAMP:20260704T001000Z
-UID:vXPEb7YHqY
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 17:25
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260704T024500Z
-DTEND:20260704T043000Z
-DTSTAMP:20260704T024500Z
-UID:heKW9DYHWu
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260701T210000Z
-DTEND:20260701T224500Z
-DTSTAMP:20260701T210000Z
-UID:y5vtopDOLk
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260701T233500Z
-DTEND:20260702T012000Z
-DTSTAMP:20260701T233500Z
-UID:Gdlq93Rsmh
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 16:50
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260702T021500Z
-DTEND:20260702T040000Z
-DTSTAMP:20260702T021500Z
-UID:gN6xTj7fUX
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260630T230000Z
-DTEND:20260701T015000Z
-DTSTAMP:20260630T230000Z
-UID:7LfRa0BVIm
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disclosure Day
-DTSTART:20260701T023000Z
-DTEND:20260701T052000Z
-DTSTAMP:20260701T023000Z
-UID:FFn5EBZPg1
-DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
- one\, if someone showed you\, proved it to you\, would that frighten you? 
- This summer\, the truth belongs to eight billion people. We are coming clo
- se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
- ure-day\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -521,6 +315,62 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
+DTSTART:20260708T233000Z
+DTEND:20260709T011500Z
+DTSTAMP:20260708T233000Z
+UID:5W3H9tJ6ag
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260709T020000Z
+DTEND:20260709T034500Z
+DTSTAMP:20260709T020000Z
+UID:OwTTYvtfUw
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260706T233000Z
+DTEND:20260707T011500Z
+DTSTAMP:20260706T233000Z
+UID:PThxa1nT2e
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260707T020000Z
+DTEND:20260707T034500Z
+DTSTAMP:20260707T020000Z
+UID:OkCvdyEIGR
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
 DTSTART:20260709T233000Z
 DTEND:20260710T011500Z
 DTSTAMP:20260709T233000Z
@@ -577,10 +427,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260715T233000Z
-DTEND:20260716T011500Z
-DTSTAMP:20260715T233000Z
-UID:WamkNL9bIy
+DTSTART:20260713T233000Z
+DTEND:20260714T011500Z
+DTSTAMP:20260713T233000Z
+UID:mIYZv1YK8P
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  lous and totally true story of how the Minions conquered Hollywood\, becam
  e movie stars\, lost everything\, unleashed monsters onto the world and th
@@ -591,30 +441,16 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minions & Monsters
-DTSTART:20260716T020000Z
-DTEND:20260716T034500Z
-DTSTAMP:20260716T020000Z
-UID:cWLrkXTY4P
+DTSTART:20260714T020000Z
+DTEND:20260714T034500Z
+DTSTAMP:20260714T020000Z
+UID:85jVfP5pKU
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
  lous and totally true story of how the Minions conquered Hollywood\, becam
  e movie stars\, lost everything\, unleashed monsters onto the world and th
  en banded together to try and save the planet from the mayhem they had jus
  t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
  \n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260717T020000Z
-DTEND:20260717T051000Z
-DTSTAMP:20260717T020000Z
-UID:85CJP06mEV
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -647,10 +483,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260721T020000Z
-DTEND:20260721T051000Z
-DTSTAMP:20260721T020000Z
-UID:b5Jjd1GNnM
+DTSTART:20260717T020000Z
+DTEND:20260717T051000Z
+DTSTAMP:20260717T020000Z
+UID:85CJP06mEV
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
@@ -703,6 +539,20 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
+DTSTART:20260721T020000Z
+DTEND:20260721T051000Z
+DTSTAMP:20260721T020000Z
+UID:b5Jjd1GNnM
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
 DTSTART:20260719T210000Z
 DTEND:20260720T001000Z
 DTSTAMP:20260719T210000Z
@@ -730,39 +580,39 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260713T233000Z
-DTEND:20260714T011500Z
-DTSTAMP:20260713T233000Z
-UID:mIYZv1YK8P
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART:20260714T020000Z
-DTEND:20260714T034500Z
-DTSTAMP:20260714T020000Z
-UID:85jVfP5pKU
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
- lous and totally true story of how the Minions conquered Hollywood\, becam
- e movie stars\, lost everything\, unleashed monsters onto the world and th
- en banded together to try and save the planet from the mayhem they had jus
- t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
- \n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Odyssey
 DTSTART:20260722T020000Z
 DTEND:20260722T051000Z
 DTSTAMP:20260722T020000Z
 UID:950KlT6ebb
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260724T220000Z
+DTEND:20260725T011000Z
+DTSTAMP:20260724T220000Z
+UID:paP8RmfY8M
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260725T020000Z
+DTEND:20260725T051000Z
+DTSTAMP:20260725T020000Z
+UID:afvlrvr4cX
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
@@ -843,30 +693,30 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260724T220000Z
-DTEND:20260725T011000Z
-DTSTAMP:20260724T220000Z
-UID:paP8RmfY8M
+DTSTART:20260726T210000Z
+DTEND:20260727T001000Z
+DTSTAMP:20260726T210000Z
+UID:a6Ol7f7crS
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
  ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
  uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:15
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 14:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260725T020000Z
-DTEND:20260725T051000Z
-DTSTAMP:20260725T020000Z
-UID:afvlrvr4cX
+DTSTART:20260727T010000Z
+DTEND:20260727T041000Z
+DTSTAMP:20260727T010000Z
+UID:mCEKRxRttk
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
  ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
  uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:15
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -899,30 +749,72 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260726T210000Z
-DTEND:20260727T001000Z
-DTSTAMP:20260726T210000Z
-UID:a6Ol7f7crS
+DTSTART:20260730T223000Z
+DTEND:20260731T014000Z
+DTSTAMP:20260730T223000Z
+UID:Um6Sl1gftC
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
  ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
  uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 14:15
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260727T010000Z
-DTEND:20260727T041000Z
-DTSTAMP:20260727T010000Z
-UID:mCEKRxRttk
+DTSTART:20260731T023000Z
+DTEND:20260731T054000Z
+DTSTAMP:20260731T023000Z
+UID:LYr46hhtcl
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
  ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
  uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 18:15
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260705T194500Z
+DTEND:20260705T213000Z
+DTSTAMP:20260705T194500Z
+UID:SHQNX2WXeM
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260705T222000Z
+DTEND:20260706T000500Z
+DTSTAMP:20260705T222000Z
+UID:VGlQBvE6j8
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 15:35
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260706T010000Z
+DTEND:20260706T024500Z
+DTSTAMP:20260706T010000Z
+UID:GxoVa39Omm
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -954,31 +846,29 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260729T223000Z
-DTEND:20260730T014000Z
-DTSTAMP:20260729T223000Z
-UID:O7asUJNsuL
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:45
+SUMMARY:Disclosure Day
+DTSTART:20260630T230000Z
+DTEND:20260701T015000Z
+DTSTAMP:20260630T230000Z
+UID:7LfRa0BVIm
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260730T023000Z
-DTEND:20260730T054000Z
-DTSTAMP:20260730T023000Z
-UID:73wx09ilJF
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:45
+SUMMARY:Disclosure Day
+DTSTART:20260701T023000Z
+DTEND:20260701T052000Z
+DTSTAMP:20260701T023000Z
+UID:FFn5EBZPg1
+DESCRIPTION:Duration: 155 mins (2h35m)\n\nIf you found out we weren’t al
+ one\, if someone showed you\, proved it to you\, would that frighten you? 
+ This summer\, the truth belongs to eight billion people. We are coming clo
+ se to...Disclosure Day.\n\nhttps://www.siff.net/cinema/in-theaters/disclos
+ ure-day\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -993,34 +883,6 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
  ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
  uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
  ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260730T223000Z
-DTEND:20260731T014000Z
-DTSTAMP:20260730T223000Z
-UID:Um6Sl1gftC
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260731T023000Z
-DTEND:20260731T054000Z
-DTSTAMP:20260731T023000Z
-UID:LYr46hhtcl
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1095,6 +957,34 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
+DTSTART:20260729T223000Z
+DTEND:20260730T014000Z
+DTSTAMP:20260729T223000Z
+UID:O7asUJNsuL
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260730T023000Z
+DTEND:20260730T054000Z
+DTSTAMP:20260730T023000Z
+UID:73wx09ilJF
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
 DTSTART:20260803T223000Z
 DTEND:20260804T014000Z
 DTSTAMP:20260803T223000Z
@@ -1113,34 +1003,6 @@ DTSTART:20260804T023000Z
 DTEND:20260804T054000Z
 DTSTAMP:20260804T023000Z
 UID:wYCbu7xam6
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260805T223000Z
-DTEND:20260806T014000Z
-DTSTAMP:20260805T223000Z
-UID:yhTGFuiDJF
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
- uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
- ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260806T023000Z
-DTEND:20260806T054000Z
-DTSTAMP:20260806T023000Z
-UID:K995DIDMEA
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
@@ -1179,6 +1041,34 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
+DTSTART:20260805T223000Z
+DTEND:20260806T014000Z
+DTSTAMP:20260805T223000Z
+UID:yhTGFuiDJF
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260806T023000Z
+DTEND:20260806T054000Z
+DTSTAMP:20260806T023000Z
+UID:K995DIDMEA
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. FORMAT SCHEDULE70mm screenings: J
+ uly 16-26\, July 31-August 2DCP screenings: July 27-30\, August 3-6\n\nhtt
+ ps://www.siff.net/cinema/in-theaters/the-odyssey\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
 DTSTART:20260806T223000Z
 DTEND:20260807T014000Z
 DTSTAMP:20260806T223000Z
@@ -1206,6 +1096,62 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260703T190000Z
+DTEND:20260703T204500Z
+DTSTAMP:20260703T190000Z
+UID:ScXbID7sDT
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 12:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260703T213500Z
+DTEND:20260703T232000Z
+DTSTAMP:20260703T213500Z
+UID:EDUghGRfK0
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 14:50
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260704T001000Z
+DTEND:20260704T015500Z
+DTSTAMP:20260704T001000Z
+UID:vXPEb7YHqY
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 17:25
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART:20260704T024500Z
+DTEND:20260704T043000Z
+DTSTAMP:20260704T024500Z
+UID:heKW9DYHWu
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThis is the rambunctious\, ridicu
+ lous and totally true story of how the Minions conquered Hollywood\, becam
+ e movie stars\, lost everything\, unleashed monsters onto the world and th
+ en banded together to try and save the planet from the mayhem they had jus
+ t created.\n\nhttps://www.siff.net/cinema/in-theaters/minions-and-monsters
+ \n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Little Shop of Horrors (1986)
 DTSTART:20260816T180000Z
 DTEND:20260816T195000Z
@@ -1220,29 +1166,51 @@ DESCRIPTION:Duration: 94 mins (1h34m)\n\nCommunity ScreeningsA peculiar pl
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American Astronaut (35mm) (2001)
-DTSTART:20260822T010000Z
-DTEND:20260822T025000Z
-DTSTAMP:20260822T010000Z
-UID:o9nyTSdErB
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
- ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
-  through a rustic and remote solar system\, unaware that his old friend Pr
- ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
- ters/the-american-astronaut\n\nEstimated start: 18:15
+SUMMARY:BFDI & Inanimate Insanity 2026 Tour
+DTSTART:20260823T193000Z
+DTEND:20260823T214500Z
+DTSTAMP:20260823T193000Z
+UID:myXjPM4DKW
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Jacknjellify LLC &
+  Adamation\, Inc. The BFDI and Inanimate Insanity worlds collide for a on
+ e-of-a-kind tour created especially for the Object Show Community. Experie
+ nce an exclusive live premiere of never-before-seen episodes from BFDI: Th
+ e Power of Two and Inanimate Insanity IV\, shown on the big screen for fan
+ s in attendance.After the screening\, join a live Q&A featuring creators\,
+  directors\, and voice actors from both series\, where audience members ca
+ n ask questions and interact directly with the people behind the shows. At
+ tendees will also have access to purchase event-exclusive merchandise\, ta
+ ke part in themed photo opportunities\, and connect with fellow fans in a 
+ shared celebration of the OSC.VIP ticket-holders gain access to a private 
+ meet-and-greet with featured panelists and receive a limited-edition signe
+ d print showcasing an extended version of the official tour logo. Tour pr
+ oduction services are provided by The A. Noble Group\, Inc.\n\nhttps://www
+ .siff.net/cinema/in-theaters/bfdi-and-inanimate-insanity-2026-tour\n\nEsti
+ mated start: 12:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American Astronaut (35mm) (2001)
-DTSTART:20260822T033000Z
-DTEND:20260822T052000Z
-DTSTAMP:20260822T033000Z
-UID:PXybDQcj35
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
- ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
-  through a rustic and remote solar system\, unaware that his old friend Pr
- ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
- ters/the-american-astronaut\n\nEstimated start: 20:45
+SUMMARY:BFDI & Inanimate Insanity 2026 Tour
+DTSTART:20260824T010000Z
+DTEND:20260824T031500Z
+DTSTAMP:20260824T010000Z
+UID:OyLrNWvNRG
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Jacknjellify LLC &
+  Adamation\, Inc. The BFDI and Inanimate Insanity worlds collide for a on
+ e-of-a-kind tour created especially for the Object Show Community. Experie
+ nce an exclusive live premiere of never-before-seen episodes from BFDI: Th
+ e Power of Two and Inanimate Insanity IV\, shown on the big screen for fan
+ s in attendance.After the screening\, join a live Q&A featuring creators\,
+  directors\, and voice actors from both series\, where audience members ca
+ n ask questions and interact directly with the people behind the shows. At
+ tendees will also have access to purchase event-exclusive merchandise\, ta
+ ke part in themed photo opportunities\, and connect with fellow fans in a 
+ shared celebration of the OSC.VIP ticket-holders gain access to a private 
+ meet-and-greet with featured panelists and receive a limited-edition signe
+ d print showcasing an extended version of the official tour logo. Tour pr
+ oduction services are provided by The A. Noble Group\, Inc.\n\nhttps://www
+ .siff.net/cinema/in-theaters/bfdi-and-inanimate-insanity-2026-tour\n\nEsti
+ mated start: 18:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1294,51 +1262,29 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Jacknjellify LLC &
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BFDI & Inanimate Insanity 2026 Tour
-DTSTART:20260823T193000Z
-DTEND:20260823T214500Z
-DTSTAMP:20260823T193000Z
-UID:myXjPM4DKW
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Jacknjellify LLC &
-  Adamation\, Inc. The BFDI and Inanimate Insanity worlds collide for a on
- e-of-a-kind tour created especially for the Object Show Community. Experie
- nce an exclusive live premiere of never-before-seen episodes from BFDI: Th
- e Power of Two and Inanimate Insanity IV\, shown on the big screen for fan
- s in attendance.After the screening\, join a live Q&A featuring creators\,
-  directors\, and voice actors from both series\, where audience members ca
- n ask questions and interact directly with the people behind the shows. At
- tendees will also have access to purchase event-exclusive merchandise\, ta
- ke part in themed photo opportunities\, and connect with fellow fans in a 
- shared celebration of the OSC.VIP ticket-holders gain access to a private 
- meet-and-greet with featured panelists and receive a limited-edition signe
- d print showcasing an extended version of the official tour logo. Tour pr
- oduction services are provided by The A. Noble Group\, Inc.\n\nhttps://www
- .siff.net/cinema/in-theaters/bfdi-and-inanimate-insanity-2026-tour\n\nEsti
- mated start: 12:45
+SUMMARY:American Astronaut (35mm) (2001)
+DTSTART:20260822T010000Z
+DTEND:20260822T025000Z
+DTSTAMP:20260822T010000Z
+UID:o9nyTSdErB
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
+ ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
+  through a rustic and remote solar system\, unaware that his old friend Pr
+ ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/the-american-astronaut\n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BFDI & Inanimate Insanity 2026 Tour
-DTSTART:20260824T010000Z
-DTEND:20260824T031500Z
-DTSTAMP:20260824T010000Z
-UID:OyLrNWvNRG
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Jacknjellify LLC &
-  Adamation\, Inc. The BFDI and Inanimate Insanity worlds collide for a on
- e-of-a-kind tour created especially for the Object Show Community. Experie
- nce an exclusive live premiere of never-before-seen episodes from BFDI: Th
- e Power of Two and Inanimate Insanity IV\, shown on the big screen for fan
- s in attendance.After the screening\, join a live Q&A featuring creators\,
-  directors\, and voice actors from both series\, where audience members ca
- n ask questions and interact directly with the people behind the shows. At
- tendees will also have access to purchase event-exclusive merchandise\, ta
- ke part in themed photo opportunities\, and connect with fellow fans in a 
- shared celebration of the OSC.VIP ticket-holders gain access to a private 
- meet-and-greet with featured panelists and receive a limited-edition signe
- d print showcasing an extended version of the official tour logo. Tour pr
- oduction services are provided by The A. Noble Group\, Inc.\n\nhttps://www
- .siff.net/cinema/in-theaters/bfdi-and-inanimate-insanity-2026-tour\n\nEsti
- mated start: 18:15
+SUMMARY:American Astronaut (35mm) (2001)
+DTSTART:20260822T033000Z
+DTEND:20260822T052000Z
+DTSTAMP:20260822T033000Z
+UID:PXybDQcj35
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
+ ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
+  through a rustic and remote solar system\, unaware that his old friend Pr
+ ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/the-american-astronaut\n\nEstimated start: 20:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
