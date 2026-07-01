@@ -3,17 +3,30 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260630T143251Z
+LAST-MODIFIED:20260701T153313Z
 BEGIN:VEVENT
 SUMMARY:Tuner
-DTSTART:20260702T020000Z
-DTEND:20260702T040500Z
-DTSTAMP:20260702T020000Z
-UID:GmEso99wZ6
+DTSTART:20260709T231500Z
+DTEND:20260710T012000Z
+DTSTAMP:20260709T231500Z
+UID:iqTENSqSDT
 DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
  s skills for tuning pianos lead him to discover an unexpected aptitude for
   cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 19:15
+ nema/in-theaters/tuner\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260710T020000Z
+DTEND:20260710T035000Z
+DTSTAMP:20260710T020000Z
+UID:mbtNoZKbHu
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -37,8 +50,37 @@ UID:OSEiAZ2ZCC
 DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
   basement of a furniture showroom. Now including an additional 15 minutes
   of new\, theatrically exclusive post-credit bonus footage from Director 
- Kane Parsons.\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everyth
- ing-must-go-edition-w/-extra-footage\n\nEstimated start: 19:30
+ Kane Parsons. **Please note the bonus content will not have open captions
+ **\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everything-must-go
+ -edition-w/-extra-footage\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms Everything Must Go Edition
+DTSTART:20260706T230000Z
+DTEND:20260707T012500Z
+DTSTAMP:20260706T230000Z
+UID:h5o1jw25kC
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
+  basement of a furniture showroom. Now including an additional 15 minutes
+  of new\, theatrically exclusive post-credit bonus footage from Director 
+ Kane Parsons. **Please note the bonus content will not have open captions
+ **\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everything-must-go
+ -edition-w/-extra-footage\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rose of Nevada
+DTSTART:20260707T021500Z
+DTEND:20260707T042500Z
+DTSTAMP:20260707T021500Z
+UID:6YHteMMhJq
+DESCRIPTION:Duration: 114 mins (1h54m)\n\n30 years ago\, the Rose of Nevad
+ a disappeared at sea. Now\, it has returned. Desperate to make ends meet\,
+  two men join its crew and set sail once again\, but soon discover they’
+ ve been transported back into the past\, where they are mistaken for the o
+ riginal crew.\n\nhttps://www.siff.net/cinema/in-theaters/rose-of-nevada\n\
+ nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -62,29 +104,6 @@ UID:OHjPG59Wun
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nA crew of professional shoplifte
  rs take aim at a cutthroat fashion maven. It’s like community service.\n
  \nhttps://www.siff.net/cinema/in-theaters/ilb\n\nEstimated start: 13:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART:20260702T231000Z
-DTEND:20260703T012000Z
-DTSTAMP:20260702T231000Z
-UID:Ke4Hv4RHra
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
-  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
- ers/backrooms\n\nEstimated start: 16:25
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260703T020000Z
-DTEND:20260703T040500Z
-DTSTAMP:20260703T020000Z
-UID:WLWJhd4aBG
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -113,6 +132,283 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  he spark or lit the match that burns it all down?   ** Select Screenings 
  in 35mm! **\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstim
  ated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuner
+DTSTART:20260702T020000Z
+DTEND:20260702T040500Z
+DTSTAMP:20260702T020000Z
+UID:GmEso99wZ6
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
+ s skills for tuning pianos lead him to discover an unexpected aptitude for
+  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/tuner\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms Everything Must Go Edition
+DTSTART:20260705T200000Z
+DTEND:20260705T222500Z
+DTSTAMP:20260705T200000Z
+UID:vWWWhnT39q
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
+  basement of a furniture showroom. Now including an additional 15 minutes
+  of new\, theatrically exclusive post-credit bonus footage from Director 
+ Kane Parsons. **Please note the bonus content will not have open captions
+ **\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everything-must-go
+ -edition-w/-extra-footage\n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms Everything Must Go Edition
+DTSTART:20260706T020000Z
+DTEND:20260706T042500Z
+DTSTAMP:20260706T020000Z
+UID:v33R4KGMx4
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
+  basement of a furniture showroom. Now including an additional 15 minutes
+  of new\, theatrically exclusive post-credit bonus footage from Director 
+ Kane Parsons. **Please note the bonus content will not have open captions
+ **\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everything-must-go
+ -edition-w/-extra-footage\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuner
+DTSTART:20260705T230000Z
+DTEND:20260706T010500Z
+DTSTAMP:20260705T230000Z
+UID:xBk4gimbER
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
+ s skills for tuning pianos lead him to discover an unexpected aptitude for
+  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/tuner\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms Everything Must Go Edition
+DTSTART:20260708T230000Z
+DTEND:20260709T012500Z
+DTSTAMP:20260708T230000Z
+UID:gt40P1MaiY
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
+  basement of a furniture showroom. Now including an additional 15 minutes
+  of new\, theatrically exclusive post-credit bonus footage from Director 
+ Kane Parsons. **Please note the bonus content will not have open captions
+ **\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everything-must-go
+ -edition-w/-extra-footage\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms Everything Must Go Edition
+DTSTART:20260709T021500Z
+DTEND:20260709T044000Z
+DTSTAMP:20260709T021500Z
+UID:20nLZpWCVQ
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
+  basement of a furniture showroom. Now including an additional 15 minutes
+  of new\, theatrically exclusive post-credit bonus footage from Director 
+ Kane Parsons. **Please note the bonus content will not have open captions
+ **\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everything-must-go
+ -edition-w/-extra-footage\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuner
+DTSTART:20260703T231500Z
+DTEND:20260704T012000Z
+DTSTAMP:20260703T231500Z
+UID:R6MJ49yt3c
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
+ s skills for tuning pianos lead him to discover an unexpected aptitude for
+  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/tuner\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuner
+DTSTART:20260704T021500Z
+DTEND:20260704T042000Z
+DTSTAMP:20260704T021500Z
+UID:iQjfovJlk5
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
+ s skills for tuning pianos lead him to discover an unexpected aptitude for
+  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/tuner\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260711T183000Z
+DTEND:20260711T203500Z
+DTSTAMP:20260711T183000Z
+UID:gbG3DeuWqE
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 11:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260711T211500Z
+DTEND:20260711T232000Z
+DTSTAMP:20260711T211500Z
+UID:cbhbFdJSTl
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 14:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260712T000000Z
+DTEND:20260712T020500Z
+DTSTAMP:20260712T000000Z
+UID:DEKhPwmoYI
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 17:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260712T024500Z
+DTEND:20260712T045000Z
+DTSTAMP:20260712T024500Z
+UID:XYvYf7kp40
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260714T234500Z
+DTEND:20260715T015000Z
+DTSTAMP:20260714T234500Z
+UID:hv0ADHaR3r
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260715T023000Z
+DTEND:20260715T043500Z
+DTSTAMP:20260715T023000Z
+UID:dxIG94OJlN
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Backrooms
+DTSTART:20260702T231000Z
+DTEND:20260703T012000Z
+DTSTAMP:20260702T231000Z
+UID:Ke4Hv4RHra
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA strange doorway appears in the
+  basement of a furniture showroom.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/backrooms\n\nEstimated start: 16:25
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuner
+DTSTART:20260703T020000Z
+DTEND:20260703T040500Z
+DTSTAMP:20260703T020000Z
+UID:WLWJhd4aBG
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
+ s skills for tuning pianos lead him to discover an unexpected aptitude for
+  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
+ nema/in-theaters/tuner\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260715T234500Z
+DTEND:20260716T015000Z
+DTSTAMP:20260715T234500Z
+UID:7ABSKQTuIj
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260716T023000Z
+DTEND:20260716T043500Z
+DTSTAMP:20260716T023000Z
+UID:tGREQEJrFZ
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260713T234500Z
+DTEND:20260714T015000Z
+DTSTAMP:20260713T234500Z
+UID:Nv3BGU8OqQ
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 17:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260714T023000Z
+DTEND:20260714T043500Z
+DTSTAMP:20260714T023000Z
+UID:mtUMQnKkxd
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -177,234 +473,6 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260711T183000Z
-DTEND:20260711T203500Z
-DTSTAMP:20260711T183000Z
-UID:gbG3DeuWqE
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 11:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260711T211500Z
-DTEND:20260711T232000Z
-DTSTAMP:20260711T211500Z
-UID:cbhbFdJSTl
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 14:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260712T000000Z
-DTEND:20260712T020500Z
-DTSTAMP:20260712T000000Z
-UID:DEKhPwmoYI
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 17:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260712T024500Z
-DTEND:20260712T045000Z
-DTSTAMP:20260712T024500Z
-UID:XYvYf7kp40
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms Everything Must Go Edition
-DTSTART:20260708T230000Z
-DTEND:20260709T012500Z
-DTSTAMP:20260708T230000Z
-UID:gt40P1MaiY
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
-  basement of a furniture showroom. Now including an additional 15 minutes
-  of new\, theatrically exclusive post-credit bonus footage from Director 
- Kane Parsons.\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everyth
- ing-must-go-edition-w/-extra-footage\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms Everything Must Go Edition
-DTSTART:20260709T021500Z
-DTEND:20260709T044000Z
-DTSTAMP:20260709T021500Z
-UID:20nLZpWCVQ
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
-  basement of a furniture showroom. Now including an additional 15 minutes
-  of new\, theatrically exclusive post-credit bonus footage from Director 
- Kane Parsons.\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everyth
- ing-must-go-edition-w/-extra-footage\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms Everything Must Go Edition
-DTSTART:20260706T230000Z
-DTEND:20260707T012500Z
-DTSTAMP:20260706T230000Z
-UID:h5o1jw25kC
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
-  basement of a furniture showroom. Now including an additional 15 minutes
-  of new\, theatrically exclusive post-credit bonus footage from Director 
- Kane Parsons.\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everyth
- ing-must-go-edition-w/-extra-footage\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose of Nevada
-DTSTART:20260707T021500Z
-DTEND:20260707T042500Z
-DTSTAMP:20260707T021500Z
-UID:6YHteMMhJq
-DESCRIPTION:Duration: 114 mins (1h54m)\n\n30 years ago\, the Rose of Nevad
- a disappeared at sea. Now\, it has returned. Desperate to make ends meet\,
-  two men join its crew and set sail once again\, but soon discover they’
- ve been transported back into the past\, where they are mistaken for the o
- riginal crew.\n\nhttps://www.siff.net/cinema/in-theaters/rose-of-nevada\n\
- nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260709T231500Z
-DTEND:20260710T012000Z
-DTSTAMP:20260709T231500Z
-UID:iqTENSqSDT
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260710T020000Z
-DTEND:20260710T035000Z
-DTSTAMP:20260710T020000Z
-UID:mbtNoZKbHu
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260714T234500Z
-DTEND:20260715T015000Z
-DTSTAMP:20260714T234500Z
-UID:hv0ADHaR3r
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260715T023000Z
-DTEND:20260715T043500Z
-DTSTAMP:20260715T023000Z
-UID:dxIG94OJlN
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260713T234500Z
-DTEND:20260714T015000Z
-DTSTAMP:20260713T234500Z
-UID:Nv3BGU8OqQ
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260714T023000Z
-DTEND:20260714T043500Z
-DTSTAMP:20260714T023000Z
-UID:mtUMQnKkxd
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260715T234500Z
-DTEND:20260716T015000Z
-DTSTAMP:20260715T234500Z
-UID:7ABSKQTuIj
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 17:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260716T023000Z
-DTEND:20260716T043500Z
-DTSTAMP:20260716T023000Z
-UID:tGREQEJrFZ
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
 DTSTART:20260716T234500Z
 DTEND:20260717T015000Z
 DTSTAMP:20260716T234500Z
@@ -431,92 +499,6 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
  \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
  tart: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms Everything Must Go Edition
-DTSTART:20260705T200000Z
-DTEND:20260705T222500Z
-DTSTAMP:20260705T200000Z
-UID:vWWWhnT39q
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
-  basement of a furniture showroom. Now including an additional 15 minutes
-  of new\, theatrically exclusive post-credit bonus footage from Director 
- Kane Parsons.\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everyth
- ing-must-go-edition-w/-extra-footage\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms Everything Must Go Edition
-DTSTART:20260706T020000Z
-DTEND:20260706T042500Z
-DTSTAMP:20260706T020000Z
-UID:v33R4KGMx4
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nA strange doorway appears in the
-  basement of a furniture showroom. Now including an additional 15 minutes
-  of new\, theatrically exclusive post-credit bonus footage from Director 
- Kane Parsons.\n\nhttps://www.siff.net/cinema/in-theaters/backrooms-everyth
- ing-must-go-edition-w/-extra-footage\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260705T230000Z
-DTEND:20260706T010500Z
-DTSTAMP:20260705T230000Z
-UID:xBk4gimbER
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260630T230000Z
-DTEND:20260701T010500Z
-DTSTAMP:20260630T230000Z
-UID:BrFy8vVivl
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260701T020000Z
-DTEND:20260701T040500Z
-DTSTAMP:20260701T020000Z
-UID:eucbG9IO1M
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260703T231500Z
-DTEND:20260704T012000Z
-DTSTAMP:20260703T231500Z
-UID:R6MJ49yt3c
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuner
-DTSTART:20260704T021500Z
-DTEND:20260704T042000Z
-DTSTAMP:20260704T021500Z
-UID:iQjfovJlk5
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nA gifted piano tuner's meticulou
- s skills for tuning pianos lead him to discover an unexpected aptitude for
-  cracking safes\, turning his life upside down.\n\nhttps://www.siff.net/ci
- nema/in-theaters/tuner\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
