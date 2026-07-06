@@ -3,61 +3,33 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260705T151539Z
+LAST-MODIFIED:20260706T144445Z
 BEGIN:VEVENT
 SUMMARY:Rose of Nevada
-DTSTART:20260705T201500Z
-DTEND:20260705T222500Z
-DTSTAMP:20260705T201500Z
-UID:OqSlJMghBb
+DTSTART:20260707T233000Z
+DTEND:20260708T014000Z
+DTSTAMP:20260707T233000Z
+UID:fiDeEXbvD6
 DESCRIPTION:Duration: 114 mins (1h54m)\n\n30 years ago\, the Rose of Nevad
  a disappeared at sea. Now\, it has returned. Desperate to make ends meet\,
   two men join its crew and set sail once again\, but soon discover they’
  ve been transported back into the past\, where they are mistaken for the o
  riginal crew.\n\nhttps://www.siff.net/cinema/in-theaters/rose-of-nevada\n\
- nEstimated start: 13:30
+ nEstimated start: 16:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rose of Nevada
-DTSTART:20260705T231500Z
-DTEND:20260706T012500Z
-DTSTAMP:20260705T231500Z
-UID:fUptf3kunN
+DTSTART:20260708T023000Z
+DTEND:20260708T044000Z
+DTSTAMP:20260708T023000Z
+UID:r8jc1pBqfp
 DESCRIPTION:Duration: 114 mins (1h54m)\n\n30 years ago\, the Rose of Nevad
  a disappeared at sea. Now\, it has returned. Desperate to make ends meet\,
   two men join its crew and set sail once again\, but soon discover they’
  ve been transported back into the past\, where they are mistaken for the o
  riginal crew.\n\nhttps://www.siff.net/cinema/in-theaters/rose-of-nevada\n\
- nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose of Nevada
-DTSTART:20260706T021500Z
-DTEND:20260706T042500Z
-DTSTAMP:20260706T021500Z
-UID:dHnJxTgenk
-DESCRIPTION:Duration: 114 mins (1h54m)\n\n30 years ago\, the Rose of Nevad
- a disappeared at sea. Now\, it has returned. Desperate to make ends meet\,
-  two men join its crew and set sail once again\, but soon discover they’
- ve been transported back into the past\, where they are mistaken for the o
- riginal crew.\n\nhttps://www.siff.net/cinema/in-theaters/rose-of-nevada\n\
- nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fried Green Tomatoes (1991)
-DTSTART:20260707T013000Z
-DTEND:20260707T035500Z
-DTSTAMP:20260707T013000Z
-UID:B1RIeZowj3
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nSIFF Movie Club Towanda! Amidst 
- her own personality crisis\, a southern housewife meets an outgoing old wo
- man who tells her the story of Idgie Threadgoode and Ruth Jamison\, two yo
- ung women who experienced hardships and love in 1920s Whistle Stop\, Alaba
- ma.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/fried-gree
- n-tomatoes\n\nEstimated start: 18:45
+ nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -121,33 +93,17 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260713T230000Z
-DTEND:20260714T010500Z
-DTSTAMP:20260713T230000Z
-UID:A8ZtU6g0SX
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
-  June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
- \nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260714T020000Z
-DTEND:20260714T040500Z
-DTSTAMP:20260714T020000Z
-UID:2ipIheop9w
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
-  June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
- \nEstimated start: 19:15
+SUMMARY:Fried Green Tomatoes (1991)
+DTSTART:20260707T013000Z
+DTEND:20260707T035500Z
+DTSTAMP:20260707T013000Z
+UID:B1RIeZowj3
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nSIFF Movie Club Towanda! Amidst 
+ her own personality crisis\, a southern housewife meets an outgoing old wo
+ man who tells her the story of Idgie Threadgoode and Ruth Jamison\, two yo
+ ung women who experienced hardships and love in 1920s Whistle Stop\, Alaba
+ ma.\n\nhttps://www.siff.net/programs-and-events/siff-movie-club/fried-gree
+ n-tomatoes\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -179,6 +135,36 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\n30 years ago\, the Rose of Nevad
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260710T232000Z
+DTEND:20260711T012500Z
+DTSTAMP:20260710T232000Z
+UID:9ZsFuJkTNv
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 16:35
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260711T023000Z
+DTEND:20260711T043500Z
+DTSTAMP:20260711T023000Z
+UID:dcBSpx5K2x
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
+ \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
+ tart: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Invite
 DTSTART:20260714T230000Z
 DTEND:20260715T010500Z
@@ -206,6 +192,65 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
   June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
  \nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260713T230000Z
+DTEND:20260714T010500Z
+DTSTAMP:20260713T230000Z
+UID:A8ZtU6g0SX
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?   ** Select Screenings 
+ in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
+  June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
+ \nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260714T020000Z
+DTEND:20260714T040500Z
+DTSTAMP:20260714T020000Z
+UID:2ipIheop9w
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?   ** Select Screenings 
+ in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
+  June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
+ \nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rose of Nevada
+DTSTART:20260709T230000Z
+DTEND:20260710T011000Z
+DTSTAMP:20260709T230000Z
+UID:6OoJxZIQWT
+DESCRIPTION:Duration: 114 mins (1h54m)\n\n30 years ago\, the Rose of Nevad
+ a disappeared at sea. Now\, it has returned. Desperate to make ends meet\,
+  two men join its crew and set sail once again\, but soon discover they’
+ ve been transported back into the past\, where they are mistaken for the o
+ riginal crew.\n\nhttps://www.siff.net/cinema/in-theaters/rose-of-nevada\n\
+ nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260710T023000Z
+DTEND:20260710T043500Z
+DTSTAMP:20260710T023000Z
+UID:dB9O9Iofhs
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?   ** Select Screenings 
+ in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
+  June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
+ \nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -270,36 +315,6 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
-DTSTART:20260716T230000Z
-DTEND:20260717T010500Z
-DTSTAMP:20260716T230000Z
-UID:cdniqWds8d
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
-  June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
- \nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260717T020000Z
-DTEND:20260717T040500Z
-DTSTAMP:20260717T020000Z
-UID:Zn09iaZdGo
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
-  June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
- \nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
 DTSTART:20260715T230000Z
 DTEND:20260716T010500Z
 DTSTAMP:20260715T230000Z
@@ -329,31 +344,33 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rose of Nevada
-DTSTART:20260707T233000Z
-DTEND:20260708T014000Z
-DTSTAMP:20260707T233000Z
-UID:fiDeEXbvD6
-DESCRIPTION:Duration: 114 mins (1h54m)\n\n30 years ago\, the Rose of Nevad
- a disappeared at sea. Now\, it has returned. Desperate to make ends meet\,
-  two men join its crew and set sail once again\, but soon discover they’
- ve been transported back into the past\, where they are mistaken for the o
- riginal crew.\n\nhttps://www.siff.net/cinema/in-theaters/rose-of-nevada\n\
- nEstimated start: 16:45
+SUMMARY:The Invite
+DTSTART:20260716T230000Z
+DTEND:20260717T010500Z
+DTSTAMP:20260716T230000Z
+UID:cdniqWds8d
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?   ** Select Screenings 
+ in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
+  June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
+ \nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rose of Nevada
-DTSTART:20260708T023000Z
-DTEND:20260708T044000Z
-DTSTAMP:20260708T023000Z
-UID:r8jc1pBqfp
-DESCRIPTION:Duration: 114 mins (1h54m)\n\n30 years ago\, the Rose of Nevad
- a disappeared at sea. Now\, it has returned. Desperate to make ends meet\,
-  two men join its crew and set sail once again\, but soon discover they’
- ve been transported back into the past\, where they are mistaken for the o
- riginal crew.\n\nhttps://www.siff.net/cinema/in-theaters/rose-of-nevada\n\
- nEstimated start: 19:45
+SUMMARY:The Invite
+DTSTART:20260717T020000Z
+DTEND:20260717T040500Z
+DTSTAMP:20260717T020000Z
+UID:Zn09iaZdGo
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?   ** Select Screenings 
+ in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
+  June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
+ \nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -413,32 +430,17 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nLakeith Stanfield\, Tessa Thomps
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rose of Nevada
-DTSTART:20260709T230000Z
-DTEND:20260710T011000Z
-DTSTAMP:20260709T230000Z
-UID:6OoJxZIQWT
-DESCRIPTION:Duration: 114 mins (1h54m)\n\n30 years ago\, the Rose of Nevad
- a disappeared at sea. Now\, it has returned. Desperate to make ends meet\,
-  two men join its crew and set sail once again\, but soon discover they’
- ve been transported back into the past\, where they are mistaken for the o
- riginal crew.\n\nhttps://www.siff.net/cinema/in-theaters/rose-of-nevada\n\
- nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260710T023000Z
-DTEND:20260710T043500Z
-DTSTAMP:20260710T023000Z
-UID:dB9O9Iofhs
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, June 9 at 7:30pmSaturday\, June 11 at 7:30pmSunday\,
-  June 12 at 4:35pm\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n
- \nEstimated start: 19:45
+SUMMARY:Network (1976)
+DTSTART:20260801T230000Z
+DTEND:20260802T012000Z
+DTSTAMP:20260801T230000Z
+UID:qPcxpRcy4H
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nThis media satire\, directed by 
+ Sidney Lumet from a brilliantly incisive script by Paddy Chayefsky\, is an
+  X-ray of the corrupted soul of a corporate-dominated America\, startlingl
+ y prescient in its anticipation of today’s outrage-driven news cycle. 50
+ th anniversary screening.\n\nhttps://www.siff.net/programs-and-events/art-
+ house-theater-day-2026/network\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -454,17 +456,29 @@ DESCRIPTION:Duration: 97 mins (1h37m)\n\nAt Sully Boyar's car wash\, every
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Network (1976)
-DTSTART:20260801T230000Z
-DTEND:20260802T012000Z
-DTSTAMP:20260801T230000Z
-UID:qPcxpRcy4H
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nThis media satire\, directed by 
- Sidney Lumet from a brilliantly incisive script by Paddy Chayefsky\, is an
-  X-ray of the corrupted soul of a corporate-dominated America\, startlingl
- y prescient in its anticipation of today’s outrage-driven news cycle. 50
- th anniversary screening.\n\nhttps://www.siff.net/programs-and-events/art-
- house-theater-day-2026/network\n\nEstimated start: 16:15
+SUMMARY:The Ipcress File (35mm) (1965)
+DTSTART:20260806T020000Z
+DTEND:20260806T040500Z
+DTSTAMP:20260806T020000Z
+UID:ShhCC0bMs7
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nSpy thriller in which intelligen
+ ce agent Harry Palmer (Michael Caine) is plunged into the shabby and treac
+ herous world of counter-espionage as he uncovers a bizarre brain drain amo
+ ng scientists. Based on the novel by Len Deighton.\n\nhttps://www.siff.net
+ /programs-and-events/cold-war-summer/the-ipcress-file\n\nEstimated start: 
+ 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest 2026
+DTSTART:20260808T200000Z
+DTEND:20260808T214500Z
+DTSTAMP:20260808T200000Z
+UID:xidrhTpoad
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
+  is back with screenings in theaters across the USA and around the world.\
+ n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
+ art: 13:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -481,48 +495,6 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2026
-DTSTART:20260808T200000Z
-DTEND:20260808T214500Z
-DTSTAMP:20260808T200000Z
-UID:xidrhTpoad
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
-  is back with screenings in theaters across the USA and around the world.\
- n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
- art: 13:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260710T232000Z
-DTEND:20260711T012500Z
-DTSTAMP:20260710T232000Z
-UID:9ZsFuJkTNv
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 16:35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260711T023000Z
-DTEND:20260711T043500Z
-DTSTAMP:20260711T023000Z
-UID:dcBSpx5K2x
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.\n
- \nhttps://www.siff.net/cinema/in-theaters/maddies-secret-yr\n\nEstimated s
- tart: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2026
 DTSTART:20260808T020000Z
 DTEND:20260808T034500Z
 DTSTAMP:20260808T020000Z
@@ -531,20 +503,6 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
   is back with screenings in theaters across the USA and around the world.\
  n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated st
  art: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Ipcress File (35mm) (1965)
-DTSTART:20260806T020000Z
-DTEND:20260806T040500Z
-DTSTAMP:20260806T020000Z
-UID:ShhCC0bMs7
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nSpy thriller in which intelligen
- ce agent Harry Palmer (Michael Caine) is plunged into the shabby and treac
- herous world of counter-espionage as he uncovers a bizarre brain drain amo
- ng scientists. Based on the novel by Len Deighton.\n\nhttps://www.siff.net
- /programs-and-events/cold-war-summer/the-ipcress-file\n\nEstimated start: 
- 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
