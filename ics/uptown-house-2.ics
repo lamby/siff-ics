@@ -3,73 +3,39 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260715T151255Z
+LAST-MODIFIED:20260716T160648Z
 BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260715T234500Z
-DTEND:20260716T015000Z
-DTSTAMP:20260715T234500Z
-UID:7ABSKQTuIj
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
- om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
- ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
- 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
- /in-theaters/maddies-secret-yr\n\nEstimated start: 17:00
+SUMMARY:The Invite
+DTSTART:20260725T201500Z
+DTEND:20260725T222000Z
+DTSTAMP:20260725T201500Z
+UID:uZYJkNq5IQ
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 13:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260725T231500Z
+DTEND:20260726T012000Z
+DTSTAMP:20260725T231500Z
+UID:Wag2Qr2XE5
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260716T023000Z
-DTEND:20260716T043500Z
-DTSTAMP:20260716T023000Z
-UID:tGREQEJrFZ
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
- om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
- ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
- 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
- /in-theaters/maddies-secret-yr\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260719T210000Z
-DTEND:20260719T225000Z
-DTSTAMP:20260719T210000Z
-UID:5vxnJOY7QD
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass
-DTSTART:20260720T024500Z
-DTEND:20260720T043500Z
-DTSTAMP:20260720T024500Z
-UID:AxRDhhYRKS
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
- try has a “free celebrity pass” agreement with her fiancé — who use
- s it. With her relationship in crisis\, Gail sets out on an epic journey t
- hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
- aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260721T231500Z
-DTEND:20260722T012000Z
-DTSTAMP:20260721T231500Z
-UID:EKs5d4cVIA
+DTSTART:20260720T231500Z
+DTEND:20260721T012000Z
+DTSTAMP:20260720T231500Z
+UID:KP6rWeV3JW
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
@@ -83,10 +49,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260722T021500Z
-DTEND:20260722T042000Z
-DTSTAMP:20260722T021500Z
-UID:RwpP2Nqn1M
+DTSTART:20260721T021500Z
+DTEND:20260721T042000Z
+DTSTAMP:20260721T021500Z
+UID:MYRjLMBWI5
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
@@ -99,155 +65,6 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260718T203000Z
-DTEND:20260718T223500Z
-DTSTAMP:20260718T203000Z
-UID:lFqg6FkHQf
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
- om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
- ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
- 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
- /in-theaters/maddies-secret-yr\n\nEstimated start: 13:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260718T231500Z
-DTEND:20260719T012000Z
-DTSTAMP:20260718T231500Z
-UID:mcXcyiZxRj
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
- om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
- ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
- 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
- /in-theaters/maddies-secret-yr\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260719T020000Z
-DTEND:20260719T040500Z
-DTSTAMP:20260719T020000Z
-UID:MI2QNXhTjY
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
- om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
- ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
- 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
- /in-theaters/maddies-secret-yr\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260717T231500Z
-DTEND:20260718T012000Z
-DTSTAMP:20260717T231500Z
-UID:3Dm3nl0C2m
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
- om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
- ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
- 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
- /in-theaters/maddies-secret-yr\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260718T020000Z
-DTEND:20260718T040500Z
-DTSTAMP:20260718T020000Z
-UID:k7AgIUAsRm
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
- om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
- ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
- 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
- /in-theaters/maddies-secret-yr\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260724T231500Z
-DTEND:20260725T012000Z
-DTSTAMP:20260724T231500Z
-UID:Tl1ofiv6EK
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, July 9 at 7:30pmSaturday\, July 11 at 4:35pm & 7:30p
- mSunday\, July 12 at 1:35pm & 4:35pm Wednesday\, July 15 at 4:00pm & 7:00p
- m\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstimated start
- : 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260725T023000Z
-DTEND:20260725T043500Z
-DTSTAMP:20260725T023000Z
-UID:sRibJ8vwPB
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, July 9 at 7:30pmSaturday\, July 11 at 4:35pm & 7:30p
- mSunday\, July 12 at 1:35pm & 4:35pm Wednesday\, July 15 at 4:00pm & 7:00p
- m\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstimated start
- : 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260725T201500Z
-DTEND:20260725T222000Z
-DTSTAMP:20260725T201500Z
-UID:uZYJkNq5IQ
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, July 9 at 7:30pmSaturday\, July 11 at 4:35pm & 7:30p
- mSunday\, July 12 at 1:35pm & 4:35pm Wednesday\, July 15 at 4:00pm & 7:00p
- m\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstimated start
- : 13:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260725T231500Z
-DTEND:20260726T012000Z
-DTSTAMP:20260725T231500Z
-UID:Wag2Qr2XE5
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, July 9 at 7:30pmSaturday\, July 11 at 4:35pm & 7:30p
- mSunday\, July 12 at 1:35pm & 4:35pm Wednesday\, July 15 at 4:00pm & 7:00p
- m\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstimated start
- : 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Invite
 DTSTART:20260723T021500Z
 DTEND:20260723T042000Z
@@ -256,11 +73,8 @@ UID:umuJlZpmQj
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, July 9 at 7:30pmSaturday\, July 11 at 4:35pm & 7:30p
- mSunday\, July 12 at 1:35pm & 4:35pm Wednesday\, July 15 at 4:00pm & 7:00p
- m\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstimated start
- : 19:30
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -316,6 +130,177 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
+DTSTART:20260724T231500Z
+DTEND:20260725T012000Z
+DTSTAMP:20260724T231500Z
+UID:Tl1ofiv6EK
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260725T023000Z
+DTEND:20260725T043500Z
+DTSTAMP:20260725T023000Z
+UID:sRibJ8vwPB
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260721T231500Z
+DTEND:20260722T012000Z
+DTSTAMP:20260721T231500Z
+UID:EKs5d4cVIA
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
+ om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
+ ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
+ 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
+ /in-theaters/maddies-secret-yr\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260722T021500Z
+DTEND:20260722T042000Z
+DTSTAMP:20260722T021500Z
+UID:RwpP2Nqn1M
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
+ om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
+ ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
+ 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
+ /in-theaters/maddies-secret-yr\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260719T210000Z
+DTEND:20260719T225000Z
+DTSTAMP:20260719T210000Z
+UID:5vxnJOY7QD
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gail Daughtry and the Celebrity Sex Pass
+DTSTART:20260720T024500Z
+DTEND:20260720T043500Z
+DTSTAMP:20260720T024500Z
+UID:AxRDhhYRKS
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nMidwestern bride-to-be Gail Daugh
+ try has a “free celebrity pass” agreement with her fiancé — who use
+ s it. With her relationship in crisis\, Gail sets out on an epic journey t
+ hrough Hollywood to even the scales.\n\nhttps://www.siff.net/cinema/in-the
+ aters/gail-daughtry-and-the-celebrity-sex-pass\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260717T231500Z
+DTEND:20260718T012000Z
+DTSTAMP:20260717T231500Z
+UID:3Dm3nl0C2m
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
+ om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
+ ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
+ 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
+ /in-theaters/maddies-secret-yr\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260718T020000Z
+DTEND:20260718T040500Z
+DTSTAMP:20260718T020000Z
+UID:k7AgIUAsRm
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
+ om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
+ ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
+ 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
+ /in-theaters/maddies-secret-yr\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260718T203000Z
+DTEND:20260718T223500Z
+DTSTAMP:20260718T203000Z
+UID:lFqg6FkHQf
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
+ om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
+ ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
+ 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
+ /in-theaters/maddies-secret-yr\n\nEstimated start: 13:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260718T231500Z
+DTEND:20260719T012000Z
+DTSTAMP:20260718T231500Z
+UID:mcXcyiZxRj
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
+ om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
+ ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
+ 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
+ /in-theaters/maddies-secret-yr\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260719T020000Z
+DTEND:20260719T040500Z
+DTSTAMP:20260719T020000Z
+UID:MI2QNXhTjY
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
+ om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
+ ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
+ 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
+ /in-theaters/maddies-secret-yr\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
 DTSTART:20260726T201500Z
 DTEND:20260726T222000Z
 DTSTAMP:20260726T201500Z
@@ -323,11 +308,8 @@ UID:dF9Z7XXTwh
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, July 9 at 7:30pmSaturday\, July 11 at 4:35pm & 7:30p
- mSunday\, July 12 at 1:35pm & 4:35pm Wednesday\, July 15 at 4:00pm & 7:00p
- m\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstimated start
- : 13:30
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 13:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +321,8 @@ UID:WNn5qxxggF
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, July 9 at 7:30pmSaturday\, July 11 at 4:35pm & 7:30p
- mSunday\, July 12 at 1:35pm & 4:35pm Wednesday\, July 15 at 4:00pm & 7:00p
- m\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstimated start
- : 16:30
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -355,11 +334,8 @@ UID:KmFyV1r6cC
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?   ** Select Screenings 
- in 35mm! **Thursday\, July 9 at 7:30pmSaturday\, July 11 at 4:35pm & 7:30p
- mSunday\, July 12 at 1:35pm & 4:35pm Wednesday\, July 15 at 4:00pm & 7:00p
- m\n\nhttps://www.siff.net/cinema/in-theaters/the-invite\n\nEstimated start
- : 19:45
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -397,28 +373,27 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260720T231500Z
-DTEND:20260721T012000Z
-DTSTAMP:20260720T231500Z
-UID:KP6rWeV3JW
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
- an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
- om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
- ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
- 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
- /in-theaters/maddies-secret-yr\n\nEstimated start: 16:30
+SUMMARY:Mary Oliver: Saved by the Beauty of the World
+DTSTART:20260729T224500Z
+DTEND:20260730T003500Z
+DTSTAMP:20260729T224500Z
+UID:FBfID4cYTI
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
+  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
+ ueer and out\, but intensely private. Her poems inspire liberals and conse
+ rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
+ ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
+ nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
+ , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
+ r-saved-by-the-beauty-of-the-world\n\nEstimated start: 16:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
-DTSTART:20260721T021500Z
-DTEND:20260721T042000Z
-DTSTAMP:20260721T021500Z
-UID:MYRjLMBWI5
+DTSTART:20260728T224500Z
+DTEND:20260729T005000Z
+DTSTAMP:20260728T224500Z
+UID:OKtBMH61CU
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
@@ -427,7 +402,40 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
  ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
  8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
- /in-theaters/maddies-secret-yr\n\nEstimated start: 19:30
+ /in-theaters/maddies-secret-yr\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Oliver: Saved by the Beauty of the World
+DTSTART:20260727T224500Z
+DTEND:20260728T003500Z
+DTSTAMP:20260727T224500Z
+UID:q38kOiXrIJ
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
+  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
+ ueer and out\, but intensely private. Her poems inspire liberals and conse
+ rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
+ ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
+ nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
+ , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
+ r-saved-by-the-beauty-of-the-world\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260730T233000Z
+DTEND:20260731T013500Z
+DTSTAMP:20260730T233000Z
+UID:hligwYA7XQ
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  Join John Early for 
+ an introduction and post-film Q&A at both showtimes on Friday\, July 10.Fr
+ om July 17 to 19\, all 7:00pm screenings will include a pre-recorded Q&A w
+ ith John Early and one of these special guests:July 17 - Amy SedarisJuly 1
+ 8 - Hannah EinbinderJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema
+ /in-theaters/maddies-secret-yr\n\nEstimated start: 16:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
