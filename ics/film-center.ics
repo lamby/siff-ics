@@ -3,59 +3,18 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260721T152843Z
+LAST-MODIFIED:20260722T125942Z
 BEGIN:VEVENT
 SUMMARY:NT Live: The Playboy of the Western World
-DTSTART:20260729T013000Z
-DTEND:20260729T041500Z
-DTSTAMP:20260729T013000Z
-UID:33G3bgWhDB
+DTSTART:20260728T013000Z
+DTEND:20260728T041500Z
+DTSTAMP:20260728T013000Z
+UID:qOr2t8ECHq
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
   joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
  s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
  ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
  nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fisherman
-DTSTART:20260723T000000Z
-DTEND:20260723T020500Z
-DTSTAMP:20260723T000000Z
-UID:o8j8cPGlp0
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nThe Popcorn ListIn this Venice F
- ilm Festival-winning feast of magical realist comedy — aging Ghanaian At
- ta Oko sets his sights on finally having his own boat and becoming the env
- y of his village\, he’ll just need help from a dead talking fish.\n\nhtt
- ps://www.siff.net/programs-and-events/the-popcorn-list/the-fisherman\n\nEs
- timated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F*cktoys
-DTSTART:20260723T023000Z
-DTEND:20260723T043500Z
-DTSTAMP:20260723T023000Z
-UID:O7orESIWqt
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nThe Popcorn ListA cursed young w
- oman sets out on a wild fundraising adventure through Trashtown\, USA\, af
- ter she’s told by multiple psychics that she can break the curse by payi
- ng them $1000.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-lis
- t/fucktoys\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Granite Rapids Moon
-DTSTART:20260722T013000Z
-DTEND:20260722T032000Z
-DTSTAMP:20260722T013000Z
-UID:AoEOeejDhF
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nAfter receiving a cryptic card on
-  the date of his daughter's ninth birthday\, a happily married man sets of
- f on a solo backpacking trip through the Grand Canyon in an attempt to fin
- d peace with a decision from his past before it unravels his future.\n\nht
- tps://www.siff.net/cinema/in-theaters/granite-rapids-moon\n\nEstimated sta
- rt: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -74,16 +33,68 @@ DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Honeyjoon
+DTSTART:20260730T013000Z
+DTEND:20260730T030000Z
+DTSTAMP:20260730T013000Z
+UID:K8NW9LBeUh
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
+ une and her Persian mom Lela travel to the Azores islands for a grief anni
+ versary\, with contrasting ways of coping. A charming surfer brings balanc
+ e as they (and we) surf the waves of life\, loss\, flirting… an unforget
+ table ride. Director Lilian T. Mehrel scheduled to attend for a post-film
+  Q&A on July 17\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEs
+ timated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: The Playboy of the Western World
-DTSTART:20260728T013000Z
-DTEND:20260728T041500Z
-DTSTAMP:20260728T013000Z
-UID:qOr2t8ECHq
+DTSTART:20260729T013000Z
+DTEND:20260729T041500Z
+DTSTAMP:20260729T013000Z
+UID:33G3bgWhDB
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
   joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
  s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
  ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
  nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Playboy of the Western World
+DTSTART:20260726T210000Z
+DTEND:20260726T234500Z
+DTSTAMP:20260726T210000Z
+UID:78uHfrUEoT
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
+  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
+ s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
+ ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
+ nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emerald City Short Film Festival
+DTSTART:20260801T213000Z
+DTEND:20260802T001500Z
+DTSTAMP:20260801T213000Z
+UID:jfVLqkJOD8
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
+ Film Festival. A collection of short films created by Washington state fil
+ mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
+ m-festival\n\nEstimated start: 14:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emerald City Short Film Festival
+DTSTART:20260802T013000Z
+DTEND:20260802T041500Z
+DTSTAMP:20260802T013000Z
+UID:pCdkScZFG9
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
+ Film Festival. A collection of short films created by Washington state fil
+ mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
+ m-festival\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -129,35 +140,43 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nHorsegirls is the story of 22-y
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Emerald City Short Film Festival
-DTSTART:20260801T213000Z
-DTEND:20260802T001500Z
-DTSTAMP:20260801T213000Z
-UID:jfVLqkJOD8
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
- Film Festival. A collection of short films created by Washington state fil
- mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
- m-festival\n\nEstimated start: 14:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Emerald City Short Film Festival
-DTSTART:20260802T013000Z
-DTEND:20260802T041500Z
-DTSTAMP:20260802T013000Z
-UID:pCdkScZFG9
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
- Film Festival. A collection of short films created by Washington state fil
- mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
- m-festival\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wild Inside
 DTSTART:20260808T014500Z
 DTEND:20260808T033500Z
 DTSTAMP:20260808T014500Z
 UID:4skZblTG9G
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
+  Uptown for International Owl Awareness Day\, then at the SIFF Film Center
+  August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa
+ rk Zoo and sets off on a magical odyssey through the island of Manhattan. 
+ Flaco overcomes his years of captivity and lack of survival skills to answ
+ er the call of the wild – and discovers he was wild inside all along.\n\
+ nhttps://www.siff.net/cinema/in-theaters/wild-inside\n\nEstimated start: 1
+ 9:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside
+DTSTART:20260808T230000Z
+DTEND:20260809T005000Z
+DTSTAMP:20260808T230000Z
+UID:xTb2ueV7EH
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
+  Uptown for International Owl Awareness Day\, then at the SIFF Film Center
+  August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa
+ rk Zoo and sets off on a magical odyssey through the island of Manhattan. 
+ Flaco overcomes his years of captivity and lack of survival skills to answ
+ er the call of the wild – and discovers he was wild inside all along.\n\
+ nhttps://www.siff.net/cinema/in-theaters/wild-inside\n\nEstimated start: 1
+ 6:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside
+DTSTART:20260809T014500Z
+DTEND:20260809T033500Z
+DTSTAMP:20260809T014500Z
+UID:xCb1aDAfMS
 DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
   Uptown for International Owl Awareness Day\, then at the SIFF Film Center
   August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa
@@ -217,91 +236,30 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Inside
-DTSTART:20260808T230000Z
-DTEND:20260809T005000Z
-DTSTAMP:20260808T230000Z
-UID:xTb2ueV7EH
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
-  Uptown for International Owl Awareness Day\, then at the SIFF Film Center
-  August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa
- rk Zoo and sets off on a magical odyssey through the island of Manhattan. 
- Flaco overcomes his years of captivity and lack of survival skills to answ
- er the call of the wild – and discovers he was wild inside all along.\n\
- nhttps://www.siff.net/cinema/in-theaters/wild-inside\n\nEstimated start: 1
- 6:15
+SUMMARY:The Fisherman
+DTSTART:20260723T000000Z
+DTEND:20260723T020500Z
+DTSTAMP:20260723T000000Z
+UID:o8j8cPGlp0
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nThe Popcorn ListIn this Venice F
+ ilm Festival-winning feast of magical realist comedy — aging Ghanaian At
+ ta Oko sets his sights on finally having his own boat and becoming the env
+ y of his village\, he’ll just need help from a dead talking fish.\n\nhtt
+ ps://www.siff.net/programs-and-events/the-popcorn-list/the-fisherman\n\nEs
+ timated start: 17:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Inside
-DTSTART:20260809T014500Z
-DTEND:20260809T033500Z
-DTSTAMP:20260809T014500Z
-UID:xCb1aDAfMS
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
-  Uptown for International Owl Awareness Day\, then at the SIFF Film Center
-  August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa
- rk Zoo and sets off on a magical odyssey through the island of Manhattan. 
- Flaco overcomes his years of captivity and lack of survival skills to answ
- er the call of the wild – and discovers he was wild inside all along.\n\
- nhttps://www.siff.net/cinema/in-theaters/wild-inside\n\nEstimated start: 1
- 9:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon
-DTSTART:20260730T013000Z
-DTEND:20260730T030000Z
-DTSTAMP:20260730T013000Z
-UID:K8NW9LBeUh
-DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
- une and her Persian mom Lela travel to the Azores islands for a grief anni
- versary\, with contrasting ways of coping. A charming surfer brings balanc
- e as they (and we) surf the waves of life\, loss\, flirting… an unforget
- table ride. Director Lilian T. Mehrel scheduled to attend for a post-film
-  Q&A on July 17\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEs
- timated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Horsegirls
-DTSTART:20260724T231500Z
-DTEND:20260725T011500Z
-DTSTAMP:20260724T231500Z
-UID:B3wDydNwkB
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nHorsegirls is the story of 22-y
- ear-old Margarita\, a young woman with autism\, who discovers the world o
- f hobbyhorsing and sets out to prove her independence to her mother—stic
- k horse and all. Encouraged by a supportive coach\, her mom\, and her comm
- unity\, Margarita gains confidence to forge her own path.\n\nhttps://www.s
- iff.net/cinema/in-theaters/horsegirls\n\nEstimated start: 16:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Horsegirls
-DTSTART:20260725T020000Z
-DTEND:20260725T040000Z
-DTSTAMP:20260725T020000Z
-UID:N59Mh2gypS
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nHorsegirls is the story of 22-y
- ear-old Margarita\, a young woman with autism\, who discovers the world o
- f hobbyhorsing and sets out to prove her independence to her mother—stic
- k horse and all. Encouraged by a supportive coach\, her mom\, and her comm
- unity\, Margarita gains confidence to forge her own path.\n\nhttps://www.s
- iff.net/cinema/in-theaters/horsegirls\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260823T210000Z
-DTEND:20260824T001500Z
-DTSTAMP:20260823T210000Z
-UID:thZVVpuFXw
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 14:15
+SUMMARY:F*cktoys
+DTSTART:20260723T023000Z
+DTEND:20260723T043500Z
+DTSTAMP:20260723T023000Z
+UID:O7orESIWqt
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nThe Popcorn ListA cursed young w
+ oman sets out on a wild fundraising adventure through Trashtown\, USA\, af
+ ter she’s told by multiple psychics that she can break the curse by payi
+ ng them $1000.\n\nhttps://www.siff.net/programs-and-events/the-popcorn-lis
+ t/fucktoys\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -331,16 +289,16 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live: The Playboy of the Western World
-DTSTART:20260726T210000Z
-DTEND:20260726T234500Z
-DTSTAMP:20260726T210000Z
-UID:78uHfrUEoT
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
-  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
- s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
- ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
- nEstimated start: 14:15
+SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260823T210000Z
+DTEND:20260824T001500Z
+DTSTAMP:20260823T210000Z
+UID:thZVVpuFXw
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -354,6 +312,34 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Portugal. The Man
  portrait of artist\, activist\, and survivor Logan Lynn\, by filmmaker Cai
   Indermaur.\n\nhttps://www.siff.net/cinema/in-theaters/the-pain-and-the-po
  wer-(advance-screening)\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horsegirls
+DTSTART:20260724T231500Z
+DTEND:20260725T011500Z
+DTSTAMP:20260724T231500Z
+UID:B3wDydNwkB
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nHorsegirls is the story of 22-y
+ ear-old Margarita\, a young woman with autism\, who discovers the world o
+ f hobbyhorsing and sets out to prove her independence to her mother—stic
+ k horse and all. Encouraged by a supportive coach\, her mom\, and her comm
+ unity\, Margarita gains confidence to forge her own path.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/horsegirls\n\nEstimated start: 16:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horsegirls
+DTSTART:20260725T020000Z
+DTEND:20260725T040000Z
+DTSTAMP:20260725T020000Z
+UID:N59Mh2gypS
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nHorsegirls is the story of 22-y
+ ear-old Margarita\, a young woman with autism\, who discovers the world o
+ f hobbyhorsing and sets out to prove her independence to her mother—stic
+ k horse and all. Encouraged by a supportive coach\, her mom\, and her comm
+ unity\, Margarita gains confidence to forge her own path.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/horsegirls\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
