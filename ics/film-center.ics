@@ -3,7 +3,48 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260723T160438Z
+LAST-MODIFIED:20260724T160501Z
+BEGIN:VEVENT
+SUMMARY:NT Live: The Playboy of the Western World
+DTSTART:20260726T210000Z
+DTEND:20260726T234500Z
+DTSTAMP:20260726T210000Z
+UID:78uHfrUEoT
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
+  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
+ s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
+ ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
+ nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horsegirls
+DTSTART:20260724T231500Z
+DTEND:20260725T011500Z
+DTSTAMP:20260724T231500Z
+UID:B3wDydNwkB
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nHorsegirls is the story of 22-y
+ ear-old Margarita\, a young woman with autism\, who discovers the world o
+ f hobbyhorsing and sets out to prove her independence to her mother—stic
+ k horse and all. Encouraged by a supportive coach\, her mom\, and her comm
+ unity\, Margarita gains confidence to forge her own path.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/horsegirls\n\nEstimated start: 16:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horsegirls
+DTSTART:20260725T020000Z
+DTEND:20260725T040000Z
+DTSTAMP:20260725T020000Z
+UID:N59Mh2gypS
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nHorsegirls is the story of 22-y
+ ear-old Margarita\, a young woman with autism\, who discovers the world o
+ f hobbyhorsing and sets out to prove her independence to her mother—stic
+ k horse and all. Encouraged by a supportive coach\, her mom\, and her comm
+ unity\, Margarita gains confidence to forge her own path.\n\nhttps://www.s
+ iff.net/cinema/in-theaters/horsegirls\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Horsegirls
 DTSTART:20260725T203000Z
@@ -47,16 +88,18 @@ DESCRIPTION:Duration: 101 mins (1h41m)\n\nHorsegirls is the story of 22-y
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live: The Playboy of the Western World
-DTSTART:20260726T210000Z
-DTEND:20260726T234500Z
-DTSTAMP:20260726T210000Z
-UID:78uHfrUEoT
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
-  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
- s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
- ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
- nEstimated start: 14:15
+SUMMARY:Honeyjoon
+DTSTART:20260731T013000Z
+DTEND:20260731T030000Z
+DTSTAMP:20260731T013000Z
+UID:9BRZCv3XAx
+DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
+ une and her Persian mom Lela travel to the Azores islands for a grief anni
+ versary\, with contrasting ways of coping. A charming surfer brings balanc
+ e as they (and we) surf the waves of life\, loss\, flirting… an unforget
+ table ride. Director Lilian T. Mehrel scheduled to attend for a post-film
+  Q&A on July 17\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEs
+ timated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -88,6 +131,19 @@ DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NT Live: The Playboy of the Western World
+DTSTART:20260728T013000Z
+DTEND:20260728T041500Z
+DTSTAMP:20260728T013000Z
+UID:qOr2t8ECHq
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
+  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
+ s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
+ ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
+ nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Emerald City Short Film Festival
 DTSTART:20260801T213000Z
 DTEND:20260802T001500Z
@@ -109,94 +165,6 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short
  Film Festival. A collection of short films created by Washington state fil
  mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
  m-festival\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon
-DTSTART:20260731T013000Z
-DTEND:20260731T030000Z
-DTSTAMP:20260731T013000Z
-UID:9BRZCv3XAx
-DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
- une and her Persian mom Lela travel to the Azores islands for a grief anni
- versary\, with contrasting ways of coping. A charming surfer brings balanc
- e as they (and we) surf the waves of life\, loss\, flirting… an unforget
- table ride. Director Lilian T. Mehrel scheduled to attend for a post-film
-  Q&A on July 17\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEs
- timated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: The Playboy of the Western World
-DTSTART:20260728T013000Z
-DTEND:20260728T041500Z
-DTSTAMP:20260728T013000Z
-UID:qOr2t8ECHq
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
-  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
- s riveting play of youth and self-discovery.\n\nhttps://www.siff.net/progr
- ams-and-events/stage-to-screen/nt-live-the-playboy-of-the-western-world\n\
- nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Horsegirls
-DTSTART:20260724T231500Z
-DTEND:20260725T011500Z
-DTSTAMP:20260724T231500Z
-UID:B3wDydNwkB
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nHorsegirls is the story of 22-y
- ear-old Margarita\, a young woman with autism\, who discovers the world o
- f hobbyhorsing and sets out to prove her independence to her mother—stic
- k horse and all. Encouraged by a supportive coach\, her mom\, and her comm
- unity\, Margarita gains confidence to forge her own path.\n\nhttps://www.s
- iff.net/cinema/in-theaters/horsegirls\n\nEstimated start: 16:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Horsegirls
-DTSTART:20260725T020000Z
-DTEND:20260725T040000Z
-DTSTAMP:20260725T020000Z
-UID:N59Mh2gypS
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nHorsegirls is the story of 22-y
- ear-old Margarita\, a young woman with autism\, who discovers the world o
- f hobbyhorsing and sets out to prove her independence to her mother—stic
- k horse and all. Encouraged by a supportive coach\, her mom\, and her comm
- unity\, Margarita gains confidence to forge her own path.\n\nhttps://www.s
- iff.net/cinema/in-theaters/horsegirls\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside
-DTSTART:20260808T230000Z
-DTEND:20260809T005000Z
-DTSTAMP:20260808T230000Z
-UID:xTb2ueV7EH
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
-  Uptown for International Owl Awareness Day\, then at the SIFF Film Center
-  August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa
- rk Zoo and sets off on a magical odyssey through the island of Manhattan. 
- Flaco overcomes his years of captivity and lack of survival skills to answ
- er the call of the wild – and discovers he was wild inside all along.\n\
- nhttps://www.siff.net/cinema/in-theaters/wild-inside\n\nEstimated start: 1
- 6:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside
-DTSTART:20260809T014500Z
-DTEND:20260809T033500Z
-DTSTAMP:20260809T014500Z
-UID:xCb1aDAfMS
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
-  Uptown for International Owl Awareness Day\, then at the SIFF Film Center
-  August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa
- rk Zoo and sets off on a magical odyssey through the island of Manhattan. 
- Flaco overcomes his years of captivity and lack of survival skills to answ
- er the call of the wild – and discovers he was wild inside all along.\n\
- nhttps://www.siff.net/cinema/in-theaters/wild-inside\n\nEstimated start: 1
- 9:00
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -253,6 +221,38 @@ DTSTART:20260810T014500Z
 DTEND:20260810T033500Z
 DTSTAMP:20260810T014500Z
 UID:11XUUPl0qS
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
+  Uptown for International Owl Awareness Day\, then at the SIFF Film Center
+  August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa
+ rk Zoo and sets off on a magical odyssey through the island of Manhattan. 
+ Flaco overcomes his years of captivity and lack of survival skills to answ
+ er the call of the wild – and discovers he was wild inside all along.\n\
+ nhttps://www.siff.net/cinema/in-theaters/wild-inside\n\nEstimated start: 1
+ 9:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside
+DTSTART:20260808T230000Z
+DTEND:20260809T005000Z
+DTSTAMP:20260808T230000Z
+UID:xTb2ueV7EH
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
+  Uptown for International Owl Awareness Day\, then at the SIFF Film Center
+  August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa
+ rk Zoo and sets off on a magical odyssey through the island of Manhattan. 
+ Flaco overcomes his years of captivity and lack of survival skills to answ
+ er the call of the wild – and discovers he was wild inside all along.\n\
+ nhttps://www.siff.net/cinema/in-theaters/wild-inside\n\nEstimated start: 1
+ 6:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside
+DTSTART:20260809T014500Z
+DTEND:20260809T033500Z
+DTSTAMP:20260809T014500Z
+UID:xCb1aDAfMS
 DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
   Uptown for International Owl Awareness Day\, then at the SIFF Film Center
   August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa

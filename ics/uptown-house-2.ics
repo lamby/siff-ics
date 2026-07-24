@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260723T160438Z
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260725T201500Z
-DTEND:20260725T222000Z
-DTSTAMP:20260725T201500Z
-UID:uZYJkNq5IQ
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 13:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260725T231500Z
-DTEND:20260726T012000Z
-DTSTAMP:20260725T231500Z
-UID:Wag2Qr2XE5
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260724T160501Z
 BEGIN:VEVENT
 SUMMARY:The Invite
 DTSTART:20260726T201500Z
@@ -70,11 +44,130 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260724T231500Z
+DTEND:20260725T012000Z
+DTSTAMP:20260724T231500Z
+UID:Tl1ofiv6EK
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260725T023000Z
+DTEND:20260725T043500Z
+DTSTAMP:20260725T023000Z
+UID:sRibJ8vwPB
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260802T193000Z
+DTEND:20260802T215500Z
+DTSTAMP:20260802T193000Z
+UID:BPXCQBpTnW
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260802T224500Z
+DTEND:20260803T011000Z
+DTSTAMP:20260802T224500Z
+UID:6Nl2sPrdfI
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260803T020000Z
+DTEND:20260803T042500Z
+DTSTAMP:20260803T020000Z
+UID:wa6wJCZGLR
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260725T201500Z
+DTEND:20260725T222000Z
+DTSTAMP:20260725T201500Z
+UID:uZYJkNq5IQ
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 13:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260725T231500Z
+DTEND:20260726T012000Z
+DTSTAMP:20260725T231500Z
+UID:Wag2Qr2XE5
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret
+DTSTART:20260730T233000Z
+DTEND:20260731T013500Z
+DTSTAMP:20260730T233000Z
+UID:hligwYA7XQ
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  From July 17 to 19\,
+  all 7:00pm screenings will include a pre-recorded Q&A with John Early and
+  one of these special guests:July 17 - Amy SedarisJuly 18 - Hannah Einbind
+ erJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema/in-theaters/maddi
+ es-secret-yr\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle 48 Hour Film Project
+DTSTART:20260731T030000Z
+DTEND:20260731T044500Z
+DTSTAMP:20260731T030000Z
+UID:pk24UfgRi9
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nPresented by CREATE48 Media Netwo
+ rk. Watch the world premieres of films created in just 48 hours by Seattl
+ e filmmakers. The 2026 Seattle 48 Hour Film Project showcases original sho
+ rt films spanning every genre\, celebrating creativity\, collaboration\, a
+ nd the incredible challenge of making a movie from script to screen in one
+  weekend.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-
+ project\n\nEstimated start: 20:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Maddie's Secret
 DTSTART:20260728T224500Z
 DTEND:20260729T005000Z
 DTSTAMP:20260728T224500Z
-UID:OKtBMH61CU
+UID:9vRNQy0bpv
 DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
  irizing and skewering content culture from iconic alt-comedian John Early\
  , who plays the titular role\, alongside a troupe of comedians including K
@@ -162,66 +255,27 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nPresented by CREATE48 Media Netwo
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260730T233000Z
-DTEND:20260731T013500Z
-DTSTAMP:20260730T233000Z
-UID:hligwYA7XQ
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  From July 17 to 19\,
-  all 7:00pm screenings will include a pre-recorded Q&A with John Early and
-  one of these special guests:July 17 - Amy SedarisJuly 18 - Hannah Einbind
- erJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema/in-theaters/maddi
- es-secret-yr\n\nEstimated start: 16:45
+SUMMARY:Sheep in the Box
+DTSTART:20260731T224500Z
+DTEND:20260801T011000Z
+DTSTAMP:20260731T224500Z
+UID:u2Rmp4D2sd
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Film Project
-DTSTART:20260731T030000Z
-DTEND:20260731T044500Z
-DTSTAMP:20260731T030000Z
-UID:pk24UfgRi9
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nPresented by CREATE48 Media Netwo
- rk. Watch the world premieres of films created in just 48 hours by Seattl
- e filmmakers. The 2026 Seattle 48 Hour Film Project showcases original sho
- rt films spanning every genre\, celebrating creativity\, collaboration\, a
- nd the incredible challenge of making a movie from script to screen in one
-  weekend.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-
- project\n\nEstimated start: 20:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260723T231500Z
-DTEND:20260724T012000Z
-DTSTAMP:20260723T231500Z
-UID:F8bl4kwSg9
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  From July 17 to 19\,
-  all 7:00pm screenings will include a pre-recorded Q&A with John Early and
-  one of these special guests:July 17 - Amy SedarisJuly 18 - Hannah Einbind
- erJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema/in-theaters/maddi
- es-secret-yr\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260724T021500Z
-DTEND:20260724T042000Z
-DTSTAMP:20260724T021500Z
-UID:dibxwE0HTo
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  From July 17 to 19\,
-  all 7:00pm screenings will include a pre-recorded Q&A with John Early and
-  one of these special guests:July 17 - Amy SedarisJuly 18 - Hannah Einbind
- erJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema/in-theaters/maddi
- es-secret-yr\n\nEstimated start: 19:30
+SUMMARY:Sheep in the Box
+DTSTART:20260801T020000Z
+DTEND:20260801T042500Z
+DTSTAMP:20260801T020000Z
+UID:hAq3d6J9bF
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -271,29 +325,111 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nPresented by CREATE48 Media Netwo
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260724T231500Z
-DTEND:20260725T012000Z
-DTSTAMP:20260724T231500Z
-UID:Tl1ofiv6EK
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:30
+SUMMARY:Sheep in the Box
+DTSTART:20260801T193000Z
+DTEND:20260801T215500Z
+DTSTAMP:20260801T193000Z
+UID:pCFRJ0Uy5S
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 12:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260725T023000Z
-DTEND:20260725T043500Z
-DTSTAMP:20260725T023000Z
-UID:sRibJ8vwPB
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:45
+SUMMARY:Sheep in the Box
+DTSTART:20260801T224500Z
+DTEND:20260802T011000Z
+DTSTAMP:20260801T224500Z
+UID:Lki7U2f2Hr
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260802T020000Z
+DTEND:20260802T042500Z
+DTSTAMP:20260802T020000Z
+UID:TWQ870M1bt
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260805T230000Z
+DTEND:20260806T012500Z
+DTSTAMP:20260805T230000Z
+UID:ka0loynpsh
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260806T021500Z
+DTEND:20260806T044000Z
+DTSTAMP:20260806T021500Z
+UID:xcHYlhISmd
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260804T230000Z
+DTEND:20260805T012500Z
+DTSTAMP:20260804T230000Z
+UID:uJaR1o0iio
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260805T021500Z
+DTEND:20260805T044000Z
+DTSTAMP:20260805T021500Z
+UID:GHQvmKbQq6
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260803T230000Z
+DTEND:20260804T012500Z
+DTSTAMP:20260803T230000Z
+UID:WBPKoYm3N4
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260804T021500Z
+DTEND:20260804T044000Z
+DTSTAMP:20260804T021500Z
+UID:ktPQ6gBBMe
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
