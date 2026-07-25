@@ -3,7 +3,37 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260724T160501Z
+LAST-MODIFIED:20260725T144742Z
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260730T231500Z
+DTEND:20260731T012000Z
+DTSTAMP:20260730T231500Z
+UID:dZjB0Aj28C
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Piano (1993)
+DTSTART:20260731T021500Z
+DTEND:20260731T043000Z
+DTSTAMP:20260731T021500Z
+UID:CsseewtiSf
+DESCRIPTION:Duration: 117 mins (1h57m)\n\n1851. Ada has never spoken a wor
+ d since the age of six and only communicates through music and her daughte
+ r\, Flora. An arranged marriage forces her to leave her native Scotland wi
+ th her daughter and her piano. Her destination is New Zealand\, where she 
+ is awaited by Stewart\, a farmer with whom she has nothing in common. Her 
+ suffering only gets worse when her husband sells the piano to his neighbou
+ r George. But Ada will find a way to continue playing in exchange for givi
+ ng George lessons. New 4K Restoration.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/the-piano\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret
 DTSTART:20260726T200000Z
@@ -53,38 +83,6 @@ DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-DTSTART:20260724T233000Z
-DTEND:20260725T012000Z
-DTSTAMP:20260724T233000Z
-UID:NF0Q2JkON7
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
-  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
- ueer and out\, but intensely private. Her poems inspire liberals and conse
- rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
- ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
- nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
- , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
- r-saved-by-the-beauty-of-the-world\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260725T021500Z
-DTEND:20260725T042000Z
-DTSTAMP:20260725T021500Z
-UID:s0s8AXRG3u
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  From July 17 to 19\,
-  all 7:00pm screenings will include a pre-recorded Q&A with John Early and
-  one of these special guests:July 17 - Amy SedarisJuly 18 - Hannah Einbind
- erJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema/in-theaters/maddi
- es-secret-yr\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Michael Mann's Manhunter: The Final Cut (1986)
 DTSTART:20260802T233000Z
 DTEND:20260803T014500Z
@@ -126,150 +124,6 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260725T200000Z
-DTEND:20260725T220500Z
-DTSTAMP:20260725T200000Z
-UID:fbQs49jYPq
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  From July 17 to 19\,
-  all 7:00pm screenings will include a pre-recorded Q&A with John Early and
-  one of these special guests:July 17 - Amy SedarisJuly 18 - Hannah Einbind
- erJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema/in-theaters/maddi
- es-secret-yr\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260726T023000Z
-DTEND:20260726T043500Z
-DTSTAMP:20260726T023000Z
-UID:g5SrTeenCm
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-DTSTART:20260725T233000Z
-DTEND:20260726T012000Z
-DTSTAMP:20260725T233000Z
-UID:q0f7FTuqVZ
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
-  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
- ueer and out\, but intensely private. Her poems inspire liberals and conse
- rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
- ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
- nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
- , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
- r-saved-by-the-beauty-of-the-world\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260730T231500Z
-DTEND:20260731T012000Z
-DTSTAMP:20260730T231500Z
-UID:dZjB0Aj28C
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano (1993)
-DTSTART:20260731T021500Z
-DTEND:20260731T043000Z
-DTSTAMP:20260731T021500Z
-UID:CsseewtiSf
-DESCRIPTION:Duration: 117 mins (1h57m)\n\n1851. Ada has never spoken a wor
- d since the age of six and only communicates through music and her daughte
- r\, Flora. An arranged marriage forces her to leave her native Scotland wi
- th her daughter and her piano. Her destination is New Zealand\, where she 
- is awaited by Stewart\, a farmer with whom she has nothing in common. Her 
- suffering only gets worse when her husband sells the piano to his neighbou
- r George. But Ada will find a way to continue playing in exchange for givi
- ng George lessons. New 4K Restoration.\n\nhttps://www.siff.net/cinema/in-t
- heaters/the-piano\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260728T231500Z
-DTEND:20260729T012000Z
-DTSTAMP:20260728T231500Z
-UID:QqQPIDFoih
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260729T023000Z
-DTEND:20260729T043500Z
-DTSTAMP:20260729T023000Z
-UID:46Mpit23A4
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano (1993)
-DTSTART:20260730T021500Z
-DTEND:20260730T043000Z
-DTSTAMP:20260730T021500Z
-UID:wUh7R0IZMV
-DESCRIPTION:Duration: 117 mins (1h57m)\n\n1851. Ada has never spoken a wor
- d since the age of six and only communicates through music and her daughte
- r\, Flora. An arranged marriage forces her to leave her native Scotland wi
- th her daughter and her piano. Her destination is New Zealand\, where she 
- is awaited by Stewart\, a farmer with whom she has nothing in common. Her 
- suffering only gets worse when her husband sells the piano to his neighbou
- r George. But Ada will find a way to continue playing in exchange for givi
- ng George lessons. New 4K Restoration.\n\nhttps://www.siff.net/cinema/in-t
- heaters/the-piano\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260729T231500Z
-DTEND:20260730T012000Z
-DTSTAMP:20260729T231500Z
-UID:Qs5TQfmV7j
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260731T233000Z
-DTEND:20260801T013500Z
-DTSTAMP:20260731T233000Z
-UID:xQEDocJm8w
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Invite
 DTSTART:20260727T231500Z
 DTEND:20260728T012000Z
@@ -296,16 +150,33 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260801T023000Z
-DTEND:20260801T043500Z
-DTSTAMP:20260801T023000Z
-UID:qtxj3mHh9I
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:45
+SUMMARY:Michael Mann's Manhunter: The Final Cut (1986)
+DTSTART:20260804T233000Z
+DTEND:20260805T014500Z
+DTSTAMP:20260804T233000Z
+UID:3REYV03dKi
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nA new 4K Restoration of Michael 
+ Mann’s definitive director’s cut. Will Graham (William Petersen)\, a f
+ ormer FBI profiler\, is cajoled out of retirement to help an old colleague
+  track down a serial killer called "The Tooth Fairy." The question is: can
+  they find the man in time to end his killing spree?\n\nhttps://www.siff.n
+ et/cinema/in-theaters/michael-manns-manhunter-the-final-cut\n\nEstimated s
+ tart: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael Mann's Manhunter: The Final Cut (1986)
+DTSTART:20260805T023000Z
+DTEND:20260805T044500Z
+DTSTAMP:20260805T023000Z
+UID:Y00lUh70nN
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nA new 4K Restoration of Michael 
+ Mann’s definitive director’s cut. Will Graham (William Petersen)\, a f
+ ormer FBI profiler\, is cajoled out of retirement to help an old colleague
+  track down a serial killer called "The Tooth Fairy." The question is: can
+  they find the man in time to end his killing spree?\n\nhttps://www.siff.n
+ et/cinema/in-theaters/michael-manns-manhunter-the-final-cut\n\nEstimated s
+ tart: 19:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -381,10 +252,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michael Mann's Manhunter: The Final Cut (1986)
-DTSTART:20260804T233000Z
-DTEND:20260805T014500Z
-DTSTAMP:20260804T233000Z
-UID:3REYV03dKi
+DTSTART:20260806T233000Z
+DTEND:20260807T014500Z
+DTSTAMP:20260806T233000Z
+UID:E0B8KE7w41
 DESCRIPTION:Duration: 119 mins (1h59m)\n\nA new 4K Restoration of Michael 
  Mann’s definitive director’s cut. Will Graham (William Petersen)\, a f
  ormer FBI profiler\, is cajoled out of retirement to help an old colleague
@@ -396,10 +267,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michael Mann's Manhunter: The Final Cut (1986)
-DTSTART:20260805T023000Z
-DTEND:20260805T044500Z
-DTSTAMP:20260805T023000Z
-UID:Y00lUh70nN
+DTSTART:20260807T023000Z
+DTEND:20260807T044500Z
+DTSTAMP:20260807T023000Z
+UID:j8sqSjjStI
 DESCRIPTION:Duration: 119 mins (1h59m)\n\nA new 4K Restoration of Michael 
  Mann’s definitive director’s cut. Will Graham (William Petersen)\, a f
  ormer FBI profiler\, is cajoled out of retirement to help an old colleague
@@ -440,33 +311,117 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nA new 4K Restoration of Michael
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Mann's Manhunter: The Final Cut (1986)
-DTSTART:20260806T233000Z
-DTEND:20260807T014500Z
-DTSTAMP:20260806T233000Z
-UID:E0B8KE7w41
-DESCRIPTION:Duration: 119 mins (1h59m)\n\nA new 4K Restoration of Michael 
- Mann’s definitive director’s cut. Will Graham (William Petersen)\, a f
- ormer FBI profiler\, is cajoled out of retirement to help an old colleague
-  track down a serial killer called "The Tooth Fairy." The question is: can
-  they find the man in time to end his killing spree?\n\nhttps://www.siff.n
- et/cinema/in-theaters/michael-manns-manhunter-the-final-cut\n\nEstimated s
- tart: 16:45
+SUMMARY:Maddie's Secret
+DTSTART:20260725T200000Z
+DTEND:20260725T220500Z
+DTSTAMP:20260725T200000Z
+UID:fbQs49jYPq
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
+ irizing and skewering content culture from iconic alt-comedian John Early\
+ , who plays the titular role\, alongside a troupe of comedians including K
+ ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  From July 17 to 19\,
+  all 7:00pm screenings will include a pre-recorded Q&A with John Early and
+  one of these special guests:July 17 - Amy SedarisJuly 18 - Hannah Einbind
+ erJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema/in-theaters/maddi
+ es-secret-yr\n\nEstimated start: 13:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Mann's Manhunter: The Final Cut (1986)
-DTSTART:20260807T023000Z
-DTEND:20260807T044500Z
-DTSTAMP:20260807T023000Z
-UID:j8sqSjjStI
-DESCRIPTION:Duration: 119 mins (1h59m)\n\nA new 4K Restoration of Michael 
- Mann’s definitive director’s cut. Will Graham (William Petersen)\, a f
- ormer FBI profiler\, is cajoled out of retirement to help an old colleague
-  track down a serial killer called "The Tooth Fairy." The question is: can
-  they find the man in time to end his killing spree?\n\nhttps://www.siff.n
- et/cinema/in-theaters/michael-manns-manhunter-the-final-cut\n\nEstimated s
- tart: 19:45
+SUMMARY:Mary Oliver: Saved by the Beauty of the World
+DTSTART:20260725T233000Z
+DTEND:20260726T012000Z
+DTSTAMP:20260725T233000Z
+UID:q0f7FTuqVZ
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
+  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
+ ueer and out\, but intensely private. Her poems inspire liberals and conse
+ rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
+ ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
+ nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
+ , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
+ r-saved-by-the-beauty-of-the-world\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260728T231500Z
+DTEND:20260729T012000Z
+DTSTAMP:20260728T231500Z
+UID:QqQPIDFoih
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260729T023000Z
+DTEND:20260729T043500Z
+DTSTAMP:20260729T023000Z
+UID:46Mpit23A4
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Piano (1993)
+DTSTART:20260730T021500Z
+DTEND:20260730T043000Z
+DTSTAMP:20260730T021500Z
+UID:wUh7R0IZMV
+DESCRIPTION:Duration: 117 mins (1h57m)\n\n1851. Ada has never spoken a wor
+ d since the age of six and only communicates through music and her daughte
+ r\, Flora. An arranged marriage forces her to leave her native Scotland wi
+ th her daughter and her piano. Her destination is New Zealand\, where she 
+ is awaited by Stewart\, a farmer with whom she has nothing in common. Her 
+ suffering only gets worse when her husband sells the piano to his neighbou
+ r George. But Ada will find a way to continue playing in exchange for givi
+ ng George lessons. New 4K Restoration.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/the-piano\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260729T231500Z
+DTEND:20260730T012000Z
+DTSTAMP:20260729T231500Z
+UID:Qs5TQfmV7j
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260731T233000Z
+DTEND:20260801T013500Z
+DTSTAMP:20260731T233000Z
+UID:xQEDocJm8w
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260801T023000Z
+DTEND:20260801T043500Z
+DTSTAMP:20260801T023000Z
+UID:qtxj3mHh9I
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
