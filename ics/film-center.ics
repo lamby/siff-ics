@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260727T121347Z
+LAST-MODIFIED:20260728T142309Z
 BEGIN:VEVENT
 SUMMARY:Honeyjoon
-DTSTART:20260730T013000Z
-DTEND:20260730T030000Z
-DTSTAMP:20260730T013000Z
-UID:K8NW9LBeUh
+DTSTART:20260731T013000Z
+DTEND:20260731T030000Z
+DTSTAMP:20260731T013000Z
+UID:9BRZCv3XAx
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
  une and her Persian mom Lela travel to the Azores islands for a grief anni
  versary\, with contrasting ways of coping. A charming surfer brings balanc
@@ -20,24 +20,11 @@ DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live: The Playboy of the Western World
-DTSTART:20260728T013000Z
-DTEND:20260728T041500Z
-DTSTAMP:20260728T013000Z
-UID:qOr2t8ECHq
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
-  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
- s riveting play of youth and self-discovery. Features a 15-minute intermi
- ssion.\n\nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live
- -the-playboy-of-the-western-world\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Honeyjoon
-DTSTART:20260731T013000Z
-DTEND:20260731T030000Z
-DTSTAMP:20260731T013000Z
-UID:9BRZCv3XAx
+DTSTART:20260730T013000Z
+DTEND:20260730T030000Z
+DTSTAMP:20260730T013000Z
+UID:K8NW9LBeUh
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
  une and her Persian mom Lela travel to the Azores islands for a grief anni
  versary\, with contrasting ways of coping. A charming surfer brings balanc
@@ -80,19 +67,6 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live: The Playboy of the Western World
-DTSTART:20260729T013000Z
-DTEND:20260729T041500Z
-DTSTAMP:20260729T013000Z
-UID:33G3bgWhDB
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
-  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
- s riveting play of youth and self-discovery. Features a 15-minute intermi
- ssion.\n\nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live
- -the-playboy-of-the-western-world\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wild Inside
 DTSTART:20260808T014500Z
 DTEND:20260808T033500Z
@@ -106,30 +80,6 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
  er the call of the wild – and discovers he was wild inside all along.\n\
  nhttps://www.siff.net/cinema/in-theaters/wild-inside\n\nEstimated start: 1
  9:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Emerald City Short Film Festival
-DTSTART:20260801T213000Z
-DTEND:20260802T001500Z
-DTSTAMP:20260801T213000Z
-UID:jfVLqkJOD8
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
- Film Festival. A collection of short films created by Washington state fil
- mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
- m-festival\n\nEstimated start: 14:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Emerald City Short Film Festival
-DTSTART:20260802T013000Z
-DTEND:20260802T041500Z
-DTSTAMP:20260802T013000Z
-UID:pCdkScZFG9
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
- Film Festival. A collection of short films created by Washington state fil
- mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
- m-festival\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -181,16 +131,40 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260823T210000Z
-DTEND:20260824T001500Z
-DTSTAMP:20260823T210000Z
-UID:thZVVpuFXw
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 14:15
+SUMMARY:NT Live: The Playboy of the Western World
+DTSTART:20260729T013000Z
+DTEND:20260729T041500Z
+DTSTAMP:20260729T013000Z
+UID:33G3bgWhDB
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to Screen Nicola Coughlan
+  joins Éanna Hardwicke and Siobhán McSweeney in John Millington Synge’
+ s riveting play of youth and self-discovery. Features a 15-minute intermi
+ ssion.\n\nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live
+ -the-playboy-of-the-western-world\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emerald City Short Film Festival
+DTSTART:20260801T213000Z
+DTEND:20260802T001500Z
+DTSTAMP:20260801T213000Z
+UID:jfVLqkJOD8
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
+ Film Festival. A collection of short films created by Washington state fil
+ mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
+ m-festival\n\nEstimated start: 14:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emerald City Short Film Festival
+DTSTART:20260802T013000Z
+DTEND:20260802T041500Z
+DTSTAMP:20260802T013000Z
+UID:pCdkScZFG9
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
+ Film Festival. A collection of short films created by Washington state fil
+ mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
+ m-festival\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -204,6 +178,19 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
  ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
  nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
  sons-dangereuses\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260823T210000Z
+DTEND:20260824T001500Z
+DTSTAMP:20260823T210000Z
+UID:thZVVpuFXw
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
