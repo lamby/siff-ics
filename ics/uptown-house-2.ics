@@ -3,13 +3,49 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260728T142309Z
+LAST-MODIFIED:20260730T161615Z
 BEGIN:VEVENT
 SUMMARY:Sheep in the Box
-DTSTART:20260731T224500Z
-DTEND:20260801T011000Z
-DTSTAMP:20260731T224500Z
-UID:u2Rmp4D2sd
+DTSTART:20260803T230000Z
+DTEND:20260804T012500Z
+DTSTAMP:20260803T230000Z
+UID:WBPKoYm3N4
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260804T021500Z
+DTEND:20260804T044000Z
+DTSTAMP:20260804T021500Z
+UID:ktPQ6gBBMe
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260801T193000Z
+DTEND:20260801T215500Z
+DTSTAMP:20260801T193000Z
+UID:pCFRJ0Uy5S
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260801T224500Z
+DTEND:20260802T011000Z
+DTSTAMP:20260801T224500Z
+UID:Lki7U2f2Hr
 DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
  ensuke\, a grieving couple who have lost their son\, take into their lives
   a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
@@ -18,14 +54,38 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheep in the Box
-DTSTART:20260801T020000Z
-DTEND:20260801T042500Z
-DTSTAMP:20260801T020000Z
-UID:hAq3d6J9bF
+DTSTART:20260802T020000Z
+DTEND:20260802T042500Z
+DTSTAMP:20260802T020000Z
+UID:TWQ870M1bt
 DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
  ensuke\, a grieving couple who have lost their son\, take into their lives
   a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
  in-theaters/sheep-in-the-box\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260807T230000Z
+DTEND:20260808T012500Z
+DTSTAMP:20260807T230000Z
+UID:taoJ8L3kKO
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260808T023000Z
+DTEND:20260808T045500Z
+DTSTAMP:20260808T023000Z
+UID:b9vMkyXE2F
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -50,6 +110,272 @@ DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
  ensuke\, a grieving couple who have lost their son\, take into their lives
   a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
  in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260804T230000Z
+DTEND:20260805T012500Z
+DTSTAMP:20260804T230000Z
+UID:uJaR1o0iio
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260805T021500Z
+DTEND:20260805T044000Z
+DTSTAMP:20260805T021500Z
+UID:GHQvmKbQq6
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260808T193000Z
+DTEND:20260808T221500Z
+DTSTAMP:20260808T193000Z
+UID:RNvWI0AbqV
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 12
+ :45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260808T230000Z
+DTEND:20260809T012500Z
+DTSTAMP:20260808T230000Z
+UID:t9HXZHsnjN
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260809T021500Z
+DTEND:20260809T044000Z
+DTSTAMP:20260809T021500Z
+UID:t6kBvULRRC
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260811T230000Z
+DTEND:20260812T012500Z
+DTSTAMP:20260811T230000Z
+UID:G5UBdl6pig
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260812T021500Z
+DTEND:20260812T044000Z
+DTSTAMP:20260812T021500Z
+UID:5iXvg3S91Y
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wine and Crime LIVE!
+DTSTART:20260807T020000Z
+DTEND:20260807T044500Z
+DTSTAMP:20260807T020000Z
+UID:8EfWksUZwS
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Wine & Crime Podcas
+ t. Join Lucy and Amanda as they chug wine\, chat true crime\, and unleash
+  their worst Minnesota accents on Thursday\, August 6\, 2026 at The SIFF U
+ ptown!!Limited VIP tickets grant early entry\, a free merch item\, and acc
+ ess to the exclusive post-event Q&A.\n\nhttps://www.siff.net/cinema/in-the
+ aters/wine-and-crime-live\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260809T193000Z
+DTEND:20260809T221500Z
+DTSTAMP:20260809T193000Z
+UID:jl2Wh8Bfpa
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 12
+ :45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260809T230000Z
+DTEND:20260810T012500Z
+DTSTAMP:20260809T230000Z
+UID:lTBlfr4dG6
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260810T021500Z
+DTEND:20260810T044000Z
+DTSTAMP:20260810T021500Z
+UID:H4o69b83IO
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260810T230000Z
+DTEND:20260811T012500Z
+DTSTAMP:20260810T230000Z
+UID:ZNPC7cqTRd
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260811T021500Z
+DTEND:20260811T044000Z
+DTSTAMP:20260811T021500Z
+UID:tKXDG7j99d
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260812T230000Z
+DTEND:20260813T014500Z
+DTSTAMP:20260812T230000Z
+UID:6DY5iPDaZT
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
+ :15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260813T023000Z
+DTEND:20260813T051500Z
+DTSTAMP:20260813T023000Z
+UID:Hc6TeyLFLk
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
+ :45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260813T230000Z
+DTEND:20260814T012500Z
+DTSTAMP:20260813T230000Z
+UID:eBgSNFWOv9
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260814T021500Z
+DTEND:20260814T044000Z
+DTSTAMP:20260814T021500Z
+UID:lNgEQTEpiM
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atomic Blonde (2017)
+DTSTART:20260820T020000Z
+DTEND:20260820T041000Z
+DTSTAMP:20260820T020000Z
+UID:ndJ4nq8Nt0
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nCharlize Theron is explosive as 
+ an assassin for the British secret service who gets double-crossed while o
+ n a mission in Berlin.\n\nhttps://www.siff.net/programs-and-events/cold-wa
+ r-summer/atomic-blonde\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260731T224500Z
+DTEND:20260801T011000Z
+DTSTAMP:20260731T224500Z
+UID:u2Rmp4D2sd
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260801T020000Z
+DTEND:20260801T042500Z
+DTSTAMP:20260801T020000Z
+UID:hAq3d6J9bF
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -117,196 +443,6 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nPresented by CREATE48 Media Netwo
  nd the incredible challenge of making a movie from script to screen in one
   weekend.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-
  project\n\nEstimated start: 20:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World
-DTSTART:20260729T224500Z
-DTEND:20260730T003500Z
-DTSTAMP:20260729T224500Z
-UID:FBfID4cYTI
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nMary Oliver – best-selling poet
-  and Pulitzer Prize-winner\; lover of dogs and long walks in the woods\; q
- ueer and out\, but intensely private. Her poems inspire liberals and conse
- rvatives\, atheists and believers\, naturalists and urbanites. If poetry h
- ad a pop icon\, Mary Oliver would be it. Featuring poems read by Helena Bo
- nham Carter\, Steve Buscemi\, Stephen Colbert\, Lucy Dacus\, Jesse Welles\
- , and Oprah Winfrey.\n\nhttps://www.siff.net/cinema/in-theaters/mary-olive
- r-saved-by-the-beauty-of-the-world\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Film Project
-DTSTART:20260730T013000Z
-DTEND:20260730T031500Z
-DTSTAMP:20260730T013000Z
-UID:vqgxcIGoGv
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nPresented by CREATE48 Media Netwo
- rk. Watch the world premieres of films created in just 48 hours by Seattl
- e filmmakers. The 2026 Seattle 48 Hour Film Project showcases original sho
- rt films spanning every genre\, celebrating creativity\, collaboration\, a
- nd the incredible challenge of making a movie from script to screen in one
-  weekend.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-
- project\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Film Project
-DTSTART:20260730T040000Z
-DTEND:20260730T054500Z
-DTSTAMP:20260730T040000Z
-UID:LwYLVpN3Wf
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nPresented by CREATE48 Media Netwo
- rk. Watch the world premieres of films created in just 48 hours by Seattl
- e filmmakers. The 2026 Seattle 48 Hour Film Project showcases original sho
- rt films spanning every genre\, celebrating creativity\, collaboration\, a
- nd the incredible challenge of making a movie from script to screen in one
-  weekend.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-
- project\n\nEstimated start: 21:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260803T230000Z
-DTEND:20260804T012500Z
-DTSTAMP:20260803T230000Z
-UID:WBPKoYm3N4
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260804T021500Z
-DTEND:20260804T044000Z
-DTSTAMP:20260804T021500Z
-UID:ktPQ6gBBMe
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wine and Crime LIVE!
-DTSTART:20260807T020000Z
-DTEND:20260807T044500Z
-DTSTAMP:20260807T020000Z
-UID:8EfWksUZwS
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Wine & Crime Podcas
- t. Join Lucy and Amanda as they chug wine\, chat true crime\, and unleash
-  their worst Minnesota accents on Thursday\, August 6\, 2026 at The SIFF U
- ptown!!Limited VIP tickets grant early entry\, a free merch item\, and acc
- ess to the exclusive post-event Q&A.\n\nhttps://www.siff.net/cinema/in-the
- aters/wine-and-crime-live\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260804T230000Z
-DTEND:20260805T012500Z
-DTSTAMP:20260804T230000Z
-UID:uJaR1o0iio
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260805T021500Z
-DTEND:20260805T044000Z
-DTSTAMP:20260805T021500Z
-UID:GHQvmKbQq6
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret
-DTSTART:20260728T224500Z
-DTEND:20260729T005000Z
-DTSTAMP:20260728T224500Z
-UID:9vRNQy0bpv
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nUnmissable directorial debut sat
- irizing and skewering content culture from iconic alt-comedian John Early\
- , who plays the titular role\, alongside a troupe of comedians including K
- ate Berlant\, Vanessa Bayer\, and Conner O’Malley.  From July 17 to 19\,
-  all 7:00pm screenings will include a pre-recorded Q&A with John Early and
-  one of these special guests:July 17 - Amy SedarisJuly 18 - Hannah Einbind
- erJuly 19 - Sarah Sherman\n\nhttps://www.siff.net/cinema/in-theaters/maddi
- es-secret-yr\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Film Project
-DTSTART:20260729T013000Z
-DTEND:20260729T031500Z
-DTSTAMP:20260729T013000Z
-UID:MtZSepQKcK
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nPresented by CREATE48 Media Netwo
- rk. Watch the world premieres of films created in just 48 hours by Seattl
- e filmmakers. The 2026 Seattle 48 Hour Film Project showcases original sho
- rt films spanning every genre\, celebrating creativity\, collaboration\, a
- nd the incredible challenge of making a movie from script to screen in one
-  weekend.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-
- project\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Film Project
-DTSTART:20260729T040000Z
-DTEND:20260729T054500Z
-DTSTAMP:20260729T040000Z
-UID:okILcYyGBN
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nPresented by CREATE48 Media Netwo
- rk. Watch the world premieres of films created in just 48 hours by Seattl
- e filmmakers. The 2026 Seattle 48 Hour Film Project showcases original sho
- rt films spanning every genre\, celebrating creativity\, collaboration\, a
- nd the incredible challenge of making a movie from script to screen in one
-  weekend.\n\nhttps://www.siff.net/cinema/in-theaters/seattle-48-hour-film-
- project\n\nEstimated start: 21:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260801T193000Z
-DTEND:20260801T215500Z
-DTSTAMP:20260801T193000Z
-UID:pCFRJ0Uy5S
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 12:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260801T224500Z
-DTEND:20260802T011000Z
-DTSTAMP:20260801T224500Z
-UID:Lki7U2f2Hr
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260802T020000Z
-DTEND:20260802T042500Z
-DTSTAMP:20260802T020000Z
-UID:TWQ870M1bt
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
