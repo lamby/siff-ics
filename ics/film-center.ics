@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260730T161615Z
-BEGIN:VEVENT
-SUMMARY:Emerald City Short Film Festival
-DTSTART:20260801T213000Z
-DTEND:20260802T001500Z
-DTSTAMP:20260801T213000Z
-UID:jfVLqkJOD8
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
- Film Festival. A collection of short films created by Washington state fil
- mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
- m-festival\n\nEstimated start: 14:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Emerald City Short Film Festival
-DTSTART:20260802T013000Z
-DTEND:20260802T041500Z
-DTSTAMP:20260802T013000Z
-UID:pCdkScZFG9
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
- Film Festival. A collection of short films created by Washington state fil
- mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
- m-festival\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260731T152553Z
 BEGIN:VEVENT
 SUMMARY:Wild Inside
 DTSTART:20260808T014500Z
@@ -125,6 +101,43 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Emerald City Short Film Festival
+DTSTART:20260801T213000Z
+DTEND:20260802T001500Z
+DTSTAMP:20260801T213000Z
+UID:jfVLqkJOD8
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
+ Film Festival. A collection of short films created by Washington state fil
+ mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
+ m-festival\n\nEstimated start: 14:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emerald City Short Film Festival
+DTSTART:20260802T013000Z
+DTEND:20260802T041500Z
+DTSTAMP:20260802T013000Z
+UID:pCdkScZFG9
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nPresented by Emerald City Short 
+ Film Festival. A collection of short films created by Washington state fil
+ mmakers.\n\nhttps://www.siff.net/cinema/in-theaters/emerald-city-short-fil
+ m-festival\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260826T013000Z
+DTEND:20260826T044500Z
+DTSTAMP:20260826T013000Z
+UID:gytRmk1kdR
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: Les Liaisons Dangereuses
 DTSTART:20260825T013000Z
 DTEND:20260825T044500Z
@@ -148,34 +161,6 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
  ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
  nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
  sons-dangereuses\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon
-DTSTART:20260731T013000Z
-DTEND:20260731T030000Z
-DTSTAMP:20260731T013000Z
-UID:9BRZCv3XAx
-DESCRIPTION:Duration: 75 mins (1h15m)\n\nIn this light-and-dark comedy\, J
- une and her Persian mom Lela travel to the Azores islands for a grief anni
- versary\, with contrasting ways of coping. A charming surfer brings balanc
- e as they (and we) surf the waves of life\, loss\, flirting… an unforget
- table ride. Director Lilian T. Mehrel scheduled to attend for a post-film
-  Q&A on July 17\n\nhttps://www.siff.net/cinema/in-theaters/honeyjoon\n\nEs
- timated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260826T013000Z
-DTEND:20260826T044500Z
-DTSTAMP:20260826T013000Z
-UID:gytRmk1kdR
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
