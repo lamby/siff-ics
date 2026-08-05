@@ -3,38 +3,13 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260804T132305Z
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260806T230000Z
-DTEND:20260807T010500Z
-DTSTAMP:20260806T230000Z
-UID:9xoy3cMF1X
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260807T021500Z
-DTEND:20260807T044000Z
-DTSTAMP:20260807T021500Z
-UID:0nIWvsTZdB
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260805T152948Z
 BEGIN:VEVENT
 SUMMARY:The Samurai and the Prisoner
-DTSTART:20260809T222000Z
-DTEND:20260810T010500Z
-DTSTAMP:20260809T222000Z
-UID:AgtpAFUGjy
+DTSTART:20260807T223000Z
+DTEND:20260808T011500Z
+DTSTAMP:20260807T223000Z
+UID:V6n8MXdWR3
 DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
  rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
  his lord and barricaded himself within Arioka Castle. As the siege wore on
@@ -44,39 +19,21 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
   one of the greatest military strategists of the Sengoku period\, he began
   providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
  net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 15
- :35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260810T020000Z
-DTEND:20260810T044500Z
-DTSTAMP:20260810T020000Z
-UID:lpWT8k5dhb
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
- :15
+ :45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2026
-DTSTART:20260809T200000Z
-DTEND:20260809T214500Z
-DTSTAMP:20260809T200000Z
-UID:fbbGneZCm1
+DTSTART:20260808T020000Z
+DTEND:20260808T034500Z
+DTSTAMP:20260808T020000Z
+UID:JnEA4Ljvu2
 DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
   is back with screenings in theaters across the USA and around the world.
   A portion of ticket sales will support PAWS (​​Progressive Animal We
  lfare Society). NEKO Cat Cafe will be tabling in the lobby before every s
  howtime. 🐱\n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n
- \nEstimated start: 13:15
+ \nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -143,33 +100,6 @@ DESCRIPTION:Duration: 109 mins (1h49m)\n\nSpy thriller in which intelligen
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260812T224500Z
-DTEND:20260813T011000Z
-DTSTAMP:20260812T224500Z
-UID:iCt5WkDIcs
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Austin Powers: International Man of Mystery (35mm) (1997)
-DTSTART:20260813T020000Z
-DTEND:20260813T034500Z
-DTSTAMP:20260813T020000Z
-UID:lfZ40jX0OV
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA swingin' fashion photographer b
- y day and a groovy British secret agent by night\, superspy Austin Powers 
- must foil the sinister schemes of Dr. Evil. Attendees are encouraged to bu
- st out their grooviest getups! Frilly lace cravats\, Italian boots\, and g
- ray nehru jackets will certainly fit the look.\n\nhttps://www.siff.net/pr
- ograms-and-events/cold-war-summer/austin-powers-international-man-of-myste
- ry\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Samurai and the Prisoner
 DTSTART:20260813T224500Z
 DTEND:20260814T013000Z
@@ -233,26 +163,113 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260816T203000Z
-DTEND:20260816T224000Z
-DTSTAMP:20260816T203000Z
-UID:Gb5ZBD56NZ
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 13:45
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260808T222000Z
+DTEND:20260809T010500Z
+DTSTAMP:20260808T222000Z
+UID:9ZLuHNpUk1
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 15
+ :35
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260809T020000Z
+DTEND:20260809T044500Z
+DTSTAMP:20260809T020000Z
+UID:ul16E2Vt8b
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
+ :15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest 2026
+DTSTART:20260808T200000Z
+DTEND:20260808T214500Z
+DTSTAMP:20260808T200000Z
+UID:xidrhTpoad
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
+  is back with screenings in theaters across the USA and around the world.
+  A portion of ticket sales will support PAWS (​​Progressive Animal We
+ lfare Society). NEKO Cat Cafe will be tabling in the lobby before every s
+ howtime. 🐱\n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n
+ \nEstimated start: 13:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260812T224500Z
+DTEND:20260813T011000Z
+DTSTAMP:20260812T224500Z
+UID:iCt5WkDIcs
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin Powers: International Man of Mystery (35mm) (1997)
+DTSTART:20260813T020000Z
+DTEND:20260813T034500Z
+DTSTAMP:20260813T020000Z
+UID:lfZ40jX0OV
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nA swingin' fashion photographer b
+ y day and a groovy British secret agent by night\, superspy Austin Powers 
+ must foil the sinister schemes of Dr. Evil. Attendees are encouraged to bu
+ st out their grooviest getups! Frilly lace cravats\, Italian boots\, and g
+ ray nehru jackets will certainly fit the look.\n\nhttps://www.siff.net/pr
+ ograms-and-events/cold-war-summer/austin-powers-international-man-of-myste
+ ry\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260806T230000Z
+DTEND:20260807T010500Z
+DTSTAMP:20260806T230000Z
+UID:9xoy3cMF1X
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260807T021500Z
+DTEND:20260807T044000Z
+DTSTAMP:20260807T021500Z
+UID:0nIWvsTZdB
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260816T233000Z
-DTEND:20260817T014000Z
-DTSTAMP:20260816T233000Z
-UID:Fsh0LcRJGs
+DTSTART:20260817T233000Z
+DTEND:20260818T014000Z
+DTSTAMP:20260817T233000Z
+UID:70oYaC20yl
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -260,21 +277,6 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels
  wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
  resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
  nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260817T023000Z
-DTEND:20260817T044000Z
-DTSTAMP:20260817T023000Z
-UID:Cl5IVYYnef
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -323,40 +325,41 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260804T224500Z
-DTEND:20260805T005000Z
-DTSTAMP:20260804T224500Z
-UID:ULVjPd4OoJ
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside
-DTSTART:20260805T020000Z
-DTEND:20260805T035000Z
-DTSTAMP:20260805T020000Z
-UID:ftNrmybhM9
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nScreening August 4 at SIFF Cinema
-  Uptown for International Owl Awareness Day\, then at the SIFF Film Center
-  August 7-9. A Eurasian Eagle-Owl named Flaco escapes from the Central Pa
- rk Zoo and sets off on a magical odyssey through the island of Manhattan. 
- Flaco overcomes his years of captivity and lack of survival skills to answ
- er the call of the wild – and discovers he was wild inside all along.\n\
- nhttps://www.siff.net/cinema/in-theaters/wild-inside\n\nEstimated start: 1
- 9:15
+SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
+DTSTART:20260818T023000Z
+DTEND:20260818T044000Z
+DTSTAMP:20260818T023000Z
+UID:EXmpQpNAl2
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
+ resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
+ nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260817T233000Z
-DTEND:20260818T014000Z
-DTSTAMP:20260817T233000Z
-UID:70oYaC20yl
+DTSTART:20260816T203000Z
+DTEND:20260816T224000Z
+DTSTAMP:20260816T203000Z
+UID:Gb5ZBD56NZ
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
+ resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
+ nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 13:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
+DTSTART:20260816T233000Z
+DTEND:20260817T014000Z
+DTSTAMP:20260816T233000Z
+UID:Fsh0LcRJGs
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -368,10 +371,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260818T023000Z
-DTEND:20260818T044000Z
-DTSTAMP:20260818T023000Z
-UID:EXmpQpNAl2
+DTSTART:20260817T023000Z
+DTEND:20260817T044000Z
+DTSTAMP:20260817T023000Z
+UID:Cl5IVYYnef
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -413,36 +416,6 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260819T233000Z
-DTEND:20260820T014000Z
-DTSTAMP:20260819T233000Z
-UID:4Lq1Sob5dP
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260820T023000Z
-DTEND:20260820T044000Z
-DTSTAMP:20260820T023000Z
-UID:hHMc0sJDuj
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
 DTSTART:20260820T233000Z
 DTEND:20260821T014000Z
 DTSTAMP:20260820T233000Z
@@ -469,22 +442,6 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels
  wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
  resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
  nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goldeneye (35mm) (1995)
-DTSTART:20260827T020000Z
-DTEND:20260827T042500Z
-DTSTAMP:20260827T020000Z
-UID:sqJ0cT2sy2
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nWhen a powerful satellite system
-  falls into the hands of Alec Trevelyan\, AKA Agent 006 (Sean Bean)\, a fo
- rmer ally-turned-enemy\, only James Bond (Pierce Brosnan) can save the wor
- ld from an awesome space weapon that -- in one short pulse -- could destro
- y the earth!  It's a formal night at Uptown! Sport your tailored suits an
- d elegant dresses for a sophisticated evening of espionage. Tuxedo t-shir
- ts are also acceptable.\n\nhttps://www.siff.net/programs-and-events/cold-
- war-summer/goldeneye\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -524,19 +481,99 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Faust with the Invincible Czars (1926)
-DTSTART:20260910T020000Z
-DTEND:20260910T040500Z
-DTSTAMP:20260910T020000Z
-UID:RE6gW4b3PE
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe Invincible Czars celebrate 1
- 00 years of the silent masterpiece Faust (1926\, FW Murnau). Their brand n
- ew electrifying score marries new and old elements of classical music\, bo
- ssa nova and even a touch of heavy metal to bring the movie to life for co
- ntemporary audiences and incorporates a mix of instruments like flute\, vi
- olin and electric guitar. *Live music by The Invincible Czars*\n\nhttps:/
- /www.siff.net/cinema/in-theaters/faust-with-the-invincible-czars\n\nEstima
- ted start: 19:15
+SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
+DTSTART:20260819T233000Z
+DTEND:20260820T014000Z
+DTSTAMP:20260819T233000Z
+UID:4Lq1Sob5dP
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
+ resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
+ nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
+DTSTART:20260820T023000Z
+DTEND:20260820T044000Z
+DTSTAMP:20260820T023000Z
+UID:hHMc0sJDuj
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
+ resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
+ nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260809T222000Z
+DTEND:20260810T010500Z
+DTSTAMP:20260809T222000Z
+UID:AgtpAFUGjy
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 15
+ :35
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260810T020000Z
+DTEND:20260810T044500Z
+DTSTAMP:20260810T020000Z
+UID:lpWT8k5dhb
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
+ :15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest 2026
+DTSTART:20260809T200000Z
+DTEND:20260809T214500Z
+DTSTAMP:20260809T200000Z
+UID:fbbGneZCm1
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
+  is back with screenings in theaters across the USA and around the world.
+  A portion of ticket sales will support PAWS (​​Progressive Animal We
+ lfare Society). NEKO Cat Cafe will be tabling in the lobby before every s
+ howtime. 🐱\n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n
+ \nEstimated start: 13:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goldeneye (35mm) (1995)
+DTSTART:20260827T020000Z
+DTEND:20260827T042500Z
+DTSTAMP:20260827T020000Z
+UID:sqJ0cT2sy2
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nWhen a powerful satellite system
+  falls into the hands of Alec Trevelyan\, AKA Agent 006 (Sean Bean)\, a fo
+ rmer ally-turned-enemy\, only James Bond (Pierce Brosnan) can save the wor
+ ld from an awesome space weapon that -- in one short pulse -- could destro
+ y the earth!  It's a formal night at Uptown! Sport your tailored suits an
+ d elegant dresses for a sophisticated evening of espionage. Tuxedo t-shir
+ ts are also acceptable.\n\nhttps://www.siff.net/programs-and-events/cold-
+ war-summer/goldeneye\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -561,35 +598,19 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nLive comedy with VHS tapes!BRAND
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260807T223000Z
-DTEND:20260808T011500Z
-DTSTAMP:20260807T223000Z
-UID:V6n8MXdWR3
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 15
- :45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2026
-DTSTART:20260808T020000Z
-DTEND:20260808T034500Z
-DTSTAMP:20260808T020000Z
-UID:JnEA4Ljvu2
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
-  is back with screenings in theaters across the USA and around the world.
-  A portion of ticket sales will support PAWS (​​Progressive Animal We
- lfare Society). NEKO Cat Cafe will be tabling in the lobby before every s
- howtime. 🐱\n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n
- \nEstimated start: 19:15
+SUMMARY:Faust with the Invincible Czars (1926)
+DTSTART:20260910T020000Z
+DTEND:20260910T040500Z
+DTSTAMP:20260910T020000Z
+UID:RE6gW4b3PE
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe Invincible Czars celebrate 1
+ 00 years of the silent masterpiece Faust (1926\, FW Murnau). Their brand n
+ ew electrifying score marries new and old elements of classical music\, bo
+ ssa nova and even a touch of heavy metal to bring the movie to life for co
+ ntemporary audiences and incorporates a mix of instruments like flute\, vi
+ olin and electric guitar. *Live music by The Invincible Czars*\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/faust-with-the-invincible-czars\n\nEstima
+ ted start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -608,21 +629,6 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesMichel (Jean-Paul
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cleo From 5 to 7 (1962)
-DTSTART:20261001T023000Z
-DTEND:20261001T041500Z
-DTSTAMP:20261001T023000Z
-UID:1wqNomEtwX
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesThis afternoon\, 
- beautiful pop singer Cléo (Corinne Marchand) will find out the results of
-  her cancer biopsy\, and this raw fact changes her life. She’s used to e
- veryone looking adoringly at her\, defining her as a princess. Today\, as 
- Varda says\, “She changes to a black dress\, like singer Edith Piaf\, an
- d goes out\; now she looks at the world.”\n\nhttps://www.siff.net/progra
- ms-and-events/nouvelles-femmes/cleo-from-5-to-7\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jules and Jim (1961)
 DTSTART:20260924T023000Z
 DTEND:20260924T043000Z
@@ -635,6 +641,21 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nNouvelles FemmesTwo Parisian lit
  ree\, and soon a larking-about friendship branches into many configuration
  s of love.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/ju
  les-and-jim\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleo From 5 to 7 (1962)
+DTSTART:20261001T023000Z
+DTEND:20261001T041500Z
+DTSTAMP:20261001T023000Z
+UID:1wqNomEtwX
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesThis afternoon\, 
+ beautiful pop singer Cléo (Corinne Marchand) will find out the results of
+  her cancer biopsy\, and this raw fact changes her life. She’s used to e
+ veryone looking adoringly at her\, defining her as a princess. Today\, as 
+ Varda says\, “She changes to a black dress\, like singer Edith Piaf\, an
+ d goes out\; now she looks at the world.”\n\nhttps://www.siff.net/progra
+ ms-and-events/nouvelles-femmes/cleo-from-5-to-7\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -665,56 +686,6 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nNouvelles FemmesIn a French Impre
  al clerk (Marie-France Boyer)\, he realizes he has a capacity for “more 
  flowers\, more apples.”\n\nhttps://www.siff.net/programs-and-events/nouv
  elles-femmes/le-bonheur-(happiness)\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260808T222000Z
-DTEND:20260809T010500Z
-DTSTAMP:20260808T222000Z
-UID:9ZLuHNpUk1
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 15
- :35
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260809T020000Z
-DTEND:20260809T044500Z
-DTSTAMP:20260809T020000Z
-UID:ul16E2Vt8b
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
- :15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2026
-DTSTART:20260808T200000Z
-DTEND:20260808T214500Z
-DTSTAMP:20260808T200000Z
-UID:xidrhTpoad
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
-  is back with screenings in theaters across the USA and around the world.
-  A portion of ticket sales will support PAWS (​​Progressive Animal We
- lfare Society). NEKO Cat Cafe will be tabling in the lobby before every s
- howtime. 🐱\n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n
- \nEstimated start: 13:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
