@@ -3,7 +3,55 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260807T142557Z
+LAST-MODIFIED:20260808T155008Z
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260811T230000Z
+DTEND:20260812T012500Z
+DTSTAMP:20260811T230000Z
+UID:G5UBdl6pig
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260812T021500Z
+DTEND:20260812T044000Z
+DTSTAMP:20260812T021500Z
+UID:5iXvg3S91Y
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260813T230000Z
+DTEND:20260814T012500Z
+DTSTAMP:20260813T230000Z
+UID:eBgSNFWOv9
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheep in the Box
+DTSTART:20260814T021500Z
+DTEND:20260814T044000Z
+DTSTAMP:20260814T021500Z
+UID:lNgEQTEpiM
+DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
+ ensuke\, a grieving couple who have lost their son\, take into their lives
+  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
+ in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheep in the Box
 DTSTART:20260810T230000Z
@@ -91,78 +139,6 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260807T230000Z
-DTEND:20260808T012500Z
-DTSTAMP:20260807T230000Z
-UID:taoJ8L3kKO
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260808T023000Z
-DTEND:20260808T045500Z
-DTSTAMP:20260808T023000Z
-UID:b9vMkyXE2F
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260811T230000Z
-DTEND:20260812T012500Z
-DTSTAMP:20260811T230000Z
-UID:G5UBdl6pig
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260812T021500Z
-DTEND:20260812T044000Z
-DTSTAMP:20260812T021500Z
-UID:5iXvg3S91Y
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260813T230000Z
-DTEND:20260814T012500Z
-DTSTAMP:20260813T230000Z
-UID:eBgSNFWOv9
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260814T021500Z
-DTEND:20260814T044000Z
-DTSTAMP:20260814T021500Z
-UID:lNgEQTEpiM
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Samurai and the Prisoner
 DTSTART:20260813T023000Z
 DTEND:20260813T051500Z
@@ -223,18 +199,6 @@ DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atomic Blonde (2017)
-DTSTART:20260820T020000Z
-DTEND:20260820T041000Z
-DTSTAMP:20260820T020000Z
-UID:ndJ4nq8Nt0
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nCharlize Theron is explosive as 
- an assassin for the British secret service who gets double-crossed while o
- n a mission in Berlin.\n\nhttps://www.siff.net/programs-and-events/cold-wa
- r-summer/atomic-blonde\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tony
 DTSTART:20260821T230000Z
 DTEND:20260822T010500Z
@@ -256,6 +220,18 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
  nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atomic Blonde (2017)
+DTSTART:20260820T020000Z
+DTEND:20260820T041000Z
+DTSTAMP:20260820T020000Z
+UID:ndJ4nq8Nt0
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nCharlize Theron is explosive as 
+ an assassin for the British secret service who gets double-crossed while o
+ n a mission in Berlin.\n\nhttps://www.siff.net/programs-and-events/cold-wa
+ r-summer/atomic-blonde\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
