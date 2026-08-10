@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260808T155008Z
+LAST-MODIFIED:20260810T124821Z
 BEGIN:VEVENT
 SUMMARY:The Invite
 DTSTART:20260811T231500Z
@@ -83,33 +83,6 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boyhood (2014)
-DTSTART:20260809T220000Z
-DTEND:20260810T012000Z
-DTSTAMP:20260809T220000Z
-UID:eqsomGsfZP
-DESCRIPTION:Duration: 185 mins (3h05m)\n\nFilmed over 12 years with the sa
- me cast\, Richard Linklater’s Boyhood is a groundbreaking story of growi
- ng up as seen through the eyes of a child named Mason. This special 12th a
- nniversary screening includes a recorded Q&A with director Richard Linklat
- er and cast members Ethan Hawke\, Patricia Arquette\, and Ellar Coltrane.\
- n\nhttps://www.siff.net/cinema/in-theaters/boyhood\n\nEstimated start: 15:
- 15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box
-DTSTART:20260810T021500Z
-DTEND:20260810T044000Z
-DTSTAMP:20260810T021500Z
-UID:H4o69b83IO
-DESCRIPTION:Duration: 126 mins (2h06m)\n\nIn the near future\, Otone and K
- ensuke\, a grieving couple who have lost their son\, take into their lives
-  a humanoid identical to their late child.\n\nhttps://www.siff.net/cinema/
- in-theaters/sheep-in-the-box\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Invite
 DTSTART:20260812T231500Z
 DTEND:20260813T012000Z
@@ -133,45 +106,6 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  er party\, the night spirals into unexpected places. Have they reignited t
  he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
  cinema/in-theaters/the-invite\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260808T203000Z
-DTEND:20260808T223500Z
-DTSTAMP:20260808T203000Z
-UID:yB0Xg6CLQq
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 13:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260808T233000Z
-DTEND:20260809T013500Z
-DTSTAMP:20260808T233000Z
-UID:9lGKqG3p38
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260809T023000Z
-DTEND:20260809T043500Z
-DTSTAMP:20260809T023000Z
-UID:Sq1mbtm7hy
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
