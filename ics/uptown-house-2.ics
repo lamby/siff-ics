@@ -3,33 +3,31 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260814T143602Z
+LAST-MODIFIED:20260815T151322Z
 BEGIN:VEVENT
 SUMMARY:The Invite
-DTSTART:20260820T230000Z
-DTEND:20260821T010500Z
-DTSTAMP:20260820T230000Z
-UID:XYJdZTvIYw
+DTSTART:20260816T231500Z
+DTEND:20260817T012000Z
+DTSTAMP:20260816T231500Z
+UID:UO2NyBa5wl
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
  he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:15
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Film Project Awards Show
-DTSTART:20260821T020000Z
-DTEND:20260821T051500Z
-DTSTAMP:20260821T020000Z
-UID:7AkHrDDJDS
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nPresented by CREATE48 Media Net
- work & Harbor Island Studios. Celebrate the creativity\, teamwork\, and fi
- lmmaking talent of Seattle’s 48 Hour Film Project community. This high
- -energy awards show honors standout films\, performances\, writing\, direc
- ting\, and technical achievements—all created under the thrilling pressu
- re of a single unforgettable weekend.\n\nhttps://www.siff.net/cinema/in-th
- eaters/seattle-48-hour-film-project-awards-show\n\nEstimated start: 19:15
+SUMMARY:The Invite
+DTSTART:20260817T020000Z
+DTEND:20260817T040500Z
+DTSTAMP:20260817T020000Z
+UID:8LyQaLSqqs
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -56,6 +54,30 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  er party\, the night spirals into unexpected places. Have they reignited t
  he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
  cinema/in-theaters/the-invite\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260821T230000Z
+DTEND:20260822T010500Z
+DTSTAMP:20260821T230000Z
+UID:HQRrBhGUXN
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260822T020000Z
+DTEND:20260822T040500Z
+DTSTAMP:20260822T020000Z
+UID:7HpfYO77o4
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -124,10 +146,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
-DTSTART:20260814T230000Z
-DTEND:20260815T010500Z
-DTSTAMP:20260814T230000Z
-UID:6DGiQ8XeKo
+DTSTART:20260820T230000Z
+DTEND:20260821T010500Z
+DTSTAMP:20260820T230000Z
+UID:XYJdZTvIYw
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
@@ -136,66 +158,18 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260815T020000Z
-DTEND:20260815T040500Z
-DTSTAMP:20260815T020000Z
-UID:2X5L9sV6Mf
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260821T230000Z
-DTEND:20260822T010500Z
-DTSTAMP:20260821T230000Z
-UID:HQRrBhGUXN
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260822T020000Z
-DTEND:20260822T040500Z
-DTSTAMP:20260822T020000Z
-UID:7HpfYO77o4
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260816T231500Z
-DTEND:20260817T012000Z
-DTSTAMP:20260816T231500Z
-UID:UO2NyBa5wl
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260817T020000Z
-DTEND:20260817T040500Z
-DTSTAMP:20260817T020000Z
-UID:8LyQaLSqqs
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:15
+SUMMARY:Seattle 48 Hour Film Project Awards Show
+DTSTART:20260821T020000Z
+DTEND:20260821T051500Z
+DTSTAMP:20260821T020000Z
+UID:7AkHrDDJDS
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nPresented by CREATE48 Media Net
+ work & Harbor Island Studios. Celebrate the creativity\, teamwork\, and fi
+ lmmaking talent of Seattle’s 48 Hour Film Project community. This high
+ -energy awards show honors standout films\, performances\, writing\, direc
+ ting\, and technical achievements—all created under the thrilling pressu
+ re of a single unforgettable weekend.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/seattle-48-hour-film-project-awards-show\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

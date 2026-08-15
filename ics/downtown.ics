@@ -3,13 +3,59 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20260814T143602Z
+LAST-MODIFIED:20260815T151322Z
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors (1986)
+DTSTART:20260816T180000Z
+DTEND:20260816T195000Z
+DTSTAMP:20260816T180000Z
+UID:XytmHWNpuq
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nCommunity ScreeningsA peculiar pl
+ ant named Audrey II arrives at a struggling flower shop. As it grows\, it 
+ develops a taste for human blood\, leading the timid assistant\, Seymour\,
+  on a wild and hilariously horrifying journey of love\, success\, and mora
+ l dilemmas.\n\nhttps://www.siff.net/programs-and-events/community-screenin
+ gs/little-shop-of-horrors\n\nEstimated start: 11:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey (70mm)
+DTSTART:20260816T210000Z
+DTEND:20260817T001000Z
+DTSTAMP:20260816T210000Z
+UID:S7YThHh32o
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. This is the page for 70mm showtim
+ es. For digital showtimes\, visit the other The Odyssey page.***NOTE: We
+  will not be playing trailers before the 70mm screenings. Please arrive on
+  time.***  **The Balcony is not accessible by elevator.**\n\nhttps://www.
+ siff.net/cinema/in-theaters/the-odyssey-(70mm)\n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey (70mm)
+DTSTART:20260817T010000Z
+DTEND:20260817T041000Z
+DTSTAMP:20260817T010000Z
+UID:5dGuALfaPO
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. This is the page for 70mm showtim
+ es. For digital showtimes\, visit the other The Odyssey page.***NOTE: We
+  will not be playing trailers before the 70mm screenings. Please arrive on
+  time.***  **The Balcony is not accessible by elevator.**\n\nhttps://www.
+ siff.net/cinema/in-theaters/the-odyssey-(70mm)\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260821T020000Z
-DTEND:20260821T051000Z
-DTSTAMP:20260821T020000Z
-UID:xLeYihUnFa
+DTSTART:20260818T020000Z
+DTEND:20260818T051000Z
+DTSTAMP:20260818T020000Z
+UID:R3xEAyn2Hp
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
@@ -20,59 +66,52 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BFDI & Inanimate Insanity 2026 Tour
-DTSTART:20260823T193000Z
-DTEND:20260823T214500Z
-DTSTAMP:20260823T193000Z
-UID:myXjPM4DKW
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Jacknjellify LLC &
-  Adamation\, Inc. The BFDI and Inanimate Insanity worlds collide for a on
- e-of-a-kind tour created especially for the Object Show Community. Experie
- nce an exclusive live premiere of never-before-seen episodes from BFDI: Th
- e Power of Two and Inanimate Insanity IV\, shown on the big screen for fan
- s in attendance.After the screening\, join a live Q&A featuring creators\,
-  directors\, and voice actors from both series\, where audience members ca
- n ask questions and interact directly with the people behind the shows. At
- tendees will also have access to purchase event-exclusive merchandise\, ta
- ke part in themed photo opportunities\, and connect with fellow fans in a 
- shared celebration of the OSC.VIP ticket-holders gain access to a private 
- meet-and-greet with featured panelists and receive a limited-edition signe
- d print showcasing an extended version of the official tour logo. Tour pr
- oduction services are provided by The A. Noble Group\, Inc.\n\nhttps://www
- .siff.net/cinema/in-theaters/bfdi-and-inanimate-insanity-2026-tour\n\nEsti
- mated start: 12:45
+SUMMARY:The Odyssey
+DTSTART:20260821T220000Z
+DTEND:20260822T011000Z
+DTSTAMP:20260821T220000Z
+UID:OoSpGtCU9e
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. This is the page for digital pres
+ entations of The Odyssey. For 70mm showtimes\, visit this page.  **The B
+ alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
+ theaters/the-odyssey\n\nEstimated start: 15:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BFDI & Inanimate Insanity 2026 Tour
-DTSTART:20260824T010000Z
-DTEND:20260824T031500Z
-DTSTAMP:20260824T010000Z
-UID:OyLrNWvNRG
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Jacknjellify LLC &
-  Adamation\, Inc. The BFDI and Inanimate Insanity worlds collide for a on
- e-of-a-kind tour created especially for the Object Show Community. Experie
- nce an exclusive live premiere of never-before-seen episodes from BFDI: Th
- e Power of Two and Inanimate Insanity IV\, shown on the big screen for fan
- s in attendance.After the screening\, join a live Q&A featuring creators\,
-  directors\, and voice actors from both series\, where audience members ca
- n ask questions and interact directly with the people behind the shows. At
- tendees will also have access to purchase event-exclusive merchandise\, ta
- ke part in themed photo opportunities\, and connect with fellow fans in a 
- shared celebration of the OSC.VIP ticket-holders gain access to a private 
- meet-and-greet with featured panelists and receive a limited-edition signe
- d print showcasing an extended version of the official tour logo. Tour pr
- oduction services are provided by The A. Noble Group\, Inc.\n\nhttps://www
- .siff.net/cinema/in-theaters/bfdi-and-inanimate-insanity-2026-tour\n\nEsti
- mated start: 18:15
+SUMMARY:American Astronaut (35mm) (2001)
+DTSTART:20260822T010000Z
+DTEND:20260822T025000Z
+DTSTAMP:20260822T010000Z
+UID:o9nyTSdErB
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
+ ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
+  through a rustic and remote solar system\, unaware that his old friend Pr
+ ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/the-american-astronaut\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Astronaut (35mm) (2001)
+DTSTART:20260822T033000Z
+DTEND:20260822T052000Z
+DTSTAMP:20260822T033000Z
+UID:PXybDQcj35
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
+ ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
+  through a rustic and remote solar system\, unaware that his old friend Pr
+ ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/the-american-astronaut\n\nEstimated start: 20:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260818T020000Z
-DTEND:20260818T051000Z
-DTSTAMP:20260818T020000Z
-UID:R3xEAyn2Hp
+DTSTART:20260825T020000Z
+DTEND:20260825T051000Z
+DTSTAMP:20260825T020000Z
+UID:1yv3AviXDK
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
@@ -128,6 +167,54 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   will not be playing trailers before the 70mm screenings. Please arrive on
   time.***  **The Balcony is not accessible by elevator.**\n\nhttps://www.
  siff.net/cinema/in-theaters/the-odyssey-(70mm)\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BFDI & Inanimate Insanity 2026 Tour
+DTSTART:20260823T193000Z
+DTEND:20260823T214500Z
+DTSTAMP:20260823T193000Z
+UID:myXjPM4DKW
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Jacknjellify LLC &
+  Adamation\, Inc. The BFDI and Inanimate Insanity worlds collide for a on
+ e-of-a-kind tour created especially for the Object Show Community. Experie
+ nce an exclusive live premiere of never-before-seen episodes from BFDI: Th
+ e Power of Two and Inanimate Insanity IV\, shown on the big screen for fan
+ s in attendance.After the screening\, join a live Q&A featuring creators\,
+  directors\, and voice actors from both series\, where audience members ca
+ n ask questions and interact directly with the people behind the shows. At
+ tendees will also have access to purchase event-exclusive merchandise\, ta
+ ke part in themed photo opportunities\, and connect with fellow fans in a 
+ shared celebration of the OSC.VIP ticket-holders gain access to a private 
+ meet-and-greet with featured panelists and receive a limited-edition signe
+ d print showcasing an extended version of the official tour logo. Tour pr
+ oduction services are provided by The A. Noble Group\, Inc.\n\nhttps://www
+ .siff.net/cinema/in-theaters/bfdi-and-inanimate-insanity-2026-tour\n\nEsti
+ mated start: 12:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BFDI & Inanimate Insanity 2026 Tour
+DTSTART:20260824T010000Z
+DTEND:20260824T031500Z
+DTSTAMP:20260824T010000Z
+UID:OyLrNWvNRG
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Jacknjellify LLC &
+  Adamation\, Inc. The BFDI and Inanimate Insanity worlds collide for a on
+ e-of-a-kind tour created especially for the Object Show Community. Experie
+ nce an exclusive live premiere of never-before-seen episodes from BFDI: Th
+ e Power of Two and Inanimate Insanity IV\, shown on the big screen for fan
+ s in attendance.After the screening\, join a live Q&A featuring creators\,
+  directors\, and voice actors from both series\, where audience members ca
+ n ask questions and interact directly with the people behind the shows. At
+ tendees will also have access to purchase event-exclusive merchandise\, ta
+ ke part in themed photo opportunities\, and connect with fellow fans in a 
+ shared celebration of the OSC.VIP ticket-holders gain access to a private 
+ meet-and-greet with featured panelists and receive a limited-edition signe
+ d print showcasing an extended version of the official tour logo. Tour pr
+ oduction services are provided by The A. Noble Group\, Inc.\n\nhttps://www
+ .siff.net/cinema/in-theaters/bfdi-and-inanimate-insanity-2026-tour\n\nEsti
+ mated start: 18:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -194,68 +281,11 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Odyssey (70mm)
-DTSTART:20260815T020000Z
-DTEND:20260815T051000Z
-DTSTAMP:20260815T020000Z
-UID:JuogZCAq9c
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. This is the page for 70mm showtim
- es. For digital showtimes\, visit the other The Odyssey page.***NOTE: We
-  will not be playing trailers before the 70mm screenings. Please arrive on
-  time.***  **The Balcony is not accessible by elevator.**\n\nhttps://www.
- siff.net/cinema/in-theaters/the-odyssey-(70mm)\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260821T220000Z
-DTEND:20260822T011000Z
-DTSTAMP:20260821T220000Z
-UID:OoSpGtCU9e
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. This is the page for digital pres
- entations of The Odyssey. For 70mm showtimes\, visit this page.  **The B
- alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
- theaters/the-odyssey\n\nEstimated start: 15:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Astronaut (35mm) (2001)
-DTSTART:20260822T010000Z
-DTEND:20260822T025000Z
-DTSTAMP:20260822T010000Z
-UID:o9nyTSdErB
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
- ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
-  through a rustic and remote solar system\, unaware that his old friend Pr
- ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
- ters/the-american-astronaut\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Astronaut (35mm) (2001)
-DTSTART:20260822T033000Z
-DTEND:20260822T052000Z
-DTSTAMP:20260822T033000Z
-UID:PXybDQcj35
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
- ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
-  through a rustic and remote solar system\, unaware that his old friend Pr
- ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
- ters/the-american-astronaut\n\nEstimated start: 20:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260825T020000Z
-DTEND:20260825T051000Z
-DTSTAMP:20260825T020000Z
-UID:1yv3AviXDK
+DTSTART:20260821T020000Z
+DTEND:20260821T051000Z
+DTSTAMP:20260821T020000Z
+UID:xLeYihUnFa
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
@@ -267,10 +297,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260828T020000Z
-DTEND:20260828T051000Z
-DTSTAMP:20260828T020000Z
-UID:glIyLr9kb1
+DTSTART:20260819T020000Z
+DTEND:20260819T051000Z
+DTSTAMP:20260819T020000Z
+UID:diEOONKMlv
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
@@ -296,57 +326,11 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Little Shop of Horrors (1986)
-DTSTART:20260816T180000Z
-DTEND:20260816T195000Z
-DTSTAMP:20260816T180000Z
-UID:XytmHWNpuq
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nCommunity ScreeningsA peculiar pl
- ant named Audrey II arrives at a struggling flower shop. As it grows\, it 
- develops a taste for human blood\, leading the timid assistant\, Seymour\,
-  on a wild and hilariously horrifying journey of love\, success\, and mora
- l dilemmas.\n\nhttps://www.siff.net/programs-and-events/community-screenin
- gs/little-shop-of-horrors\n\nEstimated start: 11:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey (70mm)
-DTSTART:20260816T210000Z
-DTEND:20260817T001000Z
-DTSTAMP:20260816T210000Z
-UID:S7YThHh32o
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. This is the page for 70mm showtim
- es. For digital showtimes\, visit the other The Odyssey page.***NOTE: We
-  will not be playing trailers before the 70mm screenings. Please arrive on
-  time.***  **The Balcony is not accessible by elevator.**\n\nhttps://www.
- siff.net/cinema/in-theaters/the-odyssey-(70mm)\n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey (70mm)
-DTSTART:20260817T010000Z
-DTEND:20260817T041000Z
-DTSTAMP:20260817T010000Z
-UID:5dGuALfaPO
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. This is the page for 70mm showtim
- es. For digital showtimes\, visit the other The Odyssey page.***NOTE: We
-  will not be playing trailers before the 70mm screenings. Please arrive on
-  time.***  **The Balcony is not accessible by elevator.**\n\nhttps://www.
- siff.net/cinema/in-theaters/the-odyssey-(70mm)\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260819T020000Z
-DTEND:20260819T051000Z
-DTSTAMP:20260819T020000Z
-UID:diEOONKMlv
+DTSTART:20260828T020000Z
+DTEND:20260828T051000Z
+DTSTAMP:20260828T020000Z
+UID:glIyLr9kb1
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong

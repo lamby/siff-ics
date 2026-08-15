@@ -3,13 +3,28 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260814T143602Z
+LAST-MODIFIED:20260815T151322Z
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260820T233000Z
-DTEND:20260821T014000Z
-DTSTAMP:20260820T233000Z
-UID:5mkOicF7Zk
+DTSTART:20260816T203000Z
+DTEND:20260816T224000Z
+DTSTAMP:20260816T203000Z
+UID:Gb5ZBD56NZ
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
+ resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
+ nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 13:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
+DTSTART:20260816T233000Z
+DTEND:20260817T014000Z
+DTSTAMP:20260816T233000Z
+UID:Fsh0LcRJGs
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -21,10 +36,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260821T023000Z
-DTEND:20260821T044000Z
-DTSTAMP:20260821T023000Z
-UID:DT3EG6cvug
+DTSTART:20260817T023000Z
+DTEND:20260817T044000Z
+DTSTAMP:20260817T023000Z
+UID:Cl5IVYYnef
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -32,42 +47,6 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels
  wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
  resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
  nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260823T200000Z
-DTEND:20260823T220500Z
-DTSTAMP:20260823T200000Z
-UID:QuTegHkhk5
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260823T230000Z
-DTEND:20260824T010500Z
-DTSTAMP:20260823T230000Z
-UID:Kxc2xys8kC
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260824T020000Z
-DTEND:20260824T040500Z
-DTSTAMP:20260824T020000Z
-UID:77xyDciJO4
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -98,6 +77,30 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels
  wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
  resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
  nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260824T230000Z
+DTEND:20260825T010500Z
+DTSTAMP:20260824T230000Z
+UID:1Yl4g3falU
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260825T020000Z
+DTEND:20260825T040500Z
+DTSTAMP:20260825T020000Z
+UID:cIAknLAyGm
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -146,33 +149,39 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260819T233000Z
-DTEND:20260820T014000Z
-DTSTAMP:20260819T233000Z
-UID:4Lq1Sob5dP
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 16:45
+SUMMARY:Tony
+DTSTART:20260823T200000Z
+DTEND:20260823T220500Z
+DTSTAMP:20260823T200000Z
+UID:QuTegHkhk5
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 13:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260820T023000Z
-DTEND:20260820T044000Z
-DTSTAMP:20260820T023000Z
-UID:hHMc0sJDuj
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
+SUMMARY:Tony
+DTSTART:20260823T230000Z
+DTEND:20260824T010500Z
+DTSTAMP:20260823T230000Z
+UID:Kxc2xys8kC
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260824T020000Z
+DTEND:20260824T040500Z
+DTSTAMP:20260824T020000Z
+UID:77xyDciJO4
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -213,10 +222,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260814T233000Z
-DTEND:20260815T014000Z
-DTSTAMP:20260814T233000Z
-UID:tCgIQRvPTX
+DTSTART:20260819T233000Z
+DTEND:20260820T014000Z
+DTSTAMP:20260819T233000Z
+UID:4Lq1Sob5dP
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -228,10 +237,40 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260815T023000Z
-DTEND:20260815T044000Z
-DTSTAMP:20260815T023000Z
-UID:iuvGmBjVkl
+DTSTART:20260820T023000Z
+DTEND:20260820T044000Z
+DTSTAMP:20260820T023000Z
+UID:hHMc0sJDuj
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
+ resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
+ nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
+DTSTART:20260820T233000Z
+DTEND:20260821T014000Z
+DTSTAMP:20260820T233000Z
+UID:5mkOicF7Zk
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
+ resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
+ nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
+DTSTART:20260821T023000Z
+DTEND:20260821T044000Z
+DTSTAMP:20260821T023000Z
+UID:DT3EG6cvug
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -266,51 +305,33 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260824T230000Z
-DTEND:20260825T010500Z
-DTSTAMP:20260824T230000Z
-UID:1Yl4g3falU
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
+SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
+DTSTART:20260818T233000Z
+DTEND:20260819T014000Z
+DTSTAMP:20260818T233000Z
+UID:wqn10LEkAx
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
+ resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
+ nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 16:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260825T020000Z
-DTEND:20260825T040500Z
-DTSTAMP:20260825T020000Z
-UID:cIAknLAyGm
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260827T230000Z
-DTEND:20260828T010500Z
-DTSTAMP:20260827T230000Z
-UID:5pU4vUiECQ
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260828T020000Z
-DTEND:20260828T040500Z
-DTSTAMP:20260828T020000Z
-UID:06Ith1qENr
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
+DTSTART:20260819T023000Z
+DTEND:20260819T044000Z
+DTSTAMP:20260819T023000Z
+UID:wXpJl6XnwT
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
+ resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
+ nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -342,78 +363,48 @@ DESCRIPTION:Duration: 130 mins (2h10m)\n\nWhen a powerful satellite system
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260816T203000Z
-DTEND:20260816T224000Z
-DTSTAMP:20260816T203000Z
-UID:Gb5ZBD56NZ
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 13:45
+SUMMARY:Tony
+DTSTART:20260827T230000Z
+DTEND:20260828T010500Z
+DTSTAMP:20260827T230000Z
+UID:5pU4vUiECQ
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260816T233000Z
-DTEND:20260817T014000Z
-DTSTAMP:20260816T233000Z
-UID:Fsh0LcRJGs
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 16:45
+SUMMARY:Tony
+DTSTART:20260828T020000Z
+DTEND:20260828T040500Z
+DTSTAMP:20260828T020000Z
+UID:06Ith1qENr
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260817T023000Z
-DTEND:20260817T044000Z
-DTSTAMP:20260817T023000Z
-UID:Cl5IVYYnef
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260818T233000Z
-DTEND:20260819T014000Z
-DTSTAMP:20260818T233000Z
-UID:wqn10LEkAx
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260819T023000Z
-DTEND:20260819T044000Z
-DTSTAMP:20260819T023000Z
-UID:wXpJl6XnwT
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
+SUMMARY:Found Footage Fest: Porcelain VHS Treasures
+DTSTART:20260911T020000Z
+DTEND:20260911T034500Z
+DTSTAMP:20260911T020000Z
+UID:0wrIiPLbH1
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nLive comedy with VHS tapes!BRAND 
+ NEW VOLUME 11 SHOW FOR 2026! Joe Pickett (The Onion) and Nick Prueher (La
+ te Show With David Letterman) have over 14\,000 VHS tapes in their clutter
+ ed office in Brooklyn and will take viewers on a guided tour of their late
+ st/greatest finds in this brand new Volume 11 show for 2026. Highlights in
+ clude a psychotic dollar store salesman\, a video catalog of frightening p
+ orcelain dolls\, two wonderfully homemade Bigfoot videos and a new age “
+ miracle” treatment from the 80s called “Psychic Surgery.” (Contains 
+ nudity\, language\, clowns)“I think I speak for fans everywhere when I e
+ xpress gratitude for their continued hunt for hilariously bad videos. I ho
+ pe the search never ends.”— Steven Hyden\, Uproxx\n\nhttps://www.siff.
+ net/cinema/in-theaters/found-footage-festival-porcelain-vhs-treasures\n\nE
+ stimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -445,27 +436,6 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nSIFF Movie Club Written and dire
   secretly moonlights as a gleeful serial killer. Intro by Graphic Design 
  Manager Rhys Iliakis.\n\nhttps://www.siff.net/programs-and-events/siff-mov
  ie-club/serial-mom\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Found Footage Fest: Porcelain VHS Treasures
-DTSTART:20260911T020000Z
-DTEND:20260911T034500Z
-DTSTAMP:20260911T020000Z
-UID:0wrIiPLbH1
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nLive comedy with VHS tapes!BRAND 
- NEW VOLUME 11 SHOW FOR 2026! Joe Pickett (The Onion) and Nick Prueher (La
- te Show With David Letterman) have over 14\,000 VHS tapes in their clutter
- ed office in Brooklyn and will take viewers on a guided tour of their late
- st/greatest finds in this brand new Volume 11 show for 2026. Highlights in
- clude a psychotic dollar store salesman\, a video catalog of frightening p
- orcelain dolls\, two wonderfully homemade Bigfoot videos and a new age “
- miracle” treatment from the 80s called “Psychic Surgery.” (Contains 
- nudity\, language\, clowns)“I think I speak for fans everywhere when I e
- xpress gratitude for their continued hunt for hilariously bad videos. I ho
- pe the search never ends.”— Steven Hyden\, Uproxx\n\nhttps://www.siff.
- net/cinema/in-theaters/found-footage-festival-porcelain-vhs-treasures\n\nE
- stimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -642,21 +612,6 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nNouvelles Femmes60th Anniversary
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Discreet Charm of the Bourgeoisie (1972)
-DTSTART:20261110T023000Z
-DTEND:20261110T043000Z
-DTSTAMP:20261110T023000Z
-UID:raujo4vZk7
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nSIFF Movie Club 4K restoration.
-  A group of six friends - three men and three women decidedly of the Frenc
- h Upper Middle Class - have their dinner plans continually interrupted due
-  to a series of bizarre events that can only be described as Buñuelian. I
- ntro by Graphic Design Manager Rhys Iliakis.\n\nhttps://www.siff.net/progr
- ams-and-events/siff-movie-club/the-discreet-charm-of-the-bourgeoisie\n\nEs
- timated start: 18:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pierrot le Fou (1965)
 DTSTART:20261111T033000Z
 DTEND:20261111T053500Z
@@ -669,6 +624,21 @@ DESCRIPTION:Duration: 110 mins (1h50m)\n\nNouvelles FemmesA husband (Jean-
  tor Godard's and Karina’s stormy marriage. It’s truly moving when he h
  as her gaze into our/his camera’s eyes.\n\nhttps://www.siff.net/programs
  -and-events/nouvelles-femmes/pierrot-le-fou\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Discreet Charm of the Bourgeoisie (1972)
+DTSTART:20261110T023000Z
+DTEND:20261110T043000Z
+DTSTAMP:20261110T023000Z
+UID:raujo4vZk7
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nSIFF Movie Club 4K restoration.
+  A group of six friends - three men and three women decidedly of the Frenc
+ h Upper Middle Class - have their dinner plans continually interrupted due
+  to a series of bizarre events that can only be described as Buñuelian. I
+ ntro by Graphic Design Manager Rhys Iliakis.\n\nhttps://www.siff.net/progr
+ ams-and-events/siff-movie-club/the-discreet-charm-of-the-bourgeoisie\n\nEs
+ timated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
