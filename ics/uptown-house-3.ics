@@ -3,7 +3,79 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260815T151322Z
+LAST-MODIFIED:20260816T151639Z
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260817T225000Z
+DTEND:20260818T013500Z
+DTSTAMP:20260817T225000Z
+UID:9a5aI2nwbg
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
+ :05
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260818T021500Z
+DTEND:20260818T050000Z
+DTSTAMP:20260818T021500Z
+UID:5IsGfA1jSC
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
+ :30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260819T225000Z
+DTEND:20260820T013500Z
+DTSTAMP:20260819T225000Z
+UID:3bFiuQ4prU
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
+ :05
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260820T021500Z
+DTEND:20260820T050000Z
+DTSTAMP:20260820T021500Z
+UID:P1KKUWnNZT
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
+ :30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Samurai and the Prisoner
 DTSTART:20260816T193000Z
@@ -59,11 +131,23 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260827T021500Z
+DTEND:20260827T042000Z
+DTSTAMP:20260827T021500Z
+UID:UnJnvVst3O
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Samurai and the Prisoner
-DTSTART:20260817T225000Z
-DTEND:20260818T013500Z
-DTSTAMP:20260817T225000Z
-UID:9a5aI2nwbg
+DTSTART:20260818T225000Z
+DTEND:20260819T013500Z
+DTSTAMP:20260818T225000Z
+UID:1Cjq1whdtk
 DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
  rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
  his lord and barricaded himself within Arioka Castle. As the siege wore on
@@ -78,100 +162,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Samurai and the Prisoner
-DTSTART:20260818T021500Z
-DTEND:20260818T050000Z
-DTSTAMP:20260818T021500Z
-UID:5IsGfA1jSC
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
- :30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260815T193000Z
-DTEND:20260815T221500Z
-DTSTAMP:20260815T193000Z
-UID:EHSPteNoIB
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 12
- :45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260815T225000Z
-DTEND:20260816T013500Z
-DTSTAMP:20260815T225000Z
-UID:uV9EXDbVHS
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
- :05
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260816T021500Z
-DTEND:20260816T050000Z
-DTSTAMP:20260816T021500Z
-UID:IFVTMrXsQ3
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
- :30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260819T225000Z
-DTEND:20260820T013500Z
-DTSTAMP:20260819T225000Z
-UID:3bFiuQ4prU
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
- :05
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260820T021500Z
-DTEND:20260820T050000Z
-DTSTAMP:20260820T021500Z
-UID:P1KKUWnNZT
+DTSTART:20260819T021500Z
+DTEND:20260819T050000Z
+DTSTAMP:20260819T021500Z
+UID:X4sCjpORNf
 DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
  rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
  his lord and barricaded himself within Arioka Castle. As the siege wore on
@@ -218,54 +212,6 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
   providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
  net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
  :30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260818T225000Z
-DTEND:20260819T013500Z
-DTSTAMP:20260818T225000Z
-UID:1Cjq1whdtk
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
- :05
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260819T021500Z
-DTEND:20260819T050000Z
-DTSTAMP:20260819T021500Z
-UID:X4sCjpORNf
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
- :30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260827T021500Z
-DTEND:20260827T042000Z
-DTSTAMP:20260827T021500Z
-UID:UnJnvVst3O
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
