@@ -3,72 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260817T155342Z
-BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260826T013000Z
-DTEND:20260826T044500Z
-DTSTAMP:20260826T013000Z
-UID:gytRmk1kdR
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romeria
-DTSTART:20260823T181500Z
-DTEND:20260823T202500Z
-DTSTAMP:20260823T181500Z
-UID:6WYhNTIHsA
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
- aphical tale and a touching portrait of family origins\, following 18-year
- -old Marina as she travels to Vigo determined to uncover information on he
- r father and learns the secrets that shaped her family.\n\nhttps://www.sif
- f.net/cinema/in-theaters/romeria\n\nEstimated start: 11:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260823T210000Z
-DTEND:20260824T001500Z
-DTSTAMP:20260823T210000Z
-UID:thZVVpuFXw
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romeria
-DTSTART:20260822T004000Z
-DTEND:20260822T025000Z
-DTSTAMP:20260822T004000Z
-UID:slHSbwVjDn
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
- aphical tale and a touching portrait of family origins\, following 18-year
- -old Marina as she travels to Vigo determined to uncover information on he
- r father and learns the secrets that shaped her family.\n\nhttps://www.sif
- f.net/cinema/in-theaters/romeria\n\nEstimated start: 17:55
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romeria
-DTSTART:20260822T033000Z
-DTEND:20260822T054000Z
-DTSTAMP:20260822T033000Z
-UID:xQBqDAseYi
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
- aphical tale and a touching portrait of family origins\, following 18-year
- -old Marina as she travels to Vigo determined to uncover information on he
- r father and learns the secrets that shaped her family.\n\nhttps://www.sif
- f.net/cinema/in-theaters/romeria\n\nEstimated start: 20:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260818T150926Z
 BEGIN:VEVENT
 SUMMARY:Romeria
 DTSTART:20260822T193000Z
@@ -106,6 +41,71 @@ DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
  ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
  nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
  sons-dangereuses\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeria
+DTSTART:20260823T181500Z
+DTEND:20260823T202500Z
+DTSTAMP:20260823T181500Z
+UID:6WYhNTIHsA
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
+ aphical tale and a touching portrait of family origins\, following 18-year
+ -old Marina as she travels to Vigo determined to uncover information on he
+ r father and learns the secrets that shaped her family.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/romeria\n\nEstimated start: 11:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260823T210000Z
+DTEND:20260824T001500Z
+DTSTAMP:20260823T210000Z
+UID:thZVVpuFXw
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260826T013000Z
+DTEND:20260826T044500Z
+DTSTAMP:20260826T013000Z
+UID:gytRmk1kdR
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeria
+DTSTART:20260822T004000Z
+DTEND:20260822T025000Z
+DTSTAMP:20260822T004000Z
+UID:slHSbwVjDn
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
+ aphical tale and a touching portrait of family origins\, following 18-year
+ -old Marina as she travels to Vigo determined to uncover information on he
+ r father and learns the secrets that shaped her family.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/romeria\n\nEstimated start: 17:55
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeria
+DTSTART:20260822T033000Z
+DTEND:20260822T054000Z
+DTSTAMP:20260822T033000Z
+UID:xQBqDAseYi
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
+ aphical tale and a touching portrait of family origins\, following 18-year
+ -old Marina as she travels to Vigo determined to uncover information on he
+ r father and learns the secrets that shaped her family.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/romeria\n\nEstimated start: 20:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
