@@ -3,113 +3,44 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260820T150842Z
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20260829T203000Z
-DTEND:20260829T222500Z
-DTSTAMP:20260829T203000Z
-UID:QlweZQBWbm
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall\
- n\nEstimated start: 13:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20260829T231500Z
-DTEND:20260830T011000Z
-DTSTAMP:20260829T231500Z
-UID:KHk8G7BOPC
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall\
- n\nEstimated start: 16:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20260830T020000Z
-DTEND:20260830T035500Z
-DTSTAMP:20260830T020000Z
-UID:Loorpqe2Y0
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall\
- n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romeria
-DTSTART:20260823T181500Z
-DTEND:20260823T202500Z
-DTSTAMP:20260823T181500Z
-UID:6WYhNTIHsA
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
- aphical tale and a touching portrait of family origins\, following 18-year
- -old Marina as she travels to Vigo determined to uncover information on he
- r father and learns the secrets that shaped her family.\n\nhttps://www.sif
- f.net/cinema/in-theaters/romeria\n\nEstimated start: 11:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260821T145800Z
 BEGIN:VEVENT
 SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260823T210000Z
-DTEND:20260824T001500Z
-DTSTAMP:20260823T210000Z
-UID:thZVVpuFXw
+DTSTART:20260826T013000Z
+DTEND:20260826T044500Z
+DTSTAMP:20260826T013000Z
+UID:gytRmk1kdR
 DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
  oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
  ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
  nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20260829T013000Z
-DTEND:20260829T032500Z
-DTSTAMP:20260829T013000Z
-UID:S3fRqJ47Tu
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall\
- n\nEstimated start: 18:45
+ sons-dangereuses\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Romeria
-DTSTART:20260822T193000Z
-DTEND:20260822T214000Z
-DTSTAMP:20260822T193000Z
-UID:dOSy2Kythg
+DTSTART:20260822T004000Z
+DTEND:20260822T025000Z
+DTSTAMP:20260822T004000Z
+UID:slHSbwVjDn
 DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
  aphical tale and a touching portrait of family origins\, following 18-year
  -old Marina as she travels to Vigo determined to uncover information on he
  r father and learns the secrets that shaped her family.\n\nhttps://www.sif
- f.net/cinema/in-theaters/romeria\n\nEstimated start: 12:45
+ f.net/cinema/in-theaters/romeria\n\nEstimated start: 17:55
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Romeria
-DTSTART:20260822T221500Z
-DTEND:20260823T002500Z
-DTSTAMP:20260822T221500Z
-UID:psF4Hgmgsv
+DTSTART:20260822T033000Z
+DTEND:20260822T054000Z
+DTSTAMP:20260822T033000Z
+UID:xQBqDAseYi
 DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
  aphical tale and a touching portrait of family origins\, following 18-year
  -old Marina as she travels to Vigo determined to uncover information on he
  r father and learns the secrets that shaped her family.\n\nhttps://www.sif
- f.net/cinema/in-theaters/romeria\n\nEstimated start: 15:30
+ f.net/cinema/in-theaters/romeria\n\nEstimated start: 20:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -155,6 +86,114 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bernstein's Wall (2021)
+DTSTART:20260829T013000Z
+DTEND:20260829T032500Z
+DTSTAMP:20260829T013000Z
+UID:S3fRqJ47Tu
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
+ ’s recent remake of West Side Story\, this portrait of its composer Leon
+ ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
+  his genius and his voracious\, even self-destructive\, appetite for music
+  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall\
+ n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeria
+DTSTART:20260823T181500Z
+DTEND:20260823T202500Z
+DTSTAMP:20260823T181500Z
+UID:6WYhNTIHsA
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
+ aphical tale and a touching portrait of family origins\, following 18-year
+ -old Marina as she travels to Vigo determined to uncover information on he
+ r father and learns the secrets that shaped her family.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/romeria\n\nEstimated start: 11:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Les Liaisons Dangereuses
+DTSTART:20260823T210000Z
+DTEND:20260824T001500Z
+DTSTAMP:20260823T210000Z
+UID:thZVVpuFXw
+DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
+ oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
+ ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
+ nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
+ sons-dangereuses\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeria
+DTSTART:20260822T193000Z
+DTEND:20260822T214000Z
+DTSTAMP:20260822T193000Z
+UID:dOSy2Kythg
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
+ aphical tale and a touching portrait of family origins\, following 18-year
+ -old Marina as she travels to Vigo determined to uncover information on he
+ r father and learns the secrets that shaped her family.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/romeria\n\nEstimated start: 12:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeria
+DTSTART:20260822T221500Z
+DTEND:20260823T002500Z
+DTSTAMP:20260822T221500Z
+UID:psF4Hgmgsv
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
+ aphical tale and a touching portrait of family origins\, following 18-year
+ -old Marina as she travels to Vigo determined to uncover information on he
+ r father and learns the secrets that shaped her family.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/romeria\n\nEstimated start: 15:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernstein's Wall (2021)
+DTSTART:20260829T203000Z
+DTEND:20260829T222500Z
+DTSTAMP:20260829T203000Z
+UID:QlweZQBWbm
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
+ ’s recent remake of West Side Story\, this portrait of its composer Leon
+ ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
+  his genius and his voracious\, even self-destructive\, appetite for music
+  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall\
+ n\nEstimated start: 13:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernstein's Wall (2021)
+DTSTART:20260829T231500Z
+DTEND:20260830T011000Z
+DTSTAMP:20260829T231500Z
+UID:KHk8G7BOPC
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
+ ’s recent remake of West Side Story\, this portrait of its composer Leon
+ ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
+  his genius and his voracious\, even self-destructive\, appetite for music
+  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall\
+ n\nEstimated start: 16:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernstein's Wall (2021)
+DTSTART:20260830T020000Z
+DTEND:20260830T035500Z
+DTSTAMP:20260830T020000Z
+UID:Loorpqe2Y0
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
+ ’s recent remake of West Side Story\, this portrait of its composer Leon
+ ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
+  his genius and his voracious\, even self-destructive\, appetite for music
+  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall\
+ n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: Les Liaisons Dangereuses
 DTSTART:20260825T013000Z
 DTEND:20260825T044500Z
@@ -181,19 +220,6 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Portugal. The Man
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live: Les Liaisons Dangereuses
-DTSTART:20260826T013000Z
-DTEND:20260826T044500Z
-DTSTAMP:20260826T013000Z
-UID:gytRmk1kdR
-DESCRIPTION:Duration: 180 mins (3h00m)\n\nStage to ScreenLesley Manville j
- oins Aidan Turner in a striking new staging of Christopher Hampton’s cel
- ebrated adaptation of the classic novel\, directed by Marianne Elliott.\n\
- nhttps://www.siff.net/programs-and-events/stage-to-screen/nt-live-les-liai
- sons-dangereuses\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brailled It
 DTSTART:20260920T230000Z
 DTEND:20260921T003000Z
@@ -204,32 +230,6 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nFor the first time\, blind and lo
  s at the annual Braille Challenge—a weekend of high-pressure competition
   and raw coming-of-age moments.\n\nhttps://www.siff.net/cinema/in-theaters
  /brailled-it\n\nEstimated start: 16:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romeria
-DTSTART:20260822T004000Z
-DTEND:20260822T025000Z
-DTSTAMP:20260822T004000Z
-UID:slHSbwVjDn
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
- aphical tale and a touching portrait of family origins\, following 18-year
- -old Marina as she travels to Vigo determined to uncover information on he
- r father and learns the secrets that shaped her family.\n\nhttps://www.sif
- f.net/cinema/in-theaters/romeria\n\nEstimated start: 17:55
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romeria
-DTSTART:20260822T033000Z
-DTEND:20260822T054000Z
-DTSTAMP:20260822T033000Z
-UID:xQBqDAseYi
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nA beautifully rendered autobiogr
- aphical tale and a touching portrait of family origins\, following 18-year
- -old Marina as she travels to Vigo determined to uncover information on he
- r father and learns the secrets that shaped her family.\n\nhttps://www.sif
- f.net/cinema/in-theaters/romeria\n\nEstimated start: 20:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT

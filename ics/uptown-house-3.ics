@@ -3,13 +3,77 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260820T150842Z
+LAST-MODIFIED:20260821T145800Z
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260825T224500Z
+DTEND:20260826T013000Z
+DTSTAMP:20260825T224500Z
+UID:3JohYjiB8l
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
+ :00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260826T021500Z
+DTEND:20260826T042000Z
+DTSTAMP:20260826T021500Z
+UID:ODZNhLfGBA
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260821T231500Z
+DTEND:20260822T020000Z
+DTSTAMP:20260821T231500Z
+UID:LVvO9mPoWh
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
+ :30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DTSTART:20260822T024500Z
+DTEND:20260822T045500Z
+DTSTAMP:20260822T024500Z
+UID:u81LrbuT68
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
+  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Doctor
-DTSTART:20260829T200000Z
-DTEND:20260829T215000Z
-DTSTAMP:20260829T200000Z
-UID:5b2FdwoUCc
+DTSTART:20260830T200000Z
+DTEND:20260830T215000Z
+DTSTAMP:20260830T200000Z
+UID:Up8vGRiMhl
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
  sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
  rom California\, and a Palestinian American ER specialist from Illinois—
@@ -20,10 +84,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Doctor
-DTSTART:20260829T230000Z
-DTEND:20260830T005000Z
-DTSTAMP:20260829T230000Z
-UID:kE0SXF1tHB
+DTSTART:20260830T230000Z
+DTEND:20260831T005000Z
+DTSTAMP:20260830T230000Z
+UID:8bnwmkPoRX
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
  sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
  rom California\, and a Palestinian American ER specialist from Illinois—
@@ -34,10 +98,38 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Doctor
-DTSTART:20260830T014500Z
-DTEND:20260830T033500Z
-DTSTAMP:20260830T014500Z
-UID:ehGMF5GwoO
+DTSTART:20260831T014500Z
+DTEND:20260831T033500Z
+DTSTAMP:20260831T014500Z
+UID:4FAgGR1oqn
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
+ sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
+ rom California\, and a Palestinian American ER specialist from Illinois—
+ volunteer their services in Gaza\, risking their lives to save others.\n\n
+ https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
+ : 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Doctor
+DTSTART:20260828T230000Z
+DTEND:20260829T005000Z
+DTSTAMP:20260828T230000Z
+UID:dIanldZEwT
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
+ sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
+ rom California\, and a Palestinian American ER specialist from Illinois—
+ volunteer their services in Gaza\, risking their lives to save others.\n\n
+ https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
+ : 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Doctor
+DTSTART:20260829T014500Z
+DTEND:20260829T033500Z
+DTSTAMP:20260829T014500Z
+UID:RwLI39fS0E
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
  sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
  rom California\, and a Palestinian American ER specialist from Illinois—
@@ -91,34 +183,6 @@ DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260828T230000Z
-DTEND:20260829T005000Z
-DTSTAMP:20260828T230000Z
-UID:dIanldZEwT
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260829T014500Z
-DTEND:20260829T033500Z
-DTSTAMP:20260829T014500Z
-UID:RwLI39fS0E
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Invite
 DTSTART:20260822T194500Z
 DTEND:20260822T215000Z
@@ -164,10 +228,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Doctor
-DTSTART:20260830T200000Z
-DTEND:20260830T215000Z
-DTSTAMP:20260830T200000Z
-UID:Up8vGRiMhl
+DTSTART:20260829T200000Z
+DTEND:20260829T215000Z
+DTSTAMP:20260829T200000Z
+UID:5b2FdwoUCc
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
  sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
  rom California\, and a Palestinian American ER specialist from Illinois—
@@ -178,10 +242,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Doctor
-DTSTART:20260830T230000Z
-DTEND:20260831T005000Z
-DTSTAMP:20260830T230000Z
-UID:8bnwmkPoRX
+DTSTART:20260829T230000Z
+DTEND:20260830T005000Z
+DTSTAMP:20260829T230000Z
+UID:kE0SXF1tHB
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
  sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
  rom California\, and a Palestinian American ER specialist from Illinois—
@@ -192,47 +256,16 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Doctor
-DTSTART:20260831T014500Z
-DTEND:20260831T033500Z
-DTSTAMP:20260831T014500Z
-UID:4FAgGR1oqn
+DTSTART:20260830T014500Z
+DTEND:20260830T033500Z
+DTSTAMP:20260830T014500Z
+UID:ehGMF5GwoO
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
  sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
  rom California\, and a Palestinian American ER specialist from Illinois—
  volunteer their services in Gaza\, risking their lives to save others.\n\n
  https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
  : 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260824T224500Z
-DTEND:20260825T005000Z
-DTSTAMP:20260824T224500Z
-UID:gfviZVjoiG
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260825T014500Z
-DTEND:20260825T043000Z
-DTSTAMP:20260825T014500Z
-UID:9VfLIhrKOv
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
- :00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -261,65 +294,6 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
  volunteer their services in Gaza\, risking their lives to save others.\n\n
  https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
  : 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260901T230000Z
-DTEND:20260902T005000Z
-DTSTAMP:20260901T230000Z
-UID:nSENZHTpBc
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260902T014500Z
-DTEND:20260902T033500Z
-DTSTAMP:20260902T014500Z
-UID:TP76kBRLFR
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260827T224500Z
-DTEND:20260828T013000Z
-DTSTAMP:20260827T224500Z
-UID:UTvTrX7tkh
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
- :00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260828T021500Z
-DTEND:20260828T042000Z
-DTSTAMP:20260828T021500Z
-UID:gEGIojgdrD
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -376,6 +350,96 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260824T224500Z
+DTEND:20260825T005000Z
+DTSTAMP:20260824T224500Z
+UID:gfviZVjoiG
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260827T224500Z
+DTEND:20260828T013000Z
+DTSTAMP:20260827T224500Z
+UID:UTvTrX7tkh
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
+ :00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260828T021500Z
+DTEND:20260828T042000Z
+DTSTAMP:20260828T021500Z
+UID:gEGIojgdrD
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner
+DTSTART:20260825T014500Z
+DTEND:20260825T043000Z
+DTSTAMP:20260825T014500Z
+UID:9VfLIhrKOv
+DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
+ rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
+ his lord and barricaded himself within Arioka Castle. As the siege wore on
+ \, a bafflingly brutal murder occurred inside the castle walls. With no on
+ e able to solve the crime\, fears and tensions are rising\, Murashige turn
+ ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
+  one of the greatest military strategists of the Sengoku period\, he began
+  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
+ net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
+ :00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Doctor
+DTSTART:20260901T230000Z
+DTEND:20260902T005000Z
+DTSTAMP:20260901T230000Z
+UID:nSENZHTpBc
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
+ sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
+ rom California\, and a Palestinian American ER specialist from Illinois—
+ volunteer their services in Gaza\, risking their lives to save others.\n\n
+ https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
+ : 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Doctor
+DTSTART:20260902T014500Z
+DTEND:20260902T033500Z
+DTSTAMP:20260902T014500Z
+UID:TP76kBRLFR
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
+ sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
+ rom California\, and a Palestinian American ER specialist from Illinois—
+ volunteer their services in Gaza\, risking their lives to save others.\n\n
+ https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
+ : 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:American Doctor
 DTSTART:20260903T230000Z
 DTEND:20260904T005000Z
@@ -401,106 +465,6 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
  volunteer their services in Gaza\, risking their lives to save others.\n\n
  https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
  : 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260825T224500Z
-DTEND:20260826T013000Z
-DTSTAMP:20260825T224500Z
-UID:3JohYjiB8l
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
- :00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260826T021500Z
-DTEND:20260826T042000Z
-DTSTAMP:20260826T021500Z
-UID:ODZNhLfGBA
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260821T231500Z
-DTEND:20260822T020000Z
-DTSTAMP:20260821T231500Z
-UID:LVvO9mPoWh
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
- :30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260820T225000Z
-DTEND:20260821T013500Z
-DTSTAMP:20260820T225000Z
-UID:ZX02OKvAOQ
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 16
- :05
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner
-DTSTART:20260821T021500Z
-DTEND:20260821T050000Z
-DTSTAMP:20260821T021500Z
-UID:sPnOv0hgEp
-DESCRIPTION:Duration: 147 mins (2h27m)\n\nDuring the Azuchi era\, Araki Mu
- rashige\, a samurai who served Oda Nobunaga\, eventually rebelled against 
- his lord and barricaded himself within Arioka Castle. As the siege wore on
- \, a bafflingly brutal murder occurred inside the castle walls. With no on
- e able to solve the crime\, fears and tensions are rising\, Murashige turn
- ed to a man he himself had cast into a dungeon: Kuroda Kanbei. Regarded as
-  one of the greatest military strategists of the Sengoku period\, he began
-  providing Murashige with clues to solve the mystery.\n\nhttps://www.siff.
- net/cinema/in-theaters/the-samurai-and-the-prisoner\n\nEstimated start: 19
- :30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260822T024500Z
-DTEND:20260822T045500Z
-DTSTAMP:20260822T024500Z
-UID:u81LrbuT68
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

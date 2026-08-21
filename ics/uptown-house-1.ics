@@ -3,13 +3,63 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260820T150842Z
+LAST-MODIFIED:20260821T145800Z
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260829T201500Z
-DTEND:20260829T222000Z
-DTSTAMP:20260829T201500Z
-UID:TUiBWy7hrt
+DTSTART:20260825T230000Z
+DTEND:20260826T010500Z
+DTSTAMP:20260825T230000Z
+UID:gCwaI0fg6E
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260826T020000Z
+DTEND:20260826T040500Z
+DTSTAMP:20260826T020000Z
+UID:9MJgMuAG67
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Astronaut (35mm) (2001)
+DTSTART:20260822T010000Z
+DTEND:20260822T025000Z
+DTSTAMP:20260822T010000Z
+UID:1kuYSjeSdl
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
+ ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
+  through a rustic and remote solar system\, unaware that his old friend Pr
+ ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/the-american-astronaut\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Astronaut (35mm) (2001)
+DTSTART:20260822T033000Z
+DTEND:20260822T052000Z
+DTSTAMP:20260822T033000Z
+UID:rhWWUH7OZK
+DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
+ ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
+  through a rustic and remote solar system\, unaware that his old friend Pr
+ ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/the-american-astronaut\n\nEstimated start: 20:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260830T201500Z
+DTEND:20260830T222000Z
+DTSTAMP:20260830T201500Z
+UID:vQWdvhiXms
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -18,10 +68,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260829T231500Z
-DTEND:20260830T012000Z
-DTSTAMP:20260829T231500Z
-UID:DHdLKjHSsZ
+DTSTART:20260830T231500Z
+DTEND:20260831T012000Z
+DTSTAMP:20260830T231500Z
+UID:xOZi2Ib8KK
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -30,10 +80,34 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260830T020000Z
-DTEND:20260830T040500Z
-DTSTAMP:20260830T020000Z
-UID:RKCFOy1gAS
+DTSTART:20260831T020000Z
+DTEND:20260831T040500Z
+DTSTAMP:20260831T020000Z
+UID:4TCxMmsvW0
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260828T231500Z
+DTEND:20260829T012000Z
+DTSTAMP:20260828T231500Z
+UID:0mHKD4t9ri
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260829T020000Z
+DTEND:20260829T040500Z
+DTSTAMP:20260829T020000Z
+UID:VarjarmTwe
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -78,30 +152,6 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260828T231500Z
-DTEND:20260829T012000Z
-DTSTAMP:20260828T231500Z
-UID:0mHKD4t9ri
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260829T020000Z
-DTEND:20260829T040500Z
-DTSTAMP:20260829T020000Z
-UID:VarjarmTwe
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
 DTSTART:20260822T200000Z
 DTEND:20260822T220500Z
 DTSTAMP:20260822T200000Z
@@ -138,10 +188,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260830T201500Z
-DTEND:20260830T222000Z
-DTSTAMP:20260830T201500Z
-UID:vQWdvhiXms
+DTSTART:20260829T201500Z
+DTEND:20260829T222000Z
+DTSTAMP:20260829T201500Z
+UID:TUiBWy7hrt
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -150,10 +200,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260830T231500Z
-DTEND:20260831T012000Z
-DTSTAMP:20260830T231500Z
-UID:xOZi2Ib8KK
+DTSTART:20260829T231500Z
+DTEND:20260830T012000Z
+DTSTAMP:20260829T231500Z
+UID:DHdLKjHSsZ
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -162,34 +212,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260831T020000Z
-DTEND:20260831T040500Z
-DTSTAMP:20260831T020000Z
-UID:4TCxMmsvW0
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260824T230000Z
-DTEND:20260825T010500Z
-DTSTAMP:20260824T230000Z
-UID:1Yl4g3falU
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260825T020000Z
-DTEND:20260825T040500Z
-DTSTAMP:20260825T020000Z
-UID:cIAknLAyGm
+DTSTART:20260830T020000Z
+DTEND:20260830T040500Z
+DTSTAMP:20260830T020000Z
+UID:RKCFOy1gAS
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -214,54 +240,6 @@ DTSTART:20260901T020000Z
 DTEND:20260901T040500Z
 DTSTAMP:20260901T020000Z
 UID:BjJ1dYmR4H
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260901T231500Z
-DTEND:20260902T012000Z
-DTSTAMP:20260901T231500Z
-UID:72184GSknD
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260902T020000Z
-DTEND:20260902T040500Z
-DTSTAMP:20260902T020000Z
-UID:Pv0eqid2vt
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260827T230000Z
-DTEND:20260828T010500Z
-DTSTAMP:20260827T230000Z
-UID:5pU4vUiECQ
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260828T020000Z
-DTEND:20260828T040500Z
-DTSTAMP:20260828T020000Z
-UID:06Ith1qENr
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -322,6 +300,78 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
+DTSTART:20260824T230000Z
+DTEND:20260825T010500Z
+DTSTAMP:20260824T230000Z
+UID:1Yl4g3falU
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260825T020000Z
+DTEND:20260825T040500Z
+DTSTAMP:20260825T020000Z
+UID:cIAknLAyGm
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260827T230000Z
+DTEND:20260828T010500Z
+DTSTAMP:20260827T230000Z
+UID:5pU4vUiECQ
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260828T020000Z
+DTEND:20260828T040500Z
+DTSTAMP:20260828T020000Z
+UID:06Ith1qENr
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260901T231500Z
+DTEND:20260902T012000Z
+DTSTAMP:20260901T231500Z
+UID:72184GSknD
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260902T020000Z
+DTEND:20260902T040500Z
+DTSTAMP:20260902T020000Z
+UID:Pv0eqid2vt
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
 DTSTART:20260903T231500Z
 DTEND:20260904T012000Z
 DTSTAMP:20260903T231500Z
@@ -342,6 +392,27 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
  nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Found Footage Fest: Porcelain VHS Treasures
+DTSTART:20260911T020000Z
+DTEND:20260911T034500Z
+DTSTAMP:20260911T020000Z
+UID:0wrIiPLbH1
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nLive comedy with VHS tapes!BRAND 
+ NEW VOLUME 11 SHOW FOR 2026! Joe Pickett (The Onion) and Nick Prueher (La
+ te Show With David Letterman) have over 14\,000 VHS tapes in their clutter
+ ed office in Brooklyn and will take viewers on a guided tour of their late
+ st/greatest finds in this brand new Volume 11 show for 2026. Highlights in
+ clude a psychotic dollar store salesman\, a video catalog of frightening p
+ orcelain dolls\, two wonderfully homemade Bigfoot videos and a new age “
+ miracle” treatment from the 80s called “Psychic Surgery.” (Contains 
+ nudity\, language\, clowns)“I think I speak for fans everywhere when I e
+ xpress gratitude for their continued hunt for hilariously bad videos. I ho
+ pe the search never ends.”— Steven Hyden\, Uproxx\n\nhttps://www.siff.
+ net/cinema/in-theaters/found-footage-festival-porcelain-vhs-treasures\n\nE
+ stimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -376,51 +447,6 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nSIFF Movie Club Written and dire
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Found Footage Fest: Porcelain VHS Treasures
-DTSTART:20260911T020000Z
-DTEND:20260911T034500Z
-DTSTAMP:20260911T020000Z
-UID:0wrIiPLbH1
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nLive comedy with VHS tapes!BRAND 
- NEW VOLUME 11 SHOW FOR 2026! Joe Pickett (The Onion) and Nick Prueher (La
- te Show With David Letterman) have over 14\,000 VHS tapes in their clutter
- ed office in Brooklyn and will take viewers on a guided tour of their late
- st/greatest finds in this brand new Volume 11 show for 2026. Highlights in
- clude a psychotic dollar store salesman\, a video catalog of frightening p
- orcelain dolls\, two wonderfully homemade Bigfoot videos and a new age “
- miracle” treatment from the 80s called “Psychic Surgery.” (Contains 
- nudity\, language\, clowns)“I think I speak for fans everywhere when I e
- xpress gratitude for their continued hunt for hilariously bad videos. I ho
- pe the search never ends.”— Steven Hyden\, Uproxx\n\nhttps://www.siff.
- net/cinema/in-theaters/found-footage-festival-porcelain-vhs-treasures\n\nE
- stimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260825T230000Z
-DTEND:20260826T010500Z
-DTSTAMP:20260825T230000Z
-UID:gCwaI0fg6E
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260826T020000Z
-DTEND:20260826T040500Z
-DTSTAMP:20260826T020000Z
-UID:9MJgMuAG67
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Breathless (1960)
 DTSTART:20260917T023000Z
 DTEND:20260917T041500Z
@@ -433,62 +459,6 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesMichel (Jean-Paul
  his crime spree. She (standing still) gives us a Mona Lisa gaze: all the m
  ysteries.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/bre
  athless\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Astronaut (35mm) (2001)
-DTSTART:20260822T010000Z
-DTEND:20260822T025000Z
-DTSTAMP:20260822T010000Z
-UID:1kuYSjeSdl
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
- ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
-  through a rustic and remote solar system\, unaware that his old friend Pr
- ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
- ters/the-american-astronaut\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260820T233000Z
-DTEND:20260821T014000Z
-DTSTAMP:20260820T233000Z
-UID:5mkOicF7Zk
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma (35mm)
-DTSTART:20260821T023000Z
-DTEND:20260821T044000Z
-DTSTAMP:20260821T023000Z
-UID:DT3EG6cvug
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. P
- resented in 35mm.\n\nhttps://www.siff.net/cinema/in-theaters/teenage-sex-a
- nd-death-at-camp-miasma-(35mm)\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Astronaut (35mm) (2001)
-DTSTART:20260822T033000Z
-DTEND:20260822T052000Z
-DTSTAMP:20260822T033000Z
-UID:rhWWUH7OZK
-DESCRIPTION:Duration: 94 mins (1h34m)\n\nA rare 35mm print of this 2001 sp
- ace western musical. Samuel Curtis\, an interplanetary trader\, sets forth
-  through a rustic and remote solar system\, unaware that his old friend Pr
- ofessor Hess is trying to kill him.\n\nhttps://www.siff.net/cinema/in-thea
- ters/the-american-astronaut\n\nEstimated start: 20:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -557,20 +527,6 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nWelcome to the first installment
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ginger Snaps (2000)
-DTSTART:20261013T013000Z
-DTEND:20261013T033500Z
-DTSTAMP:20261013T013000Z
-UID:9WE2YUelBy
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Movie Club Ginger Snaps is
-  a 2000 Canadian supernatural horror film about two death-obsessed sisters
- \, outcasts in their suburban neighborhood\, who must deal with the tragic
-  consequences when one of them is bitten by a deadly werewolf. Intro by C
- inema Worker Larcyn Burnett.\n\nhttps://www.siff.net/programs-and-events/s
- iff-movie-club/ginger-snaps\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le Bonheur (Happiness) (1965)
 DTSTART:20261015T023000Z
 DTEND:20261015T040500Z
@@ -583,6 +539,20 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nNouvelles FemmesIn a French Impre
  al clerk (Marie-France Boyer)\, he realizes he has a capacity for “more 
  flowers\, more apples.”\n\nhttps://www.siff.net/programs-and-events/nouv
  elles-femmes/le-bonheur-(happiness)\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ginger Snaps (2000)
+DTSTART:20261013T013000Z
+DTEND:20261013T033500Z
+DTSTAMP:20261013T013000Z
+UID:9WE2YUelBy
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Movie Club Ginger Snaps is
+  a 2000 Canadian supernatural horror film about two death-obsessed sisters
+ \, outcasts in their suburban neighborhood\, who must deal with the tragic
+  consequences when one of them is bitten by a deadly werewolf. Intro by C
+ inema Worker Larcyn Burnett.\n\nhttps://www.siff.net/programs-and-events/s
+ iff-movie-club/ginger-snaps\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -640,12 +610,12 @@ DTSTART:20261030T020000Z
 DTEND:20261030T034500Z
 DTSTAMP:20261030T020000Z
 UID:SFlwuShUal
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nThe world's #1 cat video festival
-  is back with screenings in theaters across the USA and around the world.
-  A portion of ticket sales will support PAWS (​​Progressive Animal We
- lfare Society). NEKO Cat Cafe will be tabling in the lobby before every s
- howtime. 🐱\n\nhttps://www.siff.net/cinema/in-theaters/cat-vid-fest-26\n
- \nEstimated start: 19:15
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nSpecial encore screening for Nati
+ onal Cat Day! The world's #1 cat video festival is back with screenings i
+ n theaters across the USA and around the world. A portion of ticket sales
+  will support PAWS (​​Progressive Animal Welfare Society). NEKO Cat C
+ afe will be tabling in the lobby before showtime. 🐱\n\nhttps://www.siff
+ .net/cinema/in-theaters/cat-vid-fest-26\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
