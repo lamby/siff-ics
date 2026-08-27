@@ -3,7 +3,67 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260825T173115Z
+LAST-MODIFIED:20260827T155337Z
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260827T230000Z
+DTEND:20260828T010500Z
+DTSTAMP:20260827T230000Z
+UID:5pU4vUiECQ
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260828T020000Z
+DTEND:20260828T040500Z
+DTSTAMP:20260828T020000Z
+UID:06Ith1qENr
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260830T201500Z
+DTEND:20260830T222000Z
+DTSTAMP:20260830T201500Z
+UID:vQWdvhiXms
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 13:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260830T231500Z
+DTEND:20260831T012000Z
+DTSTAMP:20260830T231500Z
+UID:xOZi2Ib8KK
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260831T020000Z
+DTEND:20260831T040500Z
+DTSTAMP:20260831T020000Z
+UID:4TCxMmsvW0
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
 DTSTART:20260829T201500Z
@@ -66,30 +126,6 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260825T230000Z
-DTEND:20260826T010500Z
-DTSTAMP:20260825T230000Z
-UID:gCwaI0fg6E
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260826T020000Z
-DTEND:20260826T040500Z
-DTSTAMP:20260826T020000Z
-UID:9MJgMuAG67
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
 DTSTART:20260828T231500Z
 DTEND:20260829T012000Z
 DTSTAMP:20260828T231500Z
@@ -106,42 +142,6 @@ DTSTART:20260829T020000Z
 DTEND:20260829T040500Z
 DTSTAMP:20260829T020000Z
 UID:VarjarmTwe
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260830T201500Z
-DTEND:20260830T222000Z
-DTSTAMP:20260830T201500Z
-UID:vQWdvhiXms
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 13:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260830T231500Z
-DTEND:20260831T012000Z
-DTSTAMP:20260830T231500Z
-UID:xOZi2Ib8KK
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260831T020000Z
-DTEND:20260831T040500Z
-DTSTAMP:20260831T020000Z
-UID:4TCxMmsvW0
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -221,34 +221,6 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260826T230000Z
-DTEND:20260827T010500Z
-DTSTAMP:20260826T230000Z
-UID:hj8YNbUw3C
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goldeneye (35mm) (1995)
-DTSTART:20260827T020000Z
-DTEND:20260827T042500Z
-DTSTAMP:20260827T020000Z
-UID:sqJ0cT2sy2
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nWhen a powerful satellite system
-  falls into the hands of Alec Trevelyan\, AKA Agent 006 (Sean Bean)\, a fo
- rmer ally-turned-enemy\, only James Bond (Pierce Brosnan) can save the wor
- ld from an awesome space weapon that -- in one short pulse -- could destro
- y the earth!  It's a formal night at Uptown! Sport your tailored suits an
- d elegant dresses for a sophisticated evening of espionage. Tuxedo t-shir
- ts are also acceptable.\n\nhttps://www.siff.net/programs-and-events/cold-
- war-summer/goldeneye\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Faust with the Invincible Czars (1926)
 DTSTART:20260910T020000Z
 DTEND:20260910T040500Z
@@ -263,74 +235,6 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe Invincible Czars celebrate 1
  h this 100 year old film! *Live music by The Invincible Czars*\n\nhttps:/
  /www.siff.net/cinema/in-theaters/faust-with-the-invincible-czars\n\nEstima
  ted start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260827T230000Z
-DTEND:20260828T010500Z
-DTSTAMP:20260827T230000Z
-UID:5pU4vUiECQ
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260828T020000Z
-DTEND:20260828T040500Z
-DTSTAMP:20260828T020000Z
-UID:06Ith1qENr
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serial Mom (1994)
-DTSTART:20260915T013000Z
-DTEND:20260915T032000Z
-DTSTAMP:20260915T013000Z
-UID:QEO4Bu7qPq
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nSIFF Movie Club Written and dire
- cted by John Waters\, this 1994 dark satirical comedy stars Kathleen Turne
- r as Beverly Sutphin\, a picture-perfect suburban housewife and mother who
-  secretly moonlights as a gleeful serial killer. Intro by Graphic Design 
- Manager Rhys Iliakis.\n\nhttps://www.siff.net/programs-and-events/siff-mov
- ie-club/serial-mom\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breathless (1960)
-DTSTART:20260917T023000Z
-DTEND:20260917T041500Z
-DTSTAMP:20260917T023000Z
-UID:gpN6milkw1
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesMichel (Jean-Paul
-  Belmondo) stomps the accelerator\, is Parisian-cool\, and casual about th
- e big things (love\, living and dying). Speeding ahead like Bogart in thos
- e American Noir movies\, with the American Patricia (Jean Seberg) sharing 
- his crime spree. She (standing still) gives us a Mona Lisa gaze: all the m
- ysteries.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/bre
- athless\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jules and Jim (1961)
-DTSTART:20260924T023000Z
-DTEND:20260924T043000Z
-DTSTAMP:20260924T023000Z
-UID:DyvIK0gD7D
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nNouvelles FemmesTwo Parisian lit
- erature-loving friends (Oscar Werner\, Henri Serre) are dumbstruck when th
- ey encounter Catherine (Jeanne Moreau)\, a real-life embodiment of passion
- ate\, adventurous living. Respect and affection flow freely between the th
- ree\, and soon a larking-about friendship branches into many configuration
- s of love.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/ju
- les-and-jim\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -355,6 +259,50 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nLive comedy with VHS tapes!BRAND
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breathless (1960)
+DTSTART:20260917T023000Z
+DTEND:20260917T041500Z
+DTSTAMP:20260917T023000Z
+UID:gpN6milkw1
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesMichel (Jean-Paul
+  Belmondo) stomps the accelerator\, is Parisian-cool\, and casual about th
+ e big things (love\, living and dying). Speeding ahead like Bogart in thos
+ e American Noir movies\, with the American Patricia (Jean Seberg) sharing 
+ his crime spree. She (standing still) gives us a Mona Lisa gaze: all the m
+ ysteries.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/bre
+ athless\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serial Mom (1994)
+DTSTART:20260915T013000Z
+DTEND:20260915T032000Z
+DTSTAMP:20260915T013000Z
+UID:QEO4Bu7qPq
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nSIFF Movie Club Written and dire
+ cted by John Waters\, this 1994 dark satirical comedy stars Kathleen Turne
+ r as Beverly Sutphin\, a picture-perfect suburban housewife and mother who
+  secretly moonlights as a gleeful serial killer. Intro by Graphic Design 
+ Manager Rhys Iliakis.\n\nhttps://www.siff.net/programs-and-events/siff-mov
+ ie-club/serial-mom\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jules and Jim (1961)
+DTSTART:20260924T023000Z
+DTEND:20260924T043000Z
+DTSTAMP:20260924T023000Z
+UID:DyvIK0gD7D
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nNouvelles FemmesTwo Parisian lit
+ erature-loving friends (Oscar Werner\, Henri Serre) are dumbstruck when th
+ ey encounter Catherine (Jeanne Moreau)\, a real-life embodiment of passion
+ ate\, adventurous living. Respect and affection flow freely between the th
+ ree\, and soon a larking-about friendship branches into many configuration
+ s of love.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/ju
+ les-and-jim\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cleo From 5 to 7 (1962)
 DTSTART:20261001T023000Z
 DTEND:20261001T041500Z
@@ -367,26 +315,6 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesThis afternoon\,
  Varda says\, “She changes to a black dress\, like singer Edith Piaf\, an
  d goes out\; now she looks at the world.”\n\nhttps://www.siff.net/progra
  ms-and-events/nouvelles-femmes/cleo-from-5-to-7\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carrie (1976)
-DTSTART:20261011T223000Z
-DTEND:20261012T002500Z
-DTSTAMP:20261011T223000Z
-UID:XLAEPL8Pc2
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nWelcome to the first installment 
- of SIFF Book Club! We are reading Stephen King's "Carrie" and then watchin
- g it on the big screen for the 50th anniversary.Brian De Palma’s 1976 l
- andmark supernatural horror film\, based on Stephen King’s first novel\,
-  resulted in an Oscar® nomination for Sissy Spacek’s portrayal of a tee
- naged social outcast wielding fatal telekinetic powers.  Arrive early to 
- peruse a selection of books from Mercer Street Books. Local artists Chloe 
- Ladwig and Max B will be selling prints\, stickers\, and more featuring th
- e Carrie White. Festival Senior Programmer Dan Doody will be introducing t
- he screening\, providing some book-to-film context before we meet afterwar
- ds for our Book Club discussion at The Traveling Goat.\n\nhttps://www.siff
- .net/programs-and-events/siff-book-club/carrie\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -419,6 +347,26 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Movie Club Ginger Snaps is
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Carrie (1976)
+DTSTART:20261011T223000Z
+DTEND:20261012T002500Z
+DTSTAMP:20261011T223000Z
+UID:XLAEPL8Pc2
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nWelcome to the first installment 
+ of SIFF Book Club! We are reading Stephen King's "Carrie" and then watchin
+ g it on the big screen for the 50th anniversary.Brian De Palma’s 1976 l
+ andmark supernatural horror film\, based on Stephen King’s first novel\,
+  resulted in an Oscar® nomination for Sissy Spacek’s portrayal of a tee
+ naged social outcast wielding fatal telekinetic powers.  Arrive early to 
+ peruse a selection of books from Mercer Street Books. Local artists Chloe 
+ Ladwig and Max B will be selling prints\, stickers\, and more featuring th
+ e Carrie White. Festival Senior Programmer Dan Doody will be introducing t
+ he screening\, providing some book-to-film context before we meet afterwar
+ ds for our Book Club discussion at The Traveling Goat.\n\nhttps://www.siff
+ .net/programs-and-events/siff-book-club/carrie\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Le Bonheur (Happiness) (1965)
 DTSTART:20261015T023000Z
 DTEND:20261015T040500Z
@@ -431,6 +379,35 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nNouvelles FemmesIn a French Impre
  al clerk (Marie-France Boyer)\, he realizes he has a capacity for “more 
  flowers\, more apples.”\n\nhttps://www.siff.net/programs-and-events/nouv
  elles-femmes/le-bonheur-(happiness)\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hitcher (1986)
+DTSTART:20261016T020000Z
+DTEND:20261016T035500Z
+DTSTAMP:20261016T020000Z
+UID:PxCaq8rbON
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nOn a dark and stormy night\, fati
+ gued driver Jim Halsey (C. Thomas Howell) picks up a mysterious hitchhiker
+  (Rutger Hauer)\, leading to a terrifying cat-and-mouse nightmare along th
+ e highways of the American southwest.\n\nhttps://www.siff.net/programs-and
+ -events/the-open-road/the-hitcher\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Band of Outsiders (1964)
+DTSTART:20261022T023000Z
+DTEND:20261022T042000Z
+DTSTAMP:20261022T023000Z
+UID:X5lfrHskLW
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nNouvelles FemmesGodard puts his a
+ ppreciative-playful spin on Hollywood-style Noir. Two guys (Claude Brasseu
+ r\, Sami Frey) team with a lovely\, naive\, doe-eyed language student (Ann
+ a Karina) to steal money that’s hidden in her rooming house. Karina conv
+ eys a woman coming into her exuberant selfhood. When the three line dance 
+ the Madison\, she keeps going\, bouncing and smiling.\n\nhttps://www.siff.
+ net/programs-and-events/nouvelles-femmes/band-of-outsiders\n\nEstimated st
+ art: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -449,22 +426,6 @@ DESCRIPTION:Duration: 60 mins (1h00m)\n\nMatchstick Productions returns wi
  VIP tickets include premium seating and gift bag from Matchstick Productio
  ns partners.\n\nhttps://www.siff.net/cinema/in-theaters/matchstick-product
  ions-presents-the-way-out-2026-ski-film\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Band of Outsiders (1964)
-DTSTART:20261022T023000Z
-DTEND:20261022T042000Z
-DTSTAMP:20261022T023000Z
-UID:X5lfrHskLW
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nNouvelles FemmesGodard puts his a
- ppreciative-playful spin on Hollywood-style Noir. Two guys (Claude Brasseu
- r\, Sami Frey) team with a lovely\, naive\, doe-eyed language student (Ann
- a Karina) to steal money that’s hidden in her rooming house. Karina conv
- eys a woman coming into her exuberant selfhood. When the three line dance 
- the Madison\, she keeps going\, bouncing and smiling.\n\nhttps://www.siff.
- net/programs-and-events/nouvelles-femmes/band-of-outsiders\n\nEstimated st
- art: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -512,6 +473,21 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nNouvelles Femmes60th Anniversary
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pierrot le Fou (1965)
+DTSTART:20261111T033000Z
+DTEND:20261111T053500Z
+DTSTAMP:20261111T033000Z
+UID:2Iwpxo12vu
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nNouvelles FemmesA husband (Jean-
+ Paul Belmondo) flees his shallow Paris life with the babysitter (Anna Kari
+ na)\, to French Riviera escapades with gangsters\, stolen loot\, sunny hed
+ onism\, political commentary\; a charming disorder\, a reflection of direc
+ tor Godard's and Karina’s stormy marriage. It’s truly moving when he h
+ as her gaze into our/his camera’s eyes.\n\nhttps://www.siff.net/programs
+ -and-events/nouvelles-femmes/pierrot-le-fou\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Discreet Charm of the Bourgeoisie (1972)
 DTSTART:20261110T023000Z
 DTEND:20261110T043000Z
@@ -539,21 +515,6 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nNouvelles FemmesFate and chance
  f education\, culture\, challenging conversation\, career stability\, and 
  bedroom eyes.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes
  /my-night-at-mauds\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pierrot le Fou (1965)
-DTSTART:20261111T033000Z
-DTEND:20261111T053500Z
-DTSTAMP:20261111T033000Z
-UID:2Iwpxo12vu
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nNouvelles FemmesA husband (Jean-
- Paul Belmondo) flees his shallow Paris life with the babysitter (Anna Kari
- na)\, to French Riviera escapades with gangsters\, stolen loot\, sunny hed
- onism\, political commentary\; a charming disorder\, a reflection of direc
- tor Godard's and Karina’s stormy marriage. It’s truly moving when he h
- as her gaze into our/his camera’s eyes.\n\nhttps://www.siff.net/programs
- -and-events/nouvelles-femmes/pierrot-le-fou\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
