@@ -3,46 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260827T155337Z
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260830T203000Z
-DTEND:20260830T223500Z
-DTSTAMP:20260830T203000Z
-UID:DsVw4CDoJ6
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 13:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260830T231500Z
-DTEND:20260831T012000Z
-DTSTAMP:20260830T231500Z
-UID:ZyH9xQk1Os
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260831T020000Z
-DTEND:20260831T040500Z
-DTSTAMP:20260831T020000Z
-UID:1Uqnl8SbLd
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20260828T143503Z
 BEGIN:VEVENT
 SUMMARY:The Invite
 DTSTART:20260829T203000Z
@@ -96,6 +57,45 @@ DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260830T203000Z
+DTEND:20260830T223500Z
+DTSTAMP:20260830T203000Z
+UID:DsVw4CDoJ6
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 13:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260830T231500Z
+DTEND:20260831T012000Z
+DTSTAMP:20260830T231500Z
+UID:ZyH9xQk1Os
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 16:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invite
+DTSTART:20260831T020000Z
+DTEND:20260831T040500Z
+DTSTAMP:20260831T020000Z
+UID:1Uqnl8SbLd
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
+ n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
+ er party\, the night spirals into unexpected places. Have they reignited t
+ he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
+ cinema/in-theaters/the-invite\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Pain And The Power (Advance Screening)
 DTSTART:20260914T020000Z
 DTEND:20260914T041500Z
@@ -109,19 +109,6 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Portugal. The Man
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gun Crazy (1950)
-DTSTART:20260922T020000Z
-DTEND:20260922T034500Z
-DTSTAMP:20260922T020000Z
-UID:Cna6Cnh3Nc
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
- madly in love with a skilled carnival sharpshooter. Their ferocious amour 
- fou leads to a dangerous cross country crime spree in this passionate film
-  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brailled It
 DTSTART:20260920T230000Z
 DTEND:20260921T003000Z
@@ -132,6 +119,19 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nFor the first time\, blind and lo
  s at the annual Braille Challenge—a weekend of high-pressure competition
   and raw coming-of-age moments.\n\nhttps://www.siff.net/cinema/in-theaters
  /brailled-it\n\nEstimated start: 16:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gun Crazy (1950)
+DTSTART:20260922T020000Z
+DTEND:20260922T034500Z
+DTSTAMP:20260922T020000Z
+UID:Cna6Cnh3Nc
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
+ madly in love with a skilled carnival sharpshooter. Their ferocious amour 
+ fou leads to a dangerous cross country crime spree in this passionate film
+  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
+ \n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -227,6 +227,25 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Land of the Dead: it's for the gays
+DTSTART:20261031T014500Z
+DTEND:20261031T040000Z
+DTSTAMP:20261031T014500Z
+UID:9Sifmjwjyg
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
+ uctions. Land of the Dead: it’s for the gays is a dark\, campy horror c
+ omedy that explores the intersections of gender identity\, addiction\, tra
+ uma\, and Queerness. Through Mel’s confrontation with a literal demon fr
+ om their past\, the film examines the ways unresolved pain can shape ident
+ ity\, relationships\, and self-acceptance. Blending supernatural horror wi
+ th Queer humor and emotional depth\, the story uses camp as a tool for bot
+ h survival and reclamation\, creating a space where confronting the past b
+ ecomes a path toward healing and embracing one’s authentic self.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays\n\nE
+ stimated start: 19:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Passenger (1975)
 DTSTART:20261030T020000Z
 DTEND:20261030T041500Z
@@ -252,25 +271,6 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
  s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
  ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
  acktop\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Land of the Dead: it's for the gays
-DTSTART:20261031T014500Z
-DTEND:20261031T040000Z
-DTSTAMP:20261031T014500Z
-UID:9Sifmjwjyg
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
- uctions. Land of the Dead: it’s for the gays is a dark\, campy horror c
- omedy that explores the intersections of gender identity\, addiction\, tra
- uma\, and Queerness. Through Mel’s confrontation with a literal demon fr
- om their past\, the film examines the ways unresolved pain can shape ident
- ity\, relationships\, and self-acceptance. Blending supernatural horror wi
- th Queer humor and emotional depth\, the story uses camp as a tool for bot
- h survival and reclamation\, creating a space where confronting the past b
- ecomes a path toward healing and embracing one’s authentic self.\n\nhttp
- s://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays\n\nE
- stimated start: 19:00
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -338,6 +338,18 @@ DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
  iend Doc survey the state of ‘80s America in this monumental portrait of
   everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
  road/route-one/usa\n\nEstimated start: 12:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taste of Cherry (1997)
+DTSTART:20261126T030000Z
+DTEND:20261126T045500Z
+DTSTAMP:20261126T030000Z
+UID:LkEWyxvEgN
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
+ he hilly outskirts of Tehran\, seeking someone who will bury him after he 
+ commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
+ ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
