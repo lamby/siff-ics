@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260829T154832Z
+LAST-MODIFIED:20260830T162700Z
 BEGIN:VEVENT
 SUMMARY:The Invite
-DTSTART:20260829T203000Z
-DTEND:20260829T223500Z
-DTSTAMP:20260829T203000Z
-UID:5FgMJYpj6J
+DTSTART:20260830T203000Z
+DTEND:20260830T223500Z
+DTSTAMP:20260830T203000Z
+UID:DsVw4CDoJ6
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
@@ -19,10 +19,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
-DTSTART:20260829T231500Z
-DTEND:20260830T012000Z
-DTSTAMP:20260829T231500Z
-UID:T4tRy3vYkA
+DTSTART:20260830T231500Z
+DTEND:20260831T012000Z
+DTSTAMP:20260830T231500Z
+UID:ZyH9xQk1Os
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
@@ -32,10 +32,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
-DTSTART:20260830T020000Z
-DTEND:20260830T040500Z
-DTSTAMP:20260830T020000Z
-UID:A2teZEN2pf
+DTSTART:20260831T020000Z
+DTEND:20260831T040500Z
+DTSTAMP:20260831T020000Z
+UID:1Uqnl8SbLd
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
  n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
  er party\, the night spirals into unexpected places. Have they reignited t
@@ -96,45 +96,6 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260830T203000Z
-DTEND:20260830T223500Z
-DTSTAMP:20260830T203000Z
-UID:DsVw4CDoJ6
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 13:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260830T231500Z
-DTEND:20260831T012000Z
-DTSTAMP:20260830T231500Z
-UID:ZyH9xQk1Os
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 16:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Invite
-DTSTART:20260831T020000Z
-DTEND:20260831T040500Z
-DTSTAMP:20260831T020000Z
-UID:1Uqnl8SbLd
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nJoe and Angela’s marriage is o
- n thin ice. When they invite their enigmatic upstairs neighbors for a dinn
- er party\, the night spirals into unexpected places. Have they reignited t
- he spark or lit the match that burns it all down?\n\nhttps://www.siff.net/
- cinema/in-theaters/the-invite\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wanda (1970)
 DTSTART:20260929T020000Z
 DTEND:20260929T040000Z
@@ -145,19 +106,6 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nDispiritedly going through a div
  within the orbit of a bank robber\, soft spoken Wanda finds herself adrift
   on a road to nowhere.\n\nhttps://www.siff.net/programs-and-events/the-ope
  n-road/wanda\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kikujiro (1999)
-DTSTART:20261009T020000Z
-DTEND:20261009T042000Z
-DTSTAMP:20261009T020000Z
-UID:sIu42gQjlr
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
- met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
- former yakuza who guides the child on a heart-warming and hilarious summer
-  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
- \n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -174,11 +122,37 @@ DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kikujiro (1999)
+DTSTART:20261009T020000Z
+DTEND:20261009T042000Z
+DTSTAMP:20261009T020000Z
+UID:sIu42gQjlr
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
+ met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
+ former yakuza who guides the child on a heart-warming and hilarious summer
+  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wagon Master (1950)
 DTSTART:20261020T020000Z
 DTEND:20261020T034500Z
 DTSTAMP:20261020T020000Z
 UID:FOZVTRtQeC
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
+  hired to lead a Mormon wagon train through southeastern Utah\, forming a 
+ community of outcasts as they travel along the dusty trail in John Ford’
+ s lyrical road poem.\n\nhttps://www.siff.net/programs-and-events/the-open-
+ road/wagon-master\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wagon Master (1950)
+DTSTART:20261023T020000Z
+DTEND:20261023T034500Z
+DTSTAMP:20261023T020000Z
+UID:eiuUYacfjY
 DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
   hired to lead a Mormon wagon train through southeastern Utah\, forming a 
  community of outcasts as they travel along the dusty trail in John Ford’
@@ -201,16 +175,17 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wagon Master (1950)
-DTSTART:20261023T020000Z
-DTEND:20261023T034500Z
-DTSTAMP:20261023T020000Z
-UID:eiuUYacfjY
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
-  hired to lead a Mormon wagon train through southeastern Utah\, forming a 
- community of outcasts as they travel along the dusty trail in John Ford’
- s lyrical road poem.\n\nhttps://www.siff.net/programs-and-events/the-open-
- road/wagon-master\n\nEstimated start: 19:15
+SUMMARY:Two Lane Blacktop (1971)
+DTSTART:20261103T030000Z
+DTEND:20261103T050000Z
+DTSTAMP:20261103T030000Z
+UID:3xV7vplVrd
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
+ aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
+ rie Bird)\, race Warren Oates and his GTO across the southern United State
+ s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
+ ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
+ acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -225,34 +200,6 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
  to secret proxy wars and the international arms trade.\n\nhttps://www.siff
  .net/programs-and-events/the-open-road/the-passenger\n\nEstimated start: 1
  9:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Lane Blacktop (1971)
-DTSTART:20261106T030000Z
-DTEND:20261106T050000Z
-DTSTAMP:20261106T030000Z
-UID:loiN2EmLUP
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
- aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
- rie Bird)\, race Warren Oates and his GTO across the southern United State
- s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
- ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
- acktop\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Lane Blacktop (1971)
-DTSTART:20261103T030000Z
-DTEND:20261103T050000Z
-DTSTAMP:20261103T030000Z
-UID:3xV7vplVrd
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
- aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
- rie Bird)\, race Warren Oates and his GTO across the southern United State
- s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
- ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
- acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -275,16 +222,17 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Boys of the Road (1933)
-DTSTART:20261117T030000Z
-DTEND:20261117T042500Z
-DTSTAMP:20261117T030000Z
-UID:56gTumlIIe
-DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
- pression\, two teenagers decide to alleviate their parents’ financial bu
- rden by hitting the road and hopping freight trains in this hard edged\, p
- re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
- /wild-boys-of-the-road\n\nEstimated start: 19:15
+SUMMARY:Two Lane Blacktop (1971)
+DTSTART:20261106T030000Z
+DTEND:20261106T050000Z
+DTSTAMP:20261106T030000Z
+UID:loiN2EmLUP
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
+ aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
+ rie Bird)\, race Warren Oates and his GTO across the southern United State
+ s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
+ ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
+ acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -299,6 +247,19 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the
  t Frank and Two-Lane Blacktop screenwriter Rudolph Wurlitzer.\n\nhttps://w
  ww.siff.net/programs-and-events/the-open-road/candy-mountain\n\nEstimated 
  start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Boys of the Road (1933)
+DTSTART:20261117T030000Z
+DTEND:20261117T042500Z
+DTSTAMP:20261117T030000Z
+UID:56gTumlIIe
+DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
+ pression\, two teenagers decide to alleviate their parents’ financial bu
+ rden by hitting the road and hopping freight trains in this hard edged\, p
+ re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
+ /wild-boys-of-the-road\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT

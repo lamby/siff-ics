@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260829T154832Z
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260831T231500Z
-DTEND:20260901T012000Z
-DTSTAMP:20260831T231500Z
-UID:GG7ZlWHlZN
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260901T020000Z
-DTEND:20260901T040500Z
-DTSTAMP:20260901T020000Z
-UID:BjJ1dYmR4H
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260830T162700Z
 BEGIN:VEVENT
 SUMMARY:Tony
 DTSTART:20260903T231500Z
@@ -46,30 +22,6 @@ DTSTART:20260904T020000Z
 DTEND:20260904T040500Z
 DTSTAMP:20260904T020000Z
 UID:CpQiVgKogi
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260902T231500Z
-DTEND:20260903T012000Z
-DTSTAMP:20260902T231500Z
-UID:L0bru562HI
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260903T020000Z
-DTEND:20260903T040500Z
-DTSTAMP:20260903T020000Z
-UID:dVMpj2fSGa
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -102,22 +54,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260829T201500Z
-DTEND:20260829T222000Z
-DTSTAMP:20260829T201500Z
-UID:TUiBWy7hrt
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 13:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260829T231500Z
-DTEND:20260830T012000Z
-DTSTAMP:20260829T231500Z
-UID:DHdLKjHSsZ
+DTSTART:20260831T231500Z
+DTEND:20260901T012000Z
+DTSTAMP:20260831T231500Z
+UID:GG7ZlWHlZN
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -126,14 +66,91 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260830T020000Z
-DTEND:20260830T040500Z
-DTSTAMP:20260830T020000Z
-UID:RKCFOy1gAS
+DTSTART:20260901T020000Z
+DTEND:20260901T040500Z
+DTSTAMP:20260901T020000Z
+UID:BjJ1dYmR4H
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
  nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260830T201500Z
+DTEND:20260830T222000Z
+DTSTAMP:20260830T201500Z
+UID:vQWdvhiXms
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 13:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260830T231500Z
+DTEND:20260831T012000Z
+DTSTAMP:20260830T231500Z
+UID:xOZi2Ib8KK
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260831T020000Z
+DTEND:20260831T040500Z
+DTSTAMP:20260831T020000Z
+UID:4TCxMmsvW0
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260902T231500Z
+DTEND:20260903T012000Z
+DTSTAMP:20260902T231500Z
+UID:L0bru562HI
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260903T020000Z
+DTEND:20260903T040500Z
+DTSTAMP:20260903T020000Z
+UID:dVMpj2fSGa
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faust with the Invincible Czars (1926)
+DTSTART:20260910T020000Z
+DTEND:20260910T040500Z
+DTSTAMP:20260910T020000Z
+UID:RE6gW4b3PE
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe Invincible Czars celebrate 1
+ 00 years of the silent masterpiece Faust (1926\, FW Murnau). Their brand n
+ ew electrifying score marries new and old elements of classical music\, bo
+ ssa nova and even a touch of heavy metal to bring the movie to life for co
+ ntemporary audiences and incorporates a mix of instruments like flute\, vi
+ olin and electric guitar.  Celebrate 100 years of the Uptown with this 
+ 100 year old film! Free 100 Years of the Uptown stickers to those in atten
+ dance.*Live score by The Invincible Czars*\n\nhttps://www.siff.net/cinema/
+ in-theaters/faust-with-the-invincible-czars\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -155,23 +172,6 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nLive comedy with VHS tapes!BRAND
  pe the search never ends.”— Steven Hyden\, Uproxx\n\nhttps://www.siff.
  net/cinema/in-theaters/found-footage-festival-porcelain-vhs-treasures\n\nE
  stimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faust with the Invincible Czars (1926)
-DTSTART:20260910T020000Z
-DTEND:20260910T040500Z
-DTSTAMP:20260910T020000Z
-UID:RE6gW4b3PE
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe Invincible Czars celebrate 1
- 00 years of the silent masterpiece Faust (1926\, FW Murnau). Their brand n
- ew electrifying score marries new and old elements of classical music\, bo
- ssa nova and even a touch of heavy metal to bring the movie to life for co
- ntemporary audiences and incorporates a mix of instruments like flute\, vi
- olin and electric guitar.  Celebrate 100 years of the Uptown with this 
- 100 year old film! Free 100 Years of the Uptown stickers to those in atten
- dance.*Live score by The Invincible Czars*\n\nhttps://www.siff.net/cinema/
- in-theaters/faust-with-the-invincible-czars\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -216,42 +216,6 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nNouvelles FemmesTwo Parisian lit
  ree\, and soon a larking-about friendship branches into many configuration
  s of love.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/ju
  les-and-jim\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260830T201500Z
-DTEND:20260830T222000Z
-DTSTAMP:20260830T201500Z
-UID:vQWdvhiXms
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 13:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260830T231500Z
-DTEND:20260831T012000Z
-DTSTAMP:20260830T231500Z
-UID:xOZi2Ib8KK
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260831T020000Z
-DTEND:20260831T040500Z
-DTSTAMP:20260831T020000Z
-UID:4TCxMmsvW0
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -347,6 +311,22 @@ DESCRIPTION:Duration: 80 mins (1h20m)\n\nNouvelles FemmesIn a French Impre
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Band of Outsiders (1964)
+DTSTART:20261022T023000Z
+DTEND:20261022T042000Z
+DTSTAMP:20261022T023000Z
+UID:X5lfrHskLW
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nNouvelles FemmesGodard puts his a
+ ppreciative-playful spin on Hollywood-style Noir. Two guys (Claude Brasseu
+ r\, Sami Frey) team with a lovely\, naive\, doe-eyed language student (Ann
+ a Karina) to steal money that’s hidden in her rooming house. Karina conv
+ eys a woman coming into her exuberant selfhood. When the three line dance 
+ the Madison\, she keeps going\, bouncing and smiling.\n\nhttps://www.siff.
+ net/programs-and-events/nouvelles-femmes/band-of-outsiders\n\nEstimated st
+ art: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Matchstick Productions Presents\, "The Way Out" 2026 Ski Film
 DTSTART:20261021T023000Z
 DTEND:20261021T034500Z
@@ -362,22 +342,6 @@ DESCRIPTION:Duration: 60 mins (1h00m)\n\nMatchstick Productions returns wi
  VIP tickets include premium seating and gift bag from Matchstick Productio
  ns partners.\n\nhttps://www.siff.net/cinema/in-theaters/matchstick-product
  ions-presents-the-way-out-2026-ski-film\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Band of Outsiders (1964)
-DTSTART:20261022T023000Z
-DTEND:20261022T042000Z
-DTSTAMP:20261022T023000Z
-UID:X5lfrHskLW
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nNouvelles FemmesGodard puts his a
- ppreciative-playful spin on Hollywood-style Noir. Two guys (Claude Brasseu
- r\, Sami Frey) team with a lovely\, naive\, doe-eyed language student (Ann
- a Karina) to steal money that’s hidden in her rooming house. Karina conv
- eys a woman coming into her exuberant selfhood. When the three line dance 
- the Madison\, she keeps going\, bouncing and smiling.\n\nhttps://www.siff.
- net/programs-and-events/nouvelles-femmes/band-of-outsiders\n\nEstimated st
- art: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -425,6 +389,21 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nNouvelles Femmes60th Anniversary
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pierrot le Fou (1965)
+DTSTART:20261111T033000Z
+DTEND:20261111T053500Z
+DTSTAMP:20261111T033000Z
+UID:2Iwpxo12vu
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nNouvelles FemmesA husband (Jean-
+ Paul Belmondo) flees his shallow Paris life with the babysitter (Anna Kari
+ na)\, to French Riviera escapades with gangsters\, stolen loot\, sunny hed
+ onism\, political commentary\; a charming disorder\, a reflection of direc
+ tor Godard's and Karina’s stormy marriage. It’s truly moving when he h
+ as her gaze into our/his camera’s eyes.\n\nhttps://www.siff.net/programs
+ -and-events/nouvelles-femmes/pierrot-le-fou\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Discreet Charm of the Bourgeoisie (1972)
 DTSTART:20261110T023000Z
 DTEND:20261110T043000Z
@@ -452,21 +431,6 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nNouvelles FemmesFate and chance
  f education\, culture\, challenging conversation\, career stability\, and 
  bedroom eyes.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes
  /my-night-at-mauds\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pierrot le Fou (1965)
-DTSTART:20261111T033000Z
-DTEND:20261111T053500Z
-DTSTAMP:20261111T033000Z
-UID:2Iwpxo12vu
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nNouvelles FemmesA husband (Jean-
- Paul Belmondo) flees his shallow Paris life with the babysitter (Anna Kari
- na)\, to French Riviera escapades with gangsters\, stolen loot\, sunny hed
- onism\, political commentary\; a charming disorder\, a reflection of direc
- tor Godard's and Karina’s stormy marriage. It’s truly moving when he h
- as her gaze into our/his camera’s eyes.\n\nhttps://www.siff.net/programs
- -and-events/nouvelles-femmes/pierrot-le-fou\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
