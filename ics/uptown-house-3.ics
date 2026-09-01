@@ -3,63 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260831T160122Z
-BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260902T230000Z
-DTEND:20260903T005000Z
-DTSTAMP:20260902T230000Z
-UID:yG2AuYR4mr
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260903T014500Z
-DTEND:20260903T033500Z
-DTSTAMP:20260903T014500Z
-UID:XHTWF2wU7p
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260831T230000Z
-DTEND:20260901T005000Z
-DTSTAMP:20260831T230000Z
-UID:mhqoOf5BQZ
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260901T014500Z
-DTEND:20260901T033500Z
-DTSTAMP:20260901T014500Z
-UID:w56VhacigA
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
+LAST-MODIFIED:20260901T155216Z
 BEGIN:VEVENT
 SUMMARY:American Doctor
 DTSTART:20260903T230000Z
@@ -103,6 +47,32 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260910T233000Z
+DTEND:20260911T013000Z
+DTSTAMP:20260910T233000Z
+UID:b1MKf2ZiCZ
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260911T023000Z
+DTEND:20260911T043500Z
+DTSTAMP:20260911T023000Z
+UID:F9pq7Vxia5
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:American Doctor
 DTSTART:20260902T014500Z
 DTEND:20260902T033500Z
@@ -114,6 +84,280 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
  volunteer their services in Gaza\, risking their lives to save others.\n\n
  https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
  : 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260906T200000Z
+DTEND:20260906T220000Z
+DTSTAMP:20260906T200000Z
+UID:oGWmpaWHOM
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260906T230000Z
+DTEND:20260907T010000Z
+DTSTAMP:20260906T230000Z
+UID:n8ujOvy43X
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260907T014500Z
+DTEND:20260907T034500Z
+DTSTAMP:20260907T014500Z
+UID:fm65Xb6TYU
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260907T230000Z
+DTEND:20260908T010000Z
+DTSTAMP:20260907T230000Z
+UID:aMo1oTwyU5
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260908T014500Z
+DTEND:20260908T034500Z
+DTSTAMP:20260908T014500Z
+UID:LOGweqLmHa
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Doctor
+DTSTART:20260902T230000Z
+DTEND:20260903T005000Z
+DTSTAMP:20260902T230000Z
+UID:yG2AuYR4mr
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
+ sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
+ rom California\, and a Palestinian American ER specialist from Illinois—
+ volunteer their services in Gaza\, risking their lives to save others.\n\n
+ https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
+ : 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Doctor
+DTSTART:20260903T014500Z
+DTEND:20260903T033500Z
+DTSTAMP:20260903T014500Z
+UID:XHTWF2wU7p
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
+ sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
+ rom California\, and a Palestinian American ER specialist from Illinois—
+ volunteer their services in Gaza\, risking their lives to save others.\n\n
+ https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
+ : 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260905T200000Z
+DTEND:20260905T220000Z
+DTSTAMP:20260905T200000Z
+UID:Z5ZOFReVov
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260905T230000Z
+DTEND:20260906T010000Z
+DTSTAMP:20260905T230000Z
+UID:MZAsk3bZC8
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260906T014500Z
+DTEND:20260906T034500Z
+DTSTAMP:20260906T014500Z
+UID:uygIWCtft6
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260904T230000Z
+DTEND:20260905T010000Z
+DTSTAMP:20260904T230000Z
+UID:ltMJeY4v4v
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260915T021500Z
+DTEND:20260915T041000Z
+DTSTAMP:20260915T021500Z
+UID:6lxfuDcuC1
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260916T234500Z
+DTEND:20260917T014000Z
+DTSTAMP:20260916T234500Z
+UID:4YZt56FN4c
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260917T021500Z
+DTEND:20260917T041000Z
+DTSTAMP:20260917T021500Z
+UID:t2kO5ZKXt7
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260915T234500Z
+DTEND:20260916T014000Z
+DTSTAMP:20260915T234500Z
+UID:ymHKnA2BqS
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260916T021500Z
+DTEND:20260916T041000Z
+DTSTAMP:20260916T021500Z
+UID:5mPvTPoKqs
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260917T231500Z
+DTEND:20260918T011000Z
+DTSTAMP:20260917T231500Z
+UID:H89a4KgXc8
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260909T230000Z
+DTEND:20260910T010000Z
+DTSTAMP:20260909T230000Z
+UID:IS2Ymy7dcE
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260908T230000Z
+DTEND:20260909T010000Z
+DTSTAMP:20260908T230000Z
+UID:mAUHlaeGsZ
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260909T014500Z
+DTEND:20260909T034500Z
+DTSTAMP:20260909T014500Z
+UID:ulwLF2wKt4
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 19:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
