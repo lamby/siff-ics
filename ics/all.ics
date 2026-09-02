@@ -3,41 +3,27 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20260901T155216Z
+LAST-MODIFIED:20260902T150838Z
 BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260903T230000Z
-DTEND:20260904T005000Z
-DTSTAMP:20260903T230000Z
-UID:VoyZ4B50W6
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260904T014500Z
-DTEND:20260904T033500Z
-DTSTAMP:20260904T014500Z
-UID:WOHmY0ZCWF
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 19:00
+SUMMARY:The Marching Band
+DTSTART:20260904T230000Z
+DTEND:20260905T010000Z
+DTSTAMP:20260904T230000Z
+UID:ltMJeY4v4v
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260903T231500Z
-DTEND:20260904T012000Z
-DTSTAMP:20260903T231500Z
-UID:8kVlIHPkCm
+DTSTART:20260904T231500Z
+DTEND:20260905T012000Z
+DTSTAMP:20260904T231500Z
+UID:uFIcFmGZG4
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -46,22 +32,22 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260904T020000Z
-DTEND:20260904T040500Z
-DTSTAMP:20260904T020000Z
-UID:CpQiVgKogi
+DTSTART:20260905T021500Z
+DTEND:20260905T042000Z
+DTSTAMP:20260905T021500Z
+UID:inCVmhvNrV
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260903T233000Z
-DTEND:20260904T014000Z
-DTSTAMP:20260903T233000Z
-UID:JSw9Vm7jex
+DTSTART:20260904T233000Z
+DTEND:20260905T014000Z
+DTSTAMP:20260904T233000Z
+UID:W0bOWkU4es
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -73,10 +59,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260904T023000Z
-DTEND:20260904T044000Z
-DTSTAMP:20260904T023000Z
-UID:DCMrsHeZGO
+DTSTART:20260905T023000Z
+DTEND:20260905T044000Z
+DTSTAMP:20260905T023000Z
+UID:sLGXBJfVW2
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -88,10 +74,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Odyssey
-DTSTART:20260904T020000Z
-DTEND:20260904T051000Z
-DTSTAMP:20260904T020000Z
-UID:fOrA3yxb3a
+DTSTART:20260905T020000Z
+DTEND:20260905T051000Z
+DTSTAMP:20260905T020000Z
+UID:Z925ZFaJ1K
 DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
   the world bringing Homer’s foundational saga to screens\, starring Matt
   Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
@@ -100,20 +86,6 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
  alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
  theaters/the-odyssey\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Doctor
-DTSTART:20260901T230000Z
-DTEND:20260902T005000Z
-DTSTAMP:20260901T230000Z
-UID:nSENZHTpBc
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
- sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
- rom California\, and a Palestinian American ER specialist from Illinois—
- volunteer their services in Gaza\, risking their lives to save others.\n\n
- https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
- : 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
@@ -220,10 +192,24 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Doctor
-DTSTART:20260902T014500Z
-DTEND:20260902T033500Z
-DTSTAMP:20260902T014500Z
-UID:TP76kBRLFR
+DTSTART:20260903T230000Z
+DTEND:20260904T005000Z
+DTSTAMP:20260903T230000Z
+UID:VoyZ4B50W6
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
+ sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
+ rom California\, and a Palestinian American ER specialist from Illinois—
+ volunteer their services in Gaza\, risking their lives to save others.\n\n
+ https://www.siff.net/cinema/in-theaters/american-doctor\n\nEstimated start
+ : 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Doctor
+DTSTART:20260904T014500Z
+DTEND:20260904T033500Z
+DTSTAMP:20260904T014500Z
+UID:WOHmY0ZCWF
 DESCRIPTION:Duration: 93 mins (1h33m)\n\nThree courageous doctors—a Jewi
  sh orthopedic surgeon from North Carolina\, a Zoroastrian trauma surgeon f
  rom California\, and a Palestinian American ER specialist from Illinois—
@@ -234,10 +220,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260901T231500Z
-DTEND:20260902T012000Z
-DTSTAMP:20260901T231500Z
-UID:72184GSknD
+DTSTART:20260903T231500Z
+DTEND:20260904T012000Z
+DTSTAMP:20260903T231500Z
+UID:8kVlIHPkCm
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -246,10 +232,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony
-DTSTART:20260902T020000Z
-DTEND:20260902T040500Z
-DTSTAMP:20260902T020000Z
-UID:Pv0eqid2vt
+DTSTART:20260904T020000Z
+DTEND:20260904T040500Z
+DTSTAMP:20260904T020000Z
+UID:CpQiVgKogi
 DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
  ravels to Provincetown and stumbles into the chaotic world of a restaurant
   kitchen\, setting off a summer that will shape the course of his life.\n\
@@ -258,10 +244,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260901T233000Z
-DTEND:20260902T014000Z
-DTSTAMP:20260901T233000Z
-UID:Yd5DHVkE95
+DTSTART:20260903T233000Z
+DTEND:20260904T014000Z
+DTSTAMP:20260903T233000Z
+UID:JSw9Vm7jex
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -273,10 +259,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260902T023000Z
-DTEND:20260902T044000Z
-DTSTAMP:20260902T023000Z
-UID:eL4wH3VjmF
+DTSTART:20260904T023000Z
+DTEND:20260904T044000Z
+DTSTAMP:20260904T023000Z
+UID:DCMrsHeZGO
 DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
  and waning fandom\, the Camp Miasma slasher franchise is handed over to an
   enthusiastic young director for resurrection. But when she visits the ori
@@ -284,6 +270,422 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels
  wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
   Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
  ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260904T020000Z
+DTEND:20260904T051000Z
+DTSTAMP:20260904T020000Z
+UID:fOrA3yxb3a
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. This is the page for digital pres
+ entations of The Odyssey. For 70mm showtimes\, visit this page.  **The B
+ alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
+ theaters/the-odyssey\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260905T200000Z
+DTEND:20260905T220000Z
+DTSTAMP:20260905T200000Z
+UID:Z5ZOFReVov
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260905T230000Z
+DTEND:20260906T010000Z
+DTSTAMP:20260905T230000Z
+UID:MZAsk3bZC8
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260906T014500Z
+DTEND:20260906T034500Z
+DTSTAMP:20260906T014500Z
+UID:uygIWCtft6
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260905T201500Z
+DTEND:20260905T222000Z
+DTSTAMP:20260905T201500Z
+UID:5OhWlWwoox
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 13:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260905T231500Z
+DTEND:20260906T012000Z
+DTSTAMP:20260905T231500Z
+UID:s6aN8n4XB1
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260906T020000Z
+DTEND:20260906T040500Z
+DTSTAMP:20260906T020000Z
+UID:x2f4xBoIei
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DTSTART:20260905T203000Z
+DTEND:20260905T224000Z
+DTSTAMP:20260905T203000Z
+UID:dCXR4HKb4i
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
+  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 13:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DTSTART:20260905T233000Z
+DTEND:20260906T014000Z
+DTSTAMP:20260905T233000Z
+UID:ZDyeEQXXIp
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
+  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DTSTART:20260906T023000Z
+DTEND:20260906T044000Z
+DTSTAMP:20260906T023000Z
+UID:jJQBGgTkbf
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
+  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260905T220000Z
+DTEND:20260906T011000Z
+DTSTAMP:20260905T220000Z
+UID:k3ZtbgpsLq
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. This is the page for digital pres
+ entations of The Odyssey. For 70mm showtimes\, visit this page.  **The B
+ alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
+ theaters/the-odyssey\n\nEstimated start: 15:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260906T020000Z
+DTEND:20260906T051000Z
+DTSTAMP:20260906T020000Z
+UID:fFqkCQvspq
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. This is the page for digital pres
+ entations of The Odyssey. For 70mm showtimes\, visit this page.  **The B
+ alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
+ theaters/the-odyssey\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260909T230000Z
+DTEND:20260910T010000Z
+DTSTAMP:20260909T230000Z
+UID:IS2Ymy7dcE
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DTSTART:20260909T233000Z
+DTEND:20260910T014000Z
+DTSTAMP:20260909T233000Z
+UID:8TdwGl0MLR
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
+  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faust with the Invincible Czars (1926)
+DTSTART:20260910T020000Z
+DTEND:20260910T040500Z
+DTSTAMP:20260910T020000Z
+UID:RE6gW4b3PE
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe Invincible Czars celebrate 1
+ 00 years of the silent masterpiece Faust (1926\, FW Murnau). Their brand n
+ ew electrifying score marries new and old elements of classical music\, bo
+ ssa nova and even a touch of heavy metal to bring the movie to life for co
+ ntemporary audiences and incorporates a mix of instruments like flute\, vi
+ olin and electric guitar.  Celebrate 100 years of the Uptown with this 
+ 100 year old film! Free 100 Years of the Uptown stickers to those in atten
+ dance.*Live score by The Invincible Czars*\n\nhttps://www.siff.net/cinema/
+ in-theaters/faust-with-the-invincible-czars\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hope
+DTSTART:20260910T020000Z
+DTEND:20260910T045500Z
+DTSTAMP:20260910T020000Z
+UID:SFjsdf5bkf
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260910T023000Z
+DTEND:20260910T043500Z
+DTSTAMP:20260910T023000Z
+UID:8wxkb9jPlo
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260908T230000Z
+DTEND:20260909T010000Z
+DTSTAMP:20260908T230000Z
+UID:mAUHlaeGsZ
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marching Band
+DTSTART:20260909T014500Z
+DTEND:20260909T034500Z
+DTSTAMP:20260909T014500Z
+UID:ulwLF2wKt4
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
+ or discovers the brother he never knew he had — a school cafeteria worke
+ r who plays trombone in a local marching band. An equally hilarious and af
+ fecting crowdpleaser that premiered at Cannes and became a French box offi
+ ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
+ \n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260908T231500Z
+DTEND:20260909T012000Z
+DTSTAMP:20260908T231500Z
+UID:umMmVicE77
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony
+DTSTART:20260909T020000Z
+DTEND:20260909T040500Z
+DTSTAMP:20260909T020000Z
+UID:ntgJ6fA8np
+DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
+ ravels to Provincetown and stumbles into the chaotic world of a restaurant
+  kitchen\, setting off a summer that will shape the course of his life.\n\
+ nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DTSTART:20260908T233000Z
+DTEND:20260909T014000Z
+DTSTAMP:20260908T233000Z
+UID:ypRjggy4QW
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
+  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DTSTART:20260909T023000Z
+DTEND:20260909T044000Z
+DTSTAMP:20260909T023000Z
+UID:6insRBLhKa
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
+  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART:20260909T020000Z
+DTEND:20260909T051000Z
+DTSTAMP:20260909T020000Z
+UID:MV2E2ypTDh
+DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
+  the world bringing Homer’s foundational saga to screens\, starring Matt
+  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
+ ’o\, with Zendaya and Charlize Theron. This is the page for digital pres
+ entations of The Odyssey. For 70mm showtimes\, visit this page.  **The B
+ alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
+ theaters/the-odyssey\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hope
+DTSTART:20260911T224500Z
+DTEND:20260912T014000Z
+DTSTAMP:20260911T224500Z
+UID:idh9v1uInT
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hope
+DTSTART:20260912T023000Z
+DTEND:20260912T052500Z
+DTSTAMP:20260912T023000Z
+UID:2X775vT5Pb
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260911T230000Z
+DTEND:20260912T010500Z
+DTSTAMP:20260911T230000Z
+UID:eZm0nph3wd
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260912T020000Z
+DTEND:20260912T040500Z
+DTSTAMP:20260912T020000Z
+UID:Ilf2PJXVBP
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260911T233000Z
+DTEND:20260912T012500Z
+DTSTAMP:20260911T233000Z
+UID:tNY9Aj1Tp4
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260912T021500Z
+DTEND:20260912T041000Z
+DTSTAMP:20260912T021500Z
+UID:pXEXQ3tWib
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -634,322 +1036,6 @@ DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Marching Band
-DTSTART:20260905T200000Z
-DTEND:20260905T220000Z
-DTSTAMP:20260905T200000Z
-UID:Z5ZOFReVov
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
- or discovers the brother he never knew he had — a school cafeteria worke
- r who plays trombone in a local marching band. An equally hilarious and af
- fecting crowdpleaser that premiered at Cannes and became a French box offi
- ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
- \n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marching Band
-DTSTART:20260905T230000Z
-DTEND:20260906T010000Z
-DTSTAMP:20260905T230000Z
-UID:MZAsk3bZC8
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
- or discovers the brother he never knew he had — a school cafeteria worke
- r who plays trombone in a local marching band. An equally hilarious and af
- fecting crowdpleaser that premiered at Cannes and became a French box offi
- ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
- \n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marching Band
-DTSTART:20260906T014500Z
-DTEND:20260906T034500Z
-DTSTAMP:20260906T014500Z
-UID:uygIWCtft6
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
- or discovers the brother he never knew he had — a school cafeteria worke
- r who plays trombone in a local marching band. An equally hilarious and af
- fecting crowdpleaser that premiered at Cannes and became a French box offi
- ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
- \n\nEstimated start: 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260905T201500Z
-DTEND:20260905T222000Z
-DTSTAMP:20260905T201500Z
-UID:5OhWlWwoox
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 13:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260905T231500Z
-DTEND:20260906T012000Z
-DTSTAMP:20260905T231500Z
-UID:s6aN8n4XB1
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260906T020000Z
-DTEND:20260906T040500Z
-DTSTAMP:20260906T020000Z
-UID:x2f4xBoIei
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260905T203000Z
-DTEND:20260905T224000Z
-DTSTAMP:20260905T203000Z
-UID:dCXR4HKb4i
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 13:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260905T233000Z
-DTEND:20260906T014000Z
-DTSTAMP:20260905T233000Z
-UID:ZDyeEQXXIp
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260906T023000Z
-DTEND:20260906T044000Z
-DTSTAMP:20260906T023000Z
-UID:jJQBGgTkbf
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260905T220000Z
-DTEND:20260906T011000Z
-DTSTAMP:20260905T220000Z
-UID:k3ZtbgpsLq
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. This is the page for digital pres
- entations of The Odyssey. For 70mm showtimes\, visit this page.  **The B
- alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
- theaters/the-odyssey\n\nEstimated start: 15:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260906T020000Z
-DTEND:20260906T051000Z
-DTSTAMP:20260906T020000Z
-UID:fFqkCQvspq
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. This is the page for digital pres
- entations of The Odyssey. For 70mm showtimes\, visit this page.  **The B
- alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
- theaters/the-odyssey\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marching Band
-DTSTART:20260904T230000Z
-DTEND:20260905T010000Z
-DTSTAMP:20260904T230000Z
-UID:ltMJeY4v4v
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
- or discovers the brother he never knew he had — a school cafeteria worke
- r who plays trombone in a local marching band. An equally hilarious and af
- fecting crowdpleaser that premiered at Cannes and became a French box offi
- ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
- \n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260904T231500Z
-DTEND:20260905T012000Z
-DTSTAMP:20260904T231500Z
-UID:uFIcFmGZG4
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260905T021500Z
-DTEND:20260905T042000Z
-DTSTAMP:20260905T021500Z
-UID:inCVmhvNrV
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260904T233000Z
-DTEND:20260905T014000Z
-DTSTAMP:20260904T233000Z
-UID:W0bOWkU4es
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260905T023000Z
-DTEND:20260905T044000Z
-DTSTAMP:20260905T023000Z
-UID:sLGXBJfVW2
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260905T020000Z
-DTEND:20260905T051000Z
-DTSTAMP:20260905T020000Z
-UID:Z925ZFaJ1K
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. This is the page for digital pres
- entations of The Odyssey. For 70mm showtimes\, visit this page.  **The B
- alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
- theaters/the-odyssey\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260911T224500Z
-DTEND:20260912T014000Z
-DTSTAMP:20260911T224500Z
-UID:idh9v1uInT
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260912T023000Z
-DTEND:20260912T052500Z
-DTSTAMP:20260912T023000Z
-UID:2X775vT5Pb
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260911T230000Z
-DTEND:20260912T010500Z
-DTSTAMP:20260911T230000Z
-UID:eZm0nph3wd
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260912T020000Z
-DTEND:20260912T040500Z
-DTSTAMP:20260912T020000Z
-UID:Ilf2PJXVBP
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame
-DTSTART:20260911T233000Z
-DTEND:20260912T012500Z
-DTSTAMP:20260911T233000Z
-UID:tNY9Aj1Tp4
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
- employee whose early book of poetry is “rediscovered” by a group of as
- piring artists who adopt him as an elder statesman\, flattering him but al
- so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
- ema/in-theaters/late-fame\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame
-DTSTART:20260912T021500Z
-DTEND:20260912T041000Z
-DTSTAMP:20260912T021500Z
-UID:pXEXQ3tWib
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
- employee whose early book of poetry is “rediscovered” by a group of as
- piring artists who adopt him as an elder statesman\, flattering him but al
- so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
- ema/in-theaters/late-fame\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Practical Magic 2
 DTSTART:20260912T200000Z
 DTEND:20260912T220500Z
@@ -1272,6 +1358,222 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hope
+DTSTART:20260915T224500Z
+DTEND:20260916T014000Z
+DTSTAMP:20260915T224500Z
+UID:3ncNPC9g5j
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hope
+DTSTART:20260916T023000Z
+DTEND:20260916T052500Z
+DTSTAMP:20260916T023000Z
+UID:ZiaSxbwlmq
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260915T230000Z
+DTEND:20260916T010500Z
+DTSTAMP:20260915T230000Z
+UID:5BOJDQJE9L
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260916T020000Z
+DTEND:20260916T040500Z
+DTSTAMP:20260916T020000Z
+UID:tD3maBR0p3
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260915T234500Z
+DTEND:20260916T014000Z
+DTSTAMP:20260915T234500Z
+UID:ymHKnA2BqS
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260916T021500Z
+DTEND:20260916T041000Z
+DTSTAMP:20260916T021500Z
+UID:5mPvTPoKqs
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North by Northwest (1959)
+DTSTART:20260920T180000Z
+DTEND:20260920T203500Z
+DTSTAMP:20260920T180000Z
+UID:54IHle64VE
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nCommunity ScreeningsCary Grant s
+ tars as an innocent man mistaken for a spy in one of Alfred Hitchcock's gr
+ eatest thrillers. While leaving New York's Plaza Hotel\, advertising execu
+ tive Roger Thornhill (Grant) has the misfortune of standing just as the na
+ me "George Kaplan" is paged--starting a lethal case of mistaken identity a
+ nd a nonstop game of cat and mouse as he is pursued across North America b
+ y espionage agents trying to kill him--and by police who suspect him of mu
+ rder.\n\nhttps://www.siff.net/programs-and-events/community-screenings/nor
+ th-by-northwest\n\nEstimated start: 11:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hole (35mm) (1998)
+DTSTART:20260920T203000Z
+DTEND:20260920T221500Z
+DTSTAMP:20260920T203000Z
+UID:s6y0f4SMm7
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
+ resent\, a romantic-comedy about two people that never meet\, an Antonioni
+ -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 13:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hole (35mm) (1998)
+DTSTART:20260921T013000Z
+DTEND:20260921T031500Z
+DTSTAMP:20260921T013000Z
+UID:mceo14L4qL
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
+ resent\, a romantic-comedy about two people that never meet\, an Antonioni
+ -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brailled It
+DTSTART:20260920T230000Z
+DTEND:20260921T003000Z
+DTSTAMP:20260920T230000Z
+UID:rE60pJniy8
+DESCRIPTION:Duration: 73 mins (1h13m)\n\nFor the first time\, blind and lo
+ w-vision kids take control of the cameras and capture their own experience
+ s at the annual Braille Challenge—a weekend of high-pressure competition
+  and raw coming-of-age moments.\n\nhttps://www.siff.net/cinema/in-theaters
+ /brailled-it\n\nEstimated start: 16:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gun Crazy (1950)
+DTSTART:20260922T020000Z
+DTEND:20260922T034500Z
+DTSTAMP:20260922T020000Z
+UID:Cna6Cnh3Nc
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
+ madly in love with a skilled carnival sharpshooter. Their ferocious amour 
+ fou leads to a dangerous cross country crime spree in this passionate film
+  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260917T230000Z
+DTEND:20260918T010500Z
+DTSTAMP:20260917T230000Z
+UID:3S2RdAFnlb
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260918T021500Z
+DTEND:20260918T042000Z
+DTSTAMP:20260918T021500Z
+UID:J6RnfkYWd8
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame
+DTSTART:20260917T231500Z
+DTEND:20260918T011000Z
+DTSTAMP:20260917T231500Z
+UID:H89a4KgXc8
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edie Arnold is a Loser
+DTSTART:20260918T020000Z
+DTEND:20260918T033000Z
+DTSTAMP:20260918T020000Z
+UID:rFIFLJBuNK
+DESCRIPTION:Duration: 73 mins (1h13m)\n\nLace up your combat boots and whi
+ p out that black eyeliner for Edie Arnold is a Loser\, an infectiously cha
+ rming coming-of-age flick about a self-proclaimed loser starting a punk ba
+ nd at her Catholic high school.\n\nhttps://www.siff.net/cinema/in-theaters
+ /edie-arnold-is-a-loser\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jules and Jim (1961)
+DTSTART:20260924T023000Z
+DTEND:20260924T043000Z
+DTSTAMP:20260924T023000Z
+UID:DyvIK0gD7D
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nNouvelles FemmesTwo Parisian lit
+ erature-loving friends (Oscar Werner\, Henri Serre) are dumbstruck when th
+ ey encounter Catherine (Jeanne Moreau)\, a real-life embodiment of passion
+ ate\, adventurous living. Respect and affection flow freely between the th
+ ree\, and soon a larking-about friendship branches into many configuration
+ s of love.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/ju
+ les-and-jim\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hope
 DTSTART:20260916T224500Z
 DTEND:20260917T014000Z
 DTSTAMP:20260916T224500Z
@@ -1366,140 +1668,6 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesMichel (Jean-Paul
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260915T224500Z
-DTEND:20260916T014000Z
-DTSTAMP:20260915T224500Z
-UID:3ncNPC9g5j
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260916T023000Z
-DTEND:20260916T052500Z
-DTSTAMP:20260916T023000Z
-UID:ZiaSxbwlmq
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260915T230000Z
-DTEND:20260916T010500Z
-DTSTAMP:20260915T230000Z
-UID:5BOJDQJE9L
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260916T020000Z
-DTEND:20260916T040500Z
-DTSTAMP:20260916T020000Z
-UID:tD3maBR0p3
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame
-DTSTART:20260915T234500Z
-DTEND:20260916T014000Z
-DTSTAMP:20260915T234500Z
-UID:ymHKnA2BqS
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
- employee whose early book of poetry is “rediscovered” by a group of as
- piring artists who adopt him as an elder statesman\, flattering him but al
- so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
- ema/in-theaters/late-fame\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame
-DTSTART:20260916T021500Z
-DTEND:20260916T041000Z
-DTSTAMP:20260916T021500Z
-UID:5mPvTPoKqs
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
- employee whose early book of poetry is “rediscovered” by a group of as
- piring artists who adopt him as an elder statesman\, flattering him but al
- so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
- ema/in-theaters/late-fame\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260917T230000Z
-DTEND:20260918T010500Z
-DTSTAMP:20260917T230000Z
-UID:3S2RdAFnlb
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260918T021500Z
-DTEND:20260918T042000Z
-DTSTAMP:20260918T021500Z
-UID:J6RnfkYWd8
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame
-DTSTART:20260917T231500Z
-DTEND:20260918T011000Z
-DTSTAMP:20260917T231500Z
-UID:H89a4KgXc8
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
- employee whose early book of poetry is “rediscovered” by a group of as
- piring artists who adopt him as an elder statesman\, flattering him but al
- so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
- ema/in-theaters/late-fame\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Edie Arnold is a Loser
-DTSTART:20260918T020000Z
-DTEND:20260918T033000Z
-DTSTAMP:20260918T020000Z
-UID:rFIFLJBuNK
-DESCRIPTION:Duration: 73 mins (1h13m)\n\nLace up your combat boots and whi
- p out that black eyeliner for Edie Arnold is a Loser\, an infectiously cha
- rming coming-of-age flick about a self-proclaimed loser starting a punk ba
- nd at her Catholic high school.\n\nhttps://www.siff.net/cinema/in-theaters
- /edie-arnold-is-a-loser\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Hole (35mm) (1998)
 DTSTART:20260919T000000Z
 DTEND:20260919T014500Z
@@ -1524,253 +1692,6 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:North by Northwest (1959)
-DTSTART:20260920T180000Z
-DTEND:20260920T203500Z
-DTSTAMP:20260920T180000Z
-UID:54IHle64VE
-DESCRIPTION:Duration: 136 mins (2h16m)\n\nCommunity ScreeningsCary Grant s
- tars as an innocent man mistaken for a spy in one of Alfred Hitchcock's gr
- eatest thrillers. While leaving New York's Plaza Hotel\, advertising execu
- tive Roger Thornhill (Grant) has the misfortune of standing just as the na
- me "George Kaplan" is paged--starting a lethal case of mistaken identity a
- nd a nonstop game of cat and mouse as he is pursued across North America b
- y espionage agents trying to kill him--and by police who suspect him of mu
- rder.\n\nhttps://www.siff.net/programs-and-events/community-screenings/nor
- th-by-northwest\n\nEstimated start: 11:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hole (35mm) (1998)
-DTSTART:20260920T203000Z
-DTEND:20260920T221500Z
-DTSTAMP:20260920T203000Z
-UID:s6y0f4SMm7
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
- resent\, a romantic-comedy about two people that never meet\, an Antonioni
- -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
- ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 13:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hole (35mm) (1998)
-DTSTART:20260921T013000Z
-DTEND:20260921T031500Z
-DTSTAMP:20260921T013000Z
-UID:mceo14L4qL
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
- resent\, a romantic-comedy about two people that never meet\, an Antonioni
- -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
- ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brailled It
-DTSTART:20260920T230000Z
-DTEND:20260921T003000Z
-DTSTAMP:20260920T230000Z
-UID:rE60pJniy8
-DESCRIPTION:Duration: 73 mins (1h13m)\n\nFor the first time\, blind and lo
- w-vision kids take control of the cameras and capture their own experience
- s at the annual Braille Challenge—a weekend of high-pressure competition
-  and raw coming-of-age moments.\n\nhttps://www.siff.net/cinema/in-theaters
- /brailled-it\n\nEstimated start: 16:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marching Band
-DTSTART:20260909T230000Z
-DTEND:20260910T010000Z
-DTSTAMP:20260909T230000Z
-UID:IS2Ymy7dcE
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
- or discovers the brother he never knew he had — a school cafeteria worke
- r who plays trombone in a local marching band. An equally hilarious and af
- fecting crowdpleaser that premiered at Cannes and became a French box offi
- ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
- \n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260909T231500Z
-DTEND:20260910T012000Z
-DTSTAMP:20260909T231500Z
-UID:RqEVEigrQr
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260910T023000Z
-DTEND:20260910T043500Z
-DTSTAMP:20260910T023000Z
-UID:8wxkb9jPlo
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260909T233000Z
-DTEND:20260910T014000Z
-DTSTAMP:20260909T233000Z
-UID:8TdwGl0MLR
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faust with the Invincible Czars (1926)
-DTSTART:20260910T020000Z
-DTEND:20260910T040500Z
-DTSTAMP:20260910T020000Z
-UID:RE6gW4b3PE
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nThe Invincible Czars celebrate 1
- 00 years of the silent masterpiece Faust (1926\, FW Murnau). Their brand n
- ew electrifying score marries new and old elements of classical music\, bo
- ssa nova and even a touch of heavy metal to bring the movie to life for co
- ntemporary audiences and incorporates a mix of instruments like flute\, vi
- olin and electric guitar.  Celebrate 100 years of the Uptown with this 
- 100 year old film! Free 100 Years of the Uptown stickers to those in atten
- dance.*Live score by The Invincible Czars*\n\nhttps://www.siff.net/cinema/
- in-theaters/faust-with-the-invincible-czars\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260910T020000Z
-DTEND:20260910T045500Z
-DTSTAMP:20260910T020000Z
-UID:SFjsdf5bkf
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gun Crazy (1950)
-DTSTART:20260922T020000Z
-DTEND:20260922T034500Z
-DTSTAMP:20260922T020000Z
-UID:Cna6Cnh3Nc
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
- madly in love with a skilled carnival sharpshooter. Their ferocious amour 
- fou leads to a dangerous cross country crime spree in this passionate film
-  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marching Band
-DTSTART:20260908T230000Z
-DTEND:20260909T010000Z
-DTSTAMP:20260908T230000Z
-UID:mAUHlaeGsZ
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
- or discovers the brother he never knew he had — a school cafeteria worke
- r who plays trombone in a local marching band. An equally hilarious and af
- fecting crowdpleaser that premiered at Cannes and became a French box offi
- ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
- \n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marching Band
-DTSTART:20260909T014500Z
-DTEND:20260909T034500Z
-DTSTAMP:20260909T014500Z
-UID:ulwLF2wKt4
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA world-famous orchestra conduct
- or discovers the brother he never knew he had — a school cafeteria worke
- r who plays trombone in a local marching band. An equally hilarious and af
- fecting crowdpleaser that premiered at Cannes and became a French box offi
- ce sensation.\n\nhttps://www.siff.net/cinema/in-theaters/the-marching-band
- \n\nEstimated start: 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260908T231500Z
-DTEND:20260909T012000Z
-DTSTAMP:20260908T231500Z
-UID:umMmVicE77
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260909T020000Z
-DTEND:20260909T040500Z
-DTSTAMP:20260909T020000Z
-UID:ntgJ6fA8np
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260908T233000Z
-DTEND:20260909T014000Z
-DTSTAMP:20260908T233000Z
-UID:ypRjggy4QW
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260909T023000Z
-DTEND:20260909T044000Z
-DTSTAMP:20260909T023000Z
-UID:6insRBLhKa
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART:20260909T020000Z
-DTEND:20260909T051000Z
-DTSTAMP:20260909T020000Z
-UID:MV2E2ypTDh
-DESCRIPTION:Duration: 172 mins (2h52m)\n\nA mythic action epic shot across
-  the world bringing Homer’s foundational saga to screens\, starring Matt
-  Damon\, Tom Holland\, Anne Hathaway\, Robert Pattinson and Lupita Nyong
- ’o\, with Zendaya and Charlize Theron. This is the page for digital pres
- entations of The Odyssey. For 70mm showtimes\, visit this page.  **The B
- alcony is not accessible by elevator.**\n\nhttps://www.siff.net/cinema/in-
- theaters/the-odyssey\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gun Crazy (1950)
 DTSTART:20260925T020000Z
 DTEND:20260925T034500Z
@@ -1782,21 +1703,6 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls
   noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
  \n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jules and Jim (1961)
-DTSTART:20260924T023000Z
-DTEND:20260924T043000Z
-DTSTAMP:20260924T023000Z
-UID:DyvIK0gD7D
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nNouvelles FemmesTwo Parisian lit
- erature-loving friends (Oscar Werner\, Henri Serre) are dumbstruck when th
- ey encounter Catherine (Jeanne Moreau)\, a real-life embodiment of passion
- ate\, adventurous living. Respect and affection flow freely between the th
- ree\, and soon a larking-about friendship branches into many configuration
- s of love.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/ju
- les-and-jim\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Filipiñana
@@ -1871,6 +1777,19 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wanda (1970)
+DTSTART:20260929T020000Z
+DTEND:20260929T040000Z
+DTSTAMP:20260929T020000Z
+UID:5gl4onIn7g
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nDispiritedly going through a div
+ orce proceeding\, losing custody of her children\, and eventually falling 
+ within the orbit of a bank robber\, soft spoken Wanda finds herself adrift
+  on a road to nowhere.\n\nhttps://www.siff.net/programs-and-events/the-ope
+ n-road/wanda\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Filipiñana
 DTSTART:20260927T193000Z
 DTEND:20260927T212500Z
@@ -1925,19 +1844,6 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wanda (1970)
-DTSTART:20260929T020000Z
-DTEND:20260929T040000Z
-DTSTAMP:20260929T020000Z
-UID:5gl4onIn7g
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nDispiritedly going through a div
- orce proceeding\, losing custody of her children\, and eventually falling 
- within the orbit of a bank robber\, soft spoken Wanda finds herself adrift
-  on a road to nowhere.\n\nhttps://www.siff.net/programs-and-events/the-ope
- n-road/wanda\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cleo From 5 to 7 (1962)
 DTSTART:20261001T023000Z
 DTEND:20261001T041500Z
@@ -1951,6 +1857,32 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesThis afternoon\,
  d goes out\; now she looks at the world.”\n\nhttps://www.siff.net/progra
  ms-and-events/nouvelles-femmes/cleo-from-5-to-7\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cuckoo Clock
+DTSTART:20261003T023000Z
+DTEND:20261003T042000Z
+DTSTAMP:20261003T023000Z
+UID:7XSnS5ProU
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nPresented by Compassionate Disas
+ ter Films. A young woman falls in love with the home-health-care nurse se
+ nt to care for her Grandmother with dementia. When the nurse mysteriously 
+ disappears\, Grandma’s cuckoo clock speaks to her with a warning that Gr
+ andma might be responsible.\n\nhttps://www.siff.net/cinema/in-theaters/the
+ -cuckoo-clock\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Misanthrope
+DTSTART:20261003T210000Z
+DTEND:20261003T234500Z
+DTSTAMP:20261003T210000Z
+UID:e6ldvHRh5M
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
+ ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
+ f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
+ vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kikujiro (1999)
@@ -1967,18 +1899,6 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: The Misanthrope
-DTSTART:20261003T210000Z
-DTEND:20261003T234500Z
-DTSTAMP:20261003T210000Z
-UID:e6ldvHRh5M
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
- ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
- f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
- vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: The Misanthrope
 DTSTART:20261004T210000Z
 DTEND:20261004T234500Z
 DTSTAMP:20261004T210000Z
@@ -1987,6 +1907,19 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
  ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
  f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
  vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kikujiro (1999)
+DTSTART:20261009T020000Z
+DTEND:20261009T042000Z
+DTSTAMP:20261009T020000Z
+UID:sIu42gQjlr
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
+ met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
+ former yakuza who guides the child on a heart-warming and hilarious summer
+  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
+ \n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -2017,31 +1950,17 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nNouvelles FemmesA film producer
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kikujiro (1999)
-DTSTART:20261009T020000Z
-DTEND:20261009T042000Z
-DTSTAMP:20261009T020000Z
-UID:sIu42gQjlr
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
- met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
- former yakuza who guides the child on a heart-warming and hilarious summer
-  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ginger Snaps (2000)
-DTSTART:20261013T013000Z
-DTEND:20261013T033500Z
-DTSTAMP:20261013T013000Z
-UID:9WE2YUelBy
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Movie Club Ginger Snaps is
-  a 2000 Canadian supernatural horror film about two death-obsessed sisters
- \, outcasts in their suburban neighborhood\, who must deal with the tragic
-  consequences when one of them is bitten by a deadly werewolf. Intro by C
- inema Worker Larcyn Burnett.\n\nhttps://www.siff.net/programs-and-events/s
- iff-movie-club/ginger-snaps\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+SUMMARY:There Blue Rose: Part II
+DTSTART:20261011T020000Z
+DTEND:20261011T031500Z
+DTSTAMP:20261011T020000Z
+UID:oZRTFEHEfH
+DESCRIPTION:Duration: 60 mins (1h00m)\n\nPresented by Cowboy Samurai Films
+ . Enter the town of Twin Peaks\, where something very strange is going on
+ . Something is coming out of the forest right outside of town and its up t
+ o you to uncover the mystery of the woods.\n\nhttps://www.siff.net/cinema/
+ in-theaters/the-blue-rose-part-ii\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carrie (1976)
@@ -2061,6 +1980,20 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nWelcome to the first installment
  he screening\, providing some book-to-film context before we meet afterwar
  ds for our Book Club discussion at The Traveling Goat.\n\nhttps://www.siff
  .net/programs-and-events/siff-book-club/carrie\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ginger Snaps (2000)
+DTSTART:20261013T013000Z
+DTEND:20261013T033500Z
+DTSTAMP:20261013T013000Z
+UID:9WE2YUelBy
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Movie Club Ginger Snaps is
+  a 2000 Canadian supernatural horror film about two death-obsessed sisters
+ \, outcasts in their suburban neighborhood\, who must deal with the tragic
+  consequences when one of them is bitten by a deadly werewolf. Intro by C
+ inema Worker Larcyn Burnett.\n\nhttps://www.siff.net/programs-and-events/s
+ iff-movie-club/ginger-snaps\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -2179,21 +2112,6 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stolen Kisses (1968)
-DTSTART:20261029T023000Z
-DTEND:20261029T041500Z
-DTSTAMP:20261029T023000Z
-UID:HK7dlip3HJ
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesTruffaut's alter-
- ego Antoine Doinel (Jean-Pierre Léaud) gains access to the hearts of Pari
- s by becoming a detective. He’s emotionally up and down with his girlfri
- end Christine (Claude Jade) but the endearingly hapless fellow is instantl
- y smitten by the elegant wife (Delphine Seyrig) of a client.\n\nhttps://ww
- w.siff.net/programs-and-events/nouvelles-femmes/stolen-kisses\n\nEstimated
-  start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CatVideoFest 2026
 DTSTART:20261030T020000Z
 DTEND:20261030T034500Z
@@ -2222,19 +2140,33 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Man and A Woman (1966)
-DTSTART:20261105T033000Z
-DTEND:20261105T053000Z
-DTSTAMP:20261105T033000Z
-UID:ymZEn68mqm
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nNouvelles Femmes60th Anniversary
-  Screening. A man (Jean-Louis Trintignant) and a woman\, (Anouk Aimée)\,
-  who’ve painfully lost their loves\, meet by chance. They’re very appe
- aling to each other (and to us)\, but can current attraction overcome past
-  memories? Aimee’s enigmatic face has answers. This film played for 82 s
- traight weeks in Seattle.\n\nhttps://www.siff.net/programs-and-events/nouv
- elles-femmes/a-man-and-a-woman\n\nEstimated start: 19:45
+SUMMARY:Stolen Kisses (1968)
+DTSTART:20261029T023000Z
+DTEND:20261029T041500Z
+DTSTAMP:20261029T023000Z
+UID:HK7dlip3HJ
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesTruffaut's alter-
+ ego Antoine Doinel (Jean-Pierre Léaud) gains access to the hearts of Pari
+ s by becoming a detective. He’s emotionally up and down with his girlfri
+ end Christine (Claude Jade) but the endearingly hapless fellow is instantl
+ y smitten by the elegant wife (Delphine Seyrig) of a client.\n\nhttps://ww
+ w.siff.net/programs-and-events/nouvelles-femmes/stolen-kisses\n\nEstimated
+  start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Two Lane Blacktop (1971)
+DTSTART:20261103T030000Z
+DTEND:20261103T050000Z
+DTSTAMP:20261103T030000Z
+UID:3xV7vplVrd
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
+ aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
+ rie Bird)\, race Warren Oates and his GTO across the southern United State
+ s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
+ ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
+ acktop\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Land of the Dead: it's for the gays
@@ -2256,18 +2188,19 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Two Lane Blacktop (1971)
-DTSTART:20261103T030000Z
-DTEND:20261103T050000Z
-DTSTAMP:20261103T030000Z
-UID:3xV7vplVrd
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
- aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
- rie Bird)\, race Warren Oates and his GTO across the southern United State
- s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
- ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
- acktop\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
+SUMMARY:A Man and A Woman (1966)
+DTSTART:20261105T033000Z
+DTEND:20261105T053000Z
+DTSTAMP:20261105T033000Z
+UID:ymZEn68mqm
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nNouvelles Femmes60th Anniversary
+  Screening. A man (Jean-Louis Trintignant) and a woman\, (Anouk Aimée)\,
+  who’ve painfully lost their loves\, meet by chance. They’re very appe
+ aling to each other (and to us)\, but can current attraction overcome past
+  memories? Aimee’s enigmatic face has answers. This film played for 82 s
+ traight weeks in Seattle.\n\nhttps://www.siff.net/programs-and-events/nouv
+ elles-femmes/a-man-and-a-woman\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Two Lane Blacktop (1971)
@@ -2282,6 +2215,21 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
  ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
  acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pierrot le Fou (1965)
+DTSTART:20261111T033000Z
+DTEND:20261111T053500Z
+DTSTAMP:20261111T033000Z
+UID:2Iwpxo12vu
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nNouvelles FemmesA husband (Jean-
+ Paul Belmondo) flees his shallow Paris life with the babysitter (Anna Kari
+ na)\, to French Riviera escapades with gangsters\, stolen loot\, sunny hed
+ onism\, political commentary\; a charming disorder\, a reflection of direc
+ tor Godard's and Karina’s stormy marriage. It’s truly moving when he h
+ as her gaze into our/his camera’s eyes.\n\nhttps://www.siff.net/programs
+ -and-events/nouvelles-femmes/pierrot-le-fou\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Discreet Charm of the Bourgeoisie (1972)
@@ -2313,19 +2261,17 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pierrot le Fou (1965)
-DTSTART:20261111T033000Z
-DTEND:20261111T053500Z
-DTSTAMP:20261111T033000Z
-UID:2Iwpxo12vu
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nNouvelles FemmesA husband (Jean-
- Paul Belmondo) flees his shallow Paris life with the babysitter (Anna Kari
- na)\, to French Riviera escapades with gangsters\, stolen loot\, sunny hed
- onism\, political commentary\; a charming disorder\, a reflection of direc
- tor Godard's and Karina’s stormy marriage. It’s truly moving when he h
- as her gaze into our/his camera’s eyes.\n\nhttps://www.siff.net/programs
- -and-events/nouvelles-femmes/pierrot-le-fou\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+SUMMARY:Auntie Mame (1958)
+DTSTART:20261115T190000Z
+DTEND:20261115T214000Z
+DTSTAMP:20261115T190000Z
+UID:HDtjeZXJwb
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nCommunity ScreeningsRosalind Rus
+ sell dazzles in a tour-de-force performance as the larger-than-life Mame D
+ ennis\, who unexpectedly gains custody of her young nephew.\n\nhttps://www
+ .siff.net/programs-and-events/community-screenings/auntie-mame\n\nEstimate
+ d start: 11:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wild Boys of the Road (1933)
@@ -2339,19 +2285,6 @@ DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
  re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
  /wild-boys-of-the-road\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Auntie Mame (1958)
-DTSTART:20261115T190000Z
-DTEND:20261115T214000Z
-DTSTAMP:20261115T190000Z
-UID:HDtjeZXJwb
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nCommunity ScreeningsRosalind Rus
- sell dazzles in a tour-de-force performance as the larger-than-life Mame D
- ennis\, who unexpectedly gains custody of her young nephew.\n\nhttps://www
- .siff.net/programs-and-events/community-screenings/auntie-mame\n\nEstimate
- d start: 11:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Night at Maud's (1969)
@@ -2404,6 +2337,26 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
  he hilly outskirts of Tehran\, seeking someone who will bury him after he 
  commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
  ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beware! The Devil’s Wrath
+DTSTART:20261125T033000Z
+DTEND:20261125T052000Z
+DTSTAMP:20261125T033000Z
+UID:Cs3d3My3LQ
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
+ eware! The Devil’s Wrath is an occult revenge horror film set in the fic
+ tional Texas town of Blackwood Falls. When a young couple moves into the t
+ ight-knit community\, a shocking act of violence triggers a wave of ritual
+ istic killings that forces residents to confront the dark secrets beneath 
+ their pious exterior.Written and directed by Craig Meinhart\, this low-bud
+ get feature draws inspiration from 1970s classics like Race with the Devil
+ \, Last House on the Left\, and Don’t Look Now\, blending atmospheric dr
+ ead\, practical effects\, and a hard-edged sense of vengeance.This special
+  screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda\
+ n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260901T155216Z
+LAST-MODIFIED:20260902T150838Z
 BEGIN:VEVENT
 SUMMARY:The Pain And The Power (Advance Screening)
 DTSTART:20260914T020000Z
@@ -15,30 +15,6 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Portugal. The Man
  portrait of artist\, activist\, and survivor Logan Lynn\, by filmmaker Cai
   Indermaur.\n\nhttps://www.siff.net/cinema/in-theaters/the-pain-and-the-po
  wer-(advance-screening)\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hole (35mm) (1998)
-DTSTART:20260919T000000Z
-DTEND:20260919T014500Z
-DTSTAMP:20260919T000000Z
-UID:Cw0w7inOXF
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
- resent\, a romantic-comedy about two people that never meet\, an Antonioni
- -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
- ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hole (35mm) (1998)
-DTSTART:20260919T023000Z
-DTEND:20260919T041500Z
-DTSTAMP:20260919T023000Z
-UID:W6OmG59F2X
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
- resent\, a romantic-comedy about two people that never meet\, an Antonioni
- -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
- ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -89,6 +65,30 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls
  fou leads to a dangerous cross country crime spree in this passionate film
   noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
  \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hole (35mm) (1998)
+DTSTART:20260919T000000Z
+DTEND:20260919T014500Z
+DTSTAMP:20260919T000000Z
+UID:Cw0w7inOXF
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
+ resent\, a romantic-comedy about two people that never meet\, an Antonioni
+ -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hole (35mm) (1998)
+DTSTART:20260919T023000Z
+DTEND:20260919T041500Z
+DTSTAMP:20260919T023000Z
+UID:W6OmG59F2X
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
+ resent\, a romantic-comedy about two people that never meet\, an Antonioni
+ -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -177,6 +177,19 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wanda (1970)
+DTSTART:20260929T020000Z
+DTEND:20260929T040000Z
+DTSTAMP:20260929T020000Z
+UID:5gl4onIn7g
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nDispiritedly going through a div
+ orce proceeding\, losing custody of her children\, and eventually falling 
+ within the orbit of a bank robber\, soft spoken Wanda finds herself adrift
+  on a road to nowhere.\n\nhttps://www.siff.net/programs-and-events/the-ope
+ n-road/wanda\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Filipiñana
 DTSTART:20260927T193000Z
 DTEND:20260927T212500Z
@@ -231,16 +244,29 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wanda (1970)
-DTSTART:20260929T020000Z
-DTEND:20260929T040000Z
-DTSTAMP:20260929T020000Z
-UID:5gl4onIn7g
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nDispiritedly going through a div
- orce proceeding\, losing custody of her children\, and eventually falling 
- within the orbit of a bank robber\, soft spoken Wanda finds herself adrift
-  on a road to nowhere.\n\nhttps://www.siff.net/programs-and-events/the-ope
- n-road/wanda\n\nEstimated start: 19:15
+SUMMARY:The Cuckoo Clock
+DTSTART:20261003T023000Z
+DTEND:20261003T042000Z
+DTSTAMP:20261003T023000Z
+UID:7XSnS5ProU
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nPresented by Compassionate Disas
+ ter Films. A young woman falls in love with the home-health-care nurse se
+ nt to care for her Grandmother with dementia. When the nurse mysteriously 
+ disappears\, Grandma’s cuckoo clock speaks to her with a warning that Gr
+ andma might be responsible.\n\nhttps://www.siff.net/cinema/in-theaters/the
+ -cuckoo-clock\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Misanthrope
+DTSTART:20261003T210000Z
+DTEND:20261003T234500Z
+DTSTAMP:20261003T210000Z
+UID:e6ldvHRh5M
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
+ ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
+ f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
+ vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -258,18 +284,6 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live: The Misanthrope
-DTSTART:20261003T210000Z
-DTEND:20261003T234500Z
-DTSTAMP:20261003T210000Z
-UID:e6ldvHRh5M
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
- ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
- f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
- vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: The Misanthrope
 DTSTART:20261004T210000Z
 DTEND:20261004T234500Z
 DTSTAMP:20261004T210000Z
@@ -278,18 +292,6 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
  ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
  f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
  vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: The Misanthrope
-DTSTART:20261008T013000Z
-DTEND:20261008T041500Z
-DTSTAMP:20261008T013000Z
-UID:BDMbBIMua2
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
- ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
- f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
- vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -303,6 +305,18 @@ DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never
  former yakuza who guides the child on a heart-warming and hilarious summer
   quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
  \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Misanthrope
+DTSTART:20261008T013000Z
+DTEND:20261008T041500Z
+DTSTAMP:20261008T013000Z
+UID:BDMbBIMua2
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
+ ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
+ f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
+ vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -360,6 +374,20 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Two Lane Blacktop (1971)
+DTSTART:20261103T030000Z
+DTEND:20261103T050000Z
+DTSTAMP:20261103T030000Z
+UID:3xV7vplVrd
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
+ aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
+ rie Bird)\, race Warren Oates and his GTO across the southern United State
+ s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
+ ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
+ acktop\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Land of the Dead: it's for the gays
 DTSTART:20261031T014500Z
 DTEND:20261031T040000Z
@@ -376,20 +404,6 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
  ecomes a path toward healing and embracing one’s authentic self.\n\nhttp
  s://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays\n\nE
  stimated start: 19:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Lane Blacktop (1971)
-DTSTART:20261103T030000Z
-DTEND:20261103T050000Z
-DTSTAMP:20261103T030000Z
-UID:3xV7vplVrd
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
- aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
- rie Bird)\, race Warren Oates and his GTO across the southern United State
- s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
- ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
- acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -469,6 +483,26 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
  he hilly outskirts of Tehran\, seeking someone who will bury him after he 
  commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
  ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beware! The Devil’s Wrath
+DTSTART:20261125T033000Z
+DTEND:20261125T052000Z
+DTSTAMP:20261125T033000Z
+UID:Cs3d3My3LQ
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
+ eware! The Devil’s Wrath is an occult revenge horror film set in the fic
+ tional Texas town of Blackwood Falls. When a young couple moves into the t
+ ight-knit community\, a shocking act of violence triggers a wave of ritual
+ istic killings that forces residents to confront the dark secrets beneath 
+ their pious exterior.Written and directed by Craig Meinhart\, this low-bud
+ get feature draws inspiration from 1970s classics like Race with the Devil
+ \, Last House on the Left\, and Don’t Look Now\, blending atmospheric dr
+ ead\, practical effects\, and a hard-edged sense of vengeance.This special
+  screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda\
+ n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
