@@ -3,7 +3,31 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260902T150838Z
+LAST-MODIFIED:20260909T102011Z
+BEGIN:VEVENT
+SUMMARY:The Hole (35mm) (1998)
+DTSTART:20260919T000000Z
+DTEND:20260919T014500Z
+DTSTAMP:20260919T000000Z
+UID:Cw0w7inOXF
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
+ resent\, a romantic-comedy about two people that never meet\, an Antonioni
+ -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hole (35mm) (1998)
+DTSTART:20260919T023000Z
+DTEND:20260919T041500Z
+DTSTAMP:20260919T023000Z
+UID:W6OmG59F2X
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
+ resent\, a romantic-comedy about two people that never meet\, an Antonioni
+ -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Pain And The Power (Advance Screening)
 DTSTART:20260914T020000Z
@@ -15,6 +39,19 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Portugal. The Man
  portrait of artist\, activist\, and survivor Logan Lynn\, by filmmaker Cai
   Indermaur.\n\nhttps://www.siff.net/cinema/in-theaters/the-pain-and-the-po
  wer-(advance-screening)\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zhou Tao: The Worldly Cave (2017)
+DTSTART:20260911T020000Z
+DTEND:20260911T033000Z
+DTSTAMP:20260911T020000Z
+UID:q80uoUG82d
+DESCRIPTION:Duration: 72 mins (1h12m)\n\nMount Analogue · Art + Cinema pr
+ esents the work of acclaimed artist Zhou Tao with The Worldly Cave (2017\,
+  48 min) and Blue and Red (2014\, 25 min).\n\nhttps://www.siff.net/cinema/
+ in-theaters/zhou-tao-the-worldly-cave-blue-and-red\n\nEstimated start: 19:
+ 15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -52,92 +89,6 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nFor the first time\, blind and lo
  s at the annual Braille Challenge—a weekend of high-pressure competition
   and raw coming-of-age moments.\n\nhttps://www.siff.net/cinema/in-theaters
  /brailled-it\n\nEstimated start: 16:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gun Crazy (1950)
-DTSTART:20260922T020000Z
-DTEND:20260922T034500Z
-DTSTAMP:20260922T020000Z
-UID:Cna6Cnh3Nc
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
- madly in love with a skilled carnival sharpshooter. Their ferocious amour 
- fou leads to a dangerous cross country crime spree in this passionate film
-  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hole (35mm) (1998)
-DTSTART:20260919T000000Z
-DTEND:20260919T014500Z
-DTSTAMP:20260919T000000Z
-UID:Cw0w7inOXF
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
- resent\, a romantic-comedy about two people that never meet\, an Antonioni
- -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
- ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hole (35mm) (1998)
-DTSTART:20260919T023000Z
-DTEND:20260919T041500Z
-DTSTAMP:20260919T023000Z
-UID:W6OmG59F2X
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA sci-fi film set in the dreary p
- resent\, a romantic-comedy about two people that never meet\, an Antonioni
- -esque look at urban squalor\, and a jukebox musical. New 35mm print.\n\nh
- ttps://www.siff.net/cinema/in-theaters/the-hole\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gun Crazy (1950)
-DTSTART:20260925T020000Z
-DTEND:20260925T034500Z
-DTSTAMP:20260925T020000Z
-UID:STpw22dOXY
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
- madly in love with a skilled carnival sharpshooter. Their ferocious amour 
- fou leads to a dangerous cross country crime spree in this passionate film
-  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana
-DTSTART:20260926T231500Z
-DTEND:20260927T011000Z
-DTSTAMP:20260926T231500Z
-UID:805d1bKlB8
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort 
- and golf club on the outskirts of Manila\, 17-year-old tee-girl Isabel (Jo
- rrybell Agoto) seeks out Dr. Palanca\, the club's president\, to return a 
- misplaced golf club\, but unexpectedly uncovers a series of dark truths ab
- out her workplace\, elite members\, and her own past.With a delicate and s
- harp perspective\, this film explores class differences\, power structures
- \, and post-colonial realities\, presenting a complex and unsettling pictu
- re of contemporary Philippine society within the seemingly tranquil green 
- golf course.\n\nhttps://www.siff.net/cinema/in-theaters/filipinana\n\nEsti
- mated start: 16:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana
-DTSTART:20260927T020000Z
-DTEND:20260927T035500Z
-DTSTAMP:20260927T020000Z
-UID:PTesRIbq5Q
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort 
- and golf club on the outskirts of Manila\, 17-year-old tee-girl Isabel (Jo
- rrybell Agoto) seeks out Dr. Palanca\, the club's president\, to return a 
- misplaced golf club\, but unexpectedly uncovers a series of dark truths ab
- out her workplace\, elite members\, and her own past.With a delicate and s
- harp perspective\, this film explores class differences\, power structures
- \, and post-colonial realities\, presenting a complex and unsettling pictu
- re of contemporary Philippine society within the seemingly tranquil green 
- golf course.\n\nhttps://www.siff.net/cinema/in-theaters/filipinana\n\nEsti
- mated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -187,6 +138,68 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nDispiritedly going through a div
  within the orbit of a bank robber\, soft spoken Wanda finds herself adrift
   on a road to nowhere.\n\nhttps://www.siff.net/programs-and-events/the-ope
  n-road/wanda\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gun Crazy (1950)
+DTSTART:20260925T020000Z
+DTEND:20260925T034500Z
+DTSTAMP:20260925T020000Z
+UID:STpw22dOXY
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
+ madly in love with a skilled carnival sharpshooter. Their ferocious amour 
+ fou leads to a dangerous cross country crime spree in this passionate film
+  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gun Crazy (1950)
+DTSTART:20260922T020000Z
+DTEND:20260922T034500Z
+DTSTAMP:20260922T020000Z
+UID:Cna6Cnh3Nc
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
+ madly in love with a skilled carnival sharpshooter. Their ferocious amour 
+ fou leads to a dangerous cross country crime spree in this passionate film
+  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana
+DTSTART:20260926T231500Z
+DTEND:20260927T011000Z
+DTSTAMP:20260926T231500Z
+UID:805d1bKlB8
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort 
+ and golf club on the outskirts of Manila\, 17-year-old tee-girl Isabel (Jo
+ rrybell Agoto) seeks out Dr. Palanca\, the club's president\, to return a 
+ misplaced golf club\, but unexpectedly uncovers a series of dark truths ab
+ out her workplace\, elite members\, and her own past.With a delicate and s
+ harp perspective\, this film explores class differences\, power structures
+ \, and post-colonial realities\, presenting a complex and unsettling pictu
+ re of contemporary Philippine society within the seemingly tranquil green 
+ golf course.\n\nhttps://www.siff.net/cinema/in-theaters/filipinana\n\nEsti
+ mated start: 16:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana
+DTSTART:20260927T020000Z
+DTEND:20260927T035500Z
+DTSTAMP:20260927T020000Z
+UID:PTesRIbq5Q
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort 
+ and golf club on the outskirts of Manila\, 17-year-old tee-girl Isabel (Jo
+ rrybell Agoto) seeks out Dr. Palanca\, the club's president\, to return a 
+ misplaced golf club\, but unexpectedly uncovers a series of dark truths ab
+ out her workplace\, elite members\, and her own past.With a delicate and s
+ harp perspective\, this film explores class differences\, power structures
+ \, and post-colonial realities\, presenting a complex and unsettling pictu
+ re of contemporary Philippine society within the seemingly tranquil green 
+ golf course.\n\nhttps://www.siff.net/cinema/in-theaters/filipinana\n\nEsti
+ mated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -270,19 +283,6 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kikujiro (1999)
-DTSTART:20261006T020000Z
-DTEND:20261006T042000Z
-DTSTAMP:20261006T020000Z
-UID:v9u6M8NtRy
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
- met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
- former yakuza who guides the child on a heart-warming and hilarious summer
-  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NT Live: The Misanthrope
 DTSTART:20261004T210000Z
 DTEND:20261004T234500Z
@@ -300,6 +300,19 @@ DTSTART:20261009T020000Z
 DTEND:20261009T042000Z
 DTSTAMP:20261009T020000Z
 UID:sIu42gQjlr
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
+ met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
+ former yakuza who guides the child on a heart-warming and hilarious summer
+  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kikujiro (1999)
+DTSTART:20261006T020000Z
+DTEND:20261006T042000Z
+DTSTAMP:20261006T020000Z
+UID:v9u6M8NtRy
 DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
  met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
  former yakuza who guides the child on a heart-warming and hilarious summer
@@ -374,20 +387,6 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Two Lane Blacktop (1971)
-DTSTART:20261103T030000Z
-DTEND:20261103T050000Z
-DTSTAMP:20261103T030000Z
-UID:3xV7vplVrd
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
- aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
- rie Bird)\, race Warren Oates and his GTO across the southern United State
- s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
- ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
- acktop\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Land of the Dead: it's for the gays
 DTSTART:20261031T014500Z
 DTEND:20261031T040000Z
@@ -404,6 +403,20 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
  ecomes a path toward healing and embracing one’s authentic self.\n\nhttp
  s://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays\n\nE
  stimated start: 19:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Two Lane Blacktop (1971)
+DTSTART:20261103T030000Z
+DTEND:20261103T050000Z
+DTSTAMP:20261103T030000Z
+UID:3xV7vplVrd
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
+ aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
+ rie Bird)\, race Warren Oates and his GTO across the southern United State
+ s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
+ ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
+ acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -461,6 +474,18 @@ DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Taste of Cherry (1997)
+DTSTART:20261124T030000Z
+DTEND:20261124T045500Z
+DTSTAMP:20261124T030000Z
+UID:TWL0fNdADq
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
+ he hilly outskirts of Tehran\, seeking someone who will bury him after he 
+ commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
+ ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Route One/USA (1989)
 DTSTART:20261122T203000Z
 DTEND:20261123T010000Z
@@ -471,18 +496,6 @@ DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
  iend Doc survey the state of ‘80s America in this monumental portrait of
   everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
  road/route-one/usa\n\nEstimated start: 12:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taste of Cherry (1997)
-DTSTART:20261124T030000Z
-DTEND:20261124T045500Z
-DTSTAMP:20261124T030000Z
-UID:TWL0fNdADq
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
- he hilly outskirts of Tehran\, seeking someone who will bury him after he 
- commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
- ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
