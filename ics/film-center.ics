@@ -3,7 +3,20 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260911T090829Z
+LAST-MODIFIED:20260912T112005Z
+BEGIN:VEVENT
+SUMMARY:The Pain And The Power (Advance Screening)
+DTSTART:20260914T020000Z
+DTEND:20260914T041500Z
+DTSTAMP:20260914T020000Z
+UID:JvC7kYEJg5
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Portugal. The Man 
+ / KNIK / PortuGAYThe Pain and The Power is an unflinching documentary 
+ portrait of artist\, activist\, and survivor Logan Lynn\, by filmmaker Cai
+  Indermaur.\n\nhttps://www.siff.net/cinema/in-theaters/the-pain-and-the-po
+ wer-(advance-screening)\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hole (35mm) (1998)
 DTSTART:20260920T203000Z
@@ -44,32 +57,6 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nFor the first time\, blind and lo
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Pain And The Power (Advance Screening)
-DTSTART:20260914T020000Z
-DTEND:20260914T041500Z
-DTSTAMP:20260914T020000Z
-UID:JvC7kYEJg5
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Portugal. The Man 
- / KNIK / PortuGAYThe Pain and The Power is an unflinching documentary 
- portrait of artist\, activist\, and survivor Logan Lynn\, by filmmaker Cai
-  Indermaur.\n\nhttps://www.siff.net/cinema/in-theaters/the-pain-and-the-po
- wer-(advance-screening)\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gun Crazy (1950)
-DTSTART:20260922T020000Z
-DTEND:20260922T034500Z
-DTSTAMP:20260922T020000Z
-UID:Cna6Cnh3Nc
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
- madly in love with a skilled carnival sharpshooter. Their ferocious amour 
- fou leads to a dangerous cross country crime spree in this passionate film
-  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gun Crazy (1950)
 DTSTART:20260925T020000Z
 DTEND:20260925T034500Z
@@ -80,32 +67,6 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls
  fou leads to a dangerous cross country crime spree in this passionate film
   noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
  \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hole (35mm) (1998)
-DTSTART:20260919T000000Z
-DTEND:20260919T014500Z
-DTSTAMP:20260919T000000Z
-UID:Cw0w7inOXF
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nCo-Presented by Grand Illusion Ci
- nema. A sci-fi film set in the dreary present\, a romantic-comedy about tw
- o people that never meet\, an Antonioni-esque look at urban squalor\, and 
- a jukebox musical. New 35mm print.\n\nhttps://www.siff.net/cinema/in-theat
- ers/the-hole\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hole (35mm) (1998)
-DTSTART:20260919T023000Z
-DTEND:20260919T041500Z
-DTSTAMP:20260919T023000Z
-UID:W6OmG59F2X
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nCo-Presented by Grand Illusion Ci
- nema. A sci-fi film set in the dreary present\, a romantic-comedy about tw
- o people that never meet\, an Antonioni-esque look at urban squalor\, and 
- a jukebox musical. New 35mm print.\n\nhttps://www.siff.net/cinema/in-theat
- ers/the-hole\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -145,6 +106,45 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gun Crazy (1950)
+DTSTART:20260922T020000Z
+DTEND:20260922T034500Z
+DTSTAMP:20260922T020000Z
+UID:Cna6Cnh3Nc
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
+ madly in love with a skilled carnival sharpshooter. Their ferocious amour 
+ fou leads to a dangerous cross country crime spree in this passionate film
+  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hole (35mm) (1998)
+DTSTART:20260919T000000Z
+DTEND:20260919T014500Z
+DTSTAMP:20260919T000000Z
+UID:Cw0w7inOXF
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nCo-Presented by Grand Illusion Ci
+ nema. A sci-fi film set in the dreary present\, a romantic-comedy about tw
+ o people that never meet\, an Antonioni-esque look at urban squalor\, and 
+ a jukebox musical. New 35mm print.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/the-hole\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hole (35mm) (1998)
+DTSTART:20260919T023000Z
+DTEND:20260919T041500Z
+DTSTAMP:20260919T023000Z
+UID:W6OmG59F2X
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nCo-Presented by Grand Illusion Ci
+ nema. A sci-fi film set in the dreary present\, a romantic-comedy about tw
+ o people that never meet\, an Antonioni-esque look at urban squalor\, and 
+ a jukebox musical. New 35mm print.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/the-hole\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Filipiñana
 DTSTART:20260926T231500Z
 DTEND:20260927T011000Z
@@ -178,6 +178,19 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort
  re of contemporary Philippine society within the seemingly tranquil green 
  golf course.\n\nhttps://www.siff.net/cinema/in-theaters/filipinana\n\nEsti
  mated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanda (1970)
+DTSTART:20260929T020000Z
+DTEND:20260929T040000Z
+DTSTAMP:20260929T020000Z
+UID:5gl4onIn7g
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nDispiritedly going through a div
+ orce proceeding\, losing custody of her children\, and eventually falling 
+ within the orbit of a bank robber\, soft spoken Wanda finds herself adrift
+  on a road to nowhere.\n\nhttps://www.siff.net/programs-and-events/the-ope
+ n-road/wanda\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -235,16 +248,17 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wanda (1970)
-DTSTART:20260929T020000Z
-DTEND:20260929T040000Z
-DTSTAMP:20260929T020000Z
-UID:5gl4onIn7g
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nDispiritedly going through a div
- orce proceeding\, losing custody of her children\, and eventually falling 
- within the orbit of a bank robber\, soft spoken Wanda finds herself adrift
-  on a road to nowhere.\n\nhttps://www.siff.net/programs-and-events/the-ope
- n-road/wanda\n\nEstimated start: 19:15
+SUMMARY:The Cuckoo Clock
+DTSTART:20261003T023000Z
+DTEND:20261003T042000Z
+DTSTAMP:20261003T023000Z
+UID:7XSnS5ProU
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nPresented by Compassionate Disas
+ ter Films. A young woman falls in love with the home-health-care nurse se
+ nt to care for her Grandmother with dementia. When the nurse mysteriously 
+ disappears\, Grandma’s cuckoo clock speaks to her with a warning that Gr
+ andma might be responsible.\n\nhttps://www.siff.net/cinema/in-theaters/the
+ -cuckoo-clock\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -257,20 +271,6 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
  ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
  f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
  vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cuckoo Clock
-DTSTART:20261003T023000Z
-DTEND:20261003T042000Z
-DTSTAMP:20261003T023000Z
-UID:7XSnS5ProU
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nPresented by Compassionate Disas
- ter Films. A young woman falls in love with the home-health-care nurse se
- nt to care for her Grandmother with dementia. When the nurse mysteriously 
- disappears\, Grandma’s cuckoo clock speaks to her with a warning that Gr
- andma might be responsible.\n\nhttps://www.siff.net/cinema/in-theaters/the
- -cuckoo-clock\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -325,10 +325,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wagon Master (1950)
-DTSTART:20261020T020000Z
-DTEND:20261020T034500Z
-DTSTAMP:20261020T020000Z
-UID:FOZVTRtQeC
+DTSTART:20261023T020000Z
+DTEND:20261023T034500Z
+DTSTAMP:20261023T020000Z
+UID:eiuUYacfjY
 DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
   hired to lead a Mormon wagon train through southeastern Utah\, forming a 
  community of outcasts as they travel along the dusty trail in John Ford’
@@ -338,10 +338,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wagon Master (1950)
-DTSTART:20261023T020000Z
-DTEND:20261023T034500Z
-DTSTAMP:20261023T020000Z
-UID:eiuUYacfjY
+DTSTART:20261020T020000Z
+DTEND:20261020T034500Z
+DTSTAMP:20261020T020000Z
+UID:FOZVTRtQeC
 DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
   hired to lead a Mormon wagon train through southeastern Utah\, forming a 
  community of outcasts as they travel along the dusty trail in John Ford’
@@ -452,19 +452,6 @@ DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Route One/USA (1989)
-DTSTART:20261122T203000Z
-DTEND:20261123T010000Z
-DTSTAMP:20261122T203000Z
-UID:1nBEutAZS5
-DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
- oute 1 from Maine to Florida\, renegade filmmaker Robert Kramer and his fr
- iend Doc survey the state of ‘80s America in this monumental portrait of
-  everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
- road/route-one/usa\n\nEstimated start: 12:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wild Boys of the Road (1933)
 DTSTART:20261120T030000Z
 DTEND:20261120T042500Z
@@ -487,6 +474,19 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
  he hilly outskirts of Tehran\, seeking someone who will bury him after he 
  commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
  ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Route One/USA (1989)
+DTSTART:20261122T203000Z
+DTEND:20261123T010000Z
+DTSTAMP:20261122T203000Z
+UID:1nBEutAZS5
+DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
+ oute 1 from Maine to Florida\, renegade filmmaker Robert Kramer and his fr
+ iend Doc survey the state of ‘80s America in this monumental portrait of
+  everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
+ road/route-one/usa\n\nEstimated start: 12:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT

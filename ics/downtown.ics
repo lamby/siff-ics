@@ -3,13 +3,26 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20260911T090829Z
+LAST-MODIFIED:20260912T112005Z
 BEGIN:VEVENT
 SUMMARY:Hope
-DTSTART:20260911T224500Z
-DTEND:20260912T014000Z
-DTSTAMP:20260911T224500Z
-UID:idh9v1uInT
+DTSTART:20260912T190000Z
+DTEND:20260912T215500Z
+DTSTAMP:20260912T190000Z
+UID:bW1LZSpiLF
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 12:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hope
+DTSTART:20260912T224500Z
+DTEND:20260913T014000Z
+DTSTAMP:20260912T224500Z
+UID:Cm8asmE573
 DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
  ookie deputy must defend a local community from a mysterious creature afte
  r wildfires sever all communications\, while a local hunting party finds i
@@ -19,15 +32,144 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hope
-DTSTART:20260912T023000Z
-DTEND:20260912T052500Z
-DTSTAMP:20260912T023000Z
-UID:2X775vT5Pb
+DTSTART:20260913T023000Z
+DTEND:20260913T052500Z
+DTSTAMP:20260913T023000Z
+UID:gNsXdCSSG4
 DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
  ookie deputy must defend a local community from a mysterious creature afte
  r wildfires sever all communications\, while a local hunting party finds i
  tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
  -theaters/hope\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hope
+DTSTART:20260913T190000Z
+DTEND:20260913T215500Z
+DTSTAMP:20260913T190000Z
+UID:bGikA9yls2
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 12:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hope
+DTSTART:20260913T224500Z
+DTEND:20260914T014000Z
+DTSTAMP:20260913T224500Z
+UID:w86sdh8Mse
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hope
+DTSTART:20260914T023000Z
+DTEND:20260914T052500Z
+DTSTAMP:20260914T023000Z
+UID:c9JJUKX5qi
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260919T193000Z
+DTEND:20260919T211500Z
+DTSTAMP:20260919T193000Z
+UID:NwnUs5E1CP
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260919T221500Z
+DTEND:20260920T000000Z
+DTSTAMP:20260919T221500Z
+UID:ojmEgT9ji2
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260920T010000Z
+DTEND:20260920T024500Z
+DTSTAMP:20260920T010000Z
+UID:8drOhlQDnq
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260920T034500Z
+DTEND:20260920T053000Z
+DTSTAMP:20260920T034500Z
+UID:CTNoSGmqLt
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 21:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260922T234500Z
+DTEND:20260923T013000Z
+DTSTAMP:20260922T234500Z
+UID:o7hLSGoOYF
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260923T023000Z
+DTEND:20260923T041500Z
+DTSTAMP:20260923T023000Z
+UID:mllnLiAqu3
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -94,23 +236,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hope
-DTSTART:20260913T190000Z
-DTEND:20260913T215500Z
-DTSTAMP:20260913T190000Z
-UID:bGikA9yls2
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260913T224500Z
-DTEND:20260914T014000Z
-DTSTAMP:20260913T224500Z
-UID:w86sdh8Mse
+DTSTART:20260915T224500Z
+DTEND:20260916T014000Z
+DTSTAMP:20260915T224500Z
+UID:3ncNPC9g5j
 DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
  ookie deputy must defend a local community from a mysterious creature afte
  r wildfires sever all communications\, while a local hunting party finds i
@@ -120,75 +249,15 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hope
-DTSTART:20260914T023000Z
-DTEND:20260914T052500Z
-DTSTAMP:20260914T023000Z
-UID:c9JJUKX5qi
+DTSTART:20260916T023000Z
+DTEND:20260916T052500Z
+DTSTAMP:20260916T023000Z
+UID:ZiaSxbwlmq
 DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
  ookie deputy must defend a local community from a mysterious creature afte
  r wildfires sever all communications\, while a local hunting party finds i
  tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
  -theaters/hope\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260922T234500Z
-DTEND:20260923T013000Z
-DTSTAMP:20260922T234500Z
-UID:o7hLSGoOYF
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260921T234500Z
-DTEND:20260922T013000Z
-DTSTAMP:20260921T234500Z
-UID:fFJKTVOfom
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260922T023000Z
-DTEND:20260922T041500Z
-DTSTAMP:20260922T023000Z
-UID:lmTjD2ZLeW
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260923T023000Z
-DTEND:20260923T041500Z
-DTSTAMP:20260923T023000Z
-UID:mllnLiAqu3
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -252,128 +321,63 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260914T224500Z
-DTEND:20260915T014000Z
-DTSTAMP:20260914T224500Z
-UID:R5nOV7p9cn
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260915T023000Z
-DTEND:20260915T052500Z
-DTSTAMP:20260915T023000Z
-UID:ebkfvgLJmm
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260912T190000Z
-DTEND:20260912T215500Z
-DTSTAMP:20260912T190000Z
-UID:bW1LZSpiLF
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260912T224500Z
-DTEND:20260913T014000Z
-DTSTAMP:20260912T224500Z
-UID:Cm8asmE573
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260913T023000Z
-DTEND:20260913T052500Z
-DTSTAMP:20260913T023000Z
-UID:gNsXdCSSG4
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resident Evil
-DTSTART:20260919T193000Z
-DTEND:20260919T211500Z
-DTSTAMP:20260919T193000Z
-UID:NwnUs5E1CP
+DTSTART:20260926T000000Z
+DTEND:20260926T014500Z
+DTSTAMP:20260926T000000Z
+UID:OJuNLsCZEJ
 DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
  ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
  ing — reinvention of the Resident Evil franchise. In an all-new story\
  , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
  wittingly finds himself in an action-packed\, non-stop race for survival a
  s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 12:45
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil
-DTSTART:20260919T221500Z
-DTEND:20260920T000000Z
-DTSTAMP:20260919T221500Z
-UID:ojmEgT9ji2
+DTSTART:20260926T024500Z
+DTEND:20260926T043000Z
+DTSTAMP:20260926T024500Z
+UID:8fGSkii0Qo
 DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
  ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
  ing — reinvention of the Resident Evil franchise. In an all-new story\
  , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
  wittingly finds himself in an action-packed\, non-stop race for survival a
  s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 15:30
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil
-DTSTART:20260920T010000Z
-DTEND:20260920T024500Z
-DTSTAMP:20260920T010000Z
-UID:8drOhlQDnq
+DTSTART:20260921T234500Z
+DTEND:20260922T013000Z
+DTSTAMP:20260921T234500Z
+UID:fFJKTVOfom
 DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
  ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
  ing — reinvention of the Resident Evil franchise. In an all-new story\
  , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
  wittingly finds himself in an action-packed\, non-stop race for survival a
  s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 18:15
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil
-DTSTART:20260920T034500Z
-DTEND:20260920T053000Z
-DTSTAMP:20260920T034500Z
-UID:CTNoSGmqLt
+DTSTART:20260922T023000Z
+DTEND:20260922T041500Z
+DTSTAMP:20260922T023000Z
+UID:lmTjD2ZLeW
 DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
  ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
  ing — reinvention of the Resident Evil franchise. In an all-new story\
  , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
  wittingly finds himself in an action-packed\, non-stop race for survival a
  s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 21:00
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -448,33 +452,29 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260926T000000Z
-DTEND:20260926T014500Z
-DTSTAMP:20260926T000000Z
-UID:OJuNLsCZEJ
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:15
+SUMMARY:Hope
+DTSTART:20260914T224500Z
+DTEND:20260915T014000Z
+DTSTAMP:20260914T224500Z
+UID:R5nOV7p9cn
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 16:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260926T024500Z
-DTEND:20260926T043000Z
-DTSTAMP:20260926T024500Z
-UID:8fGSkii0Qo
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 20:00
+SUMMARY:Hope
+DTSTART:20260915T023000Z
+DTEND:20260915T052500Z
+DTSTAMP:20260915T023000Z
+UID:ebkfvgLJmm
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -539,51 +539,6 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil
-DTSTART:20260927T200000Z
-DTEND:20260927T214500Z
-DTSTAMP:20260927T200000Z
-UID:TE0WnbOxhb
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260927T230000Z
-DTEND:20260928T004500Z
-DTSTAMP:20260927T230000Z
-UID:pZllI9wS6g
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260928T020000Z
-DTEND:20260928T034500Z
-DTSTAMP:20260928T020000Z
-UID:5UReyxeIc5
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
 DTSTART:20260928T234500Z
 DTEND:20260929T013000Z
 DTSTAMP:20260928T234500Z
@@ -644,6 +599,51 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil
+DTSTART:20260927T200000Z
+DTEND:20260927T214500Z
+DTSTAMP:20260927T200000Z
+UID:TE0WnbOxhb
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260927T230000Z
+DTEND:20260928T004500Z
+DTSTAMP:20260927T230000Z
+UID:pZllI9wS6g
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260928T020000Z
+DTEND:20260928T034500Z
+DTSTAMP:20260928T020000Z
+UID:5UReyxeIc5
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
 DTSTART:20261001T234500Z
 DTEND:20261002T013000Z
 DTSTAMP:20261001T234500Z
@@ -681,32 +681,6 @@ DESCRIPTION:Duration: 145 mins (2h25m)\n\nCommunity ScreeningsRosalind Rus
  ennis\, who unexpectedly gains custody of her young nephew.\n\nhttps://www
  .siff.net/programs-and-events/community-screenings/auntie-mame\n\nEstimate
  d start: 11:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260915T224500Z
-DTEND:20260916T014000Z
-DTSTAMP:20260915T224500Z
-UID:3ncNPC9g5j
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260916T023000Z
-DTEND:20260916T052500Z
-DTSTAMP:20260916T023000Z
-UID:ZiaSxbwlmq
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 END:VCALENDAR
