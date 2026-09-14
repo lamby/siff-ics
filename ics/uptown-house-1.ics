@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20260913T171326Z
+LAST-MODIFIED:20260914T064357Z
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
 DTSTART:20260918T233000Z
@@ -33,36 +33,6 @@ DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260916T231500Z
-DTEND:20260917T012500Z
-DTSTAMP:20260916T231500Z
-UID:U3n7Q6ZgDJ
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breathless (1960)
-DTSTART:20260917T023000Z
-DTEND:20260917T041500Z
-DTSTAMP:20260917T023000Z
-UID:gpN6milkw1
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesMichel (Jean-Paul
-  Belmondo) stomps the accelerator\, is Parisian-cool\, and casual about th
- e big things (love\, living and dying). Speeding ahead like Bogart in thos
- e American Noir movies\, with the American Patricia (Jean Seberg) sharing 
- his crime spree. She (standing still) gives us a Mona Lisa gaze: all the m
- ysteries.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/bre
- athless\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Practical Magic 2
 DTSTART:20260921T233000Z
 DTEND:20260922T015500Z
@@ -88,33 +58,6 @@ DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
  ark curse that threatens to unravel their family once and for all in a mus
  t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
  inema/in-theaters/practical-magic-2\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame
-DTSTART:20260914T230000Z
-DTEND:20260915T005500Z
-DTSTAMP:20260914T230000Z
-UID:nvGWYZpC0d
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
- employee whose early book of poetry is “rediscovered” by a group of as
- piring artists who adopt him as an elder statesman\, flattering him but al
- so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
- ema/in-theaters/late-fame\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serial Mom (1994)
-DTSTART:20260915T013000Z
-DTEND:20260915T032000Z
-DTSTAMP:20260915T013000Z
-UID:QEO4Bu7qPq
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nSIFF Movie Club Written and dire
- cted by John Waters\, this 1994 dark satirical comedy stars Kathleen Turne
- r as Beverly Sutphin\, a picture-perfect suburban housewife and mother who
-  secretly moonlights as a gleeful serial killer. Intro by Graphic Design 
- Manager Rhys Iliakis.\n\nhttps://www.siff.net/programs-and-events/siff-mov
- ie-club/serial-mom\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -147,79 +90,70 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART:20260917T230000Z
-DTEND:20260918T012500Z
-DTSTAMP:20260917T230000Z
-UID:3S2RdAFnlb
+DTSTART:20260920T233000Z
+DTEND:20260921T015500Z
+DTSTAMP:20260920T233000Z
+UID:ugGJ21QHaN
 DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
  le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
  ef and powerful ancestral magic\, as the Owens sisters must confront the d
  ark curse that threatens to unravel their family once and for all in a mus
  t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Edie Arnold is a Loser
-DTSTART:20260918T020000Z
-DTEND:20260918T033000Z
-DTSTAMP:20260918T020000Z
-UID:rFIFLJBuNK
-DESCRIPTION:Duration: 73 mins (1h13m)\n\nJoin us for an exclusive screenin
- g event of the hysterical\, rebellious\, coming of age comedy\, Edie Arnol
- d is a Loser! This SXSW film and SIFF Audience Award Winner follows timid 
- dork Edie as she accidentally takes the spotlight when she starts a punk b
- and with her fellow “turds”\, becoming an icon to the rest of the lose
- rs at her all-girls Catholic school while managing to piss off the hot gir
- ls\, the nuns\, and the horniest altar boy you’ve ever seen. "A sensatio
- nal\, hilarious buddy comedy that will make you want to embrace your inner
-  loser." —Mashable "...a coming-of-age story for the weird girls. And th
- ank God." — Kristy Puchko Live Q&A with the Directors Megan Rico & Kade 
- Atwood and Lead Actor Adi Madden Cabrera. Show up early to hang out with t
- he filmmakers and get free merch in the lobby!\n\nhttps://www.siff.net/cin
- ema/in-theaters/edie-arnold-is-a-loser\n\nEstimated start: 19:15
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 16:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART:20260913T200000Z
-DTEND:20260913T222500Z
-DTSTAMP:20260913T200000Z
-UID:ajOUQX5E4T
+DTSTART:20260921T023000Z
+DTEND:20260921T045500Z
+DTSTAMP:20260921T023000Z
+UID:Px3oYZNEUW
 DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
  le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
  ef and powerful ancestral magic\, as the Owens sisters must confront the d
  ark curse that threatens to unravel their family once and for all in a mus
  t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 13:15
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260913T230000Z
-DTEND:20260914T012500Z
-DTSTAMP:20260913T230000Z
-UID:Kxu4C5IxgR
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
+SUMMARY:Hope
+DTSTART:20260920T200000Z
+DTEND:20260920T225500Z
+DTSTAMP:20260920T200000Z
+UID:bGuUTHlBjg
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 13:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260914T021500Z
-DTEND:20260914T044000Z
-DTSTAMP:20260914T021500Z
-UID:mK58xNN2AS
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 19:30
+SUMMARY:Late Fame
+DTSTART:20260914T230000Z
+DTEND:20260915T005500Z
+DTSTAMP:20260914T230000Z
+UID:nvGWYZpC0d
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nWillem Dafoe plays a post office 
+ employee whose early book of poetry is “rediscovered” by a group of as
+ piring artists who adopt him as an elder statesman\, flattering him but al
+ so causing him to question their authenticity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/late-fame\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serial Mom (1994)
+DTSTART:20260915T013000Z
+DTEND:20260915T032000Z
+DTSTAMP:20260915T013000Z
+UID:QEO4Bu7qPq
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nSIFF Movie Club Written and dire
+ cted by John Waters\, this 1994 dark satirical comedy stars Kathleen Turne
+ r as Beverly Sutphin\, a picture-perfect suburban housewife and mother who
+  secretly moonlights as a gleeful serial killer. Intro by Graphic Design 
+ Manager Rhys Iliakis.\n\nhttps://www.siff.net/programs-and-events/siff-mov
+ ie-club/serial-mom\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -293,90 +227,37 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART:20260920T233000Z
-DTEND:20260921T015500Z
-DTSTAMP:20260920T233000Z
-UID:ugGJ21QHaN
+DTSTART:20260917T230000Z
+DTEND:20260918T012500Z
+DTSTAMP:20260917T230000Z
+UID:3S2RdAFnlb
 DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
  le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
  ef and powerful ancestral magic\, as the Owens sisters must confront the d
  ark curse that threatens to unravel their family once and for all in a mus
  t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 16:45
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260921T023000Z
-DTEND:20260921T045500Z
-DTSTAMP:20260921T023000Z
-UID:Px3oYZNEUW
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260920T200000Z
-DTEND:20260920T225500Z
-DTSTAMP:20260920T200000Z
-UID:bGuUTHlBjg
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20260925T234500Z
-DTEND:20260926T015000Z
-DTSTAMP:20260925T234500Z
-UID:B7LlHHWV5I
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20260926T024500Z
-DTEND:20260926T045000Z
-DTSTAMP:20260926T024500Z
-UID:siZp7nrXTS
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260924T233000Z
-DTEND:20260925T015500Z
-DTSTAMP:20260924T233000Z
-UID:OuMlV4bCw0
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20260925T024500Z
-DTEND:20260925T045000Z
-DTSTAMP:20260925T024500Z
-UID:39uKh5talp
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 20:00
+SUMMARY:Edie Arnold is a Loser
+DTSTART:20260918T020000Z
+DTEND:20260918T033000Z
+DTSTAMP:20260918T020000Z
+UID:rFIFLJBuNK
+DESCRIPTION:Duration: 73 mins (1h13m)\n\nJoin us for an exclusive screenin
+ g event of the hysterical\, rebellious\, coming of age comedy\, Edie Arnol
+ d is a Loser! This SXSW film and SIFF Audience Award Winner follows timid 
+ dork Edie as she accidentally takes the spotlight when she starts a punk b
+ and with her fellow “turds”\, becoming an icon to the rest of the lose
+ rs at her all-girls Catholic school while managing to piss off the hot gir
+ ls\, the nuns\, and the horniest altar boy you’ve ever seen. "A sensatio
+ nal\, hilarious buddy comedy that will make you want to embrace your inner
+  loser." —Mashable "...a coming-of-age story for the weird girls. And th
+ ank God." — Kristy Puchko Live Q&A with the Directors Megan Rico & Kade 
+ Atwood and Lead Actor Adi Madden Cabrera. Show up early to hang out with t
+ he filmmakers and get free merch in the lobby!\n\nhttps://www.siff.net/cin
+ ema/in-theaters/edie-arnold-is-a-loser\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -406,6 +287,83 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nNouvelles FemmesTwo Parisian lit
  ree\, and soon a larking-about friendship branches into many configuration
  s of love.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/ju
  les-and-jim\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DTSTART:20260916T231500Z
+DTEND:20260917T012500Z
+DTSTAMP:20260916T231500Z
+UID:U3n7Q6ZgDJ
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
+ and waning fandom\, the Camp Miasma slasher franchise is handed over to an
+  enthusiastic young director for resurrection. But when she visits the ori
+ ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
+ wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
+  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breathless (1960)
+DTSTART:20260917T023000Z
+DTEND:20260917T041500Z
+DTSTAMP:20260917T023000Z
+UID:gpN6milkw1
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesMichel (Jean-Paul
+  Belmondo) stomps the accelerator\, is Parisian-cool\, and casual about th
+ e big things (love\, living and dying). Speeding ahead like Bogart in thos
+ e American Noir movies\, with the American Patricia (Jean Seberg) sharing 
+ his crime spree. She (standing still) gives us a Mona Lisa gaze: all the m
+ ysteries.\n\nhttps://www.siff.net/programs-and-events/nouvelles-femmes/bre
+ athless\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260924T233000Z
+DTEND:20260925T015500Z
+DTSTAMP:20260924T233000Z
+UID:OuMlV4bCw0
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primetime
+DTSTART:20260925T024500Z
+DTEND:20260925T045000Z
+DTSTAMP:20260925T024500Z
+UID:39uKh5talp
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primetime
+DTSTART:20260925T234500Z
+DTEND:20260926T015000Z
+DTSTAMP:20260925T234500Z
+UID:B7LlHHWV5I
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primetime
+DTSTART:20260926T024500Z
+DTEND:20260926T045000Z
+DTSTAMP:20260926T024500Z
+UID:siZp7nrXTS
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -443,39 +401,6 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Primetime
-DTSTART:20260927T205000Z
-DTEND:20260927T225500Z
-DTSTAMP:20260927T205000Z
-UID:f7ji3E6i8p
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 14:05
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20260927T234500Z
-DTEND:20260928T015000Z
-DTSTAMP:20260927T234500Z
-UID:eC5x4A2h1n
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20260928T024500Z
-DTEND:20260928T045000Z
-DTSTAMP:20260928T024500Z
-UID:UejSOLgeZm
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
 DTSTART:20260928T234500Z
 DTEND:20260929T015000Z
 DTSTAMP:20260928T234500Z
@@ -491,6 +416,28 @@ DTSTART:20260929T024500Z
 DTEND:20260929T045000Z
 DTSTAMP:20260929T024500Z
 UID:2e3jEkGh3y
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primetime
+DTSTART:20260929T234500Z
+DTEND:20260930T015000Z
+DTSTAMP:20260929T234500Z
+UID:WLuxUh49Hk
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primetime
+DTSTART:20260930T024500Z
+DTEND:20260930T045000Z
+DTSTAMP:20260930T024500Z
+UID:uQckxlQbjX
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
  host Chris Hansen sets out to make television history.\n\nhttps://www.siff
  .net/cinema/in-theaters/primetime\n\nEstimated start: 20:00
@@ -535,10 +482,21 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Primetime
-DTSTART:20260929T234500Z
-DTEND:20260930T015000Z
-DTSTAMP:20260929T234500Z
-UID:WLuxUh49Hk
+DTSTART:20260927T205000Z
+DTEND:20260927T225500Z
+DTSTAMP:20260927T205000Z
+UID:f7ji3E6i8p
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 14:05
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primetime
+DTSTART:20260927T234500Z
+DTEND:20260928T015000Z
+DTSTAMP:20260927T234500Z
+UID:eC5x4A2h1n
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
  host Chris Hansen sets out to make television history.\n\nhttps://www.siff
  .net/cinema/in-theaters/primetime\n\nEstimated start: 17:00
@@ -546,10 +504,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Primetime
-DTSTART:20260930T024500Z
-DTEND:20260930T045000Z
-DTSTAMP:20260930T024500Z
-UID:uQckxlQbjX
+DTSTART:20260928T024500Z
+DTEND:20260928T045000Z
+DTSTAMP:20260928T024500Z
+UID:UejSOLgeZm
 DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
  host Chris Hansen sets out to make television history.\n\nhttps://www.siff
  .net/cinema/in-theaters/primetime\n\nEstimated start: 20:00
@@ -571,6 +529,20 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nNouvelles FemmesA film producer
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ginger Snaps (2000)
+DTSTART:20261013T013000Z
+DTEND:20261013T033500Z
+DTSTAMP:20261013T013000Z
+UID:9WE2YUelBy
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Movie Club Ginger Snaps is
+  a 2000 Canadian supernatural horror film about two death-obsessed sisters
+ \, outcasts in their suburban neighborhood\, who must deal with the tragic
+  consequences when one of them is bitten by a deadly werewolf. Intro by C
+ inema Worker Larcyn Burnett.\n\nhttps://www.siff.net/programs-and-events/s
+ iff-movie-club/ginger-snaps\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Salome's Last Dance (1988)
 DTSTART:20261010T210000Z
 DTEND:20261010T224500Z
@@ -585,17 +557,18 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nPresented by SIFF and the Seattl
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ginger Snaps (2000)
-DTSTART:20261013T013000Z
-DTEND:20261013T033500Z
-DTSTAMP:20261013T013000Z
-UID:9WE2YUelBy
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nSIFF Movie Club Ginger Snaps is
-  a 2000 Canadian supernatural horror film about two death-obsessed sisters
- \, outcasts in their suburban neighborhood\, who must deal with the tragic
-  consequences when one of them is bitten by a deadly werewolf. Intro by C
- inema Worker Larcyn Burnett.\n\nhttps://www.siff.net/programs-and-events/s
- iff-movie-club/ginger-snaps\n\nEstimated start: 18:45
+SUMMARY:Le Bonheur (Happiness) (1965)
+DTSTART:20261015T023000Z
+DTEND:20261015T040500Z
+DTSTAMP:20261015T023000Z
+UID:Enp64v38T5
+DESCRIPTION:Duration: 80 mins (1h20m)\n\nNouvelles FemmesIn a French Impre
+ ssionist landscape of sunny blossoms\, a blissful husband and wife (Jean-C
+ laude and Claire Drouot) picnic on the grass. Their happiness feels organi
+ cally grown\, part of the natural order. But when Jean-Claude meets a post
+ al clerk (Marie-France Boyer)\, he realizes he has a capacity for “more 
+ flowers\, more apples.”\n\nhttps://www.siff.net/programs-and-events/nouv
+ elles-femmes/le-bonheur-(happiness)\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -616,21 +589,6 @@ DESCRIPTION:Duration: 98 mins (1h38m)\n\nWelcome to the first installment
  he screening\, providing some book-to-film context before we meet afterwar
  ds for our Book Club discussion at The Traveling Goat.\n\nhttps://www.siff
  .net/programs-and-events/siff-book-club/carrie\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Bonheur (Happiness) (1965)
-DTSTART:20261015T023000Z
-DTEND:20261015T040500Z
-DTSTAMP:20261015T023000Z
-UID:Enp64v38T5
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nNouvelles FemmesIn a French Impre
- ssionist landscape of sunny blossoms\, a blissful husband and wife (Jean-C
- laude and Claire Drouot) picnic on the grass. Their happiness feels organi
- cally grown\, part of the natural order. But when Jean-Claude meets a post
- al clerk (Marie-France Boyer)\, he realizes he has a capacity for “more 
- flowers\, more apples.”\n\nhttps://www.siff.net/programs-and-events/nouv
- elles-femmes/le-bonheur-(happiness)\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -665,6 +623,21 @@ DESCRIPTION:Duration: 60 mins (1h00m)\n\nMatchstick Productions returns wi
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stolen Kisses (1968)
+DTSTART:20261029T023000Z
+DTEND:20261029T041500Z
+DTSTAMP:20261029T023000Z
+UID:HK7dlip3HJ
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesTruffaut's alter-
+ ego Antoine Doinel (Jean-Pierre Léaud) gains access to the hearts of Pari
+ s by becoming a detective. He’s emotionally up and down with his girlfri
+ end Christine (Claude Jade) but the endearingly hapless fellow is instantl
+ y smitten by the elegant wife (Delphine Seyrig) of a client.\n\nhttps://ww
+ w.siff.net/programs-and-events/nouvelles-femmes/stolen-kisses\n\nEstimated
+  start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CatVideoFest 2026
 DTSTART:20261030T020000Z
 DTEND:20261030T034500Z
@@ -679,18 +652,18 @@ DESCRIPTION:Duration: 90 mins (1h30m)\n\nSpecial encore screening for Nati
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stolen Kisses (1968)
-DTSTART:20261029T023000Z
-DTEND:20261029T041500Z
-DTSTAMP:20261029T023000Z
-UID:HK7dlip3HJ
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nNouvelles FemmesTruffaut's alter-
- ego Antoine Doinel (Jean-Pierre Léaud) gains access to the hearts of Pari
- s by becoming a detective. He’s emotionally up and down with his girlfri
- end Christine (Claude Jade) but the endearingly hapless fellow is instantl
- y smitten by the elegant wife (Delphine Seyrig) of a client.\n\nhttps://ww
- w.siff.net/programs-and-events/nouvelles-femmes/stolen-kisses\n\nEstimated
-  start: 19:45
+SUMMARY:Pierrot le Fou (1965)
+DTSTART:20261111T033000Z
+DTEND:20261111T053500Z
+DTSTAMP:20261111T033000Z
+UID:2Iwpxo12vu
+DESCRIPTION:Duration: 110 mins (1h50m)\n\nNouvelles FemmesA husband (Jean-
+ Paul Belmondo) flees his shallow Paris life with the babysitter (Anna Kari
+ na)\, to French Riviera escapades with gangsters\, stolen loot\, sunny hed
+ onism\, political commentary\; a charming disorder\, a reflection of direc
+ tor Godard's and Karina’s stormy marriage. It’s truly moving when he h
+ as her gaze into our/his camera’s eyes.\n\nhttps://www.siff.net/programs
+ -and-events/nouvelles-femmes/pierrot-le-fou\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -724,21 +697,6 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nSIFF Movie Club 4K restoration.
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pierrot le Fou (1965)
-DTSTART:20261111T033000Z
-DTEND:20261111T053500Z
-DTSTAMP:20261111T033000Z
-UID:2Iwpxo12vu
-DESCRIPTION:Duration: 110 mins (1h50m)\n\nNouvelles FemmesA husband (Jean-
- Paul Belmondo) flees his shallow Paris life with the babysitter (Anna Kari
- na)\, to French Riviera escapades with gangsters\, stolen loot\, sunny hed
- onism\, political commentary\; a charming disorder\, a reflection of direc
- tor Godard's and Karina’s stormy marriage. It’s truly moving when he h
- as her gaze into our/his camera’s eyes.\n\nhttps://www.siff.net/programs
- -and-events/nouvelles-femmes/pierrot-le-fou\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:My Night at Maud's (1969)
 DTSTART:20261118T033000Z
 DTEND:20261118T053000Z
@@ -767,6 +725,20 @@ DESCRIPTION:Duration: 81 mins (1h21m)\n\nWaking to discover their beloved
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Damnation (1988)
+DTSTART:20261208T023000Z
+DTEND:20261208T044500Z
+DTSTAMP:20261208T023000Z
+UID:BD8AgxDk8B
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nSIFF Movie Club4K restoration. A
+  mid-career masterwork by legendary Hungarian art house auteur Béla Tarr 
+ and the first of his internationally acclaimed trilogy of films written in
+  collaboration with author László Krasznahorkai (including the legendary
+  Sátántangó).Intro by Cinema Worker Adam Plesser.\n\nhttps://www.siff.n
+ et/programs-and-events/siff-movie-club/damnation\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mountains on Stage - Winter Edition 2026
 DTSTART:20261210T030000Z
 DTEND:20261210T063000Z
@@ -779,20 +751,6 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nMountains on Stage is an interna
  ation\, human achievement\, and the natural world.\n\nhttps://www.siff.net
  /cinema/in-theaters/mountains-on-stage-winter-edition-2026\n\nEstimated st
  art: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Damnation (1988)
-DTSTART:20261208T023000Z
-DTEND:20261208T044500Z
-DTSTAMP:20261208T023000Z
-UID:BD8AgxDk8B
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nSIFF Movie Club4K restoration. A
-  mid-career masterwork by legendary Hungarian art house auteur Béla Tarr 
- and the first of his internationally acclaimed trilogy of films written in
-  collaboration with author László Krasznahorkai (including the legendary
-  Sátántangó).Intro by Cinema Worker Adam Plesser.\n\nhttps://www.siff.n
- et/programs-and-events/siff-movie-club/damnation\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR

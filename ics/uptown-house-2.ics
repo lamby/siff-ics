@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20260913T171326Z
+LAST-MODIFIED:20260914T064357Z
 BEGIN:VEVENT
 SUMMARY:Hope
 DTSTART:20260918T223000Z
@@ -31,34 +31,6 @@ DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260916T230000Z
-DTEND:20260917T012500Z
-DTSTAMP:20260916T230000Z
-UID:JnNJf3OWyx
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260917T020000Z
-DTEND:20260917T042500Z
-DTSTAMP:20260917T020000Z
-UID:O6LV6HgFhd
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hope
 DTSTART:20260921T224500Z
 DTEND:20260922T014000Z
@@ -82,34 +54,6 @@ DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
  r wildfires sever all communications\, while a local hunting party finds i
  tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
  -theaters/hope\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260914T231500Z
-DTEND:20260915T014000Z
-DTSTAMP:20260914T231500Z
-UID:sKi5c3Ev6r
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART:20260915T020000Z
-DTEND:20260915T042500Z
-DTSTAMP:20260915T020000Z
-UID:wnjl2n76G0
-DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
- le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
- ef and powerful ancestral magic\, as the Owens sisters must confront the d
- ark curse that threatens to unravel their family once and for all in a mus
- t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -140,57 +84,71 @@ DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260917T224500Z
-DTEND:20260918T014000Z
-DTSTAMP:20260917T224500Z
-UID:qKSrPhSZAK
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART:20260918T021500Z
-DTEND:20260918T044000Z
-DTSTAMP:20260918T021500Z
-UID:J6RnfkYWd8
+DTSTART:20260920T193000Z
+DTEND:20260920T215500Z
+DTSTAMP:20260920T193000Z
+UID:QL04clc1AE
 DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
  le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
  ef and powerful ancestral magic\, as the Owens sisters must confront the d
  ark curse that threatens to unravel their family once and for all in a mus
  t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 19:30
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 12:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART:20260913T195000Z
-DTEND:20260913T220000Z
-DTSTAMP:20260913T195000Z
-UID:TOXsfdt3Lx
-DESCRIPTION:Duration: 112 mins (1h52m)\n\nAfter years of slapdash sequels 
- and waning fandom\, the Camp Miasma slasher franchise is handed over to an
-  enthusiastic young director for resurrection. But when she visits the ori
- ginal movie’s star\, a now-reclusive actress shrouded in mystery\, the t
- wo women fall into a blood-soaked world of desire\, fear\, and delirium. 
-  Screenings presented in 35mm here.\n\nhttps://www.siff.net/cinema/in-thea
- ters/teenage-sex-and-death-at-camp-miasma\n\nEstimated start: 13:05
+SUMMARY:Hope
+DTSTART:20260920T222000Z
+DTEND:20260921T011500Z
+DTSTAMP:20260920T222000Z
+UID:W1n4qedqOl
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 15:35
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART:20260913T224000Z
-DTEND:20260914T004500Z
-DTSTAMP:20260913T224000Z
-UID:Jx9ciE7Qxr
-DESCRIPTION:Duration: 106 mins (1h46m)\n\nA 19-year-old Anthony Bourdain t
- ravels to Provincetown and stumbles into the chaotic world of a restaurant
-  kitchen\, setting off a summer that will shape the course of his life.\n\
- nhttps://www.siff.net/cinema/in-theaters/tony\n\nEstimated start: 15:55
+SUMMARY:Hope
+DTSTART:20260921T020000Z
+DTEND:20260921T045500Z
+DTSTAMP:20260921T020000Z
+UID:0LUqhntujZ
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260914T231500Z
+DTEND:20260915T014000Z
+DTSTAMP:20260914T231500Z
+UID:sKi5c3Ev6r
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260915T020000Z
+DTEND:20260915T042500Z
+DTSTAMP:20260915T020000Z
+UID:wnjl2n76G0
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -260,43 +218,84 @@ DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hope
+DTSTART:20260917T224500Z
+DTEND:20260918T014000Z
+DTSTAMP:20260917T224500Z
+UID:qKSrPhSZAK
+DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
+ ookie deputy must defend a local community from a mysterious creature afte
+ r wildfires sever all communications\, while a local hunting party finds i
+ tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
+ -theaters/hope\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART:20260920T193000Z
-DTEND:20260920T215500Z
-DTSTAMP:20260920T193000Z
-UID:QL04clc1AE
+DTSTART:20260918T021500Z
+DTEND:20260918T044000Z
+DTSTAMP:20260918T021500Z
+UID:J6RnfkYWd8
 DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
  le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
  ef and powerful ancestral magic\, as the Owens sisters must confront the d
  ark curse that threatens to unravel their family once and for all in a mus
  t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
- inema/in-theaters/practical-magic-2\n\nEstimated start: 12:45
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hope
-DTSTART:20260920T222000Z
-DTEND:20260921T011500Z
-DTSTAMP:20260920T222000Z
-UID:W1n4qedqOl
+DTSTART:20260923T224500Z
+DTEND:20260924T014000Z
+DTSTAMP:20260923T224500Z
+UID:WScLxtdJ3B
 DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
  ookie deputy must defend a local community from a mysterious creature afte
  r wildfires sever all communications\, while a local hunting party finds i
  tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 15:35
+ -theaters/hope\n\nEstimated start: 16:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hope
-DTSTART:20260921T020000Z
-DTEND:20260921T045500Z
-DTSTAMP:20260921T020000Z
-UID:0LUqhntujZ
+DTSTART:20260924T021500Z
+DTEND:20260924T051000Z
+DTSTAMP:20260924T021500Z
+UID:50oXhB9l5f
 DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
  ookie deputy must defend a local community from a mysterious creature afte
  r wildfires sever all communications\, while a local hunting party finds i
  tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 19:15
+ -theaters/hope\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260916T230000Z
+DTEND:20260917T012500Z
+DTSTAMP:20260916T230000Z
+UID:JnNJf3OWyx
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART:20260917T020000Z
+DTEND:20260917T042500Z
+DTSTAMP:20260917T020000Z
+UID:O6LV6HgFhd
+DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
+ le Kidman\, Practical Magic 2 returns to a world steeped in moonlit mischi
+ ef and powerful ancestral magic\, as the Owens sisters must confront the d
+ ark curse that threatens to unravel their family once and for all in a mus
+ t-see cinematic event of fun\, magic and mayhem.\n\nhttps://www.siff.net/c
+ inema/in-theaters/practical-magic-2\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -327,29 +326,14 @@ DESCRIPTION:Duration: 130 mins (2h10m)\n\nStarring Sandra Bullock and Nico
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260923T224500Z
-DTEND:20260924T014000Z
-DTSTAMP:20260923T224500Z
-UID:WScLxtdJ3B
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hope
-DTSTART:20260924T021500Z
-DTEND:20260924T051000Z
-DTSTAMP:20260924T021500Z
-UID:50oXhB9l5f
-DESCRIPTION:Duration: 160 mins (2h40m)\n\nA village police chief and his r
- ookie deputy must defend a local community from a mysterious creature afte
- r wildfires sever all communications\, while a local hunting party finds i
- tself being hunted deep in the mountains\n\nhttps://www.siff.net/cinema/in
- -theaters/hope\n\nEstimated start: 19:30
+SUMMARY:Primetime
+DTSTART:20261001T024500Z
+DTEND:20261001T045000Z
+DTSTAMP:20261001T024500Z
+UID:8dSVa05UUK
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -376,17 +360,6 @@ DESCRIPTION:Duration: 122 mins (2h02m)\n\nHaru and Luis love competing in
  into isolation. When friends coax her back to the studio\, she develops an
   infatuation with the new instructor.\n\nhttps://www.siff.net/cinema/in-th
  eaters/ha-chan-shake-your-booty\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20261001T024500Z
-DTEND:20261001T045000Z
-DTSTAMP:20261001T024500Z
-UID:8dSVa05UUK
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 END:VCALENDAR
