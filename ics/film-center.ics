@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20260914T064357Z
+LAST-MODIFIED:20260915T110828Z
 BEGIN:VEVENT
 SUMMARY:The Hole (35mm) (1998)
 DTSTART:20260919T000000Z
@@ -83,19 +83,6 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nFor the first time\, blind and lo
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gun Crazy (1950)
-DTSTART:20260925T020000Z
-DTEND:20260925T034500Z
-DTSTAMP:20260925T020000Z
-UID:STpw22dOXY
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
- madly in love with a skilled carnival sharpshooter. Their ferocious amour 
- fou leads to a dangerous cross country crime spree in this passionate film
-  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Filipiñana
 DTSTART:20260925T234500Z
 DTEND:20260926T014000Z
@@ -168,70 +155,6 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wanda (1970)
-DTSTART:20260929T020000Z
-DTEND:20260929T040000Z
-DTSTAMP:20260929T020000Z
-UID:5gl4onIn7g
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nDispiritedly going through a div
- orce proceeding\, losing custody of her children\, and eventually falling 
- within the orbit of a bank robber\, soft spoken Wanda finds herself adrift
-  on a road to nowhere.\n\nhttps://www.siff.net/programs-and-events/the-ope
- n-road/wanda\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: The Misanthrope
-DTSTART:20261003T210000Z
-DTEND:20261003T234500Z
-DTSTAMP:20261003T210000Z
-UID:e6ldvHRh5M
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
- ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
- f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
- vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cuckoo Clock
-DTSTART:20261003T023000Z
-DTEND:20261003T042000Z
-DTSTAMP:20261003T023000Z
-UID:7XSnS5ProU
-DESCRIPTION:Duration: 91 mins (1h31m)\n\nPresented by Compassionate Disas
- ter Films. A young woman falls in love with the home-health-care nurse se
- nt to care for her Grandmother with dementia. When the nurse mysteriously 
- disappears\, Grandma’s cuckoo clock speaks to her with a warning that Gr
- andma might be responsible.\n\nhttps://www.siff.net/cinema/in-theaters/the
- -cuckoo-clock\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kikujiro (1999)
-DTSTART:20261006T020000Z
-DTEND:20261006T042000Z
-DTSTAMP:20261006T020000Z
-UID:v9u6M8NtRy
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
- met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
- former yakuza who guides the child on a heart-warming and hilarious summer
-  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: The Misanthrope
-DTSTART:20261004T210000Z
-DTEND:20261004T234500Z
-DTSTAMP:20261004T210000Z
-UID:FwmKP38cNR
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
- ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
- f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
- vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Filipiñana
 DTSTART:20260927T193000Z
 DTEND:20260927T212500Z
@@ -286,6 +209,70 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nAt a picturesque upscale resort
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wanda (1970)
+DTSTART:20260929T020000Z
+DTEND:20260929T040000Z
+DTSTAMP:20260929T020000Z
+UID:5gl4onIn7g
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nDispiritedly going through a div
+ orce proceeding\, losing custody of her children\, and eventually falling 
+ within the orbit of a bank robber\, soft spoken Wanda finds herself adrift
+  on a road to nowhere.\n\nhttps://www.siff.net/programs-and-events/the-ope
+ n-road/wanda\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Misanthrope
+DTSTART:20261003T210000Z
+DTEND:20261003T234500Z
+DTSTAMP:20261003T210000Z
+UID:e6ldvHRh5M
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
+ ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
+ f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
+ vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cuckoo Clock
+DTSTART:20261003T023000Z
+DTEND:20261003T042000Z
+DTSTAMP:20261003T023000Z
+UID:7XSnS5ProU
+DESCRIPTION:Duration: 91 mins (1h31m)\n\nPresented by Compassionate Disas
+ ter Films. A young woman falls in love with the home-health-care nurse se
+ nt to care for her Grandmother with dementia. When the nurse mysteriously 
+ disappears\, Grandma’s cuckoo clock speaks to her with a warning that Gr
+ andma might be responsible.\n\nhttps://www.siff.net/cinema/in-theaters/the
+ -cuckoo-clock\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Misanthrope
+DTSTART:20261004T210000Z
+DTEND:20261004T234500Z
+DTSTAMP:20261004T210000Z
+UID:FwmKP38cNR
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
+ ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
+ f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
+ vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kikujiro (1999)
+DTSTART:20261006T020000Z
+DTEND:20261006T042000Z
+DTSTAMP:20261006T020000Z
+UID:v9u6M8NtRy
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
+ met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
+ former yakuza who guides the child on a heart-warming and hilarious summer
+  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: The Misanthrope
 DTSTART:20261008T013000Z
 DTEND:20261008T041500Z
@@ -307,6 +294,19 @@ DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never
  met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
  former yakuza who guides the child on a heart-warming and hilarious summer
   quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gun Crazy (1950)
+DTSTART:20260925T020000Z
+DTEND:20260925T034500Z
+DTSTAMP:20260925T020000Z
+UID:STpw22dOXY
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nA naive\, gun obsessed man falls 
+ madly in love with a skilled carnival sharpshooter. Their ferocious amour 
+ fou leads to a dangerous cross country crime spree in this passionate film
+  noir.\n\nhttps://www.siff.net/programs-and-events/the-open-road/gun-crazy
  \n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
@@ -452,26 +452,6 @@ DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beware! The Devil’s Wrath
-DTSTART:20261125T033000Z
-DTEND:20261125T052000Z
-DTSTAMP:20261125T033000Z
-UID:Cs3d3My3LQ
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
- eware! The Devil’s Wrath is an occult revenge horror film set in the fic
- tional Texas town of Blackwood Falls. When a young couple moves into the t
- ight-knit community\, a shocking act of violence triggers a wave of ritual
- istic killings that forces residents to confront the dark secrets beneath 
- their pious exterior.Written and directed by Craig Meinhart\, this low-bud
- get feature draws inspiration from 1970s classics like Race with the Devil
- \, Last House on the Left\, and Don’t Look Now\, blending atmospheric dr
- ead\, practical effects\, and a hard-edged sense of vengeance.This special
-  screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
- ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda\
- n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Route One/USA (1989)
 DTSTART:20261122T203000Z
 DTEND:20261123T010000Z
@@ -494,6 +474,26 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
  he hilly outskirts of Tehran\, seeking someone who will bury him after he 
  commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
  ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beware! The Devil’s Wrath
+DTSTART:20261125T033000Z
+DTEND:20261125T052000Z
+DTSTAMP:20261125T033000Z
+UID:Cs3d3My3LQ
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
+ eware! The Devil’s Wrath is an occult revenge horror film set in the fic
+ tional Texas town of Blackwood Falls. When a young couple moves into the t
+ ight-knit community\, a shocking act of violence triggers a wave of ritual
+ istic killings that forces residents to confront the dark secrets beneath 
+ their pious exterior.Written and directed by Craig Meinhart\, this low-bud
+ get feature draws inspiration from 1970s classics like Race with the Devil
+ \, Last House on the Left\, and Don’t Look Now\, blending atmospheric dr
+ ead\, practical effects\, and a hard-edged sense of vengeance.This special
+  screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda\
+ n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
