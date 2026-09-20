@@ -3,67 +3,170 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20260919T120422Z
-BEGIN:VEVENT
-SUMMARY:North by Northwest (1959)
-DTSTART:20260920T180000Z
-DTEND:20260920T203500Z
-DTSTAMP:20260920T180000Z
-UID:54IHle64VE
-DESCRIPTION:Duration: 136 mins (2h16m)\n\nCommunity ScreeningsCary Grant s
- tars as an innocent man mistaken for a spy in one of Alfred Hitchcock's gr
- eatest thrillers. While leaving New York's Plaza Hotel\, advertising execu
- tive Roger Thornhill (Grant) has the misfortune of standing just as the na
- me "George Kaplan" is paged--starting a lethal case of mistaken identity a
- nd a nonstop game of cat and mouse as he is pursued across North America b
- y espionage agents trying to kill him--and by police who suspect him of mu
- rder.\n\nhttps://www.siff.net/programs-and-events/community-screenings/nor
- th-by-northwest\n\nEstimated start: 11:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
+LAST-MODIFIED:20260920T143703Z
 BEGIN:VEVENT
 SUMMARY:Resident Evil
-DTSTART:20260920T213000Z
-DTEND:20260920T231500Z
-DTSTAMP:20260920T213000Z
-UID:XVXiJwQAEY
+DTSTART:20260922T234500Z
+DTEND:20260923T013000Z
+DTSTAMP:20260922T234500Z
+UID:o7hLSGoOYF
 DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
  ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
  ing — reinvention of the Resident Evil franchise. In an all-new story\
  , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
  wittingly finds himself in an action-packed\, non-stop race for survival a
  s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 14:45
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil
-DTSTART:20260921T001500Z
-DTEND:20260921T020000Z
-DTSTAMP:20260921T001500Z
-UID:LQUKk5sCVT
+DTSTART:20260923T023000Z
+DTEND:20260923T041500Z
+DTSTAMP:20260923T023000Z
+UID:mllnLiAqu3
 DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
  ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
  ing — reinvention of the Resident Evil franchise. In an all-new story\
  , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
  wittingly finds himself in an action-packed\, non-stop race for survival a
  s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:30
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil
-DTSTART:20260921T030000Z
-DTEND:20260921T044500Z
-DTSTAMP:20260921T030000Z
-UID:dMc1PoU0Vy
+DTSTART:20260928T234500Z
+DTEND:20260929T013000Z
+DTSTAMP:20260928T234500Z
+UID:YsDb250RjI
 DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
  ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
  ing — reinvention of the Resident Evil franchise. In an all-new story\
  , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
  wittingly finds himself in an action-packed\, non-stop race for survival a
  s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 20:15
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260929T023000Z
+DTEND:20260929T041500Z
+DTSTAMP:20260929T023000Z
+UID:9HE7MxNthG
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260929T234500Z
+DTEND:20260930T013000Z
+DTSTAMP:20260929T234500Z
+UID:XTyYAyfB5t
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260930T023000Z
+DTEND:20260930T041500Z
+DTSTAMP:20260930T023000Z
+UID:f7sApWGGy9
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260927T200000Z
+DTEND:20260927T214500Z
+DTSTAMP:20260927T200000Z
+UID:TE0WnbOxhb
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260927T230000Z
+DTEND:20260928T004500Z
+DTSTAMP:20260927T230000Z
+UID:pZllI9wS6g
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260928T020000Z
+DTEND:20260928T034500Z
+DTSTAMP:20260928T020000Z
+UID:5UReyxeIc5
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260921T234500Z
+DTEND:20260922T013000Z
+DTSTAMP:20260921T234500Z
+UID:fFJKTVOfom
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260922T023000Z
+DTEND:20260922T041500Z
+DTSTAMP:20260922T023000Z
+UID:lmTjD2ZLeW
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -128,289 +231,6 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil
-DTSTART:20260926T000000Z
-DTEND:20260926T014500Z
-DTSTAMP:20260926T000000Z
-UID:OJuNLsCZEJ
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260926T024500Z
-DTEND:20260926T043000Z
-DTSTAMP:20260926T024500Z
-UID:8fGSkii0Qo
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260929T234500Z
-DTEND:20260930T013000Z
-DTSTAMP:20260929T234500Z
-UID:XTyYAyfB5t
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260930T023000Z
-DTEND:20260930T041500Z
-DTSTAMP:20260930T023000Z
-UID:f7sApWGGy9
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20261001T234500Z
-DTEND:20261002T013000Z
-DTSTAMP:20261001T234500Z
-UID:upv3phm0Ij
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260922T234500Z
-DTEND:20260923T013000Z
-DTSTAMP:20260922T234500Z
-UID:o7hLSGoOYF
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260923T023000Z
-DTEND:20260923T041500Z
-DTSTAMP:20260923T023000Z
-UID:mllnLiAqu3
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260928T234500Z
-DTEND:20260929T013000Z
-DTSTAMP:20260928T234500Z
-UID:YsDb250RjI
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260929T023000Z
-DTEND:20260929T041500Z
-DTSTAMP:20260929T023000Z
-UID:9HE7MxNthG
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260921T234500Z
-DTEND:20260922T013000Z
-DTSTAMP:20260921T234500Z
-UID:fFJKTVOfom
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260922T023000Z
-DTEND:20260922T041500Z
-DTSTAMP:20260922T023000Z
-UID:lmTjD2ZLeW
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260927T200000Z
-DTEND:20260927T214500Z
-DTSTAMP:20260927T200000Z
-UID:TE0WnbOxhb
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260927T230000Z
-DTEND:20260928T004500Z
-DTSTAMP:20260927T230000Z
-UID:pZllI9wS6g
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260928T020000Z
-DTEND:20260928T034500Z
-DTSTAMP:20260928T020000Z
-UID:5UReyxeIc5
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260919T193000Z
-DTEND:20260919T211500Z
-DTSTAMP:20260919T193000Z
-UID:NwnUs5E1CP
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 12:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260919T221500Z
-DTEND:20260920T000000Z
-DTSTAMP:20260919T221500Z
-UID:ojmEgT9ji2
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 15:30
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260920T010000Z
-DTEND:20260920T024500Z
-DTSTAMP:20260920T010000Z
-UID:8drOhlQDnq
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260920T034500Z
-DTEND:20260920T053000Z
-DTSTAMP:20260920T034500Z
-UID:CTNoSGmqLt
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 21:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Casablanca (1942)
-DTSTART:20261018T180000Z
-DTEND:20261018T200000Z
-DTSTAMP:20261018T180000Z
-UID:knIVmA6eCc
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nCommunity ScreeningsAmerican exp
- at Rick Blaine (Humphrey Boagart) runs a Moroccan nightclub during World W
- ar II and contends with his ex (Ingrid Bergman)\, who walks back into his 
- life.\n\nhttps://www.siff.net/programs-and-events/community-screenings/cas
- ablanca\n\nEstimated start: 11:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
 DTSTART:20260926T190000Z
 DTEND:20260926T204500Z
 DTSTAMP:20260926T190000Z
@@ -467,6 +287,126 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
  wittingly finds himself in an action-packed\, non-stop race for survival a
  s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
  /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 20:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260926T000000Z
+DTEND:20260926T014500Z
+DTSTAMP:20260926T000000Z
+UID:OJuNLsCZEJ
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260926T024500Z
+DTEND:20260926T043000Z
+DTSTAMP:20260926T024500Z
+UID:8fGSkii0Qo
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20261001T234500Z
+DTEND:20261002T013000Z
+DTSTAMP:20261001T234500Z
+UID:upv3phm0Ij
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North by Northwest (1959)
+DTSTART:20260920T180000Z
+DTEND:20260920T203500Z
+DTSTAMP:20260920T180000Z
+UID:54IHle64VE
+DESCRIPTION:Duration: 136 mins (2h16m)\n\nCommunity ScreeningsCary Grant s
+ tars as an innocent man mistaken for a spy in one of Alfred Hitchcock's gr
+ eatest thrillers. While leaving New York's Plaza Hotel\, advertising execu
+ tive Roger Thornhill (Grant) has the misfortune of standing just as the na
+ me "George Kaplan" is paged--starting a lethal case of mistaken identity a
+ nd a nonstop game of cat and mouse as he is pursued across North America b
+ y espionage agents trying to kill him--and by police who suspect him of mu
+ rder.\n\nhttps://www.siff.net/programs-and-events/community-screenings/nor
+ th-by-northwest\n\nEstimated start: 11:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260920T213000Z
+DTEND:20260920T231500Z
+DTSTAMP:20260920T213000Z
+UID:XVXiJwQAEY
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 14:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260921T001500Z
+DTEND:20260921T020000Z
+DTSTAMP:20260921T001500Z
+UID:LQUKk5sCVT
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260921T030000Z
+DTEND:20260921T044500Z
+DTSTAMP:20260921T030000Z
+UID:dMc1PoU0Vy
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 20:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casablanca (1942)
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+DTSTAMP:20261018T180000Z
+UID:knIVmA6eCc
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nCommunity ScreeningsAmerican exp
+ at Rick Blaine (Humphrey Boagart) runs a Moroccan nightclub during World W
+ ar II and contends with his ex (Ingrid Bergman)\, who walks back into his 
+ life.\n\nhttps://www.siff.net/programs-and-events/community-screenings/cas
+ ablanca\n\nEstimated start: 11:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
