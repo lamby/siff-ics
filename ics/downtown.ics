@@ -3,7 +3,71 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20260927T154435Z
+LAST-MODIFIED:20260928T153621Z
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART:20261005T231500Z
+DTEND:20261006T014000Z
+DTSTAMP:20261005T231500Z
+UID:GuBYWGrrZR
+DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
+ Alejandro G. Iñárritu returns with his original film Digger\, starring 
+ Tom Cruise in the title role. The most powerful man in the world embarks o
+ n a frantic mission to prove he is humanity’s savior before the disaster
+  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
+ Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
+ g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
+ aters/digger\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART:20261006T023000Z
+DTEND:20261006T045500Z
+DTSTAMP:20261006T023000Z
+UID:aqjah5MGZA
+DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
+ Alejandro G. Iñárritu returns with his original film Digger\, starring 
+ Tom Cruise in the title role. The most powerful man in the world embarks o
+ n a frantic mission to prove he is humanity’s savior before the disaster
+  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
+ Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
+ g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
+ aters/digger\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART:20261002T231500Z
+DTEND:20261003T014000Z
+DTSTAMP:20261002T231500Z
+UID:XuPQgMghNI
+DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
+ Alejandro G. Iñárritu returns with his original film Digger\, starring 
+ Tom Cruise in the title role. The most powerful man in the world embarks o
+ n a frantic mission to prove he is humanity’s savior before the disaster
+  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
+ Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
+ g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
+ aters/digger\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART:20261003T023000Z
+DTEND:20261003T045500Z
+DTSTAMP:20261003T023000Z
+UID:sojhVqaodB
+DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
+ Alejandro G. Iñárritu returns with his original film Digger\, starring 
+ Tom Cruise in the title role. The most powerful man in the world embarks o
+ n a frantic mission to prove he is humanity’s savior before the disaster
+  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
+ Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
+ g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
+ aters/digger\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resident Evil
 DTSTART:20260929T234500Z
@@ -35,26 +99,27 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20261001T234500Z
-DTEND:20261002T013000Z
-DTSTAMP:20261001T234500Z
-UID:upv3phm0Ij
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
+SUMMARY:Digger
+DTSTART:20261007T231500Z
+DTEND:20261008T014000Z
+DTSTAMP:20261007T231500Z
+UID:KYMfinWp3D
+DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
+ Alejandro G. Iñárritu returns with his original film Digger\, starring 
+ Tom Cruise in the title role. The most powerful man in the world embarks o
+ n a frantic mission to prove he is humanity’s savior before the disaster
+  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
+ Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
+ g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
+ aters/digger\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digger
-DTSTART:20261002T023000Z
-DTEND:20261002T045500Z
-DTSTAMP:20261002T023000Z
-UID:023Jkda8R6
+DTSTART:20261008T023000Z
+DTEND:20261008T045500Z
+DTSTAMP:20261008T023000Z
+UID:A9bEOYM4so
 DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
  Alejandro G. Iñárritu returns with his original film Digger\, starring 
  Tom Cruise in the title role. The most powerful man in the world embarks o
@@ -63,81 +128,6 @@ DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker
  Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
  g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
  aters/digger\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260927T200000Z
-DTEND:20260927T214500Z
-DTSTAMP:20260927T200000Z
-UID:TE0WnbOxhb
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260927T230000Z
-DTEND:20260928T004500Z
-DTSTAMP:20260927T230000Z
-UID:pZllI9wS6g
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260928T020000Z
-DTEND:20260928T034500Z
-DTSTAMP:20260928T020000Z
-UID:5UReyxeIc5
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260928T234500Z
-DTEND:20260929T013000Z
-DTSTAMP:20260928T234500Z
-UID:YsDb250RjI
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260929T023000Z
-DTEND:20260929T041500Z
-DTSTAMP:20260929T023000Z
-UID:9HE7MxNthG
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
- ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
- ing — reinvention of the Resident Evil franchise. In an all-new story\
- , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
- wittingly finds himself in an action-packed\, non-stop race for survival a
- s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -221,67 +211,33 @@ DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART:20261002T231500Z
-DTEND:20261003T014000Z
-DTSTAMP:20261002T231500Z
-UID:XuPQgMghNI
-DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
- Alejandro G. Iñárritu returns with his original film Digger\, starring 
- Tom Cruise in the title role. The most powerful man in the world embarks o
- n a frantic mission to prove he is humanity’s savior before the disaster
-  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
- Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
- g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
- aters/digger\n\nEstimated start: 16:30
+SUMMARY:Resident Evil
+DTSTART:20260928T234500Z
+DTEND:20260929T013000Z
+DTSTAMP:20260928T234500Z
+UID:YsDb250RjI
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART:20261003T023000Z
-DTEND:20261003T045500Z
-DTSTAMP:20261003T023000Z
-UID:sojhVqaodB
-DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
- Alejandro G. Iñárritu returns with his original film Digger\, starring 
- Tom Cruise in the title role. The most powerful man in the world embarks o
- n a frantic mission to prove he is humanity’s savior before the disaster
-  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
- Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
- g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
- aters/digger\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART:20261005T231500Z
-DTEND:20261006T014000Z
-DTSTAMP:20261005T231500Z
-UID:GuBYWGrrZR
-DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
- Alejandro G. Iñárritu returns with his original film Digger\, starring 
- Tom Cruise in the title role. The most powerful man in the world embarks o
- n a frantic mission to prove he is humanity’s savior before the disaster
-  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
- Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
- g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
- aters/digger\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART:20261006T023000Z
-DTEND:20261006T045500Z
-DTSTAMP:20261006T023000Z
-UID:aqjah5MGZA
-DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
- Alejandro G. Iñárritu returns with his original film Digger\, starring 
- Tom Cruise in the title role. The most powerful man in the world embarks o
- n a frantic mission to prove he is humanity’s savior before the disaster
-  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
- Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
- g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
- aters/digger\n\nEstimated start: 19:45
+SUMMARY:Resident Evil
+DTSTART:20260929T023000Z
+DTEND:20260929T041500Z
+DTSTAMP:20260929T023000Z
+UID:9HE7MxNthG
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -333,27 +289,26 @@ DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART:20261007T231500Z
-DTEND:20261008T014000Z
-DTSTAMP:20261007T231500Z
-UID:KYMfinWp3D
-DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
- Alejandro G. Iñárritu returns with his original film Digger\, starring 
- Tom Cruise in the title role. The most powerful man in the world embarks o
- n a frantic mission to prove he is humanity’s savior before the disaster
-  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
- Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
- g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
- aters/digger\n\nEstimated start: 16:30
+SUMMARY:Resident Evil
+DTSTART:20261001T234500Z
+DTEND:20261002T013000Z
+DTSTAMP:20261001T234500Z
+UID:upv3phm0Ij
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nFrom the mind of visionary filmma
+ ker Zach Cregger (Weapons\, Barbarian) comes a thrilling — and terrify
+ ing — reinvention of the Resident Evil franchise. In an all-new story\
+ , Resident Evil follows Bryan (Austin Abrams)\, a medical courier who un
+ wittingly finds himself in an action-packed\, non-stop race for survival a
+ s one fateful\, horrifying night collapses around him in chaos.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/resident-evil\n\nEstimated start: 17:00
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digger
-DTSTART:20261008T023000Z
-DTEND:20261008T045500Z
-DTSTAMP:20261008T023000Z
-UID:A9bEOYM4so
+DTSTART:20261002T023000Z
+DTEND:20261002T045500Z
+DTSTAMP:20261002T023000Z
+UID:023Jkda8R6
 DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
  Alejandro G. Iñárritu returns with his original film Digger\, starring 
  Tom Cruise in the title role. The most powerful man in the world embarks o
@@ -526,38 +481,6 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digger
-DTSTART:20261013T231500Z
-DTEND:20261014T014000Z
-DTSTAMP:20261013T231500Z
-UID:qtIiF7Jxsi
-DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
- Alejandro G. Iñárritu returns with his original film Digger\, starring 
- Tom Cruise in the title role. The most powerful man in the world embarks o
- n a frantic mission to prove he is humanity’s savior before the disaster
-  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
- Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
- g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
- aters/digger\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART:20261014T023000Z
-DTEND:20261014T045500Z
-DTSTAMP:20261014T023000Z
-UID:g5VpK2iW9a
-DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
- Alejandro G. Iñárritu returns with his original film Digger\, starring 
- Tom Cruise in the title role. The most powerful man in the world embarks o
- n a frantic mission to prove he is humanity’s savior before the disaster
-  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
- Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
- g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
- aters/digger\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
 DTSTART:20261014T231500Z
 DTEND:20261015T014000Z
 DTSTAMP:20261014T231500Z
@@ -602,6 +525,38 @@ DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker
  Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
  g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
  aters/digger\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART:20261013T231500Z
+DTEND:20261014T014000Z
+DTSTAMP:20261013T231500Z
+UID:qtIiF7Jxsi
+DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
+ Alejandro G. Iñárritu returns with his original film Digger\, starring 
+ Tom Cruise in the title role. The most powerful man in the world embarks o
+ n a frantic mission to prove he is humanity’s savior before the disaster
+  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
+ Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
+ g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
+ aters/digger\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART:20261014T023000Z
+DTEND:20261014T045500Z
+DTSTAMP:20261014T023000Z
+UID:g5VpK2iW9a
+DESCRIPTION:Duration: 129 mins (2h09m)\n\nAcademy Award-winning filmmaker 
+ Alejandro G. Iñárritu returns with his original film Digger\, starring 
+ Tom Cruise in the title role. The most powerful man in the world embarks o
+ n a frantic mission to prove he is humanity’s savior before the disaster
+  he’s unleashed destroys everything.Cruise stars alongside Oscar winner 
+ Riz Ahmed\, John Goodman\, Oscar nominee Sandra Hüller\, Michael Stuhlbar
+ g\, and Oscar nominee Jesse Plemons.\n\nhttps://www.siff.net/cinema/in-the
+ aters/digger\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
