@@ -3,31 +3,16 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20260930T143928Z
+LAST-MODIFIED:20261001T141316Z
 BEGIN:VEVENT
-SUMMARY:Ha-Chan\, Shake Your Booty
-DTSTART:20260930T231500Z
-DTEND:20261001T013500Z
-DTSTAMP:20260930T231500Z
-UID:qB0AEVUL3e
-DESCRIPTION:Duration: 122 mins (2h02m)\n\nHaru and Luis love competing in 
- Tokyo's ballroom dance scene\, but after tragedy strikes\, Haru withdraws 
- into isolation. When friends coax her back to the studio\, she develops an
-  infatuation with the new instructor.\n\nhttps://www.siff.net/cinema/in-th
- eaters/ha-chan-shake-your-booty\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ha-Chan\, Shake Your Booty
-DTSTART:20261001T022000Z
-DTEND:20261001T044000Z
-DTSTAMP:20261001T022000Z
-UID:75WyIqOWOF
-DESCRIPTION:Duration: 122 mins (2h02m)\n\nHaru and Luis love competing in 
- Tokyo's ballroom dance scene\, but after tragedy strikes\, Haru withdraws 
- into isolation. When friends coax her back to the studio\, she develops an
-  infatuation with the new instructor.\n\nhttps://www.siff.net/cinema/in-th
- eaters/ha-chan-shake-your-booty\n\nEstimated start: 19:35
+SUMMARY:Primetime
+DTSTART:20261001T224500Z
+DTEND:20261002T005000Z
+DTSTAMP:20261001T224500Z
+UID:0TnBeBl8RZ
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 16:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -57,6 +42,30 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nDesigner Isaac Mizrahi proved a f
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Primetime
+DTSTART:20261008T021500Z
+DTEND:20261008T042000Z
+DTSTAMP:20261008T021500Z
+UID:Ulk2V4BJwm
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unzipped (1995)
+DTSTART:20261007T234500Z
+DTEND:20261008T011500Z
+DTSTAMP:20261007T234500Z
+UID:Kw3PAj7TCM
+DESCRIPTION:Duration: 73 mins (1h13m)\n\nDesigner Isaac Mizrahi proved a f
+ orce of nature on the road to his legendary fall 1994 collection\, a caree
+ r-defining triumph that was documented with an effervescent intimacy by Do
+ uglas Keeve\, Mizrahi’s then-partner. New 4K restoration.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/unzipped\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lady
 DTSTART:20261010T000000Z
 DTEND:20261010T015000Z
@@ -83,14 +92,29 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20261001T224500Z
-DTEND:20261002T005000Z
-DTSTAMP:20261001T224500Z
-UID:0TnBeBl8RZ
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 16:00
+SUMMARY:Unzipped (1995)
+DTSTART:20261006T234500Z
+DTEND:20261007T011500Z
+DTSTAMP:20261006T234500Z
+UID:KNwWNWqLZl
+DESCRIPTION:Duration: 73 mins (1h13m)\n\nDesigner Isaac Mizrahi proved a f
+ orce of nature on the road to his legendary fall 1994 collection\, a caree
+ r-defining triumph that was documented with an effervescent intimacy by Do
+ uglas Keeve\, Mizrahi’s then-partner. New 4K restoration.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/unzipped\n\nEstimated start: 17:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unzipped (1995)
+DTSTART:20261007T020000Z
+DTEND:20261007T033000Z
+DTSTAMP:20261007T020000Z
+UID:FFaRp3fShw
+DESCRIPTION:Duration: 73 mins (1h13m)\n\nDesigner Isaac Mizrahi proved a f
+ orce of nature on the road to his legendary fall 1994 collection\, a caree
+ r-defining triumph that was documented with an effervescent intimacy by Do
+ uglas Keeve\, Mizrahi’s then-partner. New 4K restoration.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/unzipped\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -117,30 +141,6 @@ DESCRIPTION:Duration: 73 mins (1h13m)\n\nDesigner Isaac Mizrahi proved a f
  r-defining triumph that was documented with an effervescent intimacy by Do
  uglas Keeve\, Mizrahi’s then-partner. New 4K restoration.\n\nhttps://ww
  w.siff.net/cinema/in-theaters/unzipped\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20261008T021500Z
-DTEND:20261008T042000Z
-DTSTAMP:20261008T021500Z
-UID:Ulk2V4BJwm
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unzipped (1995)
-DTSTART:20261007T234500Z
-DTEND:20261008T011500Z
-DTSTAMP:20261007T234500Z
-UID:Kw3PAj7TCM
-DESCRIPTION:Duration: 73 mins (1h13m)\n\nDesigner Isaac Mizrahi proved a f
- orce of nature on the road to his legendary fall 1994 collection\, a caree
- r-defining triumph that was documented with an effervescent intimacy by Do
- uglas Keeve\, Mizrahi’s then-partner. New 4K restoration.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/unzipped\n\nEstimated start: 17:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -196,6 +196,53 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The History of Concrete
+DTSTART:20261012T233000Z
+DTEND:20261013T013000Z
+DTSTAMP:20261012T233000Z
+UID:au1gJxbx3p
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nAfter attending a workshop on ho
+ w to write and sell a Hallmark movie\, filmmaker John Wilson tries to use 
+ the same formula to sell a documentary about concrete.\n\nhttps://www.siff
+ .net/cinema/in-theaters/the-history-of-concrete\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady
+DTSTART:20261013T023000Z
+DTEND:20261013T042000Z
+DTSTAMP:20261013T023000Z
+UID:ipeT68MJFq
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
+ entary\, a young filmmaker agrees to film the behind-the-scenes vanity pro
+ ject of the obnoxiously entitled Lady Isabella\, only for something unseen
+  and quite strange to happen.\n\nhttps://www.siff.net/cinema/in-theaters/l
+ ady\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primetime
+DTSTART:20261005T233000Z
+DTEND:20261006T013500Z
+DTSTAMP:20261005T233000Z
+UID:VuYwPxEpot
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primetime
+DTSTART:20261006T023000Z
+DTEND:20261006T043500Z
+DTSTAMP:20261006T023000Z
+UID:xEXMFGcvxJ
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lady
 DTSTART:20261010T203000Z
 DTEND:20261010T222000Z
@@ -235,31 +282,6 @@ DESCRIPTION:Duration: 60 mins (1h00m)\n\nPresented by Cowboy Samurai Films
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The History of Concrete
-DTSTART:20261012T233000Z
-DTEND:20261013T013000Z
-DTSTAMP:20261012T233000Z
-UID:au1gJxbx3p
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nAfter attending a workshop on ho
- w to write and sell a Hallmark movie\, filmmaker John Wilson tries to use 
- the same formula to sell a documentary about concrete.\n\nhttps://www.siff
- .net/cinema/in-theaters/the-history-of-concrete\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lady
-DTSTART:20261013T023000Z
-DTEND:20261013T042000Z
-DTSTAMP:20261013T023000Z
-UID:ipeT68MJFq
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
- entary\, a young filmmaker agrees to film the behind-the-scenes vanity pro
- ject of the obnoxiously entitled Lady Isabella\, only for something unseen
-  and quite strange to happen.\n\nhttps://www.siff.net/cinema/in-theaters/l
- ady\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lady
 DTSTART:20261013T231500Z
 DTEND:20261014T010500Z
@@ -283,85 +305,6 @@ DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
  ject of the obnoxiously entitled Lady Isabella\, only for something unseen
   and quite strange to happen.\n\nhttps://www.siff.net/cinema/in-theaters/l
  ady\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lady
-DTSTART:20261014T231500Z
-DTEND:20261015T010500Z
-DTSTAMP:20261014T231500Z
-UID:BAJ6AilK3y
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
- entary\, a young filmmaker agrees to film the behind-the-scenes vanity pro
- ject of the obnoxiously entitled Lady Isabella\, only for something unseen
-  and quite strange to happen.\n\nhttps://www.siff.net/cinema/in-theaters/l
- ady\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete
-DTSTART:20261015T020000Z
-DTEND:20261015T040000Z
-DTSTAMP:20261015T020000Z
-UID:JJrRbZMVu2
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nAfter attending a workshop on ho
- w to write and sell a Hallmark movie\, filmmaker John Wilson tries to use 
- the same formula to sell a documentary about concrete.\n\nhttps://www.siff
- .net/cinema/in-theaters/the-history-of-concrete\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20261015T233000Z
-DTEND:20261016T013500Z
-DTSTAMP:20261015T233000Z
-UID:ipFNHLCtYy
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lady
-DTSTART:20261016T023000Z
-DTEND:20261016T042000Z
-DTSTAMP:20261016T023000Z
-UID:6QInJ3Wj9p
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
- entary\, a young filmmaker agrees to film the behind-the-scenes vanity pro
- ject of the obnoxiously entitled Lady Isabella\, only for something unseen
-  and quite strange to happen.\n\nhttps://www.siff.net/cinema/in-theaters/l
- ady\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261018T210000Z
-DTEND:20261019T001000Z
-DTSTAMP:20261018T210000Z
-UID:OZsw3dAqc0
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261019T010000Z
-DTEND:20261019T041000Z
-DTSTAMP:20261019T010000Z
-UID:kD3GFVZppP
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -395,18 +338,82 @@ DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Primetime
+DTSTART:20261015T233000Z
+DTEND:20261016T013500Z
+DTSTAMP:20261015T233000Z
+UID:ipFNHLCtYy
+DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
+ host Chris Hansen sets out to make television history.\n\nhttps://www.siff
+ .net/cinema/in-theaters/primetime\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady
+DTSTART:20261016T023000Z
+DTEND:20261016T042000Z
+DTSTAMP:20261016T023000Z
+UID:6QInJ3Wj9p
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
+ entary\, a young filmmaker agrees to film the behind-the-scenes vanity pro
+ ject of the obnoxiously entitled Lady Isabella\, only for something unseen
+  and quite strange to happen.\n\nhttps://www.siff.net/cinema/in-theaters/l
+ ady\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady
+DTSTART:20261014T231500Z
+DTEND:20261015T010500Z
+DTSTAMP:20261014T231500Z
+UID:BAJ6AilK3y
+DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
+ entary\, a young filmmaker agrees to film the behind-the-scenes vanity pro
+ ject of the obnoxiously entitled Lady Isabella\, only for something unseen
+  and quite strange to happen.\n\nhttps://www.siff.net/cinema/in-theaters/l
+ ady\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete
+DTSTART:20261015T020000Z
+DTEND:20261015T040000Z
+DTSTAMP:20261015T020000Z
+UID:JJrRbZMVu2
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nAfter attending a workshop on ho
+ w to write and sell a Hallmark movie\, filmmaker John Wilson tries to use 
+ the same formula to sell a documentary about concrete.\n\nhttps://www.siff
+ .net/cinema/in-theaters/the-history-of-concrete\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:You Can See Everything
-DTSTART:20261022T014500Z
-DTEND:20261022T045500Z
-DTSTAMP:20261022T014500Z
-UID:Op5mu3Pcsw
+DTSTART:20261018T210000Z
+DTEND:20261019T001000Z
+DTSTAMP:20261018T210000Z
+UID:OZsw3dAqc0
 DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
  sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
   a skeptical film crew to document her every move. What begins as an intim
  ate portrait of an enigmatic felon becomes a mind-bending three-year journ
  ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
  e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:00
+ n-theaters/you-can-see-everything\n\nEstimated start: 14:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261019T010000Z
+DTEND:20261019T041000Z
+DTSTAMP:20261019T010000Z
+UID:kD3GFVZppP
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -457,6 +464,50 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Can See Everything
+DTSTART:20261024T020000Z
+DTEND:20261024T051000Z
+DTSTAMP:20261024T020000Z
+UID:PHxv7VMA38
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicker
+DTSTART:20261023T230000Z
+DTEND:20261024T010000Z
+DTSTAMP:20261023T230000Z
+UID:EeEU13bZwt
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
+ sions the local basketmaker to weave her a husband\, but when her wicker c
+ reation proves unexpectedly extraordinary\, his presence ignites jealousy 
+ and upheaval that threatens their quiet village. Q&A with Producer Brent 
+ Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
+ .net/cinema/in-theaters/wicker\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261022T014500Z
+DTEND:20261022T045500Z
+DTSTAMP:20261022T014500Z
+UID:Op5mu3Pcsw
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
 DTSTART:20261024T191500Z
 DTEND:20261024T222500Z
 DTSTAMP:20261024T191500Z
@@ -494,36 +545,9 @@ UID:j2nMR4mbmu
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
  sions the local basketmaker to weave her a husband\, but when her wicker c
  reation proves unexpectedly extraordinary\, his presence ignites jealousy 
- and upheaval that threatens their quiet village.\n\nhttps://www.siff.net/c
- inema/in-theaters/wicker\n\nEstimated start: 16:25
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261024T020000Z
-DTEND:20261024T051000Z
-DTSTAMP:20261024T020000Z
-UID:PHxv7VMA38
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicker
-DTSTART:20261023T230000Z
-DTEND:20261024T010000Z
-DTSTAMP:20261023T230000Z
-UID:EeEU13bZwt
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
- sions the local basketmaker to weave her a husband\, but when her wicker c
- reation proves unexpectedly extraordinary\, his presence ignites jealousy 
- and upheaval that threatens their quiet village.\n\nhttps://www.siff.net/c
- inema/in-theaters/wicker\n\nEstimated start: 16:15
+ and upheaval that threatens their quiet village. Q&A with Producer Brent 
+ Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
+ .net/cinema/in-theaters/wicker\n\nEstimated start: 16:25
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -565,34 +589,9 @@ UID:aSJfRq5Twy
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
  sions the local basketmaker to weave her a husband\, but when her wicker c
  reation proves unexpectedly extraordinary\, his presence ignites jealousy 
- and upheaval that threatens their quiet village.\n\nhttps://www.siff.net/c
- inema/in-theaters/wicker\n\nEstimated start: 16:25
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unzipped (1995)
-DTSTART:20261006T234500Z
-DTEND:20261007T011500Z
-DTSTAMP:20261006T234500Z
-UID:KNwWNWqLZl
-DESCRIPTION:Duration: 73 mins (1h13m)\n\nDesigner Isaac Mizrahi proved a f
- orce of nature on the road to his legendary fall 1994 collection\, a caree
- r-defining triumph that was documented with an effervescent intimacy by Do
- uglas Keeve\, Mizrahi’s then-partner. New 4K restoration.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/unzipped\n\nEstimated start: 17:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unzipped (1995)
-DTSTART:20261007T020000Z
-DTEND:20261007T033000Z
-DTSTAMP:20261007T020000Z
-UID:FFaRp3fShw
-DESCRIPTION:Duration: 73 mins (1h13m)\n\nDesigner Isaac Mizrahi proved a f
- orce of nature on the road to his legendary fall 1994 collection\, a caree
- r-defining triumph that was documented with an effervescent intimacy by Do
- uglas Keeve\, Mizrahi’s then-partner. New 4K restoration.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/unzipped\n\nEstimated start: 19:15
+ and upheaval that threatens their quiet village. Q&A with Producer Brent 
+ Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
+ .net/cinema/in-theaters/wicker\n\nEstimated start: 16:25
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -619,8 +618,9 @@ UID:rFytIAls6e
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
  sions the local basketmaker to weave her a husband\, but when her wicker c
  reation proves unexpectedly extraordinary\, his presence ignites jealousy 
- and upheaval that threatens their quiet village.\n\nhttps://www.siff.net/c
- inema/in-theaters/wicker\n\nEstimated start: 16:15
+ and upheaval that threatens their quiet village. Q&A with Producer Brent 
+ Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
+ .net/cinema/in-theaters/wicker\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -647,30 +647,9 @@ UID:v6QIpKX2Mo
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
  sions the local basketmaker to weave her a husband\, but when her wicker c
  reation proves unexpectedly extraordinary\, his presence ignites jealousy 
- and upheaval that threatens their quiet village.\n\nhttps://www.siff.net/c
- inema/in-theaters/wicker\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20261005T233000Z
-DTEND:20261006T013500Z
-DTSTAMP:20261005T233000Z
-UID:VuYwPxEpot
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20261006T023000Z
-DTEND:20261006T043500Z
-DTSTAMP:20261006T023000Z
-UID:xEXMFGcvxJ
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 19:45
+ and upheaval that threatens their quiet village. Q&A with Producer Brent 
+ Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
+ .net/cinema/in-theaters/wicker\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -697,8 +676,9 @@ UID:bqkKndj1mx
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
  sions the local basketmaker to weave her a husband\, but when her wicker c
  reation proves unexpectedly extraordinary\, his presence ignites jealousy 
- and upheaval that threatens their quiet village.\n\nhttps://www.siff.net/c
- inema/in-theaters/wicker\n\nEstimated start: 16:15
+ and upheaval that threatens their quiet village. Q&A with Producer Brent 
+ Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
+ .net/cinema/in-theaters/wicker\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -725,8 +705,9 @@ UID:M66HloD0UC
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
  sions the local basketmaker to weave her a husband\, but when her wicker c
  reation proves unexpectedly extraordinary\, his presence ignites jealousy 
- and upheaval that threatens their quiet village.\n\nhttps://www.siff.net/c
- inema/in-theaters/wicker\n\nEstimated start: 20:00
+ and upheaval that threatens their quiet village. Q&A with Producer Brent 
+ Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
+ .net/cinema/in-theaters/wicker\n\nEstimated start: 20:00
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
