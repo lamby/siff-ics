@@ -3,119 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20261005T162000Z
-BEGIN:VEVENT
-SUMMARY:The Scout
-DTSTART:20261010T020000Z
-DTEND:20261010T034500Z
-DTSTAMP:20261010T020000Z
-UID:DdOltqSaL4
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA location scout is tasked with f
- inding the perfect interiors for a television pilot. Over the course of a 
- single day\, she drives around New York City\, interacting with strangers
- \, taking photos of their cozy apartments and eclectic shops\, while attem
- pting to satisfy the demands of her erratic employers. Director Paula Gon
- zález-Nasser and Producer/Co-Editor Ryan Martin Brown scheduled to attend
-  for a post-film Q&A on Oct 9.\n\nhttps://www.siff.net/cinema/in-theaters/
- the-scout\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kikujiro (1999)
-DTSTART:20261009T020000Z
-DTEND:20261009T042000Z
-DTSTAMP:20261009T020000Z
-UID:sIu42gQjlr
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
- met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
- former yakuza who guides the child on a heart-warming and hilarious summer
-  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kanał (1957)
-DTSTART:20261011T210000Z
-DTEND:20261011T225500Z
-DTSTAMP:20261011T210000Z
-UID:3M9ikyH8RW
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA harrowing portrait of Polish Ho
- me Army fighters forced to flee the Nazis via Warsaw’s hellish\, labyrin
- thian sewage system. One of Wajda’s finest achievements.\n\nhttps://www.
- siff.net/programs-and-events/andrzej-wajda/kanał\n\nEstimated start: 14:1
- 5
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout
-DTSTART:20261011T233000Z
-DTEND:20261012T011500Z
-DTSTAMP:20261011T233000Z
-UID:4suF2SJP2h
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA location scout is tasked with f
- inding the perfect interiors for a television pilot. Over the course of a 
- single day\, she drives around New York City\, interacting with strangers
- \, taking photos of their cozy apartments and eclectic shops\, while attem
- pting to satisfy the demands of her erratic employers. Director Paula Gon
- zález-Nasser and Producer/Co-Editor Ryan Martin Brown scheduled to attend
-  for a post-film Q&A on Oct 9.\n\nhttps://www.siff.net/cinema/in-theaters/
- the-scout\n\nEstimated start: 16:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout
-DTSTART:20261012T014500Z
-DTEND:20261012T033000Z
-DTSTAMP:20261012T014500Z
-UID:pdVjZ45QCn
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nA location scout is tasked with f
- inding the perfect interiors for a television pilot. Over the course of a 
- single day\, she drives around New York City\, interacting with strangers
- \, taking photos of their cozy apartments and eclectic shops\, while attem
- pting to satisfy the demands of her erratic employers. Director Paula Gon
- zález-Nasser and Producer/Co-Editor Ryan Martin Brown scheduled to attend
-  for a post-film Q&A on Oct 9.\n\nhttps://www.siff.net/cinema/in-theaters/
- the-scout\n\nEstimated start: 19:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: The Misanthrope
-DTSTART:20261008T013000Z
-DTEND:20261008T041500Z
-DTSTAMP:20261008T013000Z
-UID:BDMbBIMua2
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
- ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
- f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
- vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joybubbles
-DTSTART:20261013T013000Z
-DTEND:20261013T030500Z
-DTSTAMP:20261013T013000Z
-UID:3nx1CuRJGw
-DESCRIPTION:Duration: 79 mins (1h19m)\n\nA boy discovers he can control th
- e global telephone system by whistling a magic tone. Born blind and yearni
- ng for connection\, his early obsession with the telephone sparks a subcul
- ture that shapes the future of hacking and technology.\n\nhttps://www.siff
- .net/cinema/in-theaters/joybubbles\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kikujiro (1999)
-DTSTART:20261006T020000Z
-DTEND:20261006T042000Z
-DTSTAMP:20261006T020000Z
-UID:v9u6M8NtRy
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
- met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
- former yakuza who guides the child on a heart-warming and hilarious summer
-  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
- \n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20261006T144154Z
 BEGIN:VEVENT
 SUMMARY:Deep Red (1975)
 DTSTART:20261015T020000Z
@@ -175,17 +63,28 @@ DESCRIPTION:Duration: 89 mins (1h29m)\n\nA location scout is tasked with f
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everything for Sale (1969)
-DTSTART:20261018T210000Z
-DTEND:20261018T225500Z
-DTSTAMP:20261018T210000Z
-UID:0KSpN0cWOf
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nWhen the lead protagonist of a fi
- lm disappears during production\, the director decides to continue shootin
- g. A deeply personal homage that mirrors the tragic death of iconic actor 
- Zbigniew Cybulski\, the “Polish James Dean.”\n\nhttps://www.siff.net/p
- rograms-and-events/andrzej-wajda/everything-for-sale\n\nEstimated start: 1
- 4:15
+SUMMARY:Kikujiro (1999)
+DTSTART:20261009T020000Z
+DTEND:20261009T042000Z
+DTSTAMP:20261009T020000Z
+UID:sIu42gQjlr
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nSeeking the mother he has never 
+ met\, 9-year-old Masao forms an unlikely bond with the brash Kikujiro\, a 
+ former yakuza who guides the child on a heart-warming and hilarious summer
+  quest.\n\nhttps://www.siff.net/programs-and-events/the-open-road/kikujiro
+ \n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: The Misanthrope
+DTSTART:20261008T013000Z
+DTEND:20261008T041500Z
+DTSTAMP:20261008T013000Z
+UID:BDMbBIMua2
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nStage to ScreenAward-winner Sand
+ ra Oh (Killing Eve) plays the title role in this razor-sharp reimagining o
+ f Molière’s classic dark comedy.\n\nhttps://www.siff.net/programs-and-e
+ vents/stage-to-screen/nt-live-the-misanthrope\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -202,6 +101,20 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nA milestone of Polish cinema\, A
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Everything for Sale (1969)
+DTSTART:20261018T210000Z
+DTEND:20261018T225500Z
+DTSTAMP:20261018T210000Z
+UID:0KSpN0cWOf
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nWhen the lead protagonist of a fi
+ lm disappears during production\, the director decides to continue shootin
+ g. A deeply personal homage that mirrors the tragic death of iconic actor 
+ Zbigniew Cybulski\, the “Polish James Dean.”\n\nhttps://www.siff.net/p
+ rograms-and-events/andrzej-wajda/everything-for-sale\n\nEstimated start: 1
+ 4:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wagon Master (1950)
 DTSTART:20261020T020000Z
 DTEND:20261020T034500Z
@@ -212,34 +125,6 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
  community of outcasts as they travel along the dusty trail in John Ford’
  s lyrical road poem.\n\nhttps://www.siff.net/programs-and-events/the-open-
  road/wagon-master\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20261024T194500Z
-DTEND:20261024T214000Z
-DTSTAMP:20261024T194500Z
-UID:RB1dmgQRnb
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
- \n\nEstimated start: 13:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20261024T221500Z
-DTEND:20261025T001000Z
-DTSTAMP:20261024T221500Z
-UID:l4u11PV7Ru
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
- \n\nEstimated start: 15:30
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -268,20 +153,6 @@ DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Passenger (1975)
-DTSTART:20261027T020000Z
-DTEND:20261027T041500Z
-DTSTAMP:20261027T020000Z
-UID:ekbxeaHxPg
-DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
- ntities with a deceased acquaintance\, disaffected journalist David Locke 
- (Jack Nicholson) discovers that the life he traded in for has connections 
- to secret proxy wars and the international arms trade.\n\nhttps://www.siff
- .net/programs-and-events/the-open-road/the-passenger\n\nEstimated start: 1
- 9:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bernstein's Wall (2021)
 DTSTART:20261024T013000Z
 DTEND:20261024T032500Z
@@ -293,6 +164,34 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
   his genius and his voracious\, even self-destructive\, appetite for music
   and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
  \n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernstein's Wall (2021)
+DTSTART:20261024T194500Z
+DTEND:20261024T214000Z
+DTSTAMP:20261024T194500Z
+UID:RB1dmgQRnb
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
+ ’s recent remake of West Side Story\, this portrait of its composer Leon
+ ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
+  his genius and his voracious\, even self-destructive\, appetite for music
+  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
+ \n\nEstimated start: 13:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernstein's Wall (2021)
+DTSTART:20261024T221500Z
+DTEND:20261025T001000Z
+DTSTAMP:20261024T221500Z
+UID:l4u11PV7Ru
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
+ ’s recent remake of West Side Story\, this portrait of its composer Leon
+ ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
+  his genius and his voracious\, even self-destructive\, appetite for music
+  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
+ \n\nEstimated start: 15:30
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -325,10 +224,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Passenger (1975)
-DTSTART:20261030T020000Z
-DTEND:20261030T041500Z
-DTSTAMP:20261030T020000Z
-UID:tuSLgkjmTR
+DTSTART:20261027T020000Z
+DTEND:20261027T041500Z
+DTSTAMP:20261027T020000Z
+UID:ekbxeaHxPg
 DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
  ntities with a deceased acquaintance\, disaffected journalist David Locke 
  (Jack Nicholson) discovers that the life he traded in for has connections 
@@ -357,6 +256,20 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Passenger (1975)
+DTSTART:20261030T020000Z
+DTEND:20261030T041500Z
+DTSTAMP:20261030T020000Z
+UID:tuSLgkjmTR
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
+ ntities with a deceased acquaintance\, disaffected journalist David Locke 
+ (Jack Nicholson) discovers that the life he traded in for has connections 
+ to secret proxy wars and the international arms trade.\n\nhttps://www.siff
+ .net/programs-and-events/the-open-road/the-passenger\n\nEstimated start: 1
+ 9:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Wedding (1972)
 DTSTART:20261031T210000Z
 DTEND:20261031T230000Z
@@ -370,6 +283,36 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nEmploying hypnotic music and diz
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Invasion of the Body Snatchers (1978)
+DTSTART:20261029T020000Z
+DTEND:20261029T041000Z
+DTSTAMP:20261029T020000Z
+UID:9DhXobTwDt
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nScarecrowberSan Francisco Health
+  Inspector Matthew Bennell (Donald Sutherland) investigates unsettling cha
+ nges in the people around him\, uncovering a terrifying truth spreading th
+ roughout the city in Philip Kaufman’s gripping sci-fi chiller.\n\nhttps:
+ //www.siff.net/programs-and-events/scarecrowber-2026/invasion-of-the-body-
+ snatchers\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Scout
+DTSTART:20261010T020000Z
+DTEND:20261010T034500Z
+DTSTAMP:20261010T020000Z
+UID:DdOltqSaL4
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nA location scout is tasked with f
+ inding the perfect interiors for a television pilot. Over the course of a 
+ single day\, she drives around New York City\, interacting with strangers
+ \, taking photos of their cozy apartments and eclectic shops\, while attem
+ pting to satisfy the demands of her erratic employers. Director Paula Gon
+ zález-Nasser and Producer/Co-Editor Ryan Martin Brown scheduled to attend
+  for a post-film Q&A on Oct 9.\n\nhttps://www.siff.net/cinema/in-theaters/
+ the-scout\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Birch Wood (1970)
 DTSTART:20261101T220000Z
 DTEND:20261101T235500Z
@@ -380,6 +323,19 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nIn the early 1930s\, a tubercular
  er’s secluded farm in this painterly mediation on life and death.\n\nhtt
  ps://www.siff.net/programs-and-events/andrzej-wajda/the-birch-wood\n\nEsti
  mated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joybubbles
+DTSTART:20261013T013000Z
+DTEND:20261013T030500Z
+DTSTAMP:20261013T013000Z
+UID:3nx1CuRJGw
+DESCRIPTION:Duration: 79 mins (1h19m)\n\nA boy discovers he can control th
+ e global telephone system by whistling a magic tone. Born blind and yearni
+ ng for connection\, his early obsession with the telephone sparks a subcul
+ ture that shapes the future of hacking and technology.\n\nhttps://www.siff
+ .net/cinema/in-theaters/joybubbles\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -411,17 +367,48 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Invasion of the Body Snatchers (1978)
-DTSTART:20261029T020000Z
-DTEND:20261029T041000Z
-DTSTAMP:20261029T020000Z
-UID:9DhXobTwDt
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nScarecrowberSan Francisco Health
-  Inspector Matthew Bennell (Donald Sutherland) investigates unsettling cha
- nges in the people around him\, uncovering a terrifying truth spreading th
- roughout the city in Philip Kaufman’s gripping sci-fi chiller.\n\nhttps:
- //www.siff.net/programs-and-events/scarecrowber-2026/invasion-of-the-body-
- snatchers\n\nEstimated start: 19:15
+SUMMARY:Kanał (1957)
+DTSTART:20261011T210000Z
+DTEND:20261011T225500Z
+DTSTAMP:20261011T210000Z
+UID:3M9ikyH8RW
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA harrowing portrait of Polish Ho
+ me Army fighters forced to flee the Nazis via Warsaw’s hellish\, labyrin
+ thian sewage system. One of Wajda’s finest achievements.\n\nhttps://www.
+ siff.net/programs-and-events/andrzej-wajda/kanał\n\nEstimated start: 14:1
+ 5
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Scout
+DTSTART:20261011T233000Z
+DTEND:20261012T011500Z
+DTSTAMP:20261011T233000Z
+UID:4suF2SJP2h
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nA location scout is tasked with f
+ inding the perfect interiors for a television pilot. Over the course of a 
+ single day\, she drives around New York City\, interacting with strangers
+ \, taking photos of their cozy apartments and eclectic shops\, while attem
+ pting to satisfy the demands of her erratic employers. Director Paula Gon
+ zález-Nasser and Producer/Co-Editor Ryan Martin Brown scheduled to attend
+  for a post-film Q&A on Oct 9.\n\nhttps://www.siff.net/cinema/in-theaters/
+ the-scout\n\nEstimated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Scout
+DTSTART:20261012T014500Z
+DTEND:20261012T033000Z
+DTSTAMP:20261012T014500Z
+UID:pdVjZ45QCn
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nA location scout is tasked with f
+ inding the perfect interiors for a television pilot. Over the course of a 
+ single day\, she drives around New York City\, interacting with strangers
+ \, taking photos of their cozy apartments and eclectic shops\, while attem
+ pting to satisfy the demands of her erratic employers. Director Paula Gon
+ zález-Nasser and Producer/Co-Editor Ryan Martin Brown scheduled to attend
+  for a post-film Q&A on Oct 9.\n\nhttps://www.siff.net/cinema/in-theaters/
+ the-scout\n\nEstimated start: 19:00
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -452,19 +439,6 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nStudent filmmaker Agnieszka sets
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Boys of the Road (1933)
-DTSTART:20261117T030000Z
-DTEND:20261117T042500Z
-DTSTAMP:20261117T030000Z
-UID:56gTumlIIe
-DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
- pression\, two teenagers decide to alleviate their parents’ financial bu
- rden by hitting the road and hopping freight trains in this hard edged\, p
- re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
- /wild-boys-of-the-road\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Candy Mountain (1987)
 DTSTART:20261113T030000Z
 DTEND:20261113T050000Z
@@ -476,6 +450,19 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the
  t Frank and Two-Lane Blacktop screenwriter Rudolph Wurlitzer.\n\nhttps://w
  ww.siff.net/programs-and-events/the-open-road/candy-mountain\n\nEstimated 
  start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Boys of the Road (1933)
+DTSTART:20261117T030000Z
+DTEND:20261117T042500Z
+DTSTAMP:20261117T030000Z
+UID:56gTumlIIe
+DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
+ pression\, two teenagers decide to alleviate their parents’ financial bu
+ rden by hitting the road and hopping freight trains in this hard edged\, p
+ re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
+ /wild-boys-of-the-road\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -492,24 +479,11 @@ DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Route One/USA (1989)
-DTSTART:20261122T203000Z
-DTEND:20261123T010000Z
-DTSTAMP:20261122T203000Z
-UID:1nBEutAZS5
-DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
- oute 1 from Maine to Florida\, renegade filmmaker Robert Kramer and his fr
- iend Doc survey the state of ‘80s America in this monumental portrait of
-  everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
- road/route-one/usa\n\nEstimated start: 12:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Taste of Cherry (1997)
-DTSTART:20261124T030000Z
-DTEND:20261124T045500Z
-DTSTAMP:20261124T030000Z
-UID:TWL0fNdADq
+DTSTART:20261126T030000Z
+DTEND:20261126T045500Z
+DTSTAMP:20261126T030000Z
+UID:LkEWyxvEgN
 DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
  he hilly outskirts of Tehran\, seeking someone who will bury him after he 
  commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
@@ -518,10 +492,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taste of Cherry (1997)
-DTSTART:20261126T030000Z
-DTEND:20261126T045500Z
-DTSTAMP:20261126T030000Z
-UID:LkEWyxvEgN
+DTSTART:20261124T030000Z
+DTEND:20261124T045500Z
+DTSTAMP:20261124T030000Z
+UID:TWL0fNdADq
 DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
  he hilly outskirts of Tehran\, seeking someone who will bury him after he 
  commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
@@ -546,6 +520,19 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
   screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
  ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda
  \n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Route One/USA (1989)
+DTSTART:20261122T203000Z
+DTEND:20261123T010000Z
+DTSTAMP:20261122T203000Z
+UID:1nBEutAZS5
+DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
+ oute 1 from Maine to Florida\, renegade filmmaker Robert Kramer and his fr
+ iend Doc survey the state of ‘80s America in this monumental portrait of
+  everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
+ road/route-one/usa\n\nEstimated start: 12:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
