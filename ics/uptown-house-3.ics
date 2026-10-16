@@ -3,7 +3,68 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20261015T154931Z
+LAST-MODIFIED:20261016T144752Z
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261024T020000Z
+DTEND:20261024T051000Z
+DTSTAMP:20261024T020000Z
+UID:PHxv7VMA38
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicker
+DTSTART:20261023T230000Z
+DTEND:20261024T010000Z
+DTSTAMP:20261023T230000Z
+UID:EeEU13bZwt
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
+ sions the local basketmaker to weave her a husband\, but when her wicker c
+ reation proves unexpectedly extraordinary\, his presence ignites jealousy 
+ and upheaval that threatens their quiet village. Q&A with Producer Brent 
+ Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
+ .net/cinema/in-theaters/wicker\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KEN RUSSELL’S THE DEVILS (1971)
+DTSTART:20261020T230000Z
+DTEND:20261021T011000Z
+DTSTAMP:20261020T230000Z
+UID:8DN08VIMWX
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
+ a starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS i
+ s a prescient epic of obsession and corruption –and a defining work of a
+ rt from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the u
+ ncut and unfiltered theatrical experience that Russell always envisioned 
+ – and the first time the film will be presented restored and in 4K.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/ken-russells-the-devils\n\nEstimate
+ d start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KEN RUSSELL’S THE DEVILS (1971)
+DTSTART:20261021T020000Z
+DTEND:20261021T041000Z
+DTSTAMP:20261021T020000Z
+UID:xHZZmWZPYv
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
+ a starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS i
+ s a prescient epic of obsession and corruption –and a defining work of a
+ rt from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the u
+ ncut and unfiltered theatrical experience that Russell always envisioned 
+ – and the first time the film will be presented restored and in 4K.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/ken-russells-the-devils\n\nEstimate
+ d start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NAZA
 DTSTART:20261018T184000Z
@@ -80,59 +141,137 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KEN RUSSELL’S THE DEVILS (1971)
-DTSTART:20261020T230000Z
-DTEND:20261021T011000Z
-DTSTAMP:20261020T230000Z
-UID:8DN08VIMWX
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
- a starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS i
- s a prescient epic of obsession and corruption –and a defining work of a
- rt from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the u
- ncut and unfiltered theatrical experience that Russell always envisioned 
- – and the first time the film will be presented restored and in 4K.\n\nh
- ttps://www.siff.net/cinema/in-theaters/ken-russells-the-devils\n\nEstimate
- d start: 16:15
+SUMMARY:The History of Concrete
+DTSTART:20261019T231500Z
+DTEND:20261020T011500Z
+DTSTAMP:20261019T231500Z
+UID:K88ioJGrsP
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nAfter attending a workshop on ho
+ w to write and sell a Hallmark movie\, filmmaker John Wilson tries to use 
+ the same formula to sell a documentary about concrete.\n\nhttps://www.siff
+ .net/cinema/in-theaters/the-history-of-concrete\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KEN RUSSELL’S THE DEVILS (1971)
-DTSTART:20261021T020000Z
-DTEND:20261021T041000Z
-DTSTAMP:20261021T020000Z
-UID:xHZZmWZPYv
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
- a starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS i
- s a prescient epic of obsession and corruption –and a defining work of a
- rt from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the u
- ncut and unfiltered theatrical experience that Russell always envisioned 
- – and the first time the film will be presented restored and in 4K.\n\nh
- ttps://www.siff.net/cinema/in-theaters/ken-russells-the-devils\n\nEstimate
- d start: 19:15
+SUMMARY:You Can See Everything
+DTSTART:20261020T021500Z
+DTEND:20261020T052500Z
+DTSTAMP:20261020T021500Z
+UID:G1TePUjGsc
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lady
-DTSTART:20261016T023000Z
-DTEND:20261016T042000Z
-DTSTAMP:20261016T023000Z
-UID:6QInJ3Wj9p
-DESCRIPTION:Duration: 95 mins (1h35m)\n\nIn this absurdly hilarious mockum
- entary\, a young filmmaker agrees to film the behind-the-scenes vanity pro
- ject of the obnoxiously entitled Lady Isabella\, only for something unseen
-  and quite strange to happen.\n\nhttps://www.siff.net/cinema/in-theaters/l
- ady\n\nEstimated start: 19:45
+SUMMARY:You Can See Everything
+DTSTART:20261025T191500Z
+DTEND:20261025T222500Z
+DTSTAMP:20261025T191500Z
+UID:6Nhrcg9e1E
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 12:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART:20261015T233000Z
-DTEND:20261016T013500Z
-DTSTAMP:20261015T233000Z
-UID:ipFNHLCtYy
-DESCRIPTION:Duration: 107 mins (1h47m)\n\nIn 2006\, "To Catch a Predator" 
- host Chris Hansen sets out to make television history.\n\nhttps://www.siff
- .net/cinema/in-theaters/primetime\n\nEstimated start: 16:45
+SUMMARY:You Can See Everything
+DTSTART:20261026T020000Z
+DTEND:20261026T051000Z
+DTSTAMP:20261026T020000Z
+UID:8QpPgF7Amd
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicker
+DTSTART:20261025T231000Z
+DTEND:20261026T011000Z
+DTSTAMP:20261025T231000Z
+UID:aSJfRq5Twy
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
+ sions the local basketmaker to weave her a husband\, but when her wicker c
+ reation proves unexpectedly extraordinary\, his presence ignites jealousy 
+ and upheaval that threatens their quiet village. Q&A with Producer Brent 
+ Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
+ .net/cinema/in-theaters/wicker\n\nEstimated start: 16:25
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAZA
+DTSTART:20261016T230000Z
+DTEND:20261017T003500Z
+DTSTAMP:20261016T230000Z
+UID:nVw03qI3s3
+DESCRIPTION:Duration: 80 mins (1h20m)\n\nDirected by Yuval Abraham and Rac
+ hel Szor\, two of the co-directors of the 2024 Oscar-winning documentary N
+ o Other Land\, NAZA reveals the systems behind Israel’s bombing of Gaza 
+ and its mass killing of Palestinian civilians. Winner of Special Jury Priz
+ e at the 2026 Venice Film Festival.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/naza\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening Night GAS Film Festival
+DTSTART:20261017T010000Z
+DTEND:20261017T031500Z
+DTSTAMP:20261017T010000Z
+UID:FbnSq1oZ2E
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Glass Art Society a
+ nd REFRACT. Join us for an exciting evening celebrating the intersection o
+ f glass and film at the Glass Art Society Annual Film Festival Opening Nig
+ ht! Enjoy a light reception and special program featuring a conversation w
+ ith the director of Braided Sand (Tracy Szatan)\, remarks from the Executi
+ ve Director & CEO of the Glass Art Society (Brandi Clark)\, and words from
+  one of the creators of REFRACT (Michelle Bufano). Then\, settle in for a 
+ screening of Braided Sand\, the winning film from the 2026 GAS Conference 
+ in Corning\, New York.Come celebrate the artists\, stories\, and creative 
+ connections that bring glass and film together for a memorable opening nig
+ ht!\n\nhttps://www.siff.net/cinema/in-theaters/opening-night-gas-film-fest
+ ival\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261022T014500Z
+DTEND:20261022T045500Z
+DTSTAMP:20261022T014500Z
+UID:Op5mu3Pcsw
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAZA
+DTSTART:20261021T231500Z
+DTEND:20261022T005000Z
+DTSTAMP:20261021T231500Z
+UID:mor5jahQ9r
+DESCRIPTION:Duration: 80 mins (1h20m)\n\nDirected by Yuval Abraham and Rac
+ hel Szor\, two of the co-directors of the 2024 Oscar-winning documentary N
+ o Other Land\, NAZA reveals the systems behind Israel’s bombing of Gaza 
+ and its mass killing of Palestinian civilians. Winner of Special Jury Priz
+ e at the 2026 Venice Film Festival.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/naza\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -177,47 +316,6 @@ DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
  and upheaval that threatens their quiet village. Q&A with Producer Brent 
  Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
  .net/cinema/in-theaters/wicker\n\nEstimated start: 16:25
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261024T020000Z
-DTEND:20261024T051000Z
-DTSTAMP:20261024T020000Z
-UID:PHxv7VMA38
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicker
-DTSTART:20261023T230000Z
-DTEND:20261024T010000Z
-DTSTAMP:20261023T230000Z
-UID:EeEU13bZwt
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
- sions the local basketmaker to weave her a husband\, but when her wicker c
- reation proves unexpectedly extraordinary\, his presence ignites jealousy 
- and upheaval that threatens their quiet village. Q&A with Producer Brent 
- Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
- .net/cinema/in-theaters/wicker\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete
-DTSTART:20261019T231500Z
-DTEND:20261020T011500Z
-DTSTAMP:20261019T231500Z
-UID:K88ioJGrsP
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nAfter attending a workshop on ho
- w to write and sell a Hallmark movie\, filmmaker John Wilson tries to use 
- the same formula to sell a documentary about concrete.\n\nhttps://www.siff
- .net/cinema/in-theaters/the-history-of-concrete\n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -283,103 +381,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Can See Everything
-DTSTART:20261020T021500Z
-DTEND:20261020T052500Z
-DTSTAMP:20261020T021500Z
-UID:G1TePUjGsc
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261022T014500Z
-DTEND:20261022T045500Z
-DTSTAMP:20261022T014500Z
-UID:Op5mu3Pcsw
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NAZA
-DTSTART:20261021T231500Z
-DTEND:20261022T005000Z
-DTSTAMP:20261021T231500Z
-UID:mor5jahQ9r
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nDirected by Yuval Abraham and Rac
- hel Szor\, two of the co-directors of the 2024 Oscar-winning documentary N
- o Other Land\, NAZA reveals the systems behind Israel’s bombing of Gaza 
- and its mass killing of Palestinian civilians. Winner of Special Jury Priz
- e at the 2026 Venice Film Festival.\n\nhttps://www.siff.net/cinema/in-thea
- ters/naza\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NAZA
-DTSTART:20261016T230000Z
-DTEND:20261017T003500Z
-DTSTAMP:20261016T230000Z
-UID:nVw03qI3s3
-DESCRIPTION:Duration: 80 mins (1h20m)\n\nDirected by Yuval Abraham and Rac
- hel Szor\, two of the co-directors of the 2024 Oscar-winning documentary N
- o Other Land\, NAZA reveals the systems behind Israel’s bombing of Gaza 
- and its mass killing of Palestinian civilians. Winner of Special Jury Priz
- e at the 2026 Venice Film Festival.\n\nhttps://www.siff.net/cinema/in-thea
- ters/naza\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opening Night GAS Film Festival
-DTSTART:20261017T010000Z
-DTEND:20261017T031500Z
-DTSTAMP:20261017T010000Z
-UID:FbnSq1oZ2E
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Glass Art Society a
- nd REFRACT. Join us for an exciting evening celebrating the intersection o
- f glass and film at the Glass Art Society Annual Film Festival Opening Nig
- ht! Enjoy a light reception and special program featuring a conversation w
- ith the director of Braided Sand (Tracy Szatan)\, remarks from the Executi
- ve Director & CEO of the Glass Art Society (Brandi Clark)\, and words from
-  one of the creators of REFRACT (Michelle Bufano). Then\, settle in for a 
- screening of Braided Sand\, the winning film from the 2026 GAS Conference 
- in Corning\, New York.Come celebrate the artists\, stories\, and creative 
- connections that bring glass and film together for a memorable opening nig
- ht!\n\nhttps://www.siff.net/cinema/in-theaters/opening-night-gas-film-fest
- ival\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261025T191500Z
-DTEND:20261025T222500Z
-DTSTAMP:20261025T191500Z
-UID:6Nhrcg9e1E
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 12:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261026T020000Z
-DTEND:20261026T051000Z
-DTSTAMP:20261026T020000Z
-UID:8QpPgF7Amd
+DTSTART:20261028T020000Z
+DTEND:20261028T051000Z
+DTSTAMP:20261028T020000Z
+UID:u7G2ic3Wir
 DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
  sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
   a skeptical film crew to document her every move. What begins as an intim
@@ -391,16 +396,16 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicker
-DTSTART:20261025T231000Z
-DTEND:20261026T011000Z
-DTSTAMP:20261025T231000Z
-UID:aSJfRq5Twy
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+DTSTAMP:20261027T230000Z
+UID:v6QIpKX2Mo
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
  sions the local basketmaker to weave her a husband\, but when her wicker c
  reation proves unexpectedly extraordinary\, his presence ignites jealousy 
  and upheaval that threatens their quiet village. Q&A with Producer Brent 
  Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
- .net/cinema/in-theaters/wicker\n\nEstimated start: 16:25
+ .net/cinema/in-theaters/wicker\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -424,35 +429,6 @@ DTSTART:20261026T230000Z
 DTEND:20261027T010000Z
 DTSTAMP:20261026T230000Z
 UID:rFytIAls6e
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
- sions the local basketmaker to weave her a husband\, but when her wicker c
- reation proves unexpectedly extraordinary\, his presence ignites jealousy 
- and upheaval that threatens their quiet village. Q&A with Producer Brent 
- Stiefel following the Friday\, 10/23 7:30pm screening.\n\nhttps://www.siff
- .net/cinema/in-theaters/wicker\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261028T020000Z
-DTEND:20261028T051000Z
-DTSTAMP:20261028T020000Z
-UID:u7G2ic3Wir
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicker
-DTSTART:20261027T230000Z
-DTEND:20261028T010000Z
-DTSTAMP:20261027T230000Z
-UID:v6QIpKX2Mo
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nAn ostracized fisherwoman commis
  sions the local basketmaker to weave her a husband\, but when her wicker c
  reation proves unexpectedly extraordinary\, his presence ignites jealousy 
@@ -547,10 +523,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La bola negra
-DTSTART:20261112T000000Z
-DTEND:20261112T025500Z
-DTSTAMP:20261112T000000Z
-UID:pAX3CCCg0X
+DTSTART:20261113T000000Z
+DTEND:20261113T025500Z
+DTSTAMP:20261113T000000Z
+UID:rd4By7CglH
 DESCRIPTION:Duration: 159 mins (2h39m)\n\nLa bola negra\, also known as Th
  e Black Ball\, inspired by an unfinished play by Federico García Lorca\, 
  will be a queer vindication about three men in three different moments of 
@@ -560,10 +536,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La bola negra
-DTSTART:20261113T000000Z
-DTEND:20261113T025500Z
-DTSTAMP:20261113T000000Z
-UID:rd4By7CglH
+DTSTART:20261112T000000Z
+DTEND:20261112T025500Z
+DTSTAMP:20261112T000000Z
+UID:pAX3CCCg0X
 DESCRIPTION:Duration: 159 mins (2h39m)\n\nLa bola negra\, also known as Th
  e Black Ball\, inspired by an unfinished play by Federico García Lorca\, 
  will be a queer vindication about three men in three different moments of 
