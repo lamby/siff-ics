@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20261016T144752Z
+LAST-MODIFIED:20261017T150006Z
 BEGIN:VEVENT
 SUMMARY:Bernstein's Wall (2021)
 DTSTART:20261024T013000Z
@@ -19,43 +19,17 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Everything for Sale (1969)
-DTSTART:20261018T210000Z
-DTEND:20261018T225500Z
-DTSTAMP:20261018T210000Z
-UID:0KSpN0cWOf
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nWhen the lead protagonist of a fi
- lm disappears during production\, the director decides to continue shootin
- g. A deeply personal homage that mirrors the tragic death of iconic actor 
- Zbigniew Cybulski\, the “Polish James Dean.”\n\nhttps://www.siff.net/p
- rograms-and-events/andrzej-wajda/everything-for-sale\n\nEstimated start: 1
- 4:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wagon Master (1950)
-DTSTART:20261023T020000Z
-DTEND:20261023T034500Z
-DTSTAMP:20261023T020000Z
-UID:eiuUYacfjY
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
-  hired to lead a Mormon wagon train through southeastern Utah\, forming a 
- community of outcasts as they travel along the dusty trail in John Ford’
- s lyrical road poem.\n\nhttps://www.siff.net/programs-and-events/the-open-
- road/wagon-master\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wagon Master (1950)
-DTSTART:20261020T020000Z
-DTEND:20261020T034500Z
-DTSTAMP:20261020T020000Z
-UID:FOZVTRtQeC
-DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
-  hired to lead a Mormon wagon train through southeastern Utah\, forming a 
- community of outcasts as they travel along the dusty trail in John Ford’
- s lyrical road poem.\n\nhttps://www.siff.net/programs-and-events/the-open-
- road/wagon-master\n\nEstimated start: 19:15
+SUMMARY:The Passenger (1975)
+DTSTART:20261027T020000Z
+DTEND:20261027T041500Z
+DTSTAMP:20261027T020000Z
+UID:ekbxeaHxPg
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
+ ntities with a deceased acquaintance\, disaffected journalist David Locke 
+ (Jack Nicholson) discovers that the life he traded in for has connections 
+ to secret proxy wars and the international arms trade.\n\nhttps://www.siff
+ .net/programs-and-events/the-open-road/the-passenger\n\nEstimated start: 1
+ 9:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -84,6 +58,19 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
   his genius and his voracious\, even self-destructive\, appetite for music
   and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
  \n\nEstimated start: 14:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wagon Master (1950)
+DTSTART:20261020T020000Z
+DTEND:20261020T034500Z
+DTSTAMP:20261020T020000Z
+UID:FOZVTRtQeC
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
+  hired to lead a Mormon wagon train through southeastern Utah\, forming a 
+ community of outcasts as they travel along the dusty trail in John Ford’
+ s lyrical road poem.\n\nhttps://www.siff.net/programs-and-events/the-open-
+ road/wagon-master\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -128,6 +115,19 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wagon Master (1950)
+DTSTART:20261023T020000Z
+DTEND:20261023T034500Z
+DTSTAMP:20261023T020000Z
+UID:eiuUYacfjY
+DESCRIPTION:Duration: 86 mins (1h26m)\n\nTwo adventurous horse traders are
+  hired to lead a Mormon wagon train through southeastern Utah\, forming a 
+ community of outcasts as they travel along the dusty trail in John Ford’
+ s lyrical road poem.\n\nhttps://www.siff.net/programs-and-events/the-open-
+ road/wagon-master\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ashes and Diamonds (1958)
 DTSTART:20261017T210000Z
 DTEND:20261017T225500Z
@@ -138,6 +138,33 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nA milestone of Polish cinema\, A
  i as a tragic hero in the aftermath of the Second World War.\n\nhttps://ww
  w.siff.net/programs-and-events/andrzej-wajda/ashes-and-diamonds\n\nEstimat
  ed start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everything for Sale (1969)
+DTSTART:20261018T210000Z
+DTEND:20261018T225500Z
+DTSTAMP:20261018T210000Z
+UID:0KSpN0cWOf
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nWhen the lead protagonist of a fi
+ lm disappears during production\, the director decides to continue shootin
+ g. A deeply personal homage that mirrors the tragic death of iconic actor 
+ Zbigniew Cybulski\, the “Polish James Dean.”\n\nhttps://www.siff.net/p
+ rograms-and-events/andrzej-wajda/everything-for-sale\n\nEstimated start: 1
+ 4:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wedding (1972)
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+DTSTAMP:20261031T210000Z
+UID:3IkXE1R5hL
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nEmploying hypnotic music and diz
+ zying cinematography\, Wajda adapts a landmark play where ghosts transform
+  revelry into an eerie\, tragic death dance of national discord.\n\nhttps:
+ //www.siff.net/programs-and-events/andrzej-wajda/the-wedding\n\nEstimated 
+ start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -157,20 +184,6 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
  ecomes a path toward healing and embracing one’s authentic self.\n\nhttp
  s://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays\n\nE
  stimated start: 19:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Passenger (1975)
-DTSTART:20261027T020000Z
-DTEND:20261027T041500Z
-DTSTAMP:20261027T020000Z
-UID:ekbxeaHxPg
-DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
- ntities with a deceased acquaintance\, disaffected journalist David Locke 
- (Jack Nicholson) discovers that the life he traded in for has connections 
- to secret proxy wars and the international arms trade.\n\nhttps://www.siff
- .net/programs-and-events/the-open-road/the-passenger\n\nEstimated start: 1
- 9:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -203,16 +216,17 @@ DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Wedding (1972)
-DTSTART:20261031T210000Z
-DTEND:20261031T230000Z
-DTSTAMP:20261031T210000Z
-UID:3IkXE1R5hL
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nEmploying hypnotic music and diz
- zying cinematography\, Wajda adapts a landmark play where ghosts transform
-  revelry into an eerie\, tragic death dance of national discord.\n\nhttps:
- //www.siff.net/programs-and-events/andrzej-wajda/the-wedding\n\nEstimated 
- start: 14:15
+SUMMARY:Two Lane Blacktop (1971)
+DTSTART:20261103T030000Z
+DTEND:20261103T050000Z
+DTSTAMP:20261103T030000Z
+UID:3xV7vplVrd
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
+ aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
+ rie Bird)\, race Warren Oates and his GTO across the southern United State
+ s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
+ ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
+ acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -226,20 +240,6 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nIn the early 1930s\, a tubercular
  er’s secluded farm in this painterly mediation on life and death.\n\nhtt
  ps://www.siff.net/programs-and-events/andrzej-wajda/the-birch-wood\n\nEsti
  mated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Lane Blacktop (1971)
-DTSTART:20261103T030000Z
-DTEND:20261103T050000Z
-DTSTAMP:20261103T030000Z
-UID:3xV7vplVrd
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
- aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
- rie Bird)\, race Warren Oates and his GTO across the southern United State
- s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
- ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
- acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -284,20 +284,6 @@ DESCRIPTION:Duration: 179 mins (2h59m)\n\nThis sweeping\, anti-capitalist
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Candy Mountain (1987)
-DTSTART:20261113T030000Z
-DTEND:20261113T050000Z
-DTSTAMP:20261113T030000Z
-UID:WDJuvbJC5Y
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the 
- road in search of the world's greatest\, and most reclusive\, guitar maker
-  in this cult rock ‘n’ roll odyssey. Co-directed by photographer Rober
- t Frank and Two-Lane Blacktop screenwriter Rudolph Wurlitzer.\n\nhttps://w
- ww.siff.net/programs-and-events/the-open-road/candy-mountain\n\nEstimated 
- start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Simple Machine
 DTSTART:20261114T023000Z
 DTEND:20261114T042500Z
@@ -311,6 +297,20 @@ DESCRIPTION:Duration: 100 mins (1h40m)\n\nSeattle Film Critics Society PNW
   attend\, with post-film Q&A moderated by film critic Mike Ward (Should I 
  See It).\n\nhttps://www.siff.net/programs-and-events/seattle-film-critics-
  society-pnw-awards-2026/a-simple-machine\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candy Mountain (1987)
+DTSTART:20261113T030000Z
+DTEND:20261113T050000Z
+DTSTAMP:20261113T030000Z
+UID:WDJuvbJC5Y
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the 
+ road in search of the world's greatest\, and most reclusive\, guitar maker
+  in this cult rock ‘n’ roll odyssey. Co-directed by photographer Rober
+ t Frank and Two-Lane Blacktop screenwriter Rudolph Wurlitzer.\n\nhttps://w
+ ww.siff.net/programs-and-events/the-open-road/candy-mountain\n\nEstimated 
+ start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -417,6 +417,18 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taste of Cherry (1997)
+DTSTART:20261126T030000Z
+DTEND:20261126T045500Z
+DTSTAMP:20261126T030000Z
+UID:LkEWyxvEgN
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
+ he hilly outskirts of Tehran\, seeking someone who will bury him after he 
+ commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
+ ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taste of Cherry (1997)
 DTSTART:20261124T030000Z
 DTEND:20261124T045500Z
 DTSTAMP:20261124T030000Z
@@ -445,18 +457,6 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
   screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
  ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda
  \n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taste of Cherry (1997)
-DTSTART:20261126T030000Z
-DTEND:20261126T045500Z
-DTSTAMP:20261126T030000Z
-UID:LkEWyxvEgN
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
- he hilly outskirts of Tehran\, seeking someone who will bury him after he 
- commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
- ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
