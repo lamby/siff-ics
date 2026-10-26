@@ -3,7 +3,26 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20261023T133958Z
+LAST-MODIFIED:20261026T144228Z
+BEGIN:VEVENT
+SUMMARY:Land of the Dead: it's for the gays
+DTSTART:20261031T014500Z
+DTEND:20261031T040000Z
+DTSTAMP:20261031T014500Z
+UID:9Sifmjwjyg
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
+ uctions. Land of the Dead: it’s for the gays is a dark\, campy horror c
+ omedy that explores the intersections of gender identity\, addiction\, tra
+ uma\, and Queerness. Through Mel’s confrontation with a literal demon fr
+ om their past\, the film examines the ways unresolved pain can shape ident
+ ity\, relationships\, and self-acceptance. Blending supernatural horror wi
+ th Queer humor and emotional depth\, the story uses camp as a tool for bot
+ h survival and reclamation\, creating a space where confronting the past b
+ ecomes a path toward healing and embracing one’s authentic self.\n\nhttp
+ s://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays\n\nE
+ stimated start: 19:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wedding (1972)
 DTSTART:20261031T210000Z
@@ -18,39 +37,40 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nEmploying hypnotic music and diz
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20261024T194500Z
-DTEND:20261024T214000Z
-DTSTAMP:20261024T194500Z
-UID:RB1dmgQRnb
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
- \n\nEstimated start: 13:00
+SUMMARY:Two Lane Blacktop (1971)
+DTSTART:20261103T030000Z
+DTEND:20261103T050000Z
+DTSTAMP:20261103T030000Z
+UID:3xV7vplVrd
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
+ aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
+ rie Bird)\, race Warren Oates and his GTO across the southern United State
+ s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
+ ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
+ acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20261024T221500Z
-DTEND:20261025T001000Z
-DTSTAMP:20261024T221500Z
-UID:l4u11PV7Ru
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
- \n\nEstimated start: 15:30
+SUMMARY:Invasion of the Body Snatchers (1978)
+DTSTART:20261029T020000Z
+DTEND:20261029T041000Z
+DTSTAMP:20261029T020000Z
+UID:9DhXobTwDt
+DESCRIPTION:Duration: 115 mins (1h55m)\n\nScarecrowberSan Francisco Health
+  Inspector Matthew Bennell (Donald Sutherland) investigates unsettling cha
+ nges in the people around him\, uncovering a terrifying truth spreading th
+ roughout the city in Philip Kaufman’s gripping sci-fi chiller. To be in
+ troduced by Malakie Peters from Scarecrow Video.\n\nhttps://www.siff.net/p
+ rograms-and-events/scarecrowber-2026/invasion-of-the-body-snatchers\n\nEst
+ imated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Passenger (1975)
-DTSTART:20261030T020000Z
-DTEND:20261030T041500Z
-DTSTAMP:20261030T020000Z
-UID:tuSLgkjmTR
+DTSTART:20261027T020000Z
+DTEND:20261027T041500Z
+DTSTAMP:20261027T020000Z
+UID:ekbxeaHxPg
 DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
  ntities with a deceased acquaintance\, disaffected journalist David Locke 
  (Jack Nicholson) discovers that the life he traded in for has connections 
@@ -74,58 +94,16 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Passenger (1975)
-DTSTART:20261027T020000Z
-DTEND:20261027T041500Z
-DTSTAMP:20261027T020000Z
-UID:ekbxeaHxPg
+DTSTART:20261030T020000Z
+DTEND:20261030T041500Z
+DTSTAMP:20261030T020000Z
+UID:tuSLgkjmTR
 DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
  ntities with a deceased acquaintance\, disaffected journalist David Locke 
  (Jack Nicholson) discovers that the life he traded in for has connections 
  to secret proxy wars and the international arms trade.\n\nhttps://www.siff
  .net/programs-and-events/the-open-road/the-passenger\n\nEstimated start: 1
  9:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20261025T190000Z
-DTEND:20261025T205500Z
-DTSTAMP:20261025T190000Z
-UID:vOUhh2xbpL
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
- \n\nEstimated start: 12:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20261025T213000Z
-DTEND:20261025T232500Z
-DTSTAMP:20261025T213000Z
-UID:sm7DFWqgdd
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
- \n\nEstimated start: 14:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Lane Blacktop (1971)
-DTSTART:20261103T030000Z
-DTEND:20261103T050000Z
-DTSTAMP:20261103T030000Z
-UID:3xV7vplVrd
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
- aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
- rie Bird)\, race Warren Oates and his GTO across the southern United State
- s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
- ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
- acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -170,36 +148,6 @@ DESCRIPTION:Duration: 161 mins (2h41m)\n\nStudent filmmaker Agnieszka sets
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Simple Machine
-DTSTART:20261114T023000Z
-DTEND:20261114T042500Z
-DTSTAMP:20261114T023000Z
-UID:nQ8QBIoaGe
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nSeattle Film Critics Society PNW
-  Awards 2026Coming out of the pandemic\, an idealistic but indecisive youn
- g man makes a series of radical choices to get himself out of debt without
-  telling his girlfriend-practically fiancée that he’s going to be homel
- ess. Director Mark Alan Hoffman and author Evan P. Schneider scheduled to
-  attend\, with post-film Q&A moderated by film critic Mike Ward (Should I 
- See It).\n\nhttps://www.siff.net/programs-and-events/seattle-film-critics-
- society-pnw-awards-2026/a-simple-machine\n\nEstimated start: 18:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Candy Mountain (1987)
-DTSTART:20261113T030000Z
-DTEND:20261113T050000Z
-DTSTAMP:20261113T030000Z
-UID:WDJuvbJC5Y
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the 
- road in search of the world's greatest\, and most reclusive\, guitar maker
-  in this cult rock ‘n’ roll odyssey. Co-directed by photographer Rober
- t Frank and Two-Lane Blacktop screenwriter Rudolph Wurlitzer.\n\nhttps://w
- ww.siff.net/programs-and-events/the-open-road/candy-mountain\n\nEstimated 
- start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Powwow People
 DTSTART:20261114T230000Z
 DTEND:20261115T004500Z
@@ -228,6 +176,49 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nSeattle Film Critics Society PNW
  ted by Sara Michelle Fetters (Moviefreak\, Seattle Gay News).\n\nhttps://w
  ww.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-20
  26/again-again\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candy Mountain (1987)
+DTSTART:20261113T030000Z
+DTEND:20261113T050000Z
+DTSTAMP:20261113T030000Z
+UID:WDJuvbJC5Y
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the 
+ road in search of the world's greatest\, and most reclusive\, guitar maker
+  in this cult rock ‘n’ roll odyssey. Co-directed by photographer Rober
+ t Frank and Two-Lane Blacktop screenwriter Rudolph Wurlitzer.\n\nhttps://w
+ ww.siff.net/programs-and-events/the-open-road/candy-mountain\n\nEstimated 
+ start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Simple Machine
+DTSTART:20261114T023000Z
+DTEND:20261114T042500Z
+DTSTAMP:20261114T023000Z
+UID:nQ8QBIoaGe
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nSeattle Film Critics Society PNW
+  Awards 2026Coming out of the pandemic\, an idealistic but indecisive youn
+ g man makes a series of radical choices to get himself out of debt without
+  telling his girlfriend-practically fiancée that he’s going to be homel
+ ess. Director Mark Alan Hoffman and author Evan P. Schneider scheduled to
+  attend\, with post-film Q&A moderated by film critic Mike Ward (Should I 
+ See It).\n\nhttps://www.siff.net/programs-and-events/seattle-film-critics-
+ society-pnw-awards-2026/a-simple-machine\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Boys of the Road (1933)
+DTSTART:20261117T030000Z
+DTEND:20261117T042500Z
+DTSTAMP:20261117T030000Z
+UID:56gTumlIIe
+DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
+ pression\, two teenagers decide to alleviate their parents’ financial bu
+ rden by hitting the road and hopping freight trains in this hard edged\, p
+ re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
+ /wild-boys-of-the-road\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -263,35 +254,15 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nSeattle Film Critics Society PNW
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Boys of the Road (1933)
-DTSTART:20261117T030000Z
-DTEND:20261117T042500Z
-DTSTAMP:20261117T030000Z
-UID:56gTumlIIe
-DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
- pression\, two teenagers decide to alleviate their parents’ financial bu
- rden by hitting the road and hopping freight trains in this hard edged\, p
- re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
- /wild-boys-of-the-road\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Land of the Dead: it's for the gays
-DTSTART:20261031T014500Z
-DTEND:20261031T040000Z
-DTSTAMP:20261031T014500Z
-UID:9Sifmjwjyg
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
- uctions. Land of the Dead: it’s for the gays is a dark\, campy horror c
- omedy that explores the intersections of gender identity\, addiction\, tra
- uma\, and Queerness. Through Mel’s confrontation with a literal demon fr
- om their past\, the film examines the ways unresolved pain can shape ident
- ity\, relationships\, and self-acceptance. Blending supernatural horror wi
- th Queer humor and emotional depth\, the story uses camp as a tool for bot
- h survival and reclamation\, creating a space where confronting the past b
- ecomes a path toward healing and embracing one’s authentic self.\n\nhttp
- s://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays\n\nE
- stimated start: 19:00
+SUMMARY:Her Song
+DTSTART:20261118T030000Z
+DTEND:20261118T050000Z
+DTSTAMP:20261118T030000Z
+UID:qo7oW3dLqN
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nPresented by PIAFF. An American
+  writer returns to her grandmother’s village in France and is enchanted 
+ by a local woman who becomes the face of her new novel.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/her-song\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -305,58 +276,6 @@ DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
  rden by hitting the road and hopping freight trains in this hard edged\, p
  re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
  /wild-boys-of-the-road\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Her Song
-DTSTART:20261118T030000Z
-DTEND:20261118T050000Z
-DTSTAMP:20261118T030000Z
-UID:qo7oW3dLqN
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nPresented by PIAFF. An American
-  writer returns to her grandmother’s village in France and is enchanted 
- by a local woman who becomes the face of her new novel.\n\nhttps://www.sif
- f.net/cinema/in-theaters/her-song\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Invasion of the Body Snatchers (1978)
-DTSTART:20261029T020000Z
-DTEND:20261029T041000Z
-DTSTAMP:20261029T020000Z
-UID:9DhXobTwDt
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nScarecrowberSan Francisco Health
-  Inspector Matthew Bennell (Donald Sutherland) investigates unsettling cha
- nges in the people around him\, uncovering a terrifying truth spreading th
- roughout the city in Philip Kaufman’s gripping sci-fi chiller. To be in
- troduced by Malakie Peters from Scarecrow Video.\n\nhttps://www.siff.net/p
- rograms-and-events/scarecrowber-2026/invasion-of-the-body-snatchers\n\nEst
- imated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Route One/USA (1989)
-DTSTART:20261122T203000Z
-DTEND:20261123T010000Z
-DTSTAMP:20261122T203000Z
-UID:1nBEutAZS5
-DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
- oute 1 from Maine to Florida\, renegade filmmaker Robert Kramer and his fr
- iend Doc survey the state of ‘80s America in this monumental portrait of
-  everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
- road/route-one/usa\n\nEstimated start: 12:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taste of Cherry (1997)
-DTSTART:20261124T030000Z
-DTEND:20261124T045500Z
-DTSTAMP:20261124T030000Z
-UID:TWL0fNdADq
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
- he hilly outskirts of Tehran\, seeking someone who will bury him after he 
- commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
- ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -381,6 +300,18 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taste of Cherry (1997)
+DTSTART:20261124T030000Z
+DTEND:20261124T045500Z
+DTSTAMP:20261124T030000Z
+UID:TWL0fNdADq
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
+ he hilly outskirts of Tehran\, seeking someone who will bury him after he 
+ commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
+ ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taste of Cherry (1997)
 DTSTART:20261126T030000Z
 DTEND:20261126T045500Z
 DTSTAMP:20261126T030000Z
@@ -389,6 +320,19 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
  he hilly outskirts of Tehran\, seeking someone who will bury him after he 
  commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
  ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Route One/USA (1989)
+DTSTART:20261122T203000Z
+DTEND:20261123T010000Z
+DTSTAMP:20261122T203000Z
+UID:1nBEutAZS5
+DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
+ oute 1 from Maine to Florida\, renegade filmmaker Robert Kramer and his fr
+ iend Doc survey the state of ‘80s America in this monumental portrait of
+  everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
+ road/route-one/usa\n\nEstimated start: 12:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -406,20 +350,6 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Teach One Publishi
  erhood\, basketball\, triumph\, and adversity.\n\nhttps://www.siff.net/cin
  ema/in-theaters/the-backcourt-documentary-basketballs-best-kept-secret\n\n
  Estimated start: 14:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall (2021)
-DTSTART:20261024T013000Z
-DTEND:20261024T032500Z
-DTSTAMP:20261024T013000Z
-UID:gHSmgOueGk
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPerfectly timed after Spielberg
- ’s recent remake of West Side Story\, this portrait of its composer Leon
- ard Bernstein\, conqueror of both Broadway and the concert hall\, captures
-  his genius and his voracious\, even self-destructive\, appetite for music
-  and for life.\n\nhttps://www.siff.net/cinema/in-theaters/bernsteins-wall
- \n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
