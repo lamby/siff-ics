@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20261026T144228Z
+LAST-MODIFIED:20261027T130559Z
 BEGIN:VEVENT
 SUMMARY:KEN RUSSELL’S THE DEVILS (1971)
-DTSTART:20261030T233000Z
-DTEND:20261031T014000Z
-DTSTAMP:20261030T233000Z
-UID:yAgjUAmYYc
+DTSTART:20261101T200000Z
+DTEND:20261101T221000Z
+DTSTAMP:20261101T200000Z
+UID:x9peJAePIl
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
  a starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS i
  s a prescient epic of obsession and corruption –and a defining work of a
@@ -17,19 +17,35 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
  ncut and unfiltered theatrical experience that Russell always envisioned 
  – and the first time the film will be presented restored and in 4K.\n\nh
  ttps://www.siff.net/cinema/in-theaters/ken-russells-the-devils\n\nEstimate
- d start: 16:45
+ d start: 12:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shining (1980)
-DTSTART:20261031T023000Z
-DTEND:20261031T051000Z
-DTSTAMP:20261031T023000Z
-UID:n2tk6GpZRX
+DTSTART:20261101T230000Z
+DTEND:20261102T014000Z
+DTSTAMP:20261101T230000Z
+UID:Pkfl9wNfDf
 DESCRIPTION:Duration: 144 mins (2h24m)\n\nAcademy Award winner Jack Nichol
  son and Shelley Duvall star in director Stanley Kubrick's disturbing adapt
  ation of Stephen King's blockbuster horror novel. 4K remaster.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/the-shining\n\nEstimated start: 19:45
+ /www.siff.net/cinema/in-theaters/the-shining\n\nEstimated start: 15:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kwaidan (1965)
+DTSTART:20261102T023000Z
+DTEND:20261102T055000Z
+DTSTAMP:20261102T023000Z
+UID:kmj4paHMhU
+DESCRIPTION:Duration: 183 mins (3h03m)\n\nA rapturously stylized quartet o
+ f ghost stories\, featuring colorfully surreal sets and luminous cinematog
+ raphy. These haunting tales of demonic comeuppance and spiritual trials\, 
+ adapted from writer Lafcadio Hearn’s collections of Japanese folklore\, 
+ are existentially frightening and meticulously crafted. 4K restoration of 
+ the original three-hour cut. Every showtime has a 10-minute intermission.
+ \n\nhttps://www.siff.net/cinema/in-theaters/kwaidan\n\nEstimated start: 18
+ :45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -53,6 +69,79 @@ DTSTART:20261028T023000Z
 DTEND:20261028T043000Z
 DTSTAMP:20261028T023000Z
 UID:B0VUbN0Ppd
+DESCRIPTION:Duration: 101 mins (1h41m)\n\nAfter attending a workshop on ho
+ w to write and sell a Hallmark movie\, filmmaker John Wilson tries to use 
+ the same formula to sell a documentary about concrete.\n\nhttps://www.siff
+ .net/cinema/in-theaters/the-history-of-concrete\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART:20261106T000000Z
+DTEND:20261106T023000Z
+DTSTAMP:20261106T000000Z
+UID:Z90R95VVcM
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
+ Godzilla plunged it into minus. Two years have passed since then\, and the
+  country has faced agonizing struggles to achieve recovery and finally rec
+ laim its daily life. Just as humanity managed to cling to a hard-won peace
+ \, a new threat strikes\, crushing hope in an instant.There is no third t
+ ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
+ illa-minus-zero\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART:20261106T033000Z
+DTEND:20261106T060000Z
+DTSTAMP:20261106T033000Z
+UID:yVBQ5UAlEE
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
+ Godzilla plunged it into minus. Two years have passed since then\, and the
+  country has faced agonizing struggles to achieve recovery and finally rec
+ laim its daily life. Just as humanity managed to cling to a hard-won peace
+ \, a new threat strikes\, crushing hope in an instant.There is no third t
+ ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
+ illa-minus-zero\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kwaidan (1965)
+DTSTART:20261103T020000Z
+DTEND:20261103T052000Z
+DTSTAMP:20261103T020000Z
+UID:BUWteyTJHM
+DESCRIPTION:Duration: 183 mins (3h03m)\n\nA rapturously stylized quartet o
+ f ghost stories\, featuring colorfully surreal sets and luminous cinematog
+ raphy. These haunting tales of demonic comeuppance and spiritual trials\, 
+ adapted from writer Lafcadio Hearn’s collections of Japanese folklore\, 
+ are existentially frightening and meticulously crafted. 4K restoration of 
+ the original three-hour cut. Every showtime has a 10-minute intermission.
+ \n\nhttps://www.siff.net/cinema/in-theaters/kwaidan\n\nEstimated start: 18
+ :15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Whalefall
+DTSTART:20261029T234000Z
+DTEND:20261030T013500Z
+DTSTAMP:20261029T234000Z
+UID:Hp7lgiPMpL
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nFollowing the death of his father
+  (Josh Brolin)\, Jay Gardiner (Austin Abrams) goes diving off the central 
+ Coast of California in search of his remains\, but is swallowed by a massi
+ ve sperm whale. While trapped inside its belly with only one hour of oxyge
+ n left\, Jay comes to realize that the hard-earned lessons his father impa
+ rted may be the key to his escape.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/whalefall\n\nEstimated start: 16:55
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete
+DTSTART:20261030T023000Z
+DTEND:20261030T043000Z
+DTSTAMP:20261030T023000Z
+UID:neM2EWpoli
 DESCRIPTION:Duration: 101 mins (1h41m)\n\nAfter attending a workshop on ho
  w to write and sell a Hallmark movie\, filmmaker John Wilson tries to use 
  the same formula to sell a documentary about concrete.\n\nhttps://www.siff
@@ -104,42 +193,11 @@ DESCRIPTION:Duration: 144 mins (2h24m)\n\nAcademy Award winner Jack Nichol
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kwaidan (1965)
-DTSTART:20261103T020000Z
-DTEND:20261103T052000Z
-DTSTAMP:20261103T020000Z
-UID:BUWteyTJHM
-DESCRIPTION:Duration: 183 mins (3h03m)\n\nA rapturously stylized quartet o
- f ghost stories\, featuring colorfully surreal sets and luminous cinematog
- raphy. These haunting tales of demonic comeuppance and spiritual trials\, 
- adapted from writer Lafcadio Hearn’s collections of Japanese folklore\, 
- are existentially frightening and meticulously crafted. 4K restoration of 
- the original three-hour cut. Every showtime has a 10-minute intermission.
- \n\nhttps://www.siff.net/cinema/in-theaters/kwaidan\n\nEstimated start: 18
- :15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Whalefall
-DTSTART:20261028T234000Z
-DTEND:20261029T013500Z
-DTSTAMP:20261028T234000Z
-UID:4F2KEtLqAu
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nFollowing the death of his father
-  (Josh Brolin)\, Jay Gardiner (Austin Abrams) goes diving off the central 
- Coast of California in search of his remains\, but is swallowed by a massi
- ve sperm whale. While trapped inside its belly with only one hour of oxyge
- n left\, Jay comes to realize that the hard-earned lessons his father impa
- rted may be the key to his escape.\n\nhttps://www.siff.net/cinema/in-theat
- ers/whalefall\n\nEstimated start: 16:55
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KEN RUSSELL’S THE DEVILS (1971)
-DTSTART:20261029T021500Z
-DTEND:20261029T042500Z
-DTSTAMP:20261029T021500Z
-UID:6A5ZUM5OTP
+DTSTART:20261030T233000Z
+DTEND:20261031T014000Z
+DTSTAMP:20261030T233000Z
+UID:yAgjUAmYYc
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
  a starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS i
  s a prescient epic of obsession and corruption –and a defining work of a
@@ -147,7 +205,47 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
  ncut and unfiltered theatrical experience that Russell always envisioned 
  – and the first time the film will be presented restored and in 4K.\n\nh
  ttps://www.siff.net/cinema/in-theaters/ken-russells-the-devils\n\nEstimate
- d start: 19:30
+ d start: 16:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Shining (1980)
+DTSTART:20261031T023000Z
+DTEND:20261031T051000Z
+DTSTAMP:20261031T023000Z
+UID:n2tk6GpZRX
+DESCRIPTION:Duration: 144 mins (2h24m)\n\nAcademy Award winner Jack Nichol
+ son and Shelley Duvall star in director Stanley Kubrick's disturbing adapt
+ ation of Stephen King's blockbuster horror novel. 4K remaster.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/the-shining\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KEN RUSSELL’S THE DEVILS (1971)
+DTSTART:20261105T000000Z
+DTEND:20261105T021000Z
+DTSTAMP:20261105T000000Z
+UID:WyUWQH8X0i
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
+ a starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS i
+ s a prescient epic of obsession and corruption –and a defining work of a
+ rt from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the u
+ ncut and unfiltered theatrical experience that Russell always envisioned 
+ – and the first time the film will be presented restored and in 4K.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/ken-russells-the-devils\n\nEstimate
+ d start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Shining (1980)
+DTSTART:20261105T030000Z
+DTEND:20261105T054000Z
+DTSTAMP:20261105T030000Z
+UID:oNTKFd6uPx
+DESCRIPTION:Duration: 144 mins (2h24m)\n\nAcademy Award winner Jack Nichol
+ son and Shelley Duvall star in director Stanley Kubrick's disturbing adapt
+ ation of Stephen King's blockbuster horror novel. 4K remaster.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/the-shining\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -183,10 +281,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Whalefall
-DTSTART:20261026T234000Z
-DTEND:20261027T013500Z
-DTSTAMP:20261026T234000Z
-UID:ZSoY2EYKf2
+DTSTART:20261028T234000Z
+DTEND:20261029T013500Z
+DTSTAMP:20261028T234000Z
+UID:4F2KEtLqAu
 DESCRIPTION:Duration: 98 mins (1h38m)\n\nFollowing the death of his father
   (Josh Brolin)\, Jay Gardiner (Austin Abrams) goes diving off the central 
  Coast of California in search of his remains\, but is swallowed by a massi
@@ -198,10 +296,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KEN RUSSELL’S THE DEVILS (1971)
-DTSTART:20261027T021500Z
-DTEND:20261027T042500Z
-DTSTAMP:20261027T021500Z
-UID:ASeClUFTrP
+DTSTART:20261029T021500Z
+DTEND:20261029T042500Z
+DTSTAMP:20261029T021500Z
+UID:6A5ZUM5OTP
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
  a starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS i
  s a prescient epic of obsession and corruption –and a defining work of a
@@ -210,77 +308,6 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
  – and the first time the film will be presented restored and in 4K.\n\nh
  ttps://www.siff.net/cinema/in-theaters/ken-russells-the-devils\n\nEstimate
  d start: 19:30
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KEN RUSSELL’S THE DEVILS (1971)
-DTSTART:20261101T200000Z
-DTEND:20261101T221000Z
-DTSTAMP:20261101T200000Z
-UID:x9peJAePIl
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
- a starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS i
- s a prescient epic of obsession and corruption –and a defining work of a
- rt from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the u
- ncut and unfiltered theatrical experience that Russell always envisioned 
- – and the first time the film will be presented restored and in 4K.\n\nh
- ttps://www.siff.net/cinema/in-theaters/ken-russells-the-devils\n\nEstimate
- d start: 12:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shining (1980)
-DTSTART:20261101T230000Z
-DTEND:20261102T014000Z
-DTSTAMP:20261101T230000Z
-UID:Pkfl9wNfDf
-DESCRIPTION:Duration: 144 mins (2h24m)\n\nAcademy Award winner Jack Nichol
- son and Shelley Duvall star in director Stanley Kubrick's disturbing adapt
- ation of Stephen King's blockbuster horror novel. 4K remaster.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/the-shining\n\nEstimated start: 15:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kwaidan (1965)
-DTSTART:20261102T023000Z
-DTEND:20261102T055000Z
-DTSTAMP:20261102T023000Z
-UID:kmj4paHMhU
-DESCRIPTION:Duration: 183 mins (3h03m)\n\nA rapturously stylized quartet o
- f ghost stories\, featuring colorfully surreal sets and luminous cinematog
- raphy. These haunting tales of demonic comeuppance and spiritual trials\, 
- adapted from writer Lafcadio Hearn’s collections of Japanese folklore\, 
- are existentially frightening and meticulously crafted. 4K restoration of 
- the original three-hour cut. Every showtime has a 10-minute intermission.
- \n\nhttps://www.siff.net/cinema/in-theaters/kwaidan\n\nEstimated start: 18
- :45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Whalefall
-DTSTART:20261029T234000Z
-DTEND:20261030T013500Z
-DTSTAMP:20261029T234000Z
-UID:Hp7lgiPMpL
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nFollowing the death of his father
-  (Josh Brolin)\, Jay Gardiner (Austin Abrams) goes diving off the central 
- Coast of California in search of his remains\, but is swallowed by a massi
- ve sperm whale. While trapped inside its belly with only one hour of oxyge
- n left\, Jay comes to realize that the hard-earned lessons his father impa
- rted may be the key to his escape.\n\nhttps://www.siff.net/cinema/in-theat
- ers/whalefall\n\nEstimated start: 16:55
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete
-DTSTART:20261030T023000Z
-DTEND:20261030T043000Z
-DTSTAMP:20261030T023000Z
-UID:neM2EWpoli
-DESCRIPTION:Duration: 101 mins (1h41m)\n\nAfter attending a workshop on ho
- w to write and sell a Hallmark movie\, filmmaker John Wilson tries to use 
- the same formula to sell a documentary about concrete.\n\nhttps://www.siff
- .net/cinema/in-theaters/the-history-of-concrete\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -311,64 +338,6 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and
  \, a new threat strikes\, crushing hope in an instant.There is no third t
  ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
  illa-minus-zero\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261106T000000Z
-DTEND:20261106T023000Z
-DTSTAMP:20261106T000000Z
-UID:Z90R95VVcM
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261106T033000Z
-DTEND:20261106T060000Z
-DTSTAMP:20261106T033000Z
-UID:yVBQ5UAlEE
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KEN RUSSELL’S THE DEVILS (1971)
-DTSTART:20261105T000000Z
-DTEND:20261105T021000Z
-DTSTAMP:20261105T000000Z
-UID:WyUWQH8X0i
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nAn enduring masterpiece of cinem
- a starring Oliver Reed and Vanessa Redgrave\, KEN RUSSELL’S THE DEVILS i
- s a prescient epic of obsession and corruption –and a defining work of a
- rt from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the u
- ncut and unfiltered theatrical experience that Russell always envisioned 
- – and the first time the film will be presented restored and in 4K.\n\nh
- ttps://www.siff.net/cinema/in-theaters/ken-russells-the-devils\n\nEstimate
- d start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shining (1980)
-DTSTART:20261105T030000Z
-DTEND:20261105T054000Z
-DTSTAMP:20261105T030000Z
-UID:oNTKFd6uPx
-DESCRIPTION:Duration: 144 mins (2h24m)\n\nAcademy Award winner Jack Nichol
- son and Shelley Duvall star in director Stanley Kubrick's disturbing adapt
- ation of Stephen King's blockbuster horror novel. 4K remaster.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/the-shining\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -493,6 +462,36 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
+DTSTART:20261111T000000Z
+DTEND:20261111T023000Z
+DTSTAMP:20261111T000000Z
+UID:k3QLIJUDXp
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
+ Godzilla plunged it into minus. Two years have passed since then\, and the
+  country has faced agonizing struggles to achieve recovery and finally rec
+ laim its daily life. Just as humanity managed to cling to a hard-won peace
+ \, a new threat strikes\, crushing hope in an instant.There is no third t
+ ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
+ illa-minus-zero\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART:20261111T033000Z
+DTEND:20261111T060000Z
+DTSTAMP:20261111T033000Z
+UID:fgbSvuTgdr
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
+ Godzilla plunged it into minus. Two years have passed since then\, and the
+  country has faced agonizing struggles to achieve recovery and finally rec
+ laim its daily life. Just as humanity managed to cling to a hard-won peace
+ \, a new threat strikes\, crushing hope in an instant.There is no third t
+ ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
+ illa-minus-zero\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
 DTSTART:20261112T000000Z
 DTEND:20261112T023000Z
 DTSTAMP:20261112T000000Z
@@ -552,36 +551,6 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261111T000000Z
-DTEND:20261111T023000Z
-DTSTAMP:20261111T000000Z
-UID:k3QLIJUDXp
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261111T033000Z
-DTEND:20261111T060000Z
-DTSTAMP:20261111T033000Z
-UID:fgbSvuTgdr
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Auntie Mame (1958)
 DTSTART:20261115T190000Z
 DTEND:20261115T214000Z
@@ -610,10 +579,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261218T234500Z
-DTEND:20261219T023000Z
-DTSTAMP:20261218T234500Z
-UID:JAWFYulOB5
+DTSTART:20261217T234500Z
+DTEND:20261218T023000Z
+DTSTAMP:20261217T234500Z
+UID:BovFAJKGQm
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -627,10 +596,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261219T033000Z
-DTEND:20261219T061500Z
-DTSTAMP:20261219T033000Z
-UID:CFhaIR74kQ
+DTSTART:20261218T033000Z
+DTEND:20261218T061500Z
+DTSTAMP:20261218T033000Z
+UID:YaMtIkje2Q
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -695,108 +664,6 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261222T234500Z
-DTEND:20261223T023000Z
-DTSTAMP:20261222T234500Z
-UID:8anqf8erbo
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261223T033000Z
-DTEND:20261223T061500Z
-DTSTAMP:20261223T033000Z
-UID:PAiiqMSGuy
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261221T234500Z
-DTEND:20261222T023000Z
-DTSTAMP:20261221T234500Z
-UID:ue1Wx5FF6a
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261222T033000Z
-DTEND:20261222T061500Z
-DTSTAMP:20261222T033000Z
-UID:jOSoEoNxu5
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261223T234500Z
-DTEND:20261224T023000Z
-DTSTAMP:20261223T234500Z
-UID:JDAuFwFM97
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261224T033000Z
-DTEND:20261224T061500Z
-DTSTAMP:20261224T033000Z
-UID:YZMS6i2Bwx
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
 DTSTART:20261220T200000Z
 DTEND:20261220T224500Z
 DTSTAMP:20261220T200000Z
@@ -848,10 +715,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261217T234500Z
-DTEND:20261218T023000Z
-DTSTAMP:20261217T234500Z
-UID:BovFAJKGQm
+DTSTART:20261218T234500Z
+DTEND:20261219T023000Z
+DTSTAMP:20261218T234500Z
+UID:JAWFYulOB5
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -865,10 +732,197 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261218T033000Z
-DTEND:20261218T061500Z
-DTSTAMP:20261218T033000Z
-UID:YaMtIkje2Q
+DTSTART:20261219T033000Z
+DTEND:20261219T061500Z
+DTSTAMP:20261219T033000Z
+UID:CFhaIR74kQ
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261221T234500Z
+DTEND:20261222T023000Z
+DTSTAMP:20261221T234500Z
+UID:ue1Wx5FF6a
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261222T033000Z
+DTEND:20261222T061500Z
+DTSTAMP:20261222T033000Z
+UID:jOSoEoNxu5
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261225T200000Z
+DTEND:20261225T224500Z
+DTSTAMP:20261225T200000Z
+UID:RFQVaufcIQ
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 12:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261225T234500Z
+DTEND:20261226T023000Z
+DTSTAMP:20261225T234500Z
+UID:JD2v2Bj0q5
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261226T033000Z
+DTEND:20261226T061500Z
+DTSTAMP:20261226T033000Z
+UID:0A5DZ9CRIb
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261224T211500Z
+DTEND:20261225T000000Z
+DTSTAMP:20261224T211500Z
+UID:ZGXdMGDtNk
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 13:30
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261225T010000Z
+DTEND:20261225T034500Z
+DTSTAMP:20261225T010000Z
+UID:bBBpdy434O
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 17:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261223T234500Z
+DTEND:20261224T023000Z
+DTSTAMP:20261223T234500Z
+UID:JDAuFwFM97
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261224T033000Z
+DTEND:20261224T061500Z
+DTSTAMP:20261224T033000Z
+UID:YZMS6i2Bwx
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261222T234500Z
+DTEND:20261223T023000Z
+DTSTAMP:20261222T234500Z
+UID:8anqf8erbo
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261223T033000Z
+DTEND:20261223T061500Z
+DTSTAMP:20261223T033000Z
+UID:PAiiqMSGuy
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -933,40 +987,6 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261224T211500Z
-DTEND:20261225T000000Z
-DTSTAMP:20261224T211500Z
-UID:ZGXdMGDtNk
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 13:30
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261225T010000Z
-DTEND:20261225T034500Z
-DTSTAMP:20261225T010000Z
-UID:bBBpdy434O
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 17:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
 DTSTART:20261227T200000Z
 DTEND:20261227T224500Z
 DTSTAMP:20261227T200000Z
@@ -1005,57 +1025,6 @@ DTSTART:20261228T033000Z
 DTEND:20261228T061500Z
 DTSTAMP:20261228T033000Z
 UID:IWBvCRkoiv
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261225T200000Z
-DTEND:20261225T224500Z
-DTSTAMP:20261225T200000Z
-UID:RFQVaufcIQ
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261225T234500Z
-DTEND:20261226T023000Z
-DTSTAMP:20261225T234500Z
-UID:JD2v2Bj0q5
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261226T033000Z
-DTEND:20261226T061500Z
-DTSTAMP:20261226T033000Z
-UID:0A5DZ9CRIb
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r

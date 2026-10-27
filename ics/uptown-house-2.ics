@@ -3,7 +3,49 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20261026T144228Z
+LAST-MODIFIED:20261027T130559Z
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261101T194000Z
+DTEND:20261101T212000Z
+DTSTAMP:20261101T194000Z
+UID:psgtTMkTPU
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 11:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261101T220000Z
+DTEND:20261101T234000Z
+DTSTAMP:20261101T220000Z
+UID:2ZQ21aUmWV
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 14:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261102T003000Z
+DTEND:20261102T021000Z
+DTSTAMP:20261102T003000Z
+UID:ZGgo2jK3Pi
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle 48 Hour Horror Film Project
 DTSTART:20261028T014500Z
@@ -38,6 +80,35 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Can See Everything
+DTSTART:20261105T233000Z
+DTEND:20261106T024000Z
+DTSTAMP:20261105T233000Z
+UID:1a0rNoD1oB
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261106T033000Z
+DTEND:20261106T051000Z
+DTSTAMP:20261106T033000Z
+UID:m0eC3gdSnJ
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
 DTSTART:20261102T233000Z
 DTEND:20261103T024000Z
 DTSTAMP:20261102T233000Z
@@ -52,66 +123,17 @@ DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Horror Film Project
-DTSTART:20261029T020000Z
-DTEND:20261029T035500Z
-DTSTAMP:20261029T020000Z
-UID:xjH1X2fX3Z
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPresented by Seattle 48 Hour 
- Film Project\, CREATE48 Media Network\, and Harbor Island Studios. See wh
- at happens when local filmmakers have just 48 hours to bring their night
- mares to life. The Seattle 48 Hour Horror Film Project presents a wildly
-  inventive collection of short horror films\, celebrating homegrown talent
- \, unexpected scares\, and filmmaking under pressure.\n\nhttps://www.siff.
- net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026\n\nEstimat
- ed start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261103T233000Z
-DTEND:20261104T024000Z
-DTSTAMP:20261103T233000Z
-UID:SEdYQPJst7
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Horror Film Project
-DTSTART:20261027T014500Z
-DTEND:20261027T034000Z
-DTSTAMP:20261027T014500Z
-UID:jsORBuqaM6
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPresented by Seattle 48 Hour 
- Film Project\, CREATE48 Media Network\, and Harbor Island Studios. See wh
- at happens when local filmmakers have just 48 hours to bring their night
- mares to life. The Seattle 48 Hour Horror Film Project presents a wildly
-  inventive collection of short horror films\, celebrating homegrown talent
- \, unexpected scares\, and filmmaking under pressure.\n\nhttps://www.siff.
- net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026\n\nEstimat
- ed start: 19:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle 48 Hour Horror Film Project
-DTSTART:20261027T040000Z
-DTEND:20261027T055500Z
-DTSTAMP:20261027T040000Z
-UID:qqZuSGn0Jf
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nPresented by Seattle 48 Hour 
- Film Project\, CREATE48 Media Network\, and Harbor Island Studios. See wh
- at happens when local filmmakers have just 48 hours to bring their night
- mares to life. The Seattle 48 Hour Horror Film Project presents a wildly
-  inventive collection of short horror films\, celebrating homegrown talent
- \, unexpected scares\, and filmmaking under pressure.\n\nhttps://www.siff.
- net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026\n\nEstimat
- ed start: 21:15
+SUMMARY:Fatherland
+DTSTART:20261103T033000Z
+DTEND:20261103T051000Z
+DTSTAMP:20261103T033000Z
+UID:QNWsB0KMnE
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -144,18 +166,45 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261105T233000Z
-DTEND:20261106T024000Z
-DTSTAMP:20261105T233000Z
-UID:1a0rNoD1oB
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 15:45
+SUMMARY:Fatherland
+DTSTART:20261031T190000Z
+DTEND:20261031T204000Z
+DTSTAMP:20261031T190000Z
+UID:RDmqXCQR3a
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 12:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261031T213000Z
+DTEND:20261031T231000Z
+DTSTAMP:20261031T213000Z
+UID:qp54QDD7AF
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 14:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261031T234500Z
+DTEND:20261101T012500Z
+DTSTAMP:20261031T234500Z
+UID:CXqIk6mxJb
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 17:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -171,6 +220,94 @@ DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s
  ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
  e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
  n-theaters/you-can-see-everything\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261030T231500Z
+DTEND:20261031T005500Z
+DTSTAMP:20261030T231500Z
+UID:kFmh3BlqLP
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261031T014500Z
+DTEND:20261031T045500Z
+DTSTAMP:20261031T014500Z
+UID:o5GFNijwp1
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261105T034500Z
+DTEND:20261105T052500Z
+DTSTAMP:20261105T034500Z
+UID:tHiVwZYlwN
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261103T233000Z
+DTEND:20261104T024000Z
+DTSTAMP:20261103T233000Z
+UID:SEdYQPJst7
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261104T033000Z
+DTEND:20261104T051000Z
+DTSTAMP:20261104T033000Z
+UID:cNxrAiBkvx
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (COLD WAR) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle 48 Hour Horror Film Project
+DTSTART:20261029T020000Z
+DTEND:20261029T035500Z
+DTSTAMP:20261029T020000Z
+UID:xjH1X2fX3Z
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nPresented by Seattle 48 Hour 
+ Film Project\, CREATE48 Media Network\, and Harbor Island Studios. See wh
+ at happens when local filmmakers have just 48 hours to bring their night
+ mares to life. The Seattle 48 Hour Horror Film Project presents a wildly
+  inventive collection of short horror films\, celebrating homegrown talent
+ \, unexpected scares\, and filmmaking under pressure.\n\nhttps://www.siff.
+ net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026\n\nEstimat
+ ed start: 19:15
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
