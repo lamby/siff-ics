@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20261028T140958Z
+LAST-MODIFIED:20261029T154025Z
 BEGIN:VEVENT
 SUMMARY:Two Lane Blacktop (1971)
 DTSTART:20261103T030000Z
@@ -19,17 +19,31 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Passenger (1975)
-DTSTART:20261030T020000Z
-DTEND:20261030T041500Z
-DTSTAMP:20261030T020000Z
-UID:tuSLgkjmTR
-DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
- ntities with a deceased acquaintance\, disaffected journalist David Locke 
- (Jack Nicholson) discovers that the life he traded in for has connections 
- to secret proxy wars and the international arms trade.\n\nhttps://www.siff
- .net/programs-and-events/the-open-road/the-passenger\n\nEstimated start: 1
- 9:15
+SUMMARY:Two Lane Blacktop (1971)
+DTSTART:20261106T030000Z
+DTEND:20261106T050000Z
+DTSTAMP:20261106T030000Z
+UID:loiN2EmLUP
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
+ aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
+ rie Bird)\, race Warren Oates and his GTO across the southern United State
+ s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
+ ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
+ acktop\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Promised Land (1974)
+DTSTART:20261107T220000Z
+DTEND:20261108T011500Z
+DTSTAMP:20261107T220000Z
+UID:knchSlP75J
+DESCRIPTION:Duration: 179 mins (2h59m)\n\nThis sweeping\, anti-capitalist 
+ epic set in 19th century Łódź follows three friends who open a textile 
+ factory during the ruthlessly competitive Industrial Revolution. Wajda’s
+  first Academy Award-nominated drama remains one of his most celebrated fi
+ lms.\n\nhttps://www.siff.net/programs-and-events/andrzej-wajda/the-promise
+ d-land\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -65,20 +79,6 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nEmploying hypnotic music and diz
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Two Lane Blacktop (1971)
-DTSTART:20261106T030000Z
-DTEND:20261106T050000Z
-DTSTAMP:20261106T030000Z
-UID:loiN2EmLUP
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
- aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
- rie Bird)\, race Warren Oates and his GTO across the southern United State
- s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
- ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
- acktop\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Birch Wood (1970)
 DTSTART:20261101T220000Z
 DTEND:20261101T235500Z
@@ -92,46 +92,17 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nIn the early 1930s\, a tubercular
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Invasion of the Body Snatchers (1978)
-DTSTART:20261029T020000Z
-DTEND:20261029T041000Z
-DTSTAMP:20261029T020000Z
-UID:9DhXobTwDt
-DESCRIPTION:Duration: 115 mins (1h55m)\n\nScarecrowberSan Francisco Health
-  Inspector Matthew Bennell (Donald Sutherland) investigates unsettling cha
- nges in the people around him\, uncovering a terrifying truth spreading th
- roughout the city in Philip Kaufman’s gripping sci-fi chiller. To be in
- troduced by Malakie Peters from Scarecrow Video.\n\nhttps://www.siff.net/p
- rograms-and-events/scarecrowber-2026/invasion-of-the-body-snatchers\n\nEst
- imated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Candy Mountain (1987)
-DTSTART:20261113T030000Z
-DTEND:20261113T050000Z
-DTSTAMP:20261113T030000Z
-UID:WDJuvbJC5Y
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the 
- road in search of the world's greatest\, and most reclusive\, guitar maker
-  in this cult rock ‘n’ roll odyssey. Co-directed by photographer Rober
- t Frank and Two-Lane Blacktop screenwriter Rudolph Wurlitzer.\n\nhttps://w
- ww.siff.net/programs-and-events/the-open-road/candy-mountain\n\nEstimated 
- start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Promised Land (1974)
-DTSTART:20261107T220000Z
-DTEND:20261108T011500Z
-DTSTAMP:20261107T220000Z
-UID:knchSlP75J
-DESCRIPTION:Duration: 179 mins (2h59m)\n\nThis sweeping\, anti-capitalist 
- epic set in 19th century Łódź follows three friends who open a textile 
- factory during the ruthlessly competitive Industrial Revolution. Wajda’s
-  first Academy Award-nominated drama remains one of his most celebrated fi
- lms.\n\nhttps://www.siff.net/programs-and-events/andrzej-wajda/the-promise
- d-land\n\nEstimated start: 14:15
+SUMMARY:The Passenger (1975)
+DTSTART:20261030T020000Z
+DTEND:20261030T041500Z
+DTSTAMP:20261030T020000Z
+UID:tuSLgkjmTR
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nHaving swapped passports and ide
+ ntities with a deceased acquaintance\, disaffected journalist David Locke 
+ (Jack Nicholson) discovers that the life he traded in for has connections 
+ to secret proxy wars and the international arms trade.\n\nhttps://www.siff
+ .net/programs-and-events/the-open-road/the-passenger\n\nEstimated start: 1
+ 9:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -211,6 +182,33 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nSeattle Film Critics Society PNW
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Candy Mountain (1987)
+DTSTART:20261113T030000Z
+DTEND:20261113T050000Z
+DTSTAMP:20261113T030000Z
+UID:WDJuvbJC5Y
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the 
+ road in search of the world's greatest\, and most reclusive\, guitar maker
+  in this cult rock ‘n’ roll odyssey. Co-directed by photographer Rober
+ t Frank and Two-Lane Blacktop screenwriter Rudolph Wurlitzer.\n\nhttps://w
+ ww.siff.net/programs-and-events/the-open-road/candy-mountain\n\nEstimated 
+ start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Boys of the Road (1933)
+DTSTART:20261117T030000Z
+DTEND:20261117T042500Z
+DTSTAMP:20261117T030000Z
+UID:56gTumlIIe
+DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
+ pression\, two teenagers decide to alleviate their parents’ financial bu
+ rden by hitting the road and hopping freight trains in this hard edged\, p
+ re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
+ /wild-boys-of-the-road\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Joyless Economy
 DTSTART:20261115T230000Z
 DTEND:20261116T001500Z
@@ -243,19 +241,6 @@ DESCRIPTION:Duration: 87 mins (1h27m)\n\nSeattle Film Critics Society PNW
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Boys of the Road (1933)
-DTSTART:20261117T030000Z
-DTEND:20261117T042500Z
-DTSTAMP:20261117T030000Z
-UID:56gTumlIIe
-DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
- pression\, two teenagers decide to alleviate their parents’ financial bu
- rden by hitting the road and hopping freight trains in this hard edged\, p
- re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
- /wild-boys-of-the-road\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Her Song
 DTSTART:20261118T030000Z
 DTEND:20261118T050000Z
@@ -278,6 +263,26 @@ DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
  rden by hitting the road and hopping freight trains in this hard edged\, p
  re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
  /wild-boys-of-the-road\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beware! The Devil’s Wrath
+DTSTART:20261125T033000Z
+DTEND:20261125T052000Z
+DTSTAMP:20261125T033000Z
+UID:Cs3d3My3LQ
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
+ eware! The Devil’s Wrath is an occult revenge horror film set in the fic
+ tional Texas town of Blackwood Falls. When a young couple moves into the t
+ ight-knit community\, a shocking act of violence triggers a wave of ritual
+ istic killings that forces residents to confront the dark secrets beneath 
+ their pious exterior.Written and directed by Craig Meinhart\, this low-bud
+ get feature draws inspiration from 1970s classics like Race with the Devil
+ \, Last House on the Left\, and Don’t Look Now\, blending atmospheric dr
+ ead\, practical effects\, and a hard-edged sense of vengeance.This special
+  screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda
+ \n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -315,26 +320,6 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
  he hilly outskirts of Tehran\, seeking someone who will bury him after he 
  commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
  ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beware! The Devil’s Wrath
-DTSTART:20261125T033000Z
-DTEND:20261125T052000Z
-DTSTAMP:20261125T033000Z
-UID:Cs3d3My3LQ
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
- eware! The Devil’s Wrath is an occult revenge horror film set in the fic
- tional Texas town of Blackwood Falls. When a young couple moves into the t
- ight-knit community\, a shocking act of violence triggers a wave of ritual
- istic killings that forces residents to confront the dark secrets beneath 
- their pious exterior.Written and directed by Craig Meinhart\, this low-bud
- get feature draws inspiration from 1970s classics like Race with the Devil
- \, Last House on the Left\, and Don’t Look Now\, blending atmospheric dr
- ead\, practical effects\, and a hard-edged sense of vengeance.This special
-  screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
- ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda
- \n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
