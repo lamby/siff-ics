@@ -3,48 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20261030T144312Z
-BEGIN:VEVENT
-SUMMARY:The Wedding (1972)
-DTSTART:20261031T210000Z
-DTEND:20261031T230000Z
-DTSTAMP:20261031T210000Z
-UID:3IkXE1R5hL
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nEmploying hypnotic music and diz
- zying cinematography\, Wajda adapts a landmark play where ghosts transform
-  revelry into an eerie\, tragic death dance of national discord.\n\nhttps:
- //www.siff.net/programs-and-events/andrzej-wajda/the-wedding\n\nEstimated 
- start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Promised Land (1974)
-DTSTART:20261107T220000Z
-DTEND:20261108T011500Z
-DTSTAMP:20261107T220000Z
-UID:knchSlP75J
-DESCRIPTION:Duration: 179 mins (2h59m)\n\nThis sweeping\, anti-capitalist 
- epic set in 19th century Łódź follows three friends who open a textile 
- factory during the ruthlessly competitive Industrial Revolution. Wajda’s
-  first Academy Award-nominated drama remains one of his most celebrated fi
- lms.\n\nhttps://www.siff.net/programs-and-events/andrzej-wajda/the-promise
- d-land\n\nEstimated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Lane Blacktop (1971)
-DTSTART:20261103T030000Z
-DTEND:20261103T050000Z
-DTSTAMP:20261103T030000Z
-UID:3xV7vplVrd
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
- aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
- rie Bird)\, race Warren Oates and his GTO across the southern United State
- s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
- ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
- acktop\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20261031T153818Z
 BEGIN:VEVENT
 SUMMARY:The Birch Wood (1970)
 DTSTART:20261101T220000Z
@@ -56,38 +15,6 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nIn the early 1930s\, a tubercular
  er’s secluded farm in this painterly mediation on life and death.\n\nhtt
  ps://www.siff.net/programs-and-events/andrzej-wajda/the-birch-wood\n\nEsti
  mated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Land of the Dead: it's for the gays
-DTSTART:20261031T014500Z
-DTEND:20261031T040000Z
-DTSTAMP:20261031T014500Z
-UID:9Sifmjwjyg
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Scorpio Rising Prod
- uctions. Land of the Dead: it’s for the gays is a dark\, campy horror c
- omedy that explores the intersections of gender identity\, addiction\, tra
- uma\, and Queerness. Through Mel’s confrontation with a literal demon fr
- om their past\, the film examines the ways unresolved pain can shape ident
- ity\, relationships\, and self-acceptance. Blending supernatural horror wi
- th Queer humor and emotional depth\, the story uses camp as a tool for bot
- h survival and reclamation\, creating a space where confronting the past b
- ecomes a path toward healing and embracing one’s authentic self.\n\nhttp
- s://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays\n\nE
- stimated start: 19:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man of Marble (1976)
-DTSTART:20261108T220000Z
-DTEND:20261109T010000Z
-DTSTAMP:20261108T220000Z
-UID:h7ORyjpS6G
-DESCRIPTION:Duration: 161 mins (2h41m)\n\nStudent filmmaker Agnieszka sets
-  out to discover the truth about a discredited labor hero\, a man remember
- ed in Stalinist Poland only through statues made of him languishing in cel
- lars.\n\nhttps://www.siff.net/programs-and-events/andrzej-wajda/man-of-mar
- ble\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -105,116 +32,31 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Simple Machine
-DTSTART:20261114T023000Z
-DTEND:20261114T042500Z
-DTSTAMP:20261114T023000Z
-UID:nQ8QBIoaGe
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nSeattle Film Critics Society PNW
-  Awards 2026Coming out of the pandemic\, an idealistic but indecisive youn
- g man makes a series of radical choices to get himself out of debt without
-  telling his girlfriend-practically fiancée that he’s going to be homel
- ess. Director Mark Alan Hoffman and author Evan P. Schneider scheduled to
-  attend\, with post-film Q&A moderated by film critic Mike Ward (Should I 
- See It).\n\nhttps://www.siff.net/programs-and-events/seattle-film-critics-
- society-pnw-awards-2026/a-simple-machine\n\nEstimated start: 18:45
+SUMMARY:Two Lane Blacktop (1971)
+DTSTART:20261103T030000Z
+DTEND:20261103T050000Z
+DTSTAMP:20261103T030000Z
+UID:3xV7vplVrd
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
+ aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
+ rie Bird)\, race Warren Oates and his GTO across the southern United State
+ s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
+ ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
+ acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Candy Mountain (1987)
-DTSTART:20261113T030000Z
-DTEND:20261113T050000Z
-DTSTAMP:20261113T030000Z
-UID:WDJuvbJC5Y
-DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the 
- road in search of the world's greatest\, and most reclusive\, guitar maker
-  in this cult rock ‘n’ roll odyssey. Co-directed by photographer Rober
- t Frank and Two-Lane Blacktop screenwriter Rudolph Wurlitzer.\n\nhttps://w
- ww.siff.net/programs-and-events/the-open-road/candy-mountain\n\nEstimated 
- start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Joyless Economy
-DTSTART:20261115T230000Z
-DTEND:20261116T001500Z
-DTSTAMP:20261115T230000Z
-UID:NVgvsIYAyY
-DESCRIPTION:Duration: 58 mins (0h58m)\n\nSeattle Film Critics Society PNW 
- Awards 2026A documentary that explores how a woman's movie collection trig
- gers her infidelity. Created for one viewer—the woman whose confessions 
- are revealed through hypnotic second-person narration. Director Marjorie C
- onrad and producer John Tuthill scheduled to attend\, with post-film Q&A m
- oderated by film critic Eric Zhu (The Insert\, Drink in the Movies).\n\nht
- tps://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-aw
- ards-2026/the-joyless-economy\n\nEstimated start: 15:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Life We Leave
-DTSTART:20261116T020000Z
-DTEND:20261116T034500Z
-DTSTAMP:20261116T020000Z
-UID:swMDkXI5Xt
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nSeattle Film Critics Society PNW 
- Awards 2026An ambitious entrepreneur and two funeral directors pioneer a g
- roundbreaking eco-friendly deathcare facility in Washington state\, challe
- nging traditional burial practices and transforming end-of-life rituals. D
- irector JJ Gerber scheduled to attend\, with post-film Q&A moderated by f
- ilm critic Kathy Fennessy (Seattle Film Blog\, The Stranger).\n\nhttps://w
- ww.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-20
- 26/the-life-we-leave\n\nEstimated start: 18:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Boys of the Road (1933)
-DTSTART:20261117T030000Z
-DTEND:20261117T042500Z
-DTSTAMP:20261117T030000Z
-UID:56gTumlIIe
-DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
- pression\, two teenagers decide to alleviate their parents’ financial bu
- rden by hitting the road and hopping freight trains in this hard edged\, p
- re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
- /wild-boys-of-the-road\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Boys of the Road (1933)
-DTSTART:20261120T030000Z
-DTEND:20261120T042500Z
-DTSTAMP:20261120T030000Z
-UID:kHvZDYo213
-DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
- pression\, two teenagers decide to alleviate their parents’ financial bu
- rden by hitting the road and hopping freight trains in this hard edged\, p
- re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
- /wild-boys-of-the-road\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Her Song
-DTSTART:20261118T030000Z
-DTEND:20261118T050000Z
-DTSTAMP:20261118T030000Z
-UID:qo7oW3dLqN
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nPresented by PIAFF. An American
-  writer returns to her grandmother’s village in France and is enchanted 
- by a local woman who becomes the face of her new novel.\n\nhttps://www.sif
- f.net/cinema/in-theaters/her-song\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Route One/USA (1989)
-DTSTART:20261122T203000Z
-DTEND:20261123T010000Z
-DTSTAMP:20261122T203000Z
-UID:1nBEutAZS5
-DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
- oute 1 from Maine to Florida\, renegade filmmaker Robert Kramer and his fr
- iend Doc survey the state of ‘80s America in this monumental portrait of
-  everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
- road/route-one/usa\n\nEstimated start: 12:45
+SUMMARY:The Promised Land (1974)
+DTSTART:20261107T220000Z
+DTEND:20261108T011500Z
+DTSTAMP:20261107T220000Z
+UID:knchSlP75J
+DESCRIPTION:Duration: 179 mins (2h59m)\n\nThis sweeping\, anti-capitalist 
+ epic set in 19th century Łódź follows three friends who open a textile 
+ factory during the ruthlessly competitive Industrial Revolution. Wajda’s
+  first Academy Award-nominated drama remains one of his most celebrated fi
+ lms.\n\nhttps://www.siff.net/programs-and-events/andrzej-wajda/the-promise
+ d-land\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -265,6 +107,120 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nSeattle Film Critics Society PNW
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Simple Machine
+DTSTART:20261114T023000Z
+DTEND:20261114T042500Z
+DTSTAMP:20261114T023000Z
+UID:nQ8QBIoaGe
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nSeattle Film Critics Society PNW
+  Awards 2026Coming out of the pandemic\, an idealistic but indecisive youn
+ g man makes a series of radical choices to get himself out of debt without
+  telling his girlfriend-practically fiancée that he’s going to be homel
+ ess. Director Mark Alan Hoffman and author Evan P. Schneider scheduled to
+  attend\, with post-film Q&A moderated by film critic Mike Ward (Should I 
+ See It). *Screening is sold out. An additional screening will take place 
+ at The Beacon Cinema on Thursday\, November 12th\; more information here*
+ \n\nhttps://www.siff.net/programs-and-events/seattle-film-critics-society-
+ pnw-awards-2026/a-simple-machine\n\nEstimated start: 18:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candy Mountain (1987)
+DTSTART:20261113T030000Z
+DTEND:20261113T050000Z
+DTSTAMP:20261113T030000Z
+UID:WDJuvbJC5Y
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the 
+ road in search of the world's greatest\, and most reclusive\, guitar maker
+  in this cult rock ‘n’ roll odyssey. Co-directed by photographer Rober
+ t Frank and Two-Lane Blacktop screenwriter Rudolph Wurlitzer.\n\nhttps://w
+ ww.siff.net/programs-and-events/the-open-road/candy-mountain\n\nEstimated 
+ start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Joyless Economy
+DTSTART:20261115T230000Z
+DTEND:20261116T001500Z
+DTSTAMP:20261115T230000Z
+UID:NVgvsIYAyY
+DESCRIPTION:Duration: 58 mins (0h58m)\n\nSeattle Film Critics Society PNW 
+ Awards 2026A documentary that explores how a woman's movie collection trig
+ gers her infidelity. Created for one viewer—the woman whose confessions 
+ are revealed through hypnotic second-person narration. Director Marjorie C
+ onrad and producer John Tuthill scheduled to attend\, with post-film Q&A m
+ oderated by film critic Eric Zhu (The Insert\, Drink in the Movies).\n\nht
+ tps://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-aw
+ ards-2026/the-joyless-economy\n\nEstimated start: 15:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life We Leave
+DTSTART:20261116T020000Z
+DTEND:20261116T034500Z
+DTSTAMP:20261116T020000Z
+UID:swMDkXI5Xt
+DESCRIPTION:Duration: 87 mins (1h27m)\n\nSeattle Film Critics Society PNW 
+ Awards 2026An ambitious entrepreneur and two funeral directors pioneer a g
+ roundbreaking eco-friendly deathcare facility in Washington state\, challe
+ nging traditional burial practices and transforming end-of-life rituals. D
+ irector JJ Gerber scheduled to attend\, with post-film Q&A moderated by f
+ ilm critic Kathy Fennessy (Seattle Film Blog\, The Stranger).\n\nhttps://w
+ ww.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-20
+ 26/the-life-we-leave\n\nEstimated start: 18:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Her Song
+DTSTART:20261118T030000Z
+DTEND:20261118T050000Z
+DTSTAMP:20261118T030000Z
+UID:qo7oW3dLqN
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nPresented by PIAFF. An American
+  writer returns to her grandmother’s village in France and is enchanted 
+ by a local woman who becomes the face of her new novel.\n\nhttps://www.sif
+ f.net/cinema/in-theaters/her-song\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Boys of the Road (1933)
+DTSTART:20261117T030000Z
+DTEND:20261117T042500Z
+DTSTAMP:20261117T030000Z
+UID:56gTumlIIe
+DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
+ pression\, two teenagers decide to alleviate their parents’ financial bu
+ rden by hitting the road and hopping freight trains in this hard edged\, p
+ re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
+ /wild-boys-of-the-road\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Boys of the Road (1933)
+DTSTART:20261120T030000Z
+DTEND:20261120T042500Z
+DTSTAMP:20261120T030000Z
+UID:kHvZDYo213
+DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
+ pression\, two teenagers decide to alleviate their parents’ financial bu
+ rden by hitting the road and hopping freight trains in this hard edged\, p
+ re-Code classic.\n\nhttps://www.siff.net/programs-and-events/the-open-road
+ /wild-boys-of-the-road\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taste of Cherry (1997)
+DTSTART:20261124T030000Z
+DTEND:20261124T045500Z
+DTSTAMP:20261124T030000Z
+UID:TWL0fNdADq
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
+ he hilly outskirts of Tehran\, seeking someone who will bury him after he 
+ commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
+ ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beware! The Devil’s Wrath
 DTSTART:20261125T033000Z
 DTEND:20261125T052000Z
@@ -285,23 +241,37 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Route One/USA (1989)
+DTSTART:20261122T203000Z
+DTEND:20261123T010000Z
+DTSTAMP:20261122T203000Z
+UID:1nBEutAZS5
+DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
+ oute 1 from Maine to Florida\, renegade filmmaker Robert Kramer and his fr
+ iend Doc survey the state of ‘80s America in this monumental portrait of
+  everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
+ road/route-one/usa\n\nEstimated start: 12:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wedding (1972)
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+DTSTAMP:20261031T210000Z
+UID:3IkXE1R5hL
+DESCRIPTION:Duration: 103 mins (1h43m)\n\nEmploying hypnotic music and diz
+ zying cinematography\, Wajda adapts a landmark play where ghosts transform
+  revelry into an eerie\, tragic death dance of national discord.\n\nhttps:
+ //www.siff.net/programs-and-events/andrzej-wajda/the-wedding\n\nEstimated 
+ start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Taste of Cherry (1997)
 DTSTART:20261126T030000Z
 DTEND:20261126T045500Z
 DTSTAMP:20261126T030000Z
 UID:LkEWyxvEgN
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
- he hilly outskirts of Tehran\, seeking someone who will bury him after he 
- commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
- ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taste of Cherry (1997)
-DTSTART:20261124T030000Z
-DTEND:20261124T045500Z
-DTSTAMP:20261124T030000Z
-UID:TWL0fNdADq
 DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
  he hilly outskirts of Tehran\, seeking someone who will bury him after he 
  commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
@@ -323,6 +293,19 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Teach One Publishi
  erhood\, basketball\, triumph\, and adversity.\n\nhttps://www.siff.net/cin
  ema/in-theaters/the-backcourt-documentary-basketballs-best-kept-secret\n\n
  Estimated start: 15:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man of Marble (1976)
+DTSTART:20261108T220000Z
+DTEND:20261109T010000Z
+DTSTAMP:20261108T220000Z
+UID:h7ORyjpS6G
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nStudent filmmaker Agnieszka sets
+  out to discover the truth about a discredited labor hero\, a man remember
+ ed in Stalinist Poland only through statues made of him languishing in cel
+ lars.\n\nhttps://www.siff.net/programs-and-events/andrzej-wajda/man-of-mar
+ ble\n\nEstimated start: 14:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
