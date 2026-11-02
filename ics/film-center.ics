@@ -3,35 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20261101T152914Z
-BEGIN:VEVENT
-SUMMARY:Fatherland
-DTSTART:20261106T234500Z
-DTEND:20261107T012500Z
-DTSTAMP:20261106T234500Z
-UID:vFpu39RMKf
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
- awlikowski (Cold War) won Best Director at Cannes for his most potent film
-  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
- ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
- f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
- stimated start: 16:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fatherland
-DTSTART:20261107T020000Z
-DTEND:20261107T034000Z
-DTSTAMP:20261107T020000Z
-UID:JRPwWxAHxx
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
- awlikowski (Cold War) won Best Director at Cannes for his most potent film
-  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
- ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
- f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
- stimated start: 18:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20261102T153954Z
 BEGIN:VEVENT
 SUMMARY:Two Lane Blacktop (1971)
 DTSTART:20261103T030000Z
@@ -44,6 +16,34 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
  s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
  ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
  acktop\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261112T011500Z
+DTEND:20261112T025500Z
+DTSTAMP:20261112T011500Z
+UID:Mkfue2el6l
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (Cold War) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 17:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261112T033000Z
+DTEND:20261112T051000Z
+DTSTAMP:20261112T033000Z
+UID:uMEkd0hgtU
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (Cold War) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -75,17 +75,44 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Two Lane Blacktop (1971)
-DTSTART:20261106T030000Z
-DTEND:20261106T050000Z
-DTSTAMP:20261106T030000Z
-UID:loiN2EmLUP
-DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
- aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
- rie Bird)\, race Warren Oates and his GTO across the southern United State
- s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
- ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
- acktop\n\nEstimated start: 19:15
+SUMMARY:Man of Marble (1976)
+DTSTART:20261108T220000Z
+DTEND:20261109T010000Z
+DTSTAMP:20261108T220000Z
+UID:h7ORyjpS6G
+DESCRIPTION:Duration: 161 mins (2h41m)\n\nStudent filmmaker Agnieszka sets
+  out to discover the truth about a discredited labor hero\, a man remember
+ ed in Stalinist Poland only through statues made of him languishing in cel
+ lars.\n\nhttps://www.siff.net/programs-and-events/andrzej-wajda/man-of-mar
+ ble\n\nEstimated start: 14:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261109T020000Z
+DTEND:20261109T034000Z
+DTSTAMP:20261109T020000Z
+UID:IvRmBuuMfa
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (Cold War) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 18:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland
+DTSTART:20261109T041500Z
+DTEND:20261109T055500Z
+DTSTAMP:20261109T041500Z
+UID:12eBK7R9Cm
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (Cold War) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 20:30
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -159,37 +186,25 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Birch Wood (1970)
-DTSTART:20261101T220000Z
-DTEND:20261101T235500Z
-DTSTAMP:20261101T220000Z
-UID:bHuLD81pUY
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nIn the early 1930s\, a tubercular
-  young man returns from Switzerland to live on his introverted older broth
- er’s secluded farm in this painterly mediation on life and death.\n\nhtt
- ps://www.siff.net/programs-and-events/andrzej-wajda/the-birch-wood\n\nEsti
- mated start: 14:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man of Marble (1976)
-DTSTART:20261108T220000Z
-DTEND:20261109T010000Z
-DTSTAMP:20261108T220000Z
-UID:h7ORyjpS6G
-DESCRIPTION:Duration: 161 mins (2h41m)\n\nStudent filmmaker Agnieszka sets
-  out to discover the truth about a discredited labor hero\, a man remember
- ed in Stalinist Poland only through statues made of him languishing in cel
- lars.\n\nhttps://www.siff.net/programs-and-events/andrzej-wajda/man-of-mar
- ble\n\nEstimated start: 14:15
+SUMMARY:Fatherland
+DTSTART:20261106T234500Z
+DTEND:20261107T012500Z
+DTSTAMP:20261106T234500Z
+UID:vFpu39RMKf
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
+ awlikowski (Cold War) won Best Director at Cannes for his most potent film
+  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
+ ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
+ f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
+ stimated start: 16:00
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fatherland
-DTSTART:20261109T020000Z
-DTEND:20261109T034000Z
-DTSTAMP:20261109T020000Z
-UID:IvRmBuuMfa
+DTSTART:20261107T020000Z
+DTEND:20261107T034000Z
+DTSTAMP:20261107T020000Z
+UID:JRPwWxAHxx
 DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
  awlikowski (Cold War) won Best Director at Cannes for his most potent film
   yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
@@ -199,17 +214,17 @@ DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fatherland
-DTSTART:20261109T041500Z
-DTEND:20261109T055500Z
-DTSTAMP:20261109T041500Z
-UID:12eBK7R9Cm
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
- awlikowski (Cold War) won Best Director at Cannes for his most potent film
-  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
- ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
- f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
- stimated start: 20:30
+SUMMARY:Two Lane Blacktop (1971)
+DTSTART:20261106T030000Z
+DTEND:20261106T050000Z
+DTSTAMP:20261106T030000Z
+UID:loiN2EmLUP
+DESCRIPTION:Duration: 102 mins (1h42m)\n\nThe Driver and Mechanic (James T
+ aylor and "The Beach Boys"' Dennis Wilson)\, with a hitchhiker in tow (Lau
+ rie Bird)\, race Warren Oates and his GTO across the southern United State
+ s in Monte Hellman’s masterpiece\, perhaps the greatest road film ever m
+ ade.\n\nhttps://www.siff.net/programs-and-events/the-open-road/two-lane-bl
+ acktop\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -241,49 +256,35 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nA mediocre musician wanders the
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fatherland
-DTSTART:20261112T011500Z
-DTEND:20261112T025500Z
-DTSTAMP:20261112T011500Z
-UID:Mkfue2el6l
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
- awlikowski (Cold War) won Best Director at Cannes for his most potent film
-  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
- ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
- f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
- stimated start: 17:30
+SUMMARY:The Joyless Economy
+DTSTART:20261115T230000Z
+DTEND:20261116T001500Z
+DTSTAMP:20261115T230000Z
+UID:NVgvsIYAyY
+DESCRIPTION:Duration: 58 mins (0h58m)\n\nSeattle Film Critics Society PNW 
+ Awards 2026A documentary that explores how a woman's movie collection trig
+ gers her infidelity. Created for one viewer—the woman whose confessions 
+ are revealed through hypnotic second-person narration. Director Marjorie C
+ onrad and producer John Tuthill scheduled to attend\, with post-film Q&A m
+ oderated by film critic Eric Zhu (The Insert\, Drink in the Movies).\n\nht
+ tps://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-aw
+ ards-2026/the-joyless-economy\n\nEstimated start: 15:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fatherland
-DTSTART:20261112T033000Z
-DTEND:20261112T051000Z
-DTSTAMP:20261112T033000Z
-UID:uMEkd0hgtU
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nOscar-nominated director Paweł P
- awlikowski (Cold War) won Best Director at Cannes for his most potent film
-  yet\, following novelist Thomas Mann (Hanns Zischler) and his daughter Er
- ika Mann (Sandra Hüller) on a road trip across Germany in the aftermath o
- f World War II.\n\nhttps://www.siff.net/cinema/in-theaters/fatherland\n\nE
- stimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Simple Machine
-DTSTART:20261114T023000Z
-DTEND:20261114T042500Z
-DTSTAMP:20261114T023000Z
-UID:nQ8QBIoaGe
-DESCRIPTION:Duration: 100 mins (1h40m)\n\nSeattle Film Critics Society PNW
-  Awards 2026Coming out of the pandemic\, an idealistic but indecisive youn
- g man makes a series of radical choices to get himself out of debt without
-  telling his girlfriend-practically fiancée that he’s going to be homel
- ess. Director Mark Alan Hoffman and author Evan P. Schneider scheduled to
-  attend\, with post-film Q&A moderated by film critic Mike Ward (Should I 
- See It). *Screening is sold out. An additional screening will take place 
- at The Beacon Cinema on Thursday\, November 12th\; more information here*
- \n\nhttps://www.siff.net/programs-and-events/seattle-film-critics-society-
- pnw-awards-2026/a-simple-machine\n\nEstimated start: 18:45
+SUMMARY:The Life We Leave
+DTSTART:20261116T020000Z
+DTEND:20261116T034500Z
+DTSTAMP:20261116T020000Z
+UID:swMDkXI5Xt
+DESCRIPTION:Duration: 87 mins (1h27m)\n\nSeattle Film Critics Society PNW 
+ Awards 2026An ambitious entrepreneur and two funeral directors pioneer a g
+ roundbreaking eco-friendly deathcare facility in Washington state\, challe
+ nging traditional burial practices and transforming end-of-life rituals. D
+ irector JJ Gerber scheduled to attend\, with post-film Q&A moderated by f
+ ilm critic Kathy Fennessy (Seattle Film Blog\, The Stranger).\n\nhttps://w
+ ww.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-20
+ 26/the-life-we-leave\n\nEstimated start: 18:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -334,35 +335,21 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nSeattle Film Critics Society PNW
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Joyless Economy
-DTSTART:20261115T230000Z
-DTEND:20261116T001500Z
-DTSTAMP:20261115T230000Z
-UID:NVgvsIYAyY
-DESCRIPTION:Duration: 58 mins (0h58m)\n\nSeattle Film Critics Society PNW 
- Awards 2026A documentary that explores how a woman's movie collection trig
- gers her infidelity. Created for one viewer—the woman whose confessions 
- are revealed through hypnotic second-person narration. Director Marjorie C
- onrad and producer John Tuthill scheduled to attend\, with post-film Q&A m
- oderated by film critic Eric Zhu (The Insert\, Drink in the Movies).\n\nht
- tps://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-aw
- ards-2026/the-joyless-economy\n\nEstimated start: 15:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Life We Leave
-DTSTART:20261116T020000Z
-DTEND:20261116T034500Z
-DTSTAMP:20261116T020000Z
-UID:swMDkXI5Xt
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nSeattle Film Critics Society PNW 
- Awards 2026An ambitious entrepreneur and two funeral directors pioneer a g
- roundbreaking eco-friendly deathcare facility in Washington state\, challe
- nging traditional burial practices and transforming end-of-life rituals. D
- irector JJ Gerber scheduled to attend\, with post-film Q&A moderated by f
- ilm critic Kathy Fennessy (Seattle Film Blog\, The Stranger).\n\nhttps://w
- ww.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-20
- 26/the-life-we-leave\n\nEstimated start: 18:15
+SUMMARY:A Simple Machine
+DTSTART:20261114T023000Z
+DTEND:20261114T042500Z
+DTSTAMP:20261114T023000Z
+UID:nQ8QBIoaGe
+DESCRIPTION:Duration: 100 mins (1h40m)\n\nSeattle Film Critics Society PNW
+  Awards 2026Coming out of the pandemic\, an idealistic but indecisive youn
+ g man makes a series of radical choices to get himself out of debt without
+  telling his girlfriend-practically fiancée that he’s going to be homel
+ ess. Director Mark Alan Hoffman and author Evan P. Schneider scheduled to
+  attend\, with post-film Q&A moderated by film critic Mike Ward (Should I 
+ See It). *Screening is sold out. An additional screening will take place 
+ at The Beacon Cinema on Thursday\, November 12th\; more information here*
+ \n\nhttps://www.siff.net/programs-and-events/seattle-film-critics-society-
+ pnw-awards-2026/a-simple-machine\n\nEstimated start: 18:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -429,18 +416,6 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Taste of Cherry (1997)
-DTSTART:20261124T030000Z
-DTEND:20261124T045500Z
-DTSTAMP:20261124T030000Z
-UID:TWL0fNdADq
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
- he hilly outskirts of Tehran\, seeking someone who will bury him after he 
- commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
- ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beware! The Devil’s Wrath
 DTSTART:20261125T033000Z
 DTEND:20261125T052000Z
@@ -458,6 +433,18 @@ DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
   screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
  ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda
  \n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taste of Cherry (1997)
+DTSTART:20261124T030000Z
+DTEND:20261124T045500Z
+DTSTAMP:20261124T030000Z
+UID:TWL0fNdADq
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
+ he hilly outskirts of Tehran\, seeking someone who will bury him after he 
+ commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
+ ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
