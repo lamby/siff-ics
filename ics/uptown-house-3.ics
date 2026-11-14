@@ -3,33 +3,85 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 3)
 X-WR-CALNAME:🎬 SIFF (Uptown House 3)
-LAST-MODIFIED:20261112T153451Z
+LAST-MODIFIED:20261114T174028Z
+BEGIN:VEVENT
+SUMMARY:Raise the Red Lantern (1991)
+DTSTART:20261124T033000Z
+DTEND:20261124T054000Z
+DTSTAMP:20261124T033000Z
+UID:JtxC8mjUVg
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nNineteen-year-old Songlian\, a p
+ romising student whose family has been destroyed by her father's death\, i
+ s forced to abandon her studies and marry into wealth\, becoming the fourt
+ h and newest concubine of the aging\, unseen Master Chen. Inside his walle
+ d estate\, she discovers a household ruled by a merciless ritual: each nig
+ ht\, red lanterns are lit outside the chambers of whichever wife the maste
+ r chooses to visit\, granting her privilege and status while the others ar
+ e cast into cold irrelevance. Songlian is drawn into the orbit of her riva
+ ls\, each shaped by years of fighting for the same scraps of attention. De
+ termined at first to rise above the games\, Songlian is gradually worn dow
+ n by isolation and humiliation until she strikes back\, trading secrets an
+ d favors to secure her place in Master Chen’s hierarchy. As petty cruelt
+ y turns even more dire\, Songlian is forced to confront what these despera
+ te measures will cost her soul. 35th anniversary 4K restoration.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/raise-the-red-lantern\n\nEstimated start
+ : 19:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Can See Everything
-DTSTART:20261112T234500Z
-DTEND:20261113T025500Z
-DTSTAMP:20261112T234500Z
-UID:xMu5NiY36D
+DTSTART:20261119T030000Z
+DTEND:20261119T061000Z
+DTSTAMP:20261119T030000Z
+UID:oulIuKjuNu
 DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
  sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
   a skeptical film crew to document her every move. What begins as an intim
  ate portrait of an enigmatic felon becomes a mind-bending three-year journ
  ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
  e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 16:00
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wild Horse Nine
-DTSTART:20261113T034500Z
-DTEND:20261113T060000Z
-DTSTAMP:20261113T034500Z
-UID:mModK2dcfA
+DTSTART:20261119T000000Z
+DTEND:20261119T021500Z
+DTSTAMP:20261119T000000Z
+UID:caINdd7rOu
 DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
  nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
  an existential crisis over his past actions\, in Martin McDonagh’s lates
  t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 20:00
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261118T031500Z
+DTEND:20261118T062500Z
+DTSTAMP:20261118T031500Z
+UID:D5AB0O4s2X
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
+DTSTART:20261118T001500Z
+DTEND:20261118T023000Z
+DTSTAMP:20261118T001500Z
+UID:4kNiioFCee
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 16:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -61,25 +113,91 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3 Days in September
-DTSTART:20261114T030000Z
-DTEND:20261114T043000Z
-DTSTAMP:20261114T030000Z
-UID:6waCfIUvnw
-DESCRIPTION:Duration: 75 mins (1h15m)\n\nRomanian Film Festival Seattle P
- resented by the American Romanian Cultural Society. When her fiancé’s 
- mistress crashes her wedding\, Bianca flees the scene\, launching a real-t
- ime odyssey of chaos and eventual liberation through an off-season seaside
-  resort.\n\nhttps://www.siff.net/cinema/in-theaters/romanian-film-festival
- -seattle-13th-edition/3-days-in-september\n\nEstimated start: 19:15
+SUMMARY:The Last Transhumance
+DTSTART:20261114T200000Z
+DTEND:20261114T214500Z
+DTSTAMP:20261114T200000Z
+UID:LBqMYJpCB4
+DESCRIPTION:Duration: 90 mins (1h30m)\n\nRomanian Film Festival Seattle P
+ resented by the American Romanian Cultural Society. Filmed in six countrie
+ s during fifteen years\, The Last Transhumance takes us into the world of 
+ shepherds who walk with their animals very long distances in search of foo
+ d: an ancient way of life not compatible with the modern world.\n\nhttps:/
+ /www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-editi
+ on/the-last-transhumance\n\nEstimated start: 12:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kontinental '25
+DTSTART:20261114T215000Z
+DTEND:20261114T235500Z
+DTSTAMP:20261114T215000Z
+UID:mNIKu9HDPg
+DESCRIPTION:Duration: 109 mins (1h49m)\n\nRomanian Film Festival Seattle 
+ Presented by the American Romanian Cultural Society. After a municipal wor
+ ker in Transylvania oversees an eviction that goes wrong\, she spirals int
+ o an existential crisis that forces her to confront her place in a frenzie
+ d world.\n\nhttps://www.siff.net/cinema/in-theaters/romanian-film-festival
+ -seattle-13th-edition/kontinental-25\n\nEstimated start: 14:05
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traffic
+DTSTART:20261115T001000Z
+DTEND:20261115T022500Z
+DTSTAMP:20261115T001000Z
+UID:2G5oQPEH6C
+DESCRIPTION:Duration: 119 mins (1h59m)\n\nRomanian Film Festival Seattle 
+ Presented by the American Romanian Cultural Society. A young Romanian coup
+ le working in Western Europe orchestrates an ambitious art museum heist af
+ ter the woman is assaulted.\n\nhttps://www.siff.net/cinema/in-theaters/rom
+ anian-film-festival-seattle-13th-edition/traffic\n\nEstimated start: 16:25
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:R.M.N. (2022)
+DTSTART:20261115T030500Z
+DTEND:20261115T053000Z
+DTSTAMP:20261115T030500Z
+UID:xXdK9xZgvT
+DESCRIPTION:Duration: 128 mins (2h08m)\n\nRomanian Film Festival Seattle 
+ Presented by the American Romanian Cultural Society. When a multi-ethnic T
+ ransylvanian village hires Sri Lankan workers at the local bakery\, latent
+  xenophobia and historic tribal resentments explode\, fracturing the commu
+ nity's veneer of peace.\n\nhttps://www.siff.net/cinema/in-theaters/romania
+ n-film-festival-seattle-13th-edition/rmn\n\nEstimated start: 19:20
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raise the Red Lantern (1991)
+DTSTART:20261121T031500Z
+DTEND:20261121T052500Z
+DTSTAMP:20261121T031500Z
+UID:Nw6opt56l6
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nNineteen-year-old Songlian\, a p
+ romising student whose family has been destroyed by her father's death\, i
+ s forced to abandon her studies and marry into wealth\, becoming the fourt
+ h and newest concubine of the aging\, unseen Master Chen. Inside his walle
+ d estate\, she discovers a household ruled by a merciless ritual: each nig
+ ht\, red lanterns are lit outside the chambers of whichever wife the maste
+ r chooses to visit\, granting her privilege and status while the others ar
+ e cast into cold irrelevance. Songlian is drawn into the orbit of her riva
+ ls\, each shaped by years of fighting for the same scraps of attention. De
+ termined at first to rise above the games\, Songlian is gradually worn dow
+ n by isolation and humiliation until she strikes back\, trading secrets an
+ d favors to secure her place in Master Chen’s hierarchy. As petty cruelt
+ y turns even more dire\, Songlian is forced to confront what these despera
+ te measures will cost her soul. 35th anniversary 4K restoration.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/raise-the-red-lantern\n\nEstimated start
+ : 19:30
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You Can See Everything
-DTSTART:20261118T031500Z
-DTEND:20261118T062500Z
-DTSTAMP:20261118T031500Z
-UID:D5AB0O4s2X
+DTSTART:20261117T031500Z
+DTEND:20261117T062500Z
+DTSTAMP:20261117T031500Z
+UID:fBd4rKUZDO
 DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
  sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
   a skeptical film crew to document her every move. What begins as an intim
@@ -91,10 +209,10 @@ LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wild Horse Nine
-DTSTART:20261118T001500Z
-DTEND:20261118T023000Z
-DTSTAMP:20261118T001500Z
-UID:4kNiioFCee
+DTSTART:20261117T001500Z
+DTEND:20261117T023000Z
+DTSTAMP:20261117T001500Z
+UID:DEwgfS4v4s
 DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
  nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
  an existential crisis over his past actions\, in Martin McDonagh’s lates
@@ -161,115 +279,27 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nRomanian Film Festival Seattle P
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261117T031500Z
-DTEND:20261117T062500Z
-DTSTAMP:20261117T031500Z
-UID:fBd4rKUZDO
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261117T001500Z
-DTEND:20261117T023000Z
-DTSTAMP:20261117T001500Z
-UID:DEwgfS4v4s
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Transhumance
-DTSTART:20261114T200000Z
-DTEND:20261114T214500Z
-DTSTAMP:20261114T200000Z
-UID:LBqMYJpCB4
-DESCRIPTION:Duration: 90 mins (1h30m)\n\nRomanian Film Festival Seattle P
- resented by the American Romanian Cultural Society. Filmed in six countrie
- s during fifteen years\, The Last Transhumance takes us into the world of 
- shepherds who walk with their animals very long distances in search of foo
- d: an ancient way of life not compatible with the modern world.\n\nhttps:/
- /www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-editi
- on/the-last-transhumance\n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kontinental '25
-DTSTART:20261114T215000Z
-DTEND:20261114T235500Z
-DTSTAMP:20261114T215000Z
-UID:mNIKu9HDPg
-DESCRIPTION:Duration: 109 mins (1h49m)\n\nRomanian Film Festival Seattle 
- Presented by the American Romanian Cultural Society. After a municipal wor
- ker in Transylvania oversees an eviction that goes wrong\, she spirals int
- o an existential crisis that forces her to confront her place in a frenzie
- d world.\n\nhttps://www.siff.net/cinema/in-theaters/romanian-film-festival
- -seattle-13th-edition/kontinental-25\n\nEstimated start: 14:05
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Traffic
-DTSTART:20261115T001000Z
-DTEND:20261115T022500Z
-DTSTAMP:20261115T001000Z
-UID:2G5oQPEH6C
-DESCRIPTION:Duration: 119 mins (1h59m)\n\nRomanian Film Festival Seattle 
- Presented by the American Romanian Cultural Society. A young Romanian coup
- le working in Western Europe orchestrates an ambitious art museum heist af
- ter the woman is assaulted.\n\nhttps://www.siff.net/cinema/in-theaters/rom
- anian-film-festival-seattle-13th-edition/traffic\n\nEstimated start: 16:25
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:R.M.N. (2022)
-DTSTART:20261115T030500Z
-DTEND:20261115T053000Z
-DTSTAMP:20261115T030500Z
-UID:xXdK9xZgvT
-DESCRIPTION:Duration: 128 mins (2h08m)\n\nRomanian Film Festival Seattle 
- Presented by the American Romanian Cultural Society. When a multi-ethnic T
- ransylvanian village hires Sri Lankan workers at the local bakery\, latent
-  xenophobia and historic tribal resentments explode\, fracturing the commu
- nity's veneer of peace.\n\nhttps://www.siff.net/cinema/in-theaters/romania
- n-film-festival-seattle-13th-edition/rmn\n\nEstimated start: 19:20
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261119T030000Z
-DTEND:20261119T061000Z
-DTSTAMP:20261119T030000Z
-UID:oulIuKjuNu
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261119T000000Z
-DTEND:20261119T021500Z
-DTSTAMP:20261119T000000Z
-UID:caINdd7rOu
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 16:15
+SUMMARY:Raise the Red Lantern (1991)
+DTSTART:20261125T000000Z
+DTEND:20261125T021000Z
+DTSTAMP:20261125T000000Z
+UID:0viLXJLARX
+DESCRIPTION:Duration: 112 mins (1h52m)\n\nNineteen-year-old Songlian\, a p
+ romising student whose family has been destroyed by her father's death\, i
+ s forced to abandon her studies and marry into wealth\, becoming the fourt
+ h and newest concubine of the aging\, unseen Master Chen. Inside his walle
+ d estate\, she discovers a household ruled by a merciless ritual: each nig
+ ht\, red lanterns are lit outside the chambers of whichever wife the maste
+ r chooses to visit\, granting her privilege and status while the others ar
+ e cast into cold irrelevance. Songlian is drawn into the orbit of her riva
+ ls\, each shaped by years of fighting for the same scraps of attention. De
+ termined at first to rise above the games\, Songlian is gradually worn dow
+ n by isolation and humiliation until she strikes back\, trading secrets an
+ d favors to secure her place in Master Chen’s hierarchy. As petty cruelt
+ y turns even more dire\, Songlian is forced to confront what these despera
+ te measures will cost her soul. 35th anniversary 4K restoration.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/raise-the-red-lantern\n\nEstimated start
+ : 16:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

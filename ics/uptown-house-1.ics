@@ -3,20 +3,51 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 1)
 X-WR-CALNAME:🎬 SIFF (Uptown House 1)
-LAST-MODIFIED:20261112T153451Z
+LAST-MODIFIED:20261114T174028Z
 BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261113T234500Z
-DTEND:20261114T025500Z
-DTSTAMP:20261113T234500Z
-UID:8J1QssBcUI
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 16:00
+SUMMARY:Sweetheart
+DTSTART:20261119T020000Z
+DTEND:20261119T035000Z
+DTSTAMP:20261119T020000Z
+UID:4iMLMovXCB
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nCinema Italian Style 2026 Presen
+ ted by Cinema Italian Style. A reluctant summer together transforms into 
+ an enchanting adventure when a young boy discovers his aunt's mysterious S
+ icilian household's secrets and\, perhaps\, ancient spirits lurking within
+  its walls.After the screening: Join us for the Opening Night Party at KEX
+ P! Make sure to purchase the “Movie + Party” ticket to attend.\n\nhttp
+ s://www.siff.net/programs-and-events/cinema-italian-style-2026/sweetheart
+ \n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Tiger [35mm]
+DTSTART:20261118T000000Z
+DTEND:20261118T021000Z
+DTSTAMP:20261118T000000Z
+UID:4e7HcrgAoU
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences. This is the page for 35mm showtimes. For digital 
+ showtimes\, visit this Paper Tiger page.\n\nhttps://www.siff.net/cinema/in
+ -theaters/paper-tiger-(35mm)\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Tiger [35mm]
+DTSTART:20261118T030000Z
+DTEND:20261118T051000Z
+DTSTAMP:20261118T030000Z
+UID:fioy2XZ791
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences. This is the page for 35mm showtimes. For digital 
+ showtimes\, visit this Paper Tiger page.\n\nhttps://www.siff.net/cinema/in
+ -theaters/paper-tiger-(35mm)\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -48,11 +79,39 @@ DESCRIPTION:Duration: 102 mins (1h42m)\n\nCinema Italian Style 2026 Prese
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261114T234500Z
+DTEND:20261115T025500Z
+DTSTAMP:20261114T234500Z
+UID:fHuhUs5KNn
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wild Horse Nine
-DTSTART:20261114T034500Z
-DTEND:20261114T060000Z
-DTSTAMP:20261114T034500Z
-UID:BcfyMED35x
+DTSTART:20261114T204500Z
+DTEND:20261114T230000Z
+DTSTAMP:20261114T204500Z
+UID:wuCF0sggty
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
+DTSTART:20261115T034500Z
+DTEND:20261115T060000Z
+DTSTAMP:20261115T034500Z
+UID:ys6cT3EaxY
 DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
  nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
  an existential crisis over his past actions\, in Martin McDonagh’s lates
@@ -61,33 +120,46 @@ DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paper Tiger [35mm]
-DTSTART:20261118T000000Z
-DTEND:20261118T021000Z
-DTSTAMP:20261118T000000Z
-UID:4e7HcrgAoU
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences. This is the page for 35mm showtimes. For digital 
- showtimes\, visit this Paper Tiger page.\n\nhttps://www.siff.net/cinema/in
- -theaters/paper-tiger-(35mm)\n\nEstimated start: 16:15
+SUMMARY:Brunello: The Gracious Visionary
+DTSTART:20261120T230000Z
+DTEND:20261121T011500Z
+DTSTAMP:20261120T230000Z
+UID:dYEbnHBt3V
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nCinema Italian StylePresented by
+  Cinema Italian Style. A farmer's son transforms into a fashion mogul\, b
+ uilding a billion-dollar luxury empire while staying true to his humanisti
+ c values and commitment to ethical business practices and fine craftsmansh
+ ip.\n\nhttps://www.siff.net/programs-and-events/cinema-italian-style-2026/
+ brunello-the-gracious-visionary\n\nEstimated start: 15:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paper Tiger [35mm]
-DTSTART:20261118T030000Z
-DTEND:20261118T051000Z
-DTSTAMP:20261118T030000Z
-UID:fioy2XZ791
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences. This is the page for 35mm showtimes. For digital 
- showtimes\, visit this Paper Tiger page.\n\nhttps://www.siff.net/cinema/in
- -theaters/paper-tiger-(35mm)\n\nEstimated start: 19:15
+SUMMARY:Gioia
+DTSTART:20261121T013000Z
+DTEND:20261121T033500Z
+DTSTAMP:20261121T013000Z
+UID:VR49FCf4Qj
+DESCRIPTION:Duration: 108 mins (1h48m)\n\nCinema Italian StylePresented by
+  Cinema Italian Style. A high school teacher and a troubled student forge
+  a forbidden bond that becomes essential to them both.Following the screen
+ ing: Q&A with the film's director\, Nicolangelo Gelormini\, a guest of Cin
+ ema Italian Style.\n\nhttps://www.siff.net/programs-and-events/cinema-ital
+ ian-style-2026/gioia\n\nEstimated start: 17:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last One for the Road
+DTSTART:20261121T040000Z
+DTEND:20261121T055500Z
+DTSTAMP:20261121T040000Z
+UID:IKBagISjeL
+DESCRIPTION:Duration: 98 mins (1h38m)\n\nCinema Italian StylePresented by 
+ Cinema Italian Style. Two blustery 50-somethings have an obsession: going
+  for their last drink. One night\, they run into Giulio\, a shy architectu
+ re student\, whose way of seeing the world and love will be transformed as
+  the trio wander from bar to bar in Veneto.\n\nhttps://www.siff.net/progra
+ ms-and-events/cinema-italian-style-2026/the-last-one-for-the-road\n\nEstim
+ ated start: 20:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -135,76 +207,33 @@ DESCRIPTION:Duration: 113 mins (1h53m)\n\nCinema Italian StylePresented by
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261116T013000Z
-DTEND:20261116T044000Z
-DTSTAMP:20261116T013000Z
-UID:fOLPO91dWW
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 17:45
+SUMMARY:Paper Tiger [35mm]
+DTSTART:20261117T000000Z
+DTEND:20261117T021000Z
+DTSTAMP:20261117T000000Z
+UID:E4TAnpBWmg
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences. This is the page for 35mm showtimes. For digital 
+ showtimes\, visit this Paper Tiger page.\n\nhttps://www.siff.net/cinema/in
+ -theaters/paper-tiger-(35mm)\n\nEstimated start: 16:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Heart of the Game (2005)
-DTSTART:20261115T220000Z
-DTEND:20261115T235500Z
-DTSTAMP:20261115T220000Z
-UID:i0XKh7Aujf
-DESCRIPTION:Duration: 97 mins (1h37m)\n\nWhen a maverick college tax profe
- ssor takes over as coach and revitalizes Seattle’s struggling Roosevelt 
- High School girls’ basketball team\, he is challenged by its embattled s
- tar\, Darnellia\, and her legal battle to play the game that means everyth
- ing to her. 20th anniversary screening. Post-film Q&A with Director Ward S
- errill and Darnellia Russell.\n\nhttps://www.siff.net/cinema/in-theaters/t
- he-heart-of-the-game\n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brunello: The Gracious Visionary
-DTSTART:20261120T230000Z
-DTEND:20261121T011500Z
-DTSTAMP:20261120T230000Z
-UID:dYEbnHBt3V
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nCinema Italian StylePresented by
-  Cinema Italian Style. A farmer's son transforms into a fashion mogul\, b
- uilding a billion-dollar luxury empire while staying true to his humanisti
- c values and commitment to ethical business practices and fine craftsmansh
- ip.\n\nhttps://www.siff.net/programs-and-events/cinema-italian-style-2026/
- brunello-the-gracious-visionary\n\nEstimated start: 15:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gioia
-DTSTART:20261121T013000Z
-DTEND:20261121T033500Z
-DTSTAMP:20261121T013000Z
-UID:VR49FCf4Qj
-DESCRIPTION:Duration: 108 mins (1h48m)\n\nCinema Italian StylePresented by
-  Cinema Italian Style. A high school teacher and a troubled student forge
-  a forbidden bond that becomes essential to them both.Following the screen
- ing: Q&A with the film's director\, Nicolangelo Gelormini\, a guest of Cin
- ema Italian Style.\n\nhttps://www.siff.net/programs-and-events/cinema-ital
- ian-style-2026/gioia\n\nEstimated start: 17:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road
-DTSTART:20261121T040000Z
-DTEND:20261121T055500Z
-DTSTAMP:20261121T040000Z
-UID:IKBagISjeL
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nCinema Italian StylePresented by 
- Cinema Italian Style. Two blustery 50-somethings have an obsession: going
-  for their last drink. One night\, they run into Giulio\, a shy architectu
- re student\, whose way of seeing the world and love will be transformed as
-  the trio wander from bar to bar in Veneto.\n\nhttps://www.siff.net/progra
- ms-and-events/cinema-italian-style-2026/the-last-one-for-the-road\n\nEstim
- ated start: 20:15
+SUMMARY:Paper Tiger [35mm]
+DTSTART:20261117T030000Z
+DTEND:20261117T051000Z
+DTSTAMP:20261117T030000Z
+UID:HIAUlGF4m0
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences. This is the page for 35mm showtimes. For digital 
+ showtimes\, visit this Paper Tiger page.\n\nhttps://www.siff.net/cinema/in
+ -theaters/paper-tiger-(35mm)\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -253,90 +282,75 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nCinema Italian StylePresented by
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paper Tiger [35mm]
-DTSTART:20261117T000000Z
-DTEND:20261117T021000Z
-DTSTAMP:20261117T000000Z
-UID:E4TAnpBWmg
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences. This is the page for 35mm showtimes. For digital 
- showtimes\, visit this Paper Tiger page.\n\nhttps://www.siff.net/cinema/in
- -theaters/paper-tiger-(35mm)\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger [35mm]
-DTSTART:20261117T030000Z
-DTEND:20261117T051000Z
-DTSTAMP:20261117T030000Z
-UID:HIAUlGF4m0
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences. This is the page for 35mm showtimes. For digital 
- showtimes\, visit this Paper Tiger page.\n\nhttps://www.siff.net/cinema/in
- -theaters/paper-tiger-(35mm)\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:You Can See Everything
-DTSTART:20261114T234500Z
-DTEND:20261115T025500Z
-DTSTAMP:20261114T234500Z
-UID:fHuhUs5KNn
+DTSTART:20261116T013000Z
+DTEND:20261116T044000Z
+DTSTAMP:20261116T013000Z
+UID:fOLPO91dWW
 DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
  sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
   a skeptical film crew to document her every move. What begins as an intim
  ate portrait of an enigmatic felon becomes a mind-bending three-year journ
  ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
  e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 16:00
+ n-theaters/you-can-see-everything\n\nEstimated start: 17:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261114T204500Z
-DTEND:20261114T230000Z
-DTSTAMP:20261114T204500Z
-UID:wuCF0sggty
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 13:00
+SUMMARY:The Heart of the Game (2005)
+DTSTART:20261115T220000Z
+DTEND:20261115T235500Z
+DTSTAMP:20261115T220000Z
+UID:i0XKh7Aujf
+DESCRIPTION:Duration: 97 mins (1h37m)\n\nWhen a maverick college tax profe
+ ssor takes over as coach and revitalizes Seattle’s struggling Roosevelt 
+ High School girls’ basketball team\, he is challenged by its embattled s
+ tar\, Darnellia\, and her legal battle to play the game that means everyth
+ ing to her. 20th anniversary screening. Post-film Q&A with Director Ward S
+ errill and Darnellia Russell.\n\nhttps://www.siff.net/cinema/in-theaters/t
+ he-heart-of-the-game\n\nEstimated start: 14:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261115T034500Z
-DTEND:20261115T060000Z
-DTSTAMP:20261115T034500Z
-UID:ys6cT3EaxY
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 20:00
+SUMMARY:The Oldest Person in the World
+DTSTART:20261202T033000Z
+DTEND:20261202T051000Z
+DTSTAMP:20261202T033000Z
+UID:oi8v8qgZK8
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nA decade-long global journey chro
+ nicles the ever-changing record holders of the title of oldest person aliv
+ e. What begins as a portrait of longevity becomes a meditation on the pass
+ age of time\, the randomness of fate\, and the joy and profound human expe
+ rience of being alive. Virtual Q&A with Director Sam Green\n\nhttps://www
+ .siff.net/cinema/in-theaters/the-oldest-person-in-the-world\n\nEstimated s
+ tart: 19:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sweetheart
-DTSTART:20261119T020000Z
-DTEND:20261119T035000Z
-DTSTAMP:20261119T020000Z
-UID:4iMLMovXCB
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nCinema Italian Style 2026 Presen
- ted by Cinema Italian Style. A reluctant summer together transforms into 
- an enchanting adventure when a young boy discovers his aunt's mysterious S
- icilian household's secrets and\, perhaps\, ancient spirits lurking within
-  its walls.After the screening: Join us for the Opening Night Party at KEX
- P! Make sure to purchase the “Movie + Party” ticket to attend.\n\nhttp
- s://www.siff.net/programs-and-events/cinema-italian-style-2026/sweetheart
- \n\nEstimated start: 18:15
+SUMMARY:Beavis and Butt-Head Do America (1996)
+DTSTART:20261204T030000Z
+DTEND:20261204T044000Z
+DTSTAMP:20261204T030000Z
+UID:VtN4Vm440u
+DESCRIPTION:Duration: 81 mins (1h21m)\n\nWaking to discover their beloved 
+ television set has been stolen\, dimwitted delinquents Beavis and Butt-Hea
+ d leave their squalid dwellings to embark on a couch potato road trip in t
+ he hopes to finally score.\n\nhttps://www.siff.net/programs-and-events/the
+ -open-road/beavis-and-butt-head-do-america\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Damnation (1988)
+DTSTART:20261208T023000Z
+DTEND:20261208T044500Z
+DTSTAMP:20261208T023000Z
+UID:BD8AgxDk8B
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nSIFF Movie Club4K restoration. A
+  mid-career masterwork by legendary Hungarian art house auteur Béla Tarr 
+ and the first of his internationally acclaimed trilogy of films written in
+  collaboration with author László Krasznahorkai (including the legendary
+  Sátántangó).Intro by Cinema Worker Adam Plesser.\n\nhttps://www.siff.n
+ et/programs-and-events/siff-movie-club/damnation\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -361,19 +375,6 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nSIFF Book ClubIt's time to get c
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beavis and Butt-Head Do America (1996)
-DTSTART:20261204T030000Z
-DTEND:20261204T044000Z
-DTSTAMP:20261204T030000Z
-UID:VtN4Vm440u
-DESCRIPTION:Duration: 81 mins (1h21m)\n\nWaking to discover their beloved 
- television set has been stolen\, dimwitted delinquents Beavis and Butt-Hea
- d leave their squalid dwellings to embark on a couch potato road trip in t
- he hopes to finally score.\n\nhttps://www.siff.net/programs-and-events/the
- -open-road/beavis-and-butt-head-do-america\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mountains on Stage - Winter Edition 2026
 DTSTART:20261210T030000Z
 DTEND:20261210T063000Z
@@ -389,17 +390,46 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nMountains on Stage is an interna
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Damnation (1988)
-DTSTART:20261208T023000Z
-DTEND:20261208T044500Z
-DTSTAMP:20261208T023000Z
-UID:BD8AgxDk8B
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nSIFF Movie Club4K restoration. A
-  mid-career masterwork by legendary Hungarian art house auteur Béla Tarr 
- and the first of his internationally acclaimed trilogy of films written in
-  collaboration with author László Krasznahorkai (including the legendary
-  Sátántangó).Intro by Cinema Worker Adam Plesser.\n\nhttps://www.siff.n
- et/programs-and-events/siff-movie-club/damnation\n\nEstimated start: 18:45
+SUMMARY:Cameron Winter at Carnegie Hall
+DTSTART:20261217T020000Z
+DTEND:20261217T033000Z
+DTSTAMP:20261217T020000Z
+UID:vxeZFSWqMK
+DESCRIPTION:Duration: 72 mins (1h12m)\n\nCameron Winter\, in December 2025
+ \, after a months-long sold-out tour with his band Geese\, returned to New
+  York to play a single show at Carnegie Hall. This is the movie.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/cameron-winter-at-carnegie-hall\n\nEstim
+ ated start: 18:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cameron Winter at Carnegie Hall
+DTSTART:20261217T043000Z
+DTEND:20261217T060000Z
+DTSTAMP:20261217T043000Z
+UID:lQZpdhrFid
+DESCRIPTION:Duration: 72 mins (1h12m)\n\nCameron Winter\, in December 2025
+ \, after a months-long sold-out tour with his band Geese\, returned to New
+  York to play a single show at Carnegie Hall. This is the movie.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/cameron-winter-at-carnegie-hall\n\nEstim
+ ated start: 20:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Christmas Carol (1992)
+DTSTART:20261215T023000Z
+DTEND:20261215T041500Z
+DTSTAMP:20261215T023000Z
+UID:oqm7fyiXCt
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nSIFF Holiday Favorites Charles Di
+ ckens’ timeless tale of Ebenezer Scrooge (Michael Caine)\, his cold hear
+ t\, and how the Ghosts of Christmas Past\, Present\, and Future seek to sh
+ ow him the error of his ways comes to life through the magic of Jim Henson
+ ’s Muppets. Recently remastered\, including the original song "When Love
+  is Gone." Arrive 30 minutes early for an exciting Muppet pre-show special
+ ! All ages welcome ($5 tickets for children aged 2-12 years old\, free for
+  under 2).\n\nhttps://www.siff.net/programs-and-events/holiday-favorites/t
+ he-muppet-christmas-carol\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -438,49 +468,6 @@ DTSTART:20261216T043000Z
 DTEND:20261216T060000Z
 DTSTAMP:20261216T043000Z
 UID:Z8o6IyveFh
-DESCRIPTION:Duration: 72 mins (1h12m)\n\nCameron Winter\, in December 2025
- \, after a months-long sold-out tour with his band Geese\, returned to New
-  York to play a single show at Carnegie Hall. This is the movie.\n\nhttps:
- //www.siff.net/cinema/in-theaters/cameron-winter-at-carnegie-hall\n\nEstim
- ated start: 20:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Muppet Christmas Carol (1992)
-DTSTART:20261215T023000Z
-DTEND:20261215T041500Z
-DTSTAMP:20261215T023000Z
-UID:oqm7fyiXCt
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nSIFF Holiday Favorites Charles Di
- ckens’ timeless tale of Ebenezer Scrooge (Michael Caine)\, his cold hear
- t\, and how the Ghosts of Christmas Past\, Present\, and Future seek to sh
- ow him the error of his ways comes to life through the magic of Jim Henson
- ’s Muppets. Recently remastered\, including the original song "When Love
-  is Gone." Arrive 30 minutes early for an exciting Muppet pre-show special
- ! All ages welcome ($5 tickets for children aged 2-12 years old\, free for
-  under 2).\n\nhttps://www.siff.net/programs-and-events/holiday-favorites/t
- he-muppet-christmas-carol\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cameron Winter at Carnegie Hall
-DTSTART:20261217T020000Z
-DTEND:20261217T033000Z
-DTSTAMP:20261217T020000Z
-UID:vxeZFSWqMK
-DESCRIPTION:Duration: 72 mins (1h12m)\n\nCameron Winter\, in December 2025
- \, after a months-long sold-out tour with his band Geese\, returned to New
-  York to play a single show at Carnegie Hall. This is the movie.\n\nhttps:
- //www.siff.net/cinema/in-theaters/cameron-winter-at-carnegie-hall\n\nEstim
- ated start: 18:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cameron Winter at Carnegie Hall
-DTSTART:20261217T043000Z
-DTEND:20261217T060000Z
-DTSTAMP:20261217T043000Z
-UID:lQZpdhrFid
 DESCRIPTION:Duration: 72 mins (1h12m)\n\nCameron Winter\, in December 2025
  \, after a months-long sold-out tour with his band Geese\, returned to New
   York to play a single show at Carnegie Hall. This is the movie.\n\nhttps:
