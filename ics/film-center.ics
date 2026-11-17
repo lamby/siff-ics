@@ -3,98 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20261115T154327Z
-BEGIN:VEVENT
-SUMMARY:Beware! The Devil’s Wrath
-DTSTART:20261125T040000Z
-DTEND:20261125T055000Z
-DTSTAMP:20261125T040000Z
-UID:Cs3d3My3LQ
-DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
- eware! The Devil’s Wrath is an occult revenge horror film set in the fic
- tional Texas town of Blackwood Falls. When a young couple moves into the t
- ight-knit community\, a shocking act of violence triggers a wave of ritual
- istic killings that forces residents to confront the dark secrets beneath 
- their pious exterior.Written and directed by Craig Meinhart\, this low-bud
- get feature draws inspiration from 1970s classics like Race with the Devil
- \, Last House on the Left\, and Don’t Look Now\, blending atmospheric dr
- ead\, practical effects\, and a hard-edged sense of vengeance.This special
-  screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
- ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda
- \n\nEstimated start: 20:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Boys of the Road (1933)
-DTSTART:20261117T030000Z
-DTEND:20261117T042500Z
-DTSTAMP:20261117T030000Z
-UID:56gTumlIIe
-DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
- pression\, two teenagers decide to alleviate their parents’ financial bu
- rden by hitting the road and hopping freight trains in this hard edged\, p
- re-Code classic. This screening will be preceded by a surprise short film
- .\n\nhttps://www.siff.net/programs-and-events/the-open-road/wild-boys-of-t
- he-road\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Joyless Economy
-DTSTART:20261115T230000Z
-DTEND:20261116T001500Z
-DTSTAMP:20261115T230000Z
-UID:NVgvsIYAyY
-DESCRIPTION:Duration: 58 mins (0h58m)\n\nSeattle Film Critics Society PNW 
- Awards 2026A documentary that explores how a woman's movie collection trig
- gers her infidelity. Created for one viewer—the woman whose confessions 
- are revealed through hypnotic second-person narration. Director Marjorie C
- onrad and producer John Tuthill scheduled to attend\, with post-film Q&A m
- oderated by film critic Eric Zhu (The Insert\, Drink in the Movies).\n\nht
- tps://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-aw
- ards-2026/the-joyless-economy\n\nEstimated start: 15:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Life We Leave
-DTSTART:20261116T020000Z
-DTEND:20261116T034500Z
-DTSTAMP:20261116T020000Z
-UID:swMDkXI5Xt
-DESCRIPTION:Duration: 87 mins (1h27m)\n\nSeattle Film Critics Society PNW 
- Awards 2026An ambitious entrepreneur and two funeral directors pioneer a g
- roundbreaking eco-friendly deathcare facility in Washington state\, challe
- nging traditional burial practices and transforming end-of-life rituals. D
- irector JJ Gerber scheduled to attend\, with post-film Q&A moderated by f
- ilm critic Kathy Fennessy (Seattle Film Blog\, The Stranger).\n\nhttps://w
- ww.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-20
- 26/the-life-we-leave\n\nEstimated start: 18:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taste of Cherry (1997)
-DTSTART:20261124T030000Z
-DTEND:20261124T045500Z
-DTSTAMP:20261124T030000Z
-UID:TWL0fNdADq
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
- he hilly outskirts of Tehran\, seeking someone who will bury him after he 
- commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
- ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Route One/USA (1989)
-DTSTART:20261122T203000Z
-DTEND:20261123T010000Z
-DTSTAMP:20261122T203000Z
-UID:1nBEutAZS5
-DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
- oute 1 from Maine to Florida\, renegade filmmaker Robert Kramer and his fr
- iend Doc survey the state of ‘80s America in this monumental portrait of
-  everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
- road/route-one/usa\n\nEstimated start: 12:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
+LAST-MODIFIED:20261117T163918Z
 BEGIN:VEVENT
 SUMMARY:Her Song
 DTSTART:20261118T030000Z
@@ -119,6 +28,26 @@ DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
  re-Code classic. This screening will be preceded by a surprise short film
  .\n\nhttps://www.siff.net/programs-and-events/the-open-road/wild-boys-of-t
  he-road\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beware! The Devil’s Wrath
+DTSTART:20261125T040000Z
+DTEND:20261125T055000Z
+DTSTAMP:20261125T040000Z
+UID:Cs3d3My3LQ
+DESCRIPTION:Duration: 92 mins (1h32m)\n\nPresented by Alsatian Allied. B
+ eware! The Devil’s Wrath is an occult revenge horror film set in the fic
+ tional Texas town of Blackwood Falls. When a young couple moves into the t
+ ight-knit community\, a shocking act of violence triggers a wave of ritual
+ istic killings that forces residents to confront the dark secrets beneath 
+ their pious exterior.Written and directed by Craig Meinhart\, this low-bud
+ get feature draws inspiration from 1970s classics like Race with the Devil
+ \, Last House on the Left\, and Don’t Look Now\, blending atmospheric dr
+ ead\, practical effects\, and a hard-edged sense of vengeance.This special
+  screening will be followed by a Q&A with the filmmaker.\n\nhttps://www.si
+ ff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda
+ \n\nEstimated start: 20:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -147,84 +76,28 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261203T003000Z
-DTEND:20261203T022500Z
-DTSTAMP:20261203T003000Z
-UID:rtd3MAQuN5
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 16:45
+SUMMARY:Taste of Cherry (1997)
+DTSTART:20261124T030000Z
+DTEND:20261124T045500Z
+DTSTAMP:20261124T030000Z
+UID:TWL0fNdADq
+DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
+ he hilly outskirts of Tehran\, seeking someone who will bury him after he 
+ commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
+ ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Musical
-DTSTART:20261203T030000Z
-DTEND:20261203T044000Z
-DTSTAMP:20261203T030000Z
-UID:R1CbrvV5yO
-DESCRIPTION:Duration: 84 mins (1h24m)\n\nWhen a frustrated playwright/midd
- le school theater teacher finds out his ex-girlfriend has started dating h
- is nemesis\, the school’s principal\, he exacts revenge the only way he 
- knows how: by staging the most inappropriate play imaginable.Alumni of the
-  2019 edition of NFFTY\, filmmaker Giselle Bonilla will be in conversation
-  with NFFTY Program Manager Amy Williams following the film. Special youth
-  pricing (24 & younger) is available.\n\nhttps://www.siff.net/cinema/in-th
- eaters/the-musical-w/-director-qanda\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261201T010000Z
-DTEND:20261201T025500Z
-DTSTAMP:20261201T010000Z
-UID:307HkZ7PJ5
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261201T033000Z
-DTEND:20261201T052500Z
-DTSTAMP:20261201T033000Z
-UID:o6PlNV1RU9
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261128T010000Z
-DTEND:20261128T025500Z
-DTSTAMP:20261128T010000Z
-UID:RL8xakbaWY
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261128T033000Z
-DTEND:20261128T052500Z
-DTSTAMP:20261128T033000Z
-UID:ZYSLbu6ZD9
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+SUMMARY:Route One/USA (1989)
+DTSTART:20261122T203000Z
+DTEND:20261123T010000Z
+DTSTAMP:20261122T203000Z
+UID:1nBEutAZS5
+DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
+ oute 1 from Maine to Florida\, renegade filmmaker Robert Kramer and his fr
+ iend Doc survey the state of ‘80s America in this monumental portrait of
+  everyday Americans.\n\nhttps://www.siff.net/programs-and-events/the-open-
+ road/route-one/usa\n\nEstimated start: 12:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -311,10 +184,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261204T010000Z
-DTEND:20261204T025500Z
-DTSTAMP:20261204T010000Z
-UID:xAkUMrR4pN
+DTSTART:20261128T010000Z
+DTEND:20261128T025500Z
+DTSTAMP:20261128T010000Z
+UID:RL8xakbaWY
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
@@ -324,10 +197,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261204T033000Z
-DTEND:20261204T052500Z
-DTSTAMP:20261204T033000Z
-UID:9BawOES7mC
+DTSTART:20261128T033000Z
+DTEND:20261128T052500Z
+DTSTAMP:20261128T033000Z
+UID:ZYSLbu6ZD9
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
@@ -354,6 +227,87 @@ DTSTART:20261202T033000Z
 DTEND:20261202T052500Z
 DTSTAMP:20261202T033000Z
 UID:pZQPObL0b6
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261203T003000Z
+DTEND:20261203T022500Z
+DTSTAMP:20261203T003000Z
+UID:rtd3MAQuN5
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Musical
+DTSTART:20261203T030000Z
+DTEND:20261203T044000Z
+DTSTAMP:20261203T030000Z
+UID:R1CbrvV5yO
+DESCRIPTION:Duration: 84 mins (1h24m)\n\nWhen a frustrated playwright/midd
+ le school theater teacher finds out his ex-girlfriend has started dating h
+ is nemesis\, the school’s principal\, he exacts revenge the only way he 
+ knows how: by staging the most inappropriate play imaginable.Alumni of the
+  2019 edition of NFFTY\, filmmaker Giselle Bonilla will be in conversation
+  with NFFTY Program Manager Amy Williams following the film. Special youth
+  pricing (24 & younger) is available.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-musical-w/-director-qanda\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261204T010000Z
+DTEND:20261204T025500Z
+DTSTAMP:20261204T010000Z
+UID:xAkUMrR4pN
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261204T033000Z
+DTEND:20261204T052500Z
+DTSTAMP:20261204T033000Z
+UID:9BawOES7mC
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261201T010000Z
+DTEND:20261201T025500Z
+DTSTAMP:20261201T010000Z
+UID:307HkZ7PJ5
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261201T033000Z
+DTEND:20261201T052500Z
+DTSTAMP:20261201T033000Z
+UID:o6PlNV1RU9
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a

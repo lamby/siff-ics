@@ -3,7 +3,109 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Downtown)
 X-WR-CALNAME:🎬 SIFF (Downtown)
-LAST-MODIFIED:20261115T154327Z
+LAST-MODIFIED:20261117T163918Z
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261126T210000Z
+DTEND:20261126T231000Z
+DTSTAMP:20261126T210000Z
+UID:eeIO2RU1ck
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261127T000000Z
+DTEND:20261127T021000Z
+DTSTAMP:20261127T000000Z
+UID:O46ym0i1cg
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261127T030000Z
+DTEND:20261127T051000Z
+DTSTAMP:20261127T030000Z
+UID:MiXmyiC1a1
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART:20261118T000000Z
+DTEND:20261118T023000Z
+DTSTAMP:20261118T000000Z
+UID:DH7HRXpFBY
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
+ Godzilla plunged it into minus. Two years have passed since then\, and the
+  country has faced agonizing struggles to achieve recovery and finally rec
+ laim its daily life. Just as humanity managed to cling to a hard-won peace
+ \, a new threat strikes\, crushing hope in an instant.There is no third t
+ ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
+ illa-minus-zero\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART:20261118T033000Z
+DTEND:20261118T060000Z
+DTSTAMP:20261118T033000Z
+UID:76XjBFoJvC
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
+ Godzilla plunged it into minus. Two years have passed since then\, and the
+  country has faced agonizing struggles to achieve recovery and finally rec
+ laim its daily life. Just as humanity managed to cling to a hard-won peace
+ \, a new threat strikes\, crushing hope in an instant.There is no third t
+ ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
+ illa-minus-zero\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART:20261120T000000Z
+DTEND:20261120T023000Z
+DTSTAMP:20261120T000000Z
+UID:VBuONlIR3y
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
+ Godzilla plunged it into minus. Two years have passed since then\, and the
+  country has faced agonizing struggles to achieve recovery and finally rec
+ laim its daily life. Just as humanity managed to cling to a hard-won peace
+ \, a new threat strikes\, crushing hope in an instant.There is no third t
+ ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
+ illa-minus-zero\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART:20261120T033000Z
+DTEND:20261120T060000Z
+DTSTAMP:20261120T033000Z
+UID:hRvOU1Sim6
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
+ Godzilla plunged it into minus. Two years have passed since then\, and the
+  country has faced agonizing struggles to achieve recovery and finally rec
+ laim its daily life. Just as humanity managed to cling to a hard-won peace
+ \, a new threat strikes\, crushing hope in an instant.There is no third t
+ ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
+ illa-minus-zero\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
 DTSTART:20261125T000000Z
@@ -25,66 +127,6 @@ DTSTART:20261125T033000Z
 DTEND:20261125T060000Z
 DTSTAMP:20261125T033000Z
 UID:4WnQs5qe1w
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261119T000000Z
-DTEND:20261119T023000Z
-DTSTAMP:20261119T000000Z
-UID:Xy8seB73Oq
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261119T033000Z
-DTEND:20261119T060000Z
-DTSTAMP:20261119T033000Z
-UID:TeAkCdRrXk
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261117T000000Z
-DTEND:20261117T023000Z
-DTSTAMP:20261117T000000Z
-UID:7Gq8IoEu5a
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261117T033000Z
-DTEND:20261117T060000Z
-DTSTAMP:20261117T033000Z
-UID:IfwBRKer0S
 DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
  Godzilla plunged it into minus. Two years have passed since then\, and the
   country has faced agonizing struggles to achieve recovery and finally rec
@@ -125,46 +167,76 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Auntie Mame (1958)
-DTSTART:20261115T190000Z
-DTEND:20261115T214000Z
-DTSTAMP:20261115T190000Z
-UID:HDtjeZXJwb
-DESCRIPTION:Duration: 145 mins (2h25m)\n\nCommunity ScreeningsRosalind Rus
- sell dazzles in a tour-de-force performance as the larger-than-life Mame D
- ennis\, who unexpectedly gains custody of her young nephew.\n\nhttps://www
- .siff.net/programs-and-events/community-screenings/auntie-mame\n\nEstimate
- d start: 11:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
-DTSTART:20261115T223000Z
-DTEND:20261116T010000Z
-DTSTAMP:20261115T223000Z
-UID:RVorTu3C4y
+DTSTART:20261121T203000Z
+DTEND:20261121T230000Z
+DTSTAMP:20261121T203000Z
+UID:oPXDkOMa2s
 DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
  Godzilla plunged it into minus. Two years have passed since then\, and the
   country has faced agonizing struggles to achieve recovery and finally rec
  laim its daily life. Just as humanity managed to cling to a hard-won peace
  \, a new threat strikes\, crushing hope in an instant.There is no third t
  ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 14:45
+ illa-minus-zero\n\nEstimated start: 12:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
-DTSTART:20261116T020000Z
-DTEND:20261116T043000Z
-DTSTAMP:20261116T020000Z
-UID:mAkHxauVuJ
+DTSTART:20261122T000000Z
+DTEND:20261122T023000Z
+DTSTAMP:20261122T000000Z
+UID:UKTGpnTgtP
 DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
  Godzilla plunged it into minus. Two years have passed since then\, and the
   country has faced agonizing struggles to achieve recovery and finally rec
  laim its daily life. Just as humanity managed to cling to a hard-won peace
  \, a new threat strikes\, crushing hope in an instant.There is no third t
  ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 18:15
+ illa-minus-zero\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART:20261122T033000Z
+DTEND:20261122T060000Z
+DTSTAMP:20261122T033000Z
+UID:gb49hik64P
+DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
+ Godzilla plunged it into minus. Two years have passed since then\, and the
+  country has faced agonizing struggles to achieve recovery and finally rec
+ laim its daily life. Just as humanity managed to cling to a hard-won peace
+ \, a new threat strikes\, crushing hope in an instant.There is no third t
+ ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
+ illa-minus-zero\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261126T000000Z
+DTEND:20261126T021000Z
+DTSTAMP:20261126T000000Z
+UID:QWWKffCOUv
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261126T030000Z
+DTEND:20261126T051000Z
+DTSTAMP:20261126T030000Z
+UID:ZCJuB5VSfr
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -244,10 +316,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
-DTSTART:20261118T000000Z
-DTEND:20261118T023000Z
-DTSTAMP:20261118T000000Z
-UID:DH7HRXpFBY
+DTSTART:20261119T000000Z
+DTEND:20261119T023000Z
+DTSTAMP:20261119T000000Z
+UID:Xy8seB73Oq
 DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
  Godzilla plunged it into minus. Two years have passed since then\, and the
   country has faced agonizing struggles to achieve recovery and finally rec
@@ -259,10 +331,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
-DTSTART:20261118T033000Z
-DTEND:20261118T060000Z
-DTSTAMP:20261118T033000Z
-UID:76XjBFoJvC
+DTSTART:20261119T033000Z
+DTEND:20261119T060000Z
+DTSTAMP:20261119T033000Z
+UID:TeAkCdRrXk
 DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
  Godzilla plunged it into minus. Two years have passed since then\, and the
   country has faced agonizing struggles to achieve recovery and finally rec
@@ -270,277 +342,6 @@ DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and
  \, a new threat strikes\, crushing hope in an instant.There is no third t
  ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
  illa-minus-zero\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261120T000000Z
-DTEND:20261120T023000Z
-DTSTAMP:20261120T000000Z
-UID:VBuONlIR3y
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261120T033000Z
-DTEND:20261120T060000Z
-DTSTAMP:20261120T033000Z
-UID:hRvOU1Sim6
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261121T203000Z
-DTEND:20261121T230000Z
-DTSTAMP:20261121T203000Z
-UID:oPXDkOMa2s
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 12:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261122T000000Z
-DTEND:20261122T023000Z
-DTSTAMP:20261122T000000Z
-UID:UKTGpnTgtP
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART:20261122T033000Z
-DTEND:20261122T060000Z
-DTSTAMP:20261122T033000Z
-UID:gb49hik64P
-DESCRIPTION:Duration: 135 mins (2h15m)\n\nWar reduced Japan to zero\, and 
- Godzilla plunged it into minus. Two years have passed since then\, and the
-  country has faced agonizing struggles to achieve recovery and finally rec
- laim its daily life. Just as humanity managed to cling to a hard-won peace
- \, a new threat strikes\, crushing hope in an instant.There is no third t
- ime. Everything ends here.\n\nhttps://www.siff.net/cinema/in-theaters/godz
- illa-minus-zero\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261126T210000Z
-DTEND:20261126T231000Z
-DTSTAMP:20261126T210000Z
-UID:eeIO2RU1ck
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261127T000000Z
-DTEND:20261127T021000Z
-DTSTAMP:20261127T000000Z
-UID:O46ym0i1cg
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261127T030000Z
-DTEND:20261127T051000Z
-DTSTAMP:20261127T030000Z
-UID:MiXmyiC1a1
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261126T000000Z
-DTEND:20261126T021000Z
-DTSTAMP:20261126T000000Z
-UID:QWWKffCOUv
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261126T030000Z
-DTEND:20261126T051000Z
-DTSTAMP:20261126T030000Z
-UID:ZCJuB5VSfr
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261203T000000Z
-DTEND:20261203T021000Z
-DTSTAMP:20261203T000000Z
-UID:gxniGD9PWb
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261203T030000Z
-DTEND:20261203T051000Z
-DTSTAMP:20261203T030000Z
-UID:NrP72Zts8C
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261201T000000Z
-DTEND:20261201T021000Z
-DTSTAMP:20261201T000000Z
-UID:qT2bn4bPj8
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261201T030000Z
-DTEND:20261201T051000Z
-DTSTAMP:20261201T030000Z
-UID:jcqE80MdFq
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261127T210000Z
-DTEND:20261127T231000Z
-DTSTAMP:20261127T210000Z
-UID:1xEtXAngaQ
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261128T000000Z
-DTEND:20261128T021000Z
-DTSTAMP:20261128T000000Z
-UID:a0WqQ7RRDc
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261128T030000Z
-DTEND:20261128T051000Z
-DTSTAMP:20261128T030000Z
-UID:m20iCHqGcf
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261205T000000Z
-DTEND:20261205T021000Z
-DTSTAMP:20261205T000000Z
-UID:cFt3PTyCmY
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261205T030000Z
-DTEND:20261205T051000Z
-DTSTAMP:20261205T030000Z
-UID:Ca5077NcSf
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -629,16 +430,44 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261203T233000Z
-DTEND:20261204T014000Z
-DTSTAMP:20261203T233000Z
-UID:buifWYOqWP
+DTSTART:20261127T210000Z
+DTEND:20261127T231000Z
+DTSTAMP:20261127T210000Z
+UID:1xEtXAngaQ
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
   honesty\, wit\, and grace\, Charleson delivers a courageous performance t
  hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 15:45
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261128T000000Z
+DTEND:20261128T021000Z
+DTSTAMP:20261128T000000Z
+UID:a0WqQ7RRDc
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261128T030000Z
+DTEND:20261128T051000Z
+DTSTAMP:20261128T030000Z
+UID:m20iCHqGcf
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -671,24 +500,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261205T210000Z
-DTEND:20261205T231000Z
-DTSTAMP:20261205T210000Z
-UID:EQNA4BpHs8
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261206T000000Z
-DTEND:20261206T021000Z
-DTSTAMP:20261206T000000Z
-UID:vvdHrTY2Fy
+DTSTART:20261203T000000Z
+DTEND:20261203T021000Z
+DTSTAMP:20261203T000000Z
+UID:gxniGD9PWb
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -699,10 +514,38 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261206T030000Z
-DTEND:20261206T051000Z
-DTSTAMP:20261206T030000Z
-UID:Q5hmOf6BFd
+DTSTART:20261203T030000Z
+DTEND:20261203T051000Z
+DTSTAMP:20261203T030000Z
+UID:NrP72Zts8C
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261205T000000Z
+DTEND:20261205T021000Z
+DTSTAMP:20261205T000000Z
+UID:cFt3PTyCmY
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261205T030000Z
+DTEND:20261205T051000Z
+DTSTAMP:20261205T030000Z
+UID:Ca5077NcSf
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -755,10 +598,38 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261210T000000Z
-DTEND:20261210T021000Z
-DTSTAMP:20261210T000000Z
-UID:QXhOce48rA
+DTSTART:20261203T233000Z
+DTEND:20261204T014000Z
+DTSTAMP:20261203T233000Z
+UID:buifWYOqWP
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261205T210000Z
+DTEND:20261205T231000Z
+DTSTAMP:20261205T210000Z
+UID:EQNA4BpHs8
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261206T000000Z
+DTEND:20261206T021000Z
+DTSTAMP:20261206T000000Z
+UID:vvdHrTY2Fy
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -769,10 +640,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261210T030000Z
-DTEND:20261210T051000Z
-DTSTAMP:20261210T030000Z
-UID:rkoOI82CDf
+DTSTART:20261206T030000Z
+DTEND:20261206T051000Z
+DTSTAMP:20261206T030000Z
+UID:Q5hmOf6BFd
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -783,10 +654,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261208T000000Z
-DTEND:20261208T021000Z
-DTSTAMP:20261208T000000Z
-UID:wDMuDJmjK4
+DTSTART:20261201T000000Z
+DTEND:20261201T021000Z
+DTSTAMP:20261201T000000Z
+UID:qT2bn4bPj8
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -797,10 +668,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261208T030000Z
-DTEND:20261208T051000Z
-DTSTAMP:20261208T030000Z
-UID:ggQyOSr0jI
+DTSTART:20261201T030000Z
+DTEND:20261201T051000Z
+DTSTAMP:20261201T030000Z
+UID:jcqE80MdFq
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -866,6 +737,34 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261208T000000Z
+DTEND:20261208T021000Z
+DTSTAMP:20261208T000000Z
+UID:wDMuDJmjK4
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261208T030000Z
+DTEND:20261208T051000Z
+DTSTAMP:20261208T030000Z
+UID:ggQyOSr0jI
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Singin’ In the Rain (1952)
 DTSTART:20261213T190000Z
 DTEND:20261213T210000Z
@@ -877,6 +776,68 @@ DESCRIPTION:Duration: 103 mins (1h43m)\n\nCommunity Screenings  Holiday F
   of movie musicals\, starring Gene Kelly\, Debbie Reynolds\, and Donald O
  ’Connor.\n\nhttps://www.siff.net/programs-and-events/community-screening
  s/singin-in-the-rain-cs\n\nEstimated start: 11:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261210T000000Z
+DTEND:20261210T021000Z
+DTSTAMP:20261210T000000Z
+UID:QXhOce48rA
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261210T030000Z
+DTEND:20261210T051000Z
+DTSTAMP:20261210T030000Z
+UID:rkoOI82CDf
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261218T234500Z
+DTEND:20261219T023000Z
+DTSTAMP:20261218T234500Z
+UID:JAWFYulOB5
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261219T033000Z
+DTEND:20261219T061500Z
+DTSTAMP:20261219T033000Z
+UID:CFhaIR74kQ
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -928,40 +889,6 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  heart of its unfolding mystery. As enemies close in\, Paul must confront t
  he true cost of power and the fate of those he loves the most.\n\nhttps://
  www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261218T234500Z
-DTEND:20261219T023000Z
-DTSTAMP:20261218T234500Z
-UID:JAWFYulOB5
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261219T033000Z
-DTEND:20261219T061500Z
-DTSTAMP:20261219T033000Z
-UID:CFhaIR74kQ
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -1051,6 +978,40 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
+DTSTART:20261221T234500Z
+DTEND:20261222T023000Z
+DTSTAMP:20261221T234500Z
+UID:ue1Wx5FF6a
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261222T033000Z
+DTEND:20261222T061500Z
+DTSTAMP:20261222T033000Z
+UID:jOSoEoNxu5
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
 DTSTART:20261222T234500Z
 DTEND:20261223T023000Z
 DTSTAMP:20261222T234500Z
@@ -1085,27 +1046,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261226T200000Z
-DTEND:20261226T224500Z
-DTSTAMP:20261226T200000Z
-UID:gG1pj82NPg
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261226T234500Z
-DTEND:20261227T023000Z
-DTSTAMP:20261226T234500Z
-UID:UE7ouLdDQI
+DTSTART:20261223T234500Z
+DTEND:20261224T023000Z
+DTSTAMP:20261223T234500Z
+UID:JDAuFwFM97
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -1119,10 +1063,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261227T033000Z
-DTEND:20261227T061500Z
-DTSTAMP:20261227T033000Z
-UID:ChYEdX5N5i
+DTSTART:20261224T033000Z
+DTEND:20261224T061500Z
+DTSTAMP:20261224T033000Z
+UID:YZMS6i2Bwx
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -1170,10 +1114,27 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261221T234500Z
-DTEND:20261222T023000Z
-DTSTAMP:20261221T234500Z
-UID:ue1Wx5FF6a
+DTSTART:20261226T200000Z
+DTEND:20261226T224500Z
+DTSTAMP:20261226T200000Z
+UID:gG1pj82NPg
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 12:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261226T234500Z
+DTEND:20261227T023000Z
+DTSTAMP:20261226T234500Z
+UID:UE7ouLdDQI
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -1187,10 +1148,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261222T033000Z
-DTEND:20261222T061500Z
-DTSTAMP:20261222T033000Z
-UID:jOSoEoNxu5
+DTSTART:20261227T033000Z
+DTEND:20261227T061500Z
+DTSTAMP:20261227T033000Z
+UID:ChYEdX5N5i
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -1306,40 +1267,6 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261223T234500Z
-DTEND:20261224T023000Z
-DTSTAMP:20261223T234500Z
-UID:JDAuFwFM97
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261224T033000Z
-DTEND:20261224T061500Z
-DTSTAMP:20261224T033000Z
-UID:YZMS6i2Bwx
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
 DTSTART:20261228T234500Z
 DTEND:20261229T023000Z
 DTSTAMP:20261228T234500Z
@@ -1374,40 +1301,6 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261229T234500Z
-DTEND:20261230T023000Z
-DTSTAMP:20261229T234500Z
-UID:XSnyqxrBpy
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261230T033000Z
-DTEND:20261230T061500Z
-DTSTAMP:20261230T033000Z
-UID:r3nSdQabPU
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
 DTSTART:20261230T234500Z
 DTEND:20261231T023000Z
 DTSTAMP:20261230T234500Z
@@ -1429,6 +1322,40 @@ DTSTART:20261231T033000Z
 DTEND:20261231T061500Z
 DTSTAMP:20261231T033000Z
 UID:VqT2j4wwpp
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261229T234500Z
+DTEND:20261230T023000Z
+DTSTAMP:20261229T234500Z
+UID:XSnyqxrBpy
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261230T033000Z
+DTEND:20261230T061500Z
+DTSTAMP:20261230T033000Z
+UID:r3nSdQabPU
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
