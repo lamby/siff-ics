@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20261119T161904Z
+LAST-MODIFIED:20261120T151635Z
 BEGIN:VEVENT
 SUMMARY:Raise the Red Lantern (1991)
 DTSTART:20261122T212000Z
@@ -50,6 +50,58 @@ DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
  ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
  year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
  ers/club-kid\n\nEstimated start: 19:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261124T030000Z
+DTEND:20261124T061000Z
+DTSTAMP:20261124T030000Z
+UID:Gog8b4a4S0
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
+DTSTART:20261124T000000Z
+DTEND:20261124T021500Z
+DTSTAMP:20261124T000000Z
+UID:bsi1rgK7a1
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261126T003000Z
+DTEND:20261126T025000Z
+DTSTAMP:20261126T003000Z
+UID:dkC2OULCt3
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261126T033000Z
+DTEND:20261126T055000Z
+DTSTAMP:20261126T033000Z
+UID:f8q9ahBxRp
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -101,59 +153,31 @@ DESCRIPTION:Duration: 112 mins (1h52m)\n\nNineteen-year-old Songlian\, a p
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
+DTSTART:20261124T234500Z
+DTEND:20261125T020000Z
+DTSTAMP:20261124T234500Z
+UID:HtjZh5Zppo
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:You Can See Everything
-DTSTART:20261124T030000Z
-DTEND:20261124T061000Z
-DTSTAMP:20261124T030000Z
-UID:Gog8b4a4S0
+DTSTART:20261125T024500Z
+DTEND:20261125T055500Z
+DTSTAMP:20261125T024500Z
+UID:GBnUWXoqX9
 DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
  sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
   a skeptical film crew to document her every move. What begins as an intim
  ate portrait of an enigmatic felon becomes a mind-bending three-year journ
  ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
  e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261124T000000Z
-DTEND:20261124T021500Z
-DTSTAMP:20261124T000000Z
-UID:bsi1rgK7a1
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261119T234500Z
-DTEND:20261120T025500Z
-DTSTAMP:20261119T234500Z
-UID:6oTMJRR0AC
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261120T034500Z
-DTEND:20261120T060000Z
-DTSTAMP:20261120T034500Z
-UID:H7mBiUvgkH
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 20:00
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -196,30 +220,6 @@ DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART:20261126T003000Z
-DTEND:20261126T025000Z
-DTSTAMP:20261126T003000Z
-UID:dkC2OULCt3
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
- ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
- year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
- ers/club-kid\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART:20261126T033000Z
-DTEND:20261126T055000Z
-DTSTAMP:20261126T033000Z
-UID:f8q9ahBxRp
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
- ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
- year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
- ers/club-kid\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wild Horse Nine
 DTSTART:20261120T213000Z
 DTEND:20261120T234500Z
@@ -254,34 +254,6 @@ DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
  ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
  year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
  ers/club-kid\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261124T234500Z
-DTEND:20261125T020000Z
-DTSTAMP:20261124T234500Z
-UID:HtjZh5Zppo
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261125T024500Z
-DTEND:20261125T055500Z
-DTSTAMP:20261125T024500Z
-UID:GBnUWXoqX9
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT

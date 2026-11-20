@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20261119T161904Z
+LAST-MODIFIED:20261120T151635Z
 BEGIN:VEVENT
 SUMMARY:Route One/USA (1989)
 DTSTART:20261122T203000Z
@@ -18,42 +18,46 @@ DESCRIPTION:Duration: 254 mins (4h14m)\n\nTraveling down the entirety of R
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Disorder (2009)
-DTSTART:20261122T030000Z
-DTEND:20261122T041500Z
-DTSTAMP:20261122T030000Z
-UID:tlVkv698jN
-DESCRIPTION:Duration: 58 mins (0h58m)\n\nPresented by Mount Analogue · A
- rt + Cinema. Huang Weikai’s groundbreaking documentary collects footage
-  from a dozen amateur videographers and weaves them into a unique symphony
-  of urban social dysfunction in China.\n\nhttps://www.siff.net/cinema/in-t
- heaters/disorder-(现实是过去的未来)\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261128T010000Z
-DTEND:20261128T025500Z
-DTSTAMP:20261128T010000Z
-UID:RL8xakbaWY
+DTSTART:20261129T204500Z
+DTEND:20261129T224000Z
+DTSTAMP:20261129T204500Z
+UID:wQuWk49vSe
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
   goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 13:00
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261128T033000Z
-DTEND:20261128T052500Z
-DTSTAMP:20261128T033000Z
-UID:ZYSLbu6ZD9
+DTSTART:20261130T020000Z
+DTEND:20261130T035500Z
+DTSTAMP:20261130T020000Z
+UID:CZHSG3cmmu
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
   goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 18:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Backcourt Documentary - Basketball's Best Kept Secret
+DTSTART:20261129T233000Z
+DTEND:20261130T014500Z
+DTSTAMP:20261129T233000Z
+UID:MEYokLjcnK
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Teach One Publishi
+ ng (Marquez Price and Obsidian Lens Media) and Damian Becerra (film produc
+ er). Based on the Amazon bestseller "The Backcourt\," this documentary e
+ xplores Tucson basketball legends Delano Price and Hoegie Simmons\, Southw
+ est playground folklore\, while examining the Great Migration\, crack epid
+ emic\, gang culture\, media propaganda\, prison-industrial complex\, broth
+ erhood\, basketball\, triumph\, and adversity.\n\nhttps://www.siff.net/cin
+ ema/in-theaters/the-backcourt-documentary-basketballs-best-kept-secret\n\n
+ Estimated start: 15:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -66,20 +70,6 @@ DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
  he hilly outskirts of Tehran\, seeking someone who will bury him after he 
  commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
  ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Boys of the Road (1933)
-DTSTART:20261120T030000Z
-DTEND:20261120T042500Z
-DTSTAMP:20261120T030000Z
-UID:kHvZDYo213
-DESCRIPTION:Duration: 67 mins (1h07m)\n\nDuring the height of the Great De
- pression\, two teenagers decide to alleviate their parents’ financial bu
- rden by hitting the road and hopping freight trains in this hard edged\, p
- re-Code classic. This screening will be preceded by a surprise short film
- .\n\nhttps://www.siff.net/programs-and-events/the-open-road/wild-boys-of-t
- he-road\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -134,6 +124,45 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261128T010000Z
+DTEND:20261128T025500Z
+DTSTAMP:20261128T010000Z
+UID:RL8xakbaWY
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261128T033000Z
+DTEND:20261128T052500Z
+DTSTAMP:20261128T033000Z
+UID:ZYSLbu6ZD9
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disorder (2009)
+DTSTART:20261122T030000Z
+DTEND:20261122T041500Z
+DTSTAMP:20261122T030000Z
+UID:tlVkv698jN
+DESCRIPTION:Duration: 58 mins (0h58m)\n\nPresented by Mount Analogue · A
+ rt + Cinema. Huang Weikai’s groundbreaking documentary collects footage
+  from a dozen amateur videographers and weaves them into a unique symphony
+  of urban social dysfunction in China.\n\nhttps://www.siff.net/cinema/in-t
+ heaters/disorder-(现实是过去的未来)\n\nEstimated start: 19:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beware! The Devil’s Wrath
 DTSTART:20261125T040000Z
 DTEND:20261125T055000Z
@@ -155,45 +184,54 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261129T204500Z
-DTEND:20261129T224000Z
-DTSTAMP:20261129T204500Z
-UID:wQuWk49vSe
+DTSTART:20261202T010000Z
+DTEND:20261202T025500Z
+DTSTAMP:20261202T010000Z
+UID:NexaRW9a1A
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
   goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 13:00
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261130T020000Z
-DTEND:20261130T035500Z
-DTSTAMP:20261130T020000Z
-UID:CZHSG3cmmu
+DTSTART:20261202T033000Z
+DTEND:20261202T052500Z
+DTSTAMP:20261202T033000Z
+UID:pZQPObL0b6
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
   goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 18:15
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Backcourt Documentary - Basketball's Best Kept Secret
-DTSTART:20261129T233000Z
-DTEND:20261130T014500Z
-DTSTAMP:20261129T233000Z
-UID:MEYokLjcnK
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nPresented by Teach One Publishi
- ng (Marquez Price and Obsidian Lens Media) and Damian Becerra (film produc
- er). Based on the Amazon bestseller "The Backcourt\," this documentary e
- xplores Tucson basketball legends Delano Price and Hoegie Simmons\, Southw
- est playground folklore\, while examining the Great Migration\, crack epid
- emic\, gang culture\, media propaganda\, prison-industrial complex\, broth
- erhood\, basketball\, triumph\, and adversity.\n\nhttps://www.siff.net/cin
- ema/in-theaters/the-backcourt-documentary-basketballs-best-kept-secret\n\n
- Estimated start: 15:45
+SUMMARY:Hen
+DTSTART:20261201T010000Z
+DTEND:20261201T025500Z
+DTSTAMP:20261201T010000Z
+UID:307HkZ7PJ5
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261201T033000Z
+DTEND:20261201T052500Z
+DTSTAMP:20261201T033000Z
+UID:o6PlNV1RU9
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -227,32 +265,6 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261201T010000Z
-DTEND:20261201T025500Z
-DTSTAMP:20261201T010000Z
-UID:307HkZ7PJ5
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261201T033000Z
-DTEND:20261201T052500Z
-DTSTAMP:20261201T033000Z
-UID:o6PlNV1RU9
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
 DTSTART:20261204T010000Z
 DTEND:20261204T025500Z
 DTSTAMP:20261204T010000Z
@@ -278,29 +290,18 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261202T010000Z
-DTEND:20261202T025500Z
-DTSTAMP:20261202T010000Z
-UID:NexaRW9a1A
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261202T033000Z
-DTEND:20261202T052500Z
-DTSTAMP:20261202T033000Z
-UID:pZQPObL0b6
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+SUMMARY:Jawbreaker: A Film About Anti Cimex
+DTSTART:20261214T031500Z
+DTEND:20261214T055500Z
+DTSTAMP:20261214T031500Z
+UID:Zuls6bhO6r
+DESCRIPTION:Duration: 145 mins (2h25m)\n\nPresented by Exploited Partisan
+ s. Jawbreaker depicts Anti Cimex – the band that shaped Scandinavian ha
+ rdcore punk and became one of Sweden's most influential musical exports.T
+ hrough archive material\, international perspectives\, and a dreamy\, hum
+ orous tone\, directors Tomas Haglund and Oskar Sjödin paint a portrait o
+ f a musical legacy that still packs a punch.\n\nhttps://www.siff.net/cinem
+ a/in-theaters/jawbreaker-a-film-about-anti-cimex\n\nEstimated start: 19:30
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR
