@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20261123T160243Z
+LAST-MODIFIED:20261124T160345Z
 BEGIN:VEVENT
 SUMMARY:Wild Horse Nine
 DTSTART:20261124T234500Z
@@ -30,6 +30,30 @@ DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s
  ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
  e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
  n-theaters/you-can-see-everything\n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261126T003000Z
+DTEND:20261126T025000Z
+DTSTAMP:20261126T003000Z
+UID:dkC2OULCt3
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261126T033000Z
+DTEND:20261126T055000Z
+DTSTAMP:20261126T033000Z
+UID:f8q9ahBxRp
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -72,55 +96,382 @@ DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART:20261126T003000Z
-DTEND:20261126T025000Z
-DTSTAMP:20261126T003000Z
-UID:dkC2OULCt3
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
- ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
- year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
- ers/club-kid\n\nEstimated start: 16:45
+SUMMARY:All of a Sudden
+DTSTART:20261220T233000Z
+DTEND:20261221T030000Z
+DTSTAMP:20261220T233000Z
+UID:siPgkNO8W2
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART:20261126T033000Z
-DTEND:20261126T055000Z
-DTSTAMP:20261126T033000Z
-UID:f8q9ahBxRp
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
- ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
- year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
- ers/club-kid\n\nEstimated start: 19:45
+SUMMARY:All of a Sudden
+DTSTART:20261219T233000Z
+DTEND:20261220T030000Z
+DTSTAMP:20261219T233000Z
+UID:PF9Rm5wvPk
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261124T030000Z
-DTEND:20261124T061000Z
-DTSTAMP:20261124T030000Z
-UID:Gog8b4a4S0
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:15
+SUMMARY:All of a Sudden
+DTSTART:20261218T233000Z
+DTEND:20261219T030000Z
+DTSTAMP:20261218T233000Z
+UID:FfPGh3HZxP
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261124T000000Z
-DTEND:20261124T021500Z
-DTSTAMP:20261124T000000Z
-UID:bsi1rgK7a1
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 16:15
+SUMMARY:All of a Sudden
+DTSTART:20261223T233000Z
+DTEND:20261224T030000Z
+DTSTAMP:20261223T233000Z
+UID:X6Wbj2HwLM
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261221T233000Z
+DTEND:20261222T030000Z
+DTSTAMP:20261221T233000Z
+UID:6HOQE6N04u
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261222T233000Z
+DTEND:20261223T030000Z
+DTSTAMP:20261222T233000Z
+UID:7OZ61rWBCN
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261226T231500Z
+DTEND:20261227T024500Z
+DTSTAMP:20261226T231500Z
+UID:5BSeu7P23q
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261226T203000Z
+DTEND:20261226T223000Z
+DTSTAMP:20261226T203000Z
+UID:mGxEBxmwfj
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261227T033000Z
+DTEND:20261227T053000Z
+DTSTAMP:20261227T033000Z
+UID:RtkTcgjNlo
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261227T231500Z
+DTEND:20261228T024500Z
+DTSTAMP:20261227T231500Z
+UID:rb4glA0dhR
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261227T203000Z
+DTEND:20261227T223000Z
+DTSTAMP:20261227T203000Z
+UID:5CvfRXjQME
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261228T033000Z
+DTEND:20261228T053000Z
+DTSTAMP:20261228T033000Z
+UID:WEvv0QAqM3
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261225T203000Z
+DTEND:20261225T223000Z
+DTSTAMP:20261225T203000Z
+UID:ybGL9M8T31
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261226T033000Z
+DTEND:20261226T053000Z
+DTSTAMP:20261226T033000Z
+UID:B30WnET7g9
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261225T231500Z
+DTEND:20261226T024500Z
+DTSTAMP:20261225T231500Z
+UID:6EgADjHtQv
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261224T204500Z
+DTEND:20261225T001500Z
+DTSTAMP:20261224T204500Z
+UID:ExjpCZcKj7
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261228T231500Z
+DTEND:20261229T024500Z
+DTSTAMP:20261228T231500Z
+UID:nKkq2kys93
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261228T203000Z
+DTEND:20261228T223000Z
+DTSTAMP:20261228T203000Z
+UID:917CuUqPXq
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261229T033000Z
+DTEND:20261229T053000Z
+DTSTAMP:20261229T033000Z
+UID:WPN8c1rq3p
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261229T231500Z
+DTEND:20261230T024500Z
+DTSTAMP:20261229T231500Z
+UID:S28BMeKymx
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261229T203000Z
+DTEND:20261229T223000Z
+DTSTAMP:20261229T203000Z
+UID:mUdeMvwdSu
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261230T033000Z
+DTEND:20261230T053000Z
+DTSTAMP:20261230T033000Z
+UID:ebZ6Oq8oki
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werwulf
+DTSTART:20270101T021500Z
+DTEND:20270101T043000Z
+DTSTAMP:20270101T021500Z
+UID:W382Iih4pE
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
+  superstition becomes terrifyingly real when a ravenous creature begins to
+  stalk the countryside. While a local farmer struggles beneath the weight 
+ of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
+ ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
+ ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/werwulf\n\nEstimated start: 18:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261231T231500Z
+DTEND:20270101T011500Z
+DTSTAMP:20261231T231500Z
+UID:ZjseJeMScV
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261230T231500Z
+DTEND:20261231T024500Z
+DTSTAMP:20261230T231500Z
+UID:mW4oLi3mul
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261230T203000Z
+DTEND:20261230T223000Z
+DTSTAMP:20261230T203000Z
+UID:u3aHafJauo
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261231T033000Z
+DTEND:20261231T053000Z
+DTSTAMP:20261231T033000Z
+UID:9NddxwpPqX
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
