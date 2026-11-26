@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Film Center)
 X-WR-CALNAME:🎬 SIFF (Film Center)
-LAST-MODIFIED:20261125T162857Z
+LAST-MODIFIED:20261126T194239Z
 BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261202T010000Z
-DTEND:20261202T025500Z
-DTSTAMP:20261202T010000Z
-UID:NexaRW9a1A
+DTSTART:20261204T010000Z
+DTEND:20261204T025500Z
+DTSTAMP:20261204T010000Z
+UID:xAkUMrR4pN
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
@@ -19,15 +19,119 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261202T033000Z
-DTEND:20261202T052500Z
-DTSTAMP:20261202T033000Z
-UID:pZQPObL0b6
+DTSTART:20261204T033000Z
+DTEND:20261204T052500Z
+DTSTAMP:20261204T033000Z
+UID:9BawOES7mC
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
   goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
  w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the Road
+DTSTART:20261205T214500Z
+DTEND:20261205T233500Z
+DTSTAMP:20261205T214500Z
+UID:ZlEiguIo5e
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
+ de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
+ the past catch up with them at each truck stop--and danger closes in.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 14:
+ 00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the Road
+DTSTART:20261206T002000Z
+DTEND:20261206T021000Z
+DTSTAMP:20261206T002000Z
+UID:kXbX8Ac5Yn
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
+ de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
+ the past catch up with them at each truck stop--and danger closes in.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 16:
+ 35
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the Road
+DTSTART:20261206T030000Z
+DTEND:20261206T045000Z
+DTSTAMP:20261206T030000Z
+UID:n5ZB20iya7
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
+ de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
+ the past catch up with them at each truck stop--and danger closes in.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 19:
+ 15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261201T010000Z
+DTEND:20261201T025500Z
+DTSTAMP:20261201T010000Z
+UID:307HkZ7PJ5
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261201T033000Z
+DTEND:20261201T052500Z
+DTSTAMP:20261201T033000Z
+UID:o6PlNV1RU9
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261129T204500Z
+DTEND:20261129T224000Z
+DTSTAMP:20261129T204500Z
+UID:wQuWk49vSe
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 13:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261129T231500Z
+DTEND:20261130T011000Z
+DTSTAMP:20261129T231500Z
+UID:VDBoWNFPjJ
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 15:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261130T020000Z
+DTEND:20261130T035500Z
+DTSTAMP:20261130T020000Z
+UID:CZHSG3cmmu
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 18:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -62,70 +166,6 @@ DTSTART:20261129T033000Z
 DTEND:20261129T052500Z
 DTSTAMP:20261129T033000Z
 UID:IXSG2TALwN
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261204T010000Z
-DTEND:20261204T025500Z
-DTSTAMP:20261204T010000Z
-UID:xAkUMrR4pN
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261204T033000Z
-DTEND:20261204T052500Z
-DTSTAMP:20261204T033000Z
-UID:9BawOES7mC
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taste of Cherry (1997)
-DTSTART:20261126T030000Z
-DTEND:20261126T045500Z
-DTSTAMP:20261126T030000Z
-UID:LkEWyxvEgN
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
- he hilly outskirts of Tehran\, seeking someone who will bury him after he 
- commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
- ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261201T010000Z
-DTEND:20261201T025500Z
-DTSTAMP:20261201T010000Z
-UID:307HkZ7PJ5
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261201T033000Z
-DTEND:20261201T052500Z
-DTSTAMP:20261201T033000Z
-UID:o6PlNV1RU9
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
@@ -186,42 +226,58 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On the Road
-DTSTART:20261205T214500Z
-DTEND:20261205T233500Z
-DTSTAMP:20261205T214500Z
-UID:ZlEiguIo5e
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
- de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
- the past catch up with them at each truck stop--and danger closes in.\n\nh
- ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 14:
- 00
+SUMMARY:Hen
+DTSTART:20261202T010000Z
+DTEND:20261202T025500Z
+DTSTAMP:20261202T010000Z
+UID:NexaRW9a1A
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On the Road
-DTSTART:20261206T002000Z
-DTEND:20261206T021000Z
-DTSTAMP:20261206T002000Z
-UID:kXbX8Ac5Yn
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
- de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
- the past catch up with them at each truck stop--and danger closes in.\n\nh
- ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 16:
- 35
+SUMMARY:Hen
+DTSTART:20261202T033000Z
+DTEND:20261202T052500Z
+DTSTAMP:20261202T033000Z
+UID:pZQPObL0b6
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On the Road
-DTSTART:20261206T030000Z
-DTEND:20261206T045000Z
-DTSTAMP:20261206T030000Z
-UID:n5ZB20iya7
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
- de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
- the past catch up with them at each truck stop--and danger closes in.\n\nh
- ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 19:
- 15
+SUMMARY:Hen
+DTSTART:20261203T003000Z
+DTEND:20261203T022500Z
+DTSTAMP:20261203T003000Z
+UID:rtd3MAQuN5
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 16:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Musical
+DTSTART:20261203T030000Z
+DTEND:20261203T044000Z
+DTSTAMP:20261203T030000Z
+UID:R1CbrvV5yO
+DESCRIPTION:Duration: 84 mins (1h24m)\n\nWhen a frustrated playwright/midd
+ le school theater teacher finds out his ex-girlfriend has started dating h
+ is nemesis\, the school’s principal\, he exacts revenge the only way he 
+ knows how: by staging the most inappropriate play imaginable.Alumni of the
+  2019 edition of NFFTY\, filmmaker Giselle Bonilla will be in conversation
+  with NFFTY Program Manager Amy Williams following the film. Special youth
+  pricing (24 & younger) is available.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-musical-w/-director-qanda\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -276,74 +332,6 @@ DESCRIPTION:Duration: 145 mins (2h25m)\n\nPresented by Exploited Partisan
  orous tone\, directors Tomas Haglund and Oskar Sjödin paint a portrait o
  f a musical legacy that still packs a punch.\n\nhttps://www.siff.net/cinem
  a/in-theaters/jawbreaker-a-film-about-anti-cimex\n\nEstimated start: 19:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261129T204500Z
-DTEND:20261129T224000Z
-DTSTAMP:20261129T204500Z
-UID:wQuWk49vSe
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 13:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261129T231500Z
-DTEND:20261130T011000Z
-DTSTAMP:20261129T231500Z
-UID:VDBoWNFPjJ
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 15:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261130T020000Z
-DTEND:20261130T035500Z
-DTSTAMP:20261130T020000Z
-UID:CZHSG3cmmu
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 18:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261203T003000Z
-DTEND:20261203T022500Z
-DTSTAMP:20261203T003000Z
-UID:rtd3MAQuN5
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 16:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Musical
-DTSTART:20261203T030000Z
-DTEND:20261203T044000Z
-DTSTAMP:20261203T030000Z
-UID:R1CbrvV5yO
-DESCRIPTION:Duration: 84 mins (1h24m)\n\nWhen a frustrated playwright/midd
- le school theater teacher finds out his ex-girlfriend has started dating h
- is nemesis\, the school’s principal\, he exacts revenge the only way he 
- knows how: by staging the most inappropriate play imaginable.Alumni of the
-  2019 edition of NFFTY\, filmmaker Giselle Bonilla will be in conversation
-  with NFFTY Program Manager Amy Williams following the film. Special youth
-  pricing (24 & younger) is available.\n\nhttps://www.siff.net/cinema/in-th
- eaters/the-musical-w/-director-qanda\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 END:VCALENDAR

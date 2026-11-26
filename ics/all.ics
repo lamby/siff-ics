@@ -3,13 +3,148 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (all venues)
 X-WR-CALNAME:🎬 SIFF (all venues)
-LAST-MODIFIED:20261125T162857Z
+LAST-MODIFIED:20261126T194239Z
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261202T000000Z
-DTEND:20261202T021000Z
-DTSTAMP:20261202T000000Z
-UID:8shPsGbPP1
+DTSTART:20261203T233000Z
+DTEND:20261204T014000Z
+DTSTAMP:20261203T233000Z
+UID:buifWYOqWP
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261203T233000Z
+DTEND:20261204T024000Z
+DTSTAMP:20261203T233000Z
+UID:7nF7MeE9Om
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Tiger
+DTSTART:20261204T000000Z
+DTEND:20261204T021000Z
+DTSTAMP:20261204T000000Z
+UID:PnaDVfTGaK
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
+ tiger\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Tiger
+DTSTART:20261204T031500Z
+DTEND:20261204T052500Z
+DTSTAMP:20261204T031500Z
+UID:2iwRpNwxxL
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
+ tiger\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
+DTSTART:20261204T004000Z
+DTEND:20261204T025500Z
+DTSTAMP:20261204T004000Z
+UID:psOePj4yjA
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 16:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261204T010000Z
+DTEND:20261204T025500Z
+DTSTAMP:20261204T010000Z
+UID:xAkUMrR4pN
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261204T033000Z
+DTEND:20261204T052500Z
+DTSTAMP:20261204T033000Z
+UID:9BawOES7mC
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beavis and Butt-Head Do America (1996)
+DTSTART:20261204T030000Z
+DTEND:20261204T044000Z
+DTSTAMP:20261204T030000Z
+UID:VtN4Vm440u
+DESCRIPTION:Duration: 81 mins (1h21m)\n\nWaking to discover their beloved 
+ television set has been stolen\, dimwitted delinquents Beavis and Butt-Hea
+ d leave their squalid dwellings to embark on a couch potato road trip in t
+ he hopes to finally score.\n\nhttps://www.siff.net/programs-and-events/the
+ -open-road/beavis-and-butt-head-do-america\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261204T034500Z
+DTEND:20261204T060500Z
+DTSTAMP:20261204T034500Z
+UID:YvNcgAscKK
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261205T210000Z
+DTEND:20261205T231000Z
+DTSTAMP:20261205T210000Z
+UID:EQNA4BpHs8
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261206T000000Z
+DTEND:20261206T021000Z
+DTSTAMP:20261206T000000Z
+UID:vvdHrTY2Fy
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -20,10 +155,92 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261202T030000Z
-DTEND:20261202T051000Z
-DTSTAMP:20261202T030000Z
-UID:oHteHac7fv
+DTSTART:20261206T030000Z
+DTEND:20261206T051000Z
+DTSTAMP:20261206T030000Z
+UID:Q5hmOf6BFd
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the Road
+DTSTART:20261205T214500Z
+DTEND:20261205T233500Z
+DTSTAMP:20261205T214500Z
+UID:ZlEiguIo5e
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
+ de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
+ the past catch up with them at each truck stop--and danger closes in.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 14:
+ 00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the Road
+DTSTART:20261206T002000Z
+DTEND:20261206T021000Z
+DTSTAMP:20261206T002000Z
+UID:kXbX8Ac5Yn
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
+ de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
+ the past catch up with them at each truck stop--and danger closes in.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 16:
+ 35
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the Road
+DTSTART:20261206T030000Z
+DTEND:20261206T045000Z
+DTSTAMP:20261206T030000Z
+UID:n5ZB20iya7
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
+ de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
+ the past catch up with them at each truck stop--and danger closes in.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 19:
+ 15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261130T233000Z
+DTEND:20261201T024000Z
+DTSTAMP:20261130T233000Z
+UID:lPNPGRlHtH
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261201T000000Z
+DTEND:20261201T021000Z
+DTSTAMP:20261201T000000Z
+UID:qT2bn4bPj8
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261201T030000Z
+DTEND:20261201T051000Z
+DTSTAMP:20261201T030000Z
+UID:jcqE80MdFq
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -34,10 +251,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paper Tiger
-DTSTART:20261202T001500Z
-DTEND:20261202T022500Z
-DTSTAMP:20261202T001500Z
-UID:g1ySvbqasL
+DTSTART:20261201T001500Z
+DTEND:20261201T022500Z
+DTSTAMP:20261201T001500Z
+UID:HjfI6ntCZC
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
  d intense drama\, two brothers become entangled in a scheme that turns out
   to be too good to be true. As they try to navigate their way through the 
@@ -47,11 +264,49 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paper Tiger
+DTSTART:20261201T033000Z
+DTEND:20261201T054000Z
+DTSTAMP:20261201T033000Z
+UID:y1jUywDOPx
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
+ tiger\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261201T004000Z
+DTEND:20261201T030000Z
+DTSTAMP:20261201T004000Z
+UID:TuNBg9M1Og
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 16:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261201T034500Z
+DTEND:20261201T060500Z
+DTSTAMP:20261201T034500Z
+UID:V6O4ZekiUw
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261202T010000Z
-DTEND:20261202T025500Z
-DTSTAMP:20261202T010000Z
-UID:NexaRW9a1A
+DTSTART:20261201T010000Z
+DTEND:20261201T025500Z
+DTSTAMP:20261201T010000Z
+UID:307HkZ7PJ5
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
@@ -61,10 +316,10 @@ LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261202T033000Z
-DTEND:20261202T052500Z
-DTSTAMP:20261202T033000Z
-UID:pZQPObL0b6
+DTSTART:20261201T033000Z
+DTEND:20261201T052500Z
+DTSTAMP:20261201T033000Z
+UID:o6PlNV1RU9
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
@@ -73,19 +328,273 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Oldest Person in the World
-DTSTART:20261202T033000Z
-DTEND:20261202T051000Z
-DTSTAMP:20261202T033000Z
-UID:oi8v8qgZK8
-DESCRIPTION:Duration: 82 mins (1h22m)\n\nA decade-long global journey chro
- nicles the ever-changing record holders of the title of oldest person aliv
- e. What begins as a portrait of longevity becomes a meditation on the pass
- age of time\, the randomness of fate\, and the joy and profound human expe
- rience of being alive. Virtual Q&A with Director Sam Green\n\nhttps://www
- .siff.net/cinema/in-theaters/the-oldest-person-in-the-world\n\nEstimated s
- tart: 19:45
+SUMMARY:Wild Horse Nine
+DTSTART:20261201T031500Z
+DTEND:20261201T053000Z
+DTSTAMP:20261201T031500Z
+UID:0WYPvRmQBy
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261129T200000Z
+DTEND:20261129T221000Z
+DTSTAMP:20261129T200000Z
+UID:2uaXddpWxW
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 12:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261129T230000Z
+DTEND:20261130T011000Z
+DTSTAMP:20261129T230000Z
+UID:wYDq7g74ou
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 15:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261130T020000Z
+DTEND:20261130T041000Z
+DTSTAMP:20261130T020000Z
+UID:76aQ2F9WA1
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261129T202500Z
+DTEND:20261129T233500Z
+DTSTAMP:20261129T202500Z
+UID:xgfPRm68h7
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 12:40
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261130T023000Z
+DTEND:20261130T054000Z
+DTSTAMP:20261130T023000Z
+UID:SEApUpVJGH
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261129T204500Z
+DTEND:20261129T224000Z
+DTSTAMP:20261129T204500Z
+UID:wQuWk49vSe
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 13:00
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261129T231500Z
+DTEND:20261130T011000Z
+DTSTAMP:20261129T231500Z
+UID:VDBoWNFPjJ
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 15:30
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261130T020000Z
+DTEND:20261130T035500Z
+DTSTAMP:20261130T020000Z
+UID:CZHSG3cmmu
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 18:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Tiger
+DTSTART:20261129T210000Z
+DTEND:20261129T231000Z
+DTSTAMP:20261129T210000Z
+UID:bA7kWxmc7Y
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
+ tiger\n\nEstimated start: 13:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Tiger
+DTSTART:20261130T000000Z
+DTEND:20261130T021000Z
+DTSTAMP:20261130T000000Z
+UID:DaVQY2OLOd
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
+ tiger\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Tiger
+DTSTART:20261130T030000Z
+DTEND:20261130T051000Z
+DTSTAMP:20261130T030000Z
+UID:I8NVKsLpZ6
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
+ tiger\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261129T232500Z
+DTEND:20261130T014500Z
+DTSTAMP:20261129T232500Z
+UID:iutIKUL5Fl
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 15:40
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261130T031500Z
+DTEND:20261130T053500Z
+DTSTAMP:20261130T031500Z
+UID:RoiSceRZCO
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
+DTSTART:20261130T001500Z
+DTEND:20261130T023000Z
+DTSTAMP:20261130T001500Z
+UID:IIjvYwZVkg
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261128T204000Z
+DTEND:20261128T235000Z
+DTSTAMP:20261128T204000Z
+UID:2QUe5oOdRw
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 12:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261129T000000Z
+DTEND:20261129T031000Z
+DTSTAMP:20261129T000000Z
+UID:hbIewIJOxs
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261128T210000Z
+DTEND:20261128T232000Z
+DTSTAMP:20261128T210000Z
+UID:jphMBhXpVL
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 13:15
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261129T003000Z
+DTEND:20261129T025000Z
+DTSTAMP:20261129T003000Z
+UID:ihguk95yVE
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 16:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261129T034500Z
+DTEND:20261129T060500Z
+DTSTAMP:20261129T034500Z
+UID:1u4ooSGujp
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
@@ -211,64 +720,74 @@ DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
+DTSTART:20261129T033000Z
+DTEND:20261129T054500Z
+DTSTAMP:20261129T033000Z
+UID:Y8dJ2f9Nlx
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261127T204500Z
+DTEND:20261127T230500Z
+DTSTAMP:20261127T204500Z
+UID:n9HXc3gvs2
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261127T234500Z
+DTEND:20261128T020500Z
+DTSTAMP:20261127T234500Z
+UID:6fYCZywPpp
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261128T034500Z
+DTEND:20261128T060500Z
+DTSTAMP:20261128T034500Z
+UID:8DYGBNIAHJ
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261203T233000Z
-DTEND:20261204T014000Z
-DTSTAMP:20261203T233000Z
-UID:buifWYOqWP
+DTSTART:20261127T210000Z
+DTEND:20261127T231000Z
+DTSTAMP:20261127T210000Z
+UID:1xEtXAngaQ
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
   honesty\, wit\, and grace\, Charleson delivers a courageous performance t
  hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 15:45
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 13:15
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261204T010000Z
-DTEND:20261204T025500Z
-DTSTAMP:20261204T010000Z
-UID:xAkUMrR4pN
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261204T033000Z
-DTEND:20261204T052500Z
-DTSTAMP:20261204T033000Z
-UID:9BawOES7mC
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beavis and Butt-Head Do America (1996)
-DTSTART:20261204T030000Z
-DTEND:20261204T044000Z
-DTSTAMP:20261204T030000Z
-UID:VtN4Vm440u
-DESCRIPTION:Duration: 81 mins (1h21m)\n\nWaking to discover their beloved 
- television set has been stolen\, dimwitted delinquents Beavis and Butt-Hea
- d leave their squalid dwellings to embark on a couch potato road trip in t
- he hopes to finally score.\n\nhttps://www.siff.net/programs-and-events/the
- -open-road/beavis-and-butt-head-do-america\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261126T000000Z
-DTEND:20261126T021000Z
-DTSTAMP:20261126T000000Z
-UID:QWWKffCOUv
+DTSTART:20261128T000000Z
+DTEND:20261128T021000Z
+DTSTAMP:20261128T000000Z
+UID:a0WqQ7RRDc
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -279,10 +798,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261126T030000Z
-DTEND:20261126T051000Z
-DTSTAMP:20261126T030000Z
-UID:ZCJuB5VSfr
+DTSTART:20261128T030000Z
+DTEND:20261128T051000Z
+DTSTAMP:20261128T030000Z
+UID:m20iCHqGcf
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -292,24 +811,55 @@ DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261126T000000Z
-DTEND:20261126T021500Z
-DTSTAMP:20261126T000000Z
-UID:cqf3w8PvhY
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 16:15
+SUMMARY:You Can See Everything
+DTSTART:20261127T210000Z
+DTEND:20261128T001000Z
+DTSTAMP:20261127T210000Z
+UID:AAmVvsnJdD
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 13:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261128T024500Z
+DTEND:20261128T055500Z
+DTSTAMP:20261128T024500Z
+UID:Bww5ub7kTh
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paper Tiger
-DTSTART:20261126T001500Z
-DTEND:20261126T022500Z
-DTSTAMP:20261126T001500Z
-UID:dBPLysvtP4
+DTSTART:20261127T211500Z
+DTEND:20261127T232500Z
+DTSTAMP:20261127T211500Z
+UID:7gWWwJGHCS
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
+ tiger\n\nEstimated start: 13:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Tiger
+DTSTART:20261128T001500Z
+DTEND:20261128T022500Z
+DTSTAMP:20261128T001500Z
+UID:NCv6vNLMgZ
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
  d intense drama\, two brothers become entangled in a scheme that turns out
   to be too good to be true. As they try to navigate their way through the 
@@ -320,10 +870,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paper Tiger
-DTSTART:20261126T031500Z
-DTEND:20261126T052500Z
-DTSTAMP:20261126T031500Z
-UID:RPJByvFZZ2
+DTSTART:20261128T031500Z
+DTEND:20261128T052500Z
+DTSTAMP:20261128T031500Z
+UID:TVu7QDs6hw
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
  d intense drama\, two brothers become entangled in a scheme that turns out
   to be too good to be true. As they try to navigate their way through the 
@@ -333,62 +883,50 @@ DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART:20261126T003000Z
-DTEND:20261126T025000Z
-DTSTAMP:20261126T003000Z
-UID:dkC2OULCt3
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
- ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
- year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
- ers/club-kid\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART:20261126T033000Z
-DTEND:20261126T055000Z
-DTSTAMP:20261126T033000Z
-UID:f8q9ahBxRp
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
- ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
- year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
- ers/club-kid\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taste of Cherry (1997)
-DTSTART:20261126T030000Z
-DTEND:20261126T045500Z
-DTSTAMP:20261126T030000Z
-UID:LkEWyxvEgN
-DESCRIPTION:Duration: 99 mins (1h39m)\n\nA middle aged man drives around t
- he hilly outskirts of Tehran\, seeking someone who will bury him after he 
- commits suicide\, a taboo under Islamic law.\n\nhttps://www.siff.net/progr
- ams-and-events/the-open-road/taste-of-cherry\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261126T030000Z
-DTEND:20261126T061000Z
-DTSTAMP:20261126T030000Z
-UID:TT1fmJDAfF
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:15
+SUMMARY:Wild Horse Nine
+DTSTART:20261128T005000Z
+DTEND:20261128T030500Z
+DTSTAMP:20261128T005000Z
+UID:tYY0J9ROK7
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 17:05
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261128T010000Z
+DTEND:20261128T025500Z
+DTSTAMP:20261128T010000Z
+UID:RL8xakbaWY
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261128T033000Z
+DTEND:20261128T052500Z
+DTSTAMP:20261128T033000Z
+UID:ZYSLbu6ZD9
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261201T000000Z
-DTEND:20261201T021000Z
-DTSTAMP:20261201T000000Z
-UID:qT2bn4bPj8
+DTSTART:20261205T000000Z
+DTEND:20261205T021000Z
+DTSTAMP:20261205T000000Z
+UID:cFt3PTyCmY
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -399,10 +937,79 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261201T030000Z
-DTEND:20261201T051000Z
-DTSTAMP:20261201T030000Z
-UID:jcqE80MdFq
+DTSTART:20261205T030000Z
+DTEND:20261205T051000Z
+DTSTAMP:20261205T030000Z
+UID:Ca5077NcSf
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the Road
+DTSTART:20261205T005000Z
+DTEND:20261205T024000Z
+DTSTAMP:20261205T005000Z
+UID:lZjY4PiaQ3
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
+ de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
+ the past catch up with them at each truck stop--and danger closes in.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 17:
+ 05
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On the Road
+DTSTART:20261205T033000Z
+DTEND:20261205T052000Z
+DTSTAMP:20261205T033000Z
+UID:NY8gMeUJUI
+DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
+ de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
+ the past catch up with them at each truck stop--and danger closes in.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 19:
+ 45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261201T233000Z
+DTEND:20261202T024000Z
+DTSTAMP:20261201T233000Z
+UID:5L0qssbp83
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261202T000000Z
+DTEND:20261202T021000Z
+DTSTAMP:20261202T000000Z
+UID:8shPsGbPP1
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261202T030000Z
+DTEND:20261202T051000Z
+DTSTAMP:20261202T030000Z
+UID:oHteHac7fv
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
  tional true story of Ian Charleson\, a gifted actor whose greatest challen
  ge becomes his greatest triumph. Facing his own mortality with unflinching
@@ -413,10 +1020,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paper Tiger
-DTSTART:20261201T001500Z
-DTEND:20261201T022500Z
-DTSTAMP:20261201T001500Z
-UID:HjfI6ntCZC
+DTSTART:20261202T001500Z
+DTEND:20261202T022500Z
+DTSTAMP:20261202T001500Z
+UID:EUxcUHJtvd
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
  d intense drama\, two brothers become entangled in a scheme that turns out
   to be too good to be true. As they try to navigate their way through the 
@@ -427,10 +1034,145 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paper Tiger
-DTSTART:20261201T033000Z
-DTEND:20261201T054000Z
-DTSTAMP:20261201T033000Z
-UID:y1jUywDOPx
+DTSTART:20261202T031500Z
+DTEND:20261202T052500Z
+DTSTAMP:20261202T031500Z
+UID:s8YYdcjZMK
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
+ tiger\n\nEstimated start: 19:30
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
+DTSTART:20261202T004000Z
+DTEND:20261202T025500Z
+DTSTAMP:20261202T004000Z
+UID:CrohuoPaF9
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 16:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261202T010000Z
+DTEND:20261202T025500Z
+DTSTAMP:20261202T010000Z
+UID:NexaRW9a1A
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hen
+DTSTART:20261202T033000Z
+DTEND:20261202T052500Z
+DTSTAMP:20261202T033000Z
+UID:pZQPObL0b6
+DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
+ rumbling Greek taverna and bears witness to a human-smuggling operation. H
+ en proves motherhood looks the same across species. If you think this is a
+  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+LOCATION:SIFF Film Center\, 305 Harrison Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Oldest Person in the World
+DTSTART:20261202T033000Z
+DTEND:20261202T051000Z
+DTSTAMP:20261202T033000Z
+UID:oi8v8qgZK8
+DESCRIPTION:Duration: 82 mins (1h22m)\n\nA decade-long global journey chro
+ nicles the ever-changing record holders of the title of oldest person aliv
+ e. What begins as a portrait of longevity becomes a meditation on the pass
+ age of time\, the randomness of fate\, and the joy and profound human expe
+ rience of being alive. Virtual Q&A with Director Sam Green\n\nhttps://www
+ .siff.net/cinema/in-theaters/the-oldest-person-in-the-world\n\nEstimated s
+ tart: 19:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261202T034500Z
+DTEND:20261202T060500Z
+DTSTAMP:20261202T034500Z
+UID:WkkawB5DB8
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
+DTSTART:20261202T234500Z
+DTEND:20261203T020000Z
+DTSTAMP:20261202T234500Z
+UID:lCdEKGp4C1
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261203T000000Z
+DTEND:20261203T021000Z
+DTSTAMP:20261203T000000Z
+UID:gxniGD9PWb
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261203T030000Z
+DTEND:20261203T051000Z
+DTSTAMP:20261203T030000Z
+UID:NrP72Zts8C
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Tiger
+DTSTART:20261203T001500Z
+DTEND:20261203T022500Z
+DTSTAMP:20261203T001500Z
+UID:FfUgs3K7S0
+DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
+ d intense drama\, two brothers become entangled in a scheme that turns out
+  to be too good to be true. As they try to navigate their way through the 
+ dangerous world of the Russian mafia\, family bonds begin to fray with lif
+ e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
+ tiger\n\nEstimated start: 16:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paper Tiger
+DTSTART:20261203T033000Z
+DTEND:20261203T054000Z
+DTSTAMP:20261203T033000Z
+UID:vRKM61XWh3
 DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
  d intense drama\, two brothers become entangled in a scheme that turns out
   to be too good to be true. As they try to navigate their way through the 
@@ -441,28 +1183,70 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hen
-DTSTART:20261201T010000Z
-DTEND:20261201T025500Z
-DTSTAMP:20261201T010000Z
-UID:307HkZ7PJ5
+DTSTART:20261203T003000Z
+DTEND:20261203T022500Z
+DTSTAMP:20261203T003000Z
+UID:rtd3MAQuN5
 DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
  rumbling Greek taverna and bears witness to a human-smuggling operation. H
  en proves motherhood looks the same across species. If you think this is a
   goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
+ w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 16:45
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261201T033000Z
-DTEND:20261201T052500Z
-DTSTAMP:20261201T033000Z
-UID:o6PlNV1RU9
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
+SUMMARY:Club Kid
+DTSTART:20261203T004000Z
+DTEND:20261203T030000Z
+DTSTAMP:20261203T004000Z
+UID:MxNGtcSv76
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 16:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261203T034500Z
+DTEND:20261203T060500Z
+DTSTAMP:20261203T034500Z
+UID:NrrfYaAvma
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261203T024500Z
+DTEND:20261203T055500Z
+DTSTAMP:20261203T024500Z
+UID:orHePvXqYc
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Musical
+DTSTART:20261203T030000Z
+DTEND:20261203T044000Z
+DTSTAMP:20261203T030000Z
+UID:R1CbrvV5yO
+DESCRIPTION:Duration: 84 mins (1h24m)\n\nWhen a frustrated playwright/midd
+ le school theater teacher finds out his ex-girlfriend has started dating h
+ is nemesis\, the school’s principal\, he exacts revenge the only way he 
+ knows how: by staging the most inappropriate play imaginable.Alumni of the
+  2019 edition of NFFTY\, filmmaker Giselle Bonilla will be in conversation
+  with NFFTY Program Manager Amy Williams following the film. Special youth
+  pricing (24 & younger) is available.\n\nhttps://www.siff.net/cinema/in-th
+ eaters/the-musical-w/-director-qanda\n\nEstimated start: 19:15
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
@@ -630,405 +1414,6 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elsinore
-DTSTART:20261127T210000Z
-DTEND:20261127T231000Z
-DTSTAMP:20261127T210000Z
-UID:1xEtXAngaQ
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261128T000000Z
-DTEND:20261128T021000Z
-DTSTAMP:20261128T000000Z
-UID:a0WqQ7RRDc
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261128T030000Z
-DTEND:20261128T051000Z
-DTSTAMP:20261128T030000Z
-UID:m20iCHqGcf
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger
-DTSTART:20261127T211500Z
-DTEND:20261127T232500Z
-DTSTAMP:20261127T211500Z
-UID:7gWWwJGHCS
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
- tiger\n\nEstimated start: 13:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger
-DTSTART:20261128T001500Z
-DTEND:20261128T022500Z
-DTSTAMP:20261128T001500Z
-UID:NCv6vNLMgZ
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
- tiger\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger
-DTSTART:20261128T031500Z
-DTEND:20261128T052500Z
-DTSTAMP:20261128T031500Z
-UID:TVu7QDs6hw
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
- tiger\n\nEstimated start: 19:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261128T010000Z
-DTEND:20261128T025500Z
-DTSTAMP:20261128T010000Z
-UID:RL8xakbaWY
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 17:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261128T033000Z
-DTEND:20261128T052500Z
-DTSTAMP:20261128T033000Z
-UID:ZYSLbu6ZD9
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 19:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261205T000000Z
-DTEND:20261205T021000Z
-DTSTAMP:20261205T000000Z
-UID:cFt3PTyCmY
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261205T030000Z
-DTEND:20261205T051000Z
-DTSTAMP:20261205T030000Z
-UID:Ca5077NcSf
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On the Road
-DTSTART:20261205T005000Z
-DTEND:20261205T024000Z
-DTSTAMP:20261205T005000Z
-UID:lZjY4PiaQ3
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
- de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
- the past catch up with them at each truck stop--and danger closes in.\n\nh
- ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 17:
- 05
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On the Road
-DTSTART:20261205T033000Z
-DTEND:20261205T052000Z
-DTSTAMP:20261205T033000Z
-UID:NY8gMeUJUI
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
- de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
- the past catch up with them at each truck stop--and danger closes in.\n\nh
- ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 19:
- 45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261209T000000Z
-DTEND:20261209T021000Z
-DTSTAMP:20261209T000000Z
-UID:CKx28HmDyZ
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261209T030000Z
-DTEND:20261209T051000Z
-DTSTAMP:20261209T030000Z
-UID:2kb4tSSVcN
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261205T210000Z
-DTEND:20261205T231000Z
-DTSTAMP:20261205T210000Z
-UID:EQNA4BpHs8
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261206T000000Z
-DTEND:20261206T021000Z
-DTSTAMP:20261206T000000Z
-UID:vvdHrTY2Fy
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261206T030000Z
-DTEND:20261206T051000Z
-DTSTAMP:20261206T030000Z
-UID:Q5hmOf6BFd
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On the Road
-DTSTART:20261205T214500Z
-DTEND:20261205T233500Z
-DTSTAMP:20261205T214500Z
-UID:ZlEiguIo5e
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
- de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
- the past catch up with them at each truck stop--and danger closes in.\n\nh
- ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 14:
- 00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On the Road
-DTSTART:20261206T002000Z
-DTEND:20261206T021000Z
-DTSTAMP:20261206T002000Z
-UID:kXbX8Ac5Yn
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
- de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
- the past catch up with them at each truck stop--and danger closes in.\n\nh
- ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 16:
- 35
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On the Road
-DTSTART:20261206T030000Z
-DTEND:20261206T045000Z
-DTSTAMP:20261206T030000Z
-UID:n5ZB20iya7
-DESCRIPTION:Duration: 93 mins (1h33m)\n\nA rebellious drifter hitches a ri
- de with a lone trucker. As their intimacy deepens on the road\, ghosts of 
- the past catch up with them at each truck stop--and danger closes in.\n\nh
- ttps://www.siff.net/cinema/in-theaters/on-the-road\n\nEstimated start: 19:
- 15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261210T000000Z
-DTEND:20261210T021000Z
-DTSTAMP:20261210T000000Z
-UID:QXhOce48rA
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261210T030000Z
-DTEND:20261210T051000Z
-DTSTAMP:20261210T030000Z
-UID:rkoOI82CDf
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mountains on Stage - Winter Edition 2026
-DTSTART:20261210T030000Z
-DTEND:20261210T063000Z
-DTSTAMP:20261210T030000Z
-UID:MHcAUn82b8
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMountains on Stage is an interna
- tional mountain film festival showcasing a selection of inspiring adventur
- e\, climbing\, skiing\, mountaineering\, and outdoor films. Each screening
-  features several short and medium-length documentaries celebrating explor
- ation\, human achievement\, and the natural world.\n\nhttps://www.siff.net
- /cinema/in-theaters/mountains-on-stage-winter-edition-2026\n\nEstimated st
- art: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261208T000000Z
-DTEND:20261208T021000Z
-DTSTAMP:20261208T000000Z
-UID:wDMuDJmjK4
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261208T030000Z
-DTEND:20261208T051000Z
-DTSTAMP:20261208T030000Z
-UID:ggQyOSr0jI
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Damnation (1988)
-DTSTART:20261208T023000Z
-DTEND:20261208T044500Z
-DTSTAMP:20261208T023000Z
-UID:BD8AgxDk8B
-DESCRIPTION:Duration: 116 mins (1h56m)\n\nSIFF Movie Club4K restoration. A
-  mid-career masterwork by legendary Hungarian art house auteur Béla Tarr 
- and the first of his internationally acclaimed trilogy of films written in
-  collaboration with author László Krasznahorkai (including the legendary
-  Sátántangó).Intro by Cinema Worker Adam Plesser.\n\nhttps://www.siff.n
- et/programs-and-events/siff-movie-club/damnation\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Godfather (1972)
-DTSTART:20261212T020000Z
-DTEND:20261212T051000Z
-DTSTAMP:20261212T020000Z
-UID:9yGuHNdTxd
-DESCRIPTION:Duration: 175 mins (2h55m)\n\nThe Godfather Trilogy A chillin
- g portrait of the Corleone family's rise and near fall from power in Ameri
- ca along with balancing the story of the Sicilian clan's ugly crime busine
- ss in which they are engaged.\n\nhttps://www.siff.net/programs-and-events/
- the-godfather-trilogy/the-godfather\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261211T000000Z
-DTEND:20261211T021000Z
-DTSTAMP:20261211T000000Z
-UID:xX95Fe83Kd
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261211T030000Z
-DTEND:20261211T051000Z
-DTSTAMP:20261211T030000Z
-UID:IIQfX0JyJf
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
 DTSTART:20261206T210000Z
 DTEND:20261206T231000Z
 DTSTAMP:20261206T210000Z
@@ -1130,6 +1515,160 @@ DESCRIPTION:Duration: 127 mins (2h07m)\n\nSIFF Book ClubIt's time to get c
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261210T000000Z
+DTEND:20261210T021000Z
+DTSTAMP:20261210T000000Z
+UID:QXhOce48rA
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261210T030000Z
+DTEND:20261210T051000Z
+DTSTAMP:20261210T030000Z
+UID:rkoOI82CDf
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mountains on Stage - Winter Edition 2026
+DTSTART:20261210T030000Z
+DTEND:20261210T063000Z
+DTSTAMP:20261210T030000Z
+UID:MHcAUn82b8
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMountains on Stage is an interna
+ tional mountain film festival showcasing a selection of inspiring adventur
+ e\, climbing\, skiing\, mountaineering\, and outdoor films. Each screening
+  features several short and medium-length documentaries celebrating explor
+ ation\, human achievement\, and the natural world.\n\nhttps://www.siff.net
+ /cinema/in-theaters/mountains-on-stage-winter-edition-2026\n\nEstimated st
+ art: 19:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261209T000000Z
+DTEND:20261209T021000Z
+DTSTAMP:20261209T000000Z
+UID:CKx28HmDyZ
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261209T030000Z
+DTEND:20261209T051000Z
+DTSTAMP:20261209T030000Z
+UID:2kb4tSSVcN
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Godfather (1972)
+DTSTART:20261212T020000Z
+DTEND:20261212T051000Z
+DTSTAMP:20261212T020000Z
+UID:9yGuHNdTxd
+DESCRIPTION:Duration: 175 mins (2h55m)\n\nThe Godfather Trilogy A chillin
+ g portrait of the Corleone family's rise and near fall from power in Ameri
+ ca along with balancing the story of the Sicilian clan's ugly crime busine
+ ss in which they are engaged.\n\nhttps://www.siff.net/programs-and-events/
+ the-godfather-trilogy/the-godfather\n\nEstimated start: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261208T000000Z
+DTEND:20261208T021000Z
+DTSTAMP:20261208T000000Z
+UID:wDMuDJmjK4
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261208T030000Z
+DTEND:20261208T051000Z
+DTSTAMP:20261208T030000Z
+UID:ggQyOSr0jI
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Damnation (1988)
+DTSTART:20261208T023000Z
+DTEND:20261208T044500Z
+DTSTAMP:20261208T023000Z
+UID:BD8AgxDk8B
+DESCRIPTION:Duration: 116 mins (1h56m)\n\nSIFF Movie Club4K restoration. A
+  mid-career masterwork by legendary Hungarian art house auteur Béla Tarr 
+ and the first of his internationally acclaimed trilogy of films written in
+  collaboration with author László Krasznahorkai (including the legendary
+  Sátántangó).Intro by Cinema Worker Adam Plesser.\n\nhttps://www.siff.n
+ et/programs-and-events/siff-movie-club/damnation\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261211T000000Z
+DTEND:20261211T021000Z
+DTSTAMP:20261211T000000Z
+UID:xX95Fe83Kd
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elsinore
+DTSTART:20261211T030000Z
+DTEND:20261211T051000Z
+DTSTAMP:20261211T030000Z
+UID:IIQfX0JyJf
+DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
+ tional true story of Ian Charleson\, a gifted actor whose greatest challen
+ ge becomes his greatest triumph. Facing his own mortality with unflinching
+  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
+ hat becomes a source of healing and inspiration for those around him.\n\nh
+ ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Godfather (1972)
 DTSTART:20261212T190000Z
 DTEND:20261212T221000Z
@@ -1201,6 +1740,64 @@ DESCRIPTION:Duration: 200 mins (3h20m)\n\nThe Godfather TrilogyThe continu
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Muppet Christmas Carol (1992)
+DTSTART:20261215T023000Z
+DTEND:20261215T041500Z
+DTSTAMP:20261215T023000Z
+UID:oqm7fyiXCt
+DESCRIPTION:Duration: 89 mins (1h29m)\n\nSIFF Holiday Favorites Charles Di
+ ckens’ timeless tale of Ebenezer Scrooge (Michael Caine)\, his cold hear
+ t\, and how the Ghosts of Christmas Past\, Present\, and Future seek to sh
+ ow him the error of his ways comes to life through the magic of Jim Henson
+ ’s Muppets. Recently remastered\, including the original song "When Love
+  is Gone." Arrive 30 minutes early for an exciting Muppet pre-show special
+ ! All ages welcome ($5 tickets for children aged 2-12 years old\, free for
+  under 2).\n\nhttps://www.siff.net/programs-and-events/holiday-favorites/t
+ he-muppet-christmas-carol\n\nEstimated start: 18:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cameron Winter at Carnegie Hall
+DTSTART:20261216T020000Z
+DTEND:20261216T033000Z
+DTSTAMP:20261216T020000Z
+UID:1fgb232mrp
+DESCRIPTION:Duration: 72 mins (1h12m)\n\nCameron Winter\, in December 2025
+ \, after a months-long sold-out tour with his band Geese\, returned to New
+  York to play a single show at Carnegie Hall. This is the movie.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/cameron-winter-at-carnegie-hall\n\nEstim
+ ated start: 18:15
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cameron Winter at Carnegie Hall
+DTSTART:20261216T043000Z
+DTEND:20261216T060000Z
+DTSTAMP:20261216T043000Z
+UID:Z8o6IyveFh
+DESCRIPTION:Duration: 72 mins (1h12m)\n\nCameron Winter\, in December 2025
+ \, after a months-long sold-out tour with his band Geese\, returned to New
+  York to play a single show at Carnegie Hall. This is the movie.\n\nhttps:
+ //www.siff.net/cinema/in-theaters/cameron-winter-at-carnegie-hall\n\nEstim
+ ated start: 20:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Godfather Coda: The Death of Michael Corleone (1990)
+DTSTART:20261216T020000Z
+DTEND:20261216T045500Z
+DTSTAMP:20261216T020000Z
+UID:Nw2KlSujJ2
+DESCRIPTION:Duration: 158 mins (2h38m)\n\nThe Godfather Trilogy Director/
+ screenwriter Francis Ford Coppola's definitive new edit and restoration of
+  The Godfather Part III\, with remastered picture and sound. Michael Corle
+ one (Al Pacino) seeks to free his family from crime and find a suitable su
+ ccessor to his empire.\n\nhttps://www.siff.net/programs-and-events/the-god
+ father-trilogy/the-godfather-coda-the-death-of-michael-corleone\n\nEstimat
+ ed start: 18:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Singin’ In the Rain (1952)
 DTSTART:20261213T190000Z
 DTEND:20261213T210000Z
@@ -1256,146 +1853,6 @@ DESCRIPTION:Duration: 145 mins (2h25m)\n\nPresented by Exploited Partisan
 LOCATION:SIFF Film Center\, 305 Harrison Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Muppet Christmas Carol (1992)
-DTSTART:20261215T023000Z
-DTEND:20261215T041500Z
-DTSTAMP:20261215T023000Z
-UID:oqm7fyiXCt
-DESCRIPTION:Duration: 89 mins (1h29m)\n\nSIFF Holiday Favorites Charles Di
- ckens’ timeless tale of Ebenezer Scrooge (Michael Caine)\, his cold hear
- t\, and how the Ghosts of Christmas Past\, Present\, and Future seek to sh
- ow him the error of his ways comes to life through the magic of Jim Henson
- ’s Muppets. Recently remastered\, including the original song "When Love
-  is Gone." Arrive 30 minutes early for an exciting Muppet pre-show special
- ! All ages welcome ($5 tickets for children aged 2-12 years old\, free for
-  under 2).\n\nhttps://www.siff.net/programs-and-events/holiday-favorites/t
- he-muppet-christmas-carol\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261129T200000Z
-DTEND:20261129T221000Z
-DTSTAMP:20261129T200000Z
-UID:2uaXddpWxW
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 12:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261129T230000Z
-DTEND:20261130T011000Z
-DTSTAMP:20261129T230000Z
-UID:wYDq7g74ou
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 15:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261130T020000Z
-DTEND:20261130T041000Z
-DTSTAMP:20261130T020000Z
-UID:76aQ2F9WA1
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261129T204500Z
-DTEND:20261129T224000Z
-DTSTAMP:20261129T204500Z
-UID:wQuWk49vSe
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 13:00
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261129T231500Z
-DTEND:20261130T011000Z
-DTSTAMP:20261129T231500Z
-UID:VDBoWNFPjJ
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 15:30
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261130T020000Z
-DTEND:20261130T035500Z
-DTSTAMP:20261130T020000Z
-UID:CZHSG3cmmu
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 18:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger
-DTSTART:20261129T210000Z
-DTEND:20261129T231000Z
-DTSTAMP:20261129T210000Z
-UID:bA7kWxmc7Y
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
- tiger\n\nEstimated start: 13:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger
-DTSTART:20261130T000000Z
-DTEND:20261130T021000Z
-DTSTAMP:20261130T000000Z
-UID:DaVQY2OLOd
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
- tiger\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger
-DTSTART:20261130T030000Z
-DTEND:20261130T051000Z
-DTSTAMP:20261130T030000Z
-UID:I8NVKsLpZ6
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
- tiger\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cameron Winter at Carnegie Hall
 DTSTART:20261217T020000Z
 DTEND:20261217T033000Z
@@ -1419,181 +1876,6 @@ DESCRIPTION:Duration: 72 mins (1h12m)\n\nCameron Winter\, in December 2025
   York to play a single show at Carnegie Hall. This is the movie.\n\nhttps:
  //www.siff.net/cinema/in-theaters/cameron-winter-at-carnegie-hall\n\nEstim
  ated start: 20:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cameron Winter at Carnegie Hall
-DTSTART:20261216T020000Z
-DTEND:20261216T033000Z
-DTSTAMP:20261216T020000Z
-UID:1fgb232mrp
-DESCRIPTION:Duration: 72 mins (1h12m)\n\nCameron Winter\, in December 2025
- \, after a months-long sold-out tour with his band Geese\, returned to New
-  York to play a single show at Carnegie Hall. This is the movie.\n\nhttps:
- //www.siff.net/cinema/in-theaters/cameron-winter-at-carnegie-hall\n\nEstim
- ated start: 18:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cameron Winter at Carnegie Hall
-DTSTART:20261216T043000Z
-DTEND:20261216T060000Z
-DTSTAMP:20261216T043000Z
-UID:Z8o6IyveFh
-DESCRIPTION:Duration: 72 mins (1h12m)\n\nCameron Winter\, in December 2025
- \, after a months-long sold-out tour with his band Geese\, returned to New
-  York to play a single show at Carnegie Hall. This is the movie.\n\nhttps:
- //www.siff.net/cinema/in-theaters/cameron-winter-at-carnegie-hall\n\nEstim
- ated start: 20:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Godfather Coda: The Death of Michael Corleone (1990)
-DTSTART:20261216T020000Z
-DTEND:20261216T045500Z
-DTSTAMP:20261216T020000Z
-UID:Nw2KlSujJ2
-DESCRIPTION:Duration: 158 mins (2h38m)\n\nThe Godfather Trilogy Director/
- screenwriter Francis Ford Coppola's definitive new edit and restoration of
-  The Godfather Part III\, with remastered picture and sound. Michael Corle
- one (Al Pacino) seeks to free his family from crime and find a suitable su
- ccessor to his empire.\n\nhttps://www.siff.net/programs-and-events/the-god
- father-trilogy/the-godfather-coda-the-death-of-michael-corleone\n\nEstimat
- ed start: 18:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261203T000000Z
-DTEND:20261203T021000Z
-DTSTAMP:20261203T000000Z
-UID:gxniGD9PWb
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 16:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore
-DTSTART:20261203T030000Z
-DTEND:20261203T051000Z
-DTSTAMP:20261203T030000Z
-UID:NrP72Zts8C
-DESCRIPTION:Duration: 111 mins (1h51m)\n\nThe deeply emotional and inspira
- tional true story of Ian Charleson\, a gifted actor whose greatest challen
- ge becomes his greatest triumph. Facing his own mortality with unflinching
-  honesty\, wit\, and grace\, Charleson delivers a courageous performance t
- hat becomes a source of healing and inspiration for those around him.\n\nh
- ttps://www.siff.net/cinema/in-theaters/elsinore\n\nEstimated start: 19:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger
-DTSTART:20261203T001500Z
-DTEND:20261203T022500Z
-DTSTAMP:20261203T001500Z
-UID:FfUgs3K7S0
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
- tiger\n\nEstimated start: 16:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger
-DTSTART:20261203T033000Z
-DTEND:20261203T054000Z
-DTSTAMP:20261203T033000Z
-UID:vRKM61XWh3
-DESCRIPTION:Duration: 114 mins (1h54m)\n\nIn James Gray’s deeply felt an
- d intense drama\, two brothers become entangled in a scheme that turns out
-  to be too good to be true. As they try to navigate their way through the 
- dangerous world of the Russian mafia\, family bonds begin to fray with lif
- e-altering consequences.\n\nhttps://www.siff.net/cinema/in-theaters/paper-
- tiger\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hen
-DTSTART:20261203T003000Z
-DTEND:20261203T022500Z
-DTSTAMP:20261203T003000Z
-UID:rtd3MAQuN5
-DESCRIPTION:Duration: 96 mins (1h36m)\n\nA runaway hen finds refuge in a c
- rumbling Greek taverna and bears witness to a human-smuggling operation. H
- en proves motherhood looks the same across species. If you think this is a
-  goofy movie about a chicken\, you couldn’t be more wrong.\n\nhttps://ww
- w.siff.net/cinema/in-theaters/hen\n\nEstimated start: 16:45
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Musical
-DTSTART:20261203T030000Z
-DTEND:20261203T044000Z
-DTSTAMP:20261203T030000Z
-UID:R1CbrvV5yO
-DESCRIPTION:Duration: 84 mins (1h24m)\n\nWhen a frustrated playwright/midd
- le school theater teacher finds out his ex-girlfriend has started dating h
- is nemesis\, the school’s principal\, he exacts revenge the only way he 
- knows how: by staging the most inappropriate play imaginable.Alumni of the
-  2019 edition of NFFTY\, filmmaker Giselle Bonilla will be in conversation
-  with NFFTY Program Manager Amy Williams following the film. Special youth
-  pricing (24 & younger) is available.\n\nhttps://www.siff.net/cinema/in-th
- eaters/the-musical-w/-director-qanda\n\nEstimated start: 19:15
-LOCATION:SIFF Film Center\, 305 Harrison Street
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261217T234500Z
-DTEND:20261218T023000Z
-DTSTAMP:20261217T234500Z
-UID:BovFAJKGQm
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261218T033000Z
-DTEND:20261218T061500Z
-DTSTAMP:20261218T033000Z
-UID:YaMtIkje2Q
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden
-DTSTART:20261218T024500Z
-DTEND:20261218T061500Z
-DTSTAMP:20261218T024500Z
-UID:66GfwVMtFo
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
-  a nursing home in the Paris suburbs\, defies convention by adopting the 
- ‘Humanitude’ method despite her team’s resistance. Her encounter wit
- h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
- fe. Together\, they turn the facility into a symbol of resistance and huma
- nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 19:00
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -1868,6 +2150,119 @@ DESCRIPTION:Duration: 93 mins (1h33m)\n\nPresented by Blue Egg Films and P
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261217T234500Z
+DTEND:20261218T023000Z
+DTSTAMP:20261217T234500Z
+UID:BovFAJKGQm
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261218T033000Z
+DTEND:20261218T061500Z
+DTSTAMP:20261218T033000Z
+UID:YaMtIkje2Q
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261218T024500Z
+DTEND:20261218T061500Z
+DTSTAMP:20261218T024500Z
+UID:66GfwVMtFo
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261222T233000Z
+DTEND:20261223T030000Z
+DTSTAMP:20261222T233000Z
+UID:7OZ61rWBCN
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261223T024500Z
+DTEND:20261223T061500Z
+DTSTAMP:20261223T024500Z
+UID:pFvEs8ytnP
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261222T234500Z
+DTEND:20261223T023000Z
+DTSTAMP:20261222T234500Z
+UID:8anqf8erbo
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261223T033000Z
+DTEND:20261223T061500Z
+DTSTAMP:20261223T033000Z
+UID:PAiiqMSGuy
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:All of a Sudden
 DTSTART:20261221T233000Z
 DTEND:20261222T030000Z
@@ -1933,10 +2328,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All of a Sudden
-DTSTART:20261222T233000Z
-DTEND:20261223T030000Z
-DTSTAMP:20261222T233000Z
-UID:7OZ61rWBCN
+DTSTART:20261223T233000Z
+DTEND:20261224T030000Z
+DTSTAMP:20261223T233000Z
+UID:X6Wbj2HwLM
 DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
   a nursing home in the Paris suburbs\, defies convention by adopting the 
  ‘Humanitude’ method despite her team’s resistance. Her encounter wit
@@ -1948,10 +2343,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All of a Sudden
-DTSTART:20261223T024500Z
-DTEND:20261223T061500Z
-DTSTAMP:20261223T024500Z
-UID:pFvEs8ytnP
+DTSTART:20261224T024500Z
+DTEND:20261224T061500Z
+DTSTAMP:20261224T024500Z
+UID:5qaiYkrWoB
 DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
   a nursing home in the Paris suburbs\, defies convention by adopting the 
  ‘Humanitude’ method despite her team’s resistance. Her encounter wit
@@ -1963,10 +2358,10 @@ LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261222T234500Z
-DTEND:20261223T023000Z
-DTSTAMP:20261222T234500Z
-UID:8anqf8erbo
+DTSTART:20261223T234500Z
+DTEND:20261224T023000Z
+DTSTAMP:20261223T234500Z
+UID:JDAuFwFM97
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -1980,10 +2375,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261223T033000Z
-DTEND:20261223T061500Z
-DTSTAMP:20261223T033000Z
-UID:PAiiqMSGuy
+DTSTART:20261224T033000Z
+DTEND:20261224T061500Z
+DTSTAMP:20261224T033000Z
+UID:YZMS6i2Bwx
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -2057,70 +2452,6 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  heart of its unfolding mystery. As enemies close in\, Paul must confront t
  he true cost of power and the fate of those he loves the most.\n\nhttps://
  www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 17:15
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden
-DTSTART:20261223T233000Z
-DTEND:20261224T030000Z
-DTSTAMP:20261223T233000Z
-UID:X6Wbj2HwLM
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
-  a nursing home in the Paris suburbs\, defies convention by adopting the 
- ‘Humanitude’ method despite her team’s resistance. Her encounter wit
- h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
- fe. Together\, they turn the facility into a symbol of resistance and huma
- nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 15:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden
-DTSTART:20261224T024500Z
-DTEND:20261224T061500Z
-DTSTAMP:20261224T024500Z
-UID:5qaiYkrWoB
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
-  a nursing home in the Paris suburbs\, defies convention by adopting the 
- ‘Humanitude’ method despite her team’s resistance. Her encounter wit
- h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
- fe. Together\, they turn the facility into a symbol of resistance and huma
- nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 19:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261223T234500Z
-DTEND:20261224T023000Z
-DTSTAMP:20261223T234500Z
-UID:JDAuFwFM97
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261224T033000Z
-DTEND:20261224T061500Z
-DTSTAMP:20261224T033000Z
-UID:YZMS6i2Bwx
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
@@ -2455,6 +2786,349 @@ DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261229T201500Z
+DTEND:20261229T234500Z
+DTSTAMP:20261229T201500Z
+UID:vFwWpM8Qla
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 12:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261229T231500Z
+DTEND:20261230T024500Z
+DTSTAMP:20261229T231500Z
+UID:S28BMeKymx
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261230T024500Z
+DTEND:20261230T061500Z
+DTSTAMP:20261230T024500Z
+UID:YDKBcWcmCL
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261229T203000Z
+DTEND:20261229T223000Z
+DTSTAMP:20261229T203000Z
+UID:mUdeMvwdSu
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261229T235000Z
+DTEND:20261230T015000Z
+DTSTAMP:20261229T235000Z
+UID:l22dlk9fS0
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 16:05
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261230T033000Z
+DTEND:20261230T053000Z
+DTSTAMP:20261230T033000Z
+UID:ebZ6Oq8oki
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werwulf
+DTSTART:20261229T204500Z
+DTEND:20261229T230000Z
+DTSTAMP:20261229T204500Z
+UID:otehtpfiXn
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
+  superstition becomes terrifyingly real when a ravenous creature begins to
+  stalk the countryside. While a local farmer struggles beneath the weight 
+ of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
+ ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
+ ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/werwulf\n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werwulf
+DTSTART:20261230T003500Z
+DTEND:20261230T025000Z
+DTSTAMP:20261230T003500Z
+UID:VJCPbf87Km
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
+  superstition becomes terrifyingly real when a ravenous creature begins to
+  stalk the countryside. While a local farmer struggles beneath the weight 
+ of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
+ ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
+ ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/werwulf\n\nEstimated start: 16:50
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werwulf
+DTSTART:20261230T034500Z
+DTEND:20261230T060000Z
+DTSTAMP:20261230T034500Z
+UID:qlyfxstSqf
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
+  superstition becomes terrifyingly real when a ravenous creature begins to
+  stalk the countryside. While a local farmer struggles beneath the weight 
+ of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
+ ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
+ ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/werwulf\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261229T234500Z
+DTEND:20261230T023000Z
+DTSTAMP:20261229T234500Z
+UID:XSnyqxrBpy
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261230T033000Z
+DTEND:20261230T061500Z
+DTSTAMP:20261230T033000Z
+UID:r3nSdQabPU
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261226T200000Z
+DTEND:20261226T224500Z
+DTSTAMP:20261226T200000Z
+UID:gG1pj82NPg
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 12:15
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261226T234500Z
+DTEND:20261227T023000Z
+DTSTAMP:20261226T234500Z
+UID:UE7ouLdDQI
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Three
+DTSTART:20261227T033000Z
+DTEND:20261227T061500Z
+DTSTAMP:20261227T033000Z
+UID:ChYEdX5N5i
+DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
+ wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
+ ess Emperor\, Paul must face the consequences of his reign as old allies r
+ eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
+ . Haunted by visions of Imperial collapse and the reappearance of his long
+ -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
+ heart of its unfolding mystery. As enemies close in\, Paul must confront t
+ he true cost of power and the fate of those he loves the most.\n\nhttps://
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261226T201500Z
+DTEND:20261226T234500Z
+DTSTAMP:20261226T201500Z
+UID:cVYh23mVNH
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 12:30
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261226T231500Z
+DTEND:20261227T024500Z
+DTSTAMP:20261226T231500Z
+UID:5BSeu7P23q
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:30
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
+DTSTART:20261227T024500Z
+DTEND:20261227T061500Z
+DTSTAMP:20261227T024500Z
+UID:3UyD1wI3KC
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 19:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261226T203000Z
+DTEND:20261226T223000Z
+DTSTAMP:20261226T203000Z
+UID:mGxEBxmwfj
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 12:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261226T235000Z
+DTEND:20261227T015000Z
+DTSTAMP:20261226T235000Z
+UID:1rc3i0RM6k
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 16:05
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Debut
+DTSTART:20261227T033000Z
+DTEND:20261227T053000Z
+DTSTAMP:20261227T033000Z
+UID:RtkTcgjNlo
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werwulf
+DTSTART:20261226T204500Z
+DTEND:20261226T230000Z
+DTSTAMP:20261226T204500Z
+UID:AZ3h7pZoyl
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
+  superstition becomes terrifyingly real when a ravenous creature begins to
+  stalk the countryside. While a local farmer struggles beneath the weight 
+ of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
+ ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
+ ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/werwulf\n\nEstimated start: 13:00
+LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werwulf
+DTSTART:20261227T003500Z
+DTEND:20261227T025000Z
+DTSTAMP:20261227T003500Z
+UID:CyIHVBERkV
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
+  superstition becomes terrifyingly real when a ravenous creature begins to
+  stalk the countryside. While a local farmer struggles beneath the weight 
+ of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
+ ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
+ ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/werwulf\n\nEstimated start: 16:50
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werwulf
+DTSTART:20261227T034500Z
+DTEND:20261227T060000Z
+DTSTAMP:20261227T034500Z
+UID:ZDVHsgnp52
+DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
+  superstition becomes terrifyingly real when a ravenous creature begins to
+  stalk the countryside. While a local farmer struggles beneath the weight 
+ of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
+ ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
+ ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
+ ma/in-theaters/werwulf\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Werwulf
 DTSTART:20261228T003500Z
 DTEND:20261228T025000Z
@@ -2649,10 +3323,10 @@ LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261226T200000Z
-DTEND:20261226T224500Z
-DTSTAMP:20261226T200000Z
-UID:gG1pj82NPg
+DTSTART:20261231T203000Z
+DTEND:20261231T231500Z
+DTSTAMP:20261231T203000Z
+UID:4pHa10hPP3
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -2661,15 +3335,15 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
  heart of its unfolding mystery. As enemies close in\, Paul must confront t
  he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 12:15
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 12:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Three
-DTSTART:20261226T234500Z
-DTEND:20261227T023000Z
-DTSTAMP:20261226T234500Z
-UID:UE7ouLdDQI
+DTSTART:20270101T003000Z
+DTEND:20270101T031500Z
+DTSTAMP:20270101T003000Z
+UID:qbs7mDyAkI
 DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
  ess Emperor\, Paul must face the consequences of his reign as old allies r
@@ -2678,317 +3352,93 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
  heart of its unfolding mystery. As enemies close in\, Paul must confront t
  he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261227T033000Z
-DTEND:20261227T061500Z
-DTSTAMP:20261227T033000Z
-UID:ChYEdX5N5i
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
+ www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All of a Sudden
-DTSTART:20261226T201500Z
-DTEND:20261226T234500Z
-DTSTAMP:20261226T201500Z
-UID:cVYh23mVNH
+DTSTART:20261231T220000Z
+DTEND:20270101T013000Z
+DTSTAMP:20261231T220000Z
+UID:vvtXBrQr2c
 DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
   a nursing home in the Paris suburbs\, defies convention by adopting the 
  ‘Humanitude’ method despite her team’s resistance. Her encounter wit
  h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
  fe. Together\, they turn the facility into a symbol of resistance and huma
  nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 12:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden
-DTSTART:20261226T231500Z
-DTEND:20261227T024500Z
-DTSTAMP:20261226T231500Z
-UID:5BSeu7P23q
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
-  a nursing home in the Paris suburbs\, defies convention by adopting the 
- ‘Humanitude’ method despite her team’s resistance. Her encounter wit
- h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
- fe. Together\, they turn the facility into a symbol of resistance and huma
- nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 15:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden
-DTSTART:20261227T024500Z
-DTEND:20261227T061500Z
-DTSTAMP:20261227T024500Z
-UID:3UyD1wI3KC
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
-  a nursing home in the Paris suburbs\, defies convention by adopting the 
- ‘Humanitude’ method despite her team’s resistance. Her encounter wit
- h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
- fe. Together\, they turn the facility into a symbol of resistance and huma
- nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 19:00
+ ters/all-of-a-sudden\n\nEstimated start: 14:15
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Debut
-DTSTART:20261226T203000Z
-DTEND:20261226T223000Z
-DTSTAMP:20261226T203000Z
-UID:mGxEBxmwfj
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
- orld comedy\, Julianne Moore flings herself with delicious abandon into th
- e role of a middle-aged New Jersey housewife who gets a part in a local st
- age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
- /in-theaters/the-debut\n\nEstimated start: 12:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Debut
-DTSTART:20261226T235000Z
-DTEND:20261227T015000Z
-DTSTAMP:20261226T235000Z
-UID:1rc3i0RM6k
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
- orld comedy\, Julianne Moore flings herself with delicious abandon into th
- e role of a middle-aged New Jersey housewife who gets a part in a local st
- age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
- /in-theaters/the-debut\n\nEstimated start: 16:05
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Debut
-DTSTART:20261227T033000Z
-DTEND:20261227T053000Z
-DTSTAMP:20261227T033000Z
-UID:RtkTcgjNlo
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
- orld comedy\, Julianne Moore flings herself with delicious abandon into th
- e role of a middle-aged New Jersey housewife who gets a part in a local st
- age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
- /in-theaters/the-debut\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werwulf
-DTSTART:20261226T204500Z
-DTEND:20261226T230000Z
-DTSTAMP:20261226T204500Z
-UID:AZ3h7pZoyl
+DTSTART:20261231T223000Z
+DTEND:20270101T004500Z
+DTSTAMP:20261231T223000Z
+UID:7Hv21iIKWi
 DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
   superstition becomes terrifyingly real when a ravenous creature begins to
   stalk the countryside. While a local farmer struggles beneath the weight 
  of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
  ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
  ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
- ma/in-theaters/werwulf\n\nEstimated start: 13:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
+ ma/in-theaters/werwulf\n\nEstimated start: 14:45
+LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werwulf
-DTSTART:20261227T003500Z
-DTEND:20261227T025000Z
-DTSTAMP:20261227T003500Z
-UID:CyIHVBERkV
+DTSTART:20270101T021500Z
+DTEND:20270101T043000Z
+DTSTAMP:20270101T021500Z
+UID:W382Iih4pE
 DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
   superstition becomes terrifyingly real when a ravenous creature begins to
   stalk the countryside. While a local farmer struggles beneath the weight 
  of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
  ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
  ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
- ma/in-theaters/werwulf\n\nEstimated start: 16:50
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werwulf
-DTSTART:20261227T034500Z
-DTEND:20261227T060000Z
-DTSTAMP:20261227T034500Z
-UID:ZDVHsgnp52
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
-  superstition becomes terrifyingly real when a ravenous creature begins to
-  stalk the countryside. While a local farmer struggles beneath the weight 
- of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
- ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
- ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
- ma/in-theaters/werwulf\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden
-DTSTART:20261229T201500Z
-DTEND:20261229T234500Z
-DTSTAMP:20261229T201500Z
-UID:vFwWpM8Qla
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
-  a nursing home in the Paris suburbs\, defies convention by adopting the 
- ‘Humanitude’ method despite her team’s resistance. Her encounter wit
- h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
- fe. Together\, they turn the facility into a symbol of resistance and huma
- nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 12:30
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden
-DTSTART:20261229T231500Z
-DTEND:20261230T024500Z
-DTSTAMP:20261229T231500Z
-UID:S28BMeKymx
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
-  a nursing home in the Paris suburbs\, defies convention by adopting the 
- ‘Humanitude’ method despite her team’s resistance. Her encounter wit
- h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
- fe. Together\, they turn the facility into a symbol of resistance and huma
- nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 15:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden
-DTSTART:20261230T024500Z
-DTEND:20261230T061500Z
-DTSTAMP:20261230T024500Z
-UID:YDKBcWcmCL
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
-  a nursing home in the Paris suburbs\, defies convention by adopting the 
- ‘Humanitude’ method despite her team’s resistance. Her encounter wit
- h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
- fe. Together\, they turn the facility into a symbol of resistance and huma
- nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 19:00
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Debut
-DTSTART:20261229T203000Z
-DTEND:20261229T223000Z
-DTSTAMP:20261229T203000Z
-UID:mUdeMvwdSu
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
- orld comedy\, Julianne Moore flings herself with delicious abandon into th
- e role of a middle-aged New Jersey housewife who gets a part in a local st
- age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
- /in-theaters/the-debut\n\nEstimated start: 12:45
+ ma/in-theaters/werwulf\n\nEstimated start: 18:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Debut
-DTSTART:20261229T235000Z
-DTEND:20261230T015000Z
-DTSTAMP:20261229T235000Z
-UID:l22dlk9fS0
+DTSTART:20261231T231500Z
+DTEND:20270101T011500Z
+DTSTAMP:20261231T231500Z
+UID:ZjseJeMScV
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
  orld comedy\, Julianne Moore flings herself with delicious abandon into th
  e role of a middle-aged New Jersey housewife who gets a part in a local st
  age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
- /in-theaters/the-debut\n\nEstimated start: 16:05
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Debut
-DTSTART:20261230T033000Z
-DTEND:20261230T053000Z
-DTSTAMP:20261230T033000Z
-UID:ebZ6Oq8oki
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
- orld comedy\, Julianne Moore flings herself with delicious abandon into th
- e role of a middle-aged New Jersey housewife who gets a part in a local st
- age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
- /in-theaters/the-debut\n\nEstimated start: 19:45
+ /in-theaters/the-debut\n\nEstimated start: 15:30
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werwulf
-DTSTART:20261229T204500Z
-DTEND:20261229T230000Z
-DTSTAMP:20261229T204500Z
-UID:otehtpfiXn
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
-  superstition becomes terrifyingly real when a ravenous creature begins to
-  stalk the countryside. While a local farmer struggles beneath the weight 
- of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
- ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
- ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
- ma/in-theaters/werwulf\n\nEstimated start: 13:00
+SUMMARY:The Debut
+DTSTART:20270101T023000Z
+DTEND:20270101T043000Z
+DTSTAMP:20270101T023000Z
+UID:QYpkFX2Ja9
+DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
+ orld comedy\, Julianne Moore flings herself with delicious abandon into th
+ e role of a middle-aged New Jersey housewife who gets a part in a local st
+ age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
+ /in-theaters/the-debut\n\nEstimated start: 18:45
 LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werwulf
-DTSTART:20261230T003500Z
-DTEND:20261230T025000Z
-DTSTAMP:20261230T003500Z
-UID:VJCPbf87Km
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
-  superstition becomes terrifyingly real when a ravenous creature begins to
-  stalk the countryside. While a local farmer struggles beneath the weight 
- of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
- ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
- ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
- ma/in-theaters/werwulf\n\nEstimated start: 16:50
+SUMMARY:Moulin Rouge!  (2001)
+DTSTART:20270101T020000Z
+DTEND:20270101T042500Z
+DTSTAMP:20270101T020000Z
+UID:D4esmlSPHd
+DESCRIPTION:Duration: 127 mins (2h07m)\n\nSIFF Holiday Favorites Sing in t
+ he new year with Baz Luhrmann's musical spectacular—complete with free b
+ ling rings. The show ends in time to head over to the Space Needle and ca
+ tch the New Year's fireworks while shouting "Rooooooxannnne!" at the sky.
+ \n\nhttps://www.siff.net/programs-and-events/holiday-favorites/moulin-roug
+ e-new-years-eve-sing-along\n\nEstimated start: 18:15
 LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werwulf
-DTSTART:20261230T034500Z
-DTEND:20261230T060000Z
-DTSTAMP:20261230T034500Z
-UID:qlyfxstSqf
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
-  superstition becomes terrifyingly real when a ravenous creature begins to
-  stalk the countryside. While a local farmer struggles beneath the weight 
- of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
- ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
- ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
- ma/in-theaters/werwulf\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261229T234500Z
-DTEND:20261230T023000Z
-DTSTAMP:20261229T234500Z
-UID:XSnyqxrBpy
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261230T033000Z
-DTEND:20261230T061500Z
-DTSTAMP:20261230T033000Z
-UID:r3nSdQabPU
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All of a Sudden
@@ -3152,125 +3602,6 @@ DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
  he true cost of power and the fate of those he loves the most.\n\nhttps://
  www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 19:45
 LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20261231T203000Z
-DTEND:20261231T231500Z
-DTSTAMP:20261231T203000Z
-UID:4pHa10hPP3
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 12:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Three
-DTSTART:20270101T003000Z
-DTEND:20270101T031500Z
-DTSTAMP:20270101T003000Z
-UID:qbs7mDyAkI
-DESCRIPTION:Duration: 150 mins (2h30m)\n\nDune: Part Three is set nearly t
- wo decades after Paul Atreides seized control of the Imperium. Now a ruthl
- ess Emperor\, Paul must face the consequences of his reign as old allies r
- eturn\, terrifying new threats emerge\, and betrayal lurks in every shadow
- . Haunted by visions of Imperial collapse and the reappearance of his long
- -lost love\, Paul is drawn into a sweeping conspiracy\, with Chani at the 
- heart of its unfolding mystery. As enemies close in\, Paul must confront t
- he true cost of power and the fate of those he loves the most.\n\nhttps://
- www.siff.net/cinema/in-theaters/dune-part-three\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Downtown\, 2100 4th Avenue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden
-DTSTART:20261231T220000Z
-DTEND:20270101T013000Z
-DTSTAMP:20261231T220000Z
-UID:vvtXBrQr2c
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
-  a nursing home in the Paris suburbs\, defies convention by adopting the 
- ‘Humanitude’ method despite her team’s resistance. Her encounter wit
- h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
- fe. Together\, they turn the facility into a symbol of resistance and huma
- nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 14:15
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werwulf
-DTSTART:20261231T223000Z
-DTEND:20270101T004500Z
-DTSTAMP:20261231T223000Z
-UID:7Hv21iIKWi
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
-  superstition becomes terrifyingly real when a ravenous creature begins to
-  stalk the countryside. While a local farmer struggles beneath the weight 
- of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
- ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
- ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
- ma/in-theaters/werwulf\n\nEstimated start: 14:45
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werwulf
-DTSTART:20270101T021500Z
-DTEND:20270101T043000Z
-DTSTAMP:20270101T021500Z
-UID:W382Iih4pE
-DESCRIPTION:Duration: 120 mins (2h00m)\n\nIn a small rural village\, local
-  superstition becomes terrifyingly real when a ravenous creature begins to
-  stalk the countryside. While a local farmer struggles beneath the weight 
- of a werewolf curse\, a ruthless hunter begins a campaign to eradicate wol
- ves. A harrowing tale of devotion\, damnation and the devil within. Ticke
- ts on sale Tuesday\, November 24\, at 5:00am.\n\nhttps://www.siff.net/cine
- ma/in-theaters/werwulf\n\nEstimated start: 18:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Debut
-DTSTART:20261231T231500Z
-DTEND:20270101T011500Z
-DTSTAMP:20261231T231500Z
-UID:ZjseJeMScV
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
- orld comedy\, Julianne Moore flings herself with delicious abandon into th
- e role of a middle-aged New Jersey housewife who gets a part in a local st
- age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
- /in-theaters/the-debut\n\nEstimated start: 15:30
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Debut
-DTSTART:20270101T023000Z
-DTEND:20270101T043000Z
-DTSTAMP:20270101T023000Z
-UID:QYpkFX2Ja9
-DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
- orld comedy\, Julianne Moore flings herself with delicious abandon into th
- e role of a middle-aged New Jersey housewife who gets a part in a local st
- age musical despite having zero experience.\n\nhttps://www.siff.net/cinema
- /in-theaters/the-debut\n\nEstimated start: 18:45
-LOCATION:SIFF Cinema Uptown House 3\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moulin Rouge!  (2001)
-DTSTART:20270101T020000Z
-DTEND:20270101T042500Z
-DTSTAMP:20270101T020000Z
-UID:D4esmlSPHd
-DESCRIPTION:Duration: 127 mins (2h07m)\n\nSIFF Holiday Favorites Sing in t
- he new year with Baz Luhrmann's musical spectacular—complete with free b
- ling rings. The show ends in time to head over to the Space Needle and ca
- tch the New Year's fireworks while shouting "Rooooooxannnne!" at the sky.
- \n\nhttps://www.siff.net/programs-and-events/holiday-favorites/moulin-roug
- e-new-years-eve-sing-along\n\nEstimated start: 18:15
-LOCATION:SIFF Cinema Uptown House 1\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20\,000 Species of Bees (2023)
