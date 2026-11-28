@@ -3,30 +3,56 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 SIFF (Uptown House 2)
 X-WR-CALNAME:🎬 SIFF (Uptown House 2)
-LAST-MODIFIED:20261127T182321Z
+LAST-MODIFIED:20261128T151153Z
 BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261204T004000Z
-DTEND:20261204T025500Z
-DTSTAMP:20261204T004000Z
-UID:psOePj4yjA
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 16:55
+SUMMARY:Club Kid
+DTSTART:20261203T004000Z
+DTEND:20261203T030000Z
+DTSTAMP:20261203T004000Z
+UID:MxNGtcSv76
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 16:55
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club Kid
-DTSTART:20261204T034500Z
-DTEND:20261204T060500Z
-DTSTAMP:20261204T034500Z
-UID:YvNcgAscKK
+DTSTART:20261203T034500Z
+DTEND:20261203T060500Z
+DTSTAMP:20261203T034500Z
+UID:NrrfYaAvma
 DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
  ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
  year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
  ers/club-kid\n\nEstimated start: 20:00
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything
+DTSTART:20261128T204000Z
+DTEND:20261128T235000Z
+DTSTAMP:20261128T204000Z
+UID:2QUe5oOdRw
+DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
+ sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
+  a skeptical film crew to document her every move. What begins as an intim
+ ate portrait of an enigmatic felon becomes a mind-bending three-year journ
+ ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
+ e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
+ n-theaters/you-can-see-everything\n\nEstimated start: 12:55
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid
+DTSTART:20261129T003000Z
+DTEND:20261129T025000Z
+DTSTAMP:20261129T003000Z
+UID:ihguk95yVE
+DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
+ ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
+ year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
+ ers/club-kid\n\nEstimated start: 16:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -54,23 +80,24 @@ DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART:20261203T004000Z
-DTEND:20261203T030000Z
-DTSTAMP:20261203T004000Z
-UID:MxNGtcSv76
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
- ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
- year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
- ers/club-kid\n\nEstimated start: 16:55
+SUMMARY:Wild Horse Nine
+DTSTART:20261204T004000Z
+DTEND:20261204T025500Z
+DTSTAMP:20261204T004000Z
+UID:psOePj4yjA
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 16:55
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club Kid
-DTSTART:20261203T034500Z
-DTEND:20261203T060500Z
-DTSTAMP:20261203T034500Z
-UID:NrrfYaAvma
+DTSTART:20261204T034500Z
+DTEND:20261204T060500Z
+DTSTAMP:20261204T034500Z
+UID:YvNcgAscKK
 DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
  ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
  year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
@@ -106,6 +133,19 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wild Horse Nine
+DTSTART:20261129T033000Z
+DTEND:20261129T054500Z
+DTSTAMP:20261129T033000Z
+UID:Y8dJ2f9Nlx
+DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
+ nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
+ an existential crisis over his past actions\, in Martin McDonagh’s lates
+ t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
+ \n\nEstimated start: 19:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Horse Nine
 DTSTART:20261202T004000Z
 DTEND:20261202T025500Z
 DTSTAMP:20261202T004000Z
@@ -127,85 +167,6 @@ DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
  ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
  year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
  ers/club-kid\n\nEstimated start: 20:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261128T204000Z
-DTEND:20261128T235000Z
-DTSTAMP:20261128T204000Z
-UID:2QUe5oOdRw
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 12:55
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART:20261129T003000Z
-DTEND:20261129T025000Z
-DTSTAMP:20261129T003000Z
-UID:ihguk95yVE
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
- ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
- year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
- ers/club-kid\n\nEstimated start: 16:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART:20261129T033000Z
-DTEND:20261129T054500Z
-DTSTAMP:20261129T033000Z
-UID:Y8dJ2f9Nlx
-DESCRIPTION:Duration: 118 mins (1h58m)\n\nTwo CIA agents (John Malkovich a
- nd Sam Rockwell) are sent on a mission to Easter Island\, where one faces 
- an existential crisis over his past actions\, in Martin McDonagh’s lates
- t dark comedy.\n\nhttps://www.siff.net/cinema/in-theaters/wild-horse-nine
- \n\nEstimated start: 19:45
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART:20261127T204500Z
-DTEND:20261127T230500Z
-DTSTAMP:20261127T204500Z
-UID:n9HXc3gvs2
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
- ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
- year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
- ers/club-kid\n\nEstimated start: 13:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART:20261127T234500Z
-DTEND:20261128T020500Z
-DTSTAMP:20261127T234500Z
-UID:6fYCZywPpp
-DESCRIPTION:Duration: 121 mins (2h01m)\n\nA hard-partying New York City cl
- ub promoter sees his whirlwind lifestyle upended by the arrival of the 10-
- year-old son he never knew he had.\n\nhttps://www.siff.net/cinema/in-theat
- ers/club-kid\n\nEstimated start: 16:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART:20261128T024500Z
-DTEND:20261128T055500Z
-DTSTAMP:20261128T024500Z
-UID:Bww5ub7kTh
-DESCRIPTION:Duration: 174 mins (2h54m)\n\nThirty-four days before she’s 
- sent to prison\, notorious Silicon Valley founder Elizabeth Holmes invites
-  a skeptical film crew to document her every move. What begins as an intim
- ate portrait of an enigmatic felon becomes a mind-bending three-year journ
- ey into the abyss. From boundary-pushing directors Nathan Fielder and Lanc
- e Oppenheim comes You Can See Everything.\n\nhttps://www.siff.net/cinema/i
- n-theaters/you-can-see-everything\n\nEstimated start: 19:00
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -270,6 +231,21 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All of a Sudden
+DTSTART:20261221T233000Z
+DTEND:20261222T030000Z
+DTSTAMP:20261221T233000Z
+UID:6HOQE6N04u
+DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
+  a nursing home in the Paris suburbs\, defies convention by adopting the 
+ ‘Humanitude’ method despite her team’s resistance. Her encounter wit
+ h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
+ fe. Together\, they turn the facility into a symbol of resistance and huma
+ nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
+ ters/all-of-a-sudden\n\nEstimated start: 15:45
+LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of a Sudden
 DTSTART:20261222T233000Z
 DTEND:20261223T030000Z
 DTSTAMP:20261222T233000Z
@@ -285,10 +261,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All of a Sudden
-DTSTART:20261221T233000Z
-DTEND:20261222T030000Z
-DTSTAMP:20261221T233000Z
-UID:6HOQE6N04u
+DTSTART:20261223T233000Z
+DTEND:20261224T030000Z
+DTSTAMP:20261223T233000Z
+UID:X6Wbj2HwLM
 DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
   a nursing home in the Paris suburbs\, defies convention by adopting the 
  ‘Humanitude’ method despite her team’s resistance. Her encounter wit
@@ -311,21 +287,6 @@ DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
  fe. Together\, they turn the facility into a symbol of resistance and huma
  nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
  ters/all-of-a-sudden\n\nEstimated start: 13:00
-LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden
-DTSTART:20261223T233000Z
-DTEND:20261224T030000Z
-DTSTAMP:20261223T233000Z
-UID:X6Wbj2HwLM
-DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
-  a nursing home in the Paris suburbs\, defies convention by adopting the 
- ‘Humanitude’ method despite her team’s resistance. Her encounter wit
- h Mari Morisaki\, a terminally ill Japanese playwright\, transforms her li
- fe. Together\, they turn the facility into a symbol of resistance and huma
- nity against the system’s limits.\n\nhttps://www.siff.net/cinema/in-thea
- ters/all-of-a-sudden\n\nEstimated start: 15:45
 LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
@@ -371,10 +332,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All of a Sudden
-DTSTART:20261227T231500Z
-DTEND:20261228T024500Z
-DTSTAMP:20261227T231500Z
-UID:rb4glA0dhR
+DTSTART:20261228T231500Z
+DTEND:20261229T024500Z
+DTSTAMP:20261228T231500Z
+UID:nKkq2kys93
 DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
   a nursing home in the Paris suburbs\, defies convention by adopting the 
  ‘Humanitude’ method despite her team’s resistance. Her encounter wit
@@ -386,10 +347,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Debut
-DTSTART:20261227T203000Z
-DTEND:20261227T223000Z
-DTSTAMP:20261227T203000Z
-UID:5CvfRXjQME
+DTSTART:20261228T203000Z
+DTEND:20261228T223000Z
+DTSTAMP:20261228T203000Z
+UID:917CuUqPXq
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
  orld comedy\, Julianne Moore flings herself with delicious abandon into th
  e role of a middle-aged New Jersey housewife who gets a part in a local st
@@ -399,10 +360,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Debut
-DTSTART:20261228T033000Z
-DTEND:20261228T053000Z
-DTSTAMP:20261228T033000Z
-UID:WEvv0QAqM3
+DTSTART:20261229T033000Z
+DTEND:20261229T053000Z
+DTSTAMP:20261229T033000Z
+UID:WPN8c1rq3p
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
  orld comedy\, Julianne Moore flings herself with delicious abandon into th
  e role of a middle-aged New Jersey housewife who gets a part in a local st
@@ -453,10 +414,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All of a Sudden
-DTSTART:20261228T231500Z
-DTEND:20261229T024500Z
-DTSTAMP:20261228T231500Z
-UID:nKkq2kys93
+DTSTART:20261227T231500Z
+DTEND:20261228T024500Z
+DTSTAMP:20261227T231500Z
+UID:rb4glA0dhR
 DESCRIPTION:Duration: 195 mins (3h15m)\n\nMarie-Lou Fontaine\, director of
   a nursing home in the Paris suburbs\, defies convention by adopting the 
  ‘Humanitude’ method despite her team’s resistance. Her encounter wit
@@ -468,10 +429,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Debut
-DTSTART:20261228T203000Z
-DTEND:20261228T223000Z
-DTSTAMP:20261228T203000Z
-UID:917CuUqPXq
+DTSTART:20261227T203000Z
+DTEND:20261227T223000Z
+DTSTAMP:20261227T203000Z
+UID:5CvfRXjQME
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
  orld comedy\, Julianne Moore flings herself with delicious abandon into th
  e role of a middle-aged New Jersey housewife who gets a part in a local st
@@ -481,10 +442,10 @@ LOCATION:SIFF Cinema Uptown House 2\, 511 Queen Anne Avenue North
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Debut
-DTSTART:20261229T033000Z
-DTEND:20261229T053000Z
-DTSTAMP:20261229T033000Z
-UID:WPN8c1rq3p
+DTSTART:20261228T033000Z
+DTEND:20261228T053000Z
+DTSTAMP:20261228T033000Z
+UID:WEvv0QAqM3
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nIn Jesse Eisenberg’s theater-w
  orld comedy\, Julianne Moore flings herself with delicious abandon into th
  e role of a middle-aged New Jersey housewife who gets a part in a local st
